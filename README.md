@@ -1,4 +1,4 @@
-Rig Samhita Player: A Vedic Learning Companion
+
 || ॐ श्री गुरुभ्यो नम:, हरि: ॐ || || ಓಂ ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ , ಹರಿಃ ಓಂ ||
 
 The Rig Samhita Player is a purpose-built study environment designed to support students engaged in the sincere, structured, and guided study of the Rig Veda under the direction of a Guru.
