@@ -23,7 +23,12 @@ This tool is not a replacement for a Guru; it is a digital extension of the trad
 2. **Load Mandala Data:** Place your Mandala ZIP files in the same folder.
 3. **Launch:** Open the HTML file in your browser and click "Load ZIP".
 4. **Practice:** Engage in focused listening (Śravaṇa) and guided recitation (Paṭhana).
+## ⬇️ Download Resources
+All Mandalas and Player files are available in the **[Releases Page](https://github.com/ravindraputhuraya/Rig-samhita-player/releases)**.
 
+1. Go to the **Assets** section of the latest release.
+2. Download the Player: `RSP_V4_A_P.html` and `jszip.min.js`.
+3. Download the specific Mandala you are studying (e.g., `M1_R2.zip`).
 ### ⚠️ Important Disclaimer
 - **Not a Teaching Tool:** It does not teach chanting or correct pronunciation.
 - **Guru Guidance Required:** Users must seek instruction from a qualified teacher.
