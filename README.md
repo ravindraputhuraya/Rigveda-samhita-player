@@ -29,6 +29,9 @@ All Mandalas and Player files are available in the **[Releases Page](https://git
 1. Go to the **Assets** section of the latest release.
 2. Download the Player: `RSP_V4_A_P.html` and `jszip.min.js`.
 3. Download the specific Mandala you are studying (e.g., `M1_R2.zip`).
+
+📱 Note for iPad Users: If you face difficulty opening the player on your iPad, please refer to the HELP_FOR_IPAD_USERS.pdf file in the folder above for a simple solution.
+
 ### ⚠️ Important Disclaimer
 - **Not a Teaching Tool:** It does not teach chanting or correct pronunciation.
 - **Guru Guidance Required:** Users must seek instruction from a qualified teacher.
