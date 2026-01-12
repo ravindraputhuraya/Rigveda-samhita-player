@@ -25,7 +25,7 @@ This tool is not a replacement for a Guru; it is a digital extension of the trad
 4. **Practice:** Engage in focused listening (Śravaṇa) and guided recitation (Paṭhana).
 ## ⬇️ Download Resources
 All Mandalas and Player files are available in the **[Releases Page](https://github.com/ravindraputhuraya/Rig-samhita-player/releases)**.
-
+Pada Source also added in Pada Source.zip.
 1. Go to the **Assets** section of the latest release.
 2. Download the Player: `RSP_V4_A_P.html` and `jszip.min.js`.
 3. Download the specific Mandala you are studying (e.g., `M1_R2.zip`).
