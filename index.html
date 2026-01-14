@@ -3,55 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rigveda Samhita Player - Study Portal</title>
+    <title>Rigveda Samhita Player - Portal</title>
     <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 40px 20px;
-            background-color: #f4f7f9; text-align: center;
-        }
-        .header { margin-bottom: 40px; }
-        h1 { color: #2c3e50; margin-bottom: 10px; }
-        .sanskrit { font-size: 1.4em; color: #e67e22; font-weight: bold; margin-bottom: 20px; }
-        .card-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 30px; }
-        .card {
-            background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-            transition: transform 0.2s; text-decoration: none; color: inherit; display: block; border: 1px solid #e1e8ed;
-        }
-        .card:hover { transform: translateY(-5px); box-shadow: 0 6px 20px rgba(0,0,0,0.12); border-color: #2980b9; }
+        body { font-family: -apple-system, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 40px 20px; background-color: #f4f7f9; text-align: center; }
+        .sanskrit { font-size: 1.5em; color: #e67e22; font-weight: bold; margin-bottom: 10px; }
+        h1 { margin-bottom: 30px; }
+        .card-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); text-decoration: none; color: inherit; border: 2px solid transparent; transition: 0.3s; }
+        .card:hover { transform: translateY(-5px); border-color: #2980b9; }
         .card h2 { color: #2980b9; margin-top: 0; }
-        .card p { font-size: 0.95em; color: #666; }
-        .footer { margin-top: 50px; font-size: 0.9em; color: #888; border-top: 1px solid #ddd; padding-top: 20px; }
-        .btn-github { display: inline-block; margin-top: 20px; padding: 10px 20px; background: #24292e; color: white; text-decoration: none; border-radius: 5px; }
+        .badge { background: #e67e22; color: white; padding: 3px 10px; border-radius: 20px; font-size: 0.8em; vertical-align: middle; }
+        .kannada-text { display: block; font-size: 0.9em; color: #555; margin-top: 10px; font-weight: bold; }
     </style>
 </head>
 <body>
 
-    <div class="header">
-        <div class="sanskrit"> || ॐ श्री गुरुभ्यो नम:, हरि: ॐ || | </div>
-        <h1>Rigveda Samhita Player</h1>
-        <p>A specialized digital environment for Vedic Adhyayana.</p>
-    </div>
+    <div class="sanskrit">|| ॐ श्री गुरुभ्यो नम:, हरि: ॐ ||</div>
+    <h1>Rigveda Samhita Digital Study Portal</h1>
 
     <div class="card-container">
+        <a href="RSP_V6_A_ONLINE_P.html" class="card">
+            <h2>Online Player <span class="badge">New V6</span></h2>
+            <p>Access audio and text directly from the cloud. No initial downloads required.</p>
+            <span class="kannada-text">ನೇರವಾಗಿ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಬಳಸಲು ಇದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</span>
+            <br><strong>Launch Online &rarr;</strong>
+        </a>
+
         <a href="RSP_V4_A_P.html" class="card">
             <h2>Standard Player (V4)</h2>
-            <p>Full study environment with audio-text sync, Vakya looping, and integrated notes.</p>
-            <strong style="color: #2980b9;">Launch Player &rarr;</strong>
+            <p>Best for offline use. Requires downloading Mandala ZIP files from the repository.</p>
+            <span class="kannada-text">ಆಫ್‌ಲೈನ್ ಬಳಕೆಗಾಗಿ ಇದನ್ನು ಬಳಸಿ (ZIP ಫೈಲ್‌ಗಳು ಬೇಕಾಗುತ್ತವೆ).</span>
+            <br><strong>Launch Offline &rarr;</strong>
         </a>
 
         <a href="RSP_1Rig.html" class="card">
             <h2>Mantra Reader</h2>
-            <p>Simplified view focused on one Mantra at a time. Ideal for quick reading and reference.</p>
-            <strong style="color: #2980b9;">Open Reader &rarr;</strong>
+            <p>Focused view for reading individual Mantras and their meanings.</p>
+            <span class="kannada-text">ಮಂತ್ರ ಪಠಣ ಮತ್ತು ಅರ್ಥ ಓದಲು ಸುಲಭವಾದ ಪ್ಲೇಯರ್.</span>
+            <br><strong>Open Reader &rarr;</strong>
         </a>
     </div>
 
-    <div class="footer">
-        <p>Created by Ravindra Puthuraya</p>
-        <p>Dedicated to the preservation of Rigveda Samhita</p>
-        <a href="https://github.com/ravindraputhuraya/Rigveda-samhita-player" class="btn-github">View Repository</a>
-    </div>
+    <footer style="margin-top: 50px; color: #888;">
+        <p>Created by Ravindra Puthuraya | Honoring the Guru-Shishya Parampara</p>
+    </footer>
 
 </body>
 </html>
