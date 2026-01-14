@@ -29,7 +29,7 @@ Pada Source also added in Pada Source.zip.
 1. Go to the **Assets** section of the latest release.
 2. Download the Player: `RSP_V4_A_P.html` and `jszip.min.js`from code area
 3. Download the specific Mandala you are studying (e.g., `M1_R2_V1.zip`).
-4. Download the Ebook Reader: `RSP_1Rig.html` from the code area (View/Play one Mantra ant a time)
+4. Download the Ebook Reader: `RSP_1Rig.html` from the code area (View/Play one Mantra at a time)
 
 📱 Note for iPad Users: If you face difficulty opening the player on your iPad, please refer to the HELP_FOR_IPAD_USERS.pdf file in the folder above for a simple solution.
 
