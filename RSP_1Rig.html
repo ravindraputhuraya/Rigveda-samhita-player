@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>Rigveda Viewer</title>
+    
+    <!-- JSZip Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    
+    <style>
+        /* ========== GLOBAL RESET ========== */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+        
+        html, body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            background-color: #1a1a1a;
+        }
+        
+        /* ========== FONTS ========== */
+        @font-face { font-family: 'Devanagari'; src: url('assets/AdishilaVedic.ttf'); }
+        @font-face { font-family: 'Noto Sans Kannada'; src: url('assets/NotoSansKannada.ttf'); }
+
+        /* ========== NAVIGATION BAR ========== */
+        .nav-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: linear-gradient(135deg, #1e1e2e 0%, #2a2a3e 100%);
+            border-bottom: 3px solid #4a90e2;
+            z-index: 1000;
+            padding: 5px 5px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        .nav-row {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .nav-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .nav-label {
+            font-size: 14px;
+            font-weight: 600;
+            color: #5de9b3;
+            white-space: nowrap;
+        }
+
+        .nav-input {
+            width: 50px;
+            height: 30px;
+            text-align: center;
+            font-size: 16px;
+            font-weight: bold;
+            border: 2px solid #3dd851;
+            border-radius: 6px;
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            outline: none;
+            transition: all 0.2s;
+        }
+
+        .nav-input:focus {
+            border-color: #4a90e2;
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .nav-btn {
+            width: 30px;
+            height: 30px;
+            border-radius: 6px;
+            border: none;
+            background: #4a90e2;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+
+        .nav-btn:hover {
+            background: #3a80d2;
+            transform: scale(1.05);
+        }
+
+        .nav-btn:active {
+            transform: scale(0.95);
+        }
+
+        .view-select {
+            height: 30px;
+            padding: 0 5px;
+            font-size: 14px;
+            font-weight: 600;
+            border: 2px solid #49d17d;
+            border-radius: 6px;
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            cursor: pointer;
+            max-width: 200px;
+        }
+
+        .view-select option {
+            background: #2a2a3e;
+            color: white;
+        }
+
+       
+        .zip-label {
+            display: inline-flex;
+            align-items: center;
+            height: 30px;
+            padding: 0 5px;
+            background: #2196F3;
+            color: white;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .zip-label:hover {
+            background: #1976D2;
+        }
+
+        .zip-input {
+            display: none;
+        }
+
+        /* ========== NUMPAD POPUP ========== */
+        .numpad-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 2000;
+            display: none;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .numpad-overlay.active {
+            display: flex;
+        }
+
+        .numpad-container {
+            background: #2a2a3e;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+            border: 2px solid #4a90e2;
+        }
+
+        .numpad-title {
+            text-align: center;
+            color: #4a90e2;
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .numpad-display {
+            width: 200px;
+            height: 50px;
+            background: rgba(0, 0, 0, 0.3);
+            border: 2px solid #444;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            font-weight: bold;
+            color: white;
+        }
+
+        .numpad-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .numpad-key {
+            width: 60px;
+            height: 60px;
+            border: none;
+            border-radius: 8px;
+            background: #4a90e2;
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.1s;
+        }
+
+        .numpad-key:hover {
+            background: #3a80d2;
+        }
+
+        .numpad-key:active {
+            transform: scale(0.95);
+        }
+
+        .numpad-key.special {
+            background: #ff9800;
+        }
+
+        .numpad-key.confirm {
+            background: #4CAF50;
+            grid-column: span 3;
+        }
+
+        /* ========== CONTENT AREA ========== */
+        .content-area {
+            position: fixed;
+            top: 80px;
+            left: 0;
+            width: 100%;
+            height: calc(100% - 80px);
+            background: #fff8e1;
+            overflow: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .content-wrapper {
+            width: 100%;
+            height: 100%;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        /* ========== VIEW TEMPLATES ========== */
+
+        /* Common Typography - ORIGINAL CSS RESTORED */
+        .Devanagari { 
+            font-family: 'Devanagari', serif !important;
+            line-height: 1.7; 
+            color: #222;
+            letter-spacing: 0.08em;
+            word-spacing: 0.3em;
+        }
+        
+        .Kannada { 
+            font-family: 'Noto Sans Kannada', sans-serif !important;
+            line-height: 2; 
+            color: #444; 
+        }
+
+        .pada-separator { 
+            font-family: 'Noto Sans Kannada', sans-serif;
+            color: #444; 
+            font-weight: bold;
+        }
+
+        .swara {
+            display: inline-block;
+            line-height: 1;
+        }
+
+        /* Separate svarita classes for Devanagari and Kannada fine-tuning */
+        .svarita_d { 
+            font-size: 100%; 
+            vertical-align: super; 
+            color: #c00; 
+            position: relative;
+            top: -0.0em;
+            left: -0.3em; 
+            display: inline-block;
+        }
+
+        .svarita_k { 
+            font-size: 100%; 
+            vertical-align: super; 
+            color: #c00; 
+            position: relative;
+            top: -0.0em;
+            left: -0.3em; 
+            display: inline-block;
+        }
+
+        /* Fallback for old svarita class */
+        .svarita { 
+            font-size: 100%; 
+            vertical-align: super; 
+            color: #c00; 
+            position: relative;
+            top: -0.0em;
+            left: -0.3em; 
+            display: inline-block;
+        }
+        
+        .anudatta { 
+            position: relative;
+            display: inline-block;
+            top: 0.3em; 
+            left: -0.2em; 
+        }
+
+        /* iPad Specific Anudatta Fix */
+        @supports (-webkit-touch-callout: none) {
+            .anudatta {
+                top: 0.4em; 
+                left: -0.6em;
+                margin-right: -0.5em; 
+            }
+        }
+
+        .NumberingRDC { 
+            font-family: 'Noto Sans Kannada', sans-serif;
+            margin-bottom: 20px; 
+            font-weight: bold;
+            text-align: center;
+            line-height: 1.4;
+        }
+        
+        .RishiDevChandas { 
+            color: green;
+            padding: 0px;
+            margin: 0px;
+        }
+        
+        .RishiDevChandasChanged { 
+            color: red;
+            padding: 0px;
+            margin: 0px;
+        }
+        
+        .MantraNumbering { 
+            color: blue; 
+            margin-right: 10px;
+        }
+
+        .mantra-content {
+            line-height: 1.8;
+            text-align: center;
+            display: block;
+        }
+
+        /* Template 1: Rig (Mantra Text) */
+        .view-rig {
+            text-align: center;
+            width: 100%;
+            max-width: 1800px;
+        }
+
+        .view-rig .NumberingRDC {
+            font-size: 28px;
+            margin-bottom: 30px;
+        }
+
+        .view-rig .mantra-content {
+            margin: 30px 0;
+        }
+
+        .view-rig .Devanagari {
+            font-size: 80px;
+            margin: 20px 0;
+        }
+
+        .view-rig .Kannada {
+            font-size: 80px;
+            margin: 20px 0;
+        }
+
+        /* Template 2 & 3: Pada Lists */
+        .view-pada {
+            width: 100%;
+            max-width: 1400px;
+            max-height: 90vh;
+            padding-top: 10px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .view-pada .title {
+            font-size: 32px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+            text-align: center;
+            border-bottom: 3px solid #d4a017;
+            padding-bottom: 5px;
+            flex-shrink: 0;
+        }
+
+        .view-pada .pada-list {
+            display: flex; 
+            flex-direction: column;
+            gap: 5px;
+            overflow-y: auto;
+            flex: 1;
+            padding: 5px;
+        }
+
+        .view-pada .pada-item {
+            font-size: 36px;
+            line-height: 1.4;
+            color: #333;
+            padding: 5px;
+            background: rgba(255, 255, 255, 0.5);
+            border-radius: 8px;
+        }
+
+        .view-pada .pada-word {
+            font-weight: bold;
+            color: #943155;
+            margin-right: 10px;
+        }
+
+        /* Template 4 & 5: Meaning + Insight */
+        .view-meaning-insight {
+            width: 100%;
+            max-width: 1400px;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .meaning-section {
+            flex: 0 0 40%;
+            padding: 20px;
+            background: #fff3e0;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            overflow-y: auto;
+        }
+
+        .insight-section {
+            flex: 1;
+            padding: 20px;
+            background: #e3f2fd;
+            border-radius: 8px;
+            overflow-y: auto;
+        }
+
+        .section-title {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #333;
+            border-bottom: 2px solid #d4a017;
+            padding-bottom: 8px;
+        }
+
+        .insight-section .section-title {
+            color: #0d47a1;
+        }
+
+        .section-content {
+            font-size: 32px;
+            line-height: 1.5;
+            color: #111;
+        }
+
+        .insight-section .section-content {
+            font-style: italic;
+            color: #0d47a1;
+        }
+
+        .loading-message {
+            text-align: center;
+            font-size: 24px;
+            color: #666;
+            padding: 40px;
+        }
+
+        .error-message {
+            text-align: center;
+            font-size: 20px;
+            color: #c00;
+            padding: 40px;
+        }
+
+        /* ========== RESPONSIVE DESIGN ========== */
+
+        /* Tablets and smaller desktops */
+        @media (max-width: 1024px) {
+            .nav-row {
+                gap: 4px;
+            }
+
+            .nav-input {
+                width: 40px;
+                height: 34px;
+                font-size: 14px;
+            }
+
+            .nav-btn {
+                width: 25px;
+                height: 34px;
+                font-size: 14px;
+            }
+
+            .view-select {
+                max-width: 80px;
+                font-size: 13px;
+            }
+
+            .view-rig .Devanagari,
+            .view-rig .Kannada {
+                font-size: 60px;
+            }
+
+            .view-pada .pada-item {
+                font-size: 28px;
+            }
+
+            .section-content {
+                font-size: 26px;
+            }
+        }
+
+        /* Mobile Landscape */
+        @media (max-width: 767px) and (orientation: landscape) {
+            .nav-bar {
+                padding: 6px 10px;
+            }
+
+            .content-area {
+                top: 60px;
+                height: calc(100% - 60px);
+            }
+
+            .nav-input {
+                width: 40px;
+                height: 30px;
+                font-size: 13px;
+            }
+
+            .nav-btn {
+                width: 30px;
+                height: 30px;
+                font-size: 12px;
+            }
+
+            .zip-label {
+                height: 30px;
+                padding: 0 10px;
+                font-size: 11px;
+            }
+
+            .view-select {
+                height: 30px;
+                font-size: 12px;
+                min-width: 130px;
+            }
+
+            .view-rig .Devanagari,
+            .view-rig .Kannada {
+                font-size: 40px;
+            }
+
+            .view-pada .title {
+                font-size: 24px;
+            }
+
+            .view-pada .pada-item {
+                font-size: 20px;
+            }
+
+            .section-title {
+                font-size: 20px;
+            }
+
+            .section-content {
+                font-size: 18px;
+            }
+        }
+
+        /* Mobile Portrait */
+        @media (max-width: 767px) and (orientation: portrait) {
+            .nav-bar {
+                padding: 8px;
+            }
+
+            .content-area {
+                top: 80px;
+                height: calc(100% - 100px);
+            }
+
+            .content-wrapper {
+                padding: 8px;
+            }
+
+            .nav-row {
+                gap: 5px;
+            }
+
+            .nav-group {
+                gap: 3px;
+            }
+
+            .nav-label {
+                font-size: 12px;
+            }
+
+            .nav-input {
+                width: 35px;
+                height: 36px;
+                font-size: 14px;
+            }
+
+            .view-rig .NumberingRDC {
+                font-size: 20px;
+            }
+
+            .view-rig .Devanagari,
+            .view-rig .Kannada {
+                font-size: 50px;
+            }
+
+            .view-pada .title {
+                font-size: 26px;
+            }
+
+            .view-pada .pada-item {
+                font-size: 24px;
+            }
+
+            .section-title {
+                font-size: 24px;
+            }
+
+            .section-content {
+                font-size: 22px;
+            }
+        }
+
+        /* iPad specific */
+        @media (min-width: 768px) and (max-width: 1024px) {
+            .view-rig .Devanagari,
+            .view-rig .Kannada {
+                font-size: 70px;
+            }
+
+            .view-pada .pada-item {
+                font-size: 32px;
+            }
+
+            .section-content {
+                font-size: 28px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <div class="nav-bar">
+        <div class="nav-row">
+            <label class="zip-label" id="zipLabel">
+                📦 Load ZIP
+                <input type="file" class="zip-input" id="zipInput" accept=".zip">
+            </label>
+
+            <div class="nav-group">
+                <span class="nav-label">S:</span>
+                <button class="nav-btn" id="suktaUp">▲</button>
+                <input type="text" class="nav-input" id="suktaInput" maxlength="3" value="1" readonly style="cursor: pointer;">
+                <button class="nav-btn" id="suktaDown">▼</button>
+            </div>
+
+            <div class="nav-group">
+                <span class="nav-label">Rig:</span>
+                <button class="nav-btn" id="mantraUp">▲</button>
+                <input type="text" class="nav-input" id="mantraInput" maxlength="3" value="1" readonly>
+                <button class="nav-btn" id="mantraDown">▼</button>
+            </div>
+
+            <button class="nav-btn" id="playPauseBtn" style="width: 50px; font-size: 20px;">▶️</button>
+
+            <select class="view-select" id="viewSelect">
+                <option value="rig">1.Rig </option>
+                <option value="pada-en">2.Pada_En</option>
+                <option value="pada-kn">3.Pada_Kn</option>
+                <option value="meaning-en">4.Insight_En</option>
+                <option value="meaning-kn">5.Insight_kn</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Numpad Overlay -->
+    <div class="numpad-overlay" id="numpadOverlay">
+        <div class="numpad-container">
+            <div class="numpad-title">Enter Sukta Number</div>
+            <div class="numpad-display" id="numpadDisplay">---</div>
+            <div class="numpad-grid">
+                <button class="numpad-key" data-num="7">7</button>
+                <button class="numpad-key" data-num="8">8</button>
+                <button class="numpad-key" data-num="9">9</button>
+                <button class="numpad-key" data-num="4">4</button>
+                <button class="numpad-key" data-num="5">5</button>
+                <button class="numpad-key" data-num="6">6</button>
+                <button class="numpad-key" data-num="1">1</button>
+                <button class="numpad-key" data-num="2">2</button>
+                <button class="numpad-key" data-num="3">3</button>
+                <button class="numpad-key special" id="numpadBack">⌫</button>
+                <button class="numpad-key" data-num="0">0</button>
+                <button class="numpad-key special" id="numpadClear">C</button>
+            </div>
+            <button class="numpad-key confirm" id="numpadOk">✓ OK</button>
+        </div>
+    </div>
+
+    <!-- Content Area -->
+    <div class="content-area">
+        <div class="content-wrapper" id="contentWrapper">
+            <div class="loading-message">Load a Mandala ZIP file (M1.zip, M2.zip, etc.)</div>
+        </div>
+    </div>
+
+    <!-- Hidden Audio Element -->
+    <audio id="audioPlayer" preload="auto"></audio>
+
+    <script>
+        // ========== GLOBAL STATE ==========
+        let zipData = null;
+        let mandalaHtmlContent = null;
+        let currentSuktaData = null;
+        let currentMantraData = null;
+        let isLoading = false;
+        let loadedMandalaNum = null;
+        let numpadValue = "";
+        let audioPlayer = null;
+        let currentAudioBlob = null;
+        let isPlaying = false;
+        let maxSuktaInMandala = 0;
+        let maxMantraInSukta = 0;
+
+        // ========== DOM ELEMENTS ==========
+        const suktaInput = document.getElementById('suktaInput');
+        const mantraInput = document.getElementById('mantraInput');
+        
+        const suktaUp = document.getElementById('suktaUp');
+        const suktaDown = document.getElementById('suktaDown');
+        const mantraUp = document.getElementById('mantraUp');
+        const mantraDown = document.getElementById('mantraDown');
+        
+        const zipInput = document.getElementById('zipInput');
+        const zipLabel = document.getElementById('zipLabel');
+        const viewSelect = document.getElementById('viewSelect');
+        const contentWrapper = document.getElementById('contentWrapper');
+        const playPauseBtn = document.getElementById('playPauseBtn');
+        
+        const numpadOverlay = document.getElementById('numpadOverlay');
+        const numpadDisplay = document.getElementById('numpadDisplay');
+        const numpadOk = document.getElementById('numpadOk');
+        const numpadBack = document.getElementById('numpadBack');
+        const numpadClear = document.getElementById('numpadClear');
+
+        // Audio player
+        audioPlayer = document.getElementById('audioPlayer');
+
+        // ========== ZIP LOADING ==========
+        zipInput.addEventListener('change', async function(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            try {
+                const arrayBuffer = await file.arrayBuffer();
+                zipData = await JSZip.loadAsync(arrayBuffer);
+                
+                const fileName = file.name.replace('.zip', '');
+                loadedMandalaNum = parseInt(fileName.replace('M', '')) || 1;
+                
+                // Update ZIP button label to show loaded Mandala
+                zipLabel.innerHTML = `📦 M${String(loadedMandalaNum).padStart(2, '0')}<input type="file" class="zip-input" id="zipInput" accept=".zip">`;
+                
+                const mandalaFolder = `M${loadedMandalaNum}`;
+                const mandalaStr = String(loadedMandalaNum).padStart(2, '0');
+                const htmlFileName = `${mandalaFolder}/${mandalaStr}.html`;
+                
+                const htmlFile = zipData.file(htmlFileName);
+                
+                if (!htmlFile) {
+                    throw new Error(`${htmlFileName} not found in ZIP`);
+                }
+                
+                mandalaHtmlContent = await htmlFile.async('text');
+                
+                // Detect max sukta number in this mandala
+                maxSuktaInMandala = 0;
+                zipData.forEach((relativePath, file) => {
+                    if (relativePath.startsWith(mandalaFolder) && relativePath.endsWith('.json')) {
+                        const match = relativePath.match(/(\d+)-(\d+)\.json$/);
+                        if (match) {
+                            const suktaNum = parseInt(match[2]);
+                            if (suktaNum > maxSuktaInMandala) {
+                                maxSuktaInMandala = suktaNum;
+                            }
+                        }
+                    }
+                });
+                
+                suktaInput.value = 1;
+                mantraInput.value = 1;
+                loadMantra();
+                
+            } catch (error) {
+                console.error('Error loading ZIP:', error);
+                contentWrapper.innerHTML = `<div class="error-message">Error: ${error.message}</div>`;
+            }
+        });
+
+        // ========== SUKTA INPUT CLICK - OPEN NUMPAD ==========
+        suktaInput.addEventListener('click', () => {
+            numpadValue = "";
+            numpadDisplay.textContent = "---";
+            numpadOverlay.classList.add('active');
+        });
+
+        // ========== NAVIGATION ==========
+        suktaUp.addEventListener('click', () => incrementSukta(1));
+        suktaDown.addEventListener('click', () => incrementSukta(-1));
+        mantraUp.addEventListener('click', () => incrementMantra(1));
+        mantraDown.addEventListener('click', () => incrementMantra(-1));
+        
+        viewSelect.addEventListener('change', () => {
+            if (currentMantraData) renderCurrentMantra();
+        });
+
+        // ========== PLAY/PAUSE BUTTON ==========
+        playPauseBtn.addEventListener('click', () => {
+            if (!audioPlayer.src) return;
+            
+            if (isPlaying) {
+                audioPlayer.pause();
+                playPauseBtn.textContent = '▶️';
+                isPlaying = false;
+            } else {
+                // Set to mantra start time and play
+                const startTime = currentMantraData.rig_time_s || 0;
+                audioPlayer.currentTime = startTime;
+                audioPlayer.play();
+                playPauseBtn.textContent = '⏸️';
+                isPlaying = true;
+            }
+        });
+
+        // Loop current mantra - check time and loop back
+        audioPlayer.addEventListener('timeupdate', () => {
+            if (!isPlaying || !currentMantraData || !currentSuktaData) return;
+            
+            const currentTime = audioPlayer.currentTime;
+            const startTime = currentMantraData.rig_time_s || 0;
+            
+            // Find the end time
+            const currentMantra = parseInt(mantraInput.value) || 1;
+            let endTime;
+            
+            // Check if this is the last mantra
+            if (currentMantra >= maxMantraInSukta) {
+                // Last mantra - use audio duration as end time
+                endTime = audioPlayer.duration;
+            } else {
+                // Not the last mantra - find next mantra's start time
+                const currentIndex = currentSuktaData.mantras.findIndex(m => m.ric_index === currentMantraData.ric_index);
+                
+                if (currentIndex >= 0 && currentIndex < currentSuktaData.mantras.length - 1) {
+                    endTime = currentSuktaData.mantras[currentIndex + 1].rig_time_s;
+                } else {
+                    // Fallback to duration
+                    endTime = audioPlayer.duration;
+                }
+            }
+            
+            // If current time exceeds end time, loop back to start
+            // Add small buffer (0.1s) to ensure we catch the end
+            if (endTime && !isNaN(endTime) && currentTime >= endTime - 0.1) {
+                audioPlayer.currentTime = startTime;
+            }
+        });
+
+        // Update play/pause button when audio ends
+        audioPlayer.addEventListener('ended', () => {
+            playPauseBtn.textContent = '▶️';
+            isPlaying = false;
+        });
+
+        audioPlayer.addEventListener('pause', () => {
+            playPauseBtn.textContent = '▶️';
+            isPlaying = false;
+        });
+
+        audioPlayer.addEventListener('play', () => {
+            playPauseBtn.textContent = '⏸️';
+            isPlaying = true;
+        });
+
+        function incrementSukta(delta) {
+            let value = parseInt(suktaInput.value) || 1;
+            value += delta;
+            
+            // Enforce limits
+            if (value < 1) value = 1;
+            if (maxSuktaInMandala > 0 && value > maxSuktaInMandala) value = maxSuktaInMandala;
+            
+            suktaInput.value = value;
+            mantraInput.value = 1; // Reset to first mantra
+            loadMantra();
+        }
+
+        function incrementMantra(delta) {
+            let value = parseInt(mantraInput.value) || 1;
+            value += delta;
+            
+            // Enforce limits
+            if (value < 1) value = 1;
+            if (maxMantraInSukta > 0 && value > maxMantraInSukta) value = maxMantraInSukta;
+            
+            mantraInput.value = value;
+            loadMantra();
+        }
+
+        // ========== NUMPAD ==========
+        document.querySelectorAll('.numpad-key[data-num]').forEach(key => {
+            key.addEventListener('click', () => {
+                if (numpadValue.length < 3) {
+                    numpadValue += key.dataset.num;
+                    numpadDisplay.textContent = numpadValue;
+                }
+            });
+        });
+
+        numpadBack.addEventListener('click', () => {
+            numpadValue = numpadValue.slice(0, -1);
+            numpadDisplay.textContent = numpadValue || "---";
+        });
+
+        numpadClear.addEventListener('click', () => {
+            numpadValue = "";
+            numpadDisplay.textContent = "---";
+        });
+
+        numpadOk.addEventListener('click', () => {
+            if (numpadValue) {
+                suktaInput.value = parseInt(numpadValue);
+                mantraInput.value = 1; // Reset to first mantra
+                loadMantra();
+            }
+            numpadOverlay.classList.remove('active');
+        });
+
+        numpadOverlay.addEventListener('click', (e) => {
+            if (e.target === numpadOverlay) {
+                numpadOverlay.classList.remove('active');
+            }
+        });
+
+        // ========== LOAD MANTRA ==========
+        async function loadMantra() {
+            if (!zipData || !mandalaHtmlContent) {
+                return;
+            }
+
+            if (isLoading) return;
+            isLoading = true;
+
+            // Pause audio when changing mantra
+            if (isPlaying) {
+                audioPlayer.pause();
+                isPlaying = false;
+                playPauseBtn.textContent = '▶️';
+            }
+
+            try {
+                const mandala = loadedMandalaNum;
+                const sukta = parseInt(suktaInput.value) || 1;
+                const mantra = parseInt(mantraInput.value) || 1;
+
+                const mandalaFolder = `M${mandala}`;
+                const mandalaStr = String(mandala).padStart(2, '0');
+                const suktaStr = String(sukta).padStart(3, '0');
+                const jsonFileName = `${mandalaFolder}/${mandalaStr}-${suktaStr}.json`;
+                const mp3FileName = `${mandalaFolder}/${mandalaStr}-${suktaStr}.mp3`;
+
+                // Load JSON file
+                const jsonFile = zipData.file(jsonFileName);
+                if (!jsonFile) {
+                    throw new Error(`${jsonFileName} not found in ZIP`);
+                }
+
+                const jsonText = await jsonFile.async('text');
+                currentSuktaData = JSON.parse(jsonText);
+
+                const mantras = currentSuktaData.mantras || [];
+                maxMantraInSukta = mantras.length; // Set max mantra count for this sukta
+                
+                if (mantra < 1 || mantra > mantras.length) {
+                    throw new Error(`Mantra ${mantra} not found. Sukta has ${mantras.length} mantras.`);
+                }
+
+                currentMantraData = mantras[mantra - 1];
+
+                // Load MP3 file if available (only when sukta changes)
+                const mp3File = zipData.file(mp3FileName);
+                if (mp3File && (!currentAudioBlob || audioPlayer.getAttribute('data-sukta') !== `${mandala}-${sukta}`)) {
+                    const mp3Blob = await mp3File.async('blob');
+                    const mp3Url = URL.createObjectURL(mp3Blob);
+                    
+                    // Revoke old URL if exists
+                    if (currentAudioBlob) {
+                        URL.revokeObjectURL(audioPlayer.src);
+                    }
+                    
+                    audioPlayer.src = mp3Url;
+                    audioPlayer.setAttribute('data-sukta', `${mandala}-${sukta}`);
+                    currentAudioBlob = mp3Url;
+                    
+                    // Wait for audio to load before seeking
+                    audioPlayer.addEventListener('loadedmetadata', () => {
+                        const startTime = currentMantraData.rig_time_s || 0;
+                        audioPlayer.currentTime = startTime;
+                    }, { once: true });
+                } else if (audioPlayer.src) {
+                    // Same sukta, just seek to new mantra
+                    const startTime = currentMantraData.rig_time_s || 0;
+                    audioPlayer.currentTime = startTime;
+                }
+
+                renderCurrentMantra();
+
+                isLoading = false;
+
+            } catch (error) {
+                console.error('Error loading mantra:', error);
+                contentWrapper.innerHTML = `<div class="error-message">Error: ${error.message}</div>`;
+                isLoading = false;
+            }
+        }
+
+        // ========== RENDER MANTRA ==========
+        function renderCurrentMantra() {
+            const viewMode = viewSelect.value;
+            
+            switch(viewMode) {
+                case 'rig':
+                    renderRigView();
+                    break;
+                case 'pada-en':
+                    renderPadaView('en');
+                    break;
+                case 'pada-kn':
+                    renderPadaView('kn');
+                    break;
+                case 'meaning-en':
+                    renderMeaningInsightView('en');
+                    break;
+                case 'meaning-kn':
+                    renderMeaningInsightView('kn');
+                    break;
+            }
+        }
+
+        // ========== VIEW 1: RIG (MANTRA TEXT) ==========
+        function renderRigView() {
+            const mantraId = currentMantraData.mantra_id || '';
+            const searchId = mantraId.replace(/[()]/g, '');
+            const mantraHtml = extractMantraHtml(mandalaHtmlContent, searchId);
+
+            contentWrapper.innerHTML = `
+                <div class="view-rig">
+                    ${mantraHtml}
+                </div>
+            `;
+
+            fitRigText();
+        }
+
+        function fitRigText() {
+            const devLines = document.querySelectorAll('.view-rig .Devanagari');
+            const kanLines = document.querySelectorAll('.view-rig .Kannada');
+            
+            let currentSize = 80;
+            devLines.forEach(el => el.style.fontSize = currentSize + "px");
+            kanLines.forEach(el => el.style.fontSize = currentSize + "px");
+
+            const container = document.querySelector('.view-rig');
+            if (!container) return;
+
+            let safety = 0;
+            while (safety < 100 && container.scrollHeight > contentWrapper.clientHeight && currentSize > 30) {
+                currentSize--;
+                devLines.forEach(el => el.style.fontSize = currentSize + "px");
+                kanLines.forEach(el => el.style.fontSize = currentSize + "px");
+                safety++;
+            }
+        }
+
+        // ========== VIEW 2 & 3: PADA VIEWS ==========
+        function renderPadaView(lang) {
+            const padas = currentMantraData.pada_meanings || [];
+            const title = lang === 'en' ? 'Pada Meanings - English' : 'ಪದ ಅರ್ಥಗಳು - ಕನ್ನಡ';
+            
+            let padaHtml = '';
+            for (const p of padas) {
+                // Use pada_kn for Kannada, pada_original for English
+                const padaWord = lang === 'kn' ? (p.pada_kn || p.pada_original || '') : (p.pada_original || '');
+                const meaning = lang === 'en' ? (p.meaning_en || '') : (p.meaning_kn || '');
+                padaHtml += `
+                    <div class="pada-item">
+                        <span class="pada-word">${padaWord}:</span> ${meaning}
+                    </div>
+                `;
+            }
+
+            contentWrapper.innerHTML = `
+                <div class="view-pada">
+                    <div class="title">${title}</div>
+                    <div class="pada-list">
+                        ${padaHtml}
+                    </div>
+                </div>
+            `;
+
+            fitPadaText();
+        }
+
+    function fitPadaText() {
+    const items = document.querySelectorAll('.pada-item');
+    if (!items.length) return;
+
+    const padaList = document.querySelector('.pada-list');
+    if (!padaList) return;
+
+    let fontSize = 36;
+    items.forEach(el => el.style.fontSize = fontSize + "px");
+
+    // Check if content fits within the scrollable container
+    let safety = 0;
+    while (safety < 100 && padaList.scrollHeight > padaList.clientHeight && fontSize > 18) {
+        fontSize -= 1;
+        items.forEach(el => el.style.fontSize = fontSize + "px");
+        safety++;
+    }
+}
+
+        // ========== VIEW 4 & 5: MEANING + INSIGHT ==========
+        function renderMeaningInsightView(lang) {
+            const meaning = lang === 'en' ? (currentMantraData.full_meaning_en || '') : (currentMantraData.full_meaning_kn || '');
+            const insight = lang === 'en' ? (currentMantraData.Insight_en || '') : (currentMantraData.Insight_kn || '');
+            const meaningTitle = lang === 'en' ? 'Full Meaning' : 'ಸಂಪೂರ್ಣ ಅರ್ಥ';
+            const insightTitle = lang === 'en' ? 'Insight' : 'ಭಾವಾರ್ಥ';
+
+            contentWrapper.innerHTML = `
+                <div class="view-meaning-insight">
+                    <div class="meaning-section">
+                        <div class="section-title">${meaningTitle}</div>
+                        <div class="section-content meaning-text">${meaning}</div>
+                    </div>
+                    <div class="insight-section">
+                        <div class="section-title">${insightTitle}</div>
+                        <div class="section-content insight-text">${insight}</div>
+                    </div>
+                </div>
+            `;
+
+            fitMeaningInsightText();
+        }
+
+        function fitMeaningInsightText() {
+            const meaningText = document.querySelector('.meaning-text');
+            const insightText = document.querySelector('.insight-text');
+            
+            if (meaningText) {
+                let fontSize = 32;
+                meaningText.style.fontSize = fontSize + "px";
+                const container = meaningText.parentElement;
+                
+                let safety = 0;
+                while (safety < 100 && meaningText.scrollHeight > container.clientHeight && fontSize > 18) {
+                    fontSize -= 1;
+                    meaningText.style.fontSize = fontSize + "px";
+                    safety++;
+                }
+            }
+
+            if (insightText) {
+                let fontSize = 30;
+                insightText.style.fontSize = fontSize + "px";
+                const container = insightText.parentElement;
+                
+                let safety = 0;
+                while (safety < 100 && insightText.scrollHeight > container.clientHeight && fontSize > 16) {
+                    fontSize -= 1;
+                    insightText.style.fontSize = fontSize + "px";
+                    safety++;
+                }
+            }
+        }
+
+        // ========== EXTRACT MANTRA HTML ==========
+        function extractMantraHtml(htmlContent, searchId) {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(htmlContent, 'text/html');
+
+            const allSpans = doc.querySelectorAll('span');
+            for (const span of allSpans) {
+                if (span.textContent.includes(searchId)) {
+                    const container = span.closest('td');
+                    if (container) {
+                        const rdc = container.querySelector('.NumberingRDC');
+                        const mantraDiv = container.querySelector('.mantra-content');
+                        if (rdc && mantraDiv) {
+                            return rdc.outerHTML + mantraDiv.outerHTML;
+                        }
+                        return container.innerHTML;
+                    }
+                }
+            }
+
+            const mantraDivs = doc.querySelectorAll('.mantra-content');
+            for (const div of mantraDivs) {
+                const parent = div.parentElement;
+                if (parent && parent.innerHTML.includes(searchId)) {
+                    const rdc = parent.querySelector('.NumberingRDC');
+                    if (rdc) {
+                        return rdc.outerHTML + div.outerHTML;
+                    }
+                    return div.outerHTML;
+                }
+            }
+
+            return `<div style='color:red; padding:20px;'>Mantra not found: ${searchId}</div>`;
+        }
+
+        // ========== KEYBOARD SHORTCUTS ==========
+        document.addEventListener('keydown', function(event) {
+            // Don't trigger if numpad is open
+            if (numpadOverlay.classList.contains('active')) return;
+            
+            if (event.key === 'ArrowUp') {
+                event.preventDefault();
+                mantraUp.click();
+            }
+            
+            if (event.key === 'ArrowDown') {
+                event.preventDefault();
+                mantraDown.click();
+            }
+            
+            if (event.shiftKey && event.key === 'ArrowUp') {
+                event.preventDefault();
+                suktaUp.click();
+            }
+            
+            if (event.shiftKey && event.key === 'ArrowDown') {
+                event.preventDefault();
+                suktaDown.click();
+            }
+            
+            // Space bar for play/pause
+            if (event.key === ' ' || event.key === 'Spacebar') {
+                event.preventDefault();
+                playPauseBtn.click();
+            }
+        });
+
+        // ========== WINDOW RESIZE ==========
+        window.addEventListener('resize', () => {
+            if (currentMantraData) {
+                renderCurrentMantra();
+            }
+        });
+
+    </script>
+
+</body>
+</html>
