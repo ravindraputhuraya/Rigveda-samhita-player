@@ -1,3 +1,4 @@
+<meta name="description" content="Rig Veda, kannada, Mandala, vedic chanting audio with kannada english meaning for each mantra sukta Rigveda-samhita audio player ebook">
 # || ॐ श्री गुरुभ्यो नम:, हरि: ॐ ||
 # || ಓಂ ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ , ಹರಿಃ ಓಂ ||
 
