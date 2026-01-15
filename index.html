@@ -273,6 +273,172 @@
             margin-bottom: 15px;
         }
         
+        /* YouTube Video Section */
+        .youtube-videos-section {
+            background: white;
+            padding: 40px 30px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        .youtube-videos-section h2 {
+            color: #cc0000;
+            font-size: 2.2em;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        
+        .youtube-subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+        
+        /* Intro Videos */
+        .intro-videos {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+            padding-bottom: 30px;
+            border-bottom: 3px solid #e0e0e0;
+        }
+        
+        .intro-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 25px;
+            border-radius: 10px;
+            text-decoration: none;
+            color: white;
+            transition: all 0.3s;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        
+        .intro-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        }
+        
+        .intro-card h3 {
+            margin: 0 0 10px 0;
+            font-size: 1.1em;
+        }
+        
+        .intro-card p {
+            margin: 0;
+            opacity: 0.95;
+        }
+        
+        /* Main Video Grid - 2 columns */
+        .video-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 25px;
+        }
+        
+        .video-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            text-decoration: none;
+            color: inherit;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: all 0.3s;
+            border: 3px solid transparent;
+        }
+        
+        .video-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+            border-color: #cc0000;
+        }
+        
+        .thumbnail-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%;
+            overflow: hidden;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .video-thumbnail {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+        
+        .text-overlay {
+            position: absolute;
+            bottom: 12px;
+            left: 12px;
+            right: 12px;
+        }
+        
+        .line1, .line3 {
+            font-size: 0.95em;
+            font-weight: bold;
+            color: white;
+            line-height: 1.3;
+            text-shadow: 2px 2px 6px rgba(0,0,0,0.95), -1px -1px 4px rgba(0,0,0,0.9), 0px 0px 8px rgba(0,0,0,0.8);
+            margin-bottom: 2px;
+        }
+        
+        .line2, .line4 {
+            font-size: 1.05em;
+            font-weight: bold;
+            color: #FFD700;
+            line-height: 1.3;
+            text-shadow: 2px 2px 6px rgba(0,0,0,0.95), -1px -1px 4px rgba(0,0,0,0.9), 0px 0px 8px rgba(0,0,0,0.8);
+            margin-bottom: 4px;
+        }
+        
+        .line4 { margin-bottom: 0; }
+        
+        .play-icon {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 70px;
+            height: 70px;
+            background: rgba(255, 0, 0, 0.85);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: opacity 0.3s;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.6);
+        }
+        
+        .video-card:hover .play-icon { opacity: 1; }
+        
+        .play-icon::after {
+            content: '';
+            width: 0;
+            height: 0;
+            border-left: 24px solid white;
+            border-top: 15px solid transparent;
+            border-bottom: 15px solid transparent;
+            margin-left: 6px;
+        }
+        
+        @media (max-width: 1024px) {
+            .video-grid { grid-template-columns: 1fr; }
+        }
+        
+        @media (max-width: 768px) {
+            .intro-videos { grid-template-columns: 1fr; }
+            .line1, .line3 { font-size: 0.85em; }
+            .line2, .line4 { font-size: 0.95em; }
+        }
+        
         /* Responsive */
         @media (max-width: 768px) {
             h1 { font-size: 1.8em; }
@@ -411,14 +577,478 @@
             </p>
         </div>
 
-        <!-- YouTube Section -->
-        <div class="youtube-section">
-            <h2>📺 Learn More on YouTube</h2>
-            <p>Watch tutorials, recitation demonstrations, and learn how to use the player effectively</p>
-            <a href="https://www.youtube.com/@RigVeda-Samhita" class="youtube-btn" target="_blank">
-                Visit YouTube Channel →
-            </a>
+        <!-- YouTube Videos Section -->
+        <div class="youtube-videos-section">
+            <h2>📺 Ṛgveda Saṃhitā Video Series</h2>
+            <p class="youtube-subtitle">Complete audio-visual journey through all 10 Mandalas with bilingual commentary</p>
+            
+            <!-- Introduction Videos -->
+            <div class="intro-videos">
+                <a href="https://youtu.be/UQR558KR45c" target="_blank" class="intro-card">
+                    <h3>🎬 Introduction / ಪರಿಚಯ (English)</h3>
+                    <p>Ṛgveda Saṃhitā Introduction English</p>
+                </a>
+                <a href="https://youtu.be/w-tLHMKfvoM" target="_blank" class="intro-card">
+                    <h3>🎬 Introduction / ಪರಿಚಯ (ಕನ್ನಡ (Kannada))</h3>
+                    <p>ಋಗ್ವೇದ ಸಂಹಿತಾ ಪರಿಚಯ</p>
+                </a>
+            </div>
+            
+            <!-- Main Video Series -->
+            <div class="video-grid">
+                <a href="https://youtu.be/0B_9KwwiwN8" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/1.png" 
+                             alt="Part 1" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 1 : Mandala 1, Sūkta 1–32:</div>
+                            <div class="line2">The Primordial Fire</div>
+                            <div class="line3">ಭಾಗ 1-</div>
+                            <div class="line4">ಮಂಡಲ 1 ಸೂಕ್ತ 1-32 - ಆದಿಸ್ವರೂಪದ ಅಗ್ನಿ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/j4MrdRWqusE" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/2.png" 
+                             alt="Part 2" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 2 : Mandala 1, Sūkta 33–64 :</div>
+                            <div class="line2">The Heroic King</div>
+                            <div class="line3">ಭಾಗ 2:ಮಂಡಲ 1, ಸೂಕ್ತ 33–64</div>
+                            <div class="line4">ವೀರ ರಾಜ ಇಂದ್ರ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/Xmc3x8YT6Ok" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/3.png" 
+                             alt="Part 3" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 3 : Mandala 1, Sūkta 64–93 :</div>
+                            <div class="line2">The Ancient Rhythms</div>
+                            <div class="line3">ಭಾಗ3:ಮಂಡಲ 1, ಸೂಕ್ತ 64–93</div>
+                            <div class="line4">ಸನಾತನ ಲಯಗಳು</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/401JHLyD0Js" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/4.png" 
+                             alt="Part 4" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 4 : Mandala 1, Sūkta 94–121 :</div>
+                            <div class="line2">The Celestial Dawn</div>
+                            <div class="line3">ಭಾಗ4:ಮಂಡಲ 1, ಸೂಕ್ತ 94–121</div>
+                            <div class="line4">ದಿವ್ಯ ಉಷಃಕಾಲದ ಉದಯ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/taATuZDHSi4" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/5.png" 
+                             alt="Part 5" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 5 : Mandala 1, Sūkta 122–157 :</div>
+                            <div class="line2">The Ritual Majesty</div>
+                            <div class="line3">ಭಾಗ5:ಮಂಡಲ 1, ಸೂಕ್ತ 122–157</div>
+                            <div class="line4">ಯಜ್ಞ ವೈಭವ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/8YcOvcc_Kkk" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/6.png" 
+                             alt="Part 6" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 6 : Mandala 1, Sūkta 158–191 :</div>
+                            <div class="line2">The Unity of Truth — Ekam Sat</div>
+                            <div class="line3">ಭಾಗ6:ಮಂಡಲ 1, ಸೂಕ್ತ 158–191</div>
+                            <div class="line4">ಸತ್ಯದ ಏಕತೆ — ಏಕಂ ಸತ್</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/fGrFQ8nfUKM" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/7.png" 
+                             alt="Part 7" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 7 : Mandala 2, Sūkta 1–43 :</div>
+                            <div class="line2">The Clan of Gṛtsamada</div>
+                            <div class="line3">ಭಾಗ7:ಮಂಡಲ 2, ಸೂಕ್ತ 1–43</div>
+                            <div class="line4">ಗೃತ್ಸಮದರ ಋಷಿ ಕುಲ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/kam17P5rifc" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/8.png" 
+                             alt="Part 8" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 8 : Mandala 3, Sūkta 1–321 :</div>
+                            <div class="line2">Viśvāmitra's Ritual</div>
+                            <div class="line3">ಭಾಗ8:ಮಂಡಲ 3, ಸೂಕ್ತ 1–62</div>
+                            <div class="line4">ವಿಶ್ವಾಮಿತ್ರರ ಪವಿತ್ರ ಯಜ್ಞ ವೈಭವ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/o2uiSoddx2U" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/9.png" 
+                             alt="Part 9" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 9 : Mandala 3, Sūkta 33–62 :</div>
+                            <div class="line2">The Gāyatrī Heart</div>
+                            <div class="line3">ಭಾಗ9:ಮಂಡಲ 3, ಸೂಕ್ತ 33–62</div>
+                            <div class="line4">ಗಾಯತ್ರಿ ಹೃದಯ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/Kip2A4xo5WE" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/10.png" 
+                             alt="Part 10" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 10 : Mandala 4, Sūkta 1–29 :</div>
+                            <div class="line2">Vāmadeva's Mystic Path</div>
+                            <div class="line3">ಭಾಗ10:ಮಂಡಲ 4, ಸೂಕ್ತ 1–29</div>
+                            <div class="line4">ವಾಮದೇವ ಗೌತಮರ ದಿವ್ಯ ಅಧ್ಯಾತ್ಮ ಪಥ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/OIIab1uWxCk" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/11.png" 
+                             alt="Part 11" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 11 : Mandala 4, Sūkta 30–58 :</div>
+                            <div class="line2">The Celestial Artisans</div>
+                            <div class="line3">ಭಾಗ11:ಮಂಡಲ 4, ಸೂಕ್ತ 30–58</div>
+                            <div class="line4">ದಿವ್ಯ ಶಿಲ್ಪಿಗಳು - ಋಭು ದೇವತೆಗಳು</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/vLAfwuBfY2w" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/12.png" 
+                             alt="Part 12" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 12 : Mandala 5, Sūkta 1–43 :</div>
+                            <div class="line2">Atri’s Divine Guest</div>
+                            <div class="line3">ಭಾಗ12:ಮಂಡಲ 5, ಸೂಕ್ತ 1–43</div>
+                            <div class="line4">ಅತ್ರಿ ಮಹರ್ಷಿಗಳ ದಿವ್ಯ ಅತಿಥಿ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/Hzvo9_VU98I" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/13.png" 
+                             alt="Part 13" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 13 : Mandala 5, Sūkta 44–87 :</div>
+                            <div class="line2">The Storms of Change</div>
+                            <div class="line3">ಭಾಗ13:ಮಂಡಲ 5, ಸೂಕ್ತ 44–87</div>
+                            <div class="line4">ಪರಿವರ್ತನೆಯ ಪ್ರಭಂಜನ - ಮರುತ್ತುಗಳ ಶಕ್ತಿ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/a79U1OTAnGU" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/14.png" 
+                             alt="Part 14" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 14 : Mandala 6, Sūkta 1–36 :</div>
+                            <div class="line2">The Warrior's Ascent</div>
+                            <div class="line3">ಭಾಗ14:ಮಂಡಲ 6, ಸೂಕ್ತ 1–36</div>
+                            <div class="line4">ವೀರನ ಅಭ್ಯುದಯ - ಭರದ್ವಾಜರ ದಿವ್ಯ ದರ್ಶನ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/HnkzckKsKVM" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/15.png" 
+                             alt="Part 15" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 15 : Mandala 6, Sūkta 37–75 :</div>
+                            <div class="line2">The Bow of Resolve</div>
+                            <div class="line3">ಭಾಗ15:ಮಂಡಲ 6, ಸೂಕ್ತ 37–75</div>
+                            <div class="line4">ಸಂಕಲ್ಪದ ಧನುಸ್ಸು</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/e4KFVtLbzLc" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/16.png" 
+                             alt="Part 16" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 16 : Mandala 7, Sūkta 1–55 :</div>
+                            <div class="line2">Vasiṣṭha’s Order of the Deep</div>
+                            <div class="line3">ಭಾಗ16:ಮಂಡಲ 7, ಸೂಕ್ತ 1–55</div>
+                            <div class="line4">ವಸಿಷ್ಠರ ಗಹನ ವಿಶ್ವನಿಯಮ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/rctrHURwyNc" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/17.png" 
+                             alt="Part 17" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 17 : Mandala 7, Sūkta 56–104 :</div>
+                            <div class="line2">The Waters That Awaken</div>
+                            <div class="line3">ಭಾಗ17:ಮಂಡಲ 7, ಸೂಕ್ತ 56–104</div>
+                            <div class="line4">ಜಾಗೃತಿಯ ಜಲಧಾರೆ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/V_T5F_183Lg" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/18.png" 
+                             alt="Part 18" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 18 : Mandala 8, Sūkta 1–15 :</div>
+                            <div class="line2">The Pragātha Chants of Indra</div>
+                            <div class="line3">ಭಾಗ18:ಮಂಡಲ 8, ಸೂಕ್ತ 1–15</div>
+                            <div class="line4">ಇಂದ್ರನ ಪ್ರಗಾಥ ಮಂತ್ರಗಳು</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/qPMqaNDlbcY" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/19.png" 
+                             alt="Part 19" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 19 : Mandala 8, Sūkta 16–32 :</div>
+                            <div class="line2">The Divine Healers</div>
+                            <div class="line3">ಭಾಗ19:ಮಂಡಲ 8, ಸೂಕ್ತ 16–32</div>
+                            <div class="line4">ದಿವ್ಯ ವೈದ್ಯರು - ಅಶ್ವಿನಿ ದೇವತೆಗಳ ಆರಾಧನೆ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/zUa0t8B3_-4" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/20.png" 
+                             alt="Part 20" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 20 : Mandala 8, Sūkta 33–66 :</div>
+                            <div class="line2">The Harvest of Friendship</div>
+                            <div class="line3">ಭಾಗ20:ಮಂಡಲ 8, ಸೂಕ್ತ 33–66</div>
+                            <div class="line4">ಸೌಹಾರ್ದದ ಸುಗ್ಗಿ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/F-Q0MuG4TcQ" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/21.png" 
+                             alt="Part 21" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 21 : Mandala 8, Sūkta 67–103 :</div>
+                            <div class="line2">The Kāṇva Summit — Completion</div>
+                            <div class="line3">ಭಾಗ21:ಮಂಡಲ 8, ಸೂಕ್ತ 67–103</div>
+                            <div class="line4">ಕಣ್ವ ಶಿಖರ - ಸಮಾಪ್ತಿ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/1UfLD1M2dg0" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/22.png" 
+                             alt="Part 22" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 22 : Mandala 9, Sūkta 1–67 :</div>
+                            <div class="line2">Pavamāna: Soma That Awakens Within</div>
+                            <div class="line3">ಭಾಗ22:ಮಂಡಲ 9, ಸೂಕ್ತ 1–67</div>
+                            <div class="line4">ಪವಮಾನ: ಅಂತರಾತ್ಮವನ್ನು ಜಾಗೃತಗೊಳಿಸುವ ಸೋಮ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/F5N7T3ywMNs" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/23.png" 
+                             alt="Part 23" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 23 : Mandala 9, Sūkta 68–97 :</div>
+                            <div class="line2">The Refinement of Thought</div>
+                            <div class="line3">ಭಾಗ23:ಮಂಡಲ 9, ಸೂಕ್ತ 68–97</div>
+                            <div class="line4">ವಿಚಾರ ಸಂಸ್ಕಾರ - ಸೋಮನ ದಿವ್ಯ ಶುದ್ಧೀಕರಣ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/6FprnFuIM68" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/24.png" 
+                             alt="Part 24" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 24 : Mandala 9, Sūkta 98–114 :</div>
+                            <div class="line2">The Celestial Moon</div>
+                            <div class="line3">ಭಾಗ24:ಮಂಡಲ 9, ಸೂಕ್ತ 98–114</div>
+                            <div class="line4">ದಿವ್ಯ ಚಂದ್ರಮ - ಸೋಮ ಮಂಡಲದ ಪೂರ್ಣತ್ವ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/s9eDtDMiAKs" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/25.png" 
+                             alt="Part 25" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 25 : Mandala 10, Sūkta 1–34 :</div>
+                            <div class="line2">The Seeker's Questions</div>
+                            <div class="line3">ಭಾಗ25:ಮಂಡಲ 10, ಸೂಕ್ತ 1–34</div>
+                            <div class="line4">ಸಾಧಕನ ಜಿಜ್ಞಾಸೆ - ಸೃಷ್ಟಿಯ ಅನ್ವೇಷಣೆ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/iL2XRCtbUNI" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/26.png" 
+                             alt="Part 26" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 26 : Mandala 10, Sūkta 35–70 :</div>
+                            <div class="line2">The Hidden Architecture</div>
+                            <div class="line3">ಭಾಗ26:ಮಂಡಲ 10, ಸೂಕ್ತ 35–70</div>
+                            <div class="line4">ನಿಗೂಢ ವಿಶ್ವನಿರ್ಮಾಣ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/Z7QnpHLod_E" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/27.png" 
+                             alt="Part 27" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 27 : Mandala 10, Sūkta 71–90 :</div>
+                            <div class="line2">The Cosmic Puruṣa</div>
+                            <div class="line3">ಭಾಗ27:ಮಂಡಲ 10, ಸೂಕ್ತ 71–90</div>
+                            <div class="line4">ವಿರಾಟ್ ಪುರುಷ - ಬ್ರಹ್ಮಾಂಡದ ದಿವ್ಯ ಚೈತನ್ಯ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/XD6i31hFEKE" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/28.png" 
+                             alt="Part 28" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 28 : Mandala 10, Sūkta 91–128 :</div>
+                            <div class="line2">Life's Sacred Passages</div>
+                            <div class="line3">ಭಾಗ28:ಮಂಡಲ 10, ಸೂಕ್ತ 91–128</div>
+                            <div class="line4">ಜೀವನದ ಪವಿತ್ರ ಸಂಸ್ಕಾರಗಳು</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/OtFmv3jX48Q" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/29.png" 
+                             alt="Part 29" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 29 : Mandala 10, Sūkta 129–155 :</div>
+                            <div class="line2">The Primordial Mystery</div>
+                            <div class="line3">ಭಾಗ29:ಮಂಡಲ 10, ಸೂಕ್ತ 129–155</div>
+                            <div class="line4">ಆದಿಮ ರಹಸ್ಯ - ಸೃಷ್ಟಿಯ ಮೂಲ ಜಿಜ್ಞಾಸೆ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+                <a href="https://youtu.be/R0qKlP0iXcs" target="_blank" class="video-card">
+                    <div class="thumbnail-container">
+                        <img src="https://raw.githubusercontent.com/ravindraputhuraya/Rigveda-samhita-player/main/YT_PNG/30.png" 
+                             alt="Part 30" class="video-thumbnail">
+                        
+                        <div class="text-overlay">
+                            <div class="line1">Part 30 : Mandala 10, Sūkta 156–191 :</div>
+                            <div class="line2">The Final Harmony</div>
+                            <div class="line3">ಭಾಗ30:ಮಂಡಲ 10, ಸೂಕ್ತ 156–191</div>
+                            <div class="line4">ಅಂತಿಮ ಸಾಮರಸ್ಯ - ಸಂಘಟನೆಯ ಸುಗೀತೆ</div>
+                        </div>
+                        
+                        <div class="play-icon"></div>
+                    </div>
+                </a>
+            </div>
         </div>
+
 
         <!-- Footer -->
         <footer>
