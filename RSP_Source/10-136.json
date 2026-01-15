@@ -1,0 +1,790 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S136_191-1_7",
+      "mandala": 10,
+      "sukta": 136,
+      "ric_index": 1,
+      "rig_lines": [
+        "के॒श्य१॑(अ॒)ग्निं के॒शी वि॒षं के॒शी बि॑भर्ति॒ रोद॑सी |",
+        "के॒शी विश्वं॒ स्व॑र्दृ॒शे के॒शीदं ज्योति॑रुच्यते ||"
+      ],
+      "pre_splits": [
+        "के॒शी",
+        "अ॒ग्नि‌म्",
+        "के॒शी",
+        "वि॒ष‌म्",
+        "के॒शी",
+        "बि॒भ॒र्ति॒",
+        "रोद॑सी॒ इति॑",
+        "के॒शी",
+        "विश्व᳚‌म्",
+        "स्वः॑",
+        "दृ॒शे",
+        "के॒शी",
+        "इ॒द‌म्",
+        "ज्योतिः॑",
+        "उ॒च्य॒ते॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "के॒शी",
+          "pada_kn": "ಕೇಶೀ",
+          "meaning_en": "The long-haired one / the Keshin",
+          "meaning_kn": "ಕೇಶಿ / ಉದ್ದನೆಯ ಕೂದಲಿನವನು"
+        },
+        {
+          "pada_original": "अ॒ग्नि‌म्",
+          "pada_kn": "ಅಗ್ನಿಮ್",
+          "meaning_en": "Fire / Agni",
+          "meaning_kn": "ಅಗ್ನಿ / ಬೆಂಕಿ"
+        },
+        {
+          "pada_original": "के॒शी",
+          "pada_kn": "ಕೇಶೀ",
+          "meaning_en": "The long-haired one / the Keshin",
+          "meaning_kn": "ಕೇಶಿ / ಉದ್ದನೆಯ ಕೂದಲಿನವನು"
+        },
+        {
+          "pada_original": "वि॒ष‌म्",
+          "pada_kn": "ವಿಷಮ್",
+          "meaning_en": "Poison / venom",
+          "meaning_kn": "ವಿಷ / ನಂಜು"
+        },
+        {
+          "pada_original": "के॒शी",
+          "pada_kn": "ಕೇಶೀ",
+          "meaning_en": "The long-haired one / the Keshin",
+          "meaning_kn": "ಕೇಶಿ / ಉದ್ದನೆಯ ಕೂದಲಿನವನು"
+        },
+        {
+          "pada_original": "बि॒भ॒र्ति॒",
+          "pada_kn": "ಬಿಭರ್ತಿ",
+          "meaning_en": "Bears / carries / sustains",
+          "meaning_kn": "ಧರಿಸುತ್ತಾನೆ / ಪೋಷಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "रोद॑सी॒ इति॑",
+          "pada_kn": "ರೋದಸೀ ಇತಿ",
+          "meaning_en": "The two worlds (heaven and earth)",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥಿವಿಗಳು / ಎರಡು ಲೋಕಗಳು"
+        },
+        {
+          "pada_original": "के॒शी",
+          "pada_kn": "ಕೇಶೀ",
+          "meaning_en": "The long-haired one / the Keshin",
+          "meaning_kn": "ಕೇಶಿ / ಉದ್ದನೆಯ ಕೂದಲಿನವನು"
+        },
+        {
+          "pada_original": "विश्व᳚‌म्",
+          "pada_kn": "ವಿಶ್ವಮ್",
+          "meaning_en": "All / the universe",
+          "meaning_kn": "ಎಲ್ಲವನ್ನೂ / ವಿಶ್ವವನ್ನು"
+        },
+        {
+          "pada_original": "स्वः॑",
+          "pada_kn": "ಸ್ವಃ",
+          "meaning_en": "Heaven / light / the sun",
+          "meaning_kn": "ಸ್ವರ್ಗ / ಬೆಳಕು / ಸೂರ್ಯ"
+        },
+        {
+          "pada_original": "दृ॒शे",
+          "pada_kn": "ದೃಶೇ",
+          "meaning_en": "For seeing / to behold",
+          "meaning_kn": "ನೋಡಲು / ಕಾಣಲು"
+        },
+        {
+          "pada_original": "के॒शी",
+          "pada_kn": "ಕೇಶೀ",
+          "meaning_en": "The long-haired one / the Keshin",
+          "meaning_kn": "ಕೇಶಿ / ಉದ್ದನೆಯ ಕೂದಲಿನವನು"
+        },
+        {
+          "pada_original": "इ॒द‌म्",
+          "pada_kn": "ಇದಮ್",
+          "meaning_en": "This",
+          "meaning_kn": "ಇದು / ಈ"
+        },
+        {
+          "pada_original": "ज्योतिः॑",
+          "pada_kn": "ಜ್ಯೋತಿಃ",
+          "meaning_en": "Light",
+          "meaning_kn": "ಜ್ಯೋತಿ / ಬೆಳಕು"
+        },
+        {
+          "pada_original": "उ॒च्य॒ते॒",
+          "pada_kn": "ಉಚ್ಯತೇ",
+          "meaning_en": "Is called / is said to be",
+          "meaning_kn": "ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ / ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ"
+        }
+      ],
+      "full_meaning_en": "O Agni, the one with long hair (keśī) bears the poison (viṣam); the one with long hair bears the heaven and earth (rodasī). The one with long hair is visible to all the world (viśvam svar dṛśe); the one with long hair is called this light (idam jyotiḥ).",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ಉದ್ದ ಕೂದಲಿನವನು (ಕೇಶೀ) ವಿಷವನ್ನು (ವಿಷಂ) ಧರಿಸುತ್ತಾನೆ; ಉದ್ದ ಕೂದಲಿನವನು ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯನ್ನು (ರೋದಸೀ) ಧರಿಸುತ್ತಾನೆ. ಉದ್ದ ಕೂದಲಿನವನು ಜಗತ್ತಿಗೆಲ್ಲಾ (ವಿಶ್ವಂ ಸ್ವರ್ ದೃಶೇ) ಕಾಣುತ್ತಾನೆ; ಉದ್ದ ಕೂದಲಿನವನನ್ನು ಈ ಬೆಳಕು (ಇದಂ ಜ್ಯೋತಿಃ) ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra speaks of अग्नि (Agni) as keśī, one with long hair, symbolizing untamed energy and power. Bearing poison (विषं) alludes to Agni's capacity to consume and transform negative energies. Carrying heaven and earth (रोदसी) signifies Agni as the sustainer of the cosmos. Being visible to all the world (विश्वं स्वर्दृशे) indicates Agni's universal presence and accessibility. This light (ज्योतिः) refers to the illuminating and enlightening nature of अग्नि, revealing ultimate truth and wisdom. Agni is not just fire but the divine force that purifies, sustains, and illuminates the universe.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯನ್ನು ಕೇಶೀ ಎಂದು ಸಂಬೋಧಿಸುತ್ತದೆ, ಉದ್ದನೆಯ ಕೂದಲನ್ನು ಹೊಂದಿರುವವನು, ಇದು ಪಳಗಿಸದ ಶಕ್ತಿ ಮತ್ತು ಸಾಮರ್ಥ್ಯದ ಸಂಕೇತವಾಗಿದೆ. ವಿಷವನ್ನು (ವಿಷಂ) ಹೊಂದುವುದು ಅಗ್ನಿಯು ಋಣಾತ್ಮಕ ಶಕ್ತಿಗಳನ್ನು ಸೇವಿಸುವ ಮತ್ತು ಪರಿವರ್ತಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯನ್ನು (ರೋದಸೀ) ಹೊಂದುವುದು ಅಗ್ನಿಯು ವಿಶ್ವದ ಪೋಷಕ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಜಗತ್ತಿಗೆಲ್ಲಾ ಗೋಚರಿಸುವುದು (ವಿಶ್ವಂ ಸ್ವರ್ದೃಶೇ) ಅಗ್ನಿಯ ಸಾರ್ವತ್ರಿಕ ಉಪಸ್ಥಿತಿ ಮತ್ತು ಪ್ರವೇಶವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಬೆಳಕು (ಜ್ಯೋತಿಃ) ಅಗ್ನಿಯ ಪ್ರಕಾಶಮಾನವಾದ ಮತ್ತು ಜ್ಞಾನೋದಯದ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಅಂತಿಮ ಸತ್ಯ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಅಗ್ನಿ ಕೇವಲ ಬೆಂಕಿಯಲ್ಲ, ಆದರೆ ಬ್ರಹ್ಮಾಂಡವನ್ನು ಶುದ್ಧೀಕರಿಸುವ, ಉಳಿಸಿಕೊಳ್ಳುವ ಮತ್ತು ಬೆಳಗಿಸುವ ದೈವಿಕ ಶಕ್ತಿಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S136_191-2_7",
+      "mandala": 10,
+      "sukta": 136,
+      "ric_index": 2,
+      "rig_lines": [
+        "मुन॑यो॒ वात॑रशनाः पि॒शङ्गा᳚ वसते॒ मला᳚ |",
+        "वात॒स्यानु॒ ध्राजिं᳚ यन्ति॒ यद्दे॒वासो॒, अवि॑क्षत ||"
+      ],
+      "pre_splits": [
+        "मुन॑यः",
+        "वात॑ऽरशनाः",
+        "पि॒शङ्गाः᳚",
+        "व॒स॒ते॒",
+        "मला᳚",
+        "वात॑स्य",
+        "अनु॑",
+        "ध्राजि᳚‌म्",
+        "यन्ति॑",
+        "यत्",
+        "दे॒वासः॑",
+        "अवि॑क्षत"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "मुन॑यः",
+          "pada_kn": "ಮುನಯಃ",
+          "meaning_en": "Sages / Seers",
+          "meaning_kn": "ಋಷಿಗಳು / ಮುನಿಗಳು"
+        },
+        {
+          "pada_original": "वात॑ऽरशनाः",
+          "pada_kn": "ವಾತಽರಶನಾಃ",
+          "meaning_en": "wind-girdled (clad in wind)",
+          "meaning_kn": "ಗಾಳಿಯೇ ವಸ್ತ್ರವಾಗಿ ಉಳ್ಳವರು"
+        },
+        {
+          "pada_original": "पि॒शङ्गाः᳚",
+          "pada_kn": "ಪಿಶಙ್ಗಾಃ",
+          "meaning_en": "tawny / reddish-brown",
+          "meaning_kn": "ಕಂದುಬಣ್ಣದ / ಹಳದಿ ಮಿಶ್ರಿತ ಕೆಂಪು ಬಣ್ಣದ"
+        },
+        {
+          "pada_original": "व॒स॒ते॒",
+          "pada_kn": "ವಸತೇ",
+          "meaning_en": "they wear / they put on",
+          "meaning_kn": "ಅವರು ಧರಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "मला᳚",
+          "pada_kn": "ಮಲಾ",
+          "meaning_en": "soiled garments / dirty clothes",
+          "meaning_kn": "ಮಲಿನ ವಸ್ತ್ರಗಳನ್ನು / ಕೊಳಕು ಬಟ್ಟೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "वात॑स्य",
+          "pada_kn": "ವಾತಸ್ಯ",
+          "meaning_en": "of the wind",
+          "meaning_kn": "ಗಾಳಿಯ"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "after / following",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಹಿಂಬಾಲಿಸಿ"
+        },
+        {
+          "pada_original": "ध्राजि᳚‌म्",
+          "pada_kn": "ಧ್ರಾಜಿಮ್",
+          "meaning_en": "course / swift movement",
+          "meaning_kn": "ವೇಗವಾದ ಚಲನೆಯನ್ನು / ಗತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "यन्ति॑",
+          "pada_kn": "ಯಂತಿ",
+          "meaning_en": "they go / they move",
+          "meaning_kn": "ಅವರು ಹೋಗುತ್ತಾರೆ / ಚಲಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / that",
+          "meaning_kn": "ಯಾವಾಗ / ಯಾವ"
+        },
+        {
+          "pada_original": "दे॒वासः॑",
+          "pada_kn": "ದೇವಾಸಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "अवि॑क्षत",
+          "pada_kn": "ಅವಿಕ್ಷತ",
+          "meaning_en": "they entered / they perceived",
+          "meaning_kn": "ಅವರು ಪ್ರವೇಶಿಸಿದರು / ಅವರು ತಿಳಿದುಕೊಂಡರು"
+        }
+      ],
+      "full_meaning_en": "The ascetics, girdled by the wind, wear ochre-colored dirty clothes. They follow the course of the wind when the gods have entered into them.",
+      "full_meaning_kn": "ವಾಯುವಿನಿಂದ ಸುತ್ತುವರಿಯಲ್ಪಟ್ಟ ತಪಸ್ವಿಗಳು, ಕೇಸರಿ ಬಣ್ಣದ ಕೊಳಕು ಬಟ್ಟೆಗಳನ್ನು ಧರಿಸುತ್ತಾರೆ. ದೇವರುಗಳು ಅವರೊಳಗೆ ಪ್ರವೇಶಿಸಿದಾಗ ಅವರು ಗಾಳಿಯ ಹಾದಿಯನ್ನು ಅನುಸರಿಸುತ್ತಾರೆ.",
+      "rig_time_s": 13.932,
+      "Insight_en": "This mantra speaks of the Munis, ascetics who have renounced worldly possessions and live a life of austerity. Their clothing is simple and reflects their detachment from material comforts. The phrase \"girdled by the wind\" suggests their freedom and lack of constraint, moving as the wind moves. When the Devas (देवस) enter them, it signifies a state of heightened spiritual awareness, enabling them to perceive and follow the subtle energies of the universe. This implies that through asceticism and devotion, one can attain a state of communion with the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಮುನಿಗಳ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ, ಅವರು ಲೌಕಿಕ ಆಸ್ತಿಯನ್ನು ತ್ಯಜಿಸಿ ತಪಸ್ಸಿನ ಜೀವನವನ್ನು ನಡೆಸುತ್ತಾರೆ. ಅವರ ಬಟ್ಟೆ ಸರಳವಾಗಿದೆ ಮತ್ತು ಭೌತಿಕ ಸೌಕರ್ಯಗಳಿಂದ ಬೇರ್ಪಡುವಿಕೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. \"ಗಾಳಿಯಿಂದ ಸುತ್ತುವರಿಯಲ್ಪಟ್ಟ\" ಎಂಬ ಪದವು ಅವರ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ನಿರ್ಬಂಧದ ಕೊರತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಗಾಳಿಯು ಚಲಿಸುವಂತೆ ಚಲಿಸುತ್ತದೆ. ದೇವತೆಗಳು (ದೇವಸ) ಅವರೊಳಗೆ ಪ್ರವೇಶಿಸಿದಾಗ, ಅದು ಉನ್ನತ ಆಧ್ಯಾತ್ಮಿಕ ಜಾಗೃತಿಯ ಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಬ್ರಹ್ಮಾಂಡದ ಸೂಕ್ಷ್ಮ ಶಕ್ತಿಗಳನ್ನು ಗ್ರಹಿಸಲು ಮತ್ತು ಅನುಸರಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಇದರರ್ಥ ತಪಸ್ಸು ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ, ದೈವಿಕತೆಯೊಂದಿಗೆ ಸಂವಹನದ ಸ್ಥಿತಿಯನ್ನು ಸಾಧಿಸಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S136_191-3_7",
+      "mandala": 10,
+      "sukta": 136,
+      "ric_index": 3,
+      "rig_lines": [
+        "उन्म॑दिता॒ मौने᳚येन॒ वाताँ॒, आ त॑स्थिमा व॒यम् |",
+        "शरी॒रेद॒स्माकं᳚ यू॒यं मर्ता᳚सो, अ॒भि प॑श्यथ ||"
+      ],
+      "pre_splits": [
+        "उत्ऽम॑दिताः",
+        "मौने᳚येन",
+        "वाता᳚न्",
+        "आ",
+        "त॒स्थि॒म॒",
+        "व॒य‌म्",
+        "शरी᳚रा",
+        "इत्",
+        "अ॒स्माक᳚‌म्",
+        "यू॒य‌म्",
+        "मर्ता᳚सः",
+        "अ॒भि",
+        "प॒श्य॒थ॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उत्ऽम॑दिताः",
+          "pada_kn": "ಉತ್ಮದಿತಾಃ",
+          "meaning_en": "ecstatic / divinely intoxicated",
+          "meaning_kn": "ದೈವಿಕವಾಗಿ ಉನ್ಮತ್ತರಾದ / ಆನಂದಭರಿತರಾದ"
+        },
+        {
+          "pada_original": "मौने᳚येन",
+          "pada_kn": "ಮೌನೇಯೇನ",
+          "meaning_en": "by asceticism / by the state of a muni",
+          "meaning_kn": "ಮೌನದಿಂದ / ಮುನಿತ್ವದಿಂದ / ತಪಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "वाता᳚न्",
+          "pada_kn": "ವಾತಾನ್",
+          "meaning_en": "the winds",
+          "meaning_kn": "ಗಾಳಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(preverb) towards / completely",
+          "meaning_kn": "ಪೂರ್ಣವಾಗಿ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "त॒स्थि॒म॒",
+          "pada_kn": "ತಸ್ಥಿಮ",
+          "meaning_en": "we have stood / we have attained",
+          "meaning_kn": "ನಾವು ನಿಂತಿದ್ದೇವೆ / ನಾವು ಹೊಂದಿದ್ದೇವೆ"
+        },
+        {
+          "pada_original": "व॒य‌म्",
+          "pada_kn": "ವಯಮ್",
+          "meaning_en": "we",
+          "meaning_kn": "ನಾವು"
+        },
+        {
+          "pada_original": "शरी᳚रा",
+          "pada_kn": "ಶರೀರಾ",
+          "meaning_en": "O bodies / O mortals (referring to physical form)",
+          "meaning_kn": "ಓ ಶರೀರಗಳೇ / ಓ ಮರ್ತ್ಯರೇ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अ॒स्माक᳚‌म्",
+          "pada_kn": "ಅಸ್ಮಾಕಮ್",
+          "meaning_en": "our",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "यू॒य‌म्",
+          "pada_kn": "ಯೂಯಮ್",
+          "meaning_en": "you (plural)",
+          "meaning_kn": "ನೀವು"
+        },
+        {
+          "pada_original": "मर्ता᳚सः",
+          "pada_kn": "ಮರ್ತಾಸಃ",
+          "meaning_en": "O mortals",
+          "meaning_kn": "ಓ ಮರ್ತ್ಯರೇ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "(preverb) clearly / towards",
+          "meaning_kn": "ಸ್ಪಷ್ಟವಾಗಿ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "प॒श्य॒थ॒",
+          "pada_kn": "ಪಶ್ಯಥ",
+          "meaning_en": "you see / you behold",
+          "meaning_kn": "ನೀವು ನೋಡುತ್ತೀರಿ / ನೀವು ಕಾಣುತ್ತೀರಿ"
+        }
+      ],
+      "full_meaning_en": "We have become elated by silence, and we have sustained the winds. You, who are mortal, look upon this body of ours.",
+      "full_meaning_kn": "ನಾವು ಮೌನದಿಂದ ಉಲ್ಲಸಿತರಾಗಿದ್ದೇವೆ, ಮತ್ತು ನಾವು ಗಾಳಿಯನ್ನು ಉಳಿಸಿಕೊಂಡಿದ್ದೇವೆ. ಮರ್ತ್ಯರಾದ ನೀವು ನಮ್ಮ ಈ ದೇಹವನ್ನು ನೋಡುತ್ತೀರಿ.",
+      "rig_time_s": 26.347,
+      "Insight_en": "This mantra speaks to the state of heightened awareness and spiritual elevation achieved through silence (मौनेन). The speaker, having mastered the inner winds or vital energies (वाताँ), transcends the limitations of mortal existence. The body is presented as an object of observation, suggesting detachment from physical identity. This implies a yogic accomplishment where the practitioner realizes the divine within, becoming a witness (साक्षी) to the physical realm. The attainment signifies liberation (मोक्ष) from the cycle of birth and death by recognizing the self as distinct from the mortal frame.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಮೌನದ ಮೂಲಕ ಸಾಧಿಸಿದ ಉನ್ನತ ಜಾಗೃತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಉನ್ನತಿಯ ಸ್ಥಿತಿಯನ್ನು ಹೇಳುತ್ತದೆ. ಆಂತರಿಕ ಗಾಳಿ ಅಥವಾ ಪ್ರಾಣ ಶಕ್ತಿಯನ್ನು ಸದುಪಯೋಗಪಡಿಸಿಕೊಂಡು ಮರ್ತ್ಯ ಅಸ್ತಿತ್ವದ ಮಿತಿಗಳನ್ನು ಮೀರಿ ನಿಲ್ಲುತ್ತಾರೆ. ದೇಹವನ್ನು ವೀಕ್ಷಣೆಯ ವಸ್ತುವಾಗಿ ಪ್ರಸ್ತುತಪಡಿಸಲಾಗಿದೆ, ಇದು ಭೌತಿಕ ಗುರುತಿನಿಂದ ಬೇರ್ಪಡುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಭ್ಯಾಸಕನು ತನ್ನೊಳಗೆ ದೈವತ್ವವನ್ನು ಅರಿತುಕೊಳ್ಳುವ ಯೋಗಿಕ ಸಾಧನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಭೌತಿಕ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಾಕ್ಷಿಯಾಗುತ್ತಾನೆ. ಮರ್ತ್ಯ ಚೌಕಟ್ಟಿನಿಂದ ತನ್ನನ್ನು ತಾನು ವಿಭಿನ್ನವೆಂದು ಗುರುತಿಸುವ ಮೂಲಕ ಜನ್ಮ ಮತ್ತು ಮರಣದ ಚಕ್ರದಿಂದ ವಿಮೋಚನೆ ಸಿಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S136_191-4_7",
+      "mandala": 10,
+      "sukta": 136,
+      "ric_index": 4,
+      "rig_lines": [
+        "अ॒न्तरि॑क्षेण पतति॒ विश्वा᳚ रू॒पाव॒चाक॑शत् |",
+        "मुनि॑र्दे॒वस्य॑देवस्य॒ सौकृ॑त्याय॒ सखा᳚ हि॒तः ||"
+      ],
+      "pre_splits": [
+        "अ॒न्तरि॑क्षेण",
+        "प॒त॒ति॒",
+        "विश्वा᳚",
+        "रू॒पा",
+        "अ॒व॒ऽचाक॑शत्",
+        "मुनिः॑",
+        "दे॒वस्य॑ऽदेवस्य",
+        "सौकृ॑त्याय",
+        "सखा᳚",
+        "हि॒तः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒न्तरि॑क्षेण",
+          "pada_kn": "ಅಂತರಿಕ್ಷೇಣ",
+          "meaning_en": "through the mid-region / through the atmosphere",
+          "meaning_kn": "ಅಂತರಿಕ್ಷದ ಮೂಲಕ / ಆಕಾಶದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "प॒त॒ति॒",
+          "pada_kn": "ಪತತಿ",
+          "meaning_en": "flies / moves swiftly",
+          "meaning_kn": "ಹಾರುತ್ತಾನೆ / ಚಲಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all / every",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "रू॒पा",
+          "pada_kn": "ರೂಪಾ",
+          "meaning_en": "forms / appearances",
+          "meaning_kn": "ರೂಪಗಳನ್ನು / ಆಕಾರಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अ॒व॒ऽचाक॑शत्",
+          "pada_kn": "ಅವಚಾಕಶತ್",
+          "meaning_en": "beholding / observing",
+          "meaning_kn": "ನೋಡುತ್ತಾ / ಪ್ರಕಾಶಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "मुनिः॑",
+          "pada_kn": "ಮುನಿಃ",
+          "meaning_en": "the seer / the silent one",
+          "meaning_kn": "ಮುನಿ / ದ್ರಷ್ಟಾರ"
+        },
+        {
+          "pada_original": "दे॒वस्य॑ऽदेवस्य",
+          "pada_kn": "ದೇವಸ್ಯದೇವಸ್ಯ",
+          "meaning_en": "of every god / of each deity",
+          "meaning_kn": "ಪ್ರತಿಯೊಂದು ದೇವತೆಯ / ದೇವ ದೇವನ"
+        },
+        {
+          "pada_original": "सौकृ॑त्याय",
+          "pada_kn": "ಸೌಕೃತ್ಯಾಯ",
+          "meaning_en": "for the good deed / for the welfare",
+          "meaning_kn": "ಸತ್ಕಾರ್ಯಕ್ಕಾಗಿ / ಒಳಿತಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "सखा᳚",
+          "pada_kn": "ಸಖಾ",
+          "meaning_en": "friend / companion",
+          "meaning_kn": "ಗೆಳೆಯ / ಮಿತ್ರ"
+        },
+        {
+          "pada_original": "हि॒तः",
+          "pada_kn": "ಹಿತಃ",
+          "meaning_en": "appointed / established",
+          "meaning_kn": "ಇರಿಸಲ್ಪಟ್ಟಿದ್ದಾನೆ / ನೇಮಿಸಲ್ಪಟ್ಟಿದ್ದಾನೆ"
+        }
+      ],
+      "full_meaning_en": "He flies through the sky, beholding all forms, shining brightly. The sage, the friend of the divine deity, is established for good deeds.",
+      "full_meaning_kn": "ಅವನು ಆಕಾಶದ ಮೂಲಕ ಹಾರುತ್ತಾನೆ, ಎಲ್ಲಾ ರೂಪಗಳನ್ನು ನೋಡುತ್ತಾನೆ, ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತಾನೆ. ಋಷಿಯು, ದೈವಿಕ ದೇವತೆಯ ಸ್ನೇಹಿತ, ಒಳ್ಳೆಯ ಕಾರ್ಯಗಳಿಗಾಗಿ ಸ್ಥಾಪಿತನಾಗಿದ್ದಾನೆ.",
+      "rig_time_s": 39.544,
+      "Insight_en": "This mantra speaks of the sage (मुनि) traversing the sky (अन्तरिक्षेण), signifying a spiritual journey through the realms of consciousness. The sage beholds all forms (विश्वा रूपा), suggesting an understanding of the manifest universe as expressions of the divine. He is a friend (सखा) of the deity (देवस्य), indicating a deep connection and devotion. Established for good deeds (सौकृत्याय), the sage's actions are aligned with dharma, promoting well-being and spiritual growth. The mantra emphasizes the importance of inner exploration and virtuous conduct in realizing the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಆಕಾಶದ ಮೂಲಕ ಸಾಗುವ ಋಷಿಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ, ಇದು ಪ್ರಜ್ಞೆಯ ಕ್ಷೇತ್ರಗಳ ಮೂಲಕ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯಾಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಋಷಿಯು ಎಲ್ಲಾ ರೂಪಗಳನ್ನು ನೋಡುತ್ತಾನೆ, ಇದು ವ್ಯಕ್ತ ಜಗತ್ತನ್ನು ದೈವಿಕ ಅಭಿವ್ಯಕ್ತಿಗಳೆಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತಾನೆ. ಅವನು ದೇವತೆಯ ಸ್ನೇಹಿತ, ಇದು ಆಳವಾದ ಸಂಪರ್ಕ ಮತ್ತು ಭಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಒಳ್ಳೆಯ ಕಾರ್ಯಗಳಿಗಾಗಿ ಸ್ಥಾಪಿತನಾಗಿ, ಋಷಿಯ ಕಾರ್ಯಗಳು ಧರ್ಮಕ್ಕೆ ಅನುಗುಣವಾಗಿರುತ್ತವೆ, ಯೋಗಕ್ಷೇಮ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತವೆ. ದೈವವನ್ನು ಅರಿಯಲು ಆಂತರಿಕ ಪರಿಶೋಧನೆ ಮತ್ತು ಸದ್ಗುಣಶೀಲ ನಡವಳಿಕೆಯ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಮಂತ್ರವು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S136_191-5_7",
+      "mandala": 10,
+      "sukta": 136,
+      "ric_index": 5,
+      "rig_lines": [
+        "वात॒स्याश्वो᳚ वा॒योः सखाथो᳚ दे॒वेषि॑तो॒ मुनिः॑ |",
+        "उ॒भौ स॑मु॒द्रावा क्षे᳚ति॒ यश्च॒ पूर्व॑ उ॒ताप॑रः ||"
+      ],
+      "pre_splits": [
+        "वात॑स्य",
+        "अश्वः॑",
+        "वा॒योः",
+        "सखा᳚",
+        "अथो॒ इति॑",
+        "दे॒वऽ‌इ᳚षितः",
+        "मुनिः॑",
+        "उ॒भौ",
+        "स॒मु॒द्रौ",
+        "आ",
+        "क्षे॒ति॒",
+        "यः",
+        "च॒",
+        "पूर्वः॑",
+        "उ॒त",
+        "अप॑रः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वात॑स्य",
+          "pada_kn": "ವಾತಸ್ಯ",
+          "meaning_en": "Of Vāta / Of the wind",
+          "meaning_kn": "ವಾತನ / ಗಾಳಿಯ"
+        },
+        {
+          "pada_original": "अश्वः॑",
+          "pada_kn": "ಅಶ್ವಃ",
+          "meaning_en": "Steed / horse",
+          "meaning_kn": "ಅಶ್ವ / ಕುದುರೆ"
+        },
+        {
+          "pada_original": "वा॒योः",
+          "pada_kn": "ವಾಯೋಃ",
+          "meaning_en": "Of Vāyu / Of the wind",
+          "meaning_kn": "ವಾಯುವಿನ / ಗಾಳಿಯ"
+        },
+        {
+          "pada_original": "सखा᳚",
+          "pada_kn": "ಸಖಾ",
+          "meaning_en": "Friend / companion",
+          "meaning_kn": "ಸ್ನೇಹಿತ / ಸಂಗಾತಿ"
+        },
+        {
+          "pada_original": "अथो॒ इति॑",
+          "pada_kn": "ಅಥೋ ಇತಿ",
+          "meaning_en": "And then / moreover",
+          "meaning_kn": "ಮತ್ತು / ಅಲ್ಲದೆ"
+        },
+        {
+          "pada_original": "दे॒वऽ‌इ᳚षितः",
+          "pada_kn": "ದೇವಇಷಿತಃ",
+          "meaning_en": "Impelled by gods / divinely inspired",
+          "meaning_kn": "ದೇವರಿಂದ ಪ್ರೇರಿತ / ದೈವಿಕವಾಗಿ ಪ್ರಚೋದಿತ"
+        },
+        {
+          "pada_original": "मुनिः॑",
+          "pada_kn": "ಮುನಿಃ",
+          "meaning_en": "Seer / sage / inspired one",
+          "meaning_kn": "ಮುನಿ / ಋಷಿ"
+        },
+        {
+          "pada_original": "उ॒भौ",
+          "pada_kn": "ಉಭೌ",
+          "meaning_en": "Both",
+          "meaning_kn": "ಎರಡೂ"
+        },
+        {
+          "pada_original": "स॒मु॒द्रौ",
+          "pada_kn": "ಸಮುದ್ರೌ",
+          "meaning_en": "Oceans / seas",
+          "meaning_kn": "ಸಮುದ್ರಗಳನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Up to / towards / completely",
+          "meaning_kn": "ವರೆಗೂ / ಪೂರ್ತಿಯಾಗಿ"
+        },
+        {
+          "pada_original": "क्षे॒ति॒",
+          "pada_kn": "ಕ್ಷೇತಿ",
+          "meaning_en": "Dwells / resides / inhabits",
+          "meaning_kn": "ವಾಸಿಸುತ್ತಾನೆ / ನೆಲೆಸಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Which / who",
+          "meaning_kn": "ಯಾವುದು / ಯಾರು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "पूर्वः॑",
+          "pada_kn": "ಪೂರ್ವಃ",
+          "meaning_en": "Eastern / former",
+          "meaning_kn": "ಪೂರ್ವದ / ಮೊದಲಿನ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "And / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "अप॑रः",
+          "pada_kn": "ಅಪರಃ",
+          "meaning_en": "Western / other",
+          "meaning_kn": "ಪಶ್ಚಿಮದ / ಇನ್ನೊಂದು"
+        }
+      ],
+      "full_meaning_en": "The horse of Vata (wind), the friend of Vayu (air), then, impelled by the gods, the sage dwells upon both the seas, that which is eastern and also the western.",
+      "full_meaning_kn": "ವಾಯುವಿನ ಕುದುರೆ, ವಾಯುವಿನ ಸ್ನೇಹಿತ, ನಂತರ, ದೇವತೆಗಳಿಂದ ಪ್ರೇರಿತವಾಗಿ, ಋಷಿಯು ಎರಡು ಸಾಗರಗಳ ಮೇಲೆ ವಾಸಿಸುತ್ತಾನೆ, ಅದು ಪೂರ್ವ ಮತ್ತು ಪಶ್ಚಿಮ.",
+      "rig_time_s": 51.273,
+      "Insight_en": "This mantra speaks of a sage intimately connected with Vata (वात) and Vayu (वायु), representing the subtle energies and vital breath. Impelled by divine inspiration (देवेषित), the sage transcends physical limitations to dwell upon both seas, symbolizing the totality of existence. The 'eastern' and 'western' seas may represent the duality of manifest and unmanifest, or the inner and outer worlds. The sage's ability to perceive and reside within both realms signifies a state of enlightenment where duality is transcended, and the unified consciousness is realized. He is a master of prana, capable of navigating the currents of life and attaining spiritual heights. This verse emphasizes the potential for spiritual realization through understanding and harmonizing with the elemental forces and the divine will.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸೂಕ್ಷ್ಮ ಶಕ್ತಿಗಳು ಮತ್ತು ಪ್ರಮುಖ ಉಸಿರನ್ನು ಪ್ರತಿನಿಧಿಸುವ ವಾತ ಮತ್ತು ವಾಯುವಿನೊಂದಿಗೆ ನಿಕಟ ಸಂಪರ್ಕ ಹೊಂದಿರುವ ಋಷಿಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ದೈವಿಕ ಸ್ಫೂರ್ತಿಯಿಂದ ಪ್ರೇರಿತನಾಗಿ, ಋಷಿಯು ಅಸ್ತಿತ್ವದ ಸಂಪೂರ್ಣತೆಯನ್ನು ಸಂಕೇತಿಸುವ ಎರಡೂ ಸಾಗರಗಳ ಮೇಲೆ ವಾಸಿಸಲು ಭೌತಿಕ ಮಿತಿಗಳನ್ನು ಮೀರಿದ್ದಾನೆ. 'ಪೂರ್ವ' ಮತ್ತು 'ಪಶ್ಚಿಮ' ಸಾಗರಗಳು ವ್ಯಕ್ತ ಮತ್ತು ಅವ್ಯಕ್ತ ಅಥವಾ ಒಳಗಿನ ಮತ್ತು ಹೊರಗಿನ ಪ್ರಪಂಚಗಳ ದ್ವಂದ್ವತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸಬಹುದು. ಎರಡೂ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಗ್ರಹಿಸಲು ಮತ್ತು ವಾಸಿಸುವ ಋಷಿಯ ಸಾಮರ್ಥ್ಯವು ದ್ವಂದ್ವತೆಯನ್ನು ಮೀರಿದ ಮತ್ತು ಏಕೀಕೃತ ಪ್ರಜ್ಞೆಯನ್ನು ಅರಿತುಕೊಂಡ ಜ್ಞಾನೋದಯದ ಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅವನು ಪ್ರಾಣದ ಮಾಸ್ಟರ್, ಜೀವನದ ಪ್ರವಾಹಗಳನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಎತ್ತರವನ್ನು ಸಾಧಿಸಲು ಸಮರ್ಥನಾಗಿದ್ದಾನೆ. ಈ ಪದ್ಯವು ಮೂಲಭೂತ ಶಕ್ತಿಗಳು ಮತ್ತು ದೈವಿಕ ಚಿತ್ತದೊಂದಿಗೆ ತಿಳುವಳಿಕೆ ಮತ್ತು ಸಾಮರಸ್ಯದ ಮೂಲಕ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಕ್ಷಾತ್ಕಾರದ ಸಾಮರ್ಥ್ಯವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S136_191-6_7",
+      "mandala": 10,
+      "sukta": 136,
+      "ric_index": 6,
+      "rig_lines": [
+        "अ॒प्स॒रसां᳚ गन्ध॒र्वाणां᳚ मृ॒गाणां॒ चर॑णे॒ चर॑न् |",
+        "के॒शी केत॑स्य वि॒द्वान्‌ त्सखा᳚ स्वा॒दुर्म॒दिन्त॑मः ||"
+      ],
+      "pre_splits": [
+        "अ॒प्स॒रसा᳚‌म्",
+        "ग॒न्ध॒र्वाणा᳚‌म्",
+        "मृ॒गाणा᳚‌म्",
+        "चर॑णे",
+        "चर॑न्",
+        "के॒शी",
+        "केत॑स्य",
+        "वि॒द्वान्",
+        "सखा᳚",
+        "स्वा॒दुः",
+        "म॒दिन्ऽत॑मः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒प्स॒रसा᳚‌म्",
+          "pada_kn": "ಅಪ್ಸರಸಾಮ್",
+          "meaning_en": "Of Apsaras (celestial nymphs)",
+          "meaning_kn": "ಅಪ್ಸರೆಯರ"
+        },
+        {
+          "pada_original": "ग॒न्ध॒र्वाणा᳚‌म्",
+          "pada_kn": "ಗಂಧರ್ವಾಣಾಮ್",
+          "meaning_en": "Of Gandharvas (celestial musicians)",
+          "meaning_kn": "ಗಂಧರ್ವರ"
+        },
+        {
+          "pada_original": "मृ॒गाणा᳚‌म्",
+          "pada_kn": "ಮೃಗಾಣಾಮ್",
+          "meaning_en": "Of wild animals",
+          "meaning_kn": "ಮೃಗಗಳ/ಕಾಡುಪ್ರಾಣಿಗಳ"
+        },
+        {
+          "pada_original": "चर॑णे",
+          "pada_kn": "ಚರಣೇ",
+          "meaning_en": "In the path/roaming ground",
+          "meaning_kn": "ಸಂಚಾರದಲ್ಲಿ/ಚರಣದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "चर॑न्",
+          "pada_kn": "ಚರನ್",
+          "meaning_en": "Roaming/moving",
+          "meaning_kn": "ಸಂಚರಿಸುತ್ತಾ/ಚಲಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "के॒शी",
+          "pada_kn": "ಕೇಶೀ",
+          "meaning_en": "The long-haired one (Keśin)",
+          "meaning_kn": "ಕೇಶಿ/ಉದ್ದನೆಯ ಕೂದಲಿನವನು"
+        },
+        {
+          "pada_original": "केत॑स्य",
+          "pada_kn": "ಕೇತಸ್ಯ",
+          "meaning_en": "Of knowledge/insight",
+          "meaning_kn": "ಜ್ಞಾನದ/ಅರಿವಿನ"
+        },
+        {
+          "pada_original": "वि॒द्वान्",
+          "pada_kn": "ವಿದ್ವಾನ್",
+          "meaning_en": "Knowing/wise",
+          "meaning_kn": "ತಿಳಿದವನು/ಜ್ಞಾನಿ"
+        },
+        {
+          "pada_original": "सखा᳚",
+          "pada_kn": "ಸಖಾ",
+          "meaning_en": "Friend",
+          "meaning_kn": "ಸ್ನೇಹಿತ"
+        },
+        {
+          "pada_original": "स्वा॒दुः",
+          "pada_kn": "ಸ್ವಾದುಃ",
+          "meaning_en": "Sweet/pleasant",
+          "meaning_kn": "ಸಿಹಿಯಾದ/ಹಿತವಾದ"
+        },
+        {
+          "pada_original": "म॒दिन्ऽत॑मः",
+          "pada_kn": "ಮದಿನ್ತಮಃ",
+          "meaning_en": "Most exhilarating/intoxicating",
+          "meaning_kn": "ಅತ್ಯಂತ ಆಹ್ಲಾದಕರ/ಮದಗೊಳಿಸುವವನು"
+        }
+      ],
+      "full_meaning_en": "Wandering in the footsteps of the nymphs (Apsaras), Gandharvas, and the beasts of the forest, the long-haired ascetic (Keshi), knowing the purpose, a friend, sweet, and the most exhilarating.",
+      "full_meaning_kn": "ಅಪ್ಸರೆಯರು, ಗಂಧರ್ವರು ಮತ್ತು ಕಾಡಿನ ಮೃಗಗಳ ಹೆಜ್ಜೆಗಳಲ್ಲಿ ತಿರುಗಾಡುತ್ತಾ, ಉದ್ದನೆಯ ಕೂದಲಿನ ತಪಸ್ವಿ (ಕೇಶಿ), ಉದ್ದೇಶವನ್ನು ತಿಳಿದವನು, ಸ್ನೇಹಿತ, ಸಿಹಿ ಮತ್ತು ಅತ್ಯಂತ ಉಲ್ಲಾಸಕರ.",
+      "rig_time_s": 65.413,
+      "Insight_en": "The mantra describes the Keshi, the long-haired ascetic, who is in communion with nature and the divine. Wandering in the footsteps of Apsaras, Gandharvas, and animals symbolizes a deep connection with the cosmos. The Keshi's knowledge of purpose signifies spiritual wisdom and enlightenment. The ascetic is a friend to all and embodies sweetness and exhilaration, indicating the blissful state attained through spiritual practice. This mantra highlights the power of asceticism and communion with nature in realizing the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಕೇಶಿಯ ಬಗ್ಗೆ ವಿವರಿಸುತ್ತದೆ. ಉದ್ದನೆಯ ಕೂದಲಿನ ತಪಸ್ವಿ, ಅವನು ಪ್ರಕೃತಿ ಮತ್ತು ದೈವಿಕತೆಯೊಂದಿಗೆ ಮಿಳಿತನಾಗಿದ್ದಾನೆ. ಅಪ್ಸರೆಯರು, ಗಂಧರ್ವರು ಮತ್ತು ಪ್ರಾಣಿಗಳ ಹೆಜ್ಜೆಗಳಲ್ಲಿ ತಿರುಗಾಡುವುದು ಬ್ರಹ್ಮಾಂಡದೊಂದಿಗೆ ಆಳವಾದ ಸಂಪರ್ಕವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಕೇಶಿಯ ಉದ್ದೇಶದ ಜ್ಞಾನವು ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನೋದಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ತಪಸ್ವಿ ಎಲ್ಲರಿಗೂ ಸ್ನೇಹಿತ ಮತ್ತು ಸಿಹಿ ಹಾಗೂ ಉಲ್ಲಾಸವನ್ನು ಹೊಂದಿದ್ದಾನೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಮೂಲಕ ಪಡೆದ ಆನಂದಮಯ ಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಮಂತ್ರವು ದೈವವನ್ನು ಅರಿಯುವಲ್ಲಿ ವೈರಾಗ್ಯ ಮತ್ತು ಪ್ರಕೃತಿಯೊಂದಿಗಿನ ಮಿಲನದ ಶಕ್ತಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S136_191-7_7",
+      "mandala": 10,
+      "sukta": 136,
+      "ric_index": 7,
+      "rig_lines": [
+        "वा॒युर॑स्मा॒, उपा᳚मन्थत्पि॒नष्टि॑ स्मा कुनन्न॒मा |",
+        "के॒शी वि॒षस्य॒ पात्रे᳚ण॒ यद्रु॒द्रेणापि॑बत्स॒ह ||"
+      ],
+      "pre_splits": [
+        "वा॒युर्",
+        "अ॒स्मै॒",
+        "उप॑",
+        "अ॒म॒न्थ॒त्",
+        "पि॒नष्टि॑",
+        "स्म॒",
+        "कु॒न॒न्न॒मा",
+        "के॒शी",
+        "वि॒षस्य॑",
+        "पात्रे᳚ण",
+        "यत्",
+        "रु॒द्रेण॑",
+        "अपि॑बत्",
+        "स॒ह"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वा॒युर्",
+          "pada_kn": "ವಾಯುರ್",
+          "meaning_en": "Vayu / Wind god",
+          "meaning_kn": "ವಾಯು / ಗಾಳಿ ದೇವರು"
+        },
+        {
+          "pada_original": "अ॒स्मै॒",
+          "pada_kn": "ಅಸ್ಮೈ",
+          "meaning_en": "for him / to him",
+          "meaning_kn": "ಅವನಿಗೆ / ಇವನಿಗೆ"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "near / towards",
+          "meaning_kn": "ಹತ್ತಿರ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "अ॒म॒न्थ॒त्",
+          "pada_kn": "ಅಮಂಥತ್",
+          "meaning_en": "churned",
+          "meaning_kn": "ಕಡೆದನು / ಮಥಿಸಿದನು"
+        },
+        {
+          "pada_original": "पि॒नष्टि॑",
+          "pada_kn": "ಪಿನಷ್ಟಿ",
+          "meaning_en": "crushes / grinds",
+          "meaning_kn": "ಪುಡಿಮಾಡುತ್ತಾನೆ / ಅರೆಯುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "स्म॒",
+          "pada_kn": "ಸ್ಮ",
+          "meaning_en": "(particle indicating past tense)",
+          "meaning_kn": "(ಭೂತಕಾಲ ಸೂಚಕ)"
+        },
+        {
+          "pada_original": "कु॒न॒न्न॒मा",
+          "pada_kn": "ಕುನನ್ನಮಾ",
+          "meaning_en": "Kunannama (a specific herb/plant)",
+          "meaning_kn": "ಕುನನ್ನಮಾ (ಒಂದು ನಿರ್ದಿಷ್ಟ ಗಿಡಮೂಲಿಕೆ)"
+        },
+        {
+          "pada_original": "के॒शी",
+          "pada_kn": "ಕೇಶೀ",
+          "meaning_en": "the long-haired one / the Keśin",
+          "meaning_kn": "ಉದ್ದನೆಯ ಕೂದಲಿನವನು / ಕೇಶಿ"
+        },
+        {
+          "pada_original": "वि॒षस्य॑",
+          "pada_kn": "ವಿಷಸ್ಯ",
+          "meaning_en": "of the potent drink / of the essence",
+          "meaning_kn": "ಪ್ರಬಲ ಪಾನೀಯದ / ಸಾರದ"
+        },
+        {
+          "pada_original": "पात्रे᳚ण",
+          "pada_kn": "ಪಾತ್ರೇಣ",
+          "meaning_en": "with a vessel / in a cup",
+          "meaning_kn": "ಪಾತ್ರೆಯಿಂದ / ಕಪ್ಪಿನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "which / when",
+          "meaning_kn": "ಯಾವುದು / ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "रु॒द्रेण॑",
+          "pada_kn": "ರುದ್ರೇಣ",
+          "meaning_en": "with Rudra",
+          "meaning_kn": "ರುದ್ರನೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "अपि॑बत्",
+          "pada_kn": "ಅಪಿಬತ್",
+          "meaning_en": "drank",
+          "meaning_kn": "ಕುಡಿದನು"
+        },
+        {
+          "pada_original": "स॒ह",
+          "pada_kn": "ಸಹ",
+          "meaning_en": "together",
+          "meaning_kn": "ಜೊತೆಯಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "Vayu churned it for us, he crushed and ground the poison-yielding plant Kuna. The long-haired Rudra drank together with it from the bowl of poison.",
+      "full_meaning_kn": "ವಾಯುವು ಅದನ್ನು ನಮಗಾಗಿ ಕಡೆದನು, ಅವನು ವಿಷವನ್ನು ಉತ್ಪಾದಿಸುವ ಕುನಾ ಎಂಬ ಸಸ್ಯವನ್ನು ಪುಡಿಮಾಡಿ ಅರೆದನು. ಉದ್ದನೆಯ ಕೂದಲಿನ ರುದ್ರನು ವಿಷದ ಬಟ್ಟಲಿನಿಂದ ಅದರೊಂದಿಗೆ ಕುಡಿದನು.",
+      "rig_time_s": 79.014,
+      "Insight_en": "This mantra speaks of a critical moment involving Vayu, Rudra, and a potent poison. Vayu's churning and crushing of the plant Kuna alludes to the transformation of negative energies. Rudra, often associated with destruction and healing, consuming the poison symbolizes transcendence over adversity. The act highlights the ability to assimilate and neutralize what is harmful. It reflects a profound spiritual understanding where suffering (विष) is not avoided but rather integrated into one's journey, leading to inner strength and liberation, echoing the power of अग्नि within us to transform.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ವಾಯು, ರುದ್ರ ಮತ್ತು ಪ್ರಬಲ ವಿಷವನ್ನು ಒಳಗೊಂಡಿರುವ ಒಂದು ನಿರ್ಣಾಯಕ ಕ್ಷಣದ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ. ವಾಯುವು ಕುನಾ ಸಸ್ಯವನ್ನು ಕಡೆದು ಪುಡಿಮಾಡುವುದು ನಕಾರಾತ್ಮಕ ಶಕ್ತಿಗಳ ರೂಪಾಂತರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ರುದ್ರನು, ವಿನಾಶ ಮತ್ತು ಗುಣಪಡಿಸುವಿಕೆಯೊಂದಿಗೆ ಹೆಚ್ಚಾಗಿ ಸಂಬಂಧಿಸಿರುತ್ತಾನೆ, ವಿಷವನ್ನು ಸೇವಿಸುವುದು ಪ್ರತಿಕೂಲತೆಯ ಮೇಲಿನ ಉತ್ಕೃಷ್ಟತೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಹಾನಿಕಾರಕವಾದದ್ದನ್ನು ಹೀರಿಕೊಳ್ಳುವ ಮತ್ತು ತಟಸ್ಥಗೊಳಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಈ ಕ್ರಿಯೆಯು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಇದು ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕ ತಿಳುವಳಿಕೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಬಳಲಿಕೆಯನ್ನು ತಪ್ಪಿಸುವುದಿಲ್ಲ ಆದರೆ ಒಬ್ಬರ ಪ್ರಯಾಣದಲ್ಲಿ ಸಂಯೋಜಿಸಲಾಗುತ್ತದೆ, ಆಂತರಿಕ ಶಕ್ತಿ ಮತ್ತು ಬಿಡುಗಡೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ, ಇದು ನಮ್ಮೊಳಗಿನ ಅಗ್ನಿಯ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿಧ್ವನಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

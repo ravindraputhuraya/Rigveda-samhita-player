@@ -1,0 +1,734 @@
+{
+  "mandala": 6,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M6-S37_75-1_5",
+      "mandala": 6,
+      "sukta": 37,
+      "ric_index": 1,
+      "rig_lines": [
+        "अ॒र्वाग्रथं᳚ वि॒श्ववा᳚रं त उ॒ग्रेन्द्र॑ यु॒क्तासो॒ हर॑यो वहन्तु |",
+        "की॒रिश्चि॒द्धि त्वा॒ हव॑ते॒ स्व᳚र्वानृधी॒महि॑ सध॒माद॑स्ते, अ॒द्य ||"
+      ],
+      "pre_splits": [
+        "अ॒र्वाक्",
+        "रथ᳚‌म्",
+        "वि॒श्वऽवा᳚र‌म्",
+        "ते॒",
+        "उ॒ग्र॒",
+        "इन्द्र॑",
+        "यु॒क्तासः॑",
+        "हर॑यः",
+        "व॒ह॒न्तु॒",
+        "की॒रिः",
+        "चि॒त्",
+        "हि",
+        "त्वा॒",
+        "हव॑ते",
+        "स्वः॑ऽवान्",
+        "ऋ॒धी॒महि॑",
+        "स॒ध॒ऽमादः॑",
+        "ते॒",
+        "अ॒द्य"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒र्वाक्",
+          "pada_kn": "ಅರ್ವಾಕ್",
+          "meaning_en": "hither / towards us",
+          "meaning_kn": "ನಮ್ಮೆಡೆಗೆ"
+        },
+        {
+          "pada_original": "रथ᳚‌म्",
+          "pada_kn": "ರಥಮ್",
+          "meaning_en": "the chariot",
+          "meaning_kn": "ರಥವನ್ನು"
+        },
+        {
+          "pada_original": "वि॒श्वऽवा᳚र‌म्",
+          "pada_kn": "ವಿಶ್ವವಾರಮ್",
+          "meaning_en": "containing all treasures / desired by all",
+          "meaning_kn": "ಸಕಲೈಶ್ವರ್ಯಯುಕ್ತವಾದ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "उ॒ग्र॒",
+          "pada_kn": "ಉಗ್ರ",
+          "meaning_en": "O mighty one",
+          "meaning_kn": "ಓ ಪರಾಕ್ರಮಿಯೇ"
+        },
+        {
+          "pada_original": "इन्द्र॑",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "यु॒क्तासः॑",
+          "pada_kn": "ಯುಕ್ತಾಸಃ",
+          "meaning_en": "(being) yoked",
+          "meaning_kn": "ಹೂಡಲ್ಪಟ್ಟ"
+        },
+        {
+          "pada_original": "हर॑यः",
+          "pada_kn": "ಹರಯಃ",
+          "meaning_en": "the bay horses",
+          "meaning_kn": "ಕಂದು ಕುದುರೆಗಳು"
+        },
+        {
+          "pada_original": "व॒ह॒न्तु॒",
+          "pada_kn": "ವಹಂತು",
+          "meaning_en": "let them carry / may they bring",
+          "meaning_kn": "ಹೊತ್ತು ತರಲಿ"
+        },
+        {
+          "pada_original": "की॒रिः",
+          "pada_kn": "ಕೀರಿಃ",
+          "meaning_en": "the praiser / the singer",
+          "meaning_kn": "ಸ್ತುತಿಕಾರನು"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "even / indeed",
+          "meaning_kn": "ಸಹ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "for / because",
+          "meaning_kn": "ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "हव॑ते",
+          "pada_kn": "ಹವತೇ",
+          "meaning_en": "calls / invokes",
+          "meaning_kn": "ಕರೆಯುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "स्वः॑ऽवान्",
+          "pada_kn": "ಸ್ವರ್ವಾನ್",
+          "meaning_en": "desiring heaven",
+          "meaning_kn": "ಸ್ವರ್ಗವನ್ನು ಬಯಸುವ"
+        },
+        {
+          "pada_original": "ऋ॒धी॒महि॑",
+          "pada_kn": "ಋಧೀಮಹಿ",
+          "meaning_en": "may we prosper / partake",
+          "meaning_kn": "ನಾವು ಪಾಲ್ಗೊಳ್ಳೋಣ / ಸಮೃದ್ಧರಾಗೋಣ"
+        },
+        {
+          "pada_original": "स॒ध॒ऽमादः॑",
+          "pada_kn": "ಸಧಮಾದಃ",
+          "meaning_en": "of the joint-revelry / common feast",
+          "meaning_kn": "ಜೊತೆಗಿನ ಆನಂದದ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "अ॒द्य",
+          "pada_kn": "ಅದ್ಯ",
+          "meaning_en": "today / now",
+          "meaning_kn": "ಇಂದು"
+        }
+      ],
+      "full_meaning_en": "O powerful Indra, may your well-yoked, tawny steeds draw your chariot, coveted by all and laden with riches, ever closer to us. Verily, the poet yearning for celestial light invokes you; may we, this very day, thrive in your companionship, reveling in the shared ecstasy.",
+      "full_meaning_kn": "ಓ ಶಕ್ತಿಯುತ ಇಂದ್ರ, ನಿನ್ನ ಯುಕ್ತವಾದ, ಹೊಳಪುಳ್ಳ ಕುದುರೆಗಳು ನಿನ್ನ ರಥವನ್ನು ನಮ್ಮೆಡೆಗೆ ತರಲಿ, ಅದು ಎಲ್ಲರಿಗೂ ಬೇಕಾದ ಮತ್ತು ಸಂಪತ್ತಿನಿಂದ ತುಂಬಿದೆ. ಖಂಡಿತವಾಗಿಯೂ, ಸ್ವರ್ಗೀಯ ಬೆಳಕನ್ನು ಬಯಸುವ ಕವಿ ನಿನ್ನನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತಾನೆ; ನಾವು, ಈ ದಿನವೇ, ನಿನ್ನ ಸಹವಾಸದಲ್ಲಿ ವೃದ್ಧಿ ಹೊಂದೋಣ, ಹಂಚಿಕೆಯ ಆನಂದದಲ್ಲಿ ಸಂತೋಷಪಡೋಣ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The chariot of Indra symbolizes the awakened consciousness, drawn by the senses (horses) towards the realm of divine experience. The 'joyous feast' represents the inner communion and the bliss derived from realizing one's true nature in the presence of the indwelling divinity. The poet's yearning for 'celestial light' is the soul's inherent desire for enlightenment, a state of transcending the limitations of the ego and merging with the infinite.",
+      "Insight_kn": "ಇಂದ್ರನ ರಥವು ಜಾಗೃತ ಪ್ರಜ್ಞೆಯ ಸಂಕೇತವಾಗಿದೆ, ಇಂದ್ರಿಯಗಳು (ಕುದುರೆಗಳು) ದೈವಿಕ ಅನುಭವದ ಸಾಮ್ರಾಜ್ಯದ ಕಡೆಗೆ ಸೆಳೆಯಲ್ಪಡುತ್ತವೆ. 'ಸಂತೋಷದ ಹಬ್ಬ'ವು ಆಂತರಿಕ ಸಂವಹನ ಮತ್ತು ಅಂತರ್ಗತ ದೈವತ್ವದ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ಒಬ್ಬರ ನಿಜವಾದ ಸ್ವರೂಪವನ್ನು ಅರಿತುಕೊಳ್ಳುವುದರಿಂದ ಪಡೆದ ಆನಂದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. 'ಸ್ವರ್ಗೀಯ ಬೆಳಕಿಗಾಗಿ' ಕವಿಯ ಹಂಬಲವು ಜ್ಞಾನೋದಯಕ್ಕಾಗಿ ಆತ್ಮದ ಸಹಜ ಬಯಕೆಯಾಗಿದೆ, ಇದು ಅಹಂನ ಮಿತಿಗಳನ್ನು ಮೀರಿ ಅನಂತದೊಂದಿಗೆ ವಿಲೀನಗೊಳ್ಳುವ ಸ್ಥಿತಿಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S37_75-2_5",
+      "mandala": 6,
+      "sukta": 37,
+      "ric_index": 2,
+      "rig_lines": [
+        "प्रो द्रोणे॒ हर॑यः॒ कर्मा᳚ग्मन् पुना॒नास॒ ऋज्य᳚न्तो, अभूवन् |",
+        "इन्द्रो᳚ नो, अ॒स्य पू॒र्व्यः प॑पीयाद् द्यु॒क्षो मद॑स्य सो॒म्यस्य॒ राजा᳚ ||"
+      ],
+      "pre_splits": [
+        "प्रो इति॑",
+        "द्रोणे᳚",
+        "हर॑यः",
+        "कर्म॑",
+        "अ॒ग्म॒न्",
+        "पु॒ना॒नासः॑",
+        "ऋज्य᳚न्तः",
+        "अ॒भू॒व॒न्",
+        "इन्द्रः॑",
+        "नः॒",
+        "अ॒स्य",
+        "पू॒र्व्यः",
+        "पा॒पी॒या॒त्",
+        "द्यु॒क्षः",
+        "मद॑स्य",
+        "सो॒म्यस्य॑",
+        "राजा᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्रो इति॑",
+          "pada_kn": "ಪ್ರೋ ಇತಿ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "द्रोणे᳚",
+          "pada_kn": "ದ್ರೋಣೇ",
+          "meaning_en": "in the wooden vessel (droṇa)",
+          "meaning_kn": "ದ್ರೋಣಕಲಶದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "हर॑यः",
+          "pada_kn": "ಹರಯಃ",
+          "meaning_en": "the tawny ones (Soma juices)",
+          "meaning_kn": "ಹಳದಿ ಬಣ್ಣದವು (ಸೋಮರಸಗಳು)"
+        },
+        {
+          "pada_original": "कर्म॑",
+          "pada_kn": "ಕರ್ಮ",
+          "meaning_en": "the ritual action",
+          "meaning_kn": "ಯಜ್ಞಕಾರ್ಯವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒ग्म॒न्",
+          "pada_kn": "ಅಗ್ಮನ್",
+          "meaning_en": "they have undertaken / reached",
+          "meaning_kn": "ಕೈಗೊಂಡವು / ತಲುಪಿದವು"
+        },
+        {
+          "pada_original": "पु॒ना॒नासः॑",
+          "pada_kn": "ಪುನಾನಾಸಃ",
+          "meaning_en": "being purified",
+          "meaning_kn": "ಶುದ್ಧೀಕರಿಸಲ್ಪಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "ऋज्य᳚न्तः",
+          "pada_kn": "ಋಜ್ಯಂತಃ",
+          "meaning_en": "flowing straight",
+          "meaning_kn": "ನೇರವಾಗಿ ಹರಿಯುತ್ತಾ"
+        },
+        {
+          "pada_original": "अ॒भू॒व॒न्",
+          "pada_kn": "ಅಭೂವನ್",
+          "meaning_en": "they became / they were",
+          "meaning_kn": "ಆದವು"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "our",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "अ॒स्य",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "of this (Soma)",
+          "meaning_kn": "ಇದರ (ಸೋಮದ)"
+        },
+        {
+          "pada_original": "पू॒र्व्यः",
+          "pada_kn": "ಪೂರ್ವ್ಯಃ",
+          "meaning_en": "the first / foremost",
+          "meaning_kn": "ಮೊದಲಿಗನಾಗಿ / ಪ್ರಮುಖನು"
+        },
+        {
+          "pada_original": "पा॒पी॒या॒त्",
+          "pada_kn": "ಪಾಪೀಯಾತ್",
+          "meaning_en": "may he drink",
+          "meaning_kn": "ಕುಡಿಯಲಿ"
+        },
+        {
+          "pada_original": "द्यु॒क्षः",
+          "pada_kn": "ದ್ಯುಕ್ಷಃ",
+          "meaning_en": "the heaven-dweller",
+          "meaning_kn": "ಸ್ವರ್ಗವಾಸಿ"
+        },
+        {
+          "pada_original": "मद॑स्य",
+          "pada_kn": "ಮದಸ್ಯ",
+          "meaning_en": "of the exhilarating",
+          "meaning_kn": "ಮದಕರವಾದ / ಹರ್ಷದಾಯಕವಾದ"
+        },
+        {
+          "pada_original": "सो॒म्यस्य॑",
+          "pada_kn": "ಸೋಮ್ಯಸ್ಯ",
+          "meaning_en": "pertaining to Soma",
+          "meaning_kn": "ಸೋಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದ"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "the king",
+          "meaning_kn": "ರಾಜನು"
+        }
+      ],
+      "full_meaning_en": "Forth have rushed the tawny Soma streams, performing their rites, being purified, flowing straight. May Indra, foremost, dweller of heaven, king, drink first of this exhilarating Soma.",
+      "full_meaning_kn": "ಕಂದು ಬಣ್ಣದ ಸೋಮ ರಸಗಳು ತಮ್ಮ ವಿಧಿಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತಾ, ಶುದ್ಧೀಕರಿಸಲ್ಪಡುತ್ತಾ, ನೇರವಾಗಿ ಹರಿಯುತ್ತಾ ಮುಂದೆ ಸಾಗಿವೆ. ಇಂದ್ರನು, ಅಗ್ರಗಣ್ಯನು, ಸ್ವರ್ಗದ ನಿವಾಸಿ, ರಾಜನು, ಈ ಉಲ್ಲಾಸಕರ ಸೋಮವನ್ನು ಮೊದಲು ಕುಡಿಯಲಿ.",
+      "rig_time_s": 14.366,
+      "Insight_en": "The Soma represents the nectar of inner experience. The purification and straight flow symbolize the focused, unobstructed path of spiritual practice. Indra, the king, represents the awakened intellect, which must be the first to taste the essence of Self-realization, leading to mastery over the senses and the mind. The entire process underscores the importance of preparation (purification) and focused effort (straight flow) to receive divine grace (Soma) and attain enlightenment.",
+      "Insight_kn": "ಸೋಮವು ಆಂತರಿಕ ಅನುಭವದ ಅಮೃತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಶುದ್ಧೀಕರಣ ಮತ್ತು ನೇರ ಹರಿವು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಯ ಕೇಂದ್ರೀಕೃತ, ಅಡೆತಡೆಯಿಲ್ಲದ ಮಾರ್ಗವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಇಂದ್ರನು ರಾಜನು, ಜಾಗೃತ ಬುದ್ಧಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಅದು ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ಸಾರವನ್ನು ಮೊದಲು ಸವಿಯಬೇಕು, ಇದು ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಮನಸ್ಸಿನ ಮೇಲೆ ಪ್ರಭುತ್ವಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು (ಸೋಮ) ಪಡೆಯಲು ಮತ್ತು ಜ್ಞಾನೋದಯವನ್ನು ಪಡೆಯಲು ಇಡೀ ಪ್ರಕ್ರಿಯೆಯು ಸಿದ್ಧತೆ (ಶುದ್ಧೀಕರಣ) ಮತ್ತು ಕೇಂದ್ರೀಕೃತ ಪ್ರಯತ್ನದ (ನೇರ ಹರಿವು) ಮಹತ್ವವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S37_75-3_5",
+      "mandala": 6,
+      "sukta": 37,
+      "ric_index": 3,
+      "rig_lines": [
+        "आ॒स॒स्रा॒णासः॑ शवसा॒नमच्छेन्द्रं᳚ सुच॒क्रे र॒थ्या᳚सो॒, अश्वाः᳚ |",
+        "अ॒भि श्रव॒ ऋज्य᳚न्तो वहेयु॒र्नू चि॒न्नु वा॒योर॒मृतं॒ वि द॑स्येत् ||"
+      ],
+      "pre_splits": [
+        "आ॒ऽस॒स्रा॒णासः॑",
+        "श॒व॒सा॒न‌म्",
+        "अच्छ॑",
+        "इन्द्र᳚‌म्",
+        "सु॒ऽच॒क्रे",
+        "र॒थ्या᳚सः",
+        "अश्वाः᳚",
+        "अ॒भि",
+        "श्रवः॑",
+        "ऋज्य᳚न्तः",
+        "व॒हे॒युः॒",
+        "नु",
+        "चि॒त्",
+        "नु",
+        "वा॒योः",
+        "अ॒मृत᳚‌म्",
+        "वि",
+        "द॒स्ये॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ॒ऽस॒स्रा॒णासः॑",
+          "pada_kn": "ಆಸಸ್ರಾಣಾಸಃ",
+          "meaning_en": "Rushing forward",
+          "meaning_kn": "ವೇಗವಾಗಿ ಧಾವಿಸುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "श॒व॒सा॒न‌म्",
+          "pada_kn": "ಶವಸಾನಮ್",
+          "meaning_en": "the powerful one",
+          "meaning_kn": "ಬಲಶಾಲಿಯಾದವನನ್ನು"
+        },
+        {
+          "pada_original": "अच्छ॑",
+          "pada_kn": "ಅಚ್ಛ",
+          "meaning_en": "towards",
+          "meaning_kn": "ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "इन्द्र᳚‌म्",
+          "pada_kn": "ಇಂದ್ರಮ್",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನನ್ನು"
+        },
+        {
+          "pada_original": "सु॒ऽच॒क्रे",
+          "pada_kn": "ಸುಚಕ್ರೇ",
+          "meaning_en": "with good wheels",
+          "meaning_kn": "ಉತ್ತಮ ಚಕ್ರಗಳುಳ್ಳ"
+        },
+        {
+          "pada_original": "र॒थ्या᳚सः",
+          "pada_kn": "ರಥ್ಯಾಸಃ",
+          "meaning_en": "chariot-horses",
+          "meaning_kn": "ರಥದ ಕುದುರೆಗಳು"
+        },
+        {
+          "pada_original": "अश्वाः᳚",
+          "pada_kn": "ಅಶ್ವಾಃ",
+          "meaning_en": "horses",
+          "meaning_kn": "ಕುದುರೆಗಳು"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards",
+          "meaning_kn": "ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "श्रवः॑",
+          "pada_kn": "ಶ್ರವಃ",
+          "meaning_en": "fame / praise",
+          "meaning_kn": "ಕೀರ್ತಿಯನ್ನು / ಸ್ತೋತ್ರವನ್ನು"
+        },
+        {
+          "pada_original": "ऋज्य᳚न्तः",
+          "pada_kn": "ಋಜ್ಯಂತಃ",
+          "meaning_en": "moving straight towards",
+          "meaning_kn": "ನೇರವಾಗಿ ಸಾಗುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "व॒हे॒युः॒",
+          "pada_kn": "ವಹೇಯುಃ",
+          "meaning_en": "may they carry",
+          "meaning_kn": "ಅವರು ವಹಿಸಲಿ / ಸಾಗಿಸಲಿ"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "now / indeed",
+          "meaning_kn": "ಈಗ / ಖಂಡಿತ"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "even",
+          "meaning_kn": "ಸಹ / ಕೂಡ"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "now",
+          "meaning_kn": "ಈಗ"
+        },
+        {
+          "pada_original": "वा॒योः",
+          "pada_kn": "ವಾಯೋಃ",
+          "meaning_en": "of Vayu (the wind)",
+          "meaning_kn": "ವಾಯುವಿನ"
+        },
+        {
+          "pada_original": "अ॒मृत᳚‌म्",
+          "pada_kn": "ಅಮೃತಮ್",
+          "meaning_en": "the immortal (Soma)",
+          "meaning_kn": "ಅಮೃತವನ್ನು (ಸೋಮವನ್ನು)"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "asunder / specially",
+          "meaning_kn": "ಬೇರ್ಪಡಿಸಿ / ವಿಶೇಷವಾಗಿ"
+        },
+        {
+          "pada_original": "द॒स्ये॒त्",
+          "pada_kn": "ದಸ್ಯೇತ್",
+          "meaning_en": "may it be exhausted",
+          "meaning_kn": "ಅದು ಬತ್ತಿಹೋಗಲಿ"
+        }
+      ],
+      "full_meaning_en": "O swift and energetic chariot-horses, harnessed to the well-wheeled chariot, hasten towards the mighty Indra. Striving directly for the worshipper's laudation, may you convey him hither. And may the immortal Soma, swift as Vayu, never diminish.",
+      "full_meaning_kn": "ಓ ವೇಗವುಳ್ಳ ಮತ್ತು ಶಕ್ತಿಯುತ ರಥದ ಕುದುರೆಗಳೇ, ಉತ್ತಮ ಚಕ್ರಗಳುಳ್ಳ ರಥಕ್ಕೆ ಕಟ್ಟಲ್ಪಟ್ಟಿರುವ ನೀವು, ಬಲಿಷ್ಠ ಇಂದ್ರನ ಕಡೆಗೆ ಧಾವಿಸಿರಿ. ಭಕ್ತನ ಸ್ತುತಿಗಾಗಿ ನೇರವಾಗಿ ಪ್ರಯತ್ನಿಸುತ್ತಾ, ಅವನನ್ನು ಇಲ್ಲಿಗೆ ಕರೆತನ್ನಿರಿ. ಮತ್ತು ವಾಯುವಿನಂತೆ ವೇಗವುಳ್ಳ ಅಮರ ಸೋಮವು ಎಂದಿಗೂ ಕಡಿಮೆಯಾಗದಿರಲಿ.",
+      "rig_time_s": 28.867,
+      "Insight_en": "The horses represent the senses, guided by the intellect (the chariot), rushing towards Indra, the divine consciousness within. The unceasing flow of Soma signifies the continuous offering of one's limited self to the infinite, ensuring perpetual spiritual renewal, swift as the wind (Vayu), never diminishing.",
+      "Insight_kn": "ಕುದುರೆಗಳು ಇಂದ್ರಿಯಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಬುದ್ಧಿಶಕ್ತಿಯಿಂದ (ರಥ) ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಡುತ್ತವೆ, ಮತ್ತು ಒಳಗಿರುವ ದೈವಿಕ ಪ್ರಜ್ಞೆಯಾದ ಇಂದ್ರನ ಕಡೆಗೆ ಧಾವಿಸುತ್ತವೆ. ಸೋಮದ ನಿರಂತರ ಹರಿವು ಒಬ್ಬರ ಸೀಮಿತ ಸ್ವಯಂ ಅನ್ನು ಅನಂತಕ್ಕೆ ನಿರಂತರವಾಗಿ ಅರ್ಪಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಗಾಳಿಯಂತೆ (ವಾಯು) ವೇಗವಾಗಿ ಶಾಶ್ವತ ಆಧ್ಯಾತ್ಮಿಕ ನವೀಕರಣವನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ, ಎಂದಿಗೂ ಕಡಿಮೆಯಾಗುವುದಿಲ್ಲ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S37_75-4_5",
+      "mandala": 6,
+      "sukta": 37,
+      "ric_index": 4,
+      "rig_lines": [
+        "वरि॑ष्ठो, अस्य॒ दक्षि॑णामिय॒र्तीन्द्रो᳚ म॒घोनां᳚ तुविकू॒र्मित॑मः |",
+        "यया᳚ वज्रिवः परि॒यास्यंहो᳚ म॒घा च॑ धृष्णो॒ दय॑से॒ वि सू॒रीन् ||"
+      ],
+      "pre_splits": [
+        "वरि॑ष्ठः",
+        "अ॒स्य॒",
+        "दक्षि॑णा‌म्",
+        "इ॒य॒र्ति॒",
+        "इन्द्रः॑",
+        "म॒घोना᳚‌म्",
+        "तु॒वि॒कू॒र्मिऽत॑मः",
+        "यया᳚",
+        "व॒ज्रि॒ऽवः॒",
+        "प॒रि॒ऽयासि॑",
+        "अंहः॑",
+        "म॒घा",
+        "च॒",
+        "धृ॒ष्णो॒ इति॑",
+        "दय॑से",
+        "वि",
+        "सू॒रीन्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वरि॑ष्ठः",
+          "pada_kn": "ವರಿಷ್ಠಃ",
+          "meaning_en": "most excellent",
+          "meaning_kn": "ಅತ್ಯುತ್ತಮನು"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "of this (worshipper)",
+          "meaning_kn": "ಈ (ಯಜಮಾನನ)"
+        },
+        {
+          "pada_original": "दक्षि॑णा‌म्",
+          "pada_kn": "ದಕ್ಷಿಣಾಮ್",
+          "meaning_en": "the sacrificial gift",
+          "meaning_kn": "ದಕ್ಷಿಣೆಯನ್ನು"
+        },
+        {
+          "pada_original": "इ॒य॒र्ति॒",
+          "pada_kn": "ಇಯರ್ತಿ",
+          "meaning_en": "he promotes / accepts",
+          "meaning_kn": "ಪ್ರೇರಿಸುತ್ತಾನೆ / ಸ್ವೀಕರಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "म॒घोना᳚‌म्",
+          "pada_kn": "ಮಘೋನಾಮ್",
+          "meaning_en": "of the bountiful ones",
+          "meaning_kn": "ಉದಾರಿಗಳ"
+        },
+        {
+          "pada_original": "तु॒वि॒कू॒र्मिऽत॑मः",
+          "pada_kn": "ತುವಿಕೂರ್ಮಿತಮಃ",
+          "meaning_en": "the most mighty in action",
+          "meaning_kn": "ಅತ್ಯಂತ ಹೆಚ್ಚು ಕರ್ಮಶೀಲನಾದವನು"
+        },
+        {
+          "pada_original": "यया᳚",
+          "pada_kn": "ಯಯಾ",
+          "meaning_en": "by which (gift)",
+          "meaning_kn": "ಯಾವುದರಿಂದ (ಯಾವ ದಕ್ಷಿಣೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "व॒ज्रि॒ऽवः॒",
+          "pada_kn": "ವಜ್ರಿವಃ",
+          "meaning_en": "O wielder of the Vajra",
+          "meaning_kn": "ಓ ವಜ್ರಧಾರಿಯೇ"
+        },
+        {
+          "pada_original": "प॒रि॒ऽयासि॑",
+          "pada_kn": "ಪರಿಯಾಸಿ",
+          "meaning_en": "you overcome / go around",
+          "meaning_kn": "ನೀನು ದಾಟುತ್ತೀಯೆ / ಪಾರುಮಾಡುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "अंहः॑",
+          "pada_kn": "ಅಂಹಃ",
+          "meaning_en": "distress / trouble",
+          "meaning_kn": "ಸಂಕಟವನ್ನು"
+        },
+        {
+          "pada_original": "म॒घा",
+          "pada_kn": "ಮಘಾ",
+          "meaning_en": "with wealth",
+          "meaning_kn": "ಸಂಪತ್ತಿನಿಂದ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "धृ॒ष्णो॒ इति॑",
+          "pada_kn": "ಧೃಷ್ಣೋ ಇತಿ",
+          "meaning_en": "O bold one",
+          "meaning_kn": "ಓ ಧೈರ್ಯಶಾಲಿಯೇ"
+        },
+        {
+          "pada_original": "दय॑से",
+          "pada_kn": "ದಯಸೇ",
+          "meaning_en": "you bestow / allot",
+          "meaning_kn": "ನೀನು ದಯಪಾಲಿಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "(prefix indicating distribution)",
+          "meaning_kn": "(ಉಪಸರ್ಗ) ವಿಶೇಷವಾಗಿ / ಹಂಚಿ"
+        },
+        {
+          "pada_original": "सू॒रीन्",
+          "pada_kn": "ಸೂರೀನ್",
+          "meaning_en": "to the patrons / the wise",
+          "meaning_kn": "ಜ್ಞಾನಿಗಳಿಗೆ / ಯಜಮಾನರಿಗೆ"
+        }
+      ],
+      "full_meaning_en": "Indra, the most excellent among the generous, the most mighty in action, encourages the offering of this worshipper. O wielder of the Vajra, O courageous one, through this, may you overcome distress, and distribute wealth to the discerning patrons.",
+      "full_meaning_kn": "ಎಲೈ ಇಂದ್ರನೆ, ದಾನಿಗಳಲ್ಲಿ ಅತಿ ಶ್ರೇಷ್ಠನೂ, ಕಾರ್ಯದಲ್ಲಿ ಅತಿ ಬಲಿಷ್ಠನೂ ಆಗಿರುವ ನೀನು, ಈ ಭಕ್ತನ ಅರ್ಪಣೆಯನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತಿ. ವಜ್ರಾಯುಧಧಾರಿಯೇ, ಧೈರ್ಯಶಾಲಿಯೇ, ಇದರಿಂದ ನೀನು ಸಂಕಟಗಳನ್ನು ನಿವಾರಿಸಿ, ವಿವೇಕಯುಕ್ತ ಪೋಷಕರಿಗೆ ಸಂಪತ್ತನ್ನು ಹಂಚುತ್ತಿ.",
+      "rig_time_s": 42.831,
+      "Insight_en": "The mantra speaks to the transformative power of generosity and courage. Indra, embodying these qualities, removes obstacles (distress) and bestows abundance (wealth) upon those with discernment. The offering symbolizes a surrender of ego, which, when coupled with inner fortitude, unlocks the flow of prosperity and wisdom. True wealth is not merely material but includes spiritual insight.",
+      "Insight_kn": "ಮಂತ್ರವು ದಾನ ಮತ್ತು ಧೈರ್ಯದ ಪರಿವರ್ತಕ ಶಕ್ತಿಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಇಂದ್ರನು ಈ ಗುಣಗಳನ್ನು ಸಾಕಾರಗೊಳಿಸಿ, ಅಡೆತಡೆಗಳನ್ನು (ಸಂಕಟ) ನಿವಾರಿಸುತ್ತಾನೆ ಮತ್ತು ವಿವೇಚನೆಯುಳ್ಳವರಿಗೆ ಸಮೃದ್ಧಿಯನ್ನು (ಸಂಪತ್ತು) ನೀಡುತ್ತಾನೆ. ಅರ್ಪಣೆಯು ಅಹಂಕಾರದ ಶರಣಾಗತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಆಂತರಿಕ ಧೈರ್ಯದೊಂದಿಗೆ ಸೇರಿದಾಗ, ಸಮೃದ್ಧಿ ಮತ್ತು ಜ್ಞಾನದ ಹರಿವನ್ನು ತೆರೆಯುತ್ತದೆ. ನಿಜವಾದ ಸಂಪತ್ತು ಕೇವಲ ಭೌತಿಕವಾದುದಲ್ಲ, ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟವನ್ನೂ ಒಳಗೊಂಡಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S37_75-5_5",
+      "mandala": 6,
+      "sukta": 37,
+      "ric_index": 5,
+      "rig_lines": [
+        "इन्द्रो॒ वाज॑स्य॒ स्थवि॑रस्य दा॒तेन्द्रो᳚ गी॒र्भिर्व॑र्धतां वृ॒द्धम॑हाः |",
+        "इन्द्रो᳚ वृ॒त्रं हनि॑ष्ठो, अस्तु॒ सत्वा ऽऽता सू॒रिः पृ॑णति॒ तूतु॑जानः ||"
+      ],
+      "pre_splits": [
+        "इन्द्रः॑",
+        "वाज॑स्य",
+        "स्थवि॑रस्य",
+        "दा॒ता",
+        "इन्द्रः॑",
+        "गीः॒ऽभिः",
+        "व॒र्ध॒ता॒‌म्",
+        "वृ॒द्धऽम॑हाः",
+        "इन्द्रः॑",
+        "वृ॒त्र‌म्",
+        "हनि॑ष्ठः",
+        "अ॒स्तु॒",
+        "सत्वा᳚",
+        "आ",
+        "ता",
+        "सू॒रिः",
+        "पृ॒ण॒ति॒",
+        "तूतु॑जानः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "वाज॑स्य",
+          "pada_kn": "ವಾಜಸ್ಯ",
+          "meaning_en": "of strength / of food",
+          "meaning_kn": "ಶಕ್ತಿಯ / ಅನ್ನದ"
+        },
+        {
+          "pada_original": "स्थवि॑रस्य",
+          "pada_kn": "ಸ್ಥವಿರಸ್ಯ",
+          "meaning_en": "of the great / abundant",
+          "meaning_kn": "గొప్ప / ವಿಪುಲವಾದ"
+        },
+        {
+          "pada_original": "दा॒ता",
+          "pada_kn": "ದಾತಾ",
+          "meaning_en": "giver / bestower",
+          "meaning_kn": "ದಾತನು / ಕೊಡುವವನು"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "गीः॒ऽभिः",
+          "pada_kn": "ಗೀಃಭಿಃ",
+          "meaning_en": "by praises / by hymns",
+          "meaning_kn": "ಸ್ತುತಿಗಳಿಂದ"
+        },
+        {
+          "pada_original": "व॒र्ध॒ता॒‌म्",
+          "pada_kn": "ವರ್ಧತಾಮ್",
+          "meaning_en": "may he grow / be magnified",
+          "meaning_kn": "ವೃದ್ಧಿಸಲಿ / ಮಹಿಮೆಗೊಳ್ಳಲಿ"
+        },
+        {
+          "pada_original": "वृ॒द्धऽम॑हाः",
+          "pada_kn": "ವೃದ್ಧಮಹಾಃ",
+          "meaning_en": "one whose might is great",
+          "meaning_kn": "ಹೆಚ್ಚಿದ ಮಹಿಮೆಯುಳ್ಳವನು"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "वृ॒त्र‌म्",
+          "pada_kn": "ವೃತ್ರಮ್",
+          "meaning_en": "Vritra / the obstructor",
+          "meaning_kn": "ವೃತ್ರನನ್ನು"
+        },
+        {
+          "pada_original": "हनि॑ष्ठः",
+          "pada_kn": "ಹನಿಷ್ಠಃ",
+          "meaning_en": "the greatest slayer",
+          "meaning_kn": "ಅತ್ಯಂತವಾಗಿ ಕೊಲ್ಲುವವನು"
+        },
+        {
+          "pada_original": "अ॒स्तु॒",
+          "pada_kn": "ಅಸ್ತು",
+          "meaning_en": "may he be",
+          "meaning_kn": "ಆಗಲಿ"
+        },
+        {
+          "pada_original": "सत्वा᳚",
+          "pada_kn": "ಸತ್ವಾ",
+          "meaning_en": "the warrior / the hero",
+          "meaning_kn": "ಶೂರನು / ಬಲಿಷ್ಠನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "towards / hither",
+          "meaning_kn": "ಇತ್ತ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "ता",
+          "pada_kn": "ತಾ",
+          "meaning_en": "those (gifts)",
+          "meaning_kn": "ಆ (ದಾನಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "सू॒रिः",
+          "pada_kn": "ಸೂರಿಃ",
+          "meaning_en": "the patron / the wise one",
+          "meaning_kn": "ಯಜಮಾನನು / ಪ್ರೇರಕನು"
+        },
+        {
+          "pada_original": "पृ॒ण॒ति॒",
+          "pada_kn": "ಪೃಣತಿ",
+          "meaning_en": "he bestows / he fills",
+          "meaning_kn": "ದಾನಮಾಡುತ್ತಾನೆ / ತುಂಬುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "तूतु॑जानः",
+          "pada_kn": "ತೂತುಜಾನಃ",
+          "meaning_en": "acting swiftly / being impelled",
+          "meaning_kn": "ತ್ವರೆಪಡುವವನಾಗಿ / ಪ್ರೇರಿತನಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "Indra is the giver of plentiful sustenance and strength. May Indra, whose might is already vast, be increased by our hymns. May Indra be the most powerful slayer of Vritra. May that swiftly acting warrior (Indra), the patron of the sacrifice, fulfill (our desires).",
+      "full_meaning_kn": "ಇಂದ್ರನು ಹೇರಳವಾದ ಶಕ್ತಿ ಮತ್ತು ಪೋಷಣೆಯನ್ನು ನೀಡುವವನು. ಮಹಾನ್ ಶಕ್ತಿಯುಳ್ಳ ಇಂದ್ರನು ನಮ್ಮ ಸ್ತೋತ್ರಗಳಿಂದ ವೃದ್ಧಿಸಲ್ಪಡಲಿ. ಇಂದ್ರನು ವೃತ್ರಾಸುರನನ್ನು ಕೊಲ್ಲುವವನಾಗಲಿ. ತ್ಯಾಗದ ಪೋಷಕನಾದ ಆ ಶೀಘ್ರ ಕಾರ್ಯ ಮಾಡುವ ಯೋಧನು (ಇಂದ್ರನು) (ನಮ್ಮ ಬಯಕೆಗಳನ್ನು) ಪೂರೈಸಲಿ.",
+      "rig_time_s": 56.844,
+      "Insight_en": "Indra represents the awakened, luminous consciousness that dispels the darkness of ignorance (Vritra). The increase of Indra through hymns signifies the amplification of inner awareness through focused spiritual practice. The gifts bestowed are the fruits of this heightened consciousness, offering sustenance and strength on the spiritual path. The swift action indicates the immediacy of grace available through sincere devotion and self-effort.",
+      "Insight_kn": "ಇಂದ್ರನು ಜ್ಞಾನದ ಪ್ರಕಾಶಮಾನವಾದ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಅದು ಅಜ್ಞಾನದ ಕತ್ತಲೆಯನ್ನು (ವೃತ್ರ) ದೂರ ಮಾಡುತ್ತದೆ. ಸ್ತೋತ್ರಗಳ ಮೂಲಕ ಇಂದ್ರನ ಹೆಚ್ಚಳವು ಕೇಂದ್ರೀಕೃತ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಮೂಲಕ ಆಂತರಿಕ ಅರಿವು ವಿಸ್ತರಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ನೀಡಿದ ಕೊಡುಗೆಗಳು ಈ ಉನ್ನತ ಪ್ರಜ್ಞೆಯ ಫಲಗಳಾಗಿವೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಮಾರ್ಗದಲ್ಲಿ ಪೋಷಣೆ ಮತ್ತು ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ. ತ್ವರಿತ ಕ್ರಿಯೆಯು ಪ್ರಾಮಾಣಿಕ ಭಕ್ತಿ ಮತ್ತು ಸ್ವಯಂ-ಪ್ರಯತ್ನದ ಮೂಲಕ ಲಭ್ಯವಿರುವ ಕೃಪೆಯ ನಿಕಟತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

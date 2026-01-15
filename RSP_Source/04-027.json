@@ -1,0 +1,860 @@
+{
+  "mandala": 4,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M4-S27_58-1_5",
+      "mandala": 4,
+      "sukta": 27,
+      "ric_index": 1,
+      "rig_lines": [
+        "गर्भे॒ नु सन्नन्वे᳚षामवेदम॒हं दे॒वानां॒ जनि॑मानि॒ विश्वा᳚ |",
+        "श॒तं मा॒ पुर॒ आय॑सीररक्ष॒न्नध॑ श्ये॒नो ज॒वसा॒ निर॑दीयम् ||"
+      ],
+      "pre_splits": [
+        "गर्भे᳚",
+        "नु",
+        "सन्",
+        "अनु॑",
+        "ए॒षा॒‌म्",
+        "अ॒वे॒द॒‌म्",
+        "अ॒ह‌म्",
+        "दे॒वाना᳚‌म्",
+        "जनि॑मानि",
+        "विश्वा᳚",
+        "श॒त‌म्",
+        "मा॒",
+        "पुरः॑",
+        "आय॑सीः",
+        "अ॒र॒क्ष॒न्",
+        "अध॑",
+        "श्ये॒नः",
+        "ज॒वसा᳚",
+        "निः",
+        "अ॒दी॒य॒‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "गर्भे᳚",
+          "pada_kn": "ಗರ್ಭೇ",
+          "meaning_en": "In the womb / in embryo",
+          "meaning_kn": "ಗರ್ಭದಲ್ಲಿ / ಒಳಗೆ"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "Indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "सन्",
+          "pada_kn": "ಸನ್",
+          "meaning_en": "Being / existing",
+          "meaning_kn": "ಇರುವಾಗ / ಆಗಿರುವಾಗ"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "After / along (prefix for 'knew')",
+          "meaning_kn": "ನಂತರ / ಜೊತೆಗೆ (ತಿಳಿದಿದ್ದೆ ಎಂಬ ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "ए॒षा॒‌म्",
+          "pada_kn": "ಏಷಾಮ್",
+          "meaning_en": "Of these / of them",
+          "meaning_kn": "ಇವರ / ಇವುಗಳ"
+        },
+        {
+          "pada_original": "अ॒वे॒द॒‌म्",
+          "pada_kn": "ಅವೇದಮ್",
+          "meaning_en": "I knew / I understood",
+          "meaning_kn": "ನಾನು ತಿಳಿದಿದ್ದೆ / ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದೆ"
+        },
+        {
+          "pada_original": "अ॒ह‌म्",
+          "pada_kn": "ಅಹಮ್",
+          "meaning_en": "I",
+          "meaning_kn": "ನಾನು"
+        },
+        {
+          "pada_original": "दे॒वाना᳚‌म्",
+          "pada_kn": "ದೇವಾನಾಮ್",
+          "meaning_en": "Of the gods",
+          "meaning_kn": "ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "जनि॑मानि",
+          "pada_kn": "ಜನಿಮಾನಿ",
+          "meaning_en": "Births / origins / manifestations",
+          "meaning_kn": "ಹುಟ್ಟುಗಳನ್ನು / ಮೂಲಗಳನ್ನು"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "All / entire",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "श॒त‌म्",
+          "pada_kn": "ಶತಮ್",
+          "meaning_en": "A hundred",
+          "meaning_kn": "ನೂರು"
+        },
+        {
+          "pada_original": "मा॒",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "Me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "पुरः॑",
+          "pada_kn": "ಪುರಃ",
+          "meaning_en": "Fortresses / cities",
+          "meaning_kn": "ಕೋಟೆಗಳು / ನಗರಗಳು"
+        },
+        {
+          "pada_original": "आय॑सीः",
+          "pada_kn": "ಆಯಸೀಃ",
+          "meaning_en": "Iron-made / metallic",
+          "meaning_kn": "ಕಬ್ಬಿಣದ / ಲೋಹದ"
+        },
+        {
+          "pada_original": "अ॒र॒क्ष॒न्",
+          "pada_kn": "ಅರಕ್ಷನ್",
+          "meaning_en": "They protected / they guarded",
+          "meaning_kn": "ಅವು ರಕ್ಷಿಸಿದವು / ಕಾಯ್ದವು"
+        },
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "Then / thereupon",
+          "meaning_kn": "ಆಗ / ತರುವಾಯ"
+        },
+        {
+          "pada_original": "श्ये॒नः",
+          "pada_kn": "ಶ್ಯೇನಃ",
+          "meaning_en": "A hawk / an eagle",
+          "meaning_kn": "ಒಂದು ಗಿಡುಗ / ಹದ್ದು"
+        },
+        {
+          "pada_original": "ज॒वसा᳚",
+          "pada_kn": "ಜವಸಾ",
+          "meaning_en": "With speed / swiftly",
+          "meaning_kn": "ವೇಗದಿಂದ / ಶೀಘ್ರವಾಗಿ"
+        },
+        {
+          "pada_original": "निः",
+          "pada_kn": "ನಿಃ",
+          "meaning_en": "Out / forth",
+          "meaning_kn": "ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "अ॒दी॒य॒‌म्",
+          "pada_kn": "ಅದೀಯಮ್",
+          "meaning_en": "I went / I flew",
+          "meaning_kn": "ನಾನು ಹೋದೆ / ಹಾರಿದೆ"
+        }
+      ],
+      "full_meaning_en": "O Gods, even while residing in the womb, I became aware of all your births and manifestations. A hundred iron fortresses guarded me, yet like a swift hawk, I burst forth and soared beyond.",
+      "full_meaning_kn": "ಓ ದೇವತೆಗಳೇ, ಗರ್ಭದಲ್ಲಿರುವಾಗಲೇ ನಿಮ್ಮೆಲ್ಲಾ ಜನ್ಮ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ನಾನು ಅರಿತಿದ್ದೆ. ನೂರು ಕಬ್ಬಿಣದ ಕೋಟೆಗಳು ನನ್ನನ್ನು ಕಾಯುತ್ತಿದ್ದರೂ, ನಾನು ವೇಗದ ಹದ್ದಿನಂತೆ ಭೇದಿಸಿ ಮುಂದೆ ಸಾಗಿದೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The womb represents the limiting confines of ignorance (अविद्या). Realization dawns even amidst such limitations. The 'iron fortresses' are the ego's (अहंकार) defenses. True liberation is a swift, decisive break from these self-imposed bonds, soaring into the vastness of Self-realization (आत्मज्ञान).",
+      "Insight_kn": "ಗರ್ಭವು ಅಜ್ಞಾನದ (ಅವಿದ್ಯಾ) ಮಿತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅಂತಹ ಮಿತಿಗಳ ನಡುವೆಯೂ ಸಾಕ್ಷಾತ್ಕಾರ ಮೂಡುತ್ತದೆ. 'ಕಬ್ಬಿಣದ ಕೋಟೆಗಳು' ಅಹಂಕಾರದ (ಅಹಂಕಾರ) ರಕ್ಷಣೆಗಳಾಗಿವೆ. ನಿಜವಾದ ವಿಮೋಚನೆಯೆಂದರೆ, ಸ್ವಯಂ ಹೇರಿದ ಬಂಧನಗಳಿಂದ ನಿರ್ಣಾಯಕವಾಗಿ ಮುರಿದು, ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ (ಆತ್ಮಜ್ಞಾನ) ವಿಸ್ತಾರಕ್ಕೆ ಏರುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S27_58-2_5",
+      "mandala": 4,
+      "sukta": 27,
+      "ric_index": 2,
+      "rig_lines": [
+        "न घा॒ स मामप॒ जोषं᳚ जभारा॒ऽभीमा᳚स॒ त्वक्ष॑सा वी॒र्ये᳚ण |",
+        "ई॒र्मा पुरं᳚धिरजहा॒दरा᳚तीरु॒त वाताँ᳚, अतर॒च्छूशु॑वानः ||"
+      ],
+      "pre_splits": [
+        "न",
+        "घ॒",
+        "सः",
+        "मा‌म्",
+        "अप॑",
+        "जोष᳚‌म्",
+        "ज॒भा॒र॒",
+        "अ॒भि",
+        "ई॒‌म्",
+        "आ॒स॒",
+        "त्वक्ष॑सा",
+        "वी॒र्ये᳚ण",
+        "ई॒र्मा",
+        "पुर᳚‌म्ऽधिः",
+        "अ॒ज॒हा॒त्",
+        "अरा᳚तीः",
+        "उ॒त",
+        "वाता᳚न्",
+        "अ॒त॒र॒त्",
+        "शूशु॑वानः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ"
+        },
+        {
+          "pada_original": "घ॒",
+          "pada_kn": "ಘ",
+          "meaning_en": "indeed",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he (the hawk)",
+          "meaning_kn": "ಅವನು (ಗರುಡ)"
+        },
+        {
+          "pada_original": "मा‌म्",
+          "pada_kn": "ಮಾಮ್",
+          "meaning_en": "me (Soma)",
+          "meaning_kn": "ನನ್ನನ್ನು (ಸೋಮ)"
+        },
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "away",
+          "meaning_kn": "ದೂರ"
+        },
+        {
+          "pada_original": "जोष᳚‌म्",
+          "pada_kn": "ಜೋಷಮ್",
+          "meaning_en": "willingly",
+          "meaning_kn": "ಇಷ್ಟಪಟ್ಟು / ಸಂತೋಷದಿಂದ"
+        },
+        {
+          "pada_original": "ज॒भा॒र॒",
+          "pada_kn": "ಜಭಾರ",
+          "meaning_en": "carried",
+          "meaning_kn": "ಹೊತ್ತೊಯ್ದನು"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards",
+          "meaning_kn": "ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "ई॒‌म्",
+          "pada_kn": "ಈಮ್",
+          "meaning_en": "it (Soma)",
+          "meaning_kn": "ಅದನ್ನು (ಸೋಮವನ್ನು)"
+        },
+        {
+          "pada_original": "आ॒स॒",
+          "pada_kn": "ಆಸ",
+          "meaning_en": "was",
+          "meaning_kn": "ಇದ್ದನು"
+        },
+        {
+          "pada_original": "त्वक्ष॑सा",
+          "pada_kn": "ತ್ವಕ್ಷಸಾ",
+          "meaning_en": "with strength",
+          "meaning_kn": "ಬಲದಿಂದ"
+        },
+        {
+          "pada_original": "वी॒र्ये᳚ण",
+          "pada_kn": "ವೀರ್ಯೇಣ",
+          "meaning_en": "with valor",
+          "meaning_kn": "ಶೌರ್ಯದಿಂದ"
+        },
+        {
+          "pada_original": "ई॒र्मा",
+          "pada_kn": "ಈರ್ಮಾ",
+          "meaning_en": "swiftly",
+          "meaning_kn": "ವೇಗವಾಗಿ"
+        },
+        {
+          "pada_original": "पुर᳚‌म्ऽधिः",
+          "pada_kn": "ಪುರಮ್ಧಿಃ",
+          "meaning_en": "the wise one",
+          "meaning_kn": "ಬುದ್ಧಿವಂತ / ಜ್ಞಾನಿ"
+        },
+        {
+          "pada_original": "अ॒ज॒हा॒त्",
+          "pada_kn": "ಅಜಹಾತ್",
+          "meaning_en": "abandoned",
+          "meaning_kn": "ತ್ಯಜಿಸಿದನು / ಬಿಟ್ಟನು"
+        },
+        {
+          "pada_original": "अरा᳚तीः",
+          "pada_kn": "ಅರಾತೀಃ",
+          "meaning_en": "enemies",
+          "meaning_kn": "ಶತ್ರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "वाता᳚न्",
+          "pada_kn": "ವಾತಾನ್",
+          "meaning_en": "winds",
+          "meaning_kn": "ಗಾಳಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अ॒त॒र॒त्",
+          "pada_kn": "ಅತರತ್",
+          "meaning_en": "crossed",
+          "meaning_kn": "ದಾಟಿದನು"
+        },
+        {
+          "pada_original": "शूशु॑वानः",
+          "pada_kn": "ಶೂಶುವಾನಃ",
+          "meaning_en": "swiftly moving",
+          "meaning_kn": "ವೇಗವಾಗಿ ಚಲಿಸುವವನು"
+        }
+      ],
+      "full_meaning_en": "Indeed, he did not carry me away unwillingly, for he was full of strength and valor. The swift, wise hawk abandoned his enemies and traversed the winds with speed.",
+      "full_meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ, ಅವನು ನನ್ನನ್ನು ಇಚ್ಛೆಯಿಲ್ಲದೆ ದೂರಕ್ಕೆ ಒಯ್ಯಲಿಲ್ಲ, ಏಕೆಂದರೆ ಅವನು ಶಕ್ತಿ ಮತ್ತು ಶೌರ್ಯದಿಂದ ತುಂಬಿದ್ದನು. ತ್ವರಿತ, ವಿವೇಕಿಯಾದ ಗಿಡುಗನು ತನ್ನ ಶತ್ರುಗಳನ್ನು ತ್ಯಜಿಸಿ ವೇಗದಿಂದ ಗಾಳಿಯನ್ನು ದಾಟಿದನು.",
+      "rig_time_s": 14.51,
+      "Insight_en": "The soul, initially hesitant, finds itself willingly carried by the force of inner strength (वीर्य). Wisdom (पुरंधि:) arises as the ego's defenses (enemies) are abandoned, allowing the spirit to soar freely through the currents of life (वाताँ). The journey, though swift, is deliberate and transformative.",
+      "Insight_kn": "ಆತ್ಮವು, ಆರಂಭದಲ್ಲಿ ಹಿಂಜರಿಯುತ್ತಿದ್ದರೂ, ಆಂತರಿಕ ಶಕ್ತಿಯ (ವೀರ್ಯ) ಬಲದಿಂದ ಸಂತೋಷದಿಂದ ಸಾಗಿಸಲ್ಪಡುತ್ತದೆ. ಅಹಂಕಾರದ ರಕ್ಷಣೆಗಳನ್ನು (ಶತ್ರುಗಳನ್ನು) ತ್ಯಜಿಸಿದಾಗ ವಿವೇಕ (ಪುರಂಧಿ:) ಉಂಟಾಗುತ್ತದೆ, ಇದು ಜೀವನದ ಪ್ರವಾಹಗಳ ಮೂಲಕ (ವಾತಾನ್) ಆತ್ಮವು ಮುಕ್ತವಾಗಿ ಹಾರಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಪ್ರಯಾಣವು ಕ್ಷಿಪ್ರವಾಗಿದ್ದರೂ, ಉದ್ದೇಶಪೂರ್ವಕ ಮತ್ತು ಪರಿವರ್ತಕವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S27_58-3_5",
+      "mandala": 4,
+      "sukta": 27,
+      "ric_index": 3,
+      "rig_lines": [
+        "अव॒ यच्छ्ये॒नो, अस्व॑नी॒दध॒ द्योर्वि यद्यदि॒ वात॑ ऊ॒हुः पुरं᳚धिम् |",
+        "सृ॒जद्यद॑स्मा॒, अव॑ ह क्षि॒पज्ज्यां कृ॒शानु॒रस्ता॒ मन॑सा भुर॒ण्यन् ||"
+      ],
+      "pre_splits": [
+        "अव॑",
+        "यत्",
+        "श्ये॒नः",
+        "अस्व॑नीत्",
+        "अध॑",
+        "द्योः",
+        "वि",
+        "यत्",
+        "यदि॑",
+        "वा॒",
+        "अतः॑",
+        "ऊ॒हुः",
+        "पुर᳚‌म्ऽधि‌म्",
+        "सृ॒जत्",
+        "यत्",
+        "अ॒स्मै॒",
+        "अव॑",
+        "ह॒",
+        "क्षि॒पत्",
+        "ज्या‌म्",
+        "कृ॒शानुः॑",
+        "अस्ता᳚",
+        "मन॑सा",
+        "भु॒र॒ण्यन्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अव॑",
+          "pada_kn": "ಅವ",
+          "meaning_en": "down, away",
+          "meaning_kn": "ಕೆಳಗೆ, ದೂರ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when, that",
+          "meaning_kn": "ಯಾವಾಗ, ಯಾವುದು"
+        },
+        {
+          "pada_original": "श्ये॒नः",
+          "pada_kn": "ಶ್ಯೇನಃ",
+          "meaning_en": "the eagle (arrow)",
+          "meaning_kn": "ಹದ್ದು (ಬಾಣ)"
+        },
+        {
+          "pada_original": "अस्व॑नीत्",
+          "pada_kn": "ಅಸ್ವನೀತ್",
+          "meaning_en": "roared, whistled",
+          "meaning_kn": "ಘರ್ಜಿಸಿತು, ಸೀಟಿ ಹೊಡೆಯಿತು"
+        },
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "then, below",
+          "meaning_kn": "ಆಗ, ಕೆಳಗೆ"
+        },
+        {
+          "pada_original": "द्योः",
+          "pada_kn": "ದ್ಯೋಃ",
+          "meaning_en": "from the sky",
+          "meaning_kn": "ಆಕಾಶದಿಂದ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart, away",
+          "meaning_kn": "ದೂರ, ಪ್ರತ್ಯೇಕವಾಗಿ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when, that",
+          "meaning_kn": "ಯಾವಾಗ, ಯಾವುದು"
+        },
+        {
+          "pada_original": "यदि॑",
+          "pada_kn": "ಯದಿ",
+          "meaning_en": "if",
+          "meaning_kn": "ಒಂದು ವೇಳೆ"
+        },
+        {
+          "pada_original": "वा॒",
+          "pada_kn": "ವಾ",
+          "meaning_en": "or",
+          "meaning_kn": "ಅಥವಾ"
+        },
+        {
+          "pada_original": "अतः॑",
+          "pada_kn": "ಅತಃ",
+          "meaning_en": "from this, hence",
+          "meaning_kn": "ಇದರಿಂದ, ಆದ್ದರಿಂದ"
+        },
+        {
+          "pada_original": "ऊ॒हुः",
+          "pada_kn": "ಊಹುಃ",
+          "meaning_en": "carried",
+          "meaning_kn": "ಕೊಂಡೊಯ್ದರು"
+        },
+        {
+          "pada_original": "पुर᳚‌म्ऽधि‌म्",
+          "pada_kn": "ಪುರಂಧಿಮ್",
+          "meaning_en": "the stronghold",
+          "meaning_kn": "ಕೋಟೆ"
+        },
+        {
+          "pada_original": "सृ॒जत्",
+          "pada_kn": "ಸೃಜತ್",
+          "meaning_en": "releasing",
+          "meaning_kn": "ಬಿಡುಗಡೆ ಮಾಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when, that",
+          "meaning_kn": "ಯಾವಾಗ, ಯಾವುದು"
+        },
+        {
+          "pada_original": "अ॒स्मै॒",
+          "pada_kn": "ಅಸ್ಮೈ",
+          "meaning_en": "for it (the arrow's journey)",
+          "meaning_kn": "ಅದಕ್ಕೆ (ಬಾಣದ ಪ್ರಯಾಣಕ್ಕೆ)"
+        },
+        {
+          "pada_original": "अव॑",
+          "pada_kn": "ಅವ",
+          "meaning_en": "down, away",
+          "meaning_kn": "ಕೆಳಗೆ, ದೂರ"
+        },
+        {
+          "pada_original": "ह॒",
+          "pada_kn": "ಹ",
+          "meaning_en": "indeed (particle)",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ (ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "क्षि॒पत्",
+          "pada_kn": "ಕ್ಷಿಪತ್",
+          "meaning_en": "throwing, shooting",
+          "meaning_kn": "ಎಸೆಯುತ್ತಾ, ಹಾರಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "ज्या‌म्",
+          "pada_kn": "ಜ್ಯಮ್",
+          "meaning_en": "the bowstring",
+          "meaning_kn": "ಬಿಲ್ಲು ದಾರ"
+        },
+        {
+          "pada_original": "कृ॒शानुः॑",
+          "pada_kn": "ಕೃಶಾನುಃ",
+          "meaning_en": "Krishanu (divine archer)",
+          "meaning_kn": "ಕೃಶಾನು (ದೈವಿಕ ಬಿಲ್ಲುಗಾರ)"
+        },
+        {
+          "pada_original": "अस्ता᳚",
+          "pada_kn": "ಅಸ್ತಾ",
+          "meaning_en": "the archer",
+          "meaning_kn": "ಬಿಲ್ಲುಗಾರ"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "with his mind",
+          "meaning_kn": "ತನ್ನ ಮನಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "भु॒र॒ण्यन्",
+          "pada_kn": "ಭುರಣ್ಯನ್",
+          "meaning_en": "hastening, eager",
+          "meaning_kn": "ಆತುರದಿಂದ, ಉತ್ಸಾಹದಿಂದ"
+        }
+      ],
+      "full_meaning_en": "When the eagle-like arrow roared downwards, and then from the sky, or if the wind carried away the stronghold, Krishanu, the archer, eagerly and with his mind, released the bowstring, indeed shooting it down for its journey. O Krishanu, whose arrow, likened to a roaring eagle, descends swiftly, guided by focused intent.",
+      "full_meaning_kn": "ಯಾವಾಗ ಹದ್ದಿನಂತಹ ಬಾಣವು ಕೆಳಗೆ ಘರ್ಜಿಸಿತೋ, ಮತ್ತು ಆಕಾಶದಿಂದಲೋ ಅಥವಾ ಗಾಳಿಯು ಕೋಟೆಯನ್ನು ಹೊತ್ತೊಯ್ದರೆ, ಕೃಶಾನು, ಬಿಲ್ಲುಗಾರನು, ಉತ್ಸಾಹದಿಂದ ಮತ್ತು ತನ್ನ ಮನಸ್ಸಿನಿಂದ ಬಿಲ್ಲು ಹಗ್ಗವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದನು, ಖಂಡಿತವಾಗಿಯೂ ತನ್ನ ಪ್ರಯಾಣಕ್ಕಾಗಿ ಅದನ್ನು ಹೊಡೆದುರುಳಿಸಿದನು. ಓ ಕೃಶಾನುವೇ, ನಿನ್ನ ಬಾಣವು ಹದ್ದಿನಂತೆ ವೇಗವಾಗಿ ಇಳಿಯುತ್ತದೆ, ಮತ್ತು ಕೇಂದ್ರೀಕೃತ ಉದ್ದೇಶದಿಂದ ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಡುತ್ತದೆ.",
+      "rig_time_s": 29.679,
+      "Insight_en": "The arrow represents focused intention (संकल्प). The bow symbolizes the mind, and the archer, the indwelling self (आत्मन्). Releasing the arrow signifies the decisive action of consciousness to overcome limitations and achieve liberation (मोक्ष). The fortress is the ego, and the wind is माया. Krishanu is the inner guide. The sound of the arrow is the inner voice. One must listen.",
+      "Insight_kn": "ಬಾಣವು ಕೇಂದ್ರೀಕೃತ ಉದ್ದೇಶವನ್ನು (ಸಂಕಲ್ಪ) ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಬಿಲ್ಲು ಮನಸ್ಸನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಮತ್ತು ಬಿಲ್ಲುಗಾರನು ಒಳಗಿನ ಆತ್ಮವನ್ನು (ಆತ್ಮನ್). ಬಾಣವನ್ನು ಬಿಡುವುದು ಮಿತಿಗಳನ್ನು ಜಯಿಸಲು ಮತ್ತು ವಿಮೋಚನೆಯನ್ನು ಸಾಧಿಸಲು ಪ್ರಜ್ಞೆಯ ನಿರ್ಣಾಯಕ ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ (ಮೋಕ್ಷ). ಕೋಟೆಯು ಅಹಂಕಾರ, ಮತ್ತು ಗಾಳಿಯು ಮಾಯೆ. ಕೃಶಾನು ಒಳಗಿನ ಮಾರ್ಗದರ್ಶಕ. ಬಾಣದ ಶಬ್ದವು ಒಳಗಿನ ಧ್ವನಿ. ಒಬ್ಬರು ಕೇಳಬೇಕು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S27_58-4_5",
+      "mandala": 4,
+      "sukta": 27,
+      "ric_index": 4,
+      "rig_lines": [
+        "ऋ॒जि॒प्य ई॒मिन्द्रा᳚वतो॒ न भु॒ज्युं श्ये॒नो ज॑भार बृह॒तो, अधि॒ ष्णोः |",
+        "अ॒न्तः प॑तत्‌ पत॒त्र्य॑स्य प॒र्णमध॒ याम॑नि॒ प्रसि॑तस्य॒ तद्वेः ||"
+      ],
+      "pre_splits": [
+        "ऋ॒जि॒प्यः",
+        "ई॒‌म्",
+        "इन्द्र॑ऽवतः",
+        "न",
+        "भु॒ज्यु‌म्",
+        "श्ये॒नः",
+        "ज॒भा॒र॒",
+        "बृ॒ह॒तः",
+        "अधि॑",
+        "स्नोः",
+        "अ॒न्तरिति॑",
+        "प॒त॒त्",
+        "प॒त॒त्रि",
+        "अ॒स्य॒",
+        "प॒र्ण‌म्",
+        "अध॑",
+        "याम॑नि",
+        "प्रऽसि॑तस्य",
+        "तत्",
+        "वेरिति॒ वेः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ऋ॒जि॒प्यः",
+          "pada_kn": "ಋಜಿಪ್ಯಃ",
+          "meaning_en": "Swift-flying / Straight-flying",
+          "meaning_kn": "ನೇರವಾಗಿ ಹಾರುವ / ವೇಗವಾಗಿ ಹಾರುವ"
+        },
+        {
+          "pada_original": "ई॒‌म्",
+          "pada_kn": "ಈಮ್",
+          "meaning_en": "Indeed / Verily",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "इन्द्र॑ऽवतः",
+          "pada_kn": "ಇಂದ್ರಾವತಃ",
+          "meaning_en": "Of Indra's (power/protection)",
+          "meaning_kn": "ಇಂದ್ರನಿಗೆ ಸೇರಿದ / ಇಂದ್ರನ ಶಕ್ತಿಯುಳ್ಳ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "Like / As",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "भु॒ज्यु‌म्",
+          "pada_kn": "ಭುಜ್ಯುಮ್",
+          "meaning_en": "A swift bird (Bhujyu)",
+          "meaning_kn": "ವೇಗವಾಗಿ ಹಾರುವ ಹಕ್ಕಿ (ಭುಜ್ಯು)"
+        },
+        {
+          "pada_original": "श्ये॒नः",
+          "pada_kn": "ಶ್ಯೇನಃ",
+          "meaning_en": "The falcon / eagle",
+          "meaning_kn": "ಶ್ಯೇನಪಕ್ಷಿ / ಗರುಡ"
+        },
+        {
+          "pada_original": "ज॒भा॒र॒",
+          "pada_kn": "ಜಭಾರ",
+          "meaning_en": "Carried away / Bore",
+          "meaning_kn": "ಕೊಂಡೊಯ್ದನು / ಹೊತ್ತೊಯ್ದನು"
+        },
+        {
+          "pada_original": "बृ॒ह॒तः",
+          "pada_kn": "ಬೃಹತಃ",
+          "meaning_en": "From the great / high",
+          "meaning_kn": "ಮಹತ್ತಾದ / ಎತ್ತರದ"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "From / Upon",
+          "meaning_kn": "ನಿಂದ / ಮೇಲಿಂದ"
+        },
+        {
+          "pada_original": "स्नोः",
+          "pada_kn": "ಸ್ನೋಃ",
+          "meaning_en": "From the peak / summit",
+          "meaning_kn": "ಶಿಖರದಿಂದ / ತುದಿಯಿಂದ"
+        },
+        {
+          "pada_original": "अ॒न्तरिति॑",
+          "pada_kn": "ಅಂತರಿತಿ",
+          "meaning_en": "Within / Inside",
+          "meaning_kn": "ಒಳಗೆ / ಮಧ್ಯದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "प॒त॒त्",
+          "pada_kn": "ಪತತ್",
+          "meaning_en": "Falling",
+          "meaning_kn": "ಬೀಳುವ"
+        },
+        {
+          "pada_original": "प॒त॒त्रि",
+          "pada_kn": "ಪತತ್ರಿ",
+          "meaning_en": "Winged (creature) / Bird",
+          "meaning_kn": "ರೆಕ್ಕೆಯುಳ್ಳ (ಪ್ರಾಣಿ) / ಹಕ್ಕಿ"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "Of this (bird)",
+          "meaning_kn": "ಈ (ಹಕ್ಕಿಯ)"
+        },
+        {
+          "pada_original": "प॒र्ण‌म्",
+          "pada_kn": "ಪರ್ಣಮ್",
+          "meaning_en": "Feather / Wing",
+          "meaning_kn": "ಗರಿ / ರೆಕ್ಕೆ"
+        },
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "Then / Thereupon",
+          "meaning_kn": "ಆಗ / ನಂತರ"
+        },
+        {
+          "pada_original": "याम॑नि",
+          "pada_kn": "ಯಾಮನಿ",
+          "meaning_en": "In the flight / During the course",
+          "meaning_kn": "ಹಾರಾಟದಲ್ಲಿ / ಪ್ರಯಾಣದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "प्रऽसि॑तस्य",
+          "pada_kn": "ಪ್ರಸಿತಸ್ಯ",
+          "meaning_en": "Of the captured / bound one",
+          "meaning_kn": "ಬಂಧಿತನಾದ / ಹಿಡಿಯಲ್ಪಟ್ಟವನ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "That / Its",
+          "meaning_kn": "ಅದು / ಅದರ"
+        },
+        {
+          "pada_original": "वेरिति॒ वेः",
+          "pada_kn": "ವೇರಿತಿ ವೇಃ",
+          "meaning_en": "Of the bird",
+          "meaning_kn": "ಹಕ್ಕಿಯ"
+        }
+      ],
+      "full_meaning_en": "O Indra-possessed swift one! Like Bhujyu, you are carried away by a falcon from a vast height, from the peak of the sky. A feather of this flying creature fell within; that token of its swift flight, in its rapid journey, remains.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರಯುಕ್ತ ವೇಗವುಳ್ಳವನೇ! ಭುಜ್ಯುವಿನಂತೆ, ನಿನ್ನನ್ನು ಬೃಹತ್ ಎತ್ತರದಿಂದ, ಆಕಾಶದ ಶಿಖರದಿಂದ ಒಂದು ಗಿಡುಗವು ಕೊಂಡೊಯ್ಯಿತು. ಹಾರುವ ಈ ಜೀವಿ ಹಾರುವಾಗ ಅದರ ಗರಿಯೊಂದು ಕೆಳಗೆ ಬಿತ್ತು; ಅದರ ಕ್ಷಿಪ್ರ ಹಾರಾಟದ ಸಂಕೇತವಾಗಿ, ಅದರ ವೇಗದ ಪ್ರಯಾಣದಲ್ಲಿ, ಅದು ಉಳಿಯಿತು.",
+      "rig_time_s": 44.241,
+      "Insight_en": "The swift falcon represents the intellect (बुद्धि) that can carry the individual soul (जीव) from the heights of spiritual aspiration. The fallen feather signifies a trace, a remnant of that elevated experience, remaining within the individual even after the peak experience has passed. This serves as a constant reminder of the potential for spiritual flight and the reality of the divine.",
+      "Insight_kn": "ವೇಗದ ಗಿಡುಗವು ಬುದ್ಧಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಆಕಾಂಕ್ಷೆಯ ಎತ್ತರದಿಂದ ವೈಯಕ್ತಿಕ ಆತ್ಮವನ್ನು (ಜೀವ) ಕೊಂಡೊಯ್ಯಬಲ್ಲದು. ಬಿದ್ದ ಗರಿಯು ಒಂದು ಕುರುಹನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಆ ಉನ್ನತ ಅನುಭವದ ಒಂದು ಭಾಗವು, ಆ ಅನುಭವವು ಕಳೆದ ನಂತರವೂ ವ್ಯಕ್ತಿಯಲ್ಲಿ ಉಳಿದುಕೊಳ್ಳುತ್ತದೆ. ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಹಾರಾಟದ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ದೈವಿಕ ವಾಸ್ತವತೆಯ ನಿರಂತರ ಜ್ಞಾಪನೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S27_58-5_5",
+      "mandala": 4,
+      "sukta": 27,
+      "ric_index": 5,
+      "rig_lines": [
+        "अध॑ श्वे॒तं क॒लशं॒ गोभि॑र॒क्तमा᳚पिप्या॒नं म॒घवा᳚ शु॒क्रमन्धः॑ |",
+        "अ॒ध्व॒र्युभिः॒ प्रय॑तं॒ मध्वो॒, अग्र॒मिन्द्रो॒ मदा᳚य॒ प्रति॑ ध॒त्‌ पिब॑ध्यै॒ शूरो॒ मदा᳚य॒ प्रति॑ ध॒त्‌ पिब॑ध्यै ||"
+      ],
+      "pre_splits": [
+        "अध॑",
+        "श्वे॒त‌म्",
+        "क॒लश᳚‌म्",
+        "गोभिः॑",
+        "अ॒क्त‌म्",
+        "आ॒ऽपि॒प्या॒न‌म्",
+        "म॒घऽवा᳚",
+        "शु॒क्र‌म्",
+        "अन्धः॑",
+        "अ॒ध्व॒र्युऽभिः॑",
+        "प्रऽय॑त‌म्",
+        "मध्वः॑",
+        "अग्र᳚‌म्",
+        "इन्द्रः॑",
+        "मदा᳚य",
+        "प्रति॑",
+        "ध॒त्",
+        "पिब॑ध्यै",
+        "शूरः॑",
+        "मदा᳚य",
+        "प्रति॑",
+        "ध॒त्",
+        "पिब॑ध्यै"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "then / now",
+          "meaning_kn": "ಆಗ / ಈಗ"
+        },
+        {
+          "pada_original": "श्वे॒त‌म्",
+          "pada_kn": "ಶ್ವೇತಮ್",
+          "meaning_en": "white / bright",
+          "meaning_kn": "ಬಿಳಿಯ / ಪ್ರಕಾಶಮಾನವಾದ"
+        },
+        {
+          "pada_original": "क॒लश᳚‌म्",
+          "pada_kn": "ಕಲಶಮ್",
+          "meaning_en": "pitcher / vessel",
+          "meaning_kn": "ಕಲಶ / ಪಾತ್ರೆ"
+        },
+        {
+          "pada_original": "गोभिः॑",
+          "pada_kn": "ಗೋಭಿಃ",
+          "meaning_en": "with milk / with cows",
+          "meaning_kn": "ಹಾಲಿನಿಂದ / ಗೋವುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "अ॒क्त‌म्",
+          "pada_kn": "ಅಕ್ತಮ್",
+          "meaning_en": "mixed / mingled",
+          "meaning_kn": "ಬೆರೆಸಿದ / ಮಿಶ್ರಿತವಾದ"
+        },
+        {
+          "pada_original": "आ॒ऽपि॒प्या॒न‌म्",
+          "pada_kn": "ಆಪಿಪ್ಯಾನಮ್",
+          "meaning_en": "swollen / filled",
+          "meaning_kn": "ತುಂಬಿದ / ವೃದ್ಧಿಗೊಂಡ"
+        },
+        {
+          "pada_original": "म॒घऽवा᳚",
+          "pada_kn": "ಮಘವಾ",
+          "meaning_en": "O bountiful one (Indra)",
+          "meaning_kn": "ಓ ಮಘವನ್ (ಇಂದ್ರ)"
+        },
+        {
+          "pada_original": "शु॒क्र‌म्",
+          "pada_kn": "ಶುಕ್ರಮ್",
+          "meaning_en": "bright / pure",
+          "meaning_kn": "ಶುದ್ಧವಾದ / ಪ್ರಕಾಶಮಾನವಾದ"
+        },
+        {
+          "pada_original": "अन्धः॑",
+          "pada_kn": "ಅಂಧಃ",
+          "meaning_en": "Soma juice / drink",
+          "meaning_kn": "ಸೋಮರಸ / ಪಾನೀಯ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒र्युऽभिः॑",
+          "pada_kn": "ಅಧ್ವರ್ಯುಭಿಃ",
+          "meaning_en": "by the Adhvaryu priests",
+          "meaning_kn": "ಅಧ್ವರ್ಯು ಪುರೋಹಿತರಿಂದ"
+        },
+        {
+          "pada_original": "प्रऽय॑त‌म्",
+          "pada_kn": "ಪ್ರಯತಮ್",
+          "meaning_en": "offered / prepared",
+          "meaning_kn": "ಅರ್ಪಿತವಾದ / ಸಿದ್ಧಪಡಿಸಿದ"
+        },
+        {
+          "pada_original": "मध्वः॑",
+          "pada_kn": "ಮಧ್ವಃ",
+          "meaning_en": "of the sweet (Soma) / of honey",
+          "meaning_kn": "ಮಧುರವಾದ (ಸೋಮದ) / ಜೇನಿನ"
+        },
+        {
+          "pada_original": "अग्र᳚‌म्",
+          "pada_kn": "ಅಗ್ರಮ್",
+          "meaning_en": "the best part / foremost",
+          "meaning_kn": "ಶ್ರೇಷ್ಠ ಭಾಗ / ಮುಖ್ಯವಾದ"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರ"
+        },
+        {
+          "pada_original": "मदा᳚य",
+          "pada_kn": "ಮದಾಯ",
+          "meaning_en": "for exhilaration / for joy",
+          "meaning_kn": "ಮದಕ್ಕಾಗಿ / ಸಂತೋಷಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / take",
+          "meaning_kn": "ಕಡೆಗೆ / ಸ್ವೀಕರಿಸು"
+        },
+        {
+          "pada_original": "ध॒त्",
+          "pada_kn": "ಧತ್",
+          "meaning_en": "place / take (imperative)",
+          "meaning_kn": "ಇಡು / ಸ್ವೀಕರಿಸು"
+        },
+        {
+          "pada_original": "पिब॑ध्यै",
+          "pada_kn": "ಪಿಬಧ್ಯೈ",
+          "meaning_en": "for drinking",
+          "meaning_kn": "ಕುಡಿಯುವುದಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "शूरः॑",
+          "pada_kn": "ಶೂರಃ",
+          "meaning_en": "O hero (Indra)",
+          "meaning_kn": "ಓ ಶೂರನೇ (ಇಂದ್ರ)"
+        },
+        {
+          "pada_original": "मदा᳚य",
+          "pada_kn": "ಮದಾಯ",
+          "meaning_en": "for exhilaration / for joy",
+          "meaning_kn": "ಮದಕ್ಕಾಗಿ / ಸಂತೋಷಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / take",
+          "meaning_kn": "ಕಡೆಗೆ / ಸ್ವೀಕರಿಸು"
+        },
+        {
+          "pada_original": "ध॒त्",
+          "pada_kn": "ಧತ್",
+          "meaning_en": "place / take (imperative)",
+          "meaning_kn": "ಇಡು / ಸ್ವೀಕರಿಸು"
+        },
+        {
+          "pada_original": "पिब॑ध्यै",
+          "pada_kn": "ಪಿಬಧ್ಯೈ",
+          "meaning_en": "for drinking",
+          "meaning_kn": "ಕುಡಿಯುವುದಕ್ಕಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O generous Indra, now partake of the radiant Soma essence, held in the pristine vessel, infused with milk and brimming with delight. O valiant one, accept for your joyous inebriation the choicest nectar, prepared by the Adhvaryu priests, and imbibe it fully.",
+      "full_meaning_kn": "ಓ ಉದಾರ ಇಂದ್ರ, ಈಗ ಆ ಶುಭ್ರವಾದ ಪಾತ್ರೆಯಲ್ಲಿರುವ, ಹಾಲಿನಿಂದ ತುಂಬಿದ ಮತ್ತು ಆನಂದದಿಂದ ತುಂಬಿರುವ ಪ್ರಕಾಶಮಾನವಾದ ಸೋಮ ಸಾರವನ್ನು ಕುಡಿಯಿರಿ. ಓ ವೀರ, ಆಧ್ವರ್ಯು ಪುರೋಹಿತರು ತಯಾರಿಸಿದ ಅತ್ಯುತ್ತಮವಾದ ಮಕರಂದವನ್ನು ನಿಮ್ಮ ಸಂತೋಷದ ಅಮಲೇರಿಸುವಿಕೆಗಾಗಿ ಸ್ವೀಕರಿಸಿ ಮತ್ತು ಅದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಹೀರಿಕೊಳ್ಳಿ.",
+      "rig_time_s": 58.716,
+      "Insight_en": "The pure white vessel symbolizes the unsullied mind, filled with the nourishing milk of compassion and the intoxicating Soma of divine bliss. Indra's act of drinking represents the soul's absorption of these qualities, leading to spiritual exhilaration. The Adhvaryu priests signify the disciplined practice that prepares the mind for this transformative experience. This inner Soma is not a substance but the nectar of self-realization, offered and received within the heart.",
+      "Insight_kn": "ಶುದ್ಧ ಬಿಳಿಯ ಪಾತ್ರೆಯು ಕರುಣೆಯ ಪೋಷಕಾಂಶವುಳ್ಳ ಹಾಲು ಮತ್ತು ದೈವಿಕ ಆನಂದದ ಅಮಲೇರಿಸುವ ಸೋಮದಿಂದ ತುಂಬಿದ ಕಳಂಕರಹಿತ ಮನಸ್ಸನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಇಂದ್ರನು ಕುಡಿಯುವ ಕ್ರಿಯೆಯು ಆತ್ಮವು ಈ ಗುಣಗಳನ್ನು ಹೀರಿಕೊಳ್ಳುವುದನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಉಲ್ಲಾಸಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಆಧ್ವರ್ಯು ಪುರೋಹಿತರು ಈ ಪರಿವರ್ತಕ ಅನುಭವಕ್ಕಾಗಿ ಮನಸ್ಸನ್ನು ಸಿದ್ಧಪಡಿಸುವ ಶಿಸ್ತುಬದ್ಧ ಅಭ್ಯಾಸವನ್ನು ಸೂಚಿಸುತ್ತಾರೆ. ಈ ಆಂತರಿಕ ಸೋಮವು ವಸ್ತುವಲ್ಲ ಆದರೆ ಸ್ವಯಂ ಸಾಕ್ಷಾತ್ಕಾರದ ಮಕರಂದವಾಗಿದೆ, ಇದು ಹೃದಯದಲ್ಲಿ ನೀಡಲ್ಪಡುತ್ತದೆ ಮತ್ತು ಸ್ವೀಕರಿಸಲ್ಪಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

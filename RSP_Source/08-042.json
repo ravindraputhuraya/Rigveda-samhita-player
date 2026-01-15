@@ -1,0 +1,755 @@
+{
+  "mandala": 8,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M8-S42_103-1_6",
+      "mandala": 8,
+      "sukta": 42,
+      "ric_index": 1,
+      "rig_lines": [
+        "अस्त॑भ्ना॒द्द्यामसु॑रो वि॒श्ववे᳚दा॒, अमि॑मीत वरि॒माणं᳚ पृथि॒व्याः |",
+        "आसी᳚द॒द्विश्वा॒ भुव॑नानि स॒म्राड्विश्वेत्तानि॒ वरु॑णस्य व्र॒तानि॑ ||"
+      ],
+      "pre_splits": [
+        "अस्त॑भ्नात्",
+        "द्या‌म्",
+        "असु॑रः",
+        "वि॒श्वऽवे᳚दाः",
+        "अमि॑मीत",
+        "व॒रि॒माण᳚‌म्",
+        "पृ॒थि॒व्याः",
+        "आ",
+        "अ॒सी॒द॒त्",
+        "विश्वा᳚",
+        "भुव॑नानि",
+        "स॒‌म्ऽराट्",
+        "विश्वा᳚",
+        "इत्",
+        "तानि॑",
+        "वरु॑णस्य",
+        "व्र॒तानि॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अस्त॑भ्नात्",
+          "pada_kn": "ಅಸ್ತಭ್ನಾತ್",
+          "meaning_en": "propped up / supported",
+          "meaning_kn": "ಆಧಾರವಾಗಿ ನಿಲ್ಲಿಸಿದನು / ಭದ್ರಪಡಿಸಿದನು"
+        },
+        {
+          "pada_original": "द्या‌म्",
+          "pada_kn": "ದ್ಯಾಮ್",
+          "meaning_en": "the sky / heaven",
+          "meaning_kn": "ಆಕಾಶವನ್ನು / ದ್ಯುಲೋಕವನ್ನು"
+        },
+        {
+          "pada_original": "असु॑रः",
+          "pada_kn": "ಅಸುರಃ",
+          "meaning_en": "the mighty one / the lord (Varuna)",
+          "meaning_kn": "ಮಹಾಶಕ್ತಿಶಾಲಿ / ಪ್ರಭು (ವರುಣ)"
+        },
+        {
+          "pada_original": "वि॒श्वऽवे᳚दाः",
+          "pada_kn": "ವಿಶ್ವವೇದಾಃ",
+          "meaning_en": "all-knowing / omniscient",
+          "meaning_kn": "ಸರ್ವಜ್ಞ / ಎಲ್ಲವನ್ನೂ ತಿಳಿದವನು"
+        },
+        {
+          "pada_original": "अमि॑मीत",
+          "pada_kn": "ಅಮಿಮೀತ",
+          "meaning_en": "measured / apportioned",
+          "meaning_kn": "ಅಳತೆ ಮಾಡಿದನು / ಹಂಚಿದನು"
+        },
+        {
+          "pada_original": "व॒रि॒माण᳚‌म्",
+          "pada_kn": "ವರಿಮಾಣಮ್",
+          "meaning_en": "the expanse / the vastness",
+          "meaning_kn": "ವಿಸ್ತಾರವನ್ನು / ಅಗಲವನ್ನು"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्याः",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಃ",
+          "meaning_en": "of the earth",
+          "meaning_kn": "ಭೂಮಿಯ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix for 'sat') / towards",
+          "meaning_kn": "(ಕುಳಿತುಕೊಳ್ಳಲು ಪೂರ್ವಪ್ರತ್ಯಯ) / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "अ॒सी॒द॒त्",
+          "pada_kn": "ಅಸೀದತ್",
+          "meaning_en": "sat / took his seat",
+          "meaning_kn": "ಕುಳಿತನು / ಆಸೀನನಾದನು"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all / entire",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "भुव॑नानि",
+          "pada_kn": "ಭುವನಾನಿ",
+          "meaning_en": "worlds / beings",
+          "meaning_kn": "ಲೋಕಗಳನ್ನು / ಸೃಷ್ಟಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "स॒‌म्ऽराट्",
+          "pada_kn": "ಸಮ್ರಾಟ್",
+          "meaning_en": "the sovereign ruler / emperor",
+          "meaning_kn": "ಸಾರ್ವಭೌಮ ಅಧಿಪತಿ / ಚಕ್ರವರ್ತಿ"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all / entire",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "तानि॑",
+          "pada_kn": "ತಾನಿ",
+          "meaning_en": "these / those",
+          "meaning_kn": "ಇವುಗಳು / ಅವುಗಳು"
+        },
+        {
+          "pada_original": "वरु॑णस्य",
+          "pada_kn": "ವರುಣಸ್ಯ",
+          "meaning_en": "of Varuna",
+          "meaning_kn": "ವರುಣನ"
+        },
+        {
+          "pada_original": "व्र॒तानि॑",
+          "pada_kn": "ವ್ರತಾನಿ",
+          "meaning_en": "ordinances / laws / decrees",
+          "meaning_kn": "ನಿಯಮಗಳು / ಆಜ್ಞೆಗಳು / ಸಂಕಲ್ಪಗಳು"
+        }
+      ],
+      "full_meaning_en": "The wise and mighty Varuna supports the heavens and measured the expanse of the Earth. He sits as the supreme ruler over all the worlds; all these are the established laws of Varuna.",
+      "full_meaning_kn": "ಸರ್ವಜ್ಞನಾದ ಬಲಿಷ್ಠ ವರುಣನು ದ್ಯಾವಾಪೃಥಿವಿಗಳನ್ನು ಆಧಾರವಾಗಿಟ್ಟು ಭೂಮಿಯ ವಿಸ್ತಾರವನ್ನು ಅಳೆದನು. ಅವನು ಸಾರ್ವಭೌಮ ಚಕ್ರವರ್ತಿಯಾಗಿ ಎಲ್ಲಾ ಲೋಕಗಳ ಮೇಲೆ ಆಸೀನನಾಗಿದ್ದಾನೆ; ಇವೆಲ್ಲವೂ ವರುಣನ ಸ್ಥಾಪಿತ ನಿಯಮಗಳು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "Varuna represents the cosmic order (Rta) and the inherent laws governing the universe and the individual. Realizing Varuna within is recognizing the divine governance in our thoughts, actions, and the natural unfolding of life. Surrendering to Varuna's laws implies aligning oneself with truth, integrity, and the universal dharma, leading to inner harmony and liberation.",
+      "Insight_kn": "ವರುಣನು ಕಾಸ್ಮಿಕ್ ಕ್ರಮ (ಋತ) ಮತ್ತು ವಿಶ್ವ ಮತ್ತು ವ್ಯಕ್ತಿಯನ್ನು ಆಳುವ ಅಂತರ್ಗತ ನಿಯಮಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ವರುಣನನ್ನು ನಮ್ಮೊಳಗೆ ಅರಿತುಕೊಳ್ಳುವುದು ಎಂದರೆ ನಮ್ಮ ಆಲೋಚನೆಗಳು, ಕಾರ್ಯಗಳು ಮತ್ತು ಜೀವನದ ನೈಸರ್ಗಿಕ ಪ್ರಗತಿಯಲ್ಲಿ ದೈವಿಕ ಆಡಳಿತವನ್ನು ಗುರುತಿಸುವುದು. ವರುಣನ ನಿಯಮಗಳಿಗೆ ಶರಣಾಗುವುದು ಎಂದರೆ ಸತ್ಯ, ಸಮಗ್ರತೆ ಮತ್ತು ಸಾರ್ವತ್ರಿಕ ಧರ್ಮದೊಂದಿಗೆ ನಮ್ಮನ್ನು ಜೋಡಿಸಿಕೊಳ್ಳುವುದು, ಇದು ಆಂತರಿಕ ಸಾಮರಸ್ಯ ಮತ್ತು ಬಿಡುಗಡೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M8-S42_103-2_6",
+      "mandala": 8,
+      "sukta": 42,
+      "ric_index": 2,
+      "rig_lines": [
+        "ए॒वा व᳚न्दस्व॒ वरु॑णं बृ॒हन्तं᳚ नम॒स्या धीर॑म॒मृत॑स्य गो॒पाम् |",
+        "स नः॒ शर्म॑ त्रि॒वरू᳚थं॒ वि यं᳚सत्पा॒तं नो᳚ द्यावापृथिवी, उ॒पस्थे᳚ ||"
+      ],
+      "pre_splits": [
+        "ए॒व",
+        "व॒न्द॒स्व॒",
+        "वरु॑ण‌म्",
+        "बृ॒हन्त᳚‌म्",
+        "न॒म॒स्य",
+        "धीर᳚‌म्",
+        "अ॒मृत॑स्य",
+        "गो॒पा‌म्",
+        "सः",
+        "नः॒",
+        "शर्म॑",
+        "त्रि॒ऽवरू᳚थ‌म्",
+        "वि",
+        "यं॒स॒त्",
+        "पा॒त‌म्",
+        "नः॒",
+        "द्या॒वा॒पृ॒थि॒वी॒ इति॑",
+        "उ॒पऽस्थे᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ए॒व",
+          "pada_kn": "ಏವ",
+          "meaning_en": "Thus / In this manner",
+          "meaning_kn": "ಹೀಗೆ / ಈ ರೀತಿಯಾಗಿ"
+        },
+        {
+          "pada_original": "व॒न्द॒स्व॒",
+          "pada_kn": "ವಂದಸ್ವ",
+          "meaning_en": "Worship / Praise",
+          "meaning_kn": "ಪೂಜಿಸು / ಸ್ತುತಿಸು"
+        },
+        {
+          "pada_original": "वरु॑ण‌म्",
+          "pada_kn": "ವರುಣಮ್",
+          "meaning_en": "Varuna",
+          "meaning_kn": "ವರುಣನನ್ನು"
+        },
+        {
+          "pada_original": "बृ॒हन्त᳚‌म्",
+          "pada_kn": "ಬೃಹನ್ತಮ್",
+          "meaning_en": "Great / Mighty",
+          "meaning_kn": "ಮಹಾನ್ / ಶ್ರೇಷ್ಠನಾದ"
+        },
+        {
+          "pada_original": "न॒म॒स्य",
+          "pada_kn": "ನಮಸ್ಯ",
+          "meaning_en": "Adore / Revere",
+          "meaning_kn": "ನಮಿಸು / ಆರಾಧಿಸು"
+        },
+        {
+          "pada_original": "धीर᳚‌म्",
+          "pada_kn": "ಧೀರಮ್",
+          "meaning_en": "Wise / Steadfast",
+          "meaning_kn": "ಜ್ಞಾನಿ / ಧೀರನಾದ"
+        },
+        {
+          "pada_original": "अ॒मृत॑स्य",
+          "pada_kn": "ಅಮೃತಸ್ಯ",
+          "meaning_en": "Of immortality / Of nectar",
+          "meaning_kn": "ಅಮರತ್ವದ / ಅಮೃತದ"
+        },
+        {
+          "pada_original": "गो॒पा‌म्",
+          "pada_kn": "ಗೋಪಾಮ್",
+          "meaning_en": "Protector / Guardian",
+          "meaning_kn": "ರಕ್ಷಕನನ್ನು / ಪಾಲಕನನ್ನು"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He (Varuna)",
+          "meaning_kn": "ಅವನು (ವರುಣ)"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "To us / For us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "शर्म॑",
+          "pada_kn": "ಶರ್ಮ",
+          "meaning_en": "Protection / Shelter",
+          "meaning_kn": "ರಕ್ಷಣೆ / ಆಶ್ರಯ"
+        },
+        {
+          "pada_original": "त्रि॒ऽवरू᳚थ‌म्",
+          "pada_kn": "ತ್ರಿವರೂಥಮ್",
+          "meaning_en": "Threefold protection / Triple-sheltered",
+          "meaning_kn": "ತ್ರಿವಿಧ ರಕ್ಷಣೆ / ಮೂರು ಆಶ್ರಯಗಳುಳ್ಳ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "(prefix for bestowing)",
+          "meaning_kn": "(ಕರುಣಿಸು ಎಂಬ ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "यं॒स॒त्",
+          "pada_kn": "ಯಂಸತ್",
+          "meaning_en": "May he bestow / May he grant",
+          "meaning_kn": "ಅವನು ಕರುಣಿಸಲಿ / ನೀಡಲಿ"
+        },
+        {
+          "pada_original": "पा॒त‌म्",
+          "pada_kn": "ಪಾತಮ್",
+          "meaning_en": "Protect (dual imperative)",
+          "meaning_kn": "ರಕ್ಷಿಸಿರಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "द्या॒वा॒पृ॒थि॒वी॒ इति॑",
+          "pada_kn": "ದ್ಯಾವಾಪೃಥಿವೀ ಇತಿ",
+          "meaning_en": "O Heaven and Earth",
+          "meaning_kn": "ಓ ದ್ಯಾವಾಪೃಥಿವಿಯೇ (ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯೇ)"
+        },
+        {
+          "pada_original": "उ॒पऽस्थे᳚",
+          "pada_kn": "ಉಪಸ್ಥೇ",
+          "meaning_en": "In the lap / In the presence",
+          "meaning_kn": "ಮಡಿಲಲ್ಲಿ / ಸಮೀಪದಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "Thus, offer your reverence to Varuna, the vast one, humbly bow to the wise guardian of immortality. May he grant us threefold shelter. O Heaven and Earth, protect us in your embrace.",
+      "full_meaning_kn": "ಹೀಗೆ, ವರುಣನಿಗೆ ನಿಮ್ಮ ಗೌರವಗಳನ್ನು ಸಲ್ಲಿಸಿ, ಮಹಾನ್ ವ್ಯಕ್ತಿಯೇ, ಅಮರತ್ವದ ವಿವೇಕಯುತ ರಕ್ಷಕನಿಗೆ ವಿನಯದಿಂದ ನಮಸ್ಕರಿಸಿ. ಅವನು ನಮಗೆ ಮೂರು ಪಟ್ಟು ಆಶ್ರಯವನ್ನು ನೀಡಲಿ. ಓ ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯೇ, ನಿಮ್ಮ ತೆಕ್ಕೆಯಲ್ಲಿ ನಮ್ಮನ್ನು ರಕ್ಷಿಸಿ.",
+      "rig_time_s": 17.457,
+      "Insight_en": "Varuna represents the cosmic order (Rta) and the ethical consciousness within. Worshipping Varuna is acknowledging the divine law that governs both the external universe and the internal world. The threefold shelter sought is protection from physical, mental, and spiritual afflictions, achieved by aligning oneself with Rta. Heaven and Earth, as primal parents, symbolize the all-encompassing support and nurturing aspect of existence, offering refuge in the divine embrace.",
+      "Insight_kn": "ವರುಣನು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು (ಋತ) ಮತ್ತು ಒಳಗಿನ ನೈತಿಕ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ವರುಣನನ್ನು ಪೂಜಿಸುವುದು ಬಾಹ್ಯ ಬ್ರಹ್ಮಾಂಡ ಮತ್ತು ಆಂತರಿಕ ಜಗತ್ತನ್ನು ನಿಯಂತ್ರಿಸುವ ದೈವಿಕ ಕಾನೂನನ್ನು ಗುರುತಿಸುವುದು. ತ್ರಿವಳಿ ಆಶ್ರಯವು ಭೌತಿಕ, ಮಾನಸಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಂಕಟಗಳಿಂದ ರಕ್ಷಣೆಯಾಗಿದೆ, ಋತದೊಂದಿಗೆ ಸ್ವಯಂ ಜೋಡಣೆಯಿಂದ ಸಾಧಿಸಲಾಗುತ್ತದೆ. ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ, ಆದಿ ಪಿತೃಗಳಾಗಿ, ಅಸ್ತಿತ್ವದ ಸರ್ವತೋಮುಖ ಬೆಂಬಲ ಮತ್ತು ಪೋಷಣೆಯ ಅಂಶವನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ, ದೈವಿಕ ಆಲಿಂಗನದಲ್ಲಿ ಆಶ್ರಯವನ್ನು ನೀಡುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M8-S42_103-3_6",
+      "mandala": 8,
+      "sukta": 42,
+      "ric_index": 3,
+      "rig_lines": [
+        "इ॒मां धियं॒ शिक्ष॑माणस्य देव॒ क्रतुं॒ दक्षं᳚ वरुण॒ सं शि॑शाधि |",
+        "ययाति॒ विश्वा᳚ दुरि॒ता तरे᳚म सु॒तर्मा᳚ण॒मधि॒ नावं᳚ रुहेम ||"
+      ],
+      "pre_splits": [
+        "इ॒मा‌म्",
+        "धिय᳚‌म्",
+        "शिक्ष॑माणस्य",
+        "दे॒व॒",
+        "क्रतु᳚‌म्",
+        "दक्ष᳚‌म्",
+        "व॒रु॒ण॒",
+        "स‌म्",
+        "शि॒शा॒धि॒",
+        "यया᳚",
+        "अति॑",
+        "विश्वा᳚",
+        "दुः॒ऽ‌इ॒ता",
+        "तरे᳚म",
+        "सु॒ऽतर्मा᳚ण‌म्",
+        "अधि॑",
+        "नाव᳚‌म्",
+        "रु॒हे॒म॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इ॒मा‌म्",
+          "pada_kn": "ಇಮಾಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "धिय᳚‌म्",
+          "pada_kn": "ಧಿಯಮ್",
+          "meaning_en": "thought / intellect / prayer",
+          "meaning_kn": "ಬುದ್ಧಿ / ಪ್ರಾರ್ಥನೆ"
+        },
+        {
+          "pada_original": "शिक्ष॑माणस्य",
+          "pada_kn": "ಶಿಕ್ಷಮಾಣಸ್ಯ",
+          "meaning_en": "of one who is striving / learning",
+          "meaning_kn": "ಪ್ರಯತ್ನಿಸುತ್ತಿರುವವನಿಗೆ / ಕಲಿಯುತ್ತಿರುವವನಿಗೆ"
+        },
+        {
+          "pada_original": "दे॒व॒",
+          "pada_kn": "ದೇವ",
+          "meaning_en": "O god",
+          "meaning_kn": "ಓ ದೇವ"
+        },
+        {
+          "pada_original": "क्रतु᳚‌म्",
+          "pada_kn": "ಕ್ರತುಮ್",
+          "meaning_en": "will / resolve / wisdom",
+          "meaning_kn": "ಸಂಕಲ್ಪ / ಜ್ಞಾನ"
+        },
+        {
+          "pada_original": "दक्ष᳚‌म्",
+          "pada_kn": "ದಕ್ಷಮ್",
+          "meaning_en": "skill / ability / strength",
+          "meaning_kn": "ಸಾಮರ್ಥ್ಯ / ಶಕ್ತಿ"
+        },
+        {
+          "pada_original": "व॒रु॒ण॒",
+          "pada_kn": "ವರುಣ",
+          "meaning_en": "O Varuna",
+          "meaning_kn": "ಓ ವರುಣ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "completely / together",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ / ಒಟ್ಟಾಗಿ"
+        },
+        {
+          "pada_original": "शि॒शा॒धि॒",
+          "pada_kn": "ಶಿಶಾದಿ",
+          "meaning_en": "sharpen / grant / make keen",
+          "meaning_kn": "ತೀಕ್ಷ್ಣಗೊಳಿಸು / ಪ್ರದಾನಿಸು"
+        },
+        {
+          "pada_original": "यया᳚",
+          "pada_kn": "ಯಯಾ",
+          "meaning_en": "by which",
+          "meaning_kn": "ಯಾವುದರಿಂದ"
+        },
+        {
+          "pada_original": "अति॑",
+          "pada_kn": "ಅತಿ",
+          "meaning_en": "beyond / over",
+          "meaning_kn": "ದಾಟಿ / ಮೀರಿ"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "दुः॒ऽ‌इ॒ता",
+          "pada_kn": "ದುಃಇತಾ",
+          "meaning_en": "evils / difficulties / sins",
+          "meaning_kn": "ದುರಿತಗಳು / ಕಷ್ಟಗಳು / ಪಾಪಗಳು"
+        },
+        {
+          "pada_original": "तरे᳚म",
+          "pada_kn": "ತರೇಮ",
+          "meaning_en": "may we cross",
+          "meaning_kn": "ನಾವು ದಾಟೋಣ"
+        },
+        {
+          "pada_original": "सु॒ऽतर्मा᳚ण‌म्",
+          "pada_kn": "ಸುತರ್ಮಾಣಮ್",
+          "meaning_en": "easy to cross / good passage (referring to a boat)",
+          "meaning_kn": "ಸುಲಭವಾಗಿ ದಾಟಿಸುವಂತಹ / ಉತ್ತಮ ಮಾರ್ಗವನ್ನು ಒದಗಿಸುವ (ದೋಣಿ)"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon / on",
+          "meaning_kn": "ಮೇಲೆ / ಹತ್ತಿ"
+        },
+        {
+          "pada_original": "नाव᳚‌म्",
+          "pada_kn": "ನಾವಮ್",
+          "meaning_en": "boat / ship",
+          "meaning_kn": "ದೋಣಿ / ಹಡಗು"
+        },
+        {
+          "pada_original": "रु॒हे॒म॒",
+          "pada_kn": "ರುಹೇಮ",
+          "meaning_en": "may we ascend / embark",
+          "meaning_kn": "ನಾವು ಏರೋಣ / ಹತ್ತೋಣ"
+        }
+      ],
+      "full_meaning_en": "O radiant Varuna, illuminate and grant wisdom to our striving minds, bestow strength and skill. Through this wisdom, may we transcend all sorrows and adversities. May we ascend the well-crafted vessel that carries us safely across the turbulent waters.",
+      "full_meaning_kn": "ಓ ಪ್ರಕಾಶಮಾನ ವರುಣನೇ, ಶ್ರಮಿಸುತ್ತಿರುವ ನಮ್ಮ ಮನಸ್ಸುಗಳಿಗೆ ಜ್ಞಾನವನ್ನು ಬೆಳಗಿಸಿ ಮತ್ತು ದಯಪಾಲಿಸು, ಶಕ್ತಿ ಮತ್ತು ಕೌಶಲ್ಯವನ್ನು ನೀಡು. ಈ ಜ್ಞಾನದ ಮೂಲಕ, ನಾವು ಎಲ್ಲಾ ದುಃಖಗಳು ಮತ್ತು ತೊಂದರೆಗಳನ್ನು ದಾಟಬಹುದು. ಪ್ರಕ್ಷುಬ್ಧ ನೀರಿನಲ್ಲಿ ನಮ್ಮನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಸಾಗಿಸುವ ಉತ್ತಮವಾಗಿ ರಚಿಸಲಾದ ಹಡಗನ್ನು ನಾವು ಏರಬಹುದು.",
+      "rig_time_s": 34.426,
+      "Insight_en": "The mantra speaks to the cultivation of inner wisdom (dhī) and skillful action (dakṣam) under the guidance of Varuna, representing cosmic order and moral law. The journey across 'durita' (difficulties) symbolizes the soul's passage through samsara. The 'nāv' (boat) is the vehicle of spiritual practice (sādhanā) that enables liberation (moksha). Ascending the boat represents a conscious choice to engage in practices that lead to transcendence.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಕಾಸ್ಮಿಕ್ ಕ್ರಮ ಮತ್ತು ನೈತಿಕ ಕಾನೂನನ್ನು ಪ್ರತಿನಿಧಿಸುವ ವರುಣನ ಮಾರ್ಗದರ್ಶನದಲ್ಲಿ ಒಳಗಿನ ಜ್ಞಾನ (ಧೀ) ಮತ್ತು ಕೌಶಲ್ಯಪೂರ್ಣ ಕ್ರಿಯೆ (ದಕ್ಷಂ) ಯನ್ನು ಬೆಳೆಸುವ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ. 'ದುರಿತ' (ತೊಂದರೆಗಳು) ಮೂಲಕ ಪ್ರಯಾಣವು ಸಂಸಾರದ ಮೂಲಕ ಆತ್ಮದ ಸಾಗಣೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. 'ನಾವ್' (ದೋಣಿ) ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ (ಸಾಧನಾ) ವಾಹನವಾಗಿದ್ದು ಅದು ವಿಮೋಚನೆಗೆ (ಮೋಕ್ಷ) ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ದೋಣಿಯನ್ನು ಏರುವುದು ಎಂದರೆ ಅತೀಂದ್ರಿಯತೆಗೆ ಕಾರಣವಾಗುವ ಅಭ್ಯಾಸಗಳಲ್ಲಿ ತೊಡಗಿಸಿಕೊಳ್ಳಲು ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಆಯ್ಕೆಯನ್ನು ಮಾಡುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M8-S42_103-4_6",
+      "mandala": 8,
+      "sukta": 42,
+      "ric_index": 4,
+      "rig_lines": [
+        "आ वां॒ ग्रावा᳚णो, अश्विना धी॒भिर्विप्रा᳚, अचुच्यवुः |",
+        "नास॑त्या॒ सोम॑पीतये॒ नभ᳚न्तामन्य॒के स॑मे ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "वा॒‌म्",
+        "ग्रावा᳚णः",
+        "अ॒श्वि॒ना॒",
+        "धी॒भिः",
+        "विप्राः᳚",
+        "अ॒चु॒च्य॒वुः॒",
+        "नास॑त्या",
+        "सोम॑ऽपीतये",
+        "नभ᳚न्ता‌म्",
+        "अ॒न्य॒के",
+        "स॒मे॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Towards / Hither",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "To you two (Ashvins)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "ग्रावा᳚णः",
+          "pada_kn": "ಗ್ರಾವಾಣಃ",
+          "meaning_en": "The pressing stones (for Soma)",
+          "meaning_kn": "ಸೋಮವನ್ನು ಹಿಂಡುವ ಕಲ್ಲುಗಳು"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "धी॒भिः",
+          "pada_kn": "ಧೀಭಿಃ",
+          "meaning_en": "With prayers / thoughts",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆಗಳಿಂದ / ಬುದ್ಧಿಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "विप्राः᳚",
+          "pada_kn": "ವಿಪ್ರಾಃ",
+          "meaning_en": "The inspired priests / wise ones",
+          "meaning_kn": "ವಿಪ್ರರು / ಋತ್ವಿಜರು"
+        },
+        {
+          "pada_original": "अ॒चु॒च्य॒वुः॒",
+          "pada_kn": "ಅಚುಚ್ಯವುಃ",
+          "meaning_en": "They have stirred / impelled",
+          "meaning_kn": "ಅವರು ಪ್ರೇರೇಪಿಸಿದರು / ಚಲಿಸಿದರು"
+        },
+        {
+          "pada_original": "नास॑त्या",
+          "pada_kn": "ನಾಸತ್ಯಾ",
+          "meaning_en": "O Nasatyas (another name for Ashvins)",
+          "meaning_kn": "ಓ ನಾಸತ್ಯರೇ"
+        },
+        {
+          "pada_original": "सोम॑ऽपीतये",
+          "pada_kn": "ಸೋಮಪೀತಯೇ",
+          "meaning_en": "For the drinking of Soma",
+          "meaning_kn": "ಸೋಮಪಾನಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "नभ᳚न्ता‌म्",
+          "pada_kn": "ನಭನ್ತಾಮ್",
+          "meaning_en": "Let them burst / be destroyed",
+          "meaning_kn": "ಅವು ನಾಶವಾಗಲಿ / ಸಿಡಿಯಲಿ"
+        },
+        {
+          "pada_original": "अ॒न्य॒के",
+          "pada_kn": "ಅನ್ಯಕೇ",
+          "meaning_en": "The others / the enemies",
+          "meaning_kn": "ಇತರರು / ಶತ್ರುಗಳು"
+        },
+        {
+          "pada_original": "स॒मे॒",
+          "pada_kn": "ಸಮೇ",
+          "meaning_en": "Together / in battle",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಯುದ್ಧದಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, skilled priests have set the pressing stones in motion with insightful prayers for you. O Nasatyas, for the sake of drinking Soma, may all other adversaries be completely vanquished.",
+      "full_meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಕುಶಲಕರ್ಮಿಗಳಾದ ಪುರೋಹಿತರು ತಮ್ಮ ವಿವೇಕಯುಕ್ತ ಪ್ರಾರ್ಥನೆಗಳಿಂದ ನಿಮಗಾಗಿ ಸೋಮರಸವನ್ನು ಹಿಂಡುವ ಕಲ್ಲುಗಳನ್ನು ಚಲಿಸುವಂತೆ ಮಾಡಿದ್ದಾರೆ. ಓ ನಾಸತ್ಯರೇ, ಸೋಮಪಾನಕ್ಕಾಗಿ, ಇತರ ಎಲ್ಲಾ ವಿರೋಧಿಗಳು ಸಂಪೂರ್ಣವಾಗಿ ನಾಶವಾಗಲಿ.",
+      "rig_time_s": 49.676,
+      "Insight_en": "The act of pressing Soma symbolizes the extraction of inner essence through focused effort (prayers). Ashvins represent the dual forces that aid spiritual progress, and the obliteration of 'other adversaries' signifies the removal of distractions and egoic obstacles on the path to self-realization. The Soma offering to the Ashvins invites their grace in facilitating this inner transformation, and in destroying the false conceptions born from अविद्या (ignorance).",
+      "Insight_kn": "ಸೋಮವನ್ನು ಹಿಂಡುವ ಕ್ರಿಯೆಯು ಕೇಂದ್ರೀಕೃತ ಪ್ರಯತ್ನದಿಂದ (ಪ್ರಾರ್ಥನೆಗಳು) ಆಂತರಿಕ ಸಾರವನ್ನು ಹೊರತೆಗೆಯುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಅಶ್ವಿನಿ ದೇವತೆಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಸಹಾಯ ಮಾಡುವ ದ್ವಂದ್ವ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ ಮತ್ತು 'ಇತರ ವಿರೋಧಿಗಳ' ನಿರ್ಮೂಲನೆಯು ಸ್ವಯಂ ಸಾಕ್ಷಾತ್ಕಾರದ ಹಾದಿಯಲ್ಲಿನ ಗೊಂದಲಗಳು ಮತ್ತು ಅಹಂಕಾರದ ಅಡೆತಡೆಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಶ್ವಿನಿ ದೇವತೆಗಳಿಗೆ ಸೋಮವನ್ನು ಅರ್ಪಿಸುವುದು ಈ ಆಂತರಿಕ ರೂಪಾಂತರವನ್ನು ಸುಲಭಗೊಳಿಸಲು ಮತ್ತು ಅವಿದ್ಯೆಯಿಂದ ಹುಟ್ಟಿದ ತಪ್ಪು ಕಲ್ಪನೆಗಳನ್ನು ನಾಶಮಾಡಲು ಅವರ ಕೃಪೆಯನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M8-S42_103-5_6",
+      "mandala": 8,
+      "sukta": 42,
+      "ric_index": 5,
+      "rig_lines": [
+        "यथा᳚ वा॒मत्रि॑रश्विना गी॒र्भिर्विप्रो॒, अजो᳚हवीत् |",
+        "नास॑त्या॒ सोम॑पीतये॒ नभ᳚न्तामन्य॒के स॑मे ||"
+      ],
+      "pre_splits": [
+        "यथा᳚",
+        "वा॒‌म्",
+        "अत्रिः॑",
+        "अ॒श्वि॒ना॒",
+        "गीः॒ऽभिः",
+        "विप्रः॑",
+        "अजो᳚हवीत्",
+        "नास॑त्या",
+        "सोम॑ऽपीतये",
+        "नभ᳚न्ता‌म्",
+        "अ॒न्य॒के",
+        "स॒मे॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यथा᳚",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "as / just as",
+          "meaning_kn": "ಹೇಗೆ / ಯಾವ ರೀತಿ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "you two (Ashvins)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು"
+        },
+        {
+          "pada_original": "अत्रिः॑",
+          "pada_kn": "ಅತ್ರಿಃ",
+          "meaning_en": "Atri (the Rishi)",
+          "meaning_kn": "ಅತ್ರಿ (ಋಷಿ)"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "गीः॒ऽभिः",
+          "pada_kn": "ಗೀಃಭಿಃ",
+          "meaning_en": "with praises / with hymns",
+          "meaning_kn": "ಸ್ತೋತ್ರಗಳಿಂದ / ಸ್ತುತಿಗಳಿಂದ"
+        },
+        {
+          "pada_original": "विप्रः॑",
+          "pada_kn": "ವಿಪ್ರಃ",
+          "meaning_en": "the inspired one / the wise one",
+          "meaning_kn": "ಜ್ಞಾನಿ / ಮೇಧಾವಿ"
+        },
+        {
+          "pada_original": "अजो᳚हवीत्",
+          "pada_kn": "ಅಜೋಹವೀತ್",
+          "meaning_en": "invoked / called",
+          "meaning_kn": "ಆಹ್ವಾನಿಸಿದನು / ಕರೆದನು"
+        },
+        {
+          "pada_original": "नास॑त्या",
+          "pada_kn": "ನಾಸತ್ಯಾ",
+          "meaning_en": "O Nasatyas",
+          "meaning_kn": "ಓ ನಾಸತ್ಯರೇ"
+        },
+        {
+          "pada_original": "सोम॑ऽपीतये",
+          "pada_kn": "ಸೋಮಪೀತಯೇ",
+          "meaning_en": "for Soma-drinking",
+          "meaning_kn": "ಸೋಮಪಾನಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "नभ᳚न्ता‌म्",
+          "pada_kn": "ನಭನ್ತಾಮ್",
+          "meaning_en": "let them burst / let them be destroyed",
+          "meaning_kn": "ಅವು ನಾಶವಾಗಲಿ / ಅವು ಸಿಡಿಯಲಿ"
+        },
+        {
+          "pada_original": "अ॒न्य॒के",
+          "pada_kn": "ಅನ್ಯಕೇ",
+          "meaning_en": "the others (enemies)",
+          "meaning_kn": "ಇತರರು (ಶತ್ರುಗಳು)"
+        },
+        {
+          "pada_original": "स॒मे॒",
+          "pada_kn": "ಸಮೇ",
+          "meaning_en": "in the encounter / in the conflict",
+          "meaning_kn": "ಯುದ್ಧದಲ್ಲಿ / ಸಂಘರ್ಷದಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, just as the wise Rishi Atri invoked you with hymns, so also, O Nasatyas, come to drink the Soma. May the other adversaries be shattered in battle.",
+      "full_meaning_kn": "ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಯಾವ ರೀತಿಯಲ್ಲಿ ಜ್ಞಾನಿಯಾದ ಅತ್ರಿ ಋಷಿಯು ಸ್ತುತಿಗಳಿಂದ ನಿಮ್ಮನ್ನು ಕರೆದನೋ, ಅದೇ ರೀತಿಯಲ್ಲಿ, ಎಲೈ ನಾಸತ್ಯರೇ, ಸೋಮಪಾನಕ್ಕಾಗಿ ಬನ್ನಿರಿ. ಇತರ ವೈರಿಗಳು ಯುದ್ಧದಲ್ಲಿ ನಾಶವಾಗಲಿ.",
+      "rig_time_s": 62.913,
+      "Insight_en": "The call to the Ashvins represents an invocation of inner healing and renewal. Atri's hymn symbolizes the purified mind seeking divine grace for overcoming internal obstacles. The Soma-drinking signifies the absorption of divine nectar leading to spiritual illumination, while the destruction of adversaries reflects the annihilation of negative tendencies within.",
+      "Insight_kn": "ಅಶ್ವಿನೀದೇವತೆಗಳಿಗೆ ಕರೆ ಎಂದರೆ ಆಂತರಿಕ ಗುಣಪಡಿಸುವಿಕೆ ಮತ್ತು ನವೀಕರಣದ ಆಹ್ವಾನವಾಗಿದೆ. ಅತ್ರಿಯ ಸ್ತೋತ್ರವು ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸಲು ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು ಹುಡುಕುತ್ತಿರುವ ಶುದ್ಧ ಮನಸ್ಸನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸೋಮಪಾನವು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಕಾಶಕ್ಕೆ ಕಾರಣವಾಗುವ ದೈವಿಕ ಅಮೃತದ ಹೀರಿಕೊಳ್ಳುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಆದರೆ ವಿರೋಧಿಗಳ ನಾಶವು ಒಳಗಿನ ಋಣಾತ್ಮಕ ಪ್ರವೃತ್ತಿಗಳ ನಿರ್ಮೂಲನೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M8-S42_103-6_6",
+      "mandala": 8,
+      "sukta": 42,
+      "ric_index": 6,
+      "rig_lines": [
+        "ए॒वा वा᳚मह्व ऊ॒तये॒ यथाहु॑वन्त॒ मेधि॑राः |",
+        "नास॑त्या॒ सोम॑पीतये॒ नभ᳚न्तामन्य॒के स॑मे ||"
+      ],
+      "pre_splits": [
+        "ए॒व",
+        "वा॒‌म्",
+        "अ॒ह्वे॒",
+        "ऊ॒तये᳚",
+        "यथा᳚",
+        "अहु॑वन्त",
+        "मेधि॑राः",
+        "नास॑त्या",
+        "सोम॑ऽपीतये",
+        "नभ᳚न्ता‌म्",
+        "अ॒न्य॒के",
+        "स॒मे॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ए॒व",
+          "pada_kn": "ಏವ",
+          "meaning_en": "thus / just so",
+          "meaning_kn": "ಹೀಗೆ / ಹಾಗೆಯೇ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "you two (Ashvins)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು"
+        },
+        {
+          "pada_original": "अ॒ह्वे॒",
+          "pada_kn": "ಅಹ್ವೇ",
+          "meaning_en": "I invoke / I call",
+          "meaning_kn": "ನಾನು ಆಹ್ವಾನಿಸುತ್ತೇನೆ / ಕರೆಯುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "ऊ॒तये᳚",
+          "pada_kn": "ಊತಯೇ",
+          "meaning_en": "for help / for protection",
+          "meaning_kn": "ಸಹಾಯಕ್ಕಾಗಿ / ರಕ್ಷಣೆಗಾಗಿ"
+        },
+        {
+          "pada_original": "यथा᳚",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "as / just as",
+          "meaning_kn": "ಹೇಗೆ / ಯಾವ ರೀತಿ"
+        },
+        {
+          "pada_original": "अहु॑वन्त",
+          "pada_kn": "ಅಹುವಂತ",
+          "meaning_en": "(they) invoked / called",
+          "meaning_kn": "ಅವರು ಆಹ್ವಾನಿಸಿದರು / ಕರೆದರು"
+        },
+        {
+          "pada_original": "मेधि॑राः",
+          "pada_kn": "ಮೇಧಿರಾಃ",
+          "meaning_en": "the wise ones / intelligent ones",
+          "meaning_kn": "ಬುದ್ಧಿವಂತರು / ಜ್ಞಾನಿಗಳು"
+        },
+        {
+          "pada_original": "नास॑त्या",
+          "pada_kn": "ನಾಸತ್ಯಾ",
+          "meaning_en": "O Nasatyas (Ashvins)",
+          "meaning_kn": "ಓ ನಾಸತ್ಯರೇ"
+        },
+        {
+          "pada_original": "सोम॑ऽपीतये",
+          "pada_kn": "ಸೋಮಪೀತಯೇ",
+          "meaning_en": "for the Soma-drinking / to drink Soma",
+          "meaning_kn": "ಸೋಮಪಾನಕ್ಕಾಗಿ / ಸೋಮ ಕುಡಿಯಲು"
+        },
+        {
+          "pada_original": "नभ᳚न्ता‌म्",
+          "pada_kn": "ನಭಂತಾಮ್",
+          "meaning_en": "may they burst / may they perish",
+          "meaning_kn": "ಅವರು ನಾಶವಾಗಲಿ / ಕಣ್ಮರೆಯಾಗಲಿ"
+        },
+        {
+          "pada_original": "अ॒न्य॒के",
+          "pada_kn": "ಅನ್ಯಕೇ",
+          "meaning_en": "the others / the foes",
+          "meaning_kn": "ಇತರರು / ಶತ್ರುಗಳು"
+        },
+        {
+          "pada_original": "स॒मे॒",
+          "pada_kn": "ಸಮೇ",
+          "meaning_en": "together / all",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಎಲ್ಲರೂ"
+        }
+      ],
+      "full_meaning_en": "Even so, I call upon you both for aid, just as the wise have invoked you, O Nasatyas, for the drinking of Soma. May the rival forces be shattered utterly.",
+      "full_meaning_kn": "ಹಿಂದಿನ ಜ್ಞಾನಿಗಳು ನಿಮ್ಮನ್ನು ಹೇಗೆ ಕರೆದರೋ, ಅದೇ ರೀತಿ ನಾನು ನಿಮ್ಮನ್ನು ಸಹಾಯಕ್ಕಾಗಿ ಕರೆಯುತ್ತೇನೆ. ಓ ನಾಸತ್ಯರೇ, ಸೋಮಪಾನಕ್ಕಾಗಿ ನಿಮ್ಮನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ. ಇತರ ಪ್ರತಿಸ್ಪರ್ಧಿ ಶಕ್ತಿಗಳು ಸಂಪೂರ್ಣವಾಗಿ ನಾಶವಾಗಲಿ.",
+      "rig_time_s": 76.371,
+      "Insight_en": "The call to the Ashvins, the divine healers, represents an invocation of inner vitality and restorative forces. The 'Soma-drinking' symbolizes the absorption of spiritual nectar, leading to heightened awareness and the dissolution of internal conflicts. The destruction of 'rival forces' signifies the triumph over negative tendencies and the establishment of inner harmony. This mantra underlines the journey towards self-mastery and the attainment of spiritual well-being, facilitated by divine grace and inner transformation. One must strive to become like the wise (मेधि॑राः), who understand the true nature of reality and are always connected to the divine. The Soma is the amrita (अमृत) within.",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳಿಗೆ ಕರೆಯು ಆಂತರಿಕ ಚೈತನ್ಯ ಮತ್ತು ಪುನಶ್ಚೇತನ ಶಕ್ತಿಗಳ ಆಹ್ವಾನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. 'ಸೋಮಪಾನ'ವು ಆಧ್ಯಾತ್ಮಿಕ ಅಮೃತದ ಹೀರಿಕೊಳ್ಳುವಿಕೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಹೆಚ್ಚಿದ ಅರಿವು ಮತ್ತು ಆಂತರಿಕ ಸಂಘರ್ಷಗಳ ವಿಸರ್ಜನೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. 'ಪ್ರತಿಸ್ಪರ್ಧಿ ಶಕ್ತಿಗಳ' ನಾಶವು ನಕಾರಾತ್ಮಕ ಪ್ರವೃತ್ತಿಗಳ ಮೇಲಿನ ವಿಜಯ ಮತ್ತು ಆಂತರಿಕ ಸಾಮರಸ್ಯದ ಸ್ಥಾಪನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ದೈವಿಕ ಅನುಗ್ರಹ ಮತ್ತು ಆಂತರಿಕ ರೂಪಾಂತರದಿಂದ ಸುಗಮಗೊಳಿಸಲ್ಪಟ್ಟ ಸ್ವಯಂ-ಪ್ರಾಬಲ್ಯ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಯೋಗಕ್ಷೇಮದ ಸಾಧನೆಯ ಕಡೆಗಿನ ಪ್ರಯಾಣವನ್ನು ಈ ಮಂತ್ರವು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಸತ್ಯದ ಸ್ವರೂಪವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವ ಮತ್ತು ಯಾವಾಗಲೂ ದೈವಿಕತೆಗೆ ಸಂಪರ್ಕ ಹೊಂದಿರುವ ಜ್ಞಾನಿಗಳಂತೆ (ಮೇಧಿರಾಃ) ಆಗಲು ಒಬ್ಬರು ಶ್ರಮಿಸಬೇಕು. ಸೋಮವು ಒಳಗಿರುವ ಅಮೃತ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

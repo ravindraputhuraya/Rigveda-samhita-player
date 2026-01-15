@@ -1,0 +1,769 @@
+{
+  "mandala": 3,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M3-S47_62-1_5",
+      "mandala": 3,
+      "sukta": 47,
+      "ric_index": 1,
+      "rig_lines": [
+        "म॒रुत्वाँ᳚, इन्द्र वृष॒भो रणा᳚य॒ पिबा॒ सोम॑मनुष्व॒धं मदा᳚य |",
+        "आ सि᳚ञ्चस्व ज॒ठरे॒ मध्व॑ ऊ॒र्मिं त्वं राजा᳚सि प्र॒दिवः॑ सु॒ताना᳚म् ||"
+      ],
+      "pre_splits": [
+        "म॒रुत्वा᳚न्",
+        "इ॒न्द्र॒",
+        "वृ॒ष॒भः",
+        "रणा᳚य",
+        "पिब॑",
+        "सोम᳚‌म्",
+        "अ॒नु॒ऽस्व॒ध‌म्",
+        "मदा᳚य",
+        "आ",
+        "सिं॒च॒स्व॒",
+        "ज॒ठरे᳚",
+        "मध्वः॑",
+        "ऊ॒र्मि‌म्",
+        "त्व‌म्",
+        "राजा᳚",
+        "अ॒सि॒",
+        "प्र॒ऽदिवः॑",
+        "सु॒ताना᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "म॒रुत्वा᳚न्",
+          "pada_kn": "ಮರುತ್ವಾನ್",
+          "meaning_en": "Accompanied by Maruts",
+          "meaning_kn": "ಮರುತ್ತುಗಳೊಡಗೂಡಿದ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "वृ॒ष॒भः",
+          "pada_kn": "ವೃಷಭಃ",
+          "meaning_en": "Mighty / Bull-like",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿ / ವೃಷಭದಂತಹ"
+        },
+        {
+          "pada_original": "रणा᳚य",
+          "pada_kn": "ರಣಾಯ",
+          "meaning_en": "For delight / For battle",
+          "meaning_kn": "ಸಂತೋಷಕ್ಕಾಗಿ / ಯುದ್ಧಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "पिब॑",
+          "pada_kn": "ಪಿಬ",
+          "meaning_en": "Drink",
+          "meaning_kn": "ಕುಡಿ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒नु॒ऽस्व॒ध‌म्",
+          "pada_kn": "ಅನುಸ್ವಧಮ್",
+          "meaning_en": "According to your nature / Freely",
+          "meaning_kn": "ನಿನ್ನ ಸ್ವಭಾವಕ್ಕನುಗುಣವಾಗಿ / ಇಚ್ಛಾನುಸಾರವಾಗಿ"
+        },
+        {
+          "pada_original": "मदा᳚य",
+          "pada_kn": "ಮದಾಯ",
+          "meaning_en": "For exhilaration / For delight",
+          "meaning_kn": "ಉನ್ಮಾದಕ್ಕಾಗಿ / ಸಂತೋಷಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(Prefix for 'pour')",
+          "meaning_kn": "ಸುರಿಯಲು"
+        },
+        {
+          "pada_original": "सिं॒च॒स्व॒",
+          "pada_kn": "ಸಿಂಚಸ್ವ",
+          "meaning_en": "Pour / Sprinkle",
+          "meaning_kn": "ಸುರಿ / ಸಿಂಪಡಿಸು"
+        },
+        {
+          "pada_original": "ज॒ठरे᳚",
+          "pada_kn": "ಜಠರೇ",
+          "meaning_en": "In the belly / In the stomach",
+          "meaning_kn": "ಹೊಟ್ಟೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "मध्वः॑",
+          "pada_kn": "ಮಧ್ವಃ",
+          "meaning_en": "Of the sweet (Soma) / Of honey",
+          "meaning_kn": "ಮಧುರವಾದ (ಸೋಮದ) / ಜೇನಿನ"
+        },
+        {
+          "pada_original": "ऊ॒र्मि‌म्",
+          "pada_kn": "ಊರ್ಮಿಮ್",
+          "meaning_en": "Wave / Stream",
+          "meaning_kn": "ಅಲೆ / ಪ್ರವಾಹ"
+        },
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "You",
+          "meaning_kn": "ನೀನು"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "King",
+          "meaning_kn": "ರಾಜನು"
+        },
+        {
+          "pada_original": "अ॒सि॒",
+          "pada_kn": "ಅಸಿ",
+          "meaning_en": "Are",
+          "meaning_kn": "ಆಗಿದ್ದೀಯೆ"
+        },
+        {
+          "pada_original": "प्र॒ऽदिवः॑",
+          "pada_kn": "ಪ್ರದಿವಃ",
+          "meaning_en": "Of ancient times / From ancient days",
+          "meaning_kn": "ಪ್ರಾಚೀನ ಕಾಲದಿಂದಲೂ / ಪೂರ್ವದಿಂದಲೂ"
+        },
+        {
+          "pada_original": "सु॒ताना᳚‌म्",
+          "pada_kn": "ಸುತಾನಾಮ್",
+          "meaning_en": "Of the pressed (Somas)",
+          "meaning_kn": "ಹಿಂಡಿದ ಸೋಮಗಳ"
+        }
+      ],
+      "full_meaning_en": "O Indra, accompanied by the Maruts, the mighty bull, for battle, drink the Soma, without restraint, for exhilaration. Pour into your belly the sweet wave of Soma. You are indeed the king of the pressed Somas from ancient times.",
+      "full_meaning_kn": "ಮರುತ್ತುಗಳಿಂದ ಕೂಡಿದ ಎಲೈ ಇಂದ್ರನೇ, ವೃಷಭನಂತೆ ಬಲಿಷ್ಠನಾದ ನೀನು ಯುದ್ಧಕ್ಕಾಗಿ, ಆನಂದಕ್ಕಾಗಿ ಸೋಮವನ್ನು ಮುಕ್ತವಾಗಿ ಕುಡಿ. ನಿನ್ನ ಹೊಟ್ಟೆಯಲ್ಲಿ ಮಧುವಿನ ಸಿಹಿ ಅಲೆಯನ್ನು ಸುರಿಸಿಕೊ. ನೀನು ಪುರಾತನ ಕಾಲದಿಂದಲೂ ಹಿಂಡಿದ ಸೋಮರಸಗಳ ರಾಜನಾಗಿದ್ದಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "Indra, accompanied by the Maruts (representing the senses and vital energies), embodies the enlightened mind. The Soma represents the nectar of inner experience. The mantra urges one to fully embrace this inner bliss, allowing it to fill the being. By becoming the 'king of the pressed Somas,' one masters sensory experience and attains self-sovereignty, drawing on the ancient wellspring of wisdom (प्र॒दिवः॑). The battle (रणा᳚य) signifies the constant inner struggle to overcome ignorance and ego. This is achieved through the transformative power of self-awareness.",
+      "Insight_kn": "ಮರುತ್ತುಗಳೊಂದಿಗೆ (ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಪ್ರಾಣಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುವ) ಕೂಡಿದ ಇಂದ್ರನು ಪ್ರಬುದ್ಧ ಮನಸ್ಸನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ಸೋಮವು ಆಂತರಿಕ ಅನುಭವದ ಅಮೃತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಈ ಮಂತ್ರವು ಈ ಆಂತರಿಕ ಆನಂದವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸ್ವೀಕರಿಸಲು ಮತ್ತು ಅಸ್ತಿತ್ವವನ್ನು ತುಂಬಲು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. 'ಹಿಂಡಿದ ಸೋಮರಸಗಳ ರಾಜ'ನಾಗುವ ಮೂಲಕ, ಒಬ್ಬನು ಇಂದ್ರಿಯ ಅನುಭವವನ್ನು ಕರಗತ ಮಾಡಿಕೊಳ್ಳುತ್ತಾನೆ ಮತ್ತು ಸ್ವಯಂ ಸಾರ್ವಭೌಮತ್ವವನ್ನು ಪಡೆಯುತ್ತಾನೆ, ಪ್ರಾಚೀನ ಬುದ್ಧಿವಂತಿಕೆಯ ಚಿಲುಮೆಯಿಂದ (प्र॒दिवः॑) ಶಕ್ತಿಯನ್ನು ಪಡೆಯುತ್ತಾನೆ. ಯುದ್ಧವು (रणा᳚य) ಅಜ್ಞಾನ ಮತ್ತು ಅಹಂಕಾರವನ್ನು ಜಯಿಸಲು ನಿರಂತರ ಆಂತರಿಕ ಹೋರಾಟವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದನ್ನು ಆತ್ಮ ಜಾಗೃತಿಯ ಪರಿವರ್ತಕ ಶಕ್ತಿಯ ಮೂಲಕ ಸಾಧಿಸಲಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S47_62-2_5",
+      "mandala": 3,
+      "sukta": 47,
+      "ric_index": 2,
+      "rig_lines": [
+        "स॒जोषा᳚, इन्द्र॒ सग॑णो म॒रुद्भिः॒ सोमं᳚ पिब वृत्र॒हा शू᳚र वि॒द्वान् |",
+        "ज॒हि शत्रूँ॒रप॒ मृधो᳚ नुद॒स्वाथाभ॑यं कृणुहि वि॒श्वतो᳚ नः ||"
+      ],
+      "pre_splits": [
+        "स॒ऽजोषाः᳚",
+        "इ॒न्द्र॒",
+        "सऽग॑णः",
+        "म॒रुत्ऽभिः॑",
+        "सोम᳚‌म्",
+        "पि॒ब॒",
+        "वृ॒त्र॒ऽहा",
+        "शू॒र॒",
+        "वि॒द्वान्",
+        "ज॒हि",
+        "शत्रू᳚न्",
+        "अप॑",
+        "मृधः॑",
+        "नु॒द॒स्व॒",
+        "अथ॑",
+        "अभ॑य‌म्",
+        "कृ॒णु॒हि॒",
+        "वि॒श्वतः॑",
+        "नः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स॒ऽजोषाः᳚",
+          "pada_kn": "ಸಜೋಷಾಃ",
+          "meaning_en": "pleased with / together with (the Maruts)",
+          "meaning_kn": "ಸಂತುಷ್ಟನಾಗಿ / ಜೊತೆಗೂಡಿ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "सऽग॑णः",
+          "pada_kn": "ಸಗಣಃ",
+          "meaning_en": "with your host / with your retinue",
+          "meaning_kn": "ನಿನ್ನ ಗಣದೊಂದಿಗೆ / ಪರಿವಾರದೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "म॒रुत्ऽभिः॑",
+          "pada_kn": "ಮರುದ್ಭಿಃ",
+          "meaning_en": "with the Maruts",
+          "meaning_kn": "ಮರುತ್ತುಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma (juice)",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "पि॒ब॒",
+          "pada_kn": "ಪಿಬ",
+          "meaning_en": "drink",
+          "meaning_kn": "ಪಾನಮಾಡು"
+        },
+        {
+          "pada_original": "वृ॒त्र॒ऽहा",
+          "pada_kn": "ವೃತ್ರಹಾ",
+          "meaning_en": "O slayer of Vritra",
+          "meaning_kn": "ಓ ವೃತ್ರಹಂತಕನೇ"
+        },
+        {
+          "pada_original": "शू॒र॒",
+          "pada_kn": "ಶೂರ",
+          "meaning_en": "O hero",
+          "meaning_kn": "ಓ ಶೂರನೇ"
+        },
+        {
+          "pada_original": "वि॒द्वान्",
+          "pada_kn": "ವಿದ್ವಾನ್",
+          "meaning_en": "O wise one / O knowing one",
+          "meaning_kn": "ಓ ಜ್ಞಾನಿಯೇ / ತಿಳಿದವನೇ"
+        },
+        {
+          "pada_original": "ज॒हि",
+          "pada_kn": "ಜಹಿ",
+          "meaning_en": "destroy / conquer",
+          "meaning_kn": "ನಾಶಮಾಡು / ಗೆಲ್ಲು"
+        },
+        {
+          "pada_original": "शत्रू᳚न्",
+          "pada_kn": "ಶತ್ರೂನ್",
+          "meaning_en": "enemies",
+          "meaning_kn": "ಶತ್ರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "away",
+          "meaning_kn": "ದೂರ"
+        },
+        {
+          "pada_original": "मृधः॑",
+          "pada_kn": "ಮೃಧಃ",
+          "meaning_en": "adversaries / battles",
+          "meaning_kn": "ವಿರೋಧಿಗಳನ್ನು / ಯುದ್ಧಗಳನ್ನು"
+        },
+        {
+          "pada_original": "नु॒द॒स्व॒",
+          "pada_kn": "ನುದಸ್ವ",
+          "meaning_en": "drive away / repel",
+          "meaning_kn": "ದೂರಮಾಡು / ಓಡಿಸು"
+        },
+        {
+          "pada_original": "अथ॑",
+          "pada_kn": "ಅಥ",
+          "meaning_en": "then / and",
+          "meaning_kn": "ನಂತರ / ಮತ್ತು"
+        },
+        {
+          "pada_original": "अभ॑य‌म्",
+          "pada_kn": "ಅಭಯಮ್",
+          "meaning_en": "fearlessness / safety",
+          "meaning_kn": "ಅಭಯವನ್ನು / ಸುರಕ್ಷತೆಯನ್ನು"
+        },
+        {
+          "pada_original": "कृ॒णु॒हि॒",
+          "pada_kn": "ಕೃಣುಹಿ",
+          "meaning_en": "make / grant",
+          "meaning_kn": "ಮಾಡು / ನೀಡು"
+        },
+        {
+          "pada_original": "वि॒श्वतः॑",
+          "pada_kn": "ವಿಶ್ವತಃ",
+          "meaning_en": "from all sides / everywhere",
+          "meaning_kn": "ಎಲ್ಲ ಕಡೆಯಿಂದಲೂ / ಎಲ್ಲೆಡೆಯೂ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        }
+      ],
+      "full_meaning_en": "O Indra, united with joy, accompanied by the host of Maruts, slayer of Vritra, hero, wise one, drink the Soma! Slay our enemies, drive away our adversaries, and then grant us fearlessness from all directions for us.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಆನಂದದಿಂದ ಕೂಡಿದವನೇ, ಮರುತ್ತುಗಳ ಸಮೂಹದೊಂದಿಗೆ ಸೇರಿದವನೇ, ವೃತ್ರಾಸುರನನ್ನು ಕೊಂದವನೇ, ಶೂರನೇ, ಜ್ಞಾನಿಯೇ, ಸೋಮವನ್ನು ಕುಡಿ! ನಮ್ಮ ಶತ್ರುಗಳನ್ನು ಕೊಲ್ಲು, ನಮ್ಮ ವಿರೋಧಿಗಳನ್ನು ಓಡಿಸು, ತದನಂತರ ನಮಗೆ ಎಲ್ಲಾ ದಿಕ್ಕುಗಳಿಂದ ಅಭಯವನ್ನು ದಯಪಾಲಿಸು.",
+      "rig_time_s": 15.377,
+      "Insight_en": "The invocation to Indra accompanied by the Maruts represents the integration of individual will (Indra) with the dynamic forces of nature (Maruts). The Soma represents the nectar of divine experience, and drinking it signifies the assimilation of spiritual wisdom. The slaying of enemies is the conquering of internal obstacles, and granting fearlessness from all directions is the establishment of inner peace and security (अभय) through the realization of the Self (आत्मन्).",
+      "Insight_kn": "ಇಂದ್ರನು ಮರುತ್ತುಗಳೊಂದಿಗೆ ಸೇರಿರುವ ಈ ಮಂತ್ರವು ವೈಯಕ್ತಿಕ ಇಚ್ಛಾಶಕ್ತಿಯು (ಇಂದ್ರ) ಪ್ರಕೃತಿಯ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಗಳೊಂದಿಗೆ (ಮರುತ್ತುಗಳು) ಒಂದಾಗುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸೋಮವು ದೈವಿಕ ಅನುಭವದ ಅಮೃತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ ಮತ್ತು ಅದನ್ನು ಕುಡಿಯುವುದು ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನವನ್ನು ಹೀರಿಕೊಳ್ಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಶತ್ರುಗಳನ್ನು ಕೊಲ್ಲುವುದು ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸುವುದು, ಮತ್ತು ಎಲ್ಲಾ ದಿಕ್ಕುಗಳಿಂದ ಅಭಯವನ್ನು ನೀಡುವುದು ಸ್ವಯಂ ಸಾಕ್ಷಾತ್ಕಾರದ ಮೂಲಕ ಆಂತರಿಕ ಶಾಂತಿ ಮತ್ತು ಸುರಕ್ಷತೆಯನ್ನು (ಅಭಯ) ಸ್ಥಾಪಿಸುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S47_62-3_5",
+      "mandala": 3,
+      "sukta": 47,
+      "ric_index": 3,
+      "rig_lines": [
+        "उ॒त ऋ॒तुभि᳚रृतुपाः पाहि॒ सोम॒मिन्द्र॑ दे॒वेभिः॒ सखि॑भिः सु॒तं नः॑ |",
+        "याँ, आभ॑जो म॒रुतो॒ ये त्वान्वह᳚न्‌ वृ॒त्रमद॑धु॒स्तुभ्य॒मोजः॑ ||"
+      ],
+      "pre_splits": [
+        "उ॒त",
+        "ऋ॒तुऽभिः॑",
+        "ऋ॒तु॒ऽपाः",
+        "पा॒हि॒",
+        "सोम᳚‌म्",
+        "इन्द्र॑",
+        "दे॒वेभिः॑",
+        "सखि॑ऽभिः",
+        "सु॒त‌म्",
+        "नः॒",
+        "यान्",
+        "आ",
+        "अभ॑जः",
+        "म॒रुतः॑",
+        "ये",
+        "त्वा॒",
+        "अनु॑",
+        "अह॑न्",
+        "वृ॒त्र‌म्",
+        "अद॑धुः",
+        "तुभ्य᳚‌म्",
+        "ओजः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "ऋ॒तुऽभिः॑",
+          "pada_kn": "ಋತುಭಿಃ",
+          "meaning_en": "with the seasons / at proper times",
+          "meaning_kn": "ಋತುಗಳೊಂದಿಗೆ / ಸರಿಯಾದ ಸಮಯಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ऋ॒तु॒ऽपाः",
+          "pada_kn": "ಋತುಪಾಃ",
+          "meaning_en": "O guardian of seasons / O protector of proper times",
+          "meaning_kn": "ಋತುಗಳ ರಕ್ಷಕನೇ / ಸರಿಯಾದ ಸಮಯಗಳ ಪಾಲಕನೇ"
+        },
+        {
+          "pada_original": "पा॒हि॒",
+          "pada_kn": "ಪಾಹಿ",
+          "meaning_en": "drink / protect",
+          "meaning_kn": "ಕುಡಿ / ರಕ್ಷಿಸು"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma (the divine drink)",
+          "meaning_kn": "ಸೋಮ (ದೈವಿಕ ಪಾನೀಯ)"
+        },
+        {
+          "pada_original": "इन्द्र॑",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "दे॒वेभिः॑",
+          "pada_kn": "ದೇವೇಭಿಃ",
+          "meaning_en": "with the gods",
+          "meaning_kn": "ದೇವತೆಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "सखि॑ऽभिः",
+          "pada_kn": "ಸಖಿಭಿಃ",
+          "meaning_en": "with friends",
+          "meaning_kn": "ಮಿತ್ರರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "सु॒त‌म्",
+          "pada_kn": "ಸುತಮ್",
+          "meaning_en": "pressed / prepared (Soma)",
+          "meaning_kn": "ಹಿಂಡಿದ / ಸಿದ್ಧಪಡಿಸಿದ (ಸೋಮ)"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "our / for us",
+          "meaning_kn": "ನಮ್ಮ / ನಮಗೆ"
+        },
+        {
+          "pada_original": "यान्",
+          "pada_kn": "ಯಾನ್",
+          "meaning_en": "whom",
+          "meaning_kn": "ಯಾರನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix for abhajaḥ)",
+          "meaning_kn": "(ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अभ॑जः",
+          "pada_kn": "ಅಭಜಃ",
+          "meaning_en": "you allotted / you shared",
+          "meaning_kn": "ನೀನು ಹಂಚಿದೆ / ನೀನು ನಿಯೋಜಿಸಿದೆ"
+        },
+        {
+          "pada_original": "म॒रुतः॑",
+          "pada_kn": "ಮರುತಃ",
+          "meaning_en": "the Maruts (storm gods)",
+          "meaning_kn": "ಮರುತರು (ಗಾಳಿ ದೇವತೆಗಳು)"
+        },
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you (accusative)",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "after / following",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಹಿಂಬಾಲಿಸಿ"
+        },
+        {
+          "pada_original": "अह॑न्",
+          "pada_kn": "ಅಹನ್",
+          "meaning_en": "killed / struck",
+          "meaning_kn": "ಕೊಂದರು / ಹೊಡೆದರು"
+        },
+        {
+          "pada_original": "वृ॒त्र‌म्",
+          "pada_kn": "ವೃತ್ರಮ್",
+          "meaning_en": "Vritra (the demon)",
+          "meaning_kn": "ವೃತ್ರನನ್ನು (ಅಸುರನನ್ನು)"
+        },
+        {
+          "pada_original": "अद॑धुः",
+          "pada_kn": "ಅದಧುಃ",
+          "meaning_en": "they gave / they placed",
+          "meaning_kn": "ಅವರು ಕೊಟ್ಟರು / ಅವರು ಇರಿಸಿದರು"
+        },
+        {
+          "pada_original": "तुभ्य᳚‌म्",
+          "pada_kn": "ತುಭ್ಯಮ್",
+          "meaning_en": "to you",
+          "meaning_kn": "ನಿನಗೆ"
+        },
+        {
+          "pada_original": "ओजः॑",
+          "pada_kn": "ಓಜಃ",
+          "meaning_en": "strength / vigor",
+          "meaning_kn": "ಶಕ್ತಿ / ಸಾಮರ್ಥ್ಯ"
+        }
+      ],
+      "full_meaning_en": "O Indra, protector of cosmic order and seasons, drink this Soma pressed by us, along with the gods, your companions, at the appointed times. You have ordained the Maruts, who follow you, to strike down Vritra, and they have bestowed strength upon you.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಋತುಗಳ ರಕ್ಷಕನೇ, ದೇವತೆಗಳೊಡನೆ, ನಿನ್ನ ಸ್ನೇಹಿತರೊಡನೆ, ಸರಿಯಾದ ಕಾಲದಲ್ಲಿ ನಾವು ಹಿಂಡಿರುವ ಸೋಮವನ್ನು ಕುಡಿ. ವೃತ್ರನನ್ನು ಹೊಡೆಯಲು ನಿನ್ನನ್ನು ಹಿಂಬಾಲಿಸುವ ಮರುತ್ತುಗಳನ್ನು ನೀನು ನೇಮಿಸಿರುವೆ, ಮತ್ತು ಅವರು ನಿನಗೆ ಬಲವನ್ನು ನೀಡಿದ್ದಾರೆ.",
+      "rig_time_s": 30.048,
+      "Insight_en": "The external ritual of Soma offering to Indra represents the internal offering of ego (अहंकार) to the divine Self. The Maruts, representing the vital energies (प्राण), empower the individual to overcome inner obstacles (Vritra) and realize the true Self (Indra). The seasons (ऋतु) symbolize the opportune moments for spiritual practice.",
+      "Insight_kn": "ಇಂದ್ರನಿಗೆ ಸೋಮವನ್ನು ಅರ್ಪಿಸುವ ಬಾಹ್ಯ ಆಚರಣೆಯು ದೈವಿಕ ಆತ್ಮಕ್ಕೆ ಅಹಂಕಾರವನ್ನು (ಅಹಂಕಾರ) ಅರ್ಪಿಸುವ ಆಂತರಿಕ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಮರುತ್ತುಗಳು ಪ್ರಾಣಶಕ್ತಿಯನ್ನು (ಪ್ರಾಣ) ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ವ್ಯಕ್ತಿಯು ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು (ವೃತ್ರ) ಜಯಿಸಲು ಮತ್ತು ನಿಜವಾದ ಆತ್ಮವನ್ನು (ಇಂದ್ರ) ಅರಿಯಲು ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತಾರೆ. ಋತುಗಳು (ಋತು) ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಗೆ ಸೂಕ್ತ ಸಮಯವನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S47_62-4_5",
+      "mandala": 3,
+      "sukta": 47,
+      "ric_index": 4,
+      "rig_lines": [
+        "ये त्वा᳚हि॒हत्ये᳚ मघव॒न्नव॑र्ध॒न् ये शा᳚म्ब॒रे ह॑रिवो॒ ये गवि॑ष्टौ |",
+        "ये त्वा᳚ नू॒नम॑नु॒मद᳚न्ति॒ विप्राः॒ पिबे᳚न्द्र॒ सोमं॒ सग॑णो म॒रुद्भिः॑ ||"
+      ],
+      "pre_splits": [
+        "ये",
+        "त्वा॒",
+        "अ॒हि॒ऽहत्ये᳚",
+        "म॒घ॒ऽव॒न्",
+        "अव॑र्धन्",
+        "ये",
+        "शा॒म्ब॒रे",
+        "ह॒रि॒ऽवः॒",
+        "ये",
+        "गोऽ‌इ᳚ष्टौ",
+        "ये",
+        "त्वा॒",
+        "नू॒न‌म्",
+        "अ॒नु॒ऽमद᳚न्ति",
+        "विप्राः᳚",
+        "पिब॑",
+        "इ॒न्द्र॒",
+        "सोम᳚‌म्",
+        "सऽग॑णः",
+        "म॒रुत्ऽभिः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "Those who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you (accusative)",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒हि॒ऽहत्ये᳚",
+          "pada_kn": "ಅಹಿಹತ್ಯೇ",
+          "meaning_en": "in the slaying of Ahi (Vritra)",
+          "meaning_kn": "ಅಹಿ (ವೃತ್ರ) ವಧೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "म॒घ॒ऽव॒न्",
+          "pada_kn": "ಮಘವನ್",
+          "meaning_en": "O Bountiful One (Indra)",
+          "meaning_kn": "ಓ ಐಶ್ವರ್ಯವಂತನೇ (ಇಂದ್ರ)"
+        },
+        {
+          "pada_original": "अव॑र्धन्",
+          "pada_kn": "ಅವರ್ಧನ್",
+          "meaning_en": "strengthened / made grow",
+          "meaning_kn": "ಬೆಳೆಸಿದರು/ಬಲಪಡಿಸಿದರು"
+        },
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "those who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "शा॒म्ब॒रे",
+          "pada_kn": "ಶಾಂবরে",
+          "meaning_en": "in the (defeat of) Sambara",
+          "meaning_kn": "ಶಂಬರನ (ಸಂಹಾರದಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "ह॒रि॒ऽवः॒",
+          "pada_kn": "ಹರಿವಃ",
+          "meaning_en": "O Lord of Bay Horses (Indra)",
+          "meaning_kn": "ಓ ಹರಿತ್ವರ್ಣದ ಅಶ್ವಗಳ ಒಡೆಯನೇ (ಇಂದ್ರ)"
+        },
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "those who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "गोऽ‌इ᳚ष्टौ",
+          "pada_kn": "ಗೋಇಷ್ಟೌ",
+          "meaning_en": "in the battle for cows",
+          "meaning_kn": "ಗೋವುಗಳಿಗಾಗಿ ಯುದ್ಧದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "those who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you (accusative)",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "नू॒न‌म्",
+          "pada_kn": "ನೂನಮ್",
+          "meaning_en": "now",
+          "meaning_kn": "ಈಗ"
+        },
+        {
+          "pada_original": "अ॒नु॒ऽमद᳚न्ति",
+          "pada_kn": "ಅನುಮದಂತಿ",
+          "meaning_en": "praise / rejoice in",
+          "meaning_kn": "ಸ್ತುತಿಸುತ್ತಾರೆ/ಹರ್ಷಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "विप्राः᳚",
+          "pada_kn": "ವಿಪ್ರಾಃ",
+          "meaning_en": "inspired ones / sages",
+          "meaning_kn": "ವಿಪ್ರರು/ಜ್ಞಾನಿಗಳು"
+        },
+        {
+          "pada_original": "पिब॑",
+          "pada_kn": "ಪಿಬ",
+          "meaning_en": "drink",
+          "meaning_kn": "ಕುಡಿ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "सऽग॑णः",
+          "pada_kn": "ಸಗಣಃ",
+          "meaning_en": "with your retinue",
+          "meaning_kn": "ನಿನ್ನ ಗಣದೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "म॒रुत्ऽभिः॑",
+          "pada_kn": "ಮರುದ್ಭಿಃ",
+          "meaning_en": "with the Maruts",
+          "meaning_kn": "ಮರುತ್ತುಗಳೊಂದಿಗೆ"
+        }
+      ],
+      "full_meaning_en": "O Indra, Lord of abundance, those who invigorated you during the slaying of Ahi, those who empowered you in the victory over Sambara, O possessor of swift steeds, and those who fortified you in the quest for cows; and those inspired priests who continually praise you – O Indra, partake of the Soma with your host, accompanied by the Maruts.",
+      "full_meaning_kn": "ಎಲೈ ಇಂದ್ರ, ಸಮೃದ್ಧಿಯ ಒಡೆಯನೇ, ಅಹಿಯನ್ನು ಕೊಂದಾಗ ನಿನ್ನನ್ನು ಬಲಪಡಿಸಿದವರು, ಶಂಬರನನ್ನು ಸೋಲಿಸಿದಾಗ ನಿನ್ನನ್ನು ಬಲಪಡಿಸಿದವರು, ಎಲೈ ವೇಗದ ಕುದುರೆಗಳ ಒಡೆಯನೇ, ಮತ್ತು ಗೋವುಗಳಿಗಾಗಿ ಹೋರಾಡುವಾಗ ನಿನ್ನನ್ನು ಬಲಪಡಿಸಿದವರು; ಮತ್ತು ನಿರಂತರವಾಗಿ ನಿನ್ನನ್ನು ಸ್ತುತಿಸುವ ಪ್ರೇರಿತ ಪುರೋಹಿತರು - ಎಲೈ ಇಂದ್ರ, ಮರುತ್‌ಗಳೊಂದಿಗೆ ನಿನ್ನ ಪರಿವಾರದೊಂದಿಗೆ ಸೋಮವನ್ನು ಸೇವಿಸು.",
+      "rig_time_s": 45.417,
+      "Insight_en": "The slaying of Ahi represents the overcoming of inner obstructions (अवरोध). The victory over Sambara signifies the conquest of ego (अहंकार). The quest for cows symbolizes the search for inner illumination (प्रकाश). The Soma represents the nectar of spiritual experience. Indra, accompanied by the Maruts, embodies the unified force of consciousness and vital energies, essential for spiritual growth.",
+      "Insight_kn": "ಅಹಿಯನ್ನು ಕೊಲ್ಲುವುದು ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು (ಅವರೋಧ) ನಿವಾರಿಸುವುದನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಶಂಬರನ ಮೇಲಿನ ವಿಜಯವು ಅಹಂಕಾರವನ್ನು (ಅಹಂಕಾರ) ಗೆಲ್ಲುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಗೋವುಗಳಿಗಾಗಿ ಹುಡುಕಾಟವು ಆಂತರಿಕ ಪ್ರಕಾಶಕ್ಕಾಗಿ (ಪ್ರಕಾಶ) ಹುಡುಕಾಟವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸೋಮವು ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವದ ಅಮೃತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಮರುತ್‌ಗಳೊಂದಿಗೆ ಇಂದ್ರನು, ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಅಗತ್ಯವಾದ ಪ್ರಜ್ಞೆ ಮತ್ತು ಪ್ರಮುಖ ಶಕ್ತಿಗಳ ಏಕೀಕೃತ ಶಕ್ತಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S47_62-5_5",
+      "mandala": 3,
+      "sukta": 47,
+      "ric_index": 5,
+      "rig_lines": [
+        "म॒रुत्व᳚न्तं वृष॒भं वा᳚वृधा॒नमक॑वारिं दि॒व्यं शा॒समिन्द्र᳚म् |",
+        "वि॒श्वा॒साह॒मव॑से॒ नूत॑नायो॒ग्रं स॑हो॒दामि॒ह तं हु॑वेम ||"
+      ],
+      "pre_splits": [
+        "म॒रुत्व᳚न्त‌म्",
+        "वृ॒ष॒भ‌म्",
+        "व॒वृ॒धा॒न‌म्",
+        "अक॑व।आरि‌म्",
+        "दि॒व्य‌म्",
+        "शा॒स‌म्",
+        "इन्द्र᳚‌म्",
+        "वि॒श्व॒ऽसह᳚‌म्",
+        "अव॑से",
+        "नूत॑नाय",
+        "उ॒ग्र‌म्",
+        "स॒हः॒ऽदा‌म्",
+        "इ॒ह",
+        "त‌म्",
+        "हु॒वे॒म॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "म॒रुत्व᳚न्त‌म्",
+          "pada_kn": "ಮರುತ್ವನ್ತಮ್",
+          "meaning_en": "accompanied by the Maruts",
+          "meaning_kn": "ಮರುತ್ತುಗಳೊಡಗೂಡಿದವನನ್ನು"
+        },
+        {
+          "pada_original": "वृ॒ष॒भ‌म्",
+          "pada_kn": "ವೃಷಭಮ್",
+          "meaning_en": "the mighty one / the bestower of desires",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿಯನ್ನು / ಇಷ್ಟಾರ್ಥಗಳನ್ನು ಸುರಿಸುವವನನ್ನು"
+        },
+        {
+          "pada_original": "व॒वृ॒धा॒न‌म्",
+          "pada_kn": "ವವೃಧಾನಮ್",
+          "meaning_en": "ever-growing / greatly increasing",
+          "meaning_kn": "ಸದಾ ವೃದ್ಧಿಸುವವನನ್ನು / ಬೆಳೆಯುವವನನ್ನು"
+        },
+        {
+          "pada_original": "अक॑व।आरि‌म्",
+          "pada_kn": "ಅಕವಾರಮ್",
+          "meaning_en": "not hindering / generous",
+          "meaning_kn": "ಅಡ್ಡಿಪಡಿಸದವನನ್ನು / ಉದಾರಿಯನ್ನು"
+        },
+        {
+          "pada_original": "दि॒व्य‌म्",
+          "pada_kn": "ದಿವ್ಯಮ್",
+          "meaning_en": "divine / heavenly",
+          "meaning_kn": "ದಿವ್ಯನಾದವನನ್ನು / ಸ್ವರ್ಗೀಯನಾದವನನ್ನು"
+        },
+        {
+          "pada_original": "शा॒स‌म्",
+          "pada_kn": "ಶಾಸಮ್",
+          "meaning_en": "the ruler / the commander",
+          "meaning_kn": "ಆಳುವವನನ್ನು / ನಿಯಂತ್ರಿಸುವವನನ್ನು"
+        },
+        {
+          "pada_original": "इन्द्र᳚‌म्",
+          "pada_kn": "ಇನ್ದ್ರಮ್",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನನ್ನು"
+        },
+        {
+          "pada_original": "वि॒श्व॒ऽसह᳚‌म्",
+          "pada_kn": "ವಿಶ್ವಸಹಮ್",
+          "meaning_en": "all-conquering / overpowering all",
+          "meaning_kn": "ಎಲ್ಲವನ್ನೂ ಜಯಿಸುವವನನ್ನು / ಸರ್ವಸಹನಾದವನನ್ನು"
+        },
+        {
+          "pada_original": "अव॑से",
+          "pada_kn": "ಅವಸೇ",
+          "meaning_en": "for help / for protection",
+          "meaning_kn": "ಸಹಾಯಕ್ಕಾಗಿ / ರಕ್ಷಣೆಗಾಗಿ"
+        },
+        {
+          "pada_original": "नूत॑नाय",
+          "pada_kn": "ನೂತನಾಯ",
+          "meaning_en": "for new / for fresh (help)",
+          "meaning_kn": "ನೂತನ / ಹೊಸ (ಸಹಾಯಕ್ಕಾಗಿ)"
+        },
+        {
+          "pada_original": "उ॒ग्र‌म्",
+          "pada_kn": "ಉಗ್ರಮ್",
+          "meaning_en": "fierce / mighty",
+          "meaning_kn": "ಉಗ್ರನಾದವನನ್ನು / ಪ್ರಚಂಡನಾದವನನ್ನು"
+        },
+        {
+          "pada_original": "स॒हः॒ऽदा‌म्",
+          "pada_kn": "ಸಹೋದಾಮ್",
+          "meaning_en": "bestower of strength / giver of power",
+          "meaning_kn": "ಶಕ್ತಿಯನ್ನು ನೀಡುವವನನ್ನು / ಬಲದಾತನನ್ನು"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here / in this (sacrifice)",
+          "meaning_kn": "ಇಲ್ಲಿ / ಈ ಯಜ್ಞದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "हु॒वे॒म॒",
+          "pada_kn": "ಹುವೇಮ",
+          "meaning_en": "may we invoke / let us call",
+          "meaning_kn": "ನಾವು ಆಹ್ವಾನಿಸೋಣ / ಕರೆಯೋಣ"
+        }
+      ],
+      "full_meaning_en": "O Indra, accompanied by the Maruts, the mighty bull, ever-growing, unthwarted, divine ruler, conqueror of all, fierce, bestower of strength, we invoke you here for new and ever-fresh protection.",
+      "full_meaning_kn": "ಮರುತ್ತುಗಳೊಡಗೂಡಿದ, ವೃಷಭನಂತಿರುವ, ಸದಾ ವೃದ್ಧಿಯಾಗುವ, ತಡೆಯಿಲ್ಲದ, ದಿವ್ಯ ಆಡಳಿತಗಾರನಾದ, ಎಲ್ಲವನ್ನೂ ಗೆಲ್ಲುವ, ಉಗ್ರನೂ, ಶಕ್ತಿಯನ್ನು ನೀಡುವವನೂ ಆದ ಎಲೈ ಇಂದ್ರನೇ, ಹೊಸ ಮತ್ತು ನಿರಂತರ ರಕ್ಷಣೆಗಾಗಿ ನಿನ್ನನ್ನು ಇಲ್ಲಿ ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.",
+      "rig_time_s": 61.845,
+      "Insight_en": "Indra, accompanied by the Maruts, symbolizes the dynamic interplay between individual consciousness and cosmic forces. The 'ever-growing' nature represents the continuous expansion of awareness, while 'unthwarted' signifies the resilience required to overcome inner obstacles. The invocation seeks not just external protection but also the internal strength to conquer ignorance (अविद्या) and realize one's true self (आत्मन्).",
+      "Insight_kn": "ಮರುತ್ತುಗಳೊಡಗೂಡಿದ ಇಂದ್ರನು, ವೈಯಕ್ತಿಕ ಪ್ರಜ್ಞೆ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಶಕ್ತಿಗಳ ನಡುವಿನ ಕ್ರಿಯಾತ್ಮಕ ಪರಸ್ಪರ ಕ್ರಿಯೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ. 'ಸದಾ ವೃದ್ಧಿಯಾಗುವ' ಸ್ವರೂಪವು ಜಾಗೃತಿಯ ನಿರಂತರ ವಿಸ್ತರಣೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಆದರೆ 'ತಡೆಯಿಲ್ಲದ' ಎಂಬುದು ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸಲು ಅಗತ್ಯವಿರುವ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಬಾಹ್ಯ ರಕ್ಷಣೆಯನ್ನು ಮಾತ್ರವಲ್ಲದೆ ಅಜ್ಞಾನವನ್ನು (ಅವಿದ್ಯಾ) ಜಯಿಸಲು ಮತ್ತು ಒಬ್ಬರ ನಿಜವಾದ ಆತ್ಮವನ್ನು (ಆತ್ಮನ್) ಅರಿಯಲು ಆಂತರಿಕ ಶಕ್ತಿಯನ್ನೂ ಈ ಆವಾಹನೆಯು ಬಯಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

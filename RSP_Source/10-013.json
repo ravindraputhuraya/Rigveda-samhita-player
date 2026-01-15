@@ -1,0 +1,755 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S13_191-1_5",
+      "mandala": 10,
+      "sukta": 13,
+      "ric_index": 1,
+      "rig_lines": [
+        "यु॒जे वां॒ ब्रह्म॑ पू॒र्व्यं नमो᳚भि॒र्वि श्लोक॑ एतु प॒थ्ये᳚व सू॒रेः |",
+        "शृ॒ण्वन्तु॒ विश्वे᳚, अ॒मृत॑स्य पु॒त्रा, आ ये धामा᳚नि दि॒व्यानि॑ त॒स्थुः ||"
+      ],
+      "pre_splits": [
+        "यु॒जे",
+        "वा॒‌म्",
+        "ब्रह्म॑",
+        "पू॒र्व्य‌म्",
+        "नमः॑ऽभिः",
+        "वि",
+        "श्लोकः॑",
+        "ए॒तु॒",
+        "प॒थ्या᳚ऽ‌इव",
+        "सू॒रेः",
+        "शृ॒ण्वन्तु॑",
+        "विश्वे᳚",
+        "अ॒मृत॑स्य",
+        "पु॒त्राः",
+        "आ",
+        "ये",
+        "धामा᳚नि",
+        "दि॒व्यानि॑",
+        "त॒स्थुः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यु॒जे",
+          "pada_kn": "ಯುಜೇ",
+          "meaning_en": "I yoke / I unite (with prayer)",
+          "meaning_kn": "ನಾನು ಜೋಡಿಸುತ್ತೇನೆ / ನಾನು ಸೇರಿಸುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "You two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು"
+        },
+        {
+          "pada_original": "ब्रह्म॑",
+          "pada_kn": "ಬ್ರಹ್ಮ",
+          "meaning_en": "Prayer / sacred word",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆ / ಪವಿತ್ರ ವಚನ"
+        },
+        {
+          "pada_original": "पू॒र्व्य‌म्",
+          "pada_kn": "ಪೂರ್ವ್ಯಮ್",
+          "meaning_en": "Ancient / primeval",
+          "meaning_kn": "ಪ್ರಾಚೀನ / ಪೂರ್ವದ"
+        },
+        {
+          "pada_original": "नमः॑ऽभिः",
+          "pada_kn": "ನಮಃಅಭಿಃ",
+          "meaning_en": "With adorations / with obeisances",
+          "meaning_kn": "ನಮಸ್ಕಾರಗಳೊಂದಿಗೆ / ಗೌರವಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "Widely / forth (particle)",
+          "meaning_kn": "ವ್ಯಾಪಕವಾಗಿ / ಹೊರಗೆ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "श्लोकः॑",
+          "pada_kn": "ಶ್ಲೋಕಃ",
+          "meaning_en": "Song / praise",
+          "meaning_kn": "ಸ್ತೋತ್ರ / ಪ್ರಶಂಸೆ"
+        },
+        {
+          "pada_original": "ए॒तु॒",
+          "pada_kn": "ಏತು",
+          "meaning_en": "Let it go / let it reach",
+          "meaning_kn": "ಅದು ಹೋಗಲಿ / ಅದು ತಲುಪಲಿ"
+        },
+        {
+          "pada_original": "प॒थ्या᳚ऽ‌इव",
+          "pada_kn": "ಪಥ್ಯಾಇವ",
+          "meaning_en": "Like a path / like a good path",
+          "meaning_kn": "ಹಾದಿಯಂತೆ / ಉತ್ತಮ ಮಾರ್ಗದಂತೆ"
+        },
+        {
+          "pada_original": "सू॒रेः",
+          "pada_kn": "ಸೂರೇಃ",
+          "meaning_en": "Of the wise one / of the inspirer",
+          "meaning_kn": "ಜ್ಞಾನಿಯ / ಪ್ರೇರಕನ"
+        },
+        {
+          "pada_original": "शृ॒ण्वन्तु॑",
+          "pada_kn": "ಶೃಣ್ವಂತು",
+          "meaning_en": "Let them hear",
+          "meaning_kn": "ಅವರು ಕೇಳಲಿ"
+        },
+        {
+          "pada_original": "विश्वे᳚",
+          "pada_kn": "ವಿಶ್ವೇ",
+          "meaning_en": "All",
+          "meaning_kn": "ಎಲ್ಲರೂ"
+        },
+        {
+          "pada_original": "अ॒मृत॑स्य",
+          "pada_kn": "ಅಮೃತಸ್ಯ",
+          "meaning_en": "Of immortality / of the immortal",
+          "meaning_kn": "ಅಮರತ್ವದ / ಅಮರನ"
+        },
+        {
+          "pada_original": "पु॒त्राः",
+          "pada_kn": "ಪುತ್ರಾಃ",
+          "meaning_en": "Sons / children",
+          "meaning_kn": "ಪುತ್ರರು / ಮಕ್ಕಳು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(Particle, indicating 'up to' / 'who have')",
+          "meaning_kn": "(ಉಪಸರ್ಗ, 'ವರೆಗೆ' / 'ಯಾರು ಹೊಂದಿದ್ದಾರೆ' ಎಂದು ಸೂಚಿಸುತ್ತದೆ)"
+        },
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "Who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "धामा᳚नि",
+          "pada_kn": "ಧಾಮಾನಿ",
+          "meaning_en": "Abodes / realms",
+          "meaning_kn": "ನೆಲೆಗಳು / ಲೋಕಗಳು"
+        },
+        {
+          "pada_original": "दि॒व्यानि॑",
+          "pada_kn": "ದಿವ್ಯಾನಿ",
+          "meaning_en": "Divine / heavenly",
+          "meaning_kn": "ದೈವಿಕ / ಸ್ವರ್ಗೀಯ"
+        },
+        {
+          "pada_original": "त॒स्थुः",
+          "pada_kn": "ತಸ್ಥುಃ",
+          "meaning_en": "Have stood / dwell",
+          "meaning_kn": "ನಿಂತಿದ್ದಾರೆ / ನೆಲೆಸಿದ್ದಾರೆ"
+        }
+      ],
+      "full_meaning_en": "I unite you two (divine powers, often Heaven and Earth) with ancient prayer and adorations. Let this praise, like a clear path of the wise, spread forth. O all children of immortality, who have taken your stand in the divine realms, listen!",
+      "full_meaning_kn": "ನಾನು ನಿಮ್ಮಿಬ್ಬರನ್ನು (ದೈವಿಕ ಶಕ್ತಿಗಳನ್ನು) ಪ್ರಾಚೀನ ಪ್ರಾರ್ಥನೆ ಮತ್ತು ನಮಸ್ಕಾರಗಳೊಂದಿಗೆ ಜೋಡಿಸುತ್ತೇನೆ. ಜ್ಞಾನಿಯ ಸ್ಪಷ್ಟ ಮಾರ್ಗದಂತೆ, ಈ ಸ್ತೋತ್ರವು ವ್ಯಾಪಕವಾಗಿ ಹರಡಲಿ. ಓ ಅಮರತ್ವದ ಪುತ್ರರೇ, ದೈವಿಕ ಲೋಕಗಳಲ್ಲಿ ನೆಲೆಸಿರುವ ನೀವೆಲ್ಲರೂ ಕೇಳಿರಿ!",
+      "rig_time_s": 0.0,
+      "Insight_en": "The spirit's ancient formulation, 'ब्रह्म', merges the inner Heaven and Earth, enabling the divine word, 'श्लोक', to manifest as the clear path of integral wisdom. This awakened utterance reveals the inherent truth, extending to all faculties of the being. Let the immortal aspects of consciousness, 'अमृतस्य पुत्रा', dwelling in their true divine stations, 'दिव्यानि धामानि', attune themselves to this primal call. Through such sacred union and surrender, the seeker establishes a profound connection with the eternal verities, ensuring a conscious ascent. This is a call to the immanent divine to listen to the soul's deepest aspiration.",
+      "Insight_kn": "ಆತ್ಮದ ಪ್ರಾಚೀನ ಸ್ವರೂಪವಾದ 'ಬ್ರಹ್ಮ', ಆಂತರಿಕ ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯನ್ನು ಒಗ್ಗೂಡಿಸುತ್ತದೆ, ದಿವ್ಯ ವಚನವಾದ 'ಶ್ಲೋಕ'ವು ಸಮಗ್ರ ಜ್ಞಾನದ ಸ್ಪಷ್ಟ ಮಾರ್ಗವಾಗಿ ಪ್ರಕಟವಾಗಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಈ ಜಾಗೃತಗೊಂಡ ಉಚ್ಚಾರಣೆಯು ಅಂತರಂಗದ ಸತ್ಯವನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತದೆ. ಓ 'ಅಮೃತಸ್ಯ ಪುತ್ರಾ', ತಮ್ಮ ದೈವಿಕ ನಿಲಯಗಳಲ್ಲಿ, 'ದಿವ್ಯಾನಿ ಧಾಮಾನಿ', ನೆಲೆಸಿರುವ ಅಮರ ಚೈತನ್ಯದ ಅಂಶಗಳೇ, ಈ ಆದಿಮ ಕರೆಗೆ ಕಿವಿಗೊಡಿರಿ. ಇಂತಹ ಪವಿತ್ರ ಸಂಯೋಗ ಮತ್ತು ಶರಣಾಗತಿಯ ಮೂಲಕವೇ ಅನ್ವೇಷಕನು ಶಾಶ್ವತ ಸತ್ಯಗಳೊಂದಿಗೆ ಗಾಢ ಸಂಬಂಧವನ್ನು ಸ್ಥಾಪಿಸುತ್ತಾನೆ, ಸಪ್ರಜ್ಞ ಆರೋಹಣವನ್ನು ಖಚಿತಪಡಿಸುತ್ತಾನೆ. ಇದು ಅಂತರಂಗದ ದಿವ್ಯ ಶಕ್ತಿಗಳು ಆತ್ಮದ ಆಳವಾದ ಆಕಾಂಕ್ಷೆಯನ್ನು ಕೇಳಲು ಮಾಡುವ ಕರೆಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S13_191-2_5",
+      "mandala": 10,
+      "sukta": 13,
+      "ric_index": 2,
+      "rig_lines": [
+        "य॒मे, इ॑व॒ यत॑माने॒ यदैतं॒ प्र वां᳚ भर॒न्मानु॑षा देव॒यन्तः॑ |",
+        "आ सी᳚दतं॒ स्वमु॑ लो॒कं विदा᳚ने स्वास॒स्थे भ॑वत॒मिन्द॑वे नः ||"
+      ],
+      "pre_splits": [
+        "य॒मे इ॒वेति॑ य॒मेऽ‌इ᳚व",
+        "यत॑माने॒ इति॑",
+        "यत्",
+        "ऐत᳚‌म्",
+        "प्र",
+        "वा॒‌म्",
+        "भ॒र॒न्",
+        "मानु॑षाः",
+        "दे॒व॒ऽयन्तः॑",
+        "आ",
+        "सी॒द॒त॒‌म्",
+        "स्व‌म्",
+        "ऊँ॒ इति॑",
+        "लो॒क‌म्",
+        "विदा᳚ने॒ इति॑",
+        "स्वा॒स॒स्थे इति॑ सु॒ऽआ॒स॒स्थे",
+        "भ॒व॒त॒‌म्",
+        "इन्द॑वे",
+        "नः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "य॒मे इ॒वेति॑ य॒मेऽ‌इ᳚व",
+          "pada_kn": "ಯಮೇಽಇವ",
+          "meaning_en": "like a pair (of twins)",
+          "meaning_kn": "ಅವಳಿಗಳಂತೆ / ಜೋಡಿಯಂತೆ"
+        },
+        {
+          "pada_original": "यत॑माने॒ इति॑",
+          "pada_kn": "ಯತಮಾನೇ",
+          "meaning_en": "striving / exerting",
+          "meaning_kn": "ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ / ಚಲಿಸುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "ऐत᳚‌म्",
+          "pada_kn": "ಐತಮ್",
+          "meaning_en": "you two went/came",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರೂ ಹೋದಾಗ/ಬಂದಾಗ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "to you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗೆ"
+        },
+        {
+          "pada_original": "भ॒र॒न्",
+          "pada_kn": "ಭರನ್",
+          "meaning_en": "carrying / offering",
+          "meaning_kn": "ಹೊತ್ತು ತರುತ್ತಾರೆ / ಅರ್ಪಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "मानु॑षाः",
+          "pada_kn": "ಮಾನುಷಾಃ",
+          "meaning_en": "humans / mortals",
+          "meaning_kn": "ಮನುಷ್ಯರು / ಮಾನವರು"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयन्तः॑",
+          "pada_kn": "ದೇವಯನ್ತಃ",
+          "meaning_en": "desiring gods / worshipping",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು ಬಯಸುವವರು / ಪೂಜಿಸುವವರು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / come",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಬನ್ನಿ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "सी॒द॒त॒‌म्",
+          "pada_kn": "ಸೀದತಮ್",
+          "meaning_en": "you two sit / take your seat",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರೂ ಕುಳಿತುಕೊಳ್ಳಿ"
+        },
+        {
+          "pada_original": "स्व‌म्",
+          "pada_kn": "ಸ್ವಮ್",
+          "meaning_en": "own",
+          "meaning_kn": "ತಮ್ಮದೇ ಆದ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಉ",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "लो॒क‌म्",
+          "pada_kn": "ಲೋಕಮ್",
+          "meaning_en": "world / place",
+          "meaning_kn": "ಲೋಕ / ಸ್ಥಾನ"
+        },
+        {
+          "pada_original": "विदा᳚ने॒ इति॑",
+          "pada_kn": "ವಿದಾನೇ",
+          "meaning_en": "knowing / having found",
+          "meaning_kn": "ತಿಳಿದುಕೊಂಡಿರುವ / ಕಂಡುಕೊಂಡಿರುವ"
+        },
+        {
+          "pada_original": "स्वा॒स॒स्थे इति॑ सु॒ऽआ॒स॒स्थे",
+          "pada_kn": "ಸ್ವಾಸಸ್ಥೇ",
+          "meaning_en": "in a good/comfortable seat",
+          "meaning_kn": "ಉತ್ತಮ/ಆರಾಮದಾಯಕ ಆಸನದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "भ॒व॒त॒‌म्",
+          "pada_kn": "ಭವತಮ್",
+          "meaning_en": "you two be / become",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರೂ ಆಗಿರಿ"
+        },
+        {
+          "pada_original": "इन्द॑वे",
+          "pada_kn": "ಇಂದವೇ",
+          "meaning_en": "for the Soma (juice) / for the drop",
+          "meaning_kn": "ಸೋಮರಸಕ್ಕಾಗಿ / ಬಿಂದುವಿಗೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "for us",
+          "meaning_kn": "ನಮಗಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O you two, striving like a pair, when you came forth, the god-desiring mortals brought offerings to you. Come and sit in your own world, having found a comfortable seat, and be present for our Soma offering.",
+      "full_meaning_kn": "ಓ ಅವಳಿಗಳಂತೆ ಪ್ರಯತ್ನಿಸುತ್ತಾ, ನೀವು ಇಬ್ಬರೂ ಬಂದಾಗ, ದೇವತೆಗಳನ್ನು ಬಯಸುವ ಮನುಷ್ಯರು ನಿಮಗೆ ಅರ್ಪಣೆಗಳನ್ನು ತಂದರು. ನಿಮ್ಮದೇ ಆದ ಲೋಕದಲ್ಲಿ, ಉತ್ತಮ ಆಸನವನ್ನು ಕಂಡುಕೊಂಡು, ಬಂದು ಕುಳಿತುಕೊಳ್ಳಿ ಮತ್ತು ನಮ್ಮ ಸೋಮರಸಕ್ಕಾಗಿ (ಅರ್ಪಣೆಗಾಗಿ) ಉಪಸ್ಥಿತರಾಗಿರಿ.",
+      "rig_time_s": 15.798,
+      "Insight_en": "The two striving currents of divine consciousness, ever-united in purpose, descend when the god-seeking soul offers its consecrated will. These twin energies, in response to sincere aspiration, establish their luminous presence within the inner sanctuary. Find your native, self-existent abode (स्वमु लोकं) within us, O divine pair, settling into your perfected seat. By your presence, empower our outpouring of spiritual delight and truth-consciousness (इन्दु), making it an enduring reality.",
+      "Insight_kn": "ಸತ್ಯದತ್ತ ಸತತವಾಗಿ ಶ್ರಮಿಸುವ ಪ್ರಜ್ಞೆಯ ಎರಡು ದಿವ್ಯ ಪ್ರವಾಹಗಳು, ಆತ್ಮಸಾಧಕರ ಸಮರ್ಪಿತ ಇಚ್ಛಾಶಕ್ತಿಗೆ ಪ್ರತಿಕ್ರಿಯೆಯಾಗಿ ಆವಿರ್ಭವಿಸುತ್ತವೆ. ದಿವ್ಯತೆಯನ್ನು ಅರಸುವ ಜೀವಿಯು ಅರ್ಪಿಸುವ ಆಹುತಿಗಳಿಂದ, ಓ ಅವಳಿ ಶಕ್ತಿಗಳೇ, ನೀವು ಸದಾ ಸ್ಪಂದಿಸುತ್ತೀರಿ. ನಮ್ಮ ಆಂತರ್ಯದಲ್ಲಿ, ನಿಮ್ಮ ಸಹಜವಾದ, ಸ್ವಯಂ-ಅಸ್ತಿತ್ವದ ಲೋಕದಲ್ಲಿ (स्वमु लोकं) ನೆಲೆಸಿ, ನಿಮ್ಮ ಪರಿಪೂರ್ಣ ಆಸನದಲ್ಲಿ ಸ್ಥಾಪಿತರಾಗಿ. ನಿಮ್ಮ ದಿವ್ಯ ಉಪಸ್ಥಿತಿಯಿಂದ ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಆನಂದದ (ಇಂದು) ಪ್ರವಾಹವನ್ನು ಬಲಪಡಿಸಿ, ಅದನ್ನು ನಿರಂತರ ಸತ್ಯವನ್ನಾಗಿ ಮಾಡಿ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S13_191-3_5",
+      "mandala": 10,
+      "sukta": 13,
+      "ric_index": 3,
+      "rig_lines": [
+        "पञ्च॑ प॒दानि॑ रु॒पो, अन्व॑रोहं॒ चतु॑ष्पदी॒मन्वे᳚मि व्र॒तेन॑ |",
+        "अ॒क्षरे᳚ण॒ प्रति॑ मिम ए॒तामृ॒तस्य॒ नाभा॒वधि॒ सं पु॑नामि ||"
+      ],
+      "pre_splits": [
+        "पंच॑",
+        "प॒दानि॑",
+        "रु॒पः",
+        "अनु॑",
+        "अ॒रो॒ह॒‌म्",
+        "चतुः॑ऽपदी‌म्",
+        "अनु॑",
+        "ए॒मि॒",
+        "व्र॒तेन॑",
+        "अ॒क्षरे᳚ण",
+        "प्रति॑",
+        "मि॒मे॒",
+        "ए॒ता‌म्",
+        "ऋ॒तस्य॑",
+        "नाभौ᳚",
+        "अधि॑",
+        "स‌म्",
+        "पु॒ना॒मि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "पंच॑",
+          "pada_kn": "ಪಂಚ",
+          "meaning_en": "five",
+          "meaning_kn": "ಐದು"
+        },
+        {
+          "pada_original": "प॒दानि॑",
+          "pada_kn": "ಪದಾನಿ",
+          "meaning_en": "steps / feet",
+          "meaning_kn": "ಹೆಜ್ಜೆಗಳು / ಪಾದಗಳು"
+        },
+        {
+          "pada_original": "रु॒पः",
+          "pada_kn": "ರೂಪಃ",
+          "meaning_en": "of form / of appearance",
+          "meaning_kn": "ರೂಪದ / ಆಕಾರದ"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "after / along",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಜೊತೆಗೆ"
+        },
+        {
+          "pada_original": "अ॒रो॒ह॒‌म्",
+          "pada_kn": "ಅರೋಹಮ್",
+          "meaning_en": "I ascended / I climbed",
+          "meaning_kn": "ನಾನು ಏರಿದೆನು / ಹತ್ತಿದೆನು"
+        },
+        {
+          "pada_original": "चतुः॑ऽपदी‌म्",
+          "pada_kn": "ಚತುಷ್ಪದೀಮ್",
+          "meaning_en": "four-footed (speech/world)",
+          "meaning_kn": "ನಾಲ್ಕು ಪಾದಗಳಿರುವ (ವಾಕ್/ಜಗತ್ತು)"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "after / along",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಜೊತೆಗೆ"
+        },
+        {
+          "pada_original": "ए॒मि॒",
+          "pada_kn": "ಏಮಿ",
+          "meaning_en": "I go / I follow",
+          "meaning_kn": "ನಾನು ಹೋಗುತ್ತೇನೆ / ಅನುಸರಿಸುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "व्र॒तेन॑",
+          "pada_kn": "ವ್ರತೇನ",
+          "meaning_en": "by vow / by sacred observance",
+          "meaning_kn": "ವ್ರತದಿಂದ / ಸಂಕಲ್ಪದಿಂದ"
+        },
+        {
+          "pada_original": "अ॒क्षरे᳚ण",
+          "pada_kn": "ಅಕ್ಷರೇಣ",
+          "meaning_en": "by the imperishable (syllable/Veda)",
+          "meaning_kn": "ಅಕ್ಷರದಿಂದ / ನಾಶರಹಿತವಾದದ್ದರಿಂದ"
+        },
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / corresponding to",
+          "meaning_kn": "ಕಡೆಗೆ / ಅನುಗುಣವಾಗಿ"
+        },
+        {
+          "pada_original": "मि॒मे॒",
+          "pada_kn": "ಮಿಮೇ",
+          "meaning_en": "I measure / I establish",
+          "meaning_kn": "ನಾನು ಅಳೆಯುತ್ತೇನೆ / ನಿರ್ಮಿಸುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "ए॒ता‌म्",
+          "pada_kn": "ಏತಾಮ್",
+          "meaning_en": "this (feminine, referring to the world/speech)",
+          "meaning_kn": "ಇದನ್ನು (ಜಗತ್ತು/ವಾಕ್)"
+        },
+        {
+          "pada_original": "ऋ॒तस्य॑",
+          "pada_kn": "ಋತಸ್ಯ",
+          "meaning_en": "of truth / of cosmic order",
+          "meaning_kn": "ಸತ್ಯದ / ಋತದ"
+        },
+        {
+          "pada_original": "नाभौ᳚",
+          "pada_kn": "ನಾಭೌ",
+          "meaning_en": "in the navel / in the center",
+          "meaning_kn": "ನಾಭಿಯಲ್ಲಿ / ಕೇಂದ್ರದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon / over",
+          "meaning_kn": "ಮೇಲೆ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "completely / well",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "पु॒ना॒मि॒",
+          "pada_kn": "ಪುನಾಮಿ",
+          "meaning_en": "I purify / I cleanse",
+          "meaning_kn": "ನಾನು ಶುದ್ಧೀಕರಿಸುತ್ತೇನೆ"
+        }
+      ],
+      "full_meaning_en": "I ascended the five steps of form, and by my sacred vow, I follow the four-footed (speech or the world). By the imperishable syllable, I measure and establish this (world or speech), and in the navel of cosmic truth, I completely purify it.",
+      "full_meaning_kn": "ನಾನು ರೂಪದ ಐದು ಹೆಜ್ಜೆಗಳನ್ನು ಏರಿದೆನು, ಮತ್ತು ವ್ರತದಿಂದ ನಾಲ್ಕು ಪಾದಗಳಿರುವ (ವಾಕ್ ಅಥವಾ ಜಗತ್ತನ್ನು) ಅನುಸರಿಸುತ್ತೇನೆ. ಅಕ್ಷರದಿಂದ (ನಾಶರಹಿತವಾದದ್ದರಿಂದ) ನಾನು ಇದನ್ನು (ಜಗತ್ತು ಅಥವಾ ವಾಕ್) ಅಳೆಯುತ್ತೇನೆ ಮತ್ತು ಸ್ಥಾಪಿಸುತ್ತೇನೆ, ಹಾಗೂ ಋತದ (ಸತ್ಯದ/ಯಜ್ಞದ) ನಾಭಿಯಲ್ಲಿ ಇದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಶುದ್ಧೀಕರಿಸುತ್ತೇನೆ.",
+      "rig_time_s": 30.735,
+      "Insight_en": "The ascending consciousness traverses the five planes of form, engaging with manifested existence. Through dedicated discipline, it follows the fourfold Word (वाक्), the very expression of divine reality. By the power of the imperishable Syllable (अक्षर), the universe is measured and established in its essential harmony. Within the sacred navel of cosmic truth (ऋतस्य नाभि), all experience is utterly purified, integrating fragmented being into its divine origin.",
+      "Insight_kn": "ರೂಪದ ಐದು ಹಂತಗಳನ್ನು ಏರುತ್ತಾ, ಅರಿವು ಪ್ರಕಟವಾದ ಅಸ್ತಿತ್ವದೊಂದಿಗೆ ಒಂದಾಗುತ್ತದೆ. ದೃಢವಾದ ವ್ರತದ ಮೂಲಕ, ಅದು ದಿವ್ಯ ವಾಕ್ (वाक्) ಚತುರ್ಮುಖ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ನಾಶರಹಿತ ಅಕ್ಷರದ (अक्षर) ಶಕ್ತಿಯಿಂದ, ಈ ಸೃಷ್ಟಿಯು ತನ್ನ ಅವಿಚ್ಛಿನ್ನ ಸಾಮರಸ್ಯದಲ್ಲಿ ಅಳೆಯಲ್ಪಟ್ಟು ಸ್ಥಾಪಿತವಾಗಿದೆ. ಋತದ ನಾಭಿಯಲ್ಲಿ (ऋतस्य नाभि), ಎಲ್ಲಾ ಅನುಭವಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಶುದ್ಧೀಕರಿಸಲ್ಪಟ್ಟು, ವಿಘಟಿತ ಅಸ್ತಿತ್ವವನ್ನು ಅದರ ದೈವಿಕ ಮೂಲದಲ್ಲಿ ಏಕೀಕರಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S13_191-4_5",
+      "mandala": 10,
+      "sukta": 13,
+      "ric_index": 4,
+      "rig_lines": [
+        "दे॒वेभ्यः॒ कम॑वृणीत मृ॒त्युं प्र॒जायै॒ कम॒मृतं॒ नावृ॑णीत |",
+        "बृह॒स्पतिं᳚ य॒ज्ञम॑कृण्वत॒ ऋषिं᳚ प्रि॒यां य॒मस्त॒न्व१॑(अं॒) प्रारि॑रेचीत् ||"
+      ],
+      "pre_splits": [
+        "दे॒वेभ्यः॑",
+        "क‌म्",
+        "अ॒वृ॒णी॒त॒",
+        "मृ॒त्यु‌म्",
+        "प्र॒ऽजायै᳚",
+        "क‌म्",
+        "अ॒मृत᳚‌म्",
+        "न",
+        "अ॒वृ॒णी॒त॒",
+        "बृह॒स्पति᳚‌म्",
+        "य॒ज्ञ‌म्",
+        "अ॒कृ॒ण्व॒त॒",
+        "ऋषि᳚‌म्",
+        "प्रि॒या‌म्",
+        "य॒मः",
+        "त॒न्व᳚‌म्",
+        "प्र",
+        "अ॒रि॒रे॒ची॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "दे॒वेभ्यः॑",
+          "pada_kn": "ದೇವಭ್ಯಃ",
+          "meaning_en": "for the gods",
+          "meaning_kn": "ದೇವತೆಗಳಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "क‌म्",
+          "pada_kn": "ಕಮ್",
+          "meaning_en": "what / which one",
+          "meaning_kn": "ಏನನ್ನು / ಯಾವುದನ್ನು"
+        },
+        {
+          "pada_original": "अ॒वृ॒णी॒त॒",
+          "pada_kn": "ಅವೃಣೀತ",
+          "meaning_en": "chose / selected",
+          "meaning_kn": "ಆರಿಸಿಕೊಂಡನು / ಆಯ್ಕೆಮಾಡಿದನು"
+        },
+        {
+          "pada_original": "मृ॒त्यु‌म्",
+          "pada_kn": "ಮೃತ್ಯುಮ್",
+          "meaning_en": "death",
+          "meaning_kn": "ಮೃತ್ಯುವನ್ನು / ಸಾವನ್ನು"
+        },
+        {
+          "pada_original": "प्र॒ऽजायै᳚",
+          "pada_kn": "ಪ್ರಜಾಯೈ",
+          "meaning_en": "for progeny / for offspring",
+          "meaning_kn": "ಸಂತತಿಗಾಗಿ / ಪ್ರಜೆಗಳಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "क‌म्",
+          "pada_kn": "ಕಮ್",
+          "meaning_en": "what / which one",
+          "meaning_kn": "ಏನನ್ನು / ಯಾವುದನ್ನು"
+        },
+        {
+          "pada_original": "अ॒मृत᳚‌म्",
+          "pada_kn": "ಅಮೃತಮ್",
+          "meaning_en": "immortality",
+          "meaning_kn": "ಅಮೃತತ್ವವನ್ನು / ಅಮರತ್ವವನ್ನು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "अ॒वृ॒णी॒त॒",
+          "pada_kn": "ಅವೃಣೀತ",
+          "meaning_en": "chose / selected",
+          "meaning_kn": "ಆರಿಸಿಕೊಂಡನು / ಆಯ್ಕೆಮಾಡಿದನು"
+        },
+        {
+          "pada_original": "बृह॒स्पति᳚‌म्",
+          "pada_kn": "ಬೃಹಸ್ಪತಿಮ್",
+          "meaning_en": "Brihaspati",
+          "meaning_kn": "ಬೃಹಸ್ಪತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "य॒ज्ञ‌म्",
+          "pada_kn": "ಯಜ್ಞಮ್",
+          "meaning_en": "as a sacrifice",
+          "meaning_kn": "ಯಜ್ಞವನ್ನಾಗಿ / ಯಜ್ಞವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒कृ॒ण्व॒त॒",
+          "pada_kn": "ಅಕೃಣ್ವತ",
+          "meaning_en": "they made / they performed",
+          "meaning_kn": "ಅವರು ಮಾಡಿದರು / ನಿರ್ಮಿಸಿದರು"
+        },
+        {
+          "pada_original": "ऋषि᳚‌म्",
+          "pada_kn": "ಋಷಿಮ್",
+          "meaning_en": "as a seer / as a sage",
+          "meaning_kn": "ಋಷಿಯನ್ನಾಗಿ / ದ್ರಷ್ಟಾರನನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "प्रि॒या‌म्",
+          "pada_kn": "ಪ್ರಿಯಾಮ್",
+          "meaning_en": "dear / beloved",
+          "meaning_kn": "ಪ್ರಿಯವಾದ / ಇಷ್ಟವಾದ"
+        },
+        {
+          "pada_original": "य॒मः",
+          "pada_kn": "ಯಮಃ",
+          "meaning_en": "Yama",
+          "meaning_kn": "ಯಮನು"
+        },
+        {
+          "pada_original": "त॒न्व᳚‌म्",
+          "pada_kn": "ತನ್ವಮ್",
+          "meaning_en": "body / form",
+          "meaning_kn": "ದೇಹವನ್ನು / ಶರೀರವನ್ನು"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / away / completely",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ / ದೂರ"
+        },
+        {
+          "pada_original": "अ॒रि॒रे॒ची॒त्",
+          "pada_kn": "ಅರಿರೇಚೀತ್",
+          "meaning_en": "abandoned / left behind",
+          "meaning_kn": "ತ್ಯಜಿಸಿದನು / ಬಿಟ್ಟುಬಿಟ್ಟನು"
+        }
+      ],
+      "full_meaning_en": "What did he choose for the gods? Death. What did he not choose for progeny? Immortality. They made Brihaspati, the seer, into a sacrifice. Yama completely abandoned his beloved body.",
+      "full_meaning_kn": "ದೇವತೆಗಳಿಗಾಗಿ ಏನನ್ನು ಆರಿಸಿಕೊಂಡನು? ಮೃತ್ಯುವನ್ನು. ಸಂತತಿಗಾಗಿ ಏನನ್ನು ಆರಿಸಿಕೊಳ್ಳಲಿಲ್ಲ? ಅಮೃತತ್ವವನ್ನು. ಅವರು ಋಷಿಯಾದ ಬೃಹಸ್ಪತಿಯನ್ನು ಯಜ್ಞವನ್ನಾಗಿ ಮಾಡಿದರು. ಯಮನು ತನ್ನ ಪ್ರಿಯವಾದ ದೇಹವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತ್ಯಜಿಸಿದನು.",
+      "rig_time_s": 44.231,
+      "Insight_en": "The cosmic choice unfolds, where the illumined faculties (देवेभ्यः) embrace the dissolution of the finite self (मृत्युं), not physical death, but the conscious surrender of ego-boundaries. For the blossoming spiritual manifestation (प्रजायै), the eternal verity (अमृतं) is not merely chosen, but is the inherent state awaiting revelation. Through the guidance of Brihaspati (बृहस्पतिं), the principle of vast, luminous wisdom, the Seer (ऋषिं) becomes the very act of self-offering (यज्ञं). This profound sacrifice necessitates that the inner controller (यमः) willingly relinquishes its cherished, limiting identity (प्रियं तन्वं), freeing consciousness from the perishable form and its attachments to attain the true, immortal essence.",
+      "Insight_kn": "ಓ ಆತ್ಮನ್, ದಿವ್ಯ ಶಕ್ತಿಗಳಿಗಾಗಿ (ದೇವೇಭ್ಯಃ) ಮೃತ್ಯುವು ಆಯ್ದುಕೊಳ್ಳಲ್ಪಟ್ಟಿತು, ಭೌತಿಕ ಲಯವಲ್ಲದೆ, ಅಹಂಕಾರದ ಸೀಮಿತ ಅಸ್ತಿತ್ವದ ವಿಲೀನ. ಆತ್ಮಿಕ ಸಂತತಿಗಾಗಿ (ಪ್ರಜಾಯೈ) ಅಮರತ್ವವು (ಅಮೃತಂ) ಆಯ್ಕೆಯಾಗಲಿಲ್ಲ, ಬದಲಾಗಿ ಅದು ಸಹಜವಾಗಿ ಅಭಿವ್ಯಕ್ತಗೊಳ್ಳುವ ಸತ್ಯವಾಗಿದೆ. ಬೃಹಸ್ಪತಿಯ (ಬೃಹಸ್ಪತಿಂ) ವಿಸ್ತಾರವಾದ ಜ್ಞಾನದಿಂದ ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಟ್ಟ ಋಷಿಯು (ಋಷಿಂ) ತಾನೇ ಯಜ್ಞವಾಗಿ (ಯಜ್ಞಂ) ಪರಿಣಮಿಸುತ್ತಾನೆ. ಈ ಮಹಾನ್ ಯಜ್ಞದಲ್ಲಿ, ಆಂತರಿಕ ನಿಯಂತ್ರಕನಾದ ಯಮನು (ಯಮಃ) ತನ್ನ ಪ್ರಿಯವಾದ, ಬಂಧಿಸುವ ಅಹಂಕಾರದ ದೇಹವನ್ನು (ಪ್ರಿಯಂ ತನ್ವಂ) ಸಂಪೂರ್ಣವಾಗಿ ತ್ಯಜಿಸುತ್ತಾನೆ, ಚೈತನ್ಯವು ನಶ್ವರದ ಬಂಧಗಳಿಂದ ಬಿಡುಗಡೆಗೊಂಡು ಶಾಶ್ವತ ಸತ್ಯವನ್ನು ಅರಿತುಕೊಳ್ಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S13_191-5_5",
+      "mandala": 10,
+      "sukta": 13,
+      "ric_index": 5,
+      "rig_lines": [
+        "स॒प्त क्ष॑रन्ति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒, अप्य॑वीवतन्नृ॒तम् |",
+        "उ॒भे, इद॑स्यो॒भय॑स्य राजत उ॒भे य॑तेते, उ॒भय॑स्य पुष्यतः ||"
+      ],
+      "pre_splits": [
+        "स॒प्त",
+        "क्ष॒र॒न्ति॒",
+        "शिश॑वे",
+        "म॒रुत्व॑ते",
+        "पि॒त्रे",
+        "पु॒त्रासः॑",
+        "अपि॑",
+        "अ॒वी॒व॒त॒न्",
+        "ऋ॒त‌म्",
+        "उ॒भे इति॑",
+        "इत्",
+        "अ॒स्य॒",
+        "उ॒भय॑स्य",
+        "रा॒ज॒तः॒",
+        "उ॒भे इति॑",
+        "य॒ते॒ते॒ इति॑",
+        "उ॒भय॑स्य",
+        "पु॒ष्य॒तः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स॒प्त",
+          "pada_kn": "ಸಪ್ತ",
+          "meaning_en": "Seven",
+          "meaning_kn": "ಏಳು"
+        },
+        {
+          "pada_original": "क्ष॒र॒न्ति॒",
+          "pada_kn": "ಕ್ಷರಂತಿ",
+          "meaning_en": "flow / stream",
+          "meaning_kn": "ಹರಿಯುತ್ತವೆ / ಪ್ರವಹಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "शिश॑वे",
+          "pada_kn": "ಶಿಶವೇ",
+          "meaning_en": "to the child / to the young one",
+          "meaning_kn": "ಮಗುವಿಗೆ / ಯುವಕನಿಗೆ"
+        },
+        {
+          "pada_original": "म॒रुत्व॑ते",
+          "pada_kn": "ಮರುತ್ವತೇ",
+          "meaning_en": "to the one accompanied by Maruts",
+          "meaning_kn": "ಮರುತ್ತುಗಳೊಡಗೂಡಿದವನಿಗೆ"
+        },
+        {
+          "pada_original": "पि॒त्रे",
+          "pada_kn": "ಪಿತ್ರೇ",
+          "meaning_en": "to the father",
+          "meaning_kn": "ತಂದೆಗೆ"
+        },
+        {
+          "pada_original": "पु॒त्रासः॑",
+          "pada_kn": "ಪುತ್ರಾಸಃ",
+          "meaning_en": "sons / offspring",
+          "meaning_kn": "ಪುತ್ರರು / ಮಕ್ಕಳು"
+        },
+        {
+          "pada_original": "अपि॑",
+          "pada_kn": "ಅಪಿ",
+          "meaning_en": "also / indeed",
+          "meaning_kn": "ಸಹ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अ॒वी॒व॒त॒न्",
+          "pada_kn": "ಅವೀಅವತನ್",
+          "meaning_en": "they have caused to grow / they have nourished",
+          "meaning_kn": "ಅವರು ಬೆಳೆಯುವಂತೆ ಮಾಡಿದರು / ಪೋಷಿಸಿದರು"
+        },
+        {
+          "pada_original": "ऋ॒त‌म्",
+          "pada_kn": "ಋತಮ್",
+          "meaning_en": "the cosmic order / truth",
+          "meaning_kn": "ಋತವನ್ನು / ಸತ್ಯವನ್ನು"
+        },
+        {
+          "pada_original": "उ॒भे इति॑",
+          "pada_kn": "ಉಭೇ ಇತಿ",
+          "meaning_en": "both (feminine dual)",
+          "meaning_kn": "ಎರಡೂ (ಸ್ತ್ರೀಲಿಂಗ)"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "of this (one)",
+          "meaning_kn": "ಇವನ / ಇದರ"
+        },
+        {
+          "pada_original": "उ॒भय॑स्य",
+          "pada_kn": "ಉಭಯಸ್ಯ",
+          "meaning_en": "of both (sides/aspects)",
+          "meaning_kn": "ಎರಡೂ ಕಡೆಗಳ / ಎರಡೂ ಆಯಾಮಗಳ"
+        },
+        {
+          "pada_original": "रा॒ज॒तः॒",
+          "pada_kn": "ರಾಜತಃ",
+          "meaning_en": "they shine / they rule",
+          "meaning_kn": "ಅವು ಬೆಳಗುತ್ತವೆ / ಆಳುತ್ತವೆ"
+        },
+        {
+          "pada_original": "उ॒भे इति॑",
+          "pada_kn": "ಉಭೇ ಇತಿ",
+          "meaning_en": "both (feminine dual)",
+          "meaning_kn": "ಎರಡೂ (ಸ್ತ್ರೀಲಿಂಗ)"
+        },
+        {
+          "pada_original": "य॒ते॒ते॒ इति॑",
+          "pada_kn": "ಯತೇತೇ ಇತಿ",
+          "meaning_en": "they strive / they exert themselves",
+          "meaning_kn": "ಅವು ಪ್ರಯತ್ನಿಸುತ್ತವೆ / ಶ್ರಮಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "उ॒भय॑स्य",
+          "pada_kn": "ಉಭಯಸ್ಯ",
+          "meaning_en": "of both (sides/aspects)",
+          "meaning_kn": "ಎರಡೂ ಕಡೆಗಳ / ಎರಡೂ ಆಯಾಮಗಳ"
+        },
+        {
+          "pada_original": "पु॒ष्य॒तः॒",
+          "pada_kn": "ಪುಷ್ಯತಃ",
+          "meaning_en": "they nourish / they prosper",
+          "meaning_kn": "ಅವು ಪೋಷಿಸುತ್ತವೆ / ಸಮೃದ್ಧಿಗೊಳಿಸುತ್ತವೆ"
+        }
+      ],
+      "full_meaning_en": "Seven (streams or sons) flow towards the young one (the Sun or a divine child) who is also the father and accompanied by the Maruts; indeed, they have nourished the cosmic order. Both (heaven and earth, or day and night) of this (universe) shine on both sides (of existence); both strive and nourish both (worlds or beings).",
+      "full_meaning_kn": "ಮರುತ್ತುಗಳೊಡಗೂಡಿದ, ತಂದೆಯೂ ಆದ ಆ ಯುವಕನ (ಸೂರ್ಯ ಅಥವಾ ದೈವಿಕ ಶಿಶು) ಕಡೆಗೆ ಏಳು (ನದಿಗಳು ಅಥವಾ ಪುತ್ರರು) ಹರಿಯುತ್ತವೆ; ಅವರು ಋತವನ್ನು (ದೈವಿಕ ನಿಯಮ ಅಥವಾ ಸತ್ಯ) ಪೋಷಿಸಿದ್ದಾರೆ. ಈ (ವಿಶ್ವದ) ಎರಡೂ (ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ, ಅಥವಾ ಹಗಲು ಮತ್ತು ರಾತ್ರಿ) ಎರಡೂ ಕಡೆಗಳಲ್ಲಿ ಪ್ರಕಾಶಿಸುತ್ತವೆ; ಎರಡೂ ಶ್ರಮಿಸುತ್ತವೆ ಮತ್ತು ಎರಡನ್ನೂ (ಲೋಕಗಳನ್ನು ಅಥವಾ ಜೀವಿಗಳನ್ನು) ಪೋಷಿಸುತ್ತವೆ.",
+      "rig_time_s": 59.476,
+      "Insight_en": "The nascent divine consciousness, the Śiśu (शिशु) within, is simultaneously the eternal Pitṛ (पितृ), the originating Self. To this evolving core, seven streams of foundational awareness (सप्त) flow, ever nourishing the inherent Truth, the Ṛtam (ऋतम्), of its being. Accompanied by the dynamic forces of divine will, the Maruts (मरुत्), the emergent faculties, the Putras (पुत्रासः), establish and sustain this cosmic order. Both the transcendent and immanent aspects of this singular Self—the Ubhe (उभे)—radiate its light; both engage in the cosmic play, constantly striving to nurture and evolve the totality of existence.",
+      "Insight_kn": "ಓ ಅಂತರ್ಗತ ದಿವ್ಯ ಶಿಶುವೇ, ನೀನೇ ಸನಾತನ ಪಿತೃ (पितृ), ಮೂಲಾಧಾರ ಆತ್ಮನ್. ನಿನ್ನಲ್ಲಿಗೆ ಏಳು ಮೂಲಭೂತ ಪ್ರಜ್ಞಾ ಪ್ರವಾಹಗಳು (सप्त) ಹರಿದುಬಂದು, ಅಂತರಂಗದ ಋತವನ್ನು (ऋतम्) ನಿರಂತರವಾಗಿ ಪೋಷಿಸುತ್ತವೆ. ದಿವ್ಯ ಸಂಕಲ್ಪದ ಕ್ರಿಯಾಶೀಲ ಶಕ್ತಿಗಳಾದ ಮರುತ್‌ಗಳ (मरुत्) ಜೊತೆಯಲ್ಲಿ, ನಿನ್ನಿಂದ ಉದ್ಭವಿಸಿದ ಪುತ್ರರು (पुत्रासः) ಈ ವಿಶ್ವ ಕ್ರಮವನ್ನು ಸ್ಥಾಪಿಸಿ ನಿರ್ವಹಿಸುತ್ತಾರೆ. ಈ ಏಕೈಕ ಆತ್ಮನ ಉಭಯ (उभे) ಸ್ವರೂಪಗಳಾದ ಅತೀತ ಮತ್ತು ವರ್ತಮಾನವು ತನ್ನ ಪ್ರಕಾಶವನ್ನು ವಿಕಿರಣಗೊಳಿಸುತ್ತವೆ; ಎರಡೂ ಸೃಷ್ಟಿಯ ಲೀಲೆಯಲ್ಲಿ ತೊಡಗಿ, ಅಸ್ತಿತ್ವದ ಸಮಗ್ರತೆಯನ್ನು ಪೋಷಿಸಲು ನಿರಂತರವಾಗಿ ಶ್ರಮಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

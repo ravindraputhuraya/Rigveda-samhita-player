@@ -1,0 +1,622 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S168_191-1_4",
+      "mandala": 10,
+      "sukta": 168,
+      "ric_index": 1,
+      "rig_lines": [
+        "वात॑स्य॒ नु म॑हि॒मानं॒ रथ॑स्य रु॒जन्ने᳚ति स्त॒नय᳚न्नस्य॒ घोषः॑ |",
+        "दि॒वि॒स्पृग्या᳚त्यरु॒णानि॑ कृ॒ण्वन्नु॒तो, ए᳚ति पृथि॒व्या रे॒णुमस्य॑न् ||"
+      ],
+      "pre_splits": [
+        "वात॑स्य",
+        "नु",
+        "म॒हि॒मान᳚‌म्",
+        "रथ॑स्य",
+        "रु॒जन्",
+        "ए॒ति॒",
+        "स्त॒नय॑न्",
+        "अ॒स्य॒",
+        "घोषः॑",
+        "दि॒वि॒ऽस्पृक्",
+        "या॒ति॒",
+        "अ॒रु॒णानि॑",
+        "कृ॒ण्वन्",
+        "उ॒तो इति॑",
+        "ए॒ति॒",
+        "पृ॒थि॒व्या",
+        "रे॒णु‌म्",
+        "अस्य॑न्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वात॑स्य",
+          "pada_kn": "ವಾತಸ್ಯ",
+          "meaning_en": "of the wind",
+          "meaning_kn": "ವಾಯುವಿನ"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "म॒हि॒मान᳚‌म्",
+          "pada_kn": "ಮಹಿಮಾನಮ್",
+          "meaning_en": "greatness / glory",
+          "meaning_kn": "ಮಹಿಮೆ / ಹಿರಿಮೆ"
+        },
+        {
+          "pada_original": "रथ॑स्य",
+          "pada_kn": "ರಥಸ್ಯ",
+          "meaning_en": "of the chariot",
+          "meaning_kn": "ರಥದ"
+        },
+        {
+          "pada_original": "रु॒जन्",
+          "pada_kn": "ರುಜನ್",
+          "meaning_en": "breaking / shattering",
+          "meaning_kn": "ಮುರಿಯುತ್ತಾ / ಭೇದಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "goes / moves",
+          "meaning_kn": "ಹೋಗುತ್ತದೆ / ಚಲಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "स्त॒नय॑न्",
+          "pada_kn": "ಸ್ತನಯನ್",
+          "meaning_en": "thundering / roaring",
+          "meaning_kn": "ಗುಡುಗುತ್ತಾ / ಘರ್ಜಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "its",
+          "meaning_kn": "ಇದರ"
+        },
+        {
+          "pada_original": "घोषः॑",
+          "pada_kn": "ಘೋಷಃ",
+          "meaning_en": "roar / sound",
+          "meaning_kn": "ಘೋಷ / ಶಬ್ದ"
+        },
+        {
+          "pada_original": "दि॒वि॒ऽस्पृक्",
+          "pada_kn": "ದಿವಿಸ್ಪೃಕ್",
+          "meaning_en": "touching the sky",
+          "meaning_kn": "ಆಕಾಶವನ್ನು ಸ್ಪರ್ಶಿಸುವ"
+        },
+        {
+          "pada_original": "या॒ति॒",
+          "pada_kn": "ಯಾತಿ",
+          "meaning_en": "goes / moves",
+          "meaning_kn": "ಹೋಗುತ್ತದೆ / ಚಲಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "अ॒रु॒णानि॑",
+          "pada_kn": "ಅರುಣಾನಿ",
+          "meaning_en": "reddish (things/colors)",
+          "meaning_kn": "ಕೆಂಪು ಬಣ್ಣಗಳನ್ನು / ಅರುಣ ವರ್ಣಗಳನ್ನು"
+        },
+        {
+          "pada_original": "कृ॒ण्वन्",
+          "pada_kn": "ಕೃಣ್ವನ್",
+          "meaning_en": "making / creating",
+          "meaning_kn": "ಮಾಡುತ್ತಾ / ಉಂಟುಮಾಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "उ॒तो इति॑",
+          "pada_kn": "ಉತೋ ಇತಿ",
+          "meaning_en": "and also",
+          "meaning_kn": "ಮತ್ತು / ಅಲ್ಲದೆ"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "goes / moves",
+          "meaning_kn": "ಹೋಗುತ್ತದೆ / ಚಲಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्या",
+          "pada_kn": "ಪೃಥಿವ್ಯಾ",
+          "meaning_en": "on the earth",
+          "meaning_kn": "ಭೂಮಿಯ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "रे॒णु‌म्",
+          "pada_kn": "ರೇಣುಮ್",
+          "meaning_en": "dust",
+          "meaning_kn": "ಧೂಳನ್ನು"
+        },
+        {
+          "pada_original": "अस्य॑न्",
+          "pada_kn": "ಅಸ್ಯನ್",
+          "meaning_en": "throwing / scattering",
+          "meaning_kn": "ಚೆಲ್ಲುತ್ತಾ / ಎಸೆಯುತ್ತಾ"
+        }
+      ],
+      "full_meaning_en": "Now, (we speak of) the greatness of the chariot of Vata (wind), whose roar comes shattering (everything), making a noise. Touching the sky, creating redness (or brilliance), he goes; and, moreover, coming to the earth, he throws the dust.",
+      "full_meaning_kn": "ಈಗ, ವಾತದ ರಥದ ಮಹಿಮೆಯನ್ನು (ನಾವು ಹೇಳುತ್ತೇವೆ), ಯಾರ ಆರ್ಭಟವು ಎಲ್ಲವನ್ನೂ ಪುಡಿಮಾಡುತ್ತಾ ಶಬ್ದವನ್ನುಂಟುಮಾಡುತ್ತದೆ. ಆಕಾಶವನ್ನು ಮುಟ್ಟುತ್ತಾ, ಕೆಂಪು ಬಣ್ಣವನ್ನು (ಅಥವಾ ತೇಜಸ್ಸನ್ನು) ಸೃಷ್ಟಿಸುತ್ತಾ ಅವನು ಹೋಗುತ್ತಾನೆ; ಮತ್ತು ಭೂಮಿಗೆ ಬರುತ್ತಾ, ಧೂಳನ್ನು ಚೆಲ್ಲುತ್ತಾನೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra describes the power and majesty of Vata (वायु), the wind god. Vata's chariot symbolizes the unstoppable force of prana, the life force. The roar of the chariot represents the transformative energy that shatters illusions and clears the path for spiritual growth. Vata's touch to the sky and earth signifies the all-pervading nature of the divine breath. The dust signifies the dispelling of ignorance (अविद्या) through the transformative power of वायु.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ವಾತದ (ವಾಯು) ಶಕ್ತಿ ಮತ್ತು ವೈಭವವನ್ನು ವಿವರಿಸುತ್ತದೆ. ವಾತನ ರಥವು ಪ್ರಾಣದ, ಅಂದರೆ ಜೀವನ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಅದನ್ನು ತಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ರಥದ ಆರ್ಭಟವು ರೂಪಾಂತರಗೊಳಿಸುವ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಅದು ಭ್ರಮೆಗಳನ್ನು ಭೇದಿಸುತ್ತದೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ. ವಾತನು ಆಕಾಶ ಮತ್ತು ಭೂಮಿಯನ್ನು ಸ್ಪರ್ಶಿಸುವುದು ದೈವಿಕ ಉಸಿರಾಟದ ಸರ್ವವ್ಯಾಪಕ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಧೂಳು ವಾಯುವಿನ ರೂಪಾಂತರ ಶಕ್ತಿಯ ಮೂಲಕ ಅಜ್ಞಾನವನ್ನು ದೂರ ಮಾಡುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S168_191-2_4",
+      "mandala": 10,
+      "sukta": 168,
+      "ric_index": 2,
+      "rig_lines": [
+        "सं प्रेर॑ते॒, अनु॒ वात॑स्य वि॒ष्ठा, ऐनं᳚ गच्छन्ति॒ सम॑नं॒ न योषाः᳚ |",
+        "ताभिः॑ स॒युक्स॒रथं᳚ दे॒व ई᳚यते॒ऽस्य विश्व॑स्य॒ भुव॑नस्य॒ राजा᳚ ||"
+      ],
+      "pre_splits": [
+        "स‌म्",
+        "प्र",
+        "ई॒र॒ते॒",
+        "अनु॑",
+        "वात॑स्य",
+        "वि॒ऽस्थाः",
+        "आ",
+        "ए॒न॒‌म्",
+        "ग॒च्छ॒न्ति॒",
+        "सम॑न‌म्",
+        "न",
+        "योषाः᳚",
+        "ताभिः॑",
+        "स॒ऽयुक्",
+        "स॒ऽरथ᳚‌म्",
+        "दे॒वः",
+        "ई॒य॒ते॒",
+        "अ॒स्य",
+        "विश्व॑स्य",
+        "भुव॑नस्य",
+        "राजा᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / completely",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "ई॒र॒ते॒",
+          "pada_kn": "ಈರತೇ",
+          "meaning_en": "they move / they stir",
+          "meaning_kn": "ಅವು ಚಲಿಸುತ್ತವೆ / ಅವು ಪ್ರೇರಿತವಾಗುತ್ತವೆ"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "along / following",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಹಿಂಬಾಲಿಸಿ"
+        },
+        {
+          "pada_original": "वात॑स्य",
+          "pada_kn": "ವಾತಸ್ಯ",
+          "meaning_en": "of the wind",
+          "meaning_kn": "ವಾಯುವಿನ"
+        },
+        {
+          "pada_original": "वि॒ऽस्थाः",
+          "pada_kn": "ವಿಷ್ಠಾಃ",
+          "meaning_en": "regions / stations",
+          "meaning_kn": "ಪ್ರದೇಶಗಳು / ನೆಲೆಗಳು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "towards / unto",
+          "meaning_kn": "ಕಡೆಗೆ / ಹತ್ತಿರ"
+        },
+        {
+          "pada_original": "ए॒न॒‌म्",
+          "pada_kn": "ಏನಮ್",
+          "meaning_en": "him (the Wind-god)",
+          "meaning_kn": "ಅವನನ್ನು (ವಾಯುದೇವನನ್ನು)"
+        },
+        {
+          "pada_original": "ग॒च्छ॒न्ति॒",
+          "pada_kn": "ಗಚ್ಛನ್ತಿ",
+          "meaning_en": "they go / they approach",
+          "meaning_kn": "ಅವು ಹೋಗುತ್ತವೆ / ಅವು ಸಮೀಪಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "सम॑न‌म्",
+          "pada_kn": "ಸಮನಮ್",
+          "meaning_en": "assembly / gathering",
+          "meaning_kn": "ಸಭೆ / ಸಮಾಗಮ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "योषाः᳚",
+          "pada_kn": "ಯೋಷಾಃ",
+          "meaning_en": "young women / wives",
+          "meaning_kn": "ಯುವತಿಯರು / ಪತ್ನಿಯರು"
+        },
+        {
+          "pada_original": "ताभिः॑",
+          "pada_kn": "ತಾಭಿಃ",
+          "meaning_en": "with them (the winds/Maruts)",
+          "meaning_kn": "ಅವುಗಳೊಂದಿಗೆ (ಮರುತ್ತುಗಳೊಂದಿಗೆ)"
+        },
+        {
+          "pada_original": "स॒ऽयुक्",
+          "pada_kn": "ಸಯುಕ್",
+          "meaning_en": "accompanied / yoked together",
+          "meaning_kn": "ಜೊತೆಗೂಡಿದ / ಯುಕ್ತನಾದ"
+        },
+        {
+          "pada_original": "स॒ऽरथ᳚‌म्",
+          "pada_kn": "ಸರಥಮ್",
+          "meaning_en": "with a chariot",
+          "meaning_kn": "ರಥದೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "the god (Vayu)",
+          "meaning_kn": "ದೇವನು (ವಾಯು)"
+        },
+        {
+          "pada_original": "ई॒य॒ते॒",
+          "pada_kn": "ಈಯತೇ",
+          "meaning_en": "he moves / he goes",
+          "meaning_kn": "ಅವನು ಚಲಿಸುತ್ತಾನೆ / ಅವನು ಹೋಗುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "अ॒स्य",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "of this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "विश्व॑स्य",
+          "pada_kn": "ವಿಶ್ವಸ್ಯ",
+          "meaning_en": "entire / all",
+          "meaning_kn": "ಸಮಸ್ತ / ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "भुव॑नस्य",
+          "pada_kn": "ಭುವನಸ್ಯ",
+          "meaning_en": "of the world / of existence",
+          "meaning_kn": "ಲೋಕದ / ಭುವನದ"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "king / ruler",
+          "meaning_kn": "ರಾಜ / ಅಧಿಪತಿ"
+        }
+      ],
+      "full_meaning_en": "They are urged forward, following the path of the wind; they come to Him like women to a gathering. United with them, the divine Lord proceeds in his chariot, the king of this entire world and all existence.",
+      "full_meaning_kn": "ಅವರು ಪ್ರೇರೇಪಿಸಲ್ಪಡುತ್ತಾರೆ, ಗಾಳಿಯ ಮಾರ್ಗವನ್ನು ಅನುಸರಿಸುತ್ತಾರೆ; ಅವರು ಆತನ ಬಳಿಗೆ ಸ್ತ್ರೀಯರು ಸಭೆಗೆ ಬರುವಂತೆ ಬರುತ್ತಾರೆ. ಅವರೊಂದಿಗೆ ಸೇರಿದ ದೈವಿಕ ಒಡೆಯನು ರಥದಲ್ಲಿ ಮುಂದುವರಿಯುತ್ತಾನೆ, ಈ ಸಂಪೂರ್ಣ ಜಗತ್ತು ಮತ್ತು ಎಲ್ಲಾ ಅಸ್ತಿತ್ವದ ರಾಜನು.",
+      "rig_time_s": 14.921,
+      "Insight_en": "This mantra speaks of the dynamic energies (सं प्रेर॑ते) that follow the path of cosmic breath (वात॑स्य वि॒ष्ठा), suggesting a connection to the vital force or prana. These energies converge towards a central divine principle, likened to women gathering, symbolizing devotion and union. The divine Lord (दे॒व) seated in his chariot (स॒रथं) represents the self-illuminating consciousness that governs the universe (विश्व॑स्य॒ भुव॑नस्य॒ राजा᳚). It emphasizes that the supreme reality is not static, but actively engaged in the cosmic dance, guiding and sustaining all of existence. The chariot signifies the body, and the Lord the indweller.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಕಾಸ್ಮಿಕ್ ಉಸಿರಾಟದ (ವಾತಸ್ಯ ವಿಷ್ಠಾ) ಮಾರ್ಗವನ್ನು ಅನುಸರಿಸುವ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಗಳ ಬಗ್ಗೆ (ಸಂ ಪ್ರೇರೇತೇ) ಮಾತನಾಡುತ್ತದೆ, ಇದು ಪ್ರಮುಖ ಶಕ್ತಿ ಅಥವಾ ಪ್ರಾಣಕ್ಕೆ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಶಕ್ತಿಗಳು ಕೇಂದ್ರ ದೈವಿಕ ತತ್ವದ ಕಡೆಗೆ ಒಮ್ಮುಖವಾಗುತ್ತವೆ, ಸ್ತ್ರೀಯರು ಸೇರುವಂತೆ ಹೋಲುತ್ತದೆ, ಇದು ಭಕ್ತಿ ಮತ್ತು ಒಕ್ಕೂಟವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ರಥದಲ್ಲಿ (ಸರಥಂ) ಕುಳಿತಿರುವ ದೈವಿಕ ಒಡೆಯನು (ದೇವ) ಇಡೀ ಬ್ರಹ್ಮಾಂಡವನ್ನು (ವಿಶ್ವಸ್ಯ ಭುವನಸ್ಯ ರಾಜಾ) ಆಳುವ ಸ್ವಯಂ-ಪ್ರಕಾಶಿತ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಪರಮ ವಾಸ್ತವವು ಸ್ಥಿರವಾಗಿಲ್ಲ, ಆದರೆ ಕಾಸ್ಮಿಕ್ ನೃತ್ಯದಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿ ತೊಡಗಿಸಿಕೊಂಡಿದೆ, ಅಸ್ತಿತ್ವವನ್ನು ಮಾರ್ಗದರ್ಶಿಸುತ್ತದೆ ಮತ್ತು ಉಳಿಸುತ್ತದೆ ಎಂದು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ. ರಥವು ದೇಹವನ್ನು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ಒಡೆಯನು ದೇಹದಲ್ಲಿ ನೆಲೆಸಿರುವ ಆತ್ಮ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S168_191-3_4",
+      "mandala": 10,
+      "sukta": 168,
+      "ric_index": 3,
+      "rig_lines": [
+        "अ॒न्तरि॑क्षे प॒थिभि॒रीय॑मानो॒ न नि वि॑शते कत॒मच्च॒नाहः॑ |",
+        "अ॒पां सखा᳚ प्रथम॒जा, ऋ॒तावा॒ क्व॑ स्विज्जा॒तः कुत॒ आ ब॑भूव ||"
+      ],
+      "pre_splits": [
+        "अ॒न्तरि॑क्षे",
+        "प॒थिऽभिः॑",
+        "ईय॑मानः",
+        "न",
+        "नि",
+        "वि॒श॒ते॒",
+        "क॒त॒मत्",
+        "च॒न",
+        "अह॒रिति॑",
+        "अ॒पा‌म्",
+        "सखा᳚",
+        "प्र॒थ॒म॒ऽजाः",
+        "ऋ॒तऽवा᳚",
+        "क्व॑",
+        "स्वि॒त्",
+        "जा॒तः",
+        "कुतः॑",
+        "आ",
+        "ब॒भू॒व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒न्तरि॑क्षे",
+          "pada_kn": "ಅಂತರಿಕ್ಷೇ",
+          "meaning_en": "in the mid-region / in the atmosphere",
+          "meaning_kn": "ಅಂತರಿಕ್ಷದಲ್ಲಿ / ವಾಯುಮಂಡಲದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "प॒थिऽभिः॑",
+          "pada_kn": "ಪಥಿಭಿಃ",
+          "meaning_en": "by paths / through paths",
+          "meaning_kn": "ಮಾರ್ಗಗಳಿಂದ / ಪಥಗಳಿಂದ"
+        },
+        {
+          "pada_original": "ईय॑मानः",
+          "pada_kn": "ಈಯಮಾನಃ",
+          "meaning_en": "moving / going",
+          "meaning_kn": "ಚಲಿಸುತ್ತಿರುವವನು / ಹೋಗುತ್ತಿರುವವನು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / into",
+          "meaning_kn": "ಕೆಳಗೆ / ಒಳಗೆ"
+        },
+        {
+          "pada_original": "वि॒श॒ते॒",
+          "pada_kn": "ವಿಶತೇ",
+          "meaning_en": "settles / rests",
+          "meaning_kn": "ನೆಲೆಸುವುದಿಲ್ಲ / ವಿಶ್ರಮಿಸುವುದಿಲ್ಲ"
+        },
+        {
+          "pada_original": "क॒त॒मत्",
+          "pada_kn": "ಕತಮತ್",
+          "meaning_en": "any",
+          "meaning_kn": "ಯಾವುದೇ"
+        },
+        {
+          "pada_original": "च॒न",
+          "pada_kn": "ಚನ",
+          "meaning_en": "even",
+          "meaning_kn": "ಕೂಡ"
+        },
+        {
+          "pada_original": "अह॒रिति॑",
+          "pada_kn": "ಅಹರಿತಿ",
+          "meaning_en": "day",
+          "meaning_kn": "ದಿನ"
+        },
+        {
+          "pada_original": "अ॒पा‌म्",
+          "pada_kn": "ಅಪಾಮ್",
+          "meaning_en": "of the waters",
+          "meaning_kn": "ನೀರುಗಳ / ಜಲಗಳ"
+        },
+        {
+          "pada_original": "सखा᳚",
+          "pada_kn": "ಸಖಾ",
+          "meaning_en": "friend",
+          "meaning_kn": "ಮಿತ್ರ / ಗೆಳೆಯ"
+        },
+        {
+          "pada_original": "प्र॒थ॒म॒ऽजाः",
+          "pada_kn": "ಪ್ರಥಮಜಾಃ",
+          "meaning_en": "first-born",
+          "meaning_kn": "ಮೊದಲು ಹುಟ್ಟಿದವನು / ಪ್ರಥಮಜಾತನು"
+        },
+        {
+          "pada_original": "ऋ॒तऽवा᳚",
+          "pada_kn": "ಋತವಾ",
+          "meaning_en": "truthful / righteous / possessing cosmic order",
+          "meaning_kn": "ಸತ್ಯವಂತನು / ಋತವನ್ನು ಹೊಂದಿದವನು"
+        },
+        {
+          "pada_original": "क्व॑",
+          "pada_kn": "ಕ್ವ",
+          "meaning_en": "where",
+          "meaning_kn": "ಎಲ್ಲಿ"
+        },
+        {
+          "pada_original": "स्वि॒त्",
+          "pada_kn": "ಸ್ವಿತ್",
+          "meaning_en": "indeed / perhaps (interrogative particle)",
+          "meaning_kn": "ನಿಜಕ್ಕೂ / ಬಹುಶಃ"
+        },
+        {
+          "pada_original": "जा॒तः",
+          "pada_kn": "ಜಾತಃ",
+          "meaning_en": "born",
+          "meaning_kn": "ಹುಟ್ಟಿದನು"
+        },
+        {
+          "pada_original": "कुतः॑",
+          "pada_kn": "ಕುತಃ",
+          "meaning_en": "whence / from where",
+          "meaning_kn": "ಎಲ್ಲಿಂದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle indicating origin/direction)",
+          "meaning_kn": "(ಮೂಲ/ದಿಕ್ಕನ್ನು ಸೂಚಿಸುವ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "ब॒भू॒व॒",
+          "pada_kn": "ಬಭೂವ",
+          "meaning_en": "came into being / was",
+          "meaning_kn": "ಆಗಿದನು / ಉಂಟಾದನು"
+        }
+      ],
+      "full_meaning_en": "Moving in the sky by various paths, he does not rest for even a single day. He is the friend of the waters, the first-born, the abode of truth; where was he born? From where did he come into being?",
+      "full_meaning_kn": "ಆಕಾಶದಲ್ಲಿ ವಿವಿಧ ಮಾರ್ಗಗಳಿಂದ ಚಲಿಸುತ್ತಾ, ಅವನು ಒಂದೇ ಒಂದು ದಿನವೂ ವಿಶ್ರಮಿಸುವುದಿಲ್ಲ. ಅವನು ನೀರುಗಳ ಸ್ನೇಹಿತ, ಮೊದಲು ಹುಟ್ಟಿದವನು, ಸತ್ಯದ ನೆಲೆ; ಅವನು ಎಲ್ಲಿ ಜನಿಸಿದನು? ಎಲ್ಲಿಂದ ಉಂಟಾದನು?",
+      "rig_time_s": 30.46,
+      "Insight_en": "This mantra speaks of a cosmic entity, perhaps सूर्य (Surya) or अग्नि (Agni), constantly in motion, never resting. It signifies the eternal, dynamic nature of Brahman, always active and never ceasing. The phrase 'friend of the waters' suggests a connection to the life-giving forces of the universe. The question of origin, 'where was he born? From where did he come into being?' reflects the inherent mystery of the divine. This eternal being is ऋतावा (ṛtāvā) or the abode of truth, which indicates that truth itself is eternal and omnipresent. This prompts seekers to contemplate the unfathomable origins and boundless nature of reality.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಒಂದು ಕಾಸ್ಮಿಕ್ ಅಸ್ತಿತ್ವದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ, ಬಹುಶಃ ಸೂರ್ಯ ಅಥವಾ ಅಗ್ನಿ, ಸದಾ ಚಲಿಸುತ್ತಾ, ಎಂದಿಗೂ ವಿಶ್ರಮಿಸುವುದಿಲ್ಲ. ಇದು ಬ್ರಹ್ಮನ ಶಾಶ್ವತ, ಕ್ರಿಯಾತ್ಮಕ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಯಾವಾಗಲೂ ಸಕ್ರಿಯವಾಗಿರುತ್ತದೆ ಮತ್ತು ಎಂದಿಗೂ ನಿಲ್ಲುವುದಿಲ್ಲ. 'ನೀರಿನ ಸ್ನೇಹಿತ' ಎಂಬ ಪದವು ಬ್ರಹ್ಮಾಂಡದ ಜೀವ ನೀಡುವ ಶಕ್ತಿಗಳಿಗೆ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ಅವನು ಎಲ್ಲಿ ಜನಿಸಿದನು? ಎಲ್ಲಿಂದ ಉಂಟಾದನು?' ಎಂಬ ಮೂಲದ ಪ್ರಶ್ನೆಯು ದೈವಿಕ ರಹಸ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಈ ಶಾಶ್ವತ ಅಸ್ತಿತ್ವವು ಸತ್ಯದ ನೆಲೆ, ಇದು ಸತ್ಯವು ಶಾಶ್ವತ ಮತ್ತು ಸರ್ವವ್ಯಾಪಿ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಸತ್ಯಾನ್ವೇಷಿಗಳನ್ನು ವಾಸ್ತವದ ಅಗಾಧವಾದ ಮೂಲ ಮತ್ತು ಅನಂತ ಸ್ವರೂಪವನ್ನು ಧ್ಯಾನಿಸಲು ಪ್ರೇರೇಪಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S168_191-4_4",
+      "mandala": 10,
+      "sukta": 168,
+      "ric_index": 4,
+      "rig_lines": [
+        "आ॒त्मा दे॒वानां॒ भुव॑नस्य॒ गर्भो᳚ यथाव॒शं च॑रति दे॒व ए॒षः |",
+        "घोषा॒, इद॑स्य शृण्विरे॒ न रू॒पं तस्मै॒ वाता᳚य ह॒विषा᳚ विधेम ||"
+      ],
+      "pre_splits": [
+        "आ॒त्मा",
+        "दे॒वाना᳚‌म्",
+        "भुव॑नस्य",
+        "गर्भः॑",
+        "य॒था॒ऽव॒श‌म्",
+        "च॒र॒ति॒",
+        "दे॒वः",
+        "ए॒षः",
+        "घोषाः᳚",
+        "इत्",
+        "अ॒स्य॒",
+        "शृ॒ण्वि॒रे॒",
+        "न",
+        "रू॒प‌म्",
+        "तस्मै᳚",
+        "वाता᳚य",
+        "ह॒विषा᳚",
+        "वि॒धे॒म॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ॒त्मा",
+          "pada_kn": "ಆತ್ಮಾ",
+          "meaning_en": "The soul / essence",
+          "meaning_kn": "ಆತ್ಮ / ಸಾರ"
+        },
+        {
+          "pada_original": "दे॒वाना᳚‌म्",
+          "pada_kn": "ದೇವಾನಾಮ್",
+          "meaning_en": "of the gods",
+          "meaning_kn": "ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "भुव॑नस्य",
+          "pada_kn": "ಭುವನಸ್ಯ",
+          "meaning_en": "of the world / of existence",
+          "meaning_kn": "ಲೋಕದ / ಜಗತ್ತಿನ"
+        },
+        {
+          "pada_original": "गर्भः॑",
+          "pada_kn": "ಗರ್ಭಃ",
+          "meaning_en": "the embryo / the core",
+          "meaning_kn": "ಗರ್ಭ / ಮೂಲ"
+        },
+        {
+          "pada_original": "य॒था॒ऽव॒श‌म्",
+          "pada_kn": "ಯಥಾವಶಮ್",
+          "meaning_en": "according to its will / freely",
+          "meaning_kn": "ತನ್ನ ಇಚ್ಛೆಯಂತೆ / ಸ್ವತಂತ್ರವಾಗಿ"
+        },
+        {
+          "pada_original": "च॒र॒ति॒",
+          "pada_kn": "ಚರತಿ",
+          "meaning_en": "moves / wanders",
+          "meaning_kn": "ಚಲಿಸುತ್ತದೆ / ಸಂಚರಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "the god / the divine one",
+          "meaning_kn": "ದೇವನು / ದೈವಿಕನು"
+        },
+        {
+          "pada_original": "ए॒षः",
+          "pada_kn": "ಏಷಃ",
+          "meaning_en": "this (one)",
+          "meaning_kn": "ಇವನು / ಇದು"
+        },
+        {
+          "pada_original": "घोषाः᳚",
+          "pada_kn": "ಘೋಷಾಃ",
+          "meaning_en": "sounds / roars",
+          "meaning_kn": "ಶಬ್ದಗಳು / ಘೋಷಗಳು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / only",
+          "meaning_kn": "ಮಾತ್ರ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "of him / its",
+          "meaning_kn": "ಇದರ / ಅವನ"
+        },
+        {
+          "pada_original": "शृ॒ण्वि॒रे॒",
+          "pada_kn": "ಶೃಣ್ವಿರೇ",
+          "meaning_en": "are heard",
+          "meaning_kn": "ಕೇಳಿಬರುತ್ತವೆ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "रू॒प‌म्",
+          "pada_kn": "ರೂಪಮ್",
+          "meaning_en": "form / visible appearance",
+          "meaning_kn": "ರೂಪ / ಆಕಾರ"
+        },
+        {
+          "pada_original": "तस्मै᳚",
+          "pada_kn": "ತಸ್ಮೈ",
+          "meaning_en": "to that (one)",
+          "meaning_kn": "ಆತನಿಗೆ / ಅದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "वाता᳚य",
+          "pada_kn": "ವಾತಾಯ",
+          "meaning_en": "to Vayu / to the Wind",
+          "meaning_kn": "ವಾಯುವಿಗೆ / ಗಾಳಿಗೆ"
+        },
+        {
+          "pada_original": "ह॒विषा᳚",
+          "pada_kn": "ಹವಿಷಾ",
+          "meaning_en": "with oblation / with offering",
+          "meaning_kn": "ಹವಿಸ್ಸಿನಿಂದ / ಅರ್ಪಣೆಯಿಂದ"
+        },
+        {
+          "pada_original": "वि॒धे॒म॒",
+          "pada_kn": "ವಿಧೇಮ",
+          "meaning_en": "we offer / we worship",
+          "meaning_kn": "ನಾವು ಅರ್ಪಿಸೋಣ / ನಾವು ಪೂಜಿಸೋಣ"
+        }
+      ],
+      "full_meaning_en": "He is the soul of the gods, the embryo of the universe; this divine being moves according to his will. His sounds are heard, but his form is not seen; to that Vata (the Wind), we offer with oblation.",
+      "full_meaning_kn": "ಅವರು ದೇವತೆಗಳ ಆತ್ಮ, ಜಗತ್ತಿನ ಭ್ರೂಣ; ಈ ದೈವಿಕ ವ್ಯಕ್ತಿ ತನ್ನ ಇಚ್ಛೆಯ ಪ್ರಕಾರ ಚಲಿಸುತ್ತಾನೆ. ಅವನ ಶಬ್ದಗಳು ಕೇಳಿಬರುತ್ತವೆ, ಆದರೆ ಅವನ ರೂಪವು ಗೋಚರಿಸುವುದಿಲ್ಲ; ಆ ವಾತನಿಗೆ (ಗಾಳಿ), ನಾವು ಅರ್ಪಣೆಯೊಂದಿಗೆ ನೀಡುತ್ತೇವೆ.",
+      "rig_time_s": 44.469,
+      "Insight_en": "This mantra from the Rig Veda speaks of Vata (वायु), the wind, as the very soul (आत्म) of the gods and the embryo (गर्भ) of the universe. It highlights the all-pervading and essential nature of Vata, emphasizing that its presence is felt through sound (घोष) but its form remains unseen, stressing its subtle and powerful influence. The act of offering oblations (हविषा) to Vata signifies reverence for the invisible forces that govern the cosmos, urging one to acknowledge and align with the dynamic energy of existence. This unseen force, like the breath of life, animates and sustains all creation. Recognizing Vata is to acknowledge the divine within the ephemeral.",
+      "Insight_kn": "ಈ ಋಗ್ವೇದ ಮಂತ್ರವು ವಾತನನ್ನು (ವಾಯು), ದೇವತೆಗಳ ಆತ್ಮ (ಆತ್ಮ) ಮತ್ತು ಜಗತ್ತಿನ ಭ್ರೂಣ (ಗರ್ಭ) ಎಂದು ಮಾತನಾಡುತ್ತದೆ. ಇದು ವಾತದ ಸರ್ವವ್ಯಾಪಿ ಮತ್ತು ಅತ್ಯಗತ್ಯ ಸ್ವಭಾವವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಅದರ ಉಪಸ್ಥಿತಿಯು ಧ್ವನಿ (ಘೋಷ) ಮೂಲಕ ಅನುಭವಿಸಲ್ಪಡುತ್ತದೆ ಆದರೆ ಅದರ ರೂಪವು ಅಗೋಚರವಾಗಿರುತ್ತದೆ, ಇದು ಅದರ ಸೂಕ್ಷ್ಮ ಮತ್ತು ಶಕ್ತಿಯುತ ಪ್ರಭಾವವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ವಾತನಿಗೆ ಅರ್ಪಣೆಗಳನ್ನು (ಹವಿಷಾ) ಅರ್ಪಿಸುವ ಕ್ರಿಯೆಯು ವಿಶ್ವವನ್ನು ಆಳುವ ಅದೃಶ್ಯ ಶಕ್ತಿಗಳಿಗೆ ಗೌರವವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಸ್ತಿತ್ವದ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಯನ್ನು ಗುರುತಿಸಲು ಮತ್ತು ಜೋಡಿಸಲು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ಈ ಕಾಣದ ಶಕ್ತಿ, ಉಸಿರಾಟದಂತೆ, ಎಲ್ಲಾ ಸೃಷ್ಟಿಯನ್ನು ಜೀವಂತಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಉಳಿಸುತ್ತದೆ. ವಾತನನ್ನು ಗುರುತಿಸುವುದು ಎಂದರೆ ಕ್ಷಣಿಕದಲ್ಲಿ ದೈವಿಕತೆಯನ್ನು ಗುರುತಿಸುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

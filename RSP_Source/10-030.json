@@ -1,0 +1,2239 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S30_191-1_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 1,
+      "rig_lines": [
+        "प्र दे᳚व॒त्रा ब्रह्म॑णे गा॒तुरे᳚त्व॒पो, अच्छा॒ मन॑सो॒ न प्रयु॑क्ति |",
+        "म॒हीं मि॒त्रस्य॒ वरु॑णस्य धा॒सिं पृ॑थु॒ज्रय॑से रीरधा सुवृ॒क्तिम् ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "दे॒व॒ऽत्रा",
+        "ब्रह्म॑णे",
+        "गा॒तुः",
+        "ए॒तु॒",
+        "अ॒पः",
+        "अच्छ॑",
+        "मन॑सः",
+        "न",
+        "प्रऽयु॑क्ति",
+        "म॒ही‌म्",
+        "मि॒त्रस्य॑",
+        "वरु॑णस्य",
+        "धा॒सि‌म्",
+        "पृ॒थु॒ऽज्रय॑से",
+        "री॒र॒ध॒",
+        "सु॒ऽवृ॒क्ति‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "Forth / Onward",
+          "meaning_kn": "ಮುಂದಕ್ಕೆ / ಸಾಗಲಿ"
+        },
+        {
+          "pada_original": "दे॒व॒ऽत्रा",
+          "pada_kn": "ದೇವತ್ರಾ",
+          "meaning_en": "among the gods / to the gods",
+          "meaning_kn": "ದೇವತೆಗಳ ನಡುವೆ / ದೇವತೆಗಳಿಗೆ"
+        },
+        {
+          "pada_original": "ब्रह्म॑णे",
+          "pada_kn": "ಬ್ರಹ್ಮಣೇ",
+          "meaning_en": "for the prayer / for the sacred word",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆಗಾಗಿ / ಪವಿತ್ರ ವಚನಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "गा॒तुः",
+          "pada_kn": "ಗಾತುಃ",
+          "meaning_en": "a path / a way",
+          "meaning_kn": "ಮಾರ್ಗ / ದಾರಿ"
+        },
+        {
+          "pada_original": "ए॒तु॒",
+          "pada_kn": "ಏತು",
+          "meaning_en": "let it go / let it proceed",
+          "meaning_kn": "ಅದು ಸಾಗಲಿ / ಅದು ಮುಂದುವರೆಯಲಿ"
+        },
+        {
+          "pada_original": "अ॒पः",
+          "pada_kn": "ಅಪಃ",
+          "meaning_en": "to the waters",
+          "meaning_kn": "ಜಲಗಳಿಗೆ"
+        },
+        {
+          "pada_original": "अच्छ॑",
+          "pada_kn": "ಅಚ್ಛಾ",
+          "meaning_en": "towards / unto",
+          "meaning_kn": "ಕಡೆಗೆ / ಸಮೀಪಕ್ಕೆ"
+        },
+        {
+          "pada_original": "मन॑सः",
+          "pada_kn": "ಮನಸಃ",
+          "meaning_en": "of the mind",
+          "meaning_kn": "ಮನಸ್ಸಿನ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ /ಂತೆ"
+        },
+        {
+          "pada_original": "प्रऽयु॑क्ति",
+          "pada_kn": "ಪ್ರಯುಕ್ತಿ",
+          "meaning_en": "an impulse / an exertion",
+          "meaning_kn": "ಪ್ರೇರಣೆ / ಪ್ರಯತ್ನ"
+        },
+        {
+          "pada_original": "म॒ही‌म्",
+          "pada_kn": "ಮಹೀಮ್",
+          "meaning_en": "great / vast",
+          "meaning_kn": "ಮಹತ್ತರವಾದ / ವಿಶಾಲವಾದ"
+        },
+        {
+          "pada_original": "मि॒त्रस्य॑",
+          "pada_kn": "ಮಿತ್ರಸ್ಯ",
+          "meaning_en": "of Mitra",
+          "meaning_kn": "ಮಿತ್ರನ"
+        },
+        {
+          "pada_original": "वरु॑णस्य",
+          "pada_kn": "ವರುಣಸ್ಯ",
+          "meaning_en": "of Varuna",
+          "meaning_kn": "ವರುಣನ"
+        },
+        {
+          "pada_original": "धा॒सि‌म्",
+          "pada_kn": "ಧಾಸಿಮ್",
+          "meaning_en": "bounty / foundation / support",
+          "meaning_kn": "ಸಂಪತ್ತು / ಆಧಾರ / ಬೆಂಬಲ"
+        },
+        {
+          "pada_original": "पृ॒थु॒ऽज्रय॑से",
+          "pada_kn": "ಪೃಥುಜ್ರಯಸೇ",
+          "meaning_en": "for the wide-moving (waters/sacrifice)",
+          "meaning_kn": "ವ್ಯಾಪಕವಾಗಿ ಚಲಿಸುವ (ಜಲಗಳಿಗಾಗಿ/ಯಜ್ಞಕ್ಕಾಗಿ)"
+        },
+        {
+          "pada_original": "री॒र॒ध॒",
+          "pada_kn": "ರೀರಧ",
+          "meaning_en": "bestow / arrange",
+          "meaning_kn": "ಅನುಗ್ರಹಿಸು / ಸಿದ್ಧಪಡಿಸು"
+        },
+        {
+          "pada_original": "सु॒ऽवृ॒क्ति‌म्",
+          "pada_kn": "ಸುವೃಕ್ತಿಮ್",
+          "meaning_en": "good praise / good offering",
+          "meaning_kn": "ಉತ್ತಮ ಸ್ತುತಿ / ಉತ್ತಮ ಅರ್ಪಣೆ"
+        }
+      ],
+      "full_meaning_en": "Let the hymn, directed to the gods, come to the singer, like a well-formed thought. (May he) establish a great support for Mitra and Varuna, a wide protection for old age, and a good refuge.",
+      "full_meaning_kn": "ದೇವತೆಗಳ ಕಡೆಗೆ ನಿರ್ದೇಶಿಸಲ್ಪಟ್ಟ ಸ್ತೋತ್ರವು ಗಾಯಕನಿಗೆ ಬರಲಿ, ಒಂದು ಸುಸಂಸ್ಕೃತ ಆಲೋಚನೆಯಂತೆ. ಮಿತ್ರ ಮತ್ತು ವರುಣರಿಗೆ ಒಂದು ದೊಡ್ಡ ಆಧಾರವನ್ನು, ವೃದ್ಧಾಪ್ಯಕ್ಕೆ ವಿಶಾಲವಾದ ರಕ್ಷಣೆಯನ್ನು ಮತ್ತು ಉತ್ತಮ ಆಶ್ರಯವನ್ನು (ಅವನು) ಸ್ಥಾಪಿಸಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra emphasizes the importance of a well-formed thought (प्रयुक्ति) in reaching the divine. The hymn (ब्रह्म) acts as a vehicle connecting the singer with the gods. Establishing a firm foundation (धासिं) for Mitra and Varuna implies creating inner stability through adherence to cosmic order (ऋत). Seeking protection (रीरधा) even in old age signifies a lifelong pursuit of spiritual refuge. The ultimate goal is to attain a state of सुवृक्तिम्, a place of good refuge in Brahman.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವವನ್ನು ತಲುಪಲು ಸುಸಂಸ್ಕೃತ ಆಲೋಚನೆಯ (ಪ್ರಯುಕ್ತಿ) ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಸ್ತೋತ್ರವು (ಬ್ರಹ್ಮ) ಗಾಯಕನನ್ನು ದೇವರುಗಳೊಂದಿಗೆ ಸಂಪರ್ಕಿಸುವ ವಾಹನವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಮಿತ್ರ ಮತ್ತು ವರುಣರಿಗೆ ಒಂದು ದೃಢವಾದ ಅಡಿಪಾಯವನ್ನು (ಧಾಸಿಂ) ಸ್ಥಾಪಿಸುವುದು ಕಾಸ್ಮಿಕ್ ಕ್ರಮಕ್ಕೆ (ಋತ) ಬದ್ಧತೆಯ ಮೂಲಕ ಆಂತರಿಕ ಸ್ಥಿರತೆಯನ್ನು ಸೃಷ್ಟಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವೃದ್ಧಾಪ್ಯದಲ್ಲಿಯೂ ರಕ್ಷಣೆ (ರೀರಧಾ) ಪಡೆಯುವುದು ಆಧ್ಯಾತ್ಮಿಕ ಆಶ್ರಯದ ಜೀವನಪೂರ್ತಿ ಅನ್ವೇಷಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂತಿಮ ಗುರಿಯು ಬ್ರಹ್ಮನ್‌ನಲ್ಲಿ ಉತ್ತಮ ಆಶ್ರಯದ ಸ್ಥಳವಾದ ಸುಗೃಕ್ತಿಮ್ ಸ್ಥಿತಿಯನ್ನು ಸಾಧಿಸುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-2_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 2,
+      "rig_lines": [
+        "अध्व᳚र्यवो ह॒विष्म᳚न्तो॒ हि भू॒ताच्छा॒प इ॑तोश॒तीरु॑शन्तः |",
+        "अव॒ याश्चष्टे᳚, अरु॒णः सु॑प॒र्णस्तमास्य॑ध्वमू॒र्मिम॒द्या सु॑हस्ताः ||"
+      ],
+      "pre_splits": [
+        "अध्व᳚र्यवः",
+        "ह॒विष्म᳚न्तः",
+        "हि",
+        "भू॒त",
+        "अच्छ॑",
+        "अ॒पः",
+        "इ॒त॒",
+        "उ॒श॒तीः",
+        "उ॒श॒न्तः॒",
+        "अव॑",
+        "याः",
+        "चष्टे᳚",
+        "अ॒रु॒णः",
+        "सु॒ऽप॒र्णः",
+        "त‌म्",
+        "आ",
+        "अ॒स्य॒ध्व॒‌म्",
+        "ऊ॒र्मि‌म्",
+        "अ॒द्य",
+        "सु॒ऽह॒स्ताः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अध्व᳚र्यवः",
+          "pada_kn": "ಅಧ್ವರ್ಯವಃ",
+          "meaning_en": "O Adhvaryus (priests)",
+          "meaning_kn": "ಓ ಅಧ್ವರ್ಯುಗಳೇ"
+        },
+        {
+          "pada_original": "ह॒विष्म᳚न्तः",
+          "pada_kn": "ಹವಿಷ್ಮನ್ತಃ",
+          "meaning_en": "possessing oblations",
+          "meaning_kn": "ಹವಿಸ್ಸುಳ್ಳವರು"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "भू॒त",
+          "pada_kn": "ಭೂತ",
+          "meaning_en": "be / become",
+          "meaning_kn": "ಆಗಿರಿ"
+        },
+        {
+          "pada_original": "अच्छ॑",
+          "pada_kn": "ಅಚ್ಛ",
+          "meaning_en": "towards / unto",
+          "meaning_kn": "ಕಡೆಗೆ / ಸಮೀಪಕ್ಕೆ"
+        },
+        {
+          "pada_original": "अ॒पः",
+          "pada_kn": "ಅಪಃ",
+          "meaning_en": "the waters",
+          "meaning_kn": "ಜಲಗಳನ್ನು"
+        },
+        {
+          "pada_original": "इ॒त॒",
+          "pada_kn": "ಇತ",
+          "meaning_en": "go / proceed",
+          "meaning_kn": "ಹೋಗಿರಿ"
+        },
+        {
+          "pada_original": "उ॒श॒तीः",
+          "pada_kn": "ಉಶತೀಃ",
+          "meaning_en": "desiring (them) / wishing (for them)",
+          "meaning_kn": "ಬಯಸುವ / ಇಚ್ಛಿಸುವ"
+        },
+        {
+          "pada_original": "उ॒श॒न्तः॒",
+          "pada_kn": "ಉಶನ್ತಃ",
+          "meaning_en": "desiring (you) / wishing (for you)",
+          "meaning_kn": "ಬಯಸುವ / ಇಚ್ಛಿಸುವ"
+        },
+        {
+          "pada_original": "अव॑",
+          "pada_kn": "ಅವ",
+          "meaning_en": "down / away",
+          "meaning_kn": "ಕೆಳಗೆ / ದೂರ"
+        },
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "which (waters)",
+          "meaning_kn": "ಯಾವ (ಜಲಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "चष्टे᳚",
+          "pada_kn": "ಚಷ್ಟೇ",
+          "meaning_en": "sees / observes",
+          "meaning_kn": "ನೋಡುತ್ತಾನೆ / ಗಮನಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "अ॒रु॒णः",
+          "pada_kn": "ಅರುಣಃ",
+          "meaning_en": "the red one (the dawn/sun)",
+          "meaning_kn": "ಕೆಂಪಾದವನು (ಉಷಸ್ಸು/ಸೂರ್ಯ)"
+        },
+        {
+          "pada_original": "सु॒ऽप॒र्णः",
+          "pada_kn": "ಸುಪರ್ಣಃ",
+          "meaning_en": "the beautiful-winged one (the sun)",
+          "meaning_kn": "ಸುಂದರ ರೆಕ್ಕೆಗಳುಳ್ಳವನು (ಸೂರ್ಯ)"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "that (wave)",
+          "meaning_kn": "ಆ (ಅಲೆಯನ್ನು)"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / towards",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "अ॒स्य॒ध्व॒‌म्",
+          "pada_kn": "ಅಸ್ಯಧ್ವಮ್",
+          "meaning_en": "throw / cast",
+          "meaning_kn": "ಎಸೆಯಿರಿ"
+        },
+        {
+          "pada_original": "ऊ॒र्मि‌म्",
+          "pada_kn": "ಊರ್ಮಿಮ್",
+          "meaning_en": "the wave / the current",
+          "meaning_kn": "ಅಲೆಯನ್ನು / ಪ್ರವಾಹವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒द्य",
+          "pada_kn": "ಅದ್ಯ",
+          "meaning_en": "today / now",
+          "meaning_kn": "ಇಂದು / ಈಗ"
+        },
+        {
+          "pada_original": "सु॒ऽह॒स्ताः॒",
+          "pada_kn": "ಸುಹಸ್ತಾಃ",
+          "meaning_en": "O good-handed ones / O skillful ones",
+          "meaning_kn": "ಓ ಉತ್ತಮ ಕೈಗಳುಳ್ಳವರೇ / ಓ ನಿಪುಣರೇ"
+        }
+      ],
+      "full_meaning_en": "O Adhvaryus (priests), being possessors of oblations, indeed you have become pure and free from defects; desiring to obtain what is desirable, and having good hands; the red-colored Suparna (sun), looks over what is happening, let the wave carry that oblation today!",
+      "full_meaning_kn": "ಓ ಅಧ್ವರ್ಯುಗಳೇ (ಪುರೋಹಿತರೇ), ಹವಿಸ್ಸುಗಳನ್ನು ಹೊಂದಿರುವವರಾಗಿ, ನೀವು ಶುದ್ಧರೂ ದೋಷರಹಿತರೂ ಆಗಿದ್ದೀರಿ; ಅಪೇಕ್ಷಿತವಾದುದನ್ನು ಪಡೆಯಲು ಬಯಸುತ್ತೀರಿ, ಮತ್ತು ಒಳ್ಳೆಯ ಕೈಗಳನ್ನು ಹೊಂದಿರುವವರಾಗಿದ್ದೀರಿ; ಕೆಂಪು ಬಣ್ಣದ ಸುಪರ್ಣನು (ಸೂರ್ಯ), ಏನು ನಡೆಯುತ್ತಿದೆ ಎಂಬುದನ್ನು ನೋಡುತ್ತಾನೆ, ಆ ಹವಿಸ್ಸನ್ನು ಇಂದು ತರಂಗವು ಸಾಗಿಸಲಿ!",
+      "rig_time_s": 15.317,
+      "Insight_en": "This mantra speaks to the purification and dedication required in ritualistic practice. The Adhvaryus, possessing oblations (हविष्मन्तो), are purified and free from defects, indicating a state of readiness and spiritual purity essential for conducting sacred rituals. Their desire to obtain what is desirable signifies a focus on achieving higher spiritual goals through the ritual. The mention of Suparna (सुपर्ण), the red-colored sun, looking over events, suggests a divine witness to the proceedings. The wave carrying the oblation symbolizes the transport of offerings to the divine realm, emphasizing the connection between the earthly and cosmic dimensions. Ultimately, this verse underscores the transformative power of ritual when performed with purity, desire, and divine awareness.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಆಚರಣಾತ್ಮಕ ಅಭ್ಯಾಸದಲ್ಲಿ ಅಗತ್ಯವಿರುವ ಶುದ್ಧೀಕರಣ ಮತ್ತು ಸಮರ್ಪಣೆಯನ್ನು ಕುರಿತು ಮಾತನಾಡುತ್ತದೆ. ಹವಿಸ್ಸುಗಳನ್ನು ಹೊಂದಿರುವ ಅಧ್ವರ್ಯುಗಳು ಶುದ್ಧರಾಗಿ ದೋಷರಹಿತರಾಗುತ್ತಾರೆ. ಇದು ಪವಿತ್ರ ಆಚರಣೆಗಳನ್ನು ನಡೆಸಲು ಅಗತ್ಯವಾದ ಸಿದ್ಧತೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಶುದ್ಧತೆಯ ಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಪೇಕ್ಷಿತವಾದುದನ್ನು ಪಡೆಯುವ ಅವರ ಬಯಕೆಯು ಆಚರಣೆಯ ಮೂಲಕ ಉನ್ನತ ಆಧ್ಯಾತ್ಮಿಕ ಗುರಿಗಳನ್ನು ಸಾಧಿಸುವತ್ತ ಗಮನ ಹರಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಕೆಂಪು ಬಣ್ಣದ ಸೂರ್ಯನಾದ ಸುಪರ್ಣನು ಘಟನೆಗಳನ್ನು ನೋಡುತ್ತಿರುವುದು, ದೈವಿಕ ಸಾಕ್ಷಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ತರಂಗವು ಹವಿಸ್ಸನ್ನು ಸಾಗಿಸುವುದು, ಭೂಮಿಯ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಆಯಾಮಗಳ ನಡುವಿನ ಸಂಪರ್ಕವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಒಟ್ಟಾರೆಯಾಗಿ, ಈ ಪದ್ಯವು ಶುದ್ಧತೆ, ಬಯಕೆ ಮತ್ತು ದೈವಿಕ ಅರಿವಿನಿಂದ ಮಾಡಿದಾಗ ಆಚರಣೆಯ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-3_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 3,
+      "rig_lines": [
+        "अध्व᳚र्यवो॒ऽप इ॑ता समु॒द्रम॒पां नपा᳚तं ह॒विषा᳚ यजध्वम् |",
+        "स वो᳚ दददू॒र्मिम॒द्या सुपू᳚तं॒ तस्मै॒ सोमं॒ मधु॑मन्तं सुनोत ||"
+      ],
+      "pre_splits": [
+        "अध्व᳚र्यवः",
+        "अ॒पः",
+        "इ॒त॒",
+        "स॒मु॒द्र‌म्",
+        "अ॒पा‌म्",
+        "नपा᳚त‌म्",
+        "ह॒विषा᳚",
+        "य॒ज॒ध्व॒‌म्",
+        "सः",
+        "वः॒",
+        "द॒द॒त्",
+        "ऊ॒र्मि‌म्",
+        "अ॒द्य",
+        "सुऽपू᳚त‌म्",
+        "तस्मै᳚",
+        "सोम᳚‌म्",
+        "मधु॑ऽमन्त‌म्",
+        "सु॒नो॒त॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अध्व᳚र्यवः",
+          "pada_kn": "ಅಧ್ವರ್ಯವಃ",
+          "meaning_en": "O Adhvaryu priests!",
+          "meaning_kn": "ಓ ಅಧ್ವರ್ಯುಗಳೇ!"
+        },
+        {
+          "pada_original": "अ॒पः",
+          "pada_kn": "ಅಪಃ",
+          "meaning_en": "to the waters",
+          "meaning_kn": "ನೀರುಗಳ ಬಳಿಗೆ"
+        },
+        {
+          "pada_original": "इ॒त॒",
+          "pada_kn": "ಇತ",
+          "meaning_en": "go",
+          "meaning_kn": "ಹೋಗಿರಿ"
+        },
+        {
+          "pada_original": "स॒मु॒द्र‌म्",
+          "pada_kn": "ಸಮುದ್ರಮ್",
+          "meaning_en": "the ocean (of waters)",
+          "meaning_kn": "ಸಮುದ್ರವನ್ನು (ನೀರಿನ ಸಮೂಹವನ್ನು)"
+        },
+        {
+          "pada_original": "अ॒पा‌म्",
+          "pada_kn": "ಅಪಾಮ್",
+          "meaning_en": "of the waters",
+          "meaning_kn": "ನೀರುಗಳ"
+        },
+        {
+          "pada_original": "नपा᳚त‌म्",
+          "pada_kn": "ನಪಾತಮ್",
+          "meaning_en": "the descendant (Apam Napat)",
+          "meaning_kn": "ಪುತ್ರನನ್ನು/ಮೊಮ್ಮಗನನ್ನು (ಅಪಾಂ ನಪಾತ್)"
+        },
+        {
+          "pada_original": "ह॒विषा᳚",
+          "pada_kn": "ಹವಿಷಾ",
+          "meaning_en": "with oblation",
+          "meaning_kn": "ಹವಿಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "य॒ज॒ध्व॒‌म्",
+          "pada_kn": "ಯಜಧ್ವಮ್",
+          "meaning_en": "worship",
+          "meaning_kn": "ಯಜ್ಞ ಮಾಡಿರಿ/ಪೂಜಿಸಿರಿ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He (Apam Napat)",
+          "meaning_kn": "ಅವನು (ಅಪಾಂ ನಪಾತ್)"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "to you",
+          "meaning_kn": "ನಿಮಗೆ"
+        },
+        {
+          "pada_original": "द॒द॒त्",
+          "pada_kn": "ದದತ್",
+          "meaning_en": "may give",
+          "meaning_kn": "ಕೊಡಲಿ"
+        },
+        {
+          "pada_original": "ऊ॒र्मि‌म्",
+          "pada_kn": "ಊರ್ಮಿಮ್",
+          "meaning_en": "the stream/wave",
+          "meaning_kn": "ಪ್ರವಾಹವನ್ನು/ಅಲೆಯನ್ನು"
+        },
+        {
+          "pada_original": "अ॒द्य",
+          "pada_kn": "ಅದ್ಯ",
+          "meaning_en": "today",
+          "meaning_kn": "ಇಂದು"
+        },
+        {
+          "pada_original": "सुऽपू᳚त‌म्",
+          "pada_kn": "ಸುಪೂತಮ್",
+          "meaning_en": "well-purified",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ ಶುದ್ಧೀಕರಿಸಿದ"
+        },
+        {
+          "pada_original": "तस्मै᳚",
+          "pada_kn": "ತಸ್ಮೈ",
+          "meaning_en": "to him",
+          "meaning_kn": "ಅವನಿಗೆ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "मधु॑ऽमन्त‌म्",
+          "pada_kn": "ಮಧುಮನ್ತಮ್",
+          "meaning_en": "sweet",
+          "meaning_kn": "ಮಧುರವಾದ"
+        },
+        {
+          "pada_original": "सु॒नो॒त॒",
+          "pada_kn": "ಸುನೋತ",
+          "meaning_en": "press out",
+          "meaning_kn": "ಹಿಂಡಿರಿ"
+        }
+      ],
+      "full_meaning_en": "O Adhvaryus (priests), bring forward the waters (for oblation); worship Apam Napat (the offspring of the waters, a form of Agni) with oblations offered into the sea. May he grant you today a purified wave; for him press out the Soma, full of sweetness.",
+      "full_meaning_kn": "ಓ ಅಧ್ವರ್ಯುಗಳೇ, ನೀರಿನ ಅರ್ಪಣೆಗಾಗಿ ನೀರನ್ನು ಮುಂದೆ ತನ್ನಿ; ಅಪಾಮ್ ನಪಾತ್ (ನೀರಿನ ಸಂತತಿ, ಅಗ್ನಿಯ ಒಂದು ರೂಪ) ಸಮುದ್ರಕ್ಕೆ ಅರ್ಪಿಸಿದ ಅರ್ಪಣೆಗಳೊಂದಿಗೆ ಪೂಜಿಸಿ. ಅವನು ನಿಮಗೆ ಇಂದು ಶುದ್ಧೀಕರಿಸಿದ ಅಲೆಯನ್ನು ನೀಡಲಿ; ಆತನಿಗೆ ಸಿಹಿಯಿಂದ ತುಂಬಿದ ಸೋಮವನ್ನು ಹಿಂಡಿ.",
+      "rig_time_s": 30.499,
+      "Insight_en": "This mantra invokes Apam Napat (अपां नपात्), a manifestation of Agni (अग्नि) residing in the waters, symbolizing the divine energy present in the cosmic ocean. The priests are urged to offer oblations into the sea, signifying the act of nourishing this divine force. The purified wave requested represents spiritual purification and the blessings derived from connecting with the divine. Offering sweet Soma symbolizes devotion and the desire for spiritual fulfillment, leading to inner bliss and liberation (मोक्ष).",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಪಾಮ್ ನಪಾತ್ ಅನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತದೆ, ಇದು ನೀರಿನಲ್ಲಿ ನೆಲೆಸಿರುವ ಅಗ್ನಿಯ ಅಭಿವ್ಯಕ್ತಿಯಾಗಿದೆ, ಇದು ಕಾಸ್ಮಿಕ್ ಸಾಗರದಲ್ಲಿರುವ ದೈವಿಕ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಅರ್ಚಕರು ಸಮುದ್ರಕ್ಕೆ ಅರ್ಪಣೆಗಳನ್ನು ನೀಡುವಂತೆ ಒತ್ತಾಯಿಸಲಾಗಿದೆ, ಇದು ಈ ದೈವಿಕ ಶಕ್ತಿಯನ್ನು ಪೋಷಿಸುವ ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಕೋರಿದ ಶುದ್ಧೀಕರಿಸಿದ ಅಲೆಯು ಆಧ್ಯಾತ್ಮಿಕ ಶುದ್ಧೀಕರಣ ಮತ್ತು ದೈವಿಕತೆಯೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸುವುದರಿಂದ ಪಡೆದ ಆಶೀರ್ವಾದಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಸಿಹಿ ಸೋಮವನ್ನು ಅರ್ಪಿಸುವುದು ಭಕ್ತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ತೃಪ್ತಿಗಾಗಿ ಬಯಕೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಆಂತರಿಕ ಆನಂದ ಮತ್ತು ಬಿಡುಗಡೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-4_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 4,
+      "rig_lines": [
+        "यो, अ॑नि॒ध्मो दीद॑यद॒प्स्व१॑(अ॒)न्तर्यं विप्रा᳚स॒ ईळ॑ते, अध्व॒रेषु॑ |",
+        "अपां᳚ नपा॒न्मधु॑मतीर॒पो दा॒ याभि॒रिन्द्रो᳚ वावृ॒धे वी॒र्या᳚य ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "अ॒नि॒ध्मः",
+        "दीद॑यत्",
+        "अ॒प्ऽसु",
+        "अ॒न्तः",
+        "य‌म्",
+        "विप्रा᳚सः",
+        "ईळ॑ते",
+        "अ॒ध्व॒रेषु॑",
+        "अपा᳚‌म्",
+        "न॒पा॒त्",
+        "मधु॑ऽमतीः",
+        "अ॒पः",
+        "दाः॒",
+        "याभिः॑",
+        "इन्द्रः॑",
+        "व॒वृ॒धे",
+        "वी॒र्या᳚य"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who / He who",
+          "meaning_kn": "ಯಾರು / ಯಾವನು"
+        },
+        {
+          "pada_original": "अ॒नि॒ध्मः",
+          "pada_kn": "ಅನಿಧ್ಮಃ",
+          "meaning_en": "without fuel / self-luminous",
+          "meaning_kn": "ಇಂಧನವಿಲ್ಲದೆ / ಸ್ವಯಂ ಪ್ರಕಾಶಿಸುವ"
+        },
+        {
+          "pada_original": "दीद॑यत्",
+          "pada_kn": "ದೀದಯತ್",
+          "meaning_en": "shines / blazes",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತಾನೆ / ಬೆಳಗುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "अ॒प्ऽसु",
+          "pada_kn": "ಅಪ್ಸು",
+          "meaning_en": "in the waters",
+          "meaning_kn": "ಜಲಗಳಲ್ಲಿ / ನೀರುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒न्तः",
+          "pada_kn": "ಅಂತಃ",
+          "meaning_en": "within / inside",
+          "meaning_kn": "ಒಳಗೆ / ಮಧ್ಯೆ"
+        },
+        {
+          "pada_original": "य‌म्",
+          "pada_kn": "ಯಮ್",
+          "meaning_en": "whom",
+          "meaning_kn": "ಯಾರನ್ನು"
+        },
+        {
+          "pada_original": "विप्रा᳚सः",
+          "pada_kn": "ವಿಪ್ರಾಸಃ",
+          "meaning_en": "the wise ones / inspired priests",
+          "meaning_kn": "ಜ್ಞಾನಿಗಳು / ಪ್ರೇರಿತ ಋತ್ವಿಜರು"
+        },
+        {
+          "pada_original": "ईळ॑ते",
+          "pada_kn": "ಈಳತೇ",
+          "meaning_en": "praise / extol",
+          "meaning_kn": "ಸ್ತುತಿಸುತ್ತಾರೆ / ಹೊಗಳುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒रेषु॑",
+          "pada_kn": "ಅಧ್ವರೇಷು",
+          "meaning_en": "in the sacrifices / rituals",
+          "meaning_kn": "ಯಜ್ಞಗಳಲ್ಲಿ / ಕರ್ಮಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अपा᳚‌म्",
+          "pada_kn": "ಅಪಾಮ್",
+          "meaning_en": "of the waters",
+          "meaning_kn": "ಜಲಗಳ / ನೀರುಗಳ"
+        },
+        {
+          "pada_original": "न॒पा॒त्",
+          "pada_kn": "ನಪಾತ್",
+          "meaning_en": "son / offspring (O Son of Waters)",
+          "meaning_kn": "ಪುತ್ರನೇ / ಸಂತಾನವೇ (ಓ ಜಲಪುತ್ರನೇ)"
+        },
+        {
+          "pada_original": "मधु॑ऽमतीः",
+          "pada_kn": "ಮಧುಮತೀಃ",
+          "meaning_en": "sweet / honey-filled",
+          "meaning_kn": "ಮಧುರವಾದ / ಜೇನುತುಪ್ಪದಂತಹ"
+        },
+        {
+          "pada_original": "अ॒पः",
+          "pada_kn": "ಅಪಃ",
+          "meaning_en": "waters",
+          "meaning_kn": "ಜಲಗಳನ್ನು / ನೀರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "दाः॒",
+          "pada_kn": "ದಾಃ",
+          "meaning_en": "bestow / give",
+          "meaning_kn": "ನೀಡು / ದಯಪಾಲಿಸು"
+        },
+        {
+          "pada_original": "याभिः॑",
+          "pada_kn": "ಯಾಭಿಃ",
+          "meaning_en": "by which / with which",
+          "meaning_kn": "ಯಾವುಗಳಿಂದ / ಯಾವುದರಿಂದ"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "व॒वृ॒धे",
+          "pada_kn": "ವವೃಧೇ",
+          "meaning_en": "grew / was strengthened",
+          "meaning_kn": "ಬೆಳೆದನು / ಬಲಗೊಂಡನು"
+        },
+        {
+          "pada_original": "वी॒र्या᳚य",
+          "pada_kn": "ವೀರ್ಯಾಯ",
+          "meaning_en": "for strength / for valor",
+          "meaning_kn": "ಶಕ್ತಿಗಾಗಿ / ಪರಾಕ್ರಮಕ್ಕಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O Agni, who, without fuel, shines within the waters, whom the wise invoke in the sacrifices, O Apam Napat, grant us the sweet waters by which Indra grew in strength.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ಇಂಧನವಿಲ್ಲದೆ ನೀರಿನಲ್ಲಿ ಹೊಳೆಯುವವನೇ, ಯಾವನನ್ನು ಜ್ಞಾನಿಗಳು ಯಜ್ಞಗಳಲ್ಲಿ ಆಹ್ವಾನಿಸುತ್ತಾರೋ, ಎಲೈ ಅಪಾಂ ನಪಾತ್, ಇಂದ್ರನು ಶಕ್ತಿಯಿಂದ ಬೆಳೆಯಲು ಯಾವ ಸಿಹಿ ನೀರು ಕಾರಣವೋ ಅದನ್ನು ನಮಗೆ ದಯಪಾಲಿಸು.",
+      "rig_time_s": 45.077,
+      "Insight_en": "This mantra praises अग्नि (Agni) as present even without fuel, indicating the omnipresent nature of the divine. He dwells within the waters (अप्स्व१॑(अ॒)न्त:) suggesting the life-giving essence of creation and sustenance. The invocation by विप्रास (viprās), the wise, highlights the importance of knowledge in realizing अग्नि. Apam Napat, as a form of अग्नि, grants sweet waters which symbolize the nourishing and invigorating aspect of divine grace, enabling Indra, representing the individual soul, to grow in strength (वी॒र्या᳚य) towards self-realization. The sweetness of the water also represents the bliss of liberation.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯನ್ನು ಸ್ತುತಿಸುತ್ತದೆ, ಅವನು ಇಂಧನವಿಲ್ಲದೆಯೂ ಪ್ರಕಾಶಿಸುತ್ತಾನೆ, ಇದು ದೈವತ್ವದ ಸರ್ವವ್ಯಾಪಕ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅವನು ನೀರಿನಲ್ಲಿ ವಾಸಿಸುತ್ತಾನೆ, ಇದು ಸೃಷ್ಟಿ ಮತ್ತು ಪೋಷಣೆಯ ಜೀವ ನೀಡುವ ಸಾರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವಿಪ್ರಾಸ್ ಎಂದರೆ ಜ್ಞಾನಿಗಳು, ಅಗ್ನಿಯನ್ನು ಅರಿಯುವಲ್ಲಿ ಜ್ಞಾನದ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತಾರೆ. ಅಪಾಂ ನಪಾತ್, ಅಗ್ನಿಯ ಒಂದು ರೂಪವಾಗಿ, ಸಿಹಿ ನೀರನ್ನು ನೀಡುತ್ತಾನೆ, ಇದು ದೈವಿಕ ಕೃಪೆಯ ಪೋಷಣೆ ಮತ್ತು ಚೈತನ್ಯದಾಯಕ ಅಂಶವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಇಂದ್ರನನ್ನು ಪ್ರತಿನಿಧಿಸುವ ವೈಯಕ್ತಿಕ ಆತ್ಮವು ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ಬಲಗೊಳ್ಳಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ನೀರಿನ ಸಿಹಿಯು ವಿಮೋಚನೆಯ ಆನಂದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-5_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 5,
+      "rig_lines": [
+        "याभिः॒ सोमो॒ मोद॑ते॒ हर्ष॑ते च कल्या॒णीभि᳚र्युव॒तिभि॒र्न मर्यः॑ |",
+        "ता, अ॑ध्वर्यो, अ॒पो, अच्छा॒ परे᳚हि॒ यदा᳚सि॒ञ्चा, ओष॑धीभिः पुनीतात् ||"
+      ],
+      "pre_splits": [
+        "याभिः॑",
+        "सोमः॑",
+        "मोद॑ते",
+        "हर्ष॑ते",
+        "च॒",
+        "क॒ल्या॒णीभिः॑",
+        "यु॒व॒तिऽभिः॑",
+        "न",
+        "मर्यः॑",
+        "ताः",
+        "अ॒ध्व॒र्यो॒ इति॑",
+        "अ॒पः",
+        "अच्छ॑",
+        "परा᳚",
+        "इ॒हि॒",
+        "यत्",
+        "आ॒ऽसिं॒चाः",
+        "ओष॑धीभिः",
+        "पु॒नी॒ता॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "याभिः॑",
+          "pada_kn": "ಯಾಭಿಃ",
+          "meaning_en": "by which (waters)",
+          "meaning_kn": "ಯಾವ (ನೀರುಗಳಿಂದ)"
+        },
+        {
+          "pada_original": "सोमः॑",
+          "pada_kn": "ಸೋಮಃ",
+          "meaning_en": "Soma (juice)",
+          "meaning_kn": "ಸೋಮ (ರಸ)"
+        },
+        {
+          "pada_original": "मोद॑ते",
+          "pada_kn": "ಮೋದತೇ",
+          "meaning_en": "rejoices / delights",
+          "meaning_kn": "ಸಂತೋಷಪಡುತ್ತದೆ / ಆನಂದಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "हर्ष॑ते",
+          "pada_kn": "ಹರ್ಷತೇ",
+          "meaning_en": "becomes exhilarated / gladdened",
+          "meaning_kn": "ಉಲ್ಲಾಸಗೊಳ್ಳುತ್ತದೆ / ಹರ್ಷಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "क॒ल्या॒णीभिः॑",
+          "pada_kn": "ಕಲ್ಯಾಣೀಭಿಃ",
+          "meaning_en": "with auspicious / beautiful (maidens)",
+          "meaning_kn": "ಶುಭಕರವಾದ / ಸುಂದರವಾದ (ಯುವತಿಯರಿಂದ)"
+        },
+        {
+          "pada_original": "यु॒व॒तिऽभिः॑",
+          "pada_kn": "ಯುವತಿಭಿಃ",
+          "meaning_en": "with young women / maidens",
+          "meaning_kn": "ಯುವತಿಯರಿಂದ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ದಂತೆ"
+        },
+        {
+          "pada_original": "मर्यः॑",
+          "pada_kn": "ಮರ್ಯಃ",
+          "meaning_en": "a man / mortal",
+          "meaning_kn": "ಒಬ್ಬ ಮನುಷ್ಯನು / ಮರ್ತ್ಯನು"
+        },
+        {
+          "pada_original": "ताः",
+          "pada_kn": "ತಾಃ",
+          "meaning_en": "those (waters)",
+          "meaning_kn": "ಆ (ನೀರುಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "अ॒ध्व॒र्यो॒ इति॑",
+          "pada_kn": "ಅಧ್ವರ್ಯೋ ಇತಿ",
+          "meaning_en": "O Adhvaryu (priest)",
+          "meaning_kn": "ಓ ಅಧ್ವರ್ಯು"
+        },
+        {
+          "pada_original": "अ॒पः",
+          "pada_kn": "ಅಪಃ",
+          "meaning_en": "waters",
+          "meaning_kn": "ನೀರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अच्छ॑",
+          "pada_kn": "ಅಚ್ಛ",
+          "meaning_en": "towards / to",
+          "meaning_kn": "ಕಡೆಗೆ / ಬಳಿಗೆ"
+        },
+        {
+          "pada_original": "परा᳚",
+          "pada_kn": "ಪರಾ",
+          "meaning_en": "forth / away",
+          "meaning_kn": "ಮುಂದೆ / ದೂರ"
+        },
+        {
+          "pada_original": "इ॒हि॒",
+          "pada_kn": "ಇಹಿ",
+          "meaning_en": "go",
+          "meaning_kn": "ಹೋಗು"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / so that",
+          "meaning_kn": "ಯಾವಾಗ / ಆದ್ದರಿಂದ"
+        },
+        {
+          "pada_original": "आ॒ऽसिं॒चाः",
+          "pada_kn": "ಆಸಿಂಚಾಃ",
+          "meaning_en": "you pour / sprinkle",
+          "meaning_kn": "ನೀನು ಸುರಿಯುವೆ / ಸಿಂಪಡಿಸುವೆ"
+        },
+        {
+          "pada_original": "ओष॑धीभिः",
+          "pada_kn": "ಓಷಧೀಭಿಃ",
+          "meaning_en": "with herbs / plants",
+          "meaning_kn": "ಓಷಧಿಗಳಿಂದ / ಸಸ್ಯಗಳಿಂದ"
+        },
+        {
+          "pada_original": "पु॒नी॒ता॒त्",
+          "pada_kn": "ಪುನೀತಾದ್",
+          "meaning_en": "may you purify / cleanse",
+          "meaning_kn": "ನೀನು ಶುದ್ಧೀಕರಿಸು / ಪವಿತ್ರಗೊಳಿಸು"
+        }
+      ],
+      "full_meaning_en": "O Adhvaryu, proceed towards those waters with which Soma delights and rejoices, like a man with auspicious young women. When you pour, may it (the water) purify (the Soma) with herbs.",
+      "full_meaning_kn": "ಓ ಅಧ್ವರ್ಯು, ಯಾವ ಜಲಗಳಿಂದ ಸೋಮನು ಸಂತೋಷಪಡುತ್ತಾನೋ ಮತ್ತು ಆನಂದಿಸುತ್ತಾನೋ, ಶುಭಕರ ಯುವತಿಯರೊಂದಿಗೆ ಒಬ್ಬ ಮನುಷ್ಯನಂತೆ, ಆ ಜಲಗಳ ಕಡೆಗೆ ಸಾಗು. ನೀನು ಸುರಿಯುವಾಗ, ಅದು (ನೀರು) ಗಿಡಮೂಲಿಕೆಗಳಿಂದ (ಸೋಮವನ್ನು) ಶುದ್ಧೀಕರಿಸಲಿ.",
+      "rig_time_s": 61.414,
+      "Insight_en": "This mantra speaks of the purification of Soma, symbolizing the purification of the mind. The waters, associated with joy and auspiciousness, represent the cleansing power of divine grace. The herbs (ओष॑धीभिः) further enhance this purification, signifying the healing and transformative aspects of spiritual practice. Just as Soma is purified for offering, our inner selves must be cleansed to receive divine knowledge. The Adhvaryu’s role highlights the importance of ritual action in facilitating this inner transformation. This process mirrors the journey of the individual soul towards self-realization, where impurities are removed to reveal the inherent divinity within, with अग्नि (Agni) as the divine witness.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸೋಮದ ಶುದ್ಧೀಕರಣದ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ, ಇದು ಮನಸ್ಸಿನ ಶುದ್ಧೀಕರಣವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸಂತೋಷ ಮತ್ತು ಮಂಗಳಕರತೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ನೀರು ದೈವಿಕ ಅನುಗ್ರಹದ ಶುದ್ಧೀಕರಣ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಗಿಡಮೂಲಿಕೆಗಳು (ಓಷ॑ಧೀಭಿಃ) ಈ ಶುದ್ಧೀಕರಣವನ್ನು ಮತ್ತಷ್ಟು ಹೆಚ್ಚಿಸುತ್ತವೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಗುಣಪಡಿಸುವ ಮತ್ತು ಪರಿವರ್ತಿಸುವ ಅಂಶಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅರ್ಪಣೆಗಾಗಿ ಸೋಮವನ್ನು ಶುದ್ಧೀಕರಿಸುವಂತೆಯೇ, ದೈವಿಕ ಜ್ಞಾನವನ್ನು ಪಡೆಯಲು ನಮ್ಮ ಒಳಗಿನ ಆತ್ಮಗಳನ್ನು ಶುದ್ಧೀಕರಿಸಬೇಕು. ಅಧ್ವರ್ಯುವಿನ ಪಾತ್ರವು ಈ ಆಂತರಿಕ ರೂಪಾಂತರವನ್ನು ಸುಗಮಗೊಳಿಸುವಲ್ಲಿ ಆಚರಣೆಯ ಮಹತ್ವವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಸ್ವಯಂ-ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ವೈಯಕ್ತಿಕ ಆತ್ಮದ ಪ್ರಯಾಣವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಅಂತರ್ಗತ ದೈವತ್ವವನ್ನು ಬಹಿರಂಗಪಡಿಸಲು ಕಲ್ಮಶಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-6_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 6,
+      "rig_lines": [
+        "ए॒वेद्यूने᳚ युव॒तयो᳚ नमन्त॒ यदी᳚मु॒शन्नु॑श॒तीरेत्यच्छ॑ |",
+        "सं जा᳚नते॒ मन॑सा॒ सं चि॑कित्रेऽध्व॒र्यवो᳚ धि॒षणाप॑श्च दे॒वीः ||"
+      ],
+      "pre_splits": [
+        "ए॒व",
+        "इत्",
+        "यूने᳚",
+        "यु॒व॒तयः॑",
+        "न॒म॒न्त॒",
+        "यत्",
+        "ई॒‌म्",
+        "उ॒शन्",
+        "उ॒ष॒तीः",
+        "एति॑",
+        "अच्छ॑",
+        "स‌म्",
+        "जा॒न॒ते॒",
+        "मन॑सा",
+        "स‌म्",
+        "चि॒कि॒त्रे॒",
+        "अ॒ध्व॒र्यवः॑",
+        "धि॒षणा᳚",
+        "आपः॑",
+        "च॒",
+        "दे॒वीः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ए॒व",
+          "pada_kn": "ಏವ",
+          "meaning_en": "Indeed / Thus",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಹೀಗೆಯೇ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "Just / Only",
+          "meaning_kn": "ಕೇವಲ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "यूने᳚",
+          "pada_kn": "ಯೂನೇ",
+          "meaning_en": "To the young one",
+          "meaning_kn": "ಯುವಕನಿಗೆ / ಯುವನಿಗೆ"
+        },
+        {
+          "pada_original": "यु॒व॒तयः॑",
+          "pada_kn": "ಯುವತಯಃ",
+          "meaning_en": "Young women",
+          "meaning_kn": "ಯುವತಿಯರು / ತರುಣಿಯರು"
+        },
+        {
+          "pada_original": "न॒म॒न्त॒",
+          "pada_kn": "ನಮಂತ",
+          "meaning_en": "They bow down / Incline",
+          "meaning_kn": "ಅವರು ಬಾಗುತ್ತಾರೆ / ವಂದಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "When / That",
+          "meaning_kn": "ಯಾವಾಗ / ಯಾವ ಕಾರಣದಿಂದ"
+        },
+        {
+          "pada_original": "ई॒‌म्",
+          "pada_kn": "ಈಮ್",
+          "meaning_en": "Him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "उ॒शन्",
+          "pada_kn": "ಉಶನ್",
+          "meaning_en": "Desiring (masculine)",
+          "meaning_kn": "ಬಯಸುತ್ತಾ / ಇಚ್ಛಿಸುತ್ತಾ (ಪುರುಷ)"
+        },
+        {
+          "pada_original": "उ॒ष॒तीः",
+          "pada_kn": "ಉಷತೀಃ",
+          "meaning_en": "Desiring (feminine, plural)",
+          "meaning_kn": "ಬಯಸುವವರನ್ನು / ಇಚ್ಛಿಸುವವರನ್ನು (ಸ್ತ್ರೀ)"
+        },
+        {
+          "pada_original": "एति॑",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "He goes / Approaches",
+          "meaning_kn": "ಅವನು ಹೋಗುತ್ತಾನೆ / ಬರುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "अच्छ॑",
+          "pada_kn": "ಅಚ್ಛ",
+          "meaning_en": "Towards / Near",
+          "meaning_kn": "ಕಡೆಗೆ / ಹತ್ತಿರ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "Together / Completely",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "जा॒न॒ते॒",
+          "pada_kn": "ಜಾನತೇ",
+          "meaning_en": "They know / Understand",
+          "meaning_kn": "ಅವರು ತಿಳಿಯುತ್ತಾರೆ / ಅರಿಯುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "With the mind",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "Together / Completely",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "चि॒कि॒त्रे॒",
+          "pada_kn": "ಚಿಕಿತ್ರೇ",
+          "meaning_en": "They perceive / Discern",
+          "meaning_kn": "ಅವರು ಗ್ರಹಿಸುತ್ತಾರೆ / ಅರಿತುಕೊಳ್ಳುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒र्यवः॑",
+          "pada_kn": "ಅಧ್ವರ್ಯವಃ",
+          "meaning_en": "Adhvaryu priests",
+          "meaning_kn": "ಅಧ್ವರ್ಯುಗಳು (ಋತ್ವಿಜರು)"
+        },
+        {
+          "pada_original": "धि॒षणा᳚",
+          "pada_kn": "ಧಿಷಣಾ",
+          "meaning_en": "Sacrificial speech / Intellect",
+          "meaning_kn": "ಯಜ್ಞದ ಮಾತು / ಬುದ್ಧಿ"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "Waters",
+          "meaning_kn": "ನೀರುಗಳು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "दे॒वीः",
+          "pada_kn": "ದೇವೀಃ",
+          "meaning_en": "Divine",
+          "meaning_kn": "ದೈವಿಕ / ದೇವತಾತ್ಮಕ"
+        }
+      ],
+      "full_meaning_en": "When the young maidens, desiring, approach desiringly and devoutly bow down to Him; then the Adhvaryus, the divine waters, knowing Him in their minds and perceiving Him, approach Him with their understanding.",
+      "full_meaning_kn": "ಯುವತಿಯರು ಇಚ್ಛಿಸುವವರಾಗಿ ಇಚ್ಛೆಯಿಂದ ಮತ್ತು ಭಕ್ತಿಯಿಂದ ಆತನಿಗೆ ನಮಸ್ಕರಿಸಿದಾಗ, ಅಧ್ವರ್ಯುಗಳು, ದೈವೀ ಜಲಗಳು, ತಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಆತನನ್ನು ತಿಳಿದು ಮತ್ತು ಗ್ರಹಿಸಿ, ತಮ್ಮ ತಿಳುವಳಿಕೆಯಿಂದ ಆತನನ್ನು ಸಮೀಪಿಸುತ್ತಾರೆ.",
+      "rig_time_s": 77.029,
+      "Insight_en": "This mantra speaks of the approach to the divine through devotion and understanding. The 'young maidens' (युवतयः) represent the aspirant's pure intentions and desires directed towards the divine. The Adhvaryus, representing the priests or those who perform the rituals, approach the deity with both intellect (मनसा) and intuition (धिषणा). The 'divine waters' (आपः) symbolize purification and the flow of divine grace. The mantra highlights the importance of both heartfelt devotion and intellectual understanding in realizing the divine presence. This underscores the synthesis of jnana (knowledge) and bhakti (devotion) in spiritual practice, leading to the perception of the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಭಕ್ತಿ ಮತ್ತು ತಿಳುವಳಿಕೆಯ ಮೂಲಕ ದೈವಿಕತೆಯನ್ನು ಸಮೀಪಿಸುವ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ. 'ಯುವತಿಯರು' ಆಕಾಂಕ್ಷಿಯ ಶುದ್ಧ ಉದ್ದೇಶಗಳನ್ನು ಮತ್ತು ದೈವಿಕ ಕಡೆಗೆ ನಿರ್ದೇಶಿಸಲಾದ ಬಯಕೆಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಅಧ್ವರ್ಯುಗಳು, ಅರ್ಚಕರು ಅಥವಾ ಆಚರಣೆಗಳನ್ನು ಮಾಡುವವರನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಅವರು ಬುದ್ಧಿವಂತಿಕೆ (ಮನಸಾ) ಮತ್ತು ಅಂತಃಪ್ರಜ್ಞೆ (ಧಿಷಣ) ಎರಡರೊಂದಿಗೆ ದೇವತೆಯನ್ನು ಸಮೀಪಿಸುತ್ತಾರೆ. 'ದೈವೀ ಜಲಗಳು' ಶುದ್ಧೀಕರಣ ಮತ್ತು ದೈವಿಕ ಅನುಗ್ರಹದ ಹರಿವನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ದೈವಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ಅರಿತುಕೊಳ್ಳಲು ಪ್ರಾಮಾಣಿಕ ಭಕ್ತಿ ಮತ್ತು ಬೌದ್ಧಿಕ ತಿಳುವಳಿಕೆ ಎರಡರ ಮಹತ್ವವನ್ನು ಮಂತ್ರವು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದಲ್ಲಿ ಜ್ಞಾನ ಮತ್ತು ಭಕ್ತಿಯ ಸಂಶ್ಲೇಷಣೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಇದು ದೈವಿಕ ಗ್ರಹಿಕೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-7_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 7,
+      "rig_lines": [
+        "यो वो᳚ वृ॒ताभ्यो॒, अकृ॑णोदु लो॒कं यो वो᳚ म॒ह्या, अ॒भिश॑स्ते॒रमु᳚ञ्चत् |",
+        "तस्मा॒, इन्द्रा᳚य॒ मधु॑मन्तमू॒र्मिं दे᳚व॒माद॑नं॒ प्र हि॑णोतनापः ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "वः॒",
+        "वृ॒ताभ्यः॑",
+        "अकृ॑णोत्",
+        "ऊँ॒ इति॑",
+        "लो॒क‌म्",
+        "यः",
+        "वः॒",
+        "म॒ह्याः",
+        "अ॒भिऽश॑स्तेः",
+        "अमुं᳚चत्",
+        "तस्मै᳚",
+        "इन्द्रा᳚य",
+        "मधु॑ऽमन्त‌म्",
+        "ऊ॒र्मि‌म्",
+        "दे॒व॒ऽमाद॑न‌म्",
+        "प्र",
+        "हि॒णो॒त॒न॒",
+        "आ॒पः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who (Indra)",
+          "meaning_kn": "ಯಾವನು (ಇಂದ್ರ)"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "For you (waters)",
+          "meaning_kn": "ನಿಮಗೆ (ನೀರುಗಳಿಗೆ)"
+        },
+        {
+          "pada_original": "वृ॒ताभ्यः॑",
+          "pada_kn": "ವೃತಾಭ್ಯಃ",
+          "meaning_en": "From being obstructed",
+          "meaning_kn": "ತಡೆಯಲ್ಪಟ್ಟಿದ್ದರಿಂದ / ಆವರಿಸಲ್ಪಟ್ಟಿದ್ದರಿಂದ"
+        },
+        {
+          "pada_original": "अकृ॑णोत्",
+          "pada_kn": "ಅಕೃಣೋತ್",
+          "meaning_en": "Made / Created",
+          "meaning_kn": "ಮಾಡಿದನು / ಸೃಷ್ಟಿಸಿದನು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊँ ಇತಿ",
+          "meaning_en": "Indeed / Verily (particle)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ (ಒಂದು ನಿಪಾತ)"
+        },
+        {
+          "pada_original": "लो॒क‌म्",
+          "pada_kn": "ಲೋಕಮ್",
+          "meaning_en": "Space / Place",
+          "meaning_kn": "ಸ್ಥಾನ / ಲೋಕ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who (Indra)",
+          "meaning_kn": "ಯಾವನು (ಇಂದ್ರ)"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "You (waters)",
+          "meaning_kn": "ನಿಮ್ಮನ್ನು (ನೀರುಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "म॒ह्याः",
+          "pada_kn": "ಮಹ್ಯಾಃ",
+          "meaning_en": "From great",
+          "meaning_kn": "ಮಹತ್ತಾದ"
+        },
+        {
+          "pada_original": "अ॒भिऽश॑स्तेः",
+          "pada_kn": "ಅಭಿಶಸ್ತೇಃ",
+          "meaning_en": "Calamity / Reproach",
+          "meaning_kn": "ಆಪತ್ತಿನಿಂದ / ನಿಂದೆಯಿಂದ"
+        },
+        {
+          "pada_original": "अमुं᳚चत्",
+          "pada_kn": "ಅಮುಂಚತ್",
+          "meaning_en": "Released",
+          "meaning_kn": "ಬಿಡುಗಡೆಗೊಳಿಸಿದನು"
+        },
+        {
+          "pada_original": "तस्मै᳚",
+          "pada_kn": "ತಸ್ಮೈ",
+          "meaning_en": "To him",
+          "meaning_kn": "ಅವನಿಗೆ"
+        },
+        {
+          "pada_original": "इन्द्रा᳚य",
+          "pada_kn": "ಇಂದ್ರಾಯ",
+          "meaning_en": "To Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಗೆ"
+        },
+        {
+          "pada_original": "मधु॑ऽमन्त‌म्",
+          "pada_kn": "ಮಧುಮನ್ತಮ್",
+          "meaning_en": "Sweet / Honey-like",
+          "meaning_kn": "ಮಧುರವಾದ / ಸಿಹಿಯಾದ"
+        },
+        {
+          "pada_original": "ऊ॒र्मि‌म्",
+          "pada_kn": "ಊರ್ಮಿಮ್",
+          "meaning_en": "Wave / Stream",
+          "meaning_kn": "ಅಲೆ / ಪ್ರವಾಹ"
+        },
+        {
+          "pada_original": "दे॒व॒ऽमाद॑न‌म्",
+          "pada_kn": "ದೇವಮಾದನಮ್",
+          "meaning_en": "Gladdening the gods",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು ಸಂತೋಷಪಡಿಸುವ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "Forth / Well",
+          "meaning_kn": "ಮುಂದೆ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "हि॒णो॒त॒न॒",
+          "pada_kn": "ಹಿಣೋತನ",
+          "meaning_en": "Send",
+          "meaning_kn": "ಕಳುಹಿಸಿ"
+        },
+        {
+          "pada_original": "आ॒पः",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "O Waters!",
+          "meaning_kn": "ಓ ನೀರುಗಳೇ!"
+        }
+      ],
+      "full_meaning_en": "O waters, He who made space for you, confined by obstacles, He who released you from the great curse; to that Indra offer this sweet wave, the food of the gods, offer it forth!",
+      "full_meaning_kn": "ಎಲೈ ನೀರುಗಳೇ, ಅಡಚಣೆಗಳಿಂದ ಸೀಮಿತವಾದ ನಿಮಗೆ ಯಾರು ಸ್ಥಳವನ್ನು ಮಾಡಿದನೋ, ಮಹಾ ಶಾಪದಿಂದ ನಿಮ್ಮನ್ನು ಯಾರು ಬಿಡುಗಡೆ ಮಾಡಿದನೋ, ಆ ಇಂದ್ರನಿಗೆ ಈ ಸಿಹಿ ಅಲೆಯನ್ನು, ದೇವತೆಗಳ ಆಹಾರವನ್ನು ಅರ್ಪಿಸಿರಿ!",
+      "rig_time_s": 93.128,
+      "Insight_en": "This mantra speaks of Indra's role as a liberator (मोचक). Indra, through his divine power, creates space (लोका) for the waters, which were constrained by obstacles (वृताभ्यो), symbolizing limitations or negativity. He also frees them from a great curse (अभि शस्ते), indicating redemption from past karmas or afflictions. Offering the sweet wave (मधु मन्तम उर्मीं) to Indra signifies gratitude and devotion, acknowledging him as the divine force that brings about freedom and sustenance (देवमादनं) in our lives. It reflects the journey of overcoming obstacles and achieving spiritual liberation through divine grace, acknowledging Indra as the remover of obstructions and the giver of nourishment.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಇಂದ್ರನ ಪಾತ್ರವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವವನಾಗಿ (ಮೋಚಕ) ಹೇಳುತ್ತದೆ. ಇಂದ್ರನು ತನ್ನ ದೈವಿಕ ಶಕ್ತಿಯಿಂದ, ಅಡಚಣೆಗಳಿಂದ (ವೃತಾಭ್ಯೋ) ನಿರ್ಬಂಧಿಸಲ್ಪಟ್ಟ ನೀರಿಗಾಗಿ ಸ್ಥಳವನ್ನು (ಲೋಕಾ) ಸೃಷ್ಟಿಸುತ್ತಾನೆ, ಇದು ಮಿತಿಗಳು ಅಥವಾ ನಕಾರಾತ್ಮಕತೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಹಿಂದಿನ ಕರ್ಮಗಳು ಅಥವಾ ಸಂಕಟಗಳಿಂದ ವಿಮೋಚನೆಯನ್ನು ಸೂಚಿಸುವ ಮಹಾ ಶಾಪದಿಂದಲೂ (ಅಭಿ ಶಸ್ತೆ) ಅವನು ಅವರನ್ನು ಮುಕ್ತಗೊಳಿಸುತ್ತಾನೆ. ಇಂದ್ರನಿಗೆ ಸಿಹಿ ಅಲೆಯನ್ನು (ಮಧು ಮಂತಮ ಊರ್ಮಿಂ) ಅರ್ಪಿಸುವುದು ಕೃತಜ್ಞತೆ ಮತ್ತು ಭಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅವನು ನಮ್ಮ ಜೀವನದಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಪೋಷಣೆಯನ್ನು (ದೇವಮಾದನಂ) ತರುವ ದೈವಿಕ ಶಕ್ತಿ ಎಂದು ಅಂಗೀಕರಿಸುತ್ತಾನೆ. ಇದು ದೈವಿಕ ಅನುಗ್ರಹದಿಂದ ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸುವ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ವಿಮೋಚನೆಯನ್ನು ಸಾಧಿಸುವ ಪ್ರಯಾಣವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ಇಂದ್ರನನ್ನು ಅಡೆತಡೆಗಳನ್ನು ತೆಗೆದುಹಾಕುವವನು ಮತ್ತು ಪೋಷಣೆಯನ್ನು ನೀಡುವವನಾಗಿ ಗುರುತಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-8_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 8,
+      "rig_lines": [
+        "प्रास्मै᳚ हिनोत॒ मधु॑मन्तमू॒र्मिं गर्भो॒ यो वः॑ सिन्धवो॒ मध्व॒ उत्सः॑ |",
+        "घृ॒तपृ॑ष्ठ॒मीड्य॑मध्व॒रेष्वापो᳚ रेवतीः शृणु॒ता हवं᳚ मे ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "अ॒स्मै॒",
+        "हि॒नो॒त॒",
+        "मधु॑ऽमन्त‌म्",
+        "ऊ॒र्मि‌म्",
+        "गर्भः॑",
+        "यः",
+        "वः॒",
+        "सि॒न्ध॒वः॒",
+        "मध्वः॑",
+        "उत्सः॑",
+        "घृ॒तऽपृ॑ष्ठ‌म्",
+        "ईड्य᳚‌म्",
+        "अ॒ध्व॒रेषु॑",
+        "आपः॑",
+        "रे॒व॒तीः॒",
+        "शृ॒णु॒त",
+        "हव᳚‌म्",
+        "मे॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒स्मै॒",
+          "pada_kn": "ಅಸ್ಮೈ",
+          "meaning_en": "to him (the embryo/fire)",
+          "meaning_kn": "ಅವನಿಗೆ (ಗರ್ಭಕ್ಕೆ/ಅಗ್ನಿಗೆ)"
+        },
+        {
+          "pada_original": "हि॒नो॒त॒",
+          "pada_kn": "ಹಿನೋತ",
+          "meaning_en": "send forth / offer",
+          "meaning_kn": "ಕಳುಹಿಸಿ / ಅರ್ಪಿಸಿ"
+        },
+        {
+          "pada_original": "मधु॑ऽमन्त‌म्",
+          "pada_kn": "ಮಧುಮನ್ತಮ್",
+          "meaning_en": "honey-containing / sweet",
+          "meaning_kn": "ಜೇನುತುಪ್ಪವುಳ್ಳ / ಸಿಹಿಯಾದ"
+        },
+        {
+          "pada_original": "ऊ॒र्मि‌म्",
+          "pada_kn": "ಊರ್ಮಿಮ್",
+          "meaning_en": "wave / stream (of offering)",
+          "meaning_kn": "ಅಲೆ / ಪ್ರವಾಹ (ಅರ್ಪಣೆಯ)"
+        },
+        {
+          "pada_original": "गर्भः॑",
+          "pada_kn": "ಗರ್ಭಃ",
+          "meaning_en": "embryo / germ (Agni)",
+          "meaning_kn": "ಗರ್ಭ / ಶಿಶು (ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who / which",
+          "meaning_kn": "ಯಾರು / ಯಾವುದು"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "your (plural)",
+          "meaning_kn": "ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "सि॒न्ध॒वः॒",
+          "pada_kn": "ಸಿಂಧವಃ",
+          "meaning_en": "O Rivers / O Streams",
+          "meaning_kn": "ಓ ನದಿಗಳೇ / ಓ ಪ್ರವಾಹಗಳೇ"
+        },
+        {
+          "pada_original": "मध्वः॑",
+          "pada_kn": "ಮಧ್ವಃ",
+          "meaning_en": "of sweetness / of honey",
+          "meaning_kn": "ಮಾಧುರ್ಯದ / ಜೇನಿನ"
+        },
+        {
+          "pada_original": "उत्सः॑",
+          "pada_kn": "ಉತ್ಸಃ",
+          "meaning_en": "spring / source",
+          "meaning_kn": "ಚಿಲುಮೆ / ಮೂಲ"
+        },
+        {
+          "pada_original": "घृ॒तऽपृ॑ष्ठ‌म्",
+          "pada_kn": "ಘೃತಪೃಷ್ಠಮ್",
+          "meaning_en": "ghee-backed / shining with ghee",
+          "meaning_kn": "ತುಪ್ಪದ ಬೆನ್ನಿನ / ತುಪ್ಪದಿಂದ ಹೊಳೆಯುವ"
+        },
+        {
+          "pada_original": "ईड्य᳚‌म्",
+          "pada_kn": "ಈಡ್ಯಮ್",
+          "meaning_en": "praiseworthy / adorable",
+          "meaning_kn": "ಸ್ತುತ್ಯಾರ್ಹ / ಪೂಜ್ಯನೀಯ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒रेषु॑",
+          "pada_kn": "ಅಧ್ವರೇಷು",
+          "meaning_en": "in sacrifices / in rituals",
+          "meaning_kn": "ಯಜ್ಞಗಳಲ್ಲಿ / ಆಚರಣೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "O Waters",
+          "meaning_kn": "ಓ ಜಲಗಳೇ"
+        },
+        {
+          "pada_original": "रे॒व॒तीः॒",
+          "pada_kn": "ರೇವತೀಃ",
+          "meaning_en": "rich / abundant",
+          "meaning_kn": "ಸಮೃದ್ಧವಾದ / ಹೇರಳವಾದ"
+        },
+        {
+          "pada_original": "शृ॒णु॒त",
+          "pada_kn": "ಶೃಣುತ",
+          "meaning_en": "listen",
+          "meaning_kn": "ಕೇಳಿರಿ"
+        },
+        {
+          "pada_original": "हव᳚‌म्",
+          "pada_kn": "ಹವಮ್",
+          "meaning_en": "call / invocation",
+          "meaning_kn": "ಕರೆ / ಆಹ್ವಾನ"
+        },
+        {
+          "pada_original": "मे॒",
+          "pada_kn": "ಮೇ",
+          "meaning_en": "my",
+          "meaning_kn": "ನನ್ನ"
+        }
+      ],
+      "full_meaning_en": "Offer forth to Him, the impeller, the sweet wave, He who is your embryo, O rivers, the well-spring of honey; With buttered back, worthy to be praised in sacrifices, O waters, possessed of wealth, hear my invocation.",
+      "full_meaning_kn": "ಅವನಿಗೆ ಅರ್ಪಿಸಿರಿ, ಪ್ರೇರಿಸುವವನಿಗೆ, ಸಿಹಿ ಅಲೆಯನ್ನು, ನಿಮ್ಮ ಗರ್ಭವಾಗಿರುವವನಿಗೆ, ಎಲೈ ನದಿಗಳೇ, ಜೇನಿನ ಬುಗ್ಗೆಯಾಗಿರುವವನಿಗೆ; ತುಪ್ಪದ ಬೆನ್ನನ್ನು ಹೊಂದಿರುವ, ಯಜ್ಞಗಳಲ್ಲಿ ಸ್ತುತಿಸಲು ಯೋಗ್ಯನಾದ, ಎಲೈ ನೀರುಗಳೇ, ಸಂಪತ್ತನ್ನು ಹೊಂದಿರುವವರೇ, ನನ್ನ ಪ್ರಾರ್ಥನೆಯನ್ನು ಕೇಳಿ.",
+      "rig_time_s": 109.625,
+      "Insight_en": "This mantra invokes the divine waters (आपः), recognizing them as the source and womb of all creation. The \"sweet wave\" (मधुमन्तमूर्मिं) suggests the blissful and nourishing nature of these cosmic waters. Praising the waters with \"buttered back\" (घृ॒तपृ॑ष्ठ) indicates their purity and fitness for sacrifice (अध्वरेषु). By entreating the waters to hear the invocation (हवं), the seeker acknowledges their power to bestow wealth (रेवतीः) and fulfill desires. Spiritually, it symbolizes the purification and transformative power of divine grace, which originates from the ultimate source and nourishes the soul.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವೀ ಜಲಗಳನ್ನು (आपः) ಆಹ್ವಾನಿಸುತ್ತದೆ, ಅವುಗಳನ್ನು ಸೃಷ್ಟಿಯ ಮೂಲ ಮತ್ತು ಗರ್ಭವೆಂದು ಗುರುತಿಸುತ್ತದೆ. \"ಸಿಹಿ ಅಲೆ\" (मधुमन्तमूर्मिं) ಈ ಕಾಸ್ಮಿಕ್ ಜಲಗಳ ಆನಂದದಾಯಕ ಮತ್ತು ಪೌಷ್ಟಿಕ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ. \"ತುಪ್ಪದ ಬೆನ್ನನ್ನು\" (घृ॒तपृ॑ष्ठ) ಹೊಗಳಿಕೆಯೊಂದಿಗೆ ನೀರನ್ನು ಸ್ತುತಿಸುವುದು ಅವುಗಳ ಶುದ್ಧತೆ ಮತ್ತು ಯಜ್ಞಕ್ಕೆ (अध्वरेषु) ಅರ್ಹತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಪ್ರಾರ್ಥನೆಯನ್ನು (हवं) ಕೇಳಲು ನೀರನ್ನು ವಿನಂತಿಸುವ ಮೂಲಕ, ಸಾಧಕನು ಸಂಪತ್ತನ್ನು (रेवतीः) ನೀಡುವ ಮತ್ತು ಆಸೆಗಳನ್ನು ಪೂರೈಸುವ ಅವರ ಶಕ್ತಿಯನ್ನು ಅಂಗೀಕರಿಸುತ್ತಾನೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ದೈವಿಕ ಅನುಗ್ರಹದ ಶುದ್ಧೀಕರಣ ಮತ್ತು ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಅಂತಿಮ ಮೂಲದಿಂದ ಹುಟ್ಟಿಕೊಂಡಿದೆ ಮತ್ತು ಆತ್ಮವನ್ನು ಪೋಷಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-9_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 9,
+      "rig_lines": [
+        "तं सि᳚न्धवो मत्स॒रमि᳚न्द्र॒पान॑मू॒र्मिं प्र हे᳚त॒ य उ॒भे, इय॑र्ति |",
+        "म॒द॒च्युत॑मौशा॒नं न॑भो॒जां परि॑ त्रि॒तन्तुं᳚ वि॒चर᳚न्त॒मुत्स᳚म् ||"
+      ],
+      "pre_splits": [
+        "त‌म्",
+        "सि॒न्ध॒वः॒",
+        "म॒त्स॒र‌म्",
+        "इ॒न्द्र॒ऽपान᳚‌म्",
+        "ऊ॒र्मि‌म्",
+        "प्र",
+        "हे॒त॒",
+        "यः",
+        "उ॒भे इति॑",
+        "इय॑र्ति",
+        "म॒द॒ऽच्युत᳚‌म्",
+        "औ॒शा॒न‌म्",
+        "न॒भः॒ऽजा‌म्",
+        "परि॑",
+        "त्रि॒ऽतन्तु᳚‌म्",
+        "वि॒ऽचर᳚न्त‌म्",
+        "उत्स᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him / that",
+          "meaning_kn": "ಅವನನ್ನು / ಅದನ್ನು"
+        },
+        {
+          "pada_original": "सि॒न्ध॒वः॒",
+          "pada_kn": "ಸಿಂಧವಃ",
+          "meaning_en": "the rivers",
+          "meaning_kn": "ನದಿಗಳು"
+        },
+        {
+          "pada_original": "म॒त्स॒र‌म्",
+          "pada_kn": "ಮತ್ಸರಮ್",
+          "meaning_en": "exhilarating (drink)",
+          "meaning_kn": "ಹರ್ಷಗೊಳಿಸುವ (ಪಾನೀಯ)"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒ऽपान᳚‌म्",
+          "pada_kn": "ಇಂದ್ರಪಾನಮ್",
+          "meaning_en": "Indra's drink",
+          "meaning_kn": "ಇಂದ್ರನ ಪಾನೀಯ"
+        },
+        {
+          "pada_original": "ऊ॒र्मि‌म्",
+          "pada_kn": "ಊರ್ಮಿಮ್",
+          "meaning_en": "the wave",
+          "meaning_kn": "ಅಲೆ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "हे॒त॒",
+          "pada_kn": "ಹೇತ",
+          "meaning_en": "send / propel",
+          "meaning_kn": "ಕಳುಹಿಸುತ್ತವೆ / ತಳ್ಳುತ್ತವೆ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "which / who",
+          "meaning_kn": "ಯಾವುದು / ಯಾವನು"
+        },
+        {
+          "pada_original": "उ॒भे इति॑",
+          "pada_kn": "ಉಭೇ ಇತಿ",
+          "meaning_en": "both (heaven and earth)",
+          "meaning_kn": "ಎರಡನ್ನೂ (ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ)"
+        },
+        {
+          "pada_original": "इय॑र्ति",
+          "pada_kn": "ಇಯರ್ತಿ",
+          "meaning_en": "moves / causes to move",
+          "meaning_kn": "ಚಲಿಸುತ್ತದೆ / ಚಲಿಸುವಂತೆ ಮಾಡುತ್ತದೆ"
+        },
+        {
+          "pada_original": "म॒द॒ऽच्युत᳚‌म्",
+          "pada_kn": "ಮದಚ್ಯುತಮ್",
+          "meaning_en": "intoxicating / exhilarating",
+          "meaning_kn": "ಮದವನ್ನು ಉಂಟುಮಾಡುವ / ಹರ್ಷಗೊಳಿಸುವ"
+        },
+        {
+          "pada_original": "औ॒शा॒न‌म्",
+          "pada_kn": "ಔಶಾನಮ್",
+          "meaning_en": "desired / wished for",
+          "meaning_kn": "ಇಚ್ಛಿತವಾದ / ಬಯಸಿದ"
+        },
+        {
+          "pada_original": "न॒भः॒ऽजा‌म्",
+          "pada_kn": "ನಭೋಜಾಮ್",
+          "meaning_en": "born in the clouds",
+          "meaning_kn": "ಮೋಡಗಳಲ್ಲಿ ಹುಟ್ಟಿದ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / about",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "त्रि॒ऽतन्तु᳚‌म्",
+          "pada_kn": "ತ್ರಿತಂತುಮ್",
+          "meaning_en": "three-stranded (filter/ritual)",
+          "meaning_kn": "ಮೂರು ಎಳೆಗಳ (ಶೋಧಕ/ವಿಧಿ)"
+        },
+        {
+          "pada_original": "वि॒ऽचर᳚न्त‌म्",
+          "pada_kn": "ವಿಚರಂತಮ್",
+          "meaning_en": "moving / flowing",
+          "meaning_kn": "ಸಂಚರಿಸುವ / ಹರಿಯುವ"
+        },
+        {
+          "pada_original": "उत्स᳚‌म्",
+          "pada_kn": "ಉತ್ಸಮ್",
+          "meaning_en": "the spring / source",
+          "meaning_kn": "ಬುಗ್ಗೆ / ಮೂಲ"
+        }
+      ],
+      "full_meaning_en": "O rivers, impel forward that intoxicating wave, the drink of Indra, which stirs up both (banks); the exhilarating, lordly, sky-nourished, the abundant spring which moves around the triple thread of sacrifice.",
+      "full_meaning_kn": "ಓ ನದಿಗಳೇ, ಇಂದ್ರನ ಪಾನೀಯವಾದ, ಉಭಯ (ದಡ)ಗಳನ್ನು ಕಲಕುವ, ಉನ್ಮಾದಕರವಾದ ಅಲೆಯು ಮುಂದೆ ನೂಕಿರಿ; ಆನಂದದಾಯಕ, ಪ್ರಭುತ್ವವುಳ್ಳ, ಆಕಾಶದಿಂದ ಪೋಷಿಸಲ್ಪಟ್ಟ, ಯಜ್ಞದ ಮೂರು ಎಳೆಗಳ ಸುತ್ತ ಚಲಿಸುವ ಸಮೃದ್ಧ ವಸಂತ.",
+      "rig_time_s": 125.572,
+      "Insight_en": "This mantra speaks of the intoxicating wave, a metaphor for the divine ecstasy experienced through ritual and devotion to Indra. The rivers (सिन्धवः) represent the flow of consciousness, and the 'drink of Indra' symbolizes the divine nectar or soma. The wave that stirs up both banks signifies the transformative power of spiritual experience, affecting both the individual and the cosmos. The 'triple thread of sacrifice' refers to the three Vedas or the threefold nature of reality, around which this divine energy moves, indicating the pervasive and fundamental nature of this spiritual experience. The lordly and sky-nourished aspect suggests the elevated and divine origin of this bliss, accessible through dedicated practice.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಉನ್ಮಾದಕರವಾದ ಅಲೆಯನ್ನು ಕುರಿತು ಹೇಳುತ್ತದೆ, ಇದು ಆಚರಣೆ ಮತ್ತು ಇಂದ್ರನಿಗೆ ಭಕ್ತಿಯ ಮೂಲಕ ಅನುಭವಿಸುವ ದೈವಿಕ ಆನಂದದ ರೂಪಕವಾಗಿದೆ. ನದಿಗಳು (ಸಿಂಧವಃ) ಪ್ರಜ್ಞೆಯ ಹರಿವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ ಮತ್ತು 'ಇಂದ್ರನ ಪಾನೀಯ' ದೈವಿಕ ಅಮೃತ ಅಥವಾ ಸೋಮವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಎರಡೂ ದಡಗಳನ್ನು ಕಲಕುವ ಅಲೆಯು ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವದ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ವ್ಯಕ್ತಿ ಮತ್ತು ವಿಶ್ವ ಎರಡನ್ನೂ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ. 'ಯಜ್ಞದ ಮೂರು ಎಳೆಗಳು' ಮೂರು ವೇದಗಳನ್ನು ಅಥವಾ ವಾಸ್ತವದ ತ್ರಿವಿಧ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತವೆ, ಅದರ ಸುತ್ತ ಈ ದೈವಿಕ ಶಕ್ತಿಯು ಚಲಿಸುತ್ತದೆ, ಇದು ಈ ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವದ ವ್ಯಾಪಕ ಮತ್ತು ಮೂಲಭೂತ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಪ್ರಭುತ್ವ ಮತ್ತು ಆಕಾಶದಿಂದ ಪೋಷಿಸಲ್ಪಟ್ಟ ಅಂಶವು ಈ ಆನಂದದ ಉನ್ನತ ಮತ್ತು ದೈವಿಕ ಮೂಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಸಮರ್ಪಿತ ಅಭ್ಯಾಸದ ಮೂಲಕ ಲಭ್ಯವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-10_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 10,
+      "rig_lines": [
+        "आ॒वर्वृ॑तती॒रध॒ नु द्वि॒धारा᳚ गोषु॒युधो॒ न नि॑य॒वं चर᳚न्तीः |",
+        "ऋषे॒ जनि॑त्री॒र्भुव॑नस्य॒ पत्नी᳚र॒पो व᳚न्दस्व स॒वृधः॒ सयो᳚नीः ||"
+      ],
+      "pre_splits": [
+        "आ॒ऽवर्वृ॑ततीः",
+        "अध॑",
+        "नु",
+        "द्वि॒ऽधाराः᳚",
+        "गो॒षु॒ऽयुधः॑",
+        "न",
+        "नि॒ऽय॒व‌म्",
+        "चर᳚न्तीः",
+        "ऋषे᳚",
+        "जनि॑त्रीः",
+        "भुव॑नस्य",
+        "पत्नीः᳚",
+        "अ॒पः",
+        "व॒न्द॒स्व॒",
+        "स॒ऽवृधः॑",
+        "सऽयो᳚नीः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ॒ऽवर्वृ॑ततीः",
+          "pada_kn": "ಆವರ್ವೃತತೀಃ",
+          "meaning_en": "Constantly flowing / Revolving",
+          "meaning_kn": "ನಿರಂತರವಾಗಿ ಹರಿಯುವ / ಸುತ್ತುವ"
+        },
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "Then / Moreover",
+          "meaning_kn": "ಆಗ / ಮತ್ತು"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "Indeed / Now",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಈಗ"
+        },
+        {
+          "pada_original": "द्वि॒ऽधाराः᳚",
+          "pada_kn": "ದ್ವಿಧಾರಾಃ",
+          "meaning_en": "Having two streams/currents",
+          "meaning_kn": "ಎರಡು ಪ್ರವಾಹಗಳುಳ್ಳ"
+        },
+        {
+          "pada_original": "गो॒षु॒ऽयुधः॑",
+          "pada_kn": "ಗೋಷುಯುಧಃ",
+          "meaning_en": "Fighting for cows (like warriors) / Striving forcefully",
+          "meaning_kn": "ಗೋವುಗಳಿಗಾಗಿ ಹೋರಾಡುವ (ಯೋಧರಂತೆ) / ಬಲವಾಗಿ ಚಲಿಸುವ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "Like / As if",
+          "meaning_kn": "ಹಾಗೆ / ಎಂಬಂತೆ"
+        },
+        {
+          "pada_original": "नि॒ऽय॒व‌म्",
+          "pada_kn": "ನಿಯವಮ್",
+          "meaning_en": "Downward path/flow",
+          "meaning_kn": "ಕೆಳಮುಖವಾದ ಹರಿವು/ಮಾರ್ಗ"
+        },
+        {
+          "pada_original": "चर᳚न्तीः",
+          "pada_kn": "ಚರಂತೀಃ",
+          "meaning_en": "Moving / Flowing",
+          "meaning_kn": "ಚಲಿಸುವ / ಹರಿಯುವ"
+        },
+        {
+          "pada_original": "ऋषे᳚",
+          "pada_kn": "ಋಷೇ",
+          "meaning_en": "O Seer!",
+          "meaning_kn": "ಓ ಋಷಿಯೇ!"
+        },
+        {
+          "pada_original": "जनि॑त्रीः",
+          "pada_kn": "ಜನಿತ್ರೀಃ",
+          "meaning_en": "Mothers / Producers",
+          "meaning_kn": "ತಾಯಂದಿರು / ಉತ್ಪಾದಕರು"
+        },
+        {
+          "pada_original": "भुव॑नस्य",
+          "pada_kn": "ಭುವನಸ್ಯ",
+          "meaning_en": "Of the world / Of existence",
+          "meaning_kn": "ಲೋಕದ / ಅಸ್ತಿತ್ವದ"
+        },
+        {
+          "pada_original": "पत्नीः᳚",
+          "pada_kn": "ಪತ್ನೀಃ",
+          "meaning_en": "Mistresses / Sovereign ladies",
+          "meaning_kn": "ಒಡತಿಯರು / ಅಧಿಪತಿಗಳು"
+        },
+        {
+          "pada_original": "अ॒पः",
+          "pada_kn": "ಅಪಃ",
+          "meaning_en": "Waters",
+          "meaning_kn": "ನೀರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "व॒न्द॒स्व॒",
+          "pada_kn": "ವಂದಸ್ವ",
+          "meaning_en": "Worship / Praise",
+          "meaning_kn": "ಪೂಜಿಸು / ಸ್ತುತಿಸು"
+        },
+        {
+          "pada_original": "स॒ऽवृधः॑",
+          "pada_kn": "ಸವೃಧಃ",
+          "meaning_en": "Promoting growth / Conducive to prosperity",
+          "meaning_kn": "ವೃದ್ಧಿಯನ್ನುಂಟುಮಾಡುವ / ಸಮೃದ್ಧಿಯನ್ನು ನೀಡುವ"
+        },
+        {
+          "pada_original": "सऽयो᳚नीः",
+          "pada_kn": "ಸಯೋನೀಃ",
+          "meaning_en": "Having a common source / Of the same origin",
+          "meaning_kn": "ಒಂದೇ ಮೂಲವುಳ್ಳ / ಒಂದೇ ಯೋನಿಯಿಂದ ಬಂದ"
+        }
+      ],
+      "full_meaning_en": "The waters, which turn back and forth, now in two streams, moving like cows contending for pasture, without restraint; O sage, venerate the waters, the mothers of beings, the mistresses of the world, augmenting (prosperity), of the same origin.",
+      "full_meaning_kn": "ಹಿಂತಿರುಗುವ ಮತ್ತು ಮುಂದಕ್ಕೆ ಚಲಿಸುವ ನೀರುಗಳು, ಈಗ ಎರಡು ಪ್ರವಾಹಗಳಲ್ಲಿ, ಮೇವಿನ ಹುಲ್ಲುಗಾವಲುಗಾಗಿ ಹೋರಾಡುವ ಹಸುಗಳಂತೆ, ನಿರ್ಬಂಧವಿಲ್ಲದೆ ಚಲಿಸುತ್ತವೆ; ಓ ಋಷಿಯೇ, ಜೀವಿಗಳ ತಾಯಂದಿರಾದ, ಜಗತ್ತಿನ ಒಡತಿಯರಾದ, ಸಮೃದ್ಧಿಯನ್ನು ಹೆಚ್ಚಿಸುವ, ಒಂದೇ ಮೂಲದ ನೀರನ್ನು ಪೂಜಿಸು.",
+      "rig_time_s": 141.37,
+      "Insight_en": "This mantra from the Rig Veda speaks of the waters (आपः), not merely as physical entities, but as divine mothers (जनित्री) and mistresses of the world (भुवनस्य पत्नी). The image of cows contending for pasture symbolizes the dynamic and unrestrained nature of these life-giving waters. By venerating the waters, the sage acknowledges their fundamental role in creation and sustenance. The term सयोनीः, meaning 'of the same origin,' emphasizes the interconnectedness of all life through the elemental waters. Meditating on this mantra allows one to appreciate the sacredness inherent in water and its vital role in the cosmic order.",
+      "Insight_kn": "ಈ ಋಗ್ವೇದ ಮಂತ್ರವು ನೀರನ್ನು (आपः), ಕೇವಲ ಭೌತಿಕ ಅಸ್ತಿತ್ವಗಳಾಗಿ ಮಾತ್ರವಲ್ಲದೆ, ದೈವಿಕ ತಾಯಂದಿರು (जनित्री) ಮತ್ತು ಜಗತ್ತಿನ ಒಡತಿಯರು (भुवनस्य पत्नी) ಎಂದು ಹೇಳುತ್ತದೆ. ಹುಲ್ಲುಗಾವಲುಗಾಗಿ ಹೋರಾಡುವ ಹಸುಗಳ ಚಿತ್ರಣವು ಈ ಜೀವ ನೀಡುವ ನೀರಿನ ಕ್ರಿಯಾತ್ಮಕ ಮತ್ತು ಅನಿಯಂತ್ರಿತ ಸ್ವರೂಪವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ನೀರನ್ನು ಪೂಜಿಸುವ ಮೂಲಕ, ಋಷಿಯು ಸೃಷ್ಟಿ ಮತ್ತು ಪೋಷಣೆಯಲ್ಲಿ ಅವುಗಳ ಮೂಲಭೂತ ಪಾತ್ರವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾನೆ. ಸಯೋನೀಃ ಎಂಬ ಪದವು 'ಒಂದೇ ಮೂಲದ' ಎಂದು ಅರ್ಥೈಸುತ್ತದೆ, ಇದು ಮೂಲಭೂತ ನೀರಿನ ಮೂಲಕ ಎಲ್ಲಾ ಜೀವನದ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಈ ಮಂತ್ರದ ಮೇಲೆ ಧ್ಯಾನಿಸುವುದರಿಂದ ನೀರಿನಲ್ಲಿ ಅಂತರ್ಗತವಾಗಿರುವ ಪವಿತ್ರತೆಯನ್ನು ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಕ್ರಮದಲ್ಲಿ ಅದರ ಪ್ರಮುಖ ಪಾತ್ರವನ್ನು ಪ್ರಶಂಸಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-11_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 11,
+      "rig_lines": [
+        "हि॒नोता᳚ नो, अध्व॒रं दे᳚वय॒ज्या हि॒नोत॒ ब्रह्म॑ स॒नये॒ धना᳚नाम् |",
+        "ऋ॒तस्य॒ योगे॒ वि ष्य॑ध्व॒मूधः॑ श्रुष्टी॒वरी᳚र्भूतना॒स्मभ्य॑मापः ||"
+      ],
+      "pre_splits": [
+        "हि॒नोत॑",
+        "नः॒",
+        "अ॒ध्व॒र‌म्",
+        "दे॒व॒ऽय॒ज्या",
+        "हि॒नोत॑",
+        "ब्रह्म॑",
+        "स॒नये᳚",
+        "धना᳚ना‌म्",
+        "ऋ॒तस्य॑",
+        "योगे᳚",
+        "वि",
+        "स्य॒ध्व॒‌म्",
+        "ऊधः॑",
+        "श्रु॒ष्टी॒ऽवरीः᳚",
+        "भू॒त॒न॒",
+        "अ॒स्मभ्य᳚‌म्",
+        "आ॒पः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "हि॒नोत॑",
+          "pada_kn": "ಹಿನೋತ",
+          "meaning_en": "Impel / Further",
+          "meaning_kn": "ಪ್ರೇರೇಪಿಸಿ / ಮುಂದುವರಿಸಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Our / Us",
+          "meaning_kn": "ನಮ್ಮ / ನಮಗೆ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒र‌म्",
+          "pada_kn": "ಅಧ್ವರಮ್",
+          "meaning_en": "Sacrifice / Ritual",
+          "meaning_kn": "ಯಜ್ಞವನ್ನು / ಕರ್ಮವನ್ನು"
+        },
+        {
+          "pada_original": "दे॒व॒ऽय॒ज्या",
+          "pada_kn": "ದೇವಯಜ್ಯಾ",
+          "meaning_en": "By means of divine worship / Through sacrifice to gods",
+          "meaning_kn": "ದೇವಪೂಜೆಯಿಂದ / ದೇವಯಜ್ಞದಿಂದ"
+        },
+        {
+          "pada_original": "हि॒नोत॑",
+          "pada_kn": "ಹಿನೋತ",
+          "meaning_en": "Impel / Further",
+          "meaning_kn": "ಪ್ರೇರೇಪಿಸಿ / ಮುಂದುವರಿಸಿ"
+        },
+        {
+          "pada_original": "ब्रह्म॑",
+          "pada_kn": "ಬ್ರಹ್ಮ",
+          "meaning_en": "Prayer / Sacred word",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆಯನ್ನು / ಸ್ತೋತ್ರವನ್ನು"
+        },
+        {
+          "pada_original": "स॒नये᳚",
+          "pada_kn": "ಸನಯೇ",
+          "meaning_en": "For acquisition / For gaining",
+          "meaning_kn": "ಗಳಿಕೆಗಾಗಿ / ಪ್ರಾಪ್ತಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "धना᳚ना‌म्",
+          "pada_kn": "ಧನಾನಾಮ್",
+          "meaning_en": "Of riches / Of wealth",
+          "meaning_kn": "ಧನಗಳ / ಸಂಪತ್ತಿನ"
+        },
+        {
+          "pada_original": "ऋ॒तस्य॑",
+          "pada_kn": "ಋತಸ್ಯ",
+          "meaning_en": "Of cosmic order / Of truth / Of sacrifice",
+          "meaning_kn": "ಋತದ / ಸತ್ಯದ / ಯಜ್ಞದ"
+        },
+        {
+          "pada_original": "योगे᳚",
+          "pada_kn": "ಯೋಗೇ",
+          "meaning_en": "In the connection / In the performance",
+          "meaning_kn": "ಸಂಬಂಧದಲ್ಲಿ / ಆಚರಣೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "Apart / Openly",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ತೆರೆದು"
+        },
+        {
+          "pada_original": "स्य॒ध्व॒‌म्",
+          "pada_kn": "ಸ್ಯಧ್ವಮ್",
+          "meaning_en": "Release / Pour forth",
+          "meaning_kn": "ಸುರಿಸಿ / ಬಿಡುಗಡೆ ಮಾಡಿ"
+        },
+        {
+          "pada_original": "ऊधः॑",
+          "pada_kn": "ಊಧಃ",
+          "meaning_en": "Udder / Source of abundance",
+          "meaning_kn": "ಕೆಚ್ಚಲನ್ನು / ಸಂಪತ್ತಿನ ಮೂಲವನ್ನು"
+        },
+        {
+          "pada_original": "श्रु॒ष्टी॒ऽवरीः᳚",
+          "pada_kn": "ಶ್ರುಷ್ಟೀವರೀಃ",
+          "meaning_en": "Swiftly granting / Responsive",
+          "meaning_kn": "ಶೀಘ್ರವಾಗಿ ಅನುಗ್ರಹಿಸುವವರಾಗಿ / ಬೇಗ ಫಲ ನೀಡುವವರಾಗಿ"
+        },
+        {
+          "pada_original": "भू॒त॒न॒",
+          "pada_kn": "ಭೂತನ",
+          "meaning_en": "Be / Become",
+          "meaning_kn": "ಆಗಿರಿ"
+        },
+        {
+          "pada_original": "अ॒स्मभ्य᳚‌म्",
+          "pada_kn": "ಅಸ್ಮಭ್ಯಮ್",
+          "meaning_en": "For us",
+          "meaning_kn": "ನಮಗಾಗಿ"
+        },
+        {
+          "pada_original": "आ॒पः॒",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "O Waters!",
+          "meaning_kn": "ಓ ಜಲಗಳೇ!"
+        }
+      ],
+      "full_meaning_en": "O waters (आपः), impel our sacrifice, the worship of the gods; impel the prayer for the gaining of riches. In the union of truth (ऋतस्य योगे), open your breasts, the bearers of rain; be favorable to us for existence.",
+      "full_meaning_kn": "ಓ ನೀರುಗಳೇ (ಆಪಃ), ನಮ್ಮ ಯಜ್ಞವನ್ನು ಪ್ರೇರೇಪಿಸಿ, ದೇವತೆಗಳ ಆರಾಧನೆಯನ್ನು ಪ್ರೇರೇಪಿಸಿ; ಸಂಪತ್ತನ್ನು ಗಳಿಸಲು ಪ್ರಾರ್ಥನೆಯನ್ನು ಪ್ರೇರೇಪಿಸಿ. ಸತ್ಯದ (ಋತಸ್ಯ ಯೋಗೇ) ಮಿಲನದಲ್ಲಿ, ನಿಮ್ಮ ಸ್ತನಗಳನ್ನು ತೆರೆಯಿರಿ, ಮಳೆಯ ವಾಹಕರು; ಅಸ್ತಿತ್ವಕ್ಕಾಗಿ ನಮಗೆ ಅನುಕೂಲಕರವಾಗಿರಿ.",
+      "rig_time_s": 157.19400000000002,
+      "Insight_en": "This mantra invokes the waters (आपः) as a source of both material and spiritual sustenance. The waters are asked to impel the sacrifice (अध्वरं) and prayer (ब्रह्म), signifying the importance of ritual and devotion in attaining prosperity (धनानाम्). The phrase ऋतस्य योगे refers to the cosmic order and truth, suggesting that alignment with this order is essential for receiving the waters' blessings. The waters are described as श्रुष्टीवरीः, or bearers of rain, highlighting their life-giving and nourishing qualities. Ultimately, the mantra seeks the waters' favor for the sake of existence, emphasizing the fundamental role of water in sustaining life and facilitating spiritual growth.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ನೀರನ್ನು (ಆಪಃ) ಭೌತಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಪೋಷಣೆಯ ಮೂಲವಾಗಿ ಆಹ್ವಾನಿಸುತ್ತದೆ. ಸಮೃದ್ಧಿಯನ್ನು (ಧನಾನಾಮ್) ಪಡೆಯುವಲ್ಲಿ ಆಚರಣೆ ಮತ್ತು ಭಕ್ತಿಯ ಮಹತ್ವವನ್ನು ಸೂಚಿಸುವ ಯಜ್ಞವನ್ನು (ಅಧ್ವರಂ) ಮತ್ತು ಪ್ರಾರ್ಥನೆಯನ್ನು (ಬ್ರಹ್ಮ) ಪ್ರೇರೇಪಿಸಲು ನೀರನ್ನು ಕೇಳಲಾಗುತ್ತದೆ. ಋತಸ್ಯ ಯೋಗೇ ಎಂಬ ಪದವು ಕಾಸ್ಮಿಕ್ ಕ್ರಮ ಮತ್ತು ಸತ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಈ ಕ್ರಮದೊಂದಿಗೆ ಹೊಂದಾಣಿಕೆ ಹೊಂದುವುದು ನೀರಿನ ಆಶೀರ್ವಾದವನ್ನು ಪಡೆಯಲು ಅತ್ಯಗತ್ಯ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ನೀರನ್ನು ಶ್ರುಷ್ಟೀವರೀಃ ಎಂದು ವಿವರಿಸಲಾಗಿದೆ, ಅಥವಾ ಮಳೆಯ ವಾಹಕರು, ಅವುಗಳ ಜೀವ ನೀಡುವ ಮತ್ತು ಪೋಷಿಸುವ ಗುಣಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಬದುಕಿಗಾಗಿ ನೀರಿನ ಒಲವನ್ನು ಮಂತ್ರವು ಬಯಸುತ್ತದೆ, ಜೀವನವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವಲ್ಲಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಅನುಕೂಲವಾಗುವಲ್ಲಿ ನೀರಿನ ಮೂಲಭೂತ ಪಾತ್ರವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-12_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 12,
+      "rig_lines": [
+        "आपो᳚ रेवतीः॒, क्षय॑था॒ हि वस्वः॒ क्रतुं᳚ च भ॒द्रं बि॑भृ॒थामृतं᳚ च |",
+        "रा॒यश्च॒ स्थ स्व॑प॒त्यस्य॒ पत्नीः॒ सर॑स्वती॒ तद्गृ॑ण॒ते वयो᳚ धात् ||"
+      ],
+      "pre_splits": [
+        "आ॒पः",
+        "रे॒व॒तीः॒",
+        "क्षय॑थ",
+        "हि",
+        "वस्वः॑",
+        "क्रतु᳚‌म्",
+        "च॒",
+        "भ॒द्र‌म्",
+        "बि॒भृ॒था‌म्",
+        "ऋत᳚‌म्",
+        "च॒",
+        "रा॒यः",
+        "च॒",
+        "स्थ",
+        "सु॒।आ॒प॒त्यस्य॑",
+        "पत्नीः᳚",
+        "सर॑स्वती",
+        "तत्",
+        "गृ॒ण॒ते",
+        "वयः॑",
+        "धा॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ॒पः",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "O Waters",
+          "meaning_kn": "ಓ ಜಲಗಳೇ"
+        },
+        {
+          "pada_original": "रे॒व॒तीः॒",
+          "pada_kn": "ರೇವತೀಃ",
+          "meaning_en": "O wealthy ones",
+          "meaning_kn": "ಓ ಸಮೃದ್ಧಿಯುಳ್ಳವರೇ"
+        },
+        {
+          "pada_original": "क्षय॑थ",
+          "pada_kn": "ಕ್ಷಯಥ",
+          "meaning_en": "you possess / you dwell",
+          "meaning_kn": "ನೀವು ಹೊಂದಿದ್ದೀರಿ / ನೀವು ವಾಸಿಸುತ್ತೀರಿ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "indeed / for",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "वस्वः॑",
+          "pada_kn": "ವಸ್ವಃ",
+          "meaning_en": "of wealth",
+          "meaning_kn": "ಸಂಪತ್ತಿನ"
+        },
+        {
+          "pada_original": "क्रतु᳚‌म्",
+          "pada_kn": "ಕ್ರತುಮ್",
+          "meaning_en": "will / power / action",
+          "meaning_kn": "ಸಂಕಲ್ಪವನ್ನು / ಶಕ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "auspicious / benevolent",
+          "meaning_kn": "ಮಂಗಳಕರವಾದ"
+        },
+        {
+          "pada_original": "बि॒भृ॒था‌म्",
+          "pada_kn": "ಬಿಭೃಥಾಮ್",
+          "meaning_en": "you bear / you sustain",
+          "meaning_kn": "ನೀವು ಧರಿಸುತ್ತೀರಿ / ನೀವು ಪೋಷಿಸುತ್ತೀರಿ"
+        },
+        {
+          "pada_original": "ऋत᳚‌म्",
+          "pada_kn": "ಋತಮ್",
+          "meaning_en": "truth / cosmic order",
+          "meaning_kn": "ಸತ್ಯವನ್ನು / ಋತವನ್ನು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "रा॒यः",
+          "pada_kn": "ರಾಯಃ",
+          "meaning_en": "of riches",
+          "meaning_kn": "ಸಂಪತ್ತಿನ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "स्थ",
+          "pada_kn": "ಸ್ಥ",
+          "meaning_en": "you are",
+          "meaning_kn": "ನೀವು ಆಗಿದ್ದೀರಿ"
+        },
+        {
+          "pada_original": "सु॒।आ॒प॒त्यस्य॑",
+          "pada_kn": "ಸುವಾಪತ್ಯಸ್ಯ",
+          "meaning_en": "of good progeny",
+          "meaning_kn": "ಉತ್ತಮ ಸಂತತಿಯ"
+        },
+        {
+          "pada_original": "पत्नीः᳚",
+          "pada_kn": "ಪತ್ನೀಃ",
+          "meaning_en": "mistresses / guardians",
+          "meaning_kn": "ಒಡತಿಯರು / ಪಾಲಕರು"
+        },
+        {
+          "pada_original": "सर॑स्वती",
+          "pada_kn": "ಸರಸ್ವತೀ",
+          "meaning_en": "Sarasvati",
+          "meaning_kn": "ಸರಸ್ವತೀ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that (power/boon)",
+          "meaning_kn": "ಆ (ಶಕ್ತಿಯನ್ನು/ವರವನ್ನು)"
+        },
+        {
+          "pada_original": "गृ॒ण॒ते",
+          "pada_kn": "ಗೃಣತೇ",
+          "meaning_en": "to the praiser / to the singer",
+          "meaning_kn": "ಸ್ತುತಿಸುವವನಿಗೆ / ಹಾಡುವವನಿಗೆ"
+        },
+        {
+          "pada_original": "वयः॑",
+          "pada_kn": "ವಯಃ",
+          "meaning_en": "strength / vitality / food",
+          "meaning_kn": "ಶಕ್ತಿಯನ್ನು / ಚೈತನ್ಯವನ್ನು / ಅನ್ನವನ್ನು"
+        },
+        {
+          "pada_original": "धा॒त्",
+          "pada_kn": "ಧಾತ್",
+          "meaning_en": "may she bestow",
+          "meaning_kn": "ಅವಳು ನೀಡಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Waters abounding in wealth (रेवतीः आपः), for you possess riches; you also bear good resolve (भद्रं क्रतुं) and immortality (अमृतं). Being the consorts of excellent offspring (स्वपत्यस्य पत्नीः), may Saraswati grant that strength (वयः) to the one who praises (गृणते) you.",
+      "full_meaning_kn": "ಓ ಸಂಪತ್ತಿನಿಂದ ತುಂಬಿರುವ ನೀರುಗಳೇ (ರೇವತೀಃ ಆಪಃ), ಏಕೆಂದರೆ ನೀವು ಸಂಪತ್ತನ್ನು ಹೊಂದಿದ್ದೀರಿ; ನೀವು ಉತ್ತಮ ಸಂಕಲ್ಪ (ಭದ್ರಂ ಕ್ರತುಂ) ಮತ್ತು ಅಮರತ್ವವನ್ನೂ (ಅಮೃತಂ) ಸಹ ಹೊಂದಿದ್ದೀರಿ. ಶ್ರೇಷ್ಠ ಸಂತಾನದ ಪತ್ನಿಯರಾಗಿ (ಸ್ವಪತ್ಯಸ್ಯ ಪತ್ನೀಃ), ಸರಸ್ವತಿಯು ನಿಮ್ಮನ್ನು ಸ್ತುತಿಸುವವರಿಗೆ (ಗೃಣತೇ) ಆ ಶಕ್ತಿಯನ್ನು (ವಯಃ) ನೀಡಲಿ.",
+      "rig_time_s": 172.84300000000002,
+      "Insight_en": "This mantra invokes the waters (आपः) as repositories of wealth (रेवतीः) and bearers of good resolve (क्रतुं) and immortality (अमृतं). The waters are perceived not merely as physical entities but as embodiments of prosperity and spiritual potency. As consorts associated with progeny, they represent fertility and abundance. Saraswati, the deity of knowledge and wisdom, is invoked to bestow strength (वयः) upon the devotee who praises them, signifying the attainment of both material well-being and spiritual insight through reverence and devotion to these divine waters. The mantra emphasizes the interconnectedness of material and spiritual realms, suggesting that true prosperity arises from aligning oneself with the cosmic forces of life and knowledge.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸಂಪತ್ತಿನ (ರೇವತೀಃ) ಆಗರಗಳಾಗಿ ಮತ್ತು ಒಳ್ಳೆಯ ಸಂಕಲ್ಪ (ಕ್ರತುಂ) ಮತ್ತು ಅಮರತ್ವವನ್ನು (ಅಮೃತಂ) ಹೊತ್ತಿರುವ ನೀರನ್ನು (ಆಪಃ) ಆಹ್ವಾನಿಸುತ್ತದೆ. ನೀರನ್ನು ಕೇವಲ ಭೌತಿಕ ಅಸ್ತಿತ್ವಗಳಾಗಿ ನೋಡದೆ ಸಮೃದ್ಧಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಮರ್ಥ್ಯದ ಸಾಕಾರವಾಗಿ ಗ್ರಹಿಸಲಾಗಿದೆ. ಸಂತಾನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪತ್ನಿಯರಾಗಿ, ಅವರು ಫಲವತ್ತತೆ ಮತ್ತು ಸಮೃದ್ಧಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಜ್ಞಾನ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯ ದೇವತೆಯಾದ ಸರಸ್ವತಿಯನ್ನು ಸ್ತುತಿಸುವ ಭಕ್ತನಿಗೆ ಶಕ್ತಿಯನ್ನು (ವಯಃ) ನೀಡಲು ಪ್ರಾರ್ಥಿಸಲಾಗಿದೆ, ಇದು ಈ ದೈವಿಕ ನೀರಿಗೆ ಗೌರವ ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ ಭೌತಿಕ ಯೋಗಕ್ಷೇಮ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟ ಎರಡನ್ನೂ ಪಡೆಯುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವಸ್ತು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಕ್ಷೇತ್ರಗಳ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಮಂತ್ರವು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಜೀವನ ಮತ್ತು ಜ್ಞಾನದ ಕಾಸ್ಮಿಕ್ ಶಕ್ತಿಗಳೊಂದಿಗೆ ಒಬ್ಬರನ್ನು ಜೋಡಿಸಿಕೊಳ್ಳುವುದರಿಂದ ನಿಜವಾದ ಸಮೃದ್ಧಿ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-13_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 13,
+      "rig_lines": [
+        "प्रति॒ यदापो॒, अदृ॑श्रमाय॒तीर्घृ॒तं पयां᳚सि॒ बिभ्र॑ती॒र्मधू᳚नि |",
+        "अ॒ध्व॒र्युभि॒र्मन॑सा संविदा॒ना, इन्द्रा᳚य॒ सोमं॒ सुषु॑तं॒ भर᳚न्तीः ||"
+      ],
+      "pre_splits": [
+        "प्रति॑",
+        "यत्",
+        "आपः॑",
+        "अदृ॑श्र‌म्",
+        "आ॒ऽय॒तीः",
+        "घृ॒त‌म्",
+        "पयां᳚सि",
+        "बिभ्र॑तीः",
+        "मधू᳚नि",
+        "अ॒ध्व॒र्युऽभिः॑",
+        "मन॑सा",
+        "स॒‌म्ऽवि॒दा॒नाः",
+        "इन्द्रा᳚य",
+        "सोम᳚‌म्",
+        "सुऽसु॑त‌म्",
+        "भर᳚न्तीः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "when",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / that",
+          "meaning_kn": "ಯಾವಾಗ / ಯಾವುದು"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "waters",
+          "meaning_kn": "ಜಲಗಳು"
+        },
+        {
+          "pada_original": "अदृ॑श्र‌म्",
+          "pada_kn": "ಅದೃಶ್ರಮ್",
+          "meaning_en": "I saw",
+          "meaning_kn": "ನಾನು ನೋಡಿದೆನು"
+        },
+        {
+          "pada_original": "आ॒ऽय॒तीः",
+          "pada_kn": "ಆಯತೀಃ",
+          "meaning_en": "approaching / coming",
+          "meaning_kn": "ಬರುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "घृ॒त‌म्",
+          "pada_kn": "ಘೃತಮ್",
+          "meaning_en": "ghee / clarified butter",
+          "meaning_kn": "ತುಪ್ಪ"
+        },
+        {
+          "pada_original": "पयां᳚सि",
+          "pada_kn": "ಪಯಾಂಸಿ",
+          "meaning_en": "nourishing liquids / milk",
+          "meaning_kn": "ಪಯಸ್ಸು / ಪೋಷಕ ದ್ರವಗಳು"
+        },
+        {
+          "pada_original": "बिभ्र॑तीः",
+          "pada_kn": "ಬಿಭ್ರತೀಃ",
+          "meaning_en": "bearing / carrying",
+          "meaning_kn": "ಹೊತ್ತಿರುವ / ಧರಿಸಿರುವ"
+        },
+        {
+          "pada_original": "मधू᳚नि",
+          "pada_kn": "ಮಧೂನಿ",
+          "meaning_en": "sweet things / honey",
+          "meaning_kn": "ಮಧುಗಳು / ಸಿಹಿ ಪದಾರ್ಥಗಳು"
+        },
+        {
+          "pada_original": "अ॒ध्व॒र्युऽभिः॑",
+          "pada_kn": "ಅಧ್ವರ್ಯುಭಿಃ",
+          "meaning_en": "by the Adhvaryu priests",
+          "meaning_kn": "ಅಧ್ವರ್ಯು ಪುರೋಹಿತರಿಂದ"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "with the mind / mentally",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "स॒‌म्ऽवि॒दा॒नाः",
+          "pada_kn": "ಸಂವಿದಾನಾಃ",
+          "meaning_en": "understanding / in harmony",
+          "meaning_kn": "ತಿಳಿದಿರುವ / ಸಹಮತವಾಗಿರುವ"
+        },
+        {
+          "pada_original": "इन्द्रा᳚य",
+          "pada_kn": "ಇಂದ್ರಾಯ",
+          "meaning_en": "for Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "सुऽसु॑त‌म्",
+          "pada_kn": "ಸುಸುತಮ್",
+          "meaning_en": "well-pressed / well-prepared",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ ಹಿಂಡಿದ / ಚೆನ್ನಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ"
+        },
+        {
+          "pada_original": "भर᳚न्तीः",
+          "pada_kn": "ಭರಂತೀಃ",
+          "meaning_en": "carrying / bringing",
+          "meaning_kn": "ತರುತ್ತಿರುವ"
+        }
+      ],
+      "full_meaning_en": "When the waters approaching are seen, bearing clarified butter, milk, and honey, concurring in mind with the Adhvaryu priests, they offer the Soma juice extracted for Indra.",
+      "full_meaning_kn": "ನೀರು ಸಮೀಪಿಸುತ್ತಿರುವುದನ್ನು ನೋಡಿದಾಗ, ತುಪ್ಪ, ಹಾಲು ಮತ್ತು ಜೇನುತುಪ್ಪವನ್ನು ಹೊತ್ತು, ಅಧ್ವರ್ಯು ಪುರೋಹಿತರೊಂದಿಗೆ ಮನಸ್ಸಿನಲ್ಲಿ ಒಪ್ಪುತ್ತಾ, ಅವರು ಇಂದ್ರನಿಗಾಗಿ ಹಿಂಡಿದ ಸೋಮರಸವನ್ನು ಅರ್ಪಿಸುತ್ತಾರೆ.",
+      "rig_time_s": 189.287,
+      "Insight_en": "This mantra speaks to the sacredness of water (आपः), which carries the essence of nourishment and delight – clarified butter (घृत), milk (पयांसि), and honey (मधु). The waters, personified as divine carriers, are in harmony with the Adhvaryu priests, indicating a unified purpose in the ritualistic offering. The extracted Soma juice (सोमं सुषुतं), offered to Indra, symbolizes the offering of the highest and most refined essence of creation to the divine. It signifies the interconnectedness of the natural elements, human intention, and divine reception in the Vedic ritual. Through this offering, spiritual aspirants aim to attain higher consciousness and divine grace. The act of offering transcends mere physical action, becoming a profound spiritual communion.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ನೀರಿನ ಪವಿತ್ರತೆಯನ್ನು ಮಾತನಾಡುತ್ತದೆ, ಅದು ಪೋಷಣೆ ಮತ್ತು ಆನಂದದ ಸಾರವನ್ನು ಹೊಂದಿದೆ - ತುಪ್ಪ, ಹಾಲು ಮತ್ತು ಜೇನುತುಪ್ಪ. ದೈವಿಕ ವಾಹಕಗಳಾಗಿ ವ್ಯಕ್ತಿಗತಗೊಳಿಸಿದ ನೀರು, ಅಧ್ವರ್ಯು ಪುರೋಹಿತರೊಂದಿಗೆ ಸಾಮರಸ್ಯವನ್ನು ಹೊಂದಿದೆ, ಇದು ವಿಧ್ಯುಕ್ತ ಅರ್ಪಣೆಯಲ್ಲಿ ಏಕೀಕೃತ ಉದ್ದೇಶವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇಂದ್ರನಿಗೆ ಅರ್ಪಿಸಿದ ಸೋಮರಸವು ಸೃಷ್ಟಿಯ ಅತ್ಯುನ್ನತ ಮತ್ತು ಅತ್ಯಂತ ಸಂಸ್ಕರಿಸಿದ ಸಾರವನ್ನು ದೇವರಿಗೆ ಅರ್ಪಿಸುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಇದು ವೈದಿಕ ಆಚರಣೆಯಲ್ಲಿ ನೈಸರ್ಗಿಕ ಅಂಶಗಳು, ಮಾನವ ಉದ್ದೇಶ ಮತ್ತು ದೈವಿಕ ಸ್ವಾಗತದ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಅರ್ಪಣೆಯ ಮೂಲಕ, ಆಧ್ಯಾತ್ಮಿಕ ಆಕಾಂಕ್ಷಿಗಳು ಉನ್ನತ ಪ್ರಜ್ಞೆ ಮತ್ತು ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು ಪಡೆಯುವ ಗುರಿಯನ್ನು ಹೊಂದಿದ್ದಾರೆ. ಅರ್ಪಣೆಯ ಕ್ರಿಯೆಯು ಕೇವಲ ಭೌತಿಕ ಕ್ರಿಯೆಯನ್ನು ಮೀರಿ ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಸಂಬಂಧವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-14_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 14,
+      "rig_lines": [
+        "एमा, अ॑ग्मन्‌ रे॒वती᳚र्जी॒वध᳚न्या॒, अध्व᳚र्यवः सा॒दय॑ता सखायः |",
+        "नि ब॒र्हिषि॑ धत्तन सोम्यासो॒ऽपां नप्त्रा᳚ संविदा॒नास॑ एनाः ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "इ॒माः",
+        "अ॒ग्म॒न्",
+        "रे॒वतीः᳚",
+        "जी॒वऽध᳚न्याः",
+        "अध्व᳚र्यवः",
+        "सा॒दय॑त",
+        "स॒खा॒यः॒",
+        "नि",
+        "ब॒र्हिषि॑",
+        "ध॒त्त॒न॒",
+        "सो॒म्या॒सः॒",
+        "अ॒पा‌म्",
+        "नप्त्रा᳚",
+        "स॒‌म्ऽवि॒दा॒नासः॑",
+        "ए॒नाः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle, indicating 'towards' or emphasis)",
+          "meaning_kn": "(ಉಪಸರ್ಗ, 'ಕಡೆಗೆ' ಅಥವಾ ಒತ್ತು ನೀಡಲು)"
+        },
+        {
+          "pada_original": "इ॒माः",
+          "pada_kn": "ಇಮಾಃ",
+          "meaning_en": "these (waters)",
+          "meaning_kn": "ಈ (ನೀರುಗಳು)"
+        },
+        {
+          "pada_original": "अ॒ग्म॒न्",
+          "pada_kn": "ಅಗ್ಮನ್",
+          "meaning_en": "they have come / let them come",
+          "meaning_kn": "ಅವು ಬಂದಿವೆ / ಅವು ಬರಲಿ"
+        },
+        {
+          "pada_original": "रे॒वतीः᳚",
+          "pada_kn": "ರೇವತೀಃ",
+          "meaning_en": "wealthy / abundant",
+          "meaning_kn": "ಸಂಪದ್ಭರಿತವಾದ / ಸಮೃದ್ಧವಾದ"
+        },
+        {
+          "pada_original": "जी॒वऽध᳚न्याः",
+          "pada_kn": "ಜೀವಧನ್ಯಾಃ",
+          "meaning_en": "life-sustaining / bestowing life",
+          "meaning_kn": "ಜೀವವನ್ನು ನೀಡುವ / ಜೀವಧಾರಕವಾದ"
+        },
+        {
+          "pada_original": "अध्व᳚र्यवः",
+          "pada_kn": "ಅಧ್ವರ್ಯವಃ",
+          "meaning_en": "O Adhvaryus (priests)",
+          "meaning_kn": "ಓ ಅಧ್ವರ್ಯುಗಳೇ (ಋತ್ವಿಜರೇ)"
+        },
+        {
+          "pada_original": "सा॒दय॑त",
+          "pada_kn": "ಸಾದಯತ",
+          "meaning_en": "make them sit / place them",
+          "meaning_kn": "ಅವುಗಳನ್ನು ಕುಳ್ಳಿರಿಸಿ / ಸ್ಥಾಪಿಸಿ"
+        },
+        {
+          "pada_original": "स॒खा॒यः॒",
+          "pada_kn": "ಸಖಾಯಃ",
+          "meaning_en": "O friends",
+          "meaning_kn": "ಓ ಗೆಳೆಯರೇ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / into",
+          "meaning_kn": "ಕೆಳಗೆ / ಒಳಗೆ"
+        },
+        {
+          "pada_original": "ब॒र्हिषि॑",
+          "pada_kn": "ಬರ್ಹಿಷಿ",
+          "meaning_en": "on the sacred grass (altar)",
+          "meaning_kn": "ದರ್ಭೆಯ ಮೇಲೆ (ಯಜ್ಞವೇದಿಕೆಯ ಮೇಲೆ)"
+        },
+        {
+          "pada_original": "ध॒त्त॒न॒",
+          "pada_kn": "ಧತ್ತನ",
+          "meaning_en": "place / put",
+          "meaning_kn": "ಇಡಿ / ಸ್ಥಾಪಿಸಿ"
+        },
+        {
+          "pada_original": "सो॒म्या॒सः॒",
+          "pada_kn": "ಸೋಮ್ಯಾಸಃ",
+          "meaning_en": "O Soma-drinkers / O those connected with Soma",
+          "meaning_kn": "ಓ ಸೋಮಪಾನಿಗಳೇ / ಸೋಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದವರೇ"
+        },
+        {
+          "pada_original": "अ॒पा‌म्",
+          "pada_kn": "ಅಪಾಮ್",
+          "meaning_en": "of the waters",
+          "meaning_kn": "ನೀರುಗಳ"
+        },
+        {
+          "pada_original": "नप्त्रा᳚",
+          "pada_kn": "ನಪ್ತ್ರಾ",
+          "meaning_en": "with the grandson (of waters, i.e., Agni)",
+          "meaning_kn": "(ನೀರುಗಳ) ಮೊಮ್ಮಗನೊಂದಿಗೆ (ಅಂದರೆ ಅಗ್ನಿಯೊಂದಿಗೆ)"
+        },
+        {
+          "pada_original": "स॒‌म्ऽवि॒दा॒नासः॑",
+          "pada_kn": "ಸಂವಿದಾನಾಸಃ",
+          "meaning_en": "having agreed / being in harmony",
+          "meaning_kn": "ಒಪ್ಪಿಕೊಂಡವರಾಗಿ / ಸಾಮರಸ್ಯದಿಂದ ಇರುವವರಾಗಿ"
+        },
+        {
+          "pada_original": "ए॒नाः॒",
+          "pada_kn": "ಏನಾಃ",
+          "meaning_en": "these (waters)",
+          "meaning_kn": "ಈ (ನೀರುಗಳು)"
+        }
+      ],
+      "full_meaning_en": "O Adhvaryus, the bountiful and life-sustaining (waters) have come hither. O friends, seat them (the waters). O you who enjoy the Soma, place them on the sacred grass, being of one mind with Apam Napat.",
+      "full_meaning_kn": "ಓ ಅಧ್ವರ್ಯುಗಳೇ, ಸಮೃದ್ಧಿಯಾದ ಮತ್ತು ಜೀವನವನ್ನು ಪೋಷಿಸುವ (ನೀರುಗಳು) ಇಲ್ಲಿಗೆ ಬಂದಿವೆ. ಓ ಸ್ನೇಹಿತರೇ, ಅವುಗಳನ್ನು (ನೀರುಗಳನ್ನು) ಇರಿಸಿ. ಓ ಸೋಮವನ್ನು ಆನಂದಿಸುವವರೇ, ಅಪಾಂ ನಪಾತ್‌ನೊಂದಿಗೆ ಒಂದೇ ಮನಸ್ಸಿನಿಂದ ಪವಿತ್ರವಾದ ದರ್ಭೆ ಹುಲ್ಲಿನ ಮೇಲೆ ಅವುಗಳನ್ನು ಇರಿಸಿ.",
+      "rig_time_s": 204.696,
+      "Insight_en": "This mantra invokes the life-giving waters, personified as goddesses (रेवतीः, जीवधन्याः), emphasizing their importance for sustenance and prosperity. The 'Adhvaryus' are instructed to reverently seat these waters upon the sacred grass (बर्हिषि), indicating a ritualistic offering. The invocation of Apam Napat (अपां नप्त्रा), the descendant or child of the waters, suggests a connection to the divine origin and purifying nature of water. The phrase 'संविदानासः' highlights the importance of unity and shared intention in the ritual, emphasizing that the efficacy of the offering depends on the collective mindfulness and harmonious participation of the participants. Spiritually, it signifies the conscious recognition and reverence for the life-sustaining forces present in nature and the inner purification achieved through mindful ritual.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಜೀವ ನೀಡುವ ನೀರನ್ನು ದೇವತೆಗಳಂತೆ (ರೇವತೀಃ, ಜೀವಧನ್ಯಾಃ) ಆಹ್ವಾನಿಸುತ್ತದೆ, ಇದು ಜೀವನ ಮತ್ತು ಸಮೃದ್ಧಿಗೆ ಅವುಗಳ ಮಹತ್ವವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. 'ಅಧ್ವರ್ಯುಗಳಿಗೆ' ಈ ನೀರನ್ನು ಪವಿತ್ರವಾದ ದರ್ಭೆ ಹುಲ್ಲಿನ ಮೇಲೆ (ಬರ್ಹಿಷಿ) ಗೌರವದಿಂದ ಇರಿಸಲು ಸೂಚಿಸಲಾಗಿದೆ, ಇದು ಒಂದು ಆಚರಣಾತ್ಮಕ ಅರ್ಪಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಪಾಂ ನಪಾತ್‌ನ (ಅಪಾಂ ನಪ್ತ್ರಾ) ಆಹ್ವಾನ, ನೀರಿನ ವಂಶಸ್ಥರು ಅಥವಾ ಮಗು, ನೀರಿನ ದೈವಿಕ ಮೂಲ ಮತ್ತು ಶುದ್ಧೀಕರಣ ಸ್ವಭಾವದೊಂದಿಗೆ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ಸಂವಿದಾನಾಸಃ' ಎಂಬ ಪದವು ಆಚರಣೆಯಲ್ಲಿ ಏಕತೆ ಮತ್ತು ಹಂಚಿಕೆಯ ಉದ್ದೇಶದ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಅರ್ಪಣೆಯ ಪರಿಣಾಮಕಾರಿತ್ವವು ಭಾಗವಹಿಸುವವರ ಸಾಮೂಹಿಕ ಜಾಗರೂಕತೆ ಮತ್ತು ಸಾಮರಸ್ಯದ ಭಾಗವಹಿಸುವಿಕೆಯ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿರುತ್ತದೆ ಎಂದು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ಪ್ರಕೃತಿಯಲ್ಲಿ ಇರುವ ಜೀವ ನೀಡುವ ಶಕ್ತಿಗಳ ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಗುರುತಿಸುವಿಕೆ ಮತ್ತು ಗೌರವ ಮತ್ತು ಜಾಗರೂಕತೆಯ ಆಚರಣೆಯ ಮೂಲಕ ಸಾಧಿಸಿದ ಆಂತರಿಕ ಶುದ್ಧೀಕರಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S30_191-15_15",
+      "mandala": 10,
+      "sukta": 30,
+      "ric_index": 15,
+      "rig_lines": [
+        "आग्म॒न्नाप॑ उश॒तीर्ब॒र्हिरेदं न्य॑ध्व॒रे, अ॑सदन्देव॒यन्तीः᳚ |",
+        "अध्व᳚र्यवः सुनु॒तेन्द्रा᳚य॒ सोम॒मभू᳚दु वः सु॒शका᳚ देवय॒ज्या ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "अ॒ग्म॒न्",
+        "आपः॑",
+        "उ॒श॒तीः",
+        "ब॒र्हिः",
+        "आ",
+        "इ॒द‌म्",
+        "नि",
+        "अ॒ध्व॒रे",
+        "अ॒स॒द॒न्",
+        "दे॒व॒ऽयन्तीः᳚",
+        "अध्व᳚र्यवः",
+        "सु॒नु॒त",
+        "इन्द्रा᳚य",
+        "सोम᳚‌म्",
+        "अभू᳚त्",
+        "ऊँ॒ इति॑",
+        "वः॒",
+        "सु॒ऽशका᳚",
+        "दे॒व॒ऽय॒ज्या"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "have come (particle)",
+          "meaning_kn": "ಬಂದಿವೆ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अ॒ग्म॒न्",
+          "pada_kn": "ಅಗ್ಮನ್",
+          "meaning_en": "(they) have come",
+          "meaning_kn": "(ಅವು) ಬಂದಿವೆ"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "waters",
+          "meaning_kn": "ಜಲಗಳು"
+        },
+        {
+          "pada_original": "उ॒श॒तीः",
+          "pada_kn": "ಉಶತೀಃ",
+          "meaning_en": "desiring / wishing",
+          "meaning_kn": "ಬಯಸುವ / ಇಚ್ಛಿಸುವ"
+        },
+        {
+          "pada_original": "ब॒र्हिः",
+          "pada_kn": "ಬರ್ಹಿಃ",
+          "meaning_en": "sacred grass",
+          "meaning_kn": "ದರ್ಭೆ / ಯಜ್ಞದ ಹುಲ್ಲು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "upon / towards",
+          "meaning_kn": "ಮೇಲೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "इ॒द‌म्",
+          "pada_kn": "ಇದಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಇದನ್ನು"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / into",
+          "meaning_kn": "ಕೆಳಗೆ / ಒಳಗೆ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒रे",
+          "pada_kn": "ಅಧ್ವರೇ",
+          "meaning_en": "in the sacrifice",
+          "meaning_kn": "ಯಜ್ಞದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒स॒द॒न्",
+          "pada_kn": "ಅಸದನ್",
+          "meaning_en": "(they) have sat down",
+          "meaning_kn": "(ಅವು) ಕುಳಿತಿವೆ"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयन्तीः᳚",
+          "pada_kn": "ದೇವಯಂತೀಃ",
+          "meaning_en": "desiring the gods / worshipping the gods",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು ಬಯಸುವ / ದೇವತೆಗಳನ್ನು ಪೂಜಿಸುವ"
+        },
+        {
+          "pada_original": "अध्व᳚र्यवः",
+          "pada_kn": "ಅಧ್ವರ್ಯವಃ",
+          "meaning_en": "O Adhvaryus",
+          "meaning_kn": "ಓ ಅಧ್ವರ್ಯುಗಳೇ"
+        },
+        {
+          "pada_original": "सु॒नु॒त",
+          "pada_kn": "ಸುನುತ",
+          "meaning_en": "press out",
+          "meaning_kn": "ಹಿಂಡಿರಿ"
+        },
+        {
+          "pada_original": "इन्द्रा᳚य",
+          "pada_kn": "ಇಂದ್ರಾಯ",
+          "meaning_en": "for Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "अभू᳚त्",
+          "pada_kn": "ಅಭೂತ್",
+          "meaning_en": "has become / may it be",
+          "meaning_kn": "ಆಗಿದೆ / ಆಗಲಿ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "indeed / and (particle)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಮತ್ತು (ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "सु॒ऽशका᳚",
+          "pada_kn": "ಸುಶಕಾ",
+          "meaning_en": "easy to perform / well-performable",
+          "meaning_kn": "ಸುಲಭವಾಗಿ ನೆರವೇರಿಸಬಹುದಾದ"
+        },
+        {
+          "pada_original": "दे॒व॒ऽय॒ज्या",
+          "pada_kn": "ದೇವಯಜ್ಯಾ",
+          "meaning_en": "worship of the gods / sacrifice to the gods",
+          "meaning_kn": "ದೇವಪೂಜೆ / ದೇವತೆಗಳ ಯಜ್ಞ"
+        }
+      ],
+      "full_meaning_en": "O waters that desire (the offering), come to the sacrificial place! This barhis (sacrificial grass) has been spread in the sacrifice; sit down, longing for the gods. O Adhvaryu priests, press out the Soma for Indra; may the worship of the gods be easily accomplished for you.",
+      "full_meaning_kn": "ಓ ನೀರಿನ ದೇವತೆಗಳೇ, ಯಜ್ಞದ ಸ್ಥಳಕ್ಕೆ ಬನ್ನಿ! ಈ ಬರ್ಹಿಸ್ (ಯಜ್ಞದ ಹುಲ್ಲು) ಯಜ್ಞದಲ್ಲಿ ಹರಡಲಾಗಿದೆ; ದೇವತೆಗಳನ್ನು ಬಯಸಿ ಕುಳಿತುಕೊಳ್ಳಿ. ಓ ಅಧ್ವರ್ಯು ಪುರೋಹಿತರೇ, ಇಂದ್ರನಿಗಾಗಿ ಸೋಮವನ್ನು ಹಿಂಡಿ; ದೇವತೆಗಳ ಪೂಜೆಯು ನಿಮಗೆ ಸುಲಭವಾಗಿ ನೆರವೇರಲಿ.",
+      "rig_time_s": 220.166,
+      "Insight_en": "This mantra invokes the divine waters (आपः), inviting them to the sacred space prepared for the sacrifice. The waters, described as 'ushatih' (desiring), are drawn to the offering, symbolizing the interconnectedness of the natural world and the ritualistic actions. The barhis, or sacrificial grass, acts as a seat for the deities, indicating a welcoming space for divine presence. The Adhvaryu priests are instructed to press the Soma, a sacred beverage, for Indra, highlighting the importance of ritualistic action in appeasing and nourishing the gods. This act is not merely mechanical but is imbued with the intention to create सुशका देवयज्या (sushaka devayajya), easily accomplished divine worship, which fosters a harmonious relationship between humans and the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ನೀರನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ, ಯಜ್ಞಕ್ಕಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ ಪವಿತ್ರ ಸ್ಥಳಕ್ಕೆ ಅವುಗಳನ್ನು ಸ್ವಾಗತಿಸುತ್ತದೆ. 'ಉಷತಿಹ್' (ಬಯಸುವ) ಎಂದು ವಿವರಿಸಲಾದ ನೀರು, ಅರ್ಪಣೆಗೆ ಸೆಳೆಯಲ್ಪಡುತ್ತದೆ, ಇದು ನೈಸರ್ಗಿಕ ಜಗತ್ತು ಮತ್ತು ಆಚರಣಾತ್ಮಕ ಕ್ರಿಯೆಗಳ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಬರ್ಹಿಸ್, ಅಥವಾ ಯಜ್ಞದ ಹುಲ್ಲು, ದೇವತೆಗಳಿಗೆ ಆಸನವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ಇದು ದೈವಿಕ ಉಪಸ್ಥಿತಿಗೆ ಸ್ವಾಗತಾರ್ಹ ಸ್ಥಳವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಧ್ವರ್ಯು ಪುರೋಹಿತರಿಗೆ ಇಂದ್ರನಿಗಾಗಿ ಸೋಮವನ್ನು ಹಿಂಡಲು ಸೂಚಿಸಲಾಗಿದೆ, ಇದು ದೇವತೆಗಳನ್ನು ಸಮಾಧಾನಪಡಿಸುವ ಮತ್ತು ಪೋಷಿಸುವಲ್ಲಿ ಆಚರಣಾತ್ಮಕ ಕ್ರಿಯೆಯ ಮಹತ್ವವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯು ಕೇವಲ ಯಾಂತ್ರಿಕವಲ್ಲ, ಆದರೆ ಸುಶಕಾ ದೇವಯಜ್ಯಾ ಸುಲಭವಾಗಿ ನೆರವೇರಿದ ದೈವಿಕ ಪೂಜೆಯನ್ನು ಸೃಷ್ಟಿಸುವ ಉದ್ದೇಶದಿಂದ ತುಂಬಿದೆ, ಇದು ಮಾನವರು ಮತ್ತು ದೈವಿಕತೆಯ ನಡುವೆ ಸಾಮರಸ್ಯದ ಸಂಬಂಧವನ್ನು ಬೆಳೆಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "mandala": 7,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M7-S49_104-1_4",
+      "mandala": 7,
+      "sukta": 49,
+      "ric_index": 1,
+      "rig_lines": [
+        "स॒मु॒द्रज्ये᳚ष्ठाः सलि॒लस्य॒ मध्या᳚त् पुना॒ना य॒न्त्यनि॑विशमानाः |",
+        "इन्द्रो॒ या व॒ज्री वृ॑ष॒भो र॒राद॒ ता, आपो᳚ दे॒वीरि॒ह माम॑वन्तु ||"
+      ],
+      "pre_splits": [
+        "स॒मु॒द्रऽज्ये᳚ष्ठाः",
+        "स॒लि॒लस्य॑",
+        "मध्या᳚त्",
+        "पु॒ना॒नाः",
+        "य॒न्ति॒",
+        "अनि॑ऽविशमानाः",
+        "इन्द्रः॑",
+        "याः",
+        "व॒ज्री",
+        "वृ॒ष॒भः",
+        "र॒राद॑",
+        "ताः",
+        "आपः॑",
+        "दे॒वीः",
+        "इ॒ह",
+        "मा‌म्",
+        "अ॒व॒न्तु॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स॒मु॒द्रऽज्ये᳚ष्ठाः",
+          "pada_kn": "ಸಮುದ್ರऽಜ್ಯೇಷ್ಠಾಃ",
+          "meaning_en": "Those for whom the ocean is the eldest/foremost",
+          "meaning_kn": "ಸಮುದ್ರವೇ ಜ್ಯೇಷ್ಠವಾಗಿ ಉಳ್ಳವು"
+        },
+        {
+          "pada_original": "स॒लि॒लस्य॑",
+          "pada_kn": "ಸಲಿಲಸ್ಯ",
+          "meaning_en": "Of the watery expanse",
+          "meaning_kn": "ಜಲರಾಶಿಯ"
+        },
+        {
+          "pada_original": "मध्या᳚त्",
+          "pada_kn": "ಮಧ್ಯಾತ್",
+          "meaning_en": "From the middle",
+          "meaning_kn": "ಮಧ್ಯದಿಂದ"
+        },
+        {
+          "pada_original": "पु॒ना॒नाः",
+          "pada_kn": "ಪುನಾನಾಃ",
+          "meaning_en": "Purifying",
+          "meaning_kn": "ಪವಿತ್ರಗೊಳಿಸುತ್ತಾ / ಶುದ್ಧೀಕರಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "य॒न्ति॒",
+          "pada_kn": "ಯಂತಿ",
+          "meaning_en": "They go / flow",
+          "meaning_kn": "ಅವು ಹೋಗುತ್ತವೆ / ಹರಿಯುತ್ತವೆ"
+        },
+        {
+          "pada_original": "अनि॑ऽविशमानाः",
+          "pada_kn": "ಅನಿऽವಿಶಮಾನಾಃ",
+          "meaning_en": "Without resting / ceasing",
+          "meaning_kn": "ವಿಶ್ರಾಂತಿಯಿಲ್ಲದೆ / ನಿಲ್ಲದೆ"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "Which (waters)",
+          "meaning_kn": "ಯಾವ (ಜಲಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "व॒ज्री",
+          "pada_kn": "ವಜ್ರೀ",
+          "meaning_en": "The wielder of the Vajra (thunderbolt)",
+          "meaning_kn": "ವಜ್ರಾಯುಧವನ್ನು ಧರಿಸಿದವನು"
+        },
+        {
+          "pada_original": "वृ॒ष॒भः",
+          "pada_kn": "ವೃಷಭಃ",
+          "meaning_en": "The mighty bull / powerful one",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿಯಾದವನು / ಶ್ರೇಷ್ಠನು"
+        },
+        {
+          "pada_original": "र॒राद॑",
+          "pada_kn": "ರರಾದ",
+          "meaning_en": "He carved out / opened a path for",
+          "meaning_kn": "ಅವನು (ಮಾರ್ಗವನ್ನು) ತೋಡಿದನು / ಸೀಳಿದನು"
+        },
+        {
+          "pada_original": "ताः",
+          "pada_kn": "ತಾಃ",
+          "meaning_en": "Those",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "Waters",
+          "meaning_kn": "ಜಲಗಳು"
+        },
+        {
+          "pada_original": "दे॒वीः",
+          "pada_kn": "ದೇವೀಃ",
+          "meaning_en": "Divine (goddesses)",
+          "meaning_kn": "ದೈವೀ ಸ್ವರೂಪವಾದ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "Here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "मा‌म्",
+          "pada_kn": "ಮಾಮ್",
+          "meaning_en": "Me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒व॒न्तु॒",
+          "pada_kn": "ಅವಂತು",
+          "meaning_en": "May they protect",
+          "meaning_kn": "ಅವು ರಕ್ಷಿಸಲಿ"
+        }
+      ],
+      "full_meaning_en": "May those divine waters protect me here—the waters for whom the ocean is the foremost, which flow from the midst of the watery expanse, purifying and without ever resting; those for whom the mighty, thunderbolt-wielding Indra, the powerful one, carved out a path.",
+      "full_meaning_kn": "ಸಮುದ್ರವೇ ಜ್ಯೇಷ್ಠವಾಗಿ ಉಳ್ಳ, ಜಲರಾಶಿಯ ಮಧ್ಯದಿಂದ ಹರಿಯುವ, ಪವಿತ್ರಗೊಳಿಸುತ್ತಾ, ನಿಲ್ಲದೆ ಚಲಿಸುವ ಆ ದಿವ್ಯ ಜಲಗಳು—ಯಾವುಗಳಿಗೆ ವಜ್ರಧಾರಿಯಾದ, ಶಕ್ತಿಶಾಲಿಯಾದ ಇಂದ್ರನು ಮಾರ್ಗವನ್ನು ತೋರಿದನೋ—ಅವು ಇಲ್ಲಿ ನನ್ನನ್ನು ರಕ್ಷಿಸಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The divine currents of pure consciousness, whose source is the boundless, unmanifest Reality (समुद्र), eternally descend from the cosmic expanse of truth. These purifying streams, ceaselessly flowing, eradicate inner impurities and inertia. Through the decisive action of the luminous divine Mind (इन्द्र), wielding the thunderbolt of concentrated will (वज्र), the path is cleared for these spiritual energies to pervade the inner being. May these potent, divine 'Waters' (आपः) imbue the seeker with light, knowledge, and an unwavering flow of spiritual vitality, protecting the evolving consciousness from the shadows of ignorance.",
+      "Insight_kn": "ಅನಂತ, ಅವ್ಯಕ್ತ ಸತ್ಯವೇ (ಸಮುದ್ರ) ಮೂಲವಾಗಿ ಉಳ್ಳ ದಿವ್ಯ ಚೈತನ್ಯದ ಪ್ರವಾಹಗಳು, ಸತ್ಯದ ವಿಶ್ವವ್ಯಾಪಿ ಜಲರಾಶಿಯಿಂದ ನಿರಂತರವಾಗಿ ಇಳಿದುಬರುತ್ತವೆ. ಈ ಶುದ್ಧೀಕರಿಸುವ ಧಾರೆಗಳು, ನಿರಂತರವಾಗಿ ಹರಿಯುತ್ತಾ, ಆಂತರಿಕ ಮಾಲಿನ್ಯಗಳನ್ನು ಮತ್ತು ಜಡತ್ವವನ್ನು ನಿವಾರಿಸುತ್ತವೆ. ಪ್ರಕಾಶಮಾನವಾದ ದಿವ್ಯ ಮನಸ್ಸು (ಇಂದ್ರ), ಸಂಕಲ್ಪದ (ವಜ್ರ) ಮಿಂಚಿನಿಂದ ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸಿ, ಈ ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಗಳು ಅಂತಃಕರಣವನ್ನು ತುಂಬುವ ಮಾರ್ಗವನ್ನು ಸ್ಪಷ್ಟಗೊಳಿಸುತ್ತದೆ. ಓ ಸಾಧಕನೇ, ಈ ಪ್ರಬಲವಾದ ದಿವ್ಯ 'ಅಪಸ್ಸುಗಳು' (ಆಪಃ) ನಿನಗೆ ಬೆಳಕು, ಜ್ಞಾನ, ಮತ್ತು ಅಚಲವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಚೈತನ್ಯದ ಹರಿವನ್ನು ನೀಡಿ, ಅಜ್ಞಾನದ ನೆರಳುಗಳಿಂದ ನಿನ್ನ ವಿಕಸಿಸುವ ಪ್ರಜ್ಞೆಯನ್ನು ರಕ್ಷಿಸಲಿ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S49_104-2_4",
+      "mandala": 7,
+      "sukta": 49,
+      "ric_index": 2,
+      "rig_lines": [
+        "या, आपो᳚ दि॒व्या, उ॒त वा॒ स्रव᳚न्ति ख॒नित्रि॑मा, उ॒त वा॒ याः स्व॑यं॒जाः |",
+        "स॒मु॒द्रार्था॒ याः शुच॑यः पाव॒कास्ता, आपो᳚ दे॒वीरि॒ह माम॑वन्तु ||"
+      ],
+      "pre_splits": [
+        "याः",
+        "आपः॑",
+        "दि॒व्याः",
+        "उ॒त",
+        "वा॒",
+        "स्रव᳚न्ति",
+        "ख॒नित्रि॑माः",
+        "उ॒त",
+        "वा॒",
+        "याः",
+        "स्व॒य॒‌म्ऽजाः",
+        "स॒मु॒द्र।आ॑र्थाः",
+        "याः",
+        "शुच॑यः",
+        "पा॒व॒काः",
+        "ताः",
+        "आपः॑",
+        "दे॒वीः",
+        "इ॒ह",
+        "मा‌म्",
+        "अ॒व॒न्तु॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "Which",
+          "meaning_kn": "ಯಾವ"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "waters",
+          "meaning_kn": "ಜಲಗಳೋ"
+        },
+        {
+          "pada_original": "दि॒व्याः",
+          "pada_kn": "ದಿವ್ಯಾಃ",
+          "meaning_en": "celestial / from the heavens",
+          "meaning_kn": "ದಿವ್ಯಲೋಕದವೋ / ಆಕಾಶದಿಂದ ಬರುವವೋ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "वा॒",
+          "pada_kn": "ವಾ",
+          "meaning_en": "or",
+          "meaning_kn": "ಅಥವಾ"
+        },
+        {
+          "pada_original": "स्रव᳚न्ति",
+          "pada_kn": "ಸ್ರವಂತಿ",
+          "meaning_en": "(they) flow",
+          "meaning_kn": "ಹರಿಯುವುವೋ"
+        },
+        {
+          "pada_original": "ख॒नित्रि॑माः",
+          "pada_kn": "ಖನಿತ್ರಿಮಾಃ",
+          "meaning_en": "obtained by digging",
+          "meaning_kn": "ಅಗೆದು ಪಡೆದವುಗಳೋ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "वा॒",
+          "pada_kn": "ವಾ",
+          "meaning_en": "or",
+          "meaning_kn": "ಅಥವಾ"
+        },
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "which",
+          "meaning_kn": "ಯಾವ"
+        },
+        {
+          "pada_original": "स्व॒य॒‌म्ऽजाः",
+          "pada_kn": "ಸ್ವಯಂಜಾಃ",
+          "meaning_en": "are self-born / naturally arising",
+          "meaning_kn": "ತಾವಾಗಿಯೇ ಹುಟ್ಟಿದವುಗಳೋ (ಚಿಲುಮೆಗಳು)"
+        },
+        {
+          "pada_original": "स॒मु॒द्र।आ॑र्थाः",
+          "pada_kn": "ಸಮುದ್ರಾರ್ಥಾಃ",
+          "meaning_en": "which have the ocean as their goal",
+          "meaning_kn": "ಸಮುದ್ರವನ್ನೇ ಗುರಿಯಾಗಿಟ್ಟುಕೊಂಡಿರುವ"
+        },
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "which",
+          "meaning_kn": "ಯಾವ"
+        },
+        {
+          "pada_original": "शुच॑यः",
+          "pada_kn": "ಶುಚಯಃ",
+          "meaning_en": "are pure / bright",
+          "meaning_kn": "ಶುದ್ಧವಾಗಿವೆಯೋ / ಪ್ರಕಾಶಮಾನವಾಗಿವೆಯೋ"
+        },
+        {
+          "pada_original": "पा॒व॒काः",
+          "pada_kn": "ಪಾವಕಾಃ",
+          "meaning_en": "are purifying",
+          "meaning_kn": "ಪಾವನಗೊಳಿಸುವಂಥವೋ"
+        },
+        {
+          "pada_original": "ताः",
+          "pada_kn": "ತಾಃ",
+          "meaning_en": "those",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "waters",
+          "meaning_kn": "ಜಲಗಳು"
+        },
+        {
+          "pada_original": "दे॒वीः",
+          "pada_kn": "ದೇವೀಃ",
+          "meaning_en": "divine (waters) / goddesses",
+          "meaning_kn": "ದೈವೀ ಸ್ವರೂಪವಾದ / ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "मा‌म्",
+          "pada_kn": "ಮಾಮ್",
+          "meaning_en": "me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒व॒न्तु॒",
+          "pada_kn": "ಅವಂತು",
+          "meaning_en": "may they protect",
+          "meaning_kn": "ರಕ್ಷಿಸಲಿ"
+        }
+      ],
+      "full_meaning_en": "May those divine waters protect me here—those which are celestial, or those that flow, whether obtained by digging or arising naturally; those which, pure and purifying, have the ocean as their goal.",
+      "full_meaning_kn": "ಯಾವ ಜಲಗಳು ದಿವ್ಯಲೋಕದಿಂದ ಬರುವುವೋ, ಅಥವಾ ಭೂಮಿಯ ಮೇಲೆ ಹರಿಯುವುವೋ, ಅಗೆದು ಪಡೆದ ಕಾಲುವೆಗಳ ನೀರೋ ಅಥವಾ ತಾವಾಗಿಯೇ ಉಕ್ಕುವ ಚಿಲುಮೆಗಳ ನೀರೋ ಆಗಿರಲಿ; ಯಾವ ಶುದ್ಧವೂ ಪಾವನಗೊಳಿಸುವಂಥವೂ ಆದ ಜಲಗಳು ಸಮುದ್ರವನ್ನೇ ಗುರಿಯಾಗಿಟ್ಟುಕೊಂಡು ಹರಿಯುವುವೋ, ಅಂತಹ ದೈವೀ ಸ್ವರೂಪದ ಜಲದೇವತೆಗಳು ಇಲ್ಲಿ ನನ್ನನ್ನು ರಕ್ಷಿಸಲಿ.",
+      "rig_time_s": 14.729,
+      "Insight_en": "The Waters (आपो) are the omnipresent streams of conscious energy, perpetually flowing from the celestial planes into the terrestrial realm of experience. Whether emanating spontaneously from the depths of the being or consciously channeled through spiritual discipline, these currents are inherently pure, cleansing the inner landscape of all ignorance. Their ultimate trajectory is the great Ocean (समुद्र), the boundless unity of existence, where all individual consciousness merges. May these divine flows of truth and purification ever sustain the seeker's journey, guiding the soul towards its essential, undivided nature.",
+      "Insight_kn": "ಆಪಃ (आपो) ಎಂಬುದು ದಿವ್ಯಲೋಕದಿಂದ ಹರಿಯುವ ಪ್ರಜ್ಞೆಯ ಅನಂತ ಧಾರೆಯಾಗಿದೆ, ಅಂತರಂಗದ ಸ್ವಯಂಜಿಜ್ಞಾಸೆಯಿಂದ ಉಕ್ಕಿಬರುವ ಅಥವಾ ಸಾಧನೆಯಿಂದ ಪ್ರಕಟವಾಗುವ ಶುದ್ಧ ಪ್ರವಾಹಗಳಾಗಿವೆ. ಇವು ಪ್ರತಿಯೊಂದು ಅಣು-ಅಣುವನ್ನೂ ಪಾವನಗೊಳಿಸುತ್ತಾ, ಅಜ್ಞಾನವನ್ನು ತೊಳೆದುಹಾಕುತ್ತವೆ. ಇವುಗಳ ಅಂತಿಮ ಗುರಿ ಸಮುದ್ರ (समुद्र) – ಅಖಂಡ ಚೈತನ್ಯದ ಅನಂತ ಸಾಗರ. ಇಂತಹ ಪಾವನಕಾರೀ ಪ್ರಜ್ಞಾಪ್ರವಾಹಗಳು ಸಾಧಕನ ಅಂತರಂಗವನ್ನು ಸದಾ ಪೋಷಿಸಲಿ, ಪರಮ ಸತ್ಯದೆಡೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡಲಿ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S49_104-3_4",
+      "mandala": 7,
+      "sukta": 49,
+      "ric_index": 3,
+      "rig_lines": [
+        "यासां॒ राजा॒ वरु॑णो॒ याति॒ मध्ये᳚ सत्यानृ॒ते, अ॑व॒पश्य॒ञ्जना᳚नाम् |",
+        "म॒धु॒श्चुतः॒ शुच॑यो॒ याः पा᳚व॒कास्ता, आपो᳚ दे॒वीरि॒ह माम॑वन्तु ||"
+      ],
+      "pre_splits": [
+        "यासा᳚‌म्",
+        "राजा᳚",
+        "वरु॑णः",
+        "याति॑",
+        "मध्ये᳚",
+        "स॒त्या॒नृ॒ते इति॑",
+        "अ॒व॒ऽपश्य॑न्",
+        "जना᳚ना‌म्",
+        "म॒धु॒ऽश्चुतः॑",
+        "शुच॑यः",
+        "याः",
+        "पा॒व॒काः",
+        "ताः",
+        "आपः॑",
+        "दे॒वीः",
+        "इ॒ह",
+        "मा‌म्",
+        "अ॒व॒न्तु॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यासा᳚‌म्",
+          "pada_kn": "ಯಾಸಾಮ್",
+          "meaning_en": "Of whom (of which waters)",
+          "meaning_kn": "ಯಾರ (ಯಾವ ಜಲಗಳ)"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "king",
+          "meaning_kn": "ರಾಜನು"
+        },
+        {
+          "pada_original": "वरु॑णः",
+          "pada_kn": "ವರುಣಃ",
+          "meaning_en": "Varuna",
+          "meaning_kn": "ವರುಣನು"
+        },
+        {
+          "pada_original": "याति॑",
+          "pada_kn": "ಯಾತಿ",
+          "meaning_en": "goes / moves",
+          "meaning_kn": "ಹೋಗುತ್ತಾನೆ / ಸಂಚರಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "मध्ये᳚",
+          "pada_kn": "ಮಧ್ಯೇ",
+          "meaning_en": "in the midst",
+          "meaning_kn": "ಮಧ್ಯದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "स॒त्या॒नृ॒ते इति॑",
+          "pada_kn": "ಸತ್ಯಾನೃತೇ ಇತಿ",
+          "meaning_en": "truth and falsehood",
+          "meaning_kn": "ಸತ್ಯ ಮತ್ತು ಅನೃತವನ್ನು (ಸುಳ್ಳನ್ನು)"
+        },
+        {
+          "pada_original": "अ॒व॒ऽपश्य॑न्",
+          "pada_kn": "ಅವಪಶ್ಯನ್",
+          "meaning_en": "observing / watching over",
+          "meaning_kn": "ವೀಕ್ಷಿಸುತ್ತಾ / ನೋಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "जना᳚ना‌म्",
+          "pada_kn": "ಜನಾನಾಮ್",
+          "meaning_en": "of men / of people",
+          "meaning_kn": "ಜನರ"
+        },
+        {
+          "pada_original": "म॒धु॒ऽश्चुतः॑",
+          "pada_kn": "ಮಧುಶ್ಚುತಃ",
+          "meaning_en": "dripping with sweetness / flowing with honey",
+          "meaning_kn": "ಮಧುವನ್ನು ಸ್ರವಿಸುವ"
+        },
+        {
+          "pada_original": "शुच॑यः",
+          "pada_kn": "ಶುಚಯಃ",
+          "meaning_en": "pure / bright",
+          "meaning_kn": "ಶುದ್ಧವಾದ / ಪವಿತ್ರವಾದ"
+        },
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "which (waters)",
+          "meaning_kn": "ಯಾವುವೋ"
+        },
+        {
+          "pada_original": "पा॒व॒काः",
+          "pada_kn": "ಪಾವಕಾಃ",
+          "meaning_en": "purifying / purifiers",
+          "meaning_kn": "ಪಾವನಗೊಳಿಸುವ / ಶುದ್ಧೀಕರಿಸುವ"
+        },
+        {
+          "pada_original": "ताः",
+          "pada_kn": "ತಾಃ",
+          "meaning_en": "those",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "the Waters",
+          "meaning_kn": "ಜಲಗಳು"
+        },
+        {
+          "pada_original": "दे॒वीः",
+          "pada_kn": "ದೇವೀಃ",
+          "meaning_en": "divine / goddesses",
+          "meaning_kn": "ದೇವತೆಗಳಾದ / ದಿವ್ಯವಾದ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "मा‌म्",
+          "pada_kn": "ಮಾಮ್",
+          "meaning_en": "me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒व॒न्तु॒",
+          "pada_kn": "ಅವಂತು",
+          "meaning_en": "may they protect",
+          "meaning_kn": "ರಕ್ಷಿಸಲಿ"
+        }
+      ],
+      "full_meaning_en": "May those divine Waters protect me here—those in whose midst King Varuna moves, observing the truth and falsehood of all people. May those Waters, which drip with sweetness, are pure, and are themselves purifiers, grant me protection.",
+      "full_meaning_kn": "ಯಾವ ಜಲಗಳ ಮಧ್ಯದಲ್ಲಿ ರಾಜನಾದ ವರುಣನು ಜನರ ಸತ್ಯ ಮತ್ತು ಅನೃತಗಳನ್ನು (ಸುಳ್ಳುಗಳನ್ನು) ನೋಡುತ್ತಾ ಸಂಚರಿಸುತ್ತಾನೋ, ಮತ್ತು ಮಧುವನ್ನು ಸ್ರವಿಸುವ, ಶುದ್ಧವಾದ ಹಾಗೂ ಪಾವನಗೊಳಿಸುವ ಸಾಮರ್ಥ್ಯವುಳ್ಳ ಆ ದಿವ್ಯ ಜಲಗಳು, ಇಲ್ಲಿ ನನ್ನನ್ನು ರಕ್ಷಿಸಲಿ.",
+      "rig_time_s": 30.934,
+      "Insight_en": "The Divine Waters (आपः) are the streams of Truth-Consciousness, the universal flow of luminous potentiality from which all existence manifests. Within their pervasive essence moves King Varuna (वरुण), the inherent principle of cosmic order (ऋत), ceaselessly discerning the truth (सत्य) from the untruth (अनृत) within the depths of individual being. These sacred currents are imbued with the bliss of spiritual realization (मधु), inherently pure (शुचयः), and possess the power to purify (पावकाः) the very fabric of one's inner world. May these radiant principles, the very matrix of divine law, safeguard the seeker, guiding the soul through discernment towards authentic being.",
+      "Insight_kn": "ದಿವ್ಯ ಆಪಗಳು (आपः) ಸತ್ಯ-ಪ್ರಜ್ಞೆಯ ಪ್ರವಾಹಗಳು, ಸಕಲ ಅಸ್ತಿತ್ವದ ದೈವಿಕ ಸಂಭಾವ್ಯತೆಯ ಮೂಲಧಾರೆ. ಅವುಗಳ ಸರ್ವವ್ಯಾಪಿ ಸಾರದಲ್ಲಿ, ವರುಣನು (वरुण) ಸಂಚರಿಸುತ್ತಾನೆ; ಅವನು ವ್ಯಷ್ಟಿ ಅಸ್ತಿತ್ವದ ಆಳದಲ್ಲಿ ಸತ್ಯವನ್ನು (सत्य) ಅನೃತದಿಂದ (अनृत) ವಿವೇಚಿಸುವ ಸಹಜ ಕಾಸ್ಮಿಕ್ ವ್ಯವಸ್ಥೆಯ (ಋತ) ತತ್ತ್ವ. ಈ ಪವಿತ್ರ ಪ್ರವಾಹಗಳು ಅಧ್ಯಾತ್ಮಿಕ ಆನಂದದಿಂದ (मधु) ತುಂಬಿವೆ, ಸಹಜವಾಗಿ ಶುದ್ಧವಾಗಿವೆ (शुचयः), ಮತ್ತು ಅಂತರಂಗದ ಅಶುದ್ಧತೆಗಳನ್ನು ಪಾವನಗೊಳಿಸುವ (पावकाः) ಸಾಮರ್ಥ್ಯ ಹೊಂದಿವೆ. ಓ ಸಾಧಕನೇ, ಈ ದೈವಿಕ ತತ್ತ್ವಗಳು, ದೈವಿಕ ನಿಯಮದ ಮಾತ್ರಿಕೆಯಾಗಿ, ನಿನ್ನ ಪ್ರಜ್ಞೆಯನ್ನು ಆಜ್ಞಾನದ ಕಂದಕಗಳಿಂದ ರಕ್ಷಿಸಿ, ಸತ್ಯದತ್ತ ಮಾರ್ಗದರ್ಶಿಸಲಿ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S49_104-4_4",
+      "mandala": 7,
+      "sukta": 49,
+      "ric_index": 4,
+      "rig_lines": [
+        "यासु॒ राजा॒ वरु॑णो॒ यासु॒ सोमो॒ विश्वे᳚ दे॒वा यासूर्जं॒ मद᳚न्ति |",
+        "वै॒श्वा॒न॒रो यास्व॒ग्निः प्रवि॑ष्ट॒स्ता, आपो᳚ दे॒वीरि॒ह माम॑वन्तु ||"
+      ],
+      "pre_splits": [
+        "यासु॑",
+        "राजा᳚",
+        "वरु॑णः",
+        "यासु॑",
+        "सोमः॑",
+        "विश्वे᳚",
+        "दे॒वाः",
+        "यासु॑",
+        "ऊर्ज᳚‌म्",
+        "मद᳚न्ति",
+        "वै॒श्वा॒न॒रः",
+        "यासु॑",
+        "अ॒ग्निः",
+        "प्रऽवि॑ष्टः",
+        "ताः",
+        "आपः॑",
+        "दे॒वीः",
+        "इ॒ह",
+        "मा‌म्",
+        "अ॒व॒न्तु॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यासु॑",
+          "pada_kn": "ಯಾಸು",
+          "meaning_en": "in which (waters)",
+          "meaning_kn": "ಯಾವ ಜಲಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "the king",
+          "meaning_kn": "ರಾಜನಾದ"
+        },
+        {
+          "pada_original": "वरु॑णः",
+          "pada_kn": "ವರುಣಃ",
+          "meaning_en": "Varuna",
+          "meaning_kn": "ವರುಣನು"
+        },
+        {
+          "pada_original": "यासु॑",
+          "pada_kn": "ಯಾಸು",
+          "meaning_en": "in which (waters)",
+          "meaning_kn": "ಯಾವ ಜಲಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "सोमः॑",
+          "pada_kn": "ಸೋಮಃ",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮನು"
+        },
+        {
+          "pada_original": "विश्वे᳚",
+          "pada_kn": "ವಿಶ್ವೇ",
+          "meaning_en": "all",
+          "meaning_kn": "ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "यासु॑",
+          "pada_kn": "ಯಾಸು",
+          "meaning_en": "in which (waters)",
+          "meaning_kn": "ಯಾವ ಜಲಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ऊर्ज᳚‌म्",
+          "pada_kn": "ಊರ್ಜಮ್",
+          "meaning_en": "nourishing strength",
+          "meaning_kn": "ಊರ್ಜೆಯನ್ನು / ಶಕ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "मद᳚न्ति",
+          "pada_kn": "ಮದಂತಿ",
+          "meaning_en": "rejoice / revel",
+          "meaning_kn": "ಆನಂದಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "वै॒श्वा॒न॒रः",
+          "pada_kn": "ವೈಶ್ವಾನರಃ",
+          "meaning_en": "Vaishvanara (Agni)",
+          "meaning_kn": "ವೈಶ್ವಾನರನು (ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "यासु॑",
+          "pada_kn": "ಯಾಸು",
+          "meaning_en": "in which (waters)",
+          "meaning_kn": "ಯಾವ ಜಲಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni",
+          "meaning_kn": "ಅಗ್ನಿಯು"
+        },
+        {
+          "pada_original": "प्रऽवि॑ष्टः",
+          "pada_kn": "ಪ್ರವಿಷ್ಟಃ",
+          "meaning_en": "has entered",
+          "meaning_kn": "ಪ್ರವೇಶಿಸಿದ್ದಾನೋ"
+        },
+        {
+          "pada_original": "ताः",
+          "pada_kn": "ತಾಃ",
+          "meaning_en": "those",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "waters",
+          "meaning_kn": "ಜಲಗಳು"
+        },
+        {
+          "pada_original": "दे॒वीः",
+          "pada_kn": "ದೇವೀಃ",
+          "meaning_en": "divine",
+          "meaning_kn": "ದೈವೀ / ದೇವತೆಗಳಾದ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "मा‌म्",
+          "pada_kn": "ಮಾಮ್",
+          "meaning_en": "me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒व॒न्तु॒",
+          "pada_kn": "ಅವಂತು",
+          "meaning_en": "may they protect",
+          "meaning_kn": "ರಕ್ಷಿಸಲಿ"
+        }
+      ],
+      "full_meaning_en": "In which waters King Varuna resides, in which Soma dwells, in which all the gods rejoice in the nourishing strength; into which Agni as Vaishvanara has entered—may those divine Waters protect me here.",
+      "full_meaning_kn": "ಯಾವ ಜಲಗಳಲ್ಲಿ ರಾಜನಾದ ವರುಣನಿರುವನೋ, ಯಾವ ಜಲಗಳಲ್ಲಿ ಸೋಮನಿರುವನೋ, ಯಾವ ಜಲಗಳಲ್ಲಿ ಸಮಸ್ತ ದೇವತೆಗಳು ಊರ್ಜೆಯನ್ನು ಪಡೆದು ಹರ್ಷಿಸುತ್ತಾರೋ, ಮತ್ತು ಯಾವ ಜಲಗಳಲ್ಲಿ ವೈಶ್ವಾನರ ರೂಪದ ಅಗ್ನಿಯು ಪ್ರವೇಶಿಸಿದ್ದಾನೋ, ದೇವತೆಗಳಾದ ಆ ಜಲಗಳು ಇಲ್ಲಿ ನನ್ನನ್ನು ರಕ್ಷಿಸಲಿ.",
+      "rig_time_s": 47.352,
+      "Insight_en": "The divine Waters (आपः) are the eternal currents of universal consciousness, the very stream of existence. Within them, Varuna (वरुणः), the sovereign Law of Truth, presides, and Soma (सोमः), the bliss of immortality, inheres. Here, all divine powers (विश्वे देवाः) find their animating spiritual energy (ऊर्जः) and rejoice in its sustenance. Agni (अग्निः) as Vaiśvānara (वैश्वानरः), the universal life-force, permeates these sacred currents, illuminating the inner and outer worlds. May these divine Waters, pregnant with Truth, Bliss, and cosmic Will, continually shield and nourish the aspirant's journey.",
+      "Insight_kn": "ದಿವ್ಯವಾದ ಆಪಃ (आपः), ಸಾರ್ವತ್ರಿಕ ಪ್ರಜ್ಞೆಯ ನಿರಂತರ ಪ್ರವಾಹಗಳಾಗಿವೆ, ಸತ್ಯದ ಅಂತರ್ಗತ ಸ್ವರೂಪವಾಗಿವೆ. ಅವುಗಳಲ್ಲಿ ವರುಣಃ (वरुणः), ಸಾರ್ವಭೌಮ ಸತ್ಯಧರ್ಮ, ನೆಲೆಸಿದ್ದಾನೆ, ಮತ್ತು ಅಮೃತಾನಂದದ ಸೋಮಃ (सोमः) ಅಂತರ್ಗತವಾಗಿದೆ. ಇಲ್ಲಿ, ಸಮಸ್ತ ದೈವಿಕ ಶಕ್ತಿಗಳು (विश्वे देवाः) ತಮ್ಮನ್ನು ಪೋಷಿಸುವ ಅಧ್ಯಾತ್ಮಿಕ ಊರ್ಜೆಯಲ್ಲಿ (ऊर्जः) ಸಂತೋಷಪಡುತ್ತವೆ. ವೈಶ್ವಾನರ ಅಗ್ನಿಯು (वैश्वानर अग्निः) ಈ ಪವಿತ್ರ ಪ್ರವಾಹಗಳನ್ನು ವ್ಯಾಪಿಸಿ, ಅಂತರಂಗ ಮತ್ತು ಬಹಿರಂಗ ಲೋಕಗಳನ್ನು ಬೆಳಗುತ್ತಾನೆ. ಓ ಅನ್ವೇಷಕ, ಸತ್ಯ, ಆನಂದ, ಮತ್ತು ವಿಶ್ವ ಇಚ್ಛೆಯಿಂದ ತುಂಬಿದ ಈ ದೈವಿಕ ಜಲಗಳು ನಿನ್ನ ಪಥವನ್ನು ನಿರಂತರವಾಗಿ ರಕ್ಷಿಸಲಿ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

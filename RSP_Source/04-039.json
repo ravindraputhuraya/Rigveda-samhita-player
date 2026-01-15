@@ -1,0 +1,790 @@
+{
+  "mandala": 4,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M4-S39_58-1_6",
+      "mandala": 4,
+      "sukta": 39,
+      "ric_index": 1,
+      "rig_lines": [
+        "आ॒शुं द॑धि॒क्रां तमु॒ नु ष्ट॑वाम दि॒वस्पृ॑थि॒व्या, उ॒त च॑र्किराम |",
+        "उ॒च्छन्ती॒र्मामु॒षसः॑ सूदय॒न्त्वति॒ विश्वा᳚नि दुरि॒तानि॑ पर्षन् ||"
+      ],
+      "pre_splits": [
+        "आ॒शु‌म्",
+        "द॒धि॒ऽक्रा‌म्",
+        "त‌म्",
+        "ऊँ॒ इति॑",
+        "नु",
+        "स्त॒वा॒म॒",
+        "दि॒वः",
+        "पृ॒थि॒व्याः",
+        "उ॒त",
+        "च॒र्कि॒रा॒म॒",
+        "उ॒च्छन्तीः᳚",
+        "मा‌म्",
+        "उ॒षसः॑",
+        "सू॒द॒य॒न्तु॒",
+        "अति॑",
+        "विश्वा᳚नि",
+        "दुः॒ऽ‌इ॒तानि॑",
+        "प॒र्ष॒न्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ॒शु‌म्",
+          "pada_kn": "ಆಶುಮ್",
+          "meaning_en": "swift / quick",
+          "meaning_kn": "ವೇಗವಾದ / ಕ್ಷಿಪ್ರವಾದ"
+        },
+        {
+          "pada_original": "द॒धि॒ऽक्रा‌म्",
+          "pada_kn": "ದಧಿಕ್ರಾಮ್",
+          "meaning_en": "Dadhikra (a divine horse/deity)",
+          "meaning_kn": "ದಧಿಕ್ರಾ (ದೈವಿಕ ಅಶ್ವ/ದೇವತೆ)"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "indeed / verily (particle)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "now / indeed",
+          "meaning_kn": "ಈಗ / ಖಂಡಿತ"
+        },
+        {
+          "pada_original": "स्त॒वा॒म॒",
+          "pada_kn": "ಸ್ತವಾಮ",
+          "meaning_en": "let us praise",
+          "meaning_kn": "ನಾವು ಸ್ತುತಿಸೋಣ"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "of heaven / sky",
+          "meaning_kn": "ಸ್ವರ್ಗದ / ಆಕಾಶದ"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्याः",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಃ",
+          "meaning_en": "of earth",
+          "meaning_kn": "ಭೂಮಿಯ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "च॒र्कि॒रा॒म॒",
+          "pada_kn": "ಚರ್ಕಿರಾಮ",
+          "meaning_en": "let us proclaim / glorify",
+          "meaning_kn": "ನಾವು ಘೋಷಿಸೋಣ / ಕೀರ್ತಿಸೋಣ"
+        },
+        {
+          "pada_original": "उ॒च्छन्तीः᳚",
+          "pada_kn": "ಉಚ್ಛಂತೀಃ",
+          "meaning_en": "dawning / shining (referring to Ushas)",
+          "meaning_kn": "ಉದಯಿಸುವ / ಪ್ರಕಾಶಿಸುವ"
+        },
+        {
+          "pada_original": "मा‌म्",
+          "pada_kn": "ಮಾಮ್",
+          "meaning_en": "me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "उ॒षसः॑",
+          "pada_kn": "ಉಷಸಃ",
+          "meaning_en": "Dawns / goddesses of dawn",
+          "meaning_kn": "ಉಷಸ್ಸುಗಳು / ಪ್ರಾತಃಕಾಲದ ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "सू॒द॒य॒न्तु॒",
+          "pada_kn": "ಸೂದಯಂತು",
+          "meaning_en": "may they purify / make prosperous",
+          "meaning_kn": "ಅವರು ಶುದ್ಧೀಕರಿಸಲಿ / ಸಮೃದ್ಧಿಗೊಳಿಸಲಿ"
+        },
+        {
+          "pada_original": "अति॑",
+          "pada_kn": "ಅತಿ",
+          "meaning_en": "beyond / over",
+          "meaning_kn": "ಮೀರಿ / ದಾಟಿ"
+        },
+        {
+          "pada_original": "विश्वा᳚नि",
+          "pada_kn": "ವಿಶ್ವಾನಿ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "दुः॒ऽ‌इ॒तानि॑",
+          "pada_kn": "ದುಃಇತಾನಿ",
+          "meaning_en": "evils / difficulties / sins",
+          "meaning_kn": "ದುಷ್ಟತನಗಳನ್ನು / ಕಷ್ಟಗಳನ್ನು / ಪಾಪಗಳನ್ನು"
+        },
+        {
+          "pada_original": "प॒र्ष॒न्",
+          "pada_kn": "ಪರ್ಷನ್",
+          "meaning_en": "may they carry across / deliver",
+          "meaning_kn": "ಅವರು ದಾಟಿಸಲಿ / ಮುಕ್ತಿಗೊಳಿಸಲಿ"
+        }
+      ],
+      "full_meaning_en": "Let us now praise and glorify the swift Dadhikra, who belongs to both heaven and earth; and let us celebrate him. May the dawning Ushas purify me, driving away all sorrows and carrying me beyond all difficulties.",
+      "full_meaning_kn": "ದ್ಯಾವಾ ಪೃಥಿವಿಗಳಿಗೆ ಸೇರಿದ ವೇಗವುಳ್ಳ ದಧಿಕ್ರಾನನ್ನು ಸ್ತುತಿಸೋಣ ಮತ್ತು ಕೊಂಡಾಡೋಣ; ಮತ್ತು ಅವನನ್ನು ಆಚರಿಸೋಣ. ಉದಯಿಸುವ ಉಷಸ್ಸು ನನ್ನನ್ನು ಶುದ್ಧೀಕರಿಸಲಿ, ಎಲ್ಲಾ ದುಃಖಗಳನ್ನು ಓಡಿಸಲಿ ಮತ್ತು ಎಲ್ಲಾ ಕಷ್ಟಗಳನ್ನು ದಾಟಿಸಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "Dadhikra represents the vital force (prana) that connects the earthly and heavenly realms within us. The Ushas, the Dawns, symbolize the awakening of consciousness, dispelling ignorance and negativity. By invoking these energies, one transcends limitations and attains spiritual clarity, thus crossing beyond sorrow (dukha) and difficulty (kashta).",
+      "Insight_kn": "ದಧಿಕ್ರನು ನಮ್ಮೊಳಗಿನ ಭೂಮಂಡಲ ಮತ್ತು ಸ್ವರ್ಗೀಯ ಕ್ಷೇತ್ರಗಳನ್ನು ಸಂಪರ್ಕಿಸುವ ಜೀವ ಶಕ್ತಿಯನ್ನು (ಪ್ರಾಣ) ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಉಷಸ್ಸು, ಅಂದರೆ ಮುಂಜಾನೆ, ಅಜ್ಞಾನ ಮತ್ತು ನಕಾರಾತ್ಮಕತೆಯನ್ನು ಹೋಗಲಾಡಿಸಿ, ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಈ ಶಕ್ತಿಗಳನ್ನು ಆವಾಹಿಸುವುದರಿಂದ, ಮನುಷ್ಯನು ಮಿತಿಗಳನ್ನು ಮೀರಿ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ಪಷ್ಟತೆಯನ್ನು ಪಡೆಯುತ್ತಾನೆ, ಹೀಗಾಗಿ ದುಃಖ ಮತ್ತು ಕಷ್ಟಗಳನ್ನು ದಾಟುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S39_58-2_6",
+      "mandala": 4,
+      "sukta": 39,
+      "ric_index": 2,
+      "rig_lines": [
+        "म॒हश्च॑र्क॒र्म्यर्व॑तः क्रतु॒प्रा द॑धि॒क्राव्णः॑ पुरु॒वार॑स्य॒ वृष्णः॑ |",
+        "यं पू॒रुभ्यो᳚ दीदि॒वांसं॒ नाग्निं द॒दथु᳚र्मित्रावरुणा॒ ततु॑रिम् ||"
+      ],
+      "pre_splits": [
+        "म॒हः",
+        "च॒र्क॒र्मि॒",
+        "अर्व॑तः",
+        "क्र॒तु॒ऽप्राः",
+        "द॒धि॒ऽक्राव्णः॑",
+        "पु॒रु॒ऽवार॑स्य",
+        "वृष्णः॑",
+        "य‌म्",
+        "पू॒रुऽभ्यः॑",
+        "दी॒दि॒ऽवांस᳚‌म्",
+        "न",
+        "अ॒ग्नि‌म्",
+        "द॒दथुः॑",
+        "मि॒त्रा॒व॒रु॒णा॒",
+        "ततु॑रि‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "म॒हः",
+          "pada_kn": "ಮಹಃ",
+          "meaning_en": "of the great",
+          "meaning_kn": "ಮಹತ್ತಾದ/ಶ್ರೇಷ್ಠವಾದ"
+        },
+        {
+          "pada_original": "च॒र्क॒र्मि॒",
+          "pada_kn": "ಚರ್ಕರ್ಮಿ",
+          "meaning_en": "I have accomplished / I have made",
+          "meaning_kn": "ನಾನು ಸಾಧಿಸಿದ್ದೇನೆ/ಮಾಡಿದ್ದೇನೆ"
+        },
+        {
+          "pada_original": "अर्व॑तः",
+          "pada_kn": "ಅರ್ವತಃ",
+          "meaning_en": "of the swift one / of the steed",
+          "meaning_kn": "ವೇಗಶಾಲಿಯಾದವನ/ಅಶ್ವದ"
+        },
+        {
+          "pada_original": "क्र॒तु॒ऽप्राः",
+          "pada_kn": "ಕ್ರತುಪ್ರಾಃ",
+          "meaning_en": "fulfilling desires / inspiring strength",
+          "meaning_kn": "ಸಂಕಲ್ಪಗಳನ್ನು ಪೂರೈಸುವ/ಶಕ್ತಿಯನ್ನು ತುಂಬುವ"
+        },
+        {
+          "pada_original": "द॒धि॒ऽक्राव्णः॑",
+          "pada_kn": "ದಧಿಕ್ರಾವ್ಣಃ",
+          "meaning_en": "of Dadikravan",
+          "meaning_kn": "ದಧಿಕ್ರಾವನನ"
+        },
+        {
+          "pada_original": "पु॒रु॒ऽवार॑स्य",
+          "pada_kn": "ಪುರುವಾರಸ್ಯ",
+          "meaning_en": "of the much-desired",
+          "meaning_kn": "ಹೆಚ್ಚು ಅಪೇಕ್ಷಿತನಾದ"
+        },
+        {
+          "pada_original": "वृष्णः॑",
+          "pada_kn": "ವೃಷ್ಣಃ",
+          "meaning_en": "of the potent / of the showerer (of blessings)",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿಯಾದ/ವರಗಳನ್ನು ಸುರಿಸುವವನ"
+        },
+        {
+          "pada_original": "य‌म्",
+          "pada_kn": "ಯಮ್",
+          "meaning_en": "whom",
+          "meaning_kn": "ಯಾರನ್ನು"
+        },
+        {
+          "pada_original": "पू॒रुऽभ्यः॑",
+          "pada_kn": "ಪೂರುಭ್ಯಃ",
+          "meaning_en": "for the Purus / for the people",
+          "meaning_kn": "ಪೂರುಗಳಿಗಾಗಿ/ಜನರಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "दी॒दि॒ऽवांस᳚‌म्",
+          "pada_kn": "ದೀದಿವಾಂಸಮ್",
+          "meaning_en": "shining / brilliant",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತಿರುವ/ತೇಜಸ್ವಿಯಾದ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as if",
+          "meaning_kn": "ಹಾಗೆ/ಅಂತೆ"
+        },
+        {
+          "pada_original": "अ॒ग्नि‌म्",
+          "pada_kn": "ಅಗ್ನಿಮ್",
+          "meaning_en": "Agni / fire",
+          "meaning_kn": "ಅಗ್ನಿಯನ್ನು/ಬೆಂಕಿಯನ್ನು"
+        },
+        {
+          "pada_original": "द॒दथुः॑",
+          "pada_kn": "ದದಥುಃ",
+          "meaning_en": "you two gave / bestowed",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಕೊಟ್ಟಿದ್ದೀರಿ/ಪ್ರದಾನ ಮಾಡಿದ್ದೀರಿ"
+        },
+        {
+          "pada_original": "मि॒त्रा॒व॒रु॒णा॒",
+          "pada_kn": "ಮಿತ್ರಾವರುಣಾ",
+          "meaning_en": "O Mitra and Varuna",
+          "meaning_kn": "ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ"
+        },
+        {
+          "pada_original": "ततु॑रि‌म्",
+          "pada_kn": "ತತುರಿಮ್",
+          "meaning_en": "conquering / victorious",
+          "meaning_kn": "ಜಯಶಾಲಿಯಾದ/ಗೆಲ್ಲುವ"
+        }
+      ],
+      "full_meaning_en": "I accomplish a great work for the swift, powerful, desire-fulfilling, and much-desired Dadikravan. O Mitra and Varuna, you bestowed upon the Purus that conquering Dadikravan, radiant like Agni.",
+      "full_meaning_kn": "ವೇಗವುಳ್ಳ, ಶಕ್ತಿಯುತ, ಇಚ್ಛಾಪೂರಕ ಮತ್ತು ಹೆಚ್ಚು ಅಪೇಕ್ಷಿತ ದಧಿಕ್ರಾವನ್ಗಾಗಿ ನಾನು ಒಂದು ದೊಡ್ಡ ಕೆಲಸವನ್ನು ಸಾಧಿಸುತ್ತೇನೆ. ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ, ನೀವು ಪುರುಷರಿಗೆ ಅಗ್ನಿಯಂತೆ ಪ್ರಕಾಶಿಸುವ ವಿಜಯಶಾಲಿಯಾದ ದಧಿಕ್ರಾವನ್ ಅನ್ನು ದಯಪಾಲಿಸಿದ್ದೀರಿ.",
+      "rig_time_s": 14.329,
+      "Insight_en": "Dadhikravan represents the dynamic energy of consciousness, swift and potent in fulfilling desires. This inner force, radiant like अग्नि Agni, is bestowed upon humanity by the harmonizing principles of existence, मित्रावरुणा Mitra and Varuna. Realization dawns when the individual Purusha recognizes this divine gift within.",
+      "Insight_kn": "ದಧಿಕ್ರಾವನ್ ಚೇತನದ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಅದು ಆಸೆಗಳನ್ನು ಪೂರೈಸುವಲ್ಲಿ ವೇಗವುಳ್ಳ ಮತ್ತು ಶಕ್ತಿಯುತವಾಗಿದೆ. ಅಗ್ನಿಯಂತೆ ಪ್ರಕಾಶಿಸುವ ಈ ಆಂತರಿಕ ಶಕ್ತಿಯನ್ನು ಮಿತ್ರಾವರುಣರು ಮಾನವಕುಲಕ್ಕೆ ನೀಡುತ್ತಾರೆ. ವ್ಯಕ್ತಿಯು ತನ್ನೊಳಗೆ ಈ ದೈವಿಕ ಕೊಡುಗೆಯನ್ನು ಗುರುತಿಸಿದಾಗ ಸಾಕ್ಷಾತ್ಕಾರ ಉಂಟಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S39_58-3_6",
+      "mandala": 4,
+      "sukta": 39,
+      "ric_index": 3,
+      "rig_lines": [
+        "यो, अश्व॑स्य दधि॒क्राव्णो॒, अका᳚री॒त् समि॑द्धे, अ॒ग्ना, उ॒षसो॒ व्यु॑ष्टौ |",
+        "अना᳚गसं॒ तमदि॑तिः कृणोतु॒ स मि॒त्रेण॒ वरु॑णेना स॒जोषाः᳚ ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "अश्व॑स्य",
+        "द॒धि॒ऽक्राव्णः॑",
+        "अका᳚रीत्",
+        "स‌म्ऽ‌इ᳚द्धे",
+        "अ॒ग्नौ",
+        "उ॒षसः॑",
+        "वि।औ᳚ष्टौ",
+        "अना᳚गस‌म्",
+        "त‌म्",
+        "अदि॑तिः",
+        "कृ॒णो॒तु॒",
+        "सः",
+        "मि॒त्रेण॑",
+        "वरु॑णेन",
+        "स॒ऽजोषाः᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who / Whoever",
+          "meaning_kn": "ಯಾರು / ಯಾವನು"
+        },
+        {
+          "pada_original": "अश्व॑स्य",
+          "pada_kn": "ಅಶ್ವಸ್ಯ",
+          "meaning_en": "of the horse / of the swift one",
+          "meaning_kn": "ಕುದುರೆಯ / ವೇಗಶಾಲಿಯ"
+        },
+        {
+          "pada_original": "द॒धि॒ऽक्राव्णः॑",
+          "pada_kn": "ದಧಿಕ್ರಾವ್ಣಃ",
+          "meaning_en": "of Dadhikravan (a divine horse)",
+          "meaning_kn": "ದಧಿಕ್ರಾವನ್‌ನ (ಒಂದು ದೈವಿಕ ಕುದುರೆ)"
+        },
+        {
+          "pada_original": "अका᳚रीत्",
+          "pada_kn": "ಅಕಾರೀತ್",
+          "meaning_en": "has praised / has performed (a ritual)",
+          "meaning_kn": "ಸ್ತುತಿಸಿದ್ದಾನೋ / (ಯಜ್ಞವನ್ನು) ಮಾಡಿದ್ದಾನೋ"
+        },
+        {
+          "pada_original": "स‌म्ऽ‌इ᳚द्धे",
+          "pada_kn": "ಸಮಿದ್ಧೇ",
+          "meaning_en": "in the kindled / in the well-lit",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ ಪ್ರಜ್ವಲಿಸಿದ / ಹೊತ್ತಿಸಿದ"
+        },
+        {
+          "pada_original": "अ॒ग्नौ",
+          "pada_kn": "ಅಗ್ನೌ",
+          "meaning_en": "in the fire",
+          "meaning_kn": "ಅಗ್ನಿಯಲ್ಲಿ / ಬೆಂಕಿಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "उ॒षसः॑",
+          "pada_kn": "ಉಷಸಃ",
+          "meaning_en": "of Dawn",
+          "meaning_kn": "ಉಷಸ್ಸಿನ / ಪ್ರಭಾತದ"
+        },
+        {
+          "pada_original": "वि।औ᳚ष्टौ",
+          "pada_kn": "ವ್ಯೌಷ್ಟೌ",
+          "meaning_en": "at the break / at the shining forth",
+          "meaning_kn": "ಉದಯದಲ್ಲಿ / ಪ್ರಕಾಶದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अना᳚गस‌म्",
+          "pada_kn": "ಅನಾಗಸಮ್",
+          "meaning_en": "sinless / blameless",
+          "meaning_kn": "ಪಾಪರಹಿತನನ್ನಾಗಿ / ನಿರ್ದೋಷಿಯನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "अदि॑तिः",
+          "pada_kn": "ಅದಿತಿಃ",
+          "meaning_en": "Aditi (the goddess)",
+          "meaning_kn": "ಅದಿತಿ (ದೇವತೆ)"
+        },
+        {
+          "pada_original": "कृ॒णो॒तु॒",
+          "pada_kn": "ಕೃಣೋತು",
+          "meaning_en": "may she make",
+          "meaning_kn": "ಅವಳು ಮಾಡಲಿ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "मि॒त्रेण॑",
+          "pada_kn": "ಮಿತ್ರೇಣ",
+          "meaning_en": "with Mitra",
+          "meaning_kn": "ಮಿತ್ರನೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "वरु॑णेन",
+          "pada_kn": "ವರುಣೇನ",
+          "meaning_en": "with Varuna",
+          "meaning_kn": "ವರುಣನೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "स॒ऽजोषाः᳚",
+          "pada_kn": "ಸಜೋಷಾಃ",
+          "meaning_en": "pleased / in harmony",
+          "meaning_kn": "ಸಂತುಷ್ಟನಾಗಿ / ಒಟ್ಟಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O Aditi, may she render sinless the one who has lauded Dadhikravan, the swift steed, when Agni is well kindled, at the shining forth of dawn. May he be in accord and of one mind with Mitra and Varuna.",
+      "full_meaning_kn": "ಓ ಅದಿತಿಯೇ, ಯಾರು ಉದಯಕಾಲದ ಹೊಳಪಿನಲ್ಲಿ, ಚೆನ್ನಾಗಿ ಉರಿಯುತ್ತಿರುವ ಅಗ್ನಿಯಲ್ಲಿ, ವೇಗದ ಕುದುರೆಯಾದ ದಧಿಕ್ರಾವನ್ನು ಹೊಗಳುತ್ತಾರೋ, ಅವರನ್ನು ನೀನು ಪಾಪರಹಿತನನ್ನಾಗಿ ಮಾಡು. ಅವನು ಮಿತ್ರ ಮತ್ತು ವರುಣರೊಂದಿಗೆ ಸಾಮರಸ್ಯದಿಂದ ಮತ್ತು ಒಂದೇ ಮನಸ್ಸಿನಿಂದ ಇರಲಿ.",
+      "rig_time_s": 28.767,
+      "Insight_en": "Dadhikravan, the swift horse, represents the awakened vital energy (prana shakti). Praising this energy in the presence of the well-kindled fire (agni) symbolizes the conscious channeling of inner power. Aditi, the boundless mother, removes the impurities that hinder spiritual progress. Harmony with Mitra and Varuna signifies the balance of light and darkness, essential for self-realization.",
+      "Insight_kn": "ದಧಿಕ್ರಾವನ್, ವೇಗದ ಕುದುರೆ, ಜಾಗೃತಗೊಂಡ ಪ್ರಾಣ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಚೆನ್ನಾಗಿ ಉರಿಯುತ್ತಿರುವ ಅಗ್ನಿಯ (ಅಗ್ನಿ) ಸಮ್ಮುಖದಲ್ಲಿ ಈ ಶಕ್ತಿಯನ್ನು ಸ್ತುತಿಸುವುದು ಆಂತರಿಕ ಶಕ್ತಿಯ ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಚಾನಲ್ ಅನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಅದಿತಿ, ಅನಂತ ತಾಯಿ, ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅಡ್ಡಿಯಾಗುವ ಕಲ್ಮಶಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತಾಳೆ. ಮಿತ್ರ ಮತ್ತು ವರುಣರೊಂದಿಗಿನ ಸಾಮರಸ್ಯವು ಬೆಳಕು ಮತ್ತು ಕತ್ತಲೆಯ ಸಮತೋಲನವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ಅತ್ಯಗತ್ಯ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S39_58-4_6",
+      "mandala": 4,
+      "sukta": 39,
+      "ric_index": 4,
+      "rig_lines": [
+        "द॒धि॒क्राव्ण॑ इ॒ष ऊ॒र्जो म॒हो यदम᳚न्महि म॒रुतां॒ नाम॑ भ॒द्रम् |",
+        "स्व॒स्तये॒ वरु॑णं मि॒त्रम॒ग्निं हवा᳚मह॒ इन्द्रं॒ वज्र॑बाहुम् ||"
+      ],
+      "pre_splits": [
+        "द॒धि॒ऽक्राव्णः॑",
+        "इ॒षः",
+        "ऊ॒र्जः",
+        "म॒हः",
+        "यत्",
+        "अम᳚न्महि",
+        "म॒रुता᳚‌म्",
+        "नाम॑",
+        "भ॒द्र‌म्",
+        "स्व॒स्तये᳚",
+        "वरु॑ण‌म्",
+        "मि॒त्र‌म्",
+        "अ॒ग्नि‌म्",
+        "हवा᳚महे",
+        "इन्द्र᳚‌म्",
+        "वज्र॑ऽबाहु‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "द॒धि॒ऽक्राव्णः॑",
+          "pada_kn": "ದಧಿಕ್ರಾವ್ಣಃ",
+          "meaning_en": "Of Dadhikravan (a divine horse/deity)",
+          "meaning_kn": "ದಧಿಕ್ರಾವ್ಣನ (ದೈವಿಕ ಅಶ್ವ/ದೇವತೆ)"
+        },
+        {
+          "pada_original": "इ॒षः",
+          "pada_kn": "ಇಷಃ",
+          "meaning_en": "Of food / nourishment",
+          "meaning_kn": "ಅನ್ನದ / ಪೋಷಣೆಯ"
+        },
+        {
+          "pada_original": "ऊ॒र्जः",
+          "pada_kn": "ಊರ್ಜಃ",
+          "meaning_en": "Of strength / vigor",
+          "meaning_kn": "ಶಕ್ತಿಯ / ಬಲದ"
+        },
+        {
+          "pada_original": "म॒हः",
+          "pada_kn": "ಮಹಃ",
+          "meaning_en": "Of greatness / abundance",
+          "meaning_kn": "ಮಹತ್ವದ / ಸಮೃದ್ಧಿಯ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "Which / that",
+          "meaning_kn": "ಯಾವುದನ್ನು / ಯಾವ"
+        },
+        {
+          "pada_original": "अम᳚न्महि",
+          "pada_kn": "ಅಮನ್ಮಹಿ",
+          "meaning_en": "We have thought / we have praised",
+          "meaning_kn": "ನಾವು ಸ್ಮರಿಸಿದ್ದೇವೆ / ನಾವು ಸ್ತುತಿಸಿದ್ದೇವೆ"
+        },
+        {
+          "pada_original": "म॒रुता᳚‌म्",
+          "pada_kn": "ಮರುತಾಮ್",
+          "meaning_en": "Of the Maruts (storm gods)",
+          "meaning_kn": "ಮರುತ್‌ಗಳ (ಗಾಳಿ ದೇವರುಗಳು)"
+        },
+        {
+          "pada_original": "नाम॑",
+          "pada_kn": "ನಾಮ",
+          "meaning_en": "Name",
+          "meaning_kn": "ಹೆಸರನ್ನು"
+        },
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "Auspicious / benevolent",
+          "meaning_kn": "ಮಂಗಳಕರವಾದ / ಶುಭಕರವಾದ"
+        },
+        {
+          "pada_original": "स्व॒स्तये᳚",
+          "pada_kn": "ಸ್ವಸ್ತಯೇ",
+          "meaning_en": "For well-being / for prosperity",
+          "meaning_kn": "ಶುಭಕ್ಕಾಗಿ / ಕ್ಷೇಮಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "वरु॑ण‌म्",
+          "pada_kn": "ವರುಣಮ್",
+          "meaning_en": "Varuna",
+          "meaning_kn": "ವರುಣನನ್ನು"
+        },
+        {
+          "pada_original": "मि॒त्र‌म्",
+          "pada_kn": "ಮಿತ್ರಮ್",
+          "meaning_en": "Mitra",
+          "meaning_kn": "ಮಿತ್ರನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒ग्नि‌म्",
+          "pada_kn": "ಅಗ್ನಿಮ್",
+          "meaning_en": "Agni",
+          "meaning_kn": "ಅಗ್ನಿಯನ್ನು"
+        },
+        {
+          "pada_original": "हवा᳚महे",
+          "pada_kn": "ಹವಾಮಹೇ",
+          "meaning_en": "We invoke / we call",
+          "meaning_kn": "ನಾವು ಆಹ್ವಾನಿಸುತ್ತೇವೆ / ನಾವು ಕರೆಯುತ್ತೇವೆ"
+        },
+        {
+          "pada_original": "इन्द्र᳚‌म्",
+          "pada_kn": "ಇಂದ್ರಮ್",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನನ್ನು"
+        },
+        {
+          "pada_original": "वज्र॑ऽबाहु‌म्",
+          "pada_kn": "ವಜ್ರಬಾಹುಮ್",
+          "meaning_en": "Thunderbolt-armed / having thunderbolt arms",
+          "meaning_kn": "ವಜ್ರಾಯುಧಧಾರಿಯಾದ / ವಜ್ರಬಾಹುವಾದ"
+        }
+      ],
+      "full_meaning_en": "We have meditated upon the invigorating Dadhikravan, source of sustenance and might, and upon the benevolent name of the Maruts. For our prosperity, we invoke Varuna, Mitra, Agni, and Indra, wielder of the thunderbolt.",
+      "full_meaning_kn": "ದಧಿಕ್ರಾವ್ಣನ ಶುಭ ನಾಮವನ್ನು ಧ್ಯಾನಿಸಿದ್ದೇವೆ, ಅದು ಅನ್ನ ಮತ್ತು ಬಲದ ಮೂಲ. ಮರುತ್ತುಗಳ ಕರುಣಾಮಯಿ ಹೆಸರನ್ನು ಸ್ಮರಿಸುತ್ತೇವೆ. ನಮ್ಮ ಯೋಗಕ್ಷೇಮಕ್ಕಾಗಿ, ವರುಣ, ಮಿತ್ರ, ಅಗ್ನಿ ಮತ್ತು ವಜ್ರಧಾರಿಯಾದ ಇಂದ್ರನನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.",
+      "rig_time_s": 43.666,
+      "Insight_en": "The mantra unveils the profound connection between external deities and inner energies. Dadhikravan represents the dynamic force of пра̄ṇa, the life-sustaining energy. The Maruts embody the diverse aspects of mental and emotional vitality. Invoking Varuna, Mitra, Agni, and Indra signifies harmonizing the cosmic forces within, leading to holistic well-being and spiritual awakening. The vajra (thunderbolt) of Indra is symbolic of the awakened intellect that cuts through ignorance.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಬಾಹ್ಯ ದೇವತೆಗಳು ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿಗಳ ನಡುವಿನ ಆಳವಾದ ಸಂಬಂಧವನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತದೆ. ದಧಿಕ್ರಾವನ್ ಪ್ರಾಣದ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಜೀವಧಾರಕ ಶಕ್ತಿಯಾಗಿದೆ. ಮರುತ್‌ಗಳು ಮಾನಸಿಕ ಮತ್ತು ಭಾವನಾತ್ಮಕ ಚೈತನ್ಯದ ವಿವಿಧ ಅಂಶಗಳನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾರೆ. ವರುಣ, ಮಿತ್ರ, ಅಗ್ನಿ ಮತ್ತು ಇಂದ್ರನನ್ನು ಆಹ್ವಾನಿಸುವುದು ಎಂದರೆ ಆಂತರಿಕ ಕಾಸ್ಮಿಕ್ ಶಕ್ತಿಗಳನ್ನು ಸಾಮರಸ್ಯಗೊಳಿಸುವುದು, ಇದು ಸಮಗ್ರ ಯೋಗಕ್ಷೇಮ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಜಾಗೃತಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಇಂದ್ರನ ವಜ್ರವು ಜ್ಞಾನೋದಯಗೊಂಡ ಬುದ್ಧಿಶಕ್ತಿಯ ಸಂಕೇತವಾಗಿದೆ, ಅದು ಅಜ್ಞಾನವನ್ನು ಕತ್ತರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S39_58-5_6",
+      "mandala": 4,
+      "sukta": 39,
+      "ric_index": 5,
+      "rig_lines": [
+        "इन्द्र॑मि॒वेदु॒भये॒ वि ह्व॑यन्त उ॒दीरा᳚णा य॒ज्ञमु॑पप्र॒यन्तः॑ |",
+        "द॒धि॒क्रामु॒ सूद॑नं॒ मर्त्या᳚य द॒दथु᳚र्मित्रावरुणा नो॒, अश्व᳚म् ||"
+      ],
+      "pre_splits": [
+        "इन्द्र᳚‌म्ऽ‌इव",
+        "इत्",
+        "उ॒भये᳚",
+        "वि",
+        "ह्व॒य॒न्ते॒",
+        "उ॒त्ऽईरा᳚णाः",
+        "य॒ज्ञ‌म्",
+        "उ॒प॒ऽप्र॒यन्तः॑",
+        "द॒धि॒ऽक्रा‌म्",
+        "ऊँ॒ इति॑",
+        "सूद॑न‌म्",
+        "मर्त्या᳚य",
+        "द॒दथुः॑",
+        "मि॒त्रा॒व॒रु॒णा॒",
+        "नः॒",
+        "अश्व᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इन्द्र᳚‌म्ऽ‌इव",
+          "pada_kn": "ಇಂದ್ರಮ್‌ಇವ",
+          "meaning_en": "like Indra",
+          "meaning_kn": "ಇಂದ್ರನಂತೆ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿ / ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "उ॒भये᳚",
+          "pada_kn": "ಉಭಯೇ",
+          "meaning_en": "both (parties)",
+          "meaning_kn": "ಇಬ್ಬರೂ / ಎರಡೂ ಕಡೆಯವರು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "(prefix for calling)",
+          "meaning_kn": "ವಿಶೇಷವಾಗಿ"
+        },
+        {
+          "pada_original": "ह्व॒य॒न्ते॒",
+          "pada_kn": "ಹ್ವಯನ್ತೇ",
+          "meaning_en": "they call / invoke",
+          "meaning_kn": "ಅವರು ಕರೆಯುತ್ತಾರೆ / ಆಹ್ವಾನಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "उ॒त्ऽईरा᳚णाः",
+          "pada_kn": "ಉತ್‌ಈರಾಣಾಃ",
+          "meaning_en": "rousing / stimulating",
+          "meaning_kn": "ಪ್ರೇರೇಪಿಸುತ್ತಾ / ಉತ್ತೇಜಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "य॒ज्ञ‌म्",
+          "pada_kn": "ಯಜ್ಞಮ್",
+          "meaning_en": "the sacrifice",
+          "meaning_kn": "ಯಜ್ಞವನ್ನು"
+        },
+        {
+          "pada_original": "उ॒प॒ऽप्र॒यन्तः॑",
+          "pada_kn": "ಉಪಪ್ರಯನ್ತಃ",
+          "meaning_en": "approaching / going near",
+          "meaning_kn": "ಸಮೀಪಿಸುತ್ತಾ / ಹತ್ತಿರ ಹೋಗುತ್ತಾ"
+        },
+        {
+          "pada_original": "द॒धि॒ऽक्रा‌म्",
+          "pada_kn": "ದಧಿಕ್ರಾಮ್",
+          "meaning_en": "Dadikra (the divine horse)",
+          "meaning_kn": "ದಧಿಕ್ರಾ (ಎಂಬ ಅಶ್ವವನ್ನು)"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "and / indeed",
+          "meaning_kn": "ಮತ್ತು / ಖಂಡಿತವಾಗಿ"
+        },
+        {
+          "pada_original": "सूद॑न‌म्",
+          "pada_kn": "ಸೂದನಮ್",
+          "meaning_en": "the quickener / bestower of strength",
+          "meaning_kn": "ವೇಗವನ್ನು ನೀಡುವವನು / ಶಕ್ತಿಯನ್ನು ಕೊಡುವವನು"
+        },
+        {
+          "pada_original": "मर्त्या᳚य",
+          "pada_kn": "ಮರ್ತ್ಯಾಯ",
+          "meaning_en": "for the mortal / for man",
+          "meaning_kn": "ಮನುಷ್ಯನಿಗಾಗಿ / ಮರ್ತ್ಯನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "द॒दथुः॑",
+          "pada_kn": "ದದಥುಃ",
+          "meaning_en": "you two have given / bestowed",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಕೊಟ್ಟಿದ್ದೀರಿ / ಪ್ರದಾನ ಮಾಡಿದ್ದೀರಿ"
+        },
+        {
+          "pada_original": "मि॒त्रा॒व॒रु॒णा॒",
+          "pada_kn": "ಮಿತ್ರಾವರುಣಾ",
+          "meaning_en": "O Mitra and Varuna",
+          "meaning_kn": "ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ / ನಮಗಾಗಿ"
+        },
+        {
+          "pada_original": "अश्व᳚‌म्",
+          "pada_kn": "ಅಶ್ವಮ್",
+          "meaning_en": "the horse",
+          "meaning_kn": "ಅಶ್ವವನ್ನು / ಕುದುರೆಯನ್ನು"
+        }
+      ],
+      "full_meaning_en": "Indeed, both sides invoke you like Indra, rousing the sacrifice as they approach it. O Mitra and Varuna, you bestow upon us Dadikra, the swift horse, for the benefit of mortal beings.",
+      "full_meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ, ಎರಡೂ ಕಡೆಯವರು ಇಂದ್ರನಂತೆ ನಿಮ್ಮನ್ನು ಆಹ್ವಾನಿಸುತ್ತಾರೆ, ಯಜ್ಞಕ್ಕೆ ಸಮೀಪಿಸುತ್ತಾ ಅದನ್ನು ಪ್ರಚೋದಿಸುತ್ತಾರೆ. ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ, ಮರ್ತ್ಯ ಜೀವಿಗಳ ಒಳಿತಿಗಾಗಿ ನೀವು ನಮಗೆ ಶೀಘ್ರ ಕುದುರೆಯಾದ ದಧಿಕ್ರನನ್ನು ದಯಪಾಲಿಸುತ್ತೀರಿ.",
+      "rig_time_s": 57.451,
+      "Insight_en": "The mantra speaks to the dualistic nature of existence, represented by Mitra and Varuna, and the invocation of divine power, symbolized by Indra. Dadikra, the swift horse, represents the awakened and directed life force that propels us towards spiritual realization. This inner force, when properly channeled, becomes the vehicle for transcending mortal limitations.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಸ್ತಿತ್ವದ ದ್ವಂದ್ವ ಸ್ವರೂಪವನ್ನು ಹೇಳುತ್ತದೆ, ಇದನ್ನು ಮಿತ್ರ ಮತ್ತು ವರುಣರು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ ಮತ್ತು ದೈವಿಕ ಶಕ್ತಿಯ ಆಹ್ವಾನವನ್ನು ಇಂದ್ರನಿಂದ ಸಂಕೇತಿಸಲಾಗಿದೆ. ಶೀಘ್ರ ಕುದುರೆಯಾದ ದಧಿಕ್ರನು ಜಾಗೃತ ಮತ್ತು ನಿರ್ದೇಶಿತ ಜೀವನ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಅದು ನಮ್ಮನ್ನು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ತಳ್ಳುತ್ತದೆ. ಈ ಆಂತರಿಕ ಶಕ್ತಿಯು ಸರಿಯಾಗಿ ನಿರ್ದೇಶಿಸಲ್ಪಟ್ಟಾಗ, ಅದು ಮರ್ತ್ಯ ಮಿತಿಗಳನ್ನು ಮೀರಲು ವಾಹನವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S39_58-6_6",
+      "mandala": 4,
+      "sukta": 39,
+      "ric_index": 6,
+      "rig_lines": [
+        "द॒धि॒क्राव्णो᳚, अकारिषं जि॒ष्णोरश्व॑स्य वा॒जिनः॑ |",
+        "सु॒र॒भि नो॒ मुखा᳚ कर॒त् प्र ण॒ आयूं᳚षि तारिषत् ||"
+      ],
+      "pre_splits": [
+        "द॒धि॒ऽक्राव्णः॑",
+        "अ॒का॒रि॒ष॒‌म्",
+        "जि॒ष्णोः",
+        "अश्व॑स्य",
+        "वा॒जिनः॑",
+        "सु॒र॒भि",
+        "नः॒",
+        "मुखा᳚",
+        "क॒र॒त्",
+        "प्र",
+        "नः॒",
+        "आयूं᳚षि",
+        "ता॒रि॒ष॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "द॒धि॒ऽक्राव्णः॑",
+          "pada_kn": "ದಧಿಕ್ರಾವ್ಣಃ",
+          "meaning_en": "Of Dadhikravan (the divine horse)",
+          "meaning_kn": "ದಧಿಕ್ರಾವನ್ (ದೈವಿಕ ಅಶ್ವ)ನ"
+        },
+        {
+          "pada_original": "अ॒का॒रि॒ष॒‌म्",
+          "pada_kn": "ಅಕಾರಿಷಮ್",
+          "meaning_en": "I have performed / I have made (praise)",
+          "meaning_kn": "ನಾನು ಮಾಡಿದ್ದೇನೆ / ಸ್ತುತಿಸಿದ್ದೇನೆ"
+        },
+        {
+          "pada_original": "जि॒ष्णोः",
+          "pada_kn": "ಜಿಷ್ಣೋಃ",
+          "meaning_en": "Of the victorious one",
+          "meaning_kn": "ವಿಜಯಶಾಲಿಯಾದವನ"
+        },
+        {
+          "pada_original": "अश्व॑स्य",
+          "pada_kn": "ಅಶ್ವಸ್ಯ",
+          "meaning_en": "Of the horse",
+          "meaning_kn": "ಅಶ್ವದ / ಕುದುರೆಯ"
+        },
+        {
+          "pada_original": "वा॒जिनः॑",
+          "pada_kn": "ವಾಜಿನಃ",
+          "meaning_en": "Of the swift/strong one",
+          "meaning_kn": "ವೇಗವುಳ್ಳವನ / ಬಲಶಾಲಿಯಾದವನ"
+        },
+        {
+          "pada_original": "सु॒र॒भि",
+          "pada_kn": "ಸುರಭಿ",
+          "meaning_en": "Fragrant / Sweet-smelling",
+          "meaning_kn": "ಸುಗಂಧಭರಿತ / ಸುವಾಸನೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Our (us)",
+          "meaning_kn": "ನಮ್ಮ / ನಮಗೆ"
+        },
+        {
+          "pada_original": "मुखा᳚",
+          "pada_kn": "ಮುಖಾ",
+          "meaning_en": "Mouths / Faces",
+          "meaning_kn": "ಮುಖಗಳನ್ನು / ಬಾಯಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "क॒र॒त्",
+          "pada_kn": "ಕರತ್",
+          "meaning_en": "May he make / May he do",
+          "meaning_kn": "ಅವನು ಮಾಡಲಿ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "Forth / Forward (intensifying prefix)",
+          "meaning_kn": "ಮುಂದೆ / ಹೆಚ್ಚಾಗಿ (ಕ್ರಿಯಾಪದದೊಂದಿಗೆ ಸೇರಿ ಅರ್ಥವನ್ನು ತೀವ್ರಗೊಳಿಸುತ್ತದೆ)"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Our (us)",
+          "meaning_kn": "ನಮ್ಮ / ನಮಗೆ"
+        },
+        {
+          "pada_original": "आयूं᳚षि",
+          "pada_kn": "ಆಯೂಂಷಿ",
+          "meaning_en": "Lifespans / Lives",
+          "meaning_kn": "ಆಯುಷ್ಯಗಳನ್ನು / ಜೀವನಗಳನ್ನು"
+        },
+        {
+          "pada_original": "ता॒रि॒ष॒त्",
+          "pada_kn": "ತಾರಿಷತ್",
+          "meaning_en": "May he prolong / May he extend",
+          "meaning_kn": "ಅವನು ವಿಸ್ತರಿಸಲಿ / ಹೆಚ್ಚಿಸಲಿ"
+        }
+      ],
+      "full_meaning_en": "I have rendered adoration unto Dadhikravan, the conquering steed of might. May he bestow upon our countenances a sweet savor and extend the measure of our days.",
+      "full_meaning_kn": "ನಾನು ಜಯಶಾಲಿಯಾದ, ಬಲಿಷ್ಠ ಕುದುರೆಯಾದ ದಧಿಕ್ರಾವನಿಗೆ ಸ್ತುತಿಯನ್ನು ಸಲ್ಲಿಸಿದ್ದೇನೆ. ಆತನು ನಮ್ಮ ಮುಖಗಳಿಗೆ ಸುವಾಸನೆಯನ್ನು ನೀಡಲಿ ಮತ್ತು ನಮ್ಮ ಆಯುಷ್ಯವನ್ನು ಹೆಚ್ಚಿಸಲಿ.",
+      "rig_time_s": 71.526,
+      "Insight_en": "Dadhikravan symbolizes the prana, the vital life force within. Invoking Dadhikravan is to awaken the inherent power of prana to purify our thoughts (mouth becoming fragrant) and extend our spiritual lifespan, transcending mere physical existence. The horse represents the dynamic energy needed for spiritual progress, a force to be harnessed and directed towards inner realization. Through devotion, one aligns with the cosmic prana, fostering both inner peace and longevity.",
+      "Insight_kn": "ದಧಿಕ್ರಾವನ್ ಎಂಬುದು ಪ್ರಾಣವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಅದು ಒಳಗಿನ ಪ್ರಮುಖ ಜೀವ ಶಕ್ತಿಯಾಗಿದೆ. ದಧಿಕ್ರಾವನನ್ನು ಆಹ್ವಾನಿಸುವುದು ಎಂದರೆ ನಮ್ಮ ಆಲೋಚನೆಗಳನ್ನು ಶುದ್ಧೀಕರಿಸಲು (ಬಾಯಿ ಪರಿಮಳಯುಕ್ತವಾಗುವುದು) ಮತ್ತು ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಜೀವಿತಾವಧಿಯನ್ನು ಹೆಚ್ಚಿಸಲು ಪ್ರಾಣದ ಅಂತರ್ಗತ ಶಕ್ತಿಯನ್ನು ಜಾಗೃತಗೊಳಿಸುವುದು, ಕೇವಲ ಭೌತಿಕ ಅಸ್ತಿತ್ವವನ್ನು ಮೀರುವುದು. ಕುದುರೆಯು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅಗತ್ಯವಾದ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಆಂತರಿಕ ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ಬಳಸಿಕೊಳ್ಳುವ ಮತ್ತು ನಿರ್ದೇಶಿಸಬೇಕಾದ ಶಕ್ತಿಯಾಗಿದೆ. ಭಕ್ತಿಯ ಮೂಲಕ, ಒಬ್ಬರು ಕಾಸ್ಮಿಕ್ ಪ್ರಾಣದೊಂದಿಗೆ ಒಂದಾಗುತ್ತಾರೆ, ಇದು ಆಂತರಿಕ ಶಾಂತಿ ಮತ್ತು ದೀರ್ಘಾಯುಷ್ಯವನ್ನು ಬೆಳೆಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

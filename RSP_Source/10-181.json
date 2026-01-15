@@ -1,0 +1,468 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S181_191-1_3",
+      "mandala": 10,
+      "sukta": 181,
+      "ric_index": 1,
+      "rig_lines": [
+        "प्रथ॑श्च॒ यस्य॑ स॒प्रथ॑श्च॒ नामानु॑ष्टुभस्य ह॒विषो᳚ ह॒विर्यत् |",
+        "धा॒तुर्द्युता᳚नात्सवि॒तुश्च॒ विष्णो᳚ रथंत॒रमा ज॑भारा॒ वसि॑ष्ठः ||"
+      ],
+      "pre_splits": [
+        "प्रथः॑",
+        "च॒",
+        "यस्य॑",
+        "स॒ऽप्रथः॑",
+        "च॒",
+        "नाम॑",
+        "आनु॑ऽस्तुभस्य",
+        "ह॒विषः॑",
+        "ह॒विः",
+        "यत्",
+        "धा॒तुः",
+        "द्युता᳚नात्",
+        "स॒वि॒तुः",
+        "च॒",
+        "विष्णोः᳚",
+        "र॒थ॒‌म्ऽत॒र‌म्",
+        "आ",
+        "ज॒भा॒र॒",
+        "वसि॑ष्ठः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्रथः॑",
+          "pada_kn": "ಪ್ರಥಃ",
+          "meaning_en": "expanse / fame",
+          "meaning_kn": "ವಿಸ್ತಾರ / ಖ್ಯಾತಿ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "whose",
+          "meaning_kn": "ಯಾರ"
+        },
+        {
+          "pada_original": "स॒ऽप्रथः॑",
+          "pada_kn": "ಸಪ್ರಥಃ",
+          "meaning_en": "wide expanse / great fame",
+          "meaning_kn": "ವ್ಯಾಪಕ ವಿಸ್ತಾರ / ಮಹಾ ಖ್ಯಾತಿ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "नाम॑",
+          "pada_kn": "ನಾಮ",
+          "meaning_en": "name",
+          "meaning_kn": "ಹೆಸರು"
+        },
+        {
+          "pada_original": "आनु॑ऽस्तुभस्य",
+          "pada_kn": "ಆನುಷ್ಟುಭಸ್ಯ",
+          "meaning_en": "of the Anushtubh (metre/hymn)",
+          "meaning_kn": "ಅನುಷ್ಟುಪ್ ಛಂದಸ್ಸಿನ / ಸ್ತೋತ್ರದ"
+        },
+        {
+          "pada_original": "ह॒विषः॑",
+          "pada_kn": "ಹವಿಷಃ",
+          "meaning_en": "of the oblation",
+          "meaning_kn": "ಹವಿಸ್ಸಿನ"
+        },
+        {
+          "pada_original": "ह॒विः",
+          "pada_kn": "ಹವಿಃ",
+          "meaning_en": "the oblation",
+          "meaning_kn": "ಹವಿಸ್ಸು"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "which / that",
+          "meaning_kn": "ಯಾವುದು / ಅದು"
+        },
+        {
+          "pada_original": "धा॒तुः",
+          "pada_kn": "ಧಾತುಃ",
+          "meaning_en": "from Dhatri / from the creator",
+          "meaning_kn": "ಧಾತೃವಿನಿಂದ / ಸೃಷ್ಟಿಕರ್ತನಿಂದ"
+        },
+        {
+          "pada_original": "द्युता᳚नात्",
+          "pada_kn": "ದ್ಯುತಾನಾತ್",
+          "meaning_en": "from Dyutana (a luminous deity) / from the shining one",
+          "meaning_kn": "ದ್ಯುತಾನನಿಂದ / ಪ್ರಕಾಶಮಾನನಿಂದ"
+        },
+        {
+          "pada_original": "स॒वि॒तुः",
+          "pada_kn": "ಸವಿತುಃ",
+          "meaning_en": "from Savitr",
+          "meaning_kn": "ಸವಿತೃವಿನಿಂದ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "विष्णोः᳚",
+          "pada_kn": "ವಿಷ್ಣೋಃ",
+          "meaning_en": "from Vishnu",
+          "meaning_kn": "ವಿಷ್ಣುವಿನಿಂದ"
+        },
+        {
+          "pada_original": "र॒थ॒‌म्ऽत॒र‌म्",
+          "pada_kn": "ರಥಂತರಮ್",
+          "meaning_en": "Rathantara (a Saman chant)",
+          "meaning_kn": "ರಥಂತರ (ಒಂದು ಸಾಮಗಾನ)"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / (prefix to verb)",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / (ಕ್ರಿಯಾಪದಕ್ಕೆ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "ज॒भा॒र॒",
+          "pada_kn": "ಜಭಾರ",
+          "meaning_en": "brought / carried",
+          "meaning_kn": "ತಂದನು / ಹೊತ್ತು ತಂದನು"
+        },
+        {
+          "pada_original": "वसि॑ष्ठः",
+          "pada_kn": "ವಸಿಷ್ಠಃ",
+          "meaning_en": "Vasishtha (the sage)",
+          "meaning_kn": "ವಸಿಷ್ಠ (ಋಷಿ)"
+        }
+      ],
+      "full_meaning_en": "The sage Vasishtha brought the Rathantara (Saman chant) – which is the oblation of the Anushtubh hymn, whose name is both \"Pratha\" (expanse/fame) and \"Sapratha\" (wide expanse/great fame) – from Dhatri, Dyutana, Savitr, and Vishnu.",
+      "full_meaning_kn": "ಯಾವ ಅನುಷ್ಟುಪ್ ಛಂದಸ್ಸಿನ (ಅಥವಾ ಸ್ತೋತ್ರದ) ಹೆಸರು 'ಪ್ರಥ' (ವಿಸ್ತಾರ/ಖ್ಯಾತಿ) ಮತ್ತು 'ಸಪ್ರಥ' (ವ್ಯಾಪಕ ವಿಸ್ತಾರ/ಮಹಾ ಖ್ಯಾತಿ) ಆಗಿದೆಯೋ, ಅಂತಹ ಹವಿಸ್ಸಿನ ಹವಿಸ್ಸಾದ ರಥಂತರವನ್ನು ವಸಿಷ್ಠ ಋಷಿಯು ಧಾತೃ, ದ್ಯುತಾನ, ಸವಿತೃ ಮತ್ತು ವಿಷ್ಣುಗಳಿಂದ ತಂದನು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The Rathantara (रथंतरम्) is the supreme rhythm of Truth, the very essence of spiritual offering, whose nature is infinite expanse (प्रथ) and profound pervasiveness (सप्रथ). It is the oblation of oblations, a perfected utterance (अनुष्टुप्) that embodies the highest self-giving. The illumined seer (वसिष्ठ), through profound meditative insight, draws this dynamic vibration of cosmic truth. This descent is facilitated by the ordaining power (धाता), the radiant light (द्युताना), the inspiring consciousness (सविता), and the all-pervading Reality (विष्णु). Thus, the vast, rhythmic Truth manifests within the seeker, transforming consciousness into its divine expression.",
+      "Insight_kn": "ರಥಂತರವು (रथंतरम्) ಸತ್ಯದ ಪರಮ ಲಯವಾಗಿದೆ, ಸಮಸ್ತ ಆಧ್ಯಾತ್ಮಿಕ ಅರ್ಪಣೆಯ ಮೂಲ ಸಾರವಾಗಿದೆ, ಅದು ಅನಂತ ವಿಸ್ತಾರ (ಪ್ರಥ) ಮತ್ತು ಗಹನ ವ್ಯಾಪ್ತಿಯನ್ನು (ಸಪ್ರಥ) ಹೊಂದಿದೆ. ಇದು ಸಮಸ್ತ ಯಜ್ಞಗಳ ಯಜ್ಞ, ಪರಿಪೂರ್ಣ ಉಚ್ಚಾರಣೆ (ಅನುಷ್ಟುಪ್) ಆಗಿದ್ದು, ಅತ್ಯುನ್ನತ ಆತ್ಮಾರ್ಪಣೆಯನ್ನು ಸಾರುತ್ತದೆ. ಜ್ಞಾನೋದಯಗೊಂಡ ದ್ರಷ್ಟಾರನು (ವಸಿಷ್ಠ), ಗಹನ ಧ್ಯಾನದ ಒಳನೋಟದ ಮೂಲಕ, ಈ ಬ್ರಹ್ಮಾಂಡದ ಸತ್ಯದ ಕ್ರಿಯಾತ್ಮಕ ಕಂಪನವನ್ನು ಆಕರ್ಷಿಸುತ್ತಾನೆ. ಈ ಅವತರಣಿಕೆಯು ಅಸ್ತಿತ್ವವನ್ನು ಸ್ಥಾಪಿಸುವ ಶಕ್ತಿ (ಧಾತೃ), ಪ್ರಕಾಶಮಾನವಾದ ಜ್ಯೋತಿ (ದ್ಯುತಾನ), ಸ್ಫೂರ್ತಿದಾಯಕ ಚೈತನ್ಯ (ಸವಿತೃ), ಮತ್ತು ಸರ್ವವ್ಯಾಪಿ ಸತ್ಯದಿಂದ (ವಿಷ್ಣು) ಸುಗಮವಾಗುತ್ತದೆ. ಹೀಗೆ, ವಿಶಾಲವಾದ, ಲಯಬದ್ಧ ಸತ್ಯವು ಅನ್ವೇಷಕನ ಅಂತರಂಗದಲ್ಲಿ ಪ್ರಕಟವಾಗುತ್ತದೆ, ಪ್ರಜ್ಞೆಯನ್ನು ತನ್ನ ದೈವಿಕ ಅಭಿವ್ಯಕ್ತಿಯಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S181_191-2_3",
+      "mandala": 10,
+      "sukta": 181,
+      "ric_index": 2,
+      "rig_lines": [
+        "अवि᳚न्द॒न्ते, अति॑हितं॒ यदासी᳚द्‌ य॒ज्ञस्य॒ धाम॑ पर॒मं गुहा॒ यत् |",
+        "धा॒तुर्द्युता᳚नात्सवि॒तुश्च॒ विष्णो᳚र्भ॒रद्वा᳚जो बृ॒हदा च॑क्रे, अ॒ग्नेः ||"
+      ],
+      "pre_splits": [
+        "अवि᳚न्दन्",
+        "ते",
+        "अति॑ऽहित‌म्",
+        "यत्",
+        "आसी᳚त्",
+        "य॒ज्ञस्य॑",
+        "धाम॑",
+        "प॒र॒म‌म्",
+        "गुहा᳚",
+        "यत्",
+        "धा॒तुः",
+        "द्युता᳚नात्",
+        "स॒वि॒तुः",
+        "च॒",
+        "विष्णोः᳚",
+        "भ॒रत्ऽवा᳚जः",
+        "बृ॒हत्",
+        "आ",
+        "च॒क्रे॒",
+        "अ॒ग्नेः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अवि᳚न्दन्",
+          "pada_kn": "ಅವಿಂದನ್",
+          "meaning_en": "They found / They discovered",
+          "meaning_kn": "ಅವರು ಕಂಡುಕೊಂಡರು / ಪತ್ತೆಹಚ್ಚಿದರು"
+        },
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "They",
+          "meaning_kn": "ಅವರು"
+        },
+        {
+          "pada_original": "अति॑ऽहित‌म्",
+          "pada_kn": "ಅತಿಹಿತಮ್",
+          "meaning_en": "Deeply hidden / Placed beyond reach",
+          "meaning_kn": "ಅತಿ ಹೆಚ್ಚು ಅಡಗಿದ / ಗುಪ್ತವಾದ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "Which",
+          "meaning_kn": "ಯಾವುದು"
+        },
+        {
+          "pada_original": "आसी᳚त्",
+          "pada_kn": "ಆಸೀತ್",
+          "meaning_en": "Was",
+          "meaning_kn": "ಇತ್ತೋ"
+        },
+        {
+          "pada_original": "य॒ज्ञस्य॑",
+          "pada_kn": "ಯಜ್ಞಸ್ಯ",
+          "meaning_en": "Of the sacrifice",
+          "meaning_kn": "ಯಜ್ಞದ"
+        },
+        {
+          "pada_original": "धाम॑",
+          "pada_kn": "ಧಾಮ",
+          "meaning_en": "Abode / Place / Power",
+          "meaning_kn": "ಸ್ಥಾನ / ತೇಜಸ್ಸು / ಶಕ್ತಿ"
+        },
+        {
+          "pada_original": "प॒र॒म‌म्",
+          "pada_kn": "ಪರಮಮ್",
+          "meaning_en": "Supreme / Highest",
+          "meaning_kn": "ಪರಮ / ಅತ್ಯುನ್ನತ"
+        },
+        {
+          "pada_original": "गुहा᳚",
+          "pada_kn": "ಗುಹಾ",
+          "meaning_en": "In the secret place / In the cave",
+          "meaning_kn": "ಗುಹೆಯಲ್ಲಿ / ರಹಸ್ಯ ಸ್ಥಳದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "Which",
+          "meaning_kn": "ಯಾವುದು"
+        },
+        {
+          "pada_original": "धा॒तुः",
+          "pada_kn": "ಧಾತುಃ",
+          "meaning_en": "Of Dhatr (the Ordainer/Creator)",
+          "meaning_kn": "ವಿಧಾತೃವಿನ / ಸೃಷ್ಟಿಕರ್ತನ"
+        },
+        {
+          "pada_original": "द्युता᳚नात्",
+          "pada_kn": "ದ್ಯುತಾನಾತ್",
+          "meaning_en": "From the Resplendent One / From the Shining One",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನನಾದವನಿಂದ / ದ್ಯುತಾನನಿಂದ"
+        },
+        {
+          "pada_original": "स॒वि॒तुः",
+          "pada_kn": "ಸವಿತುಃ",
+          "meaning_en": "Of Savitr (the stimulator/inspirer)",
+          "meaning_kn": "ಸವಿತೃವಿನ / ಪ್ರೇರಕನ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "विष्णोः᳚",
+          "pada_kn": "ವಿಷ್ಣೋಃ",
+          "meaning_en": "Of Vishnu (the pervader)",
+          "meaning_kn": "ವಿಷ್ಣುವಿನ"
+        },
+        {
+          "pada_original": "भ॒रत्ऽवा᳚जः",
+          "pada_kn": "ಭರದ್ವಾಜಃ",
+          "meaning_en": "Bharadvaja (the sage)",
+          "meaning_kn": "ಭರದ್ವಾಜನು"
+        },
+        {
+          "pada_original": "बृ॒हत्",
+          "pada_kn": "ಬೃಹತ್",
+          "meaning_en": "Great / Vast / The great (hymn/power)",
+          "meaning_kn": "ಮಹತ್ತಾದ / ಬೃಹತ್ತಾದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Towards / (prefix for 'cakre')",
+          "meaning_kn": "ಆ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "च॒क्रे॒",
+          "pada_kn": "ಚಕ್ರೇ",
+          "meaning_en": "Made / Performed / Fashioned",
+          "meaning_kn": "ಮಾಡಿದನು / ನಿರ್ಮಿಸಿದನು"
+        },
+        {
+          "pada_original": "अ॒ग्नेः",
+          "pada_kn": "ಅಗ್ನೇಃ",
+          "meaning_en": "Of Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿಯ"
+        }
+      ],
+      "full_meaning_en": "They found that supreme, deeply hidden abode of sacrifice, which Bharadvaja fashioned for Agni, drawing from the powers of Dhatr (the Ordainer), the Resplendent One, Savitr (the Inspirer), and Vishnu (the Pervader).",
+      "full_meaning_kn": "ಅವರು, ಯಜ್ಞದ ಆ ಪರಮವಾದ, ಅತಿ ಹೆಚ್ಚು ಅಡಗಿದ ಸ್ಥಾನವನ್ನು ಕಂಡುಕೊಂಡರು. ಅದನ್ನು ಭರದ್ವಾಜನು, ವಿಧಾತೃ, ಪ್ರಕಾಶಮಾನನಾದ ದೇವತೆ, ಸವಿತೃ ಮತ್ತು ವಿಷ್ಣು ಇವರ ಶಕ್ತಿಗಳಿಂದ ಅಗ್ನಿಗಾಗಿ ನಿರ್ಮಿಸಿದನು.",
+      "rig_time_s": 14.057,
+      "Insight_en": "The supreme, deeply hidden abode of Yajña, the innermost sanctuary of self-consecration, is discovered within the heart's secret cave (Guhā). This sacred dwelling, a vast Truth-Consciousness, is fashioned by the illumined intelligence (Bharadvāja) for the divine Will (Agni). Its essence is drawn from the ordaining stability of Dhātṛ, the radiant impulsion of Savitṛ, and the all-pervading consciousness of Viṣṇu. It is the realization of the soul's true dwelling, a luminous space of inherent spiritual power, where the inner flame ascends and the awakened being integrates cosmic principles to establish divine presence within.",
+      "Insight_kn": "ಓ! ಆಂತರಿಕ ಸಮರ್ಪಣೆಯ ಪರಮವಾದ, ಅತಿ ಹೆಚ್ಚು ಅಡಗಿದ ಸ್ಥಾನವಾದ ಯಜ್ಞದ (यज्ञ) ಧಾಮವು, ಆತ್ಮದ ರಹಸ್ಯ ಗುಹೆಯೊಳಗೆ (गुहा) ಅನಾವರಣಗೊಳ್ಳುತ್ತದೆ. ಪ್ರಕಾಶಮಾನವಾದ ಭರದ್ವಾಜನು (भरद्वाज), ಅಗ್ನಿಗಾಗಿ (अग्नि) ಸೃಷ್ಟಿಸಿದ ಈ ವಿಸ್ತಾರವಾದ ಸತ್ಯ-ಪ್ರಜ್ಞೆಯ ನೆಲೆಯು, ಧಾತೃವಿನ (धातृ) ದಿವ್ಯ ವ್ಯವಸ್ಥೆ, ಸವಿತೃವಿನ (सवितृ) ಪ್ರೇರಕ ಶಕ್ತಿ, ಮತ್ತು ವಿಷ್ಣುವಿನ (विष्णु) ಸರ್ವವ್ಯಾಪಿ ಅರಿವಿನಿಂದ ತನ್ನ ಸಾರವನ್ನು ಪಡೆಯುತ್ತದೆ. ಇದು ಅಂತರಂಗದ ಜ್ಯೋತಿಯು ಆರೋಹಿಸುವ, ಸಹಜ ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯ ಪ್ರಕಾಶಮಾನ ಕ್ಷೇತ್ರವಾಗಿದೆ. ಜಾಗೃತ ಪ್ರಜ್ಞೆಯು ವಿಶ್ವ ಶಕ್ತಿಗಳನ್ನು ಏಕೀಕರಿಸಿ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯನ್ನು ಇಲ್ಲಿ ಸ್ಥಾಪಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S181_191-3_3",
+      "mandala": 10,
+      "sukta": 181,
+      "ric_index": 3,
+      "rig_lines": [
+        "ते᳚ऽविन्द॒न्मन॑सा॒ दीध्या᳚ना॒ यजुः॑ ष्क॒न्नं प्र॑थ॒मं दे᳚व॒यान᳚म् |",
+        "धा॒तुर्द्युता᳚नात्सवि॒तुश्च॒ विष्णो॒रा सूर्या᳚दभरन्‌ घ॒र्ममे॒ते ||"
+      ],
+      "pre_splits": [
+        "ते",
+        "अ॒वि॒न्द॒न्",
+        "मन॑सा",
+        "दीध्या᳚नाः",
+        "यजुः॑",
+        "स्क॒न्न‌म्",
+        "प्र॒थ॒म‌म्",
+        "दे॒व॒ऽयान᳚‌म्",
+        "धा॒तुः",
+        "द्युता᳚नात्",
+        "स॒वि॒तुः",
+        "च॒",
+        "विष्णोः᳚",
+        "आ",
+        "सूर्या᳚त्",
+        "अ॒भ॒र॒न्",
+        "घ॒र्म‌म्",
+        "ए॒ते"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "They",
+          "meaning_kn": "ಅವರು"
+        },
+        {
+          "pada_original": "अ॒वि॒न्द॒न्",
+          "pada_kn": "ಅವಿಂದನ್",
+          "meaning_en": "found / discovered",
+          "meaning_kn": "ಕಂಡುಕೊಂಡರು / ಪತ್ತೆಹಚ್ಚಿದರು"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "by mind / through contemplation",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ / ಚಿಂತನೆಯಿಂದ"
+        },
+        {
+          "pada_original": "दीध्या᳚नाः",
+          "pada_kn": "ದೀಧ್ಯಾನಾಃ",
+          "meaning_en": "meditating / contemplating",
+          "meaning_kn": "ಧ್ಯಾನಿಸುತ್ತಾ / ಚಿಂತಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "यजुः॑",
+          "pada_kn": "ಯಜುಃ",
+          "meaning_en": "the Yajus (sacrificial formula/knowledge)",
+          "meaning_kn": "ಯಜುಸ್ಸು (ಯಜ್ಞ ಸೂತ್ರ/ಜ್ಞಾನ)"
+        },
+        {
+          "pada_original": "स्क॒न्न‌म्",
+          "pada_kn": "ಸ್ಕನ್ನಮ್",
+          "meaning_en": "scattered / lost",
+          "meaning_kn": "ಚದುರಿಹೋಗಿದ್ದ / ಕಳೆದುಹೋಗಿದ್ದ"
+        },
+        {
+          "pada_original": "प्र॒थ॒म‌म्",
+          "pada_kn": "ಪ್ರಥಮಮ್",
+          "meaning_en": "the first / primeval",
+          "meaning_kn": "ಮೊದಲ / ಆದಿಮ"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयान᳚‌म्",
+          "pada_kn": "ದೇವಯಾನಮ್",
+          "meaning_en": "leading to the gods / divine path",
+          "meaning_kn": "ದೇವತೆಗಳೆಡೆಗೆ ಸಾಗಿಸುವ / ದೈವಿಕ ಮಾರ್ಗ"
+        },
+        {
+          "pada_original": "धा॒तुः",
+          "pada_kn": "ಧಾತುಃ",
+          "meaning_en": "from Dhatṛ (the ordainer/creator)",
+          "meaning_kn": "ಧಾತೃವಿನಿಂದ (ವಿಧಾಯಕ/ಸೃಷ್ಟಿಕರ್ತ)"
+        },
+        {
+          "pada_original": "द्युता᳚नात्",
+          "pada_kn": "ದ್ಯುತಾನಾತ್",
+          "meaning_en": "from Dyutāna (the shining one)",
+          "meaning_kn": "ದ್ಯುತಾನನಿಂದ (ಪ್ರಕಾಶಮಾನನಾದವನು)"
+        },
+        {
+          "pada_original": "स॒वि॒तुः",
+          "pada_kn": "ಸವಿತುಃ",
+          "meaning_en": "from Savitṛ (the stimulator/sun god)",
+          "meaning_kn": "ಸವಿತೃವಿನಿಂದ (ಪ್ರೇರಕ/ಸೂರ್ಯದೇವ)"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "विष्णोः᳚",
+          "pada_kn": "ವಿಷ್ಣೋಃ",
+          "meaning_en": "from Viṣṇu",
+          "meaning_kn": "ವಿಷ್ಣುವಿನಿಂದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "from / up to",
+          "meaning_kn": "ಇಂದ / ವರೆಗೆ"
+        },
+        {
+          "pada_original": "सूर्या᳚त्",
+          "pada_kn": "ಸೂರ್ಯಾತ್",
+          "meaning_en": "from Sūrya (the Sun)",
+          "meaning_kn": "ಸೂರ್ಯನಿಂದ"
+        },
+        {
+          "pada_original": "अ॒भ॒र॒न्",
+          "pada_kn": "ಅಭರನ್",
+          "meaning_en": "they brought / carried",
+          "meaning_kn": "ಅವರು ತಂದರು / ಹೊತ್ತು ತಂದರು"
+        },
+        {
+          "pada_original": "घ॒र्म‌म्",
+          "pada_kn": "ಘರ್ಮಮ್",
+          "meaning_en": "the Gharmá (hot milk offering / spiritual heat)",
+          "meaning_kn": "ಘರ್ಮವನ್ನು (ಬಿಸಿ ಹಾಲಿನ ಅರ್ಪಣೆ / ಆಧ್ಯಾತ್ಮಿಕ ತೇಜಸ್ಸು)"
+        },
+        {
+          "pada_original": "ए॒ते",
+          "pada_kn": "ಏತೇ",
+          "meaning_en": "these (beings)",
+          "meaning_kn": "ಇವರು (ಆ ಜೀವಿಗಳು)"
+        }
+      ],
+      "full_meaning_en": "Contemplating deeply with their minds, they (the Rishis/divine beings) discovered the first, scattered Yajus, which leads to the gods. These very beings brought the Gharmá (sacred offering/spiritual heat) from Dhatṛ, from Dyutāna, from Savitṛ, and from Viṣṇu, even from Sūrya.",
+      "full_meaning_kn": "ಆ (ಋಷಿಗಳು/ದೇವತೆಗಳು) ತಮ್ಮ ಮನಸ್ಸಿನಿಂದ ಆಳವಾಗಿ ಧ್ಯಾನಿಸುತ್ತಾ, ದೇವತೆಗಳೆಡೆಗೆ ಸಾಗಿಸುವ, ಮೊದಲು ಚದುರಿಹೋಗಿದ್ದ ಯಜುಸ್ಸನ್ನು ಕಂಡುಕೊಂಡರು. ಧಾತೃವಿನಿಂದ, ದ್ಯುತಾನನಿಂದ, ಸವಿತೃವಿನಿಂದ, ವಿಷ್ಣುವಿನಿಂದ ಮತ್ತು ಸೂರ್ಯನಿಂದಲೂ ಇವರು ಘರ್ಮವನ್ನು (ಪವಿತ್ರ ಹವಿಸ್ಸು/ಆಧ್ಯಾತ್ಮಿಕ ತೇಜಸ್ಸು) ತಂದರು.",
+      "rig_time_s": 29.789,
+      "Insight_en": "The soul's profound contemplation (`मनसा दीध्याना`) unveils the primordial, scattered `यजुः`—the divine will and rhythmic action, the path (`देवयानम्`) to higher consciousness. This inner sacrifice, initially fragmented, is made whole through concentrated intent. The purified spiritual heat (`घर्म`) is then drawn from the very founts of divine manifestation: from `धातुः` (the cosmic Ordainer), from `द्युतान` (the luminous Self), from `सवितृ` (the impelling Truth-consciousness), from `विष्णुः` (the all-pervading essence), and ultimately from `सूर्य` (the radiant knowledge of the Absolute). Thus, the awakened seeker gathers the concentrated essence of divine power for their ascent.",
+      "Insight_kn": "ಓ ಸಾರಭೂತ ಆತ್ಮನೇ, ಆಳವಾದ ಮನಸ್ಸಿನ ಧ್ಯಾನದಿಂದ (`मनसा दीध्याना`) ಚದುರಿದ ಆದಿಮ `ಯಜುಃ`—ದಿವ್ಯ ಸಂಕಲ್ಪದ ಕ್ರಿಯೆಯ ರಹಸ್ಯ—ಕಂಡುಕೊಳ್ಳಲ್ಪಡುವುದು. ಇದು ಉನ್ನತ ಚೇತನದ `ದೇವಯಾನಮ್` ಮಾರ್ಗವಾಗಿದೆ. ಈ ಆಂತರಿಕ ಯಜ್ಞದ ತೀಕ್ಷ್ಣ `ಘರ್ಮ`ವು, ದಿವ್ಯ ವ್ಯಕ್ತಿತ್ವದ ಮೂಲಗಳಾದ `धातुः` (ವ್ಯವಸ್ಥಾಪಕ), `द्युतान` (ಪ್ರಕಾಶಮಾನ), `सवितृ` (ಪ್ರೇರಕ ಸತ್ಯ-ಚೇತನ), `विष्णुः` (ಸರ್ವವ್ಯಾಪಿ), ಮತ್ತು ಅಂತಿಮವಾಗಿ `सूर्य` (ಪರಮ ಜ್ಞಾನದ ಮೂಲ) ಇವುಗಳಿಂದ ಆವಾಹಿಸಲ್ಪಡುತ್ತದೆ. ಹೀಗೆ, ಜಾಗೃತ ಜೀವಿ ದಿವ್ಯ ಶಕ್ತಿಯ ಘನೀಕೃತ ಸಾರವನ್ನು ತನ್ನ ಆಧ್ಯಾತ್ಮಿಕ ಆರೋಹಣಕ್ಕಾಗಿ ಸಂಗ್ರಹಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

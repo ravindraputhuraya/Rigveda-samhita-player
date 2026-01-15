@@ -1,0 +1,713 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S162_191-1_6",
+      "mandala": 10,
+      "sukta": 162,
+      "ric_index": 1,
+      "rig_lines": [
+        "ब्रह्म॑णा॒ग्निः सं᳚विदा॒नो र॑क्षो॒हा बा᳚धतामि॒तः |",
+        "अमी᳚वा॒ यस्ते॒ गर्भं᳚ दु॒र्णामा॒ योनि॑मा॒शये᳚ ||"
+      ],
+      "pre_splits": [
+        "ब्रह्म॑णा",
+        "अ॒ग्निः",
+        "सा॒‌म्ऽवि॒दा॒नः",
+        "र॒क्षः॒ऽहा",
+        "बा॒ध॒ता॒‌म्",
+        "इ॒तः",
+        "अमी᳚वा",
+        "यः",
+        "ते॒",
+        "गर्भ᳚‌म्",
+        "दुः॒ऽनामा᳚",
+        "योनि᳚‌म्",
+        "आ॒शये᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ब्रह्म॑णा",
+          "pada_kn": "ಬ್ರಹ್ಮಣಾ",
+          "meaning_en": "By sacred word / by prayer",
+          "meaning_kn": "ಬ್ರಹ್ಮಶಕ್ತಿಯಿಂದ / ಮಂತ್ರದಿಂದ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ (ದೇವ)"
+        },
+        {
+          "pada_original": "सा॒‌म्ऽवि॒दा॒नः",
+          "pada_kn": "ಸಂವಿದಾನಃ",
+          "meaning_en": "united / in accord (with sacred power)",
+          "meaning_kn": "ಒಡಗೂಡಿದ / ತಿಳಿದವನಾದ"
+        },
+        {
+          "pada_original": "र॒क्षः॒ऽहा",
+          "pada_kn": "ರಕ್ಷೋಹಾ",
+          "meaning_en": "demon-slayer / destroyer of evil",
+          "meaning_kn": "ರಾಕ್ಷಸರನ್ನು ನಾಶಮಾಡುವವನು / ದುಷ್ಟರನ್ನು ಕೊಲ್ಲುವವನು"
+        },
+        {
+          "pada_original": "बा॒ध॒ता॒‌म्",
+          "pada_kn": "ಬಾಧತಾಮ್",
+          "meaning_en": "may he repel / drive away",
+          "meaning_kn": "ಅವನು ದೂರಮಾಡಲಿ / ಓಡಿಸಲಿ"
+        },
+        {
+          "pada_original": "इ॒तः",
+          "pada_kn": "ಇತಃ",
+          "meaning_en": "from here / from this place",
+          "meaning_kn": "ಇಲ್ಲಿಂದ / ಈ ಸ್ಥಳದಿಂದ"
+        },
+        {
+          "pada_original": "अमी᳚वा",
+          "pada_kn": "ಅಮೀವಾ",
+          "meaning_en": "disease / affliction",
+          "meaning_kn": "ರೋಗ / ವ್ಯಾಧಿ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who / which",
+          "meaning_kn": "ಯಾವನು / ಯಾವುದು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your (referring to the woman)",
+          "meaning_kn": "ನಿನ್ನ (ಗರ್ಭಿಣಿಯ)"
+        },
+        {
+          "pada_original": "गर्भ᳚‌म्",
+          "pada_kn": "ಗರ್ಭಮ್",
+          "meaning_en": "embryo / fetus",
+          "meaning_kn": "ಗರ್ಭ / ಭ್ರೂಣ"
+        },
+        {
+          "pada_original": "दुः॒ऽनामा᳚",
+          "pada_kn": "ದುರ್ನಾಮಾ",
+          "meaning_en": "ill-named (evil spirit)",
+          "meaning_kn": "ದುರ್ನಾಮವುಳ್ಳ (ದುಷ್ಟಶಕ್ತಿ)"
+        },
+        {
+          "pada_original": "योनि᳚‌म्",
+          "pada_kn": "ಯೋನಿಮ್",
+          "meaning_en": "womb",
+          "meaning_kn": "ಗರ್ಭಕೋಶ / ಯೋನಿ"
+        },
+        {
+          "pada_original": "आ॒शये᳚",
+          "pada_kn": "ಆಶಯೇ",
+          "meaning_en": "dwells / lies",
+          "meaning_kn": "ಆಶ್ರಯಿಸಿದೆ / ನೆಲೆಸಿದೆ"
+        }
+      ],
+      "full_meaning_en": "O Agni, knowing (us) through the sacred word (brahman), drive away the Rakshasa from here. (Drive away) whatever disease is in you, whatever evil name clings to the womb.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿ, ಪವಿತ್ರ ಪದದ ಮೂಲಕ (ಬ್ರಹ್ಮನ್) (ನಮ್ಮನ್ನು) ತಿಳಿದುಕೊಂಡು, ಇಲ್ಲಿಂದ ರಾಕ್ಷಸನನ್ನು ಓಡಿಸು. (ಯಾವ) ರೋಗವು ನಿನ್ನಲ್ಲಿದೆಯೋ, ಗರ್ಭಕ್ಕೆ ಅಂಟಿಕೊಂಡಿರುವ ದುಷ್ಟ ಹೆಸರೇ ಆಗಿರಲಿ, ಅದನ್ನು ಓಡಿಸು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra invokes अग्नि (Agni) not just as a divine fire, but as a purifier who knows and understands through the sacred word, Brahman. The prayer seeks protection from negative forces (Rakshasa) and internal impurities (diseases) that afflict the individual and the potential for new life within the womb. It is a plea for purification and safeguarding of both physical and spiritual well-being. अग्नि's role is thus extended to not only burn away the external but also to cleanse and protect the inner self from afflictions that hinder spiritual growth. The 'evil name clinging to the womb' may allude to inherited tendencies or karmic burdens.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯನ್ನು ಕೇವಲ ದೈವಿಕ ಬೆಂಕಿಯಂತೆ ಅಲ್ಲದೆ, ಪವಿತ್ರ ಪದ ಬ್ರಹ್ಮನ್ ಮೂಲಕ ತಿಳಿದು ಅರ್ಥೈಸಿಕೊಳ್ಳುವ ಶುದ್ಧೀಕರಣಕಾರಕನಾಗಿ ಆಹ್ವಾನಿಸುತ್ತದೆ. ಪ್ರಾರ್ಥನೆಯು ಋಣಾತ್ಮಕ ಶಕ್ತಿಗಳಿಂದ (ರಾಕ್ಷಸ) ಮತ್ತು ಆಂತರಿಕ ಕಲ್ಮಶಗಳಿಂದ (ರೋಗಗಳು) ರಕ್ಷಣೆ ಕೋರುತ್ತದೆ, ಇವು ವ್ಯಕ್ತಿಯನ್ನು ಮತ್ತು ಗರ್ಭದಲ್ಲಿನ ಹೊಸ ಜೀವನದ ಸಾಮರ್ಥ್ಯವನ್ನು ಬಾಧಿಸುತ್ತವೆ. ಇದು ದೈಹಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಯೋಗಕ್ಷೇಮದ ಶುದ್ಧೀಕರಣ ಮತ್ತು ಸುರಕ್ಷತೆಗಾಗಿ ಒಂದು ವಿನಂತಿಯಾಗಿದೆ. ಅಗ್ನಿಯ ಪಾತ್ರವು ಕೇವಲ ಬಾಹ್ಯವನ್ನು ಸುಡುವುದಲ್ಲದೆ, ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಅಡ್ಡಿಯುಂಟುಮಾಡುವ ಬಾಧೆಗಳಿಂದ ಒಳಗಿನ ಆತ್ಮವನ್ನು ಶುದ್ಧೀಕರಿಸುವುದು ಮತ್ತು ರಕ್ಷಿಸುವುದು ಆಗಿದೆ. 'ಗರ್ಭಕ್ಕೆ ಅಂಟಿಕೊಂಡಿರುವ ದುಷ್ಟ ಹೆಸರು' ಆನುವಂಶಿಕ ಪ್ರವೃತ್ತಿಗಳು ಅಥವಾ ಕರ್ಮದ ಭಾರವನ್ನು ಸೂಚಿಸಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S162_191-2_6",
+      "mandala": 10,
+      "sukta": 162,
+      "ric_index": 2,
+      "rig_lines": [
+        "यस्ते॒ गर्भ॒ममी᳚वा दु॒र्णामा॒ योनि॑मा॒शये᳚ |",
+        "अ॒ग्निष्टं ब्रह्म॑णा स॒ह निष्क्र॒व्याद॑मनीनशत् ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "ते॒",
+        "गर्भ᳚‌म्",
+        "अमी᳚वा",
+        "दुः॒ऽनामा᳚",
+        "योनि᳚‌म्",
+        "आ॒ऽशये᳚",
+        "अ॒ग्निः",
+        "त‌म्",
+        "ब्रह्म॑णा",
+        "स॒ह",
+        "निः",
+        "क्र॒व्य॒।आद᳚‌म्",
+        "अ॒नी॒न॒श॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who / which (one)",
+          "meaning_kn": "ಯಾವನು / ಯಾವುದು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "गर्भ᳚‌म्",
+          "pada_kn": "ಗರ್ಭಮ್",
+          "meaning_en": "embryo / fetus",
+          "meaning_kn": "ಭ್ರೂಣವನ್ನು / ಗರ್ಭವನ್ನು"
+        },
+        {
+          "pada_original": "अमी᳚वा",
+          "pada_kn": "ಅಮೀವಾ",
+          "meaning_en": "disease / illness",
+          "meaning_kn": "ರೋಗವು / ವ್ಯಾಧಿಯು"
+        },
+        {
+          "pada_original": "दुः॒ऽनामा᳚",
+          "pada_kn": "ದುರ್ನಾಮಾ",
+          "meaning_en": "ill-named / malignant",
+          "meaning_kn": "ದುರ್ನಾಮವುಳ್ಳ / ಕೆಟ್ಟ ಹೆಸರಿನ"
+        },
+        {
+          "pada_original": "योनि᳚‌म्",
+          "pada_kn": "ಯೋನಿಮ್",
+          "meaning_en": "womb / source",
+          "meaning_kn": "ಯೋನಿಯಲ್ಲಿ / ಮೂಲದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "आ॒ऽशये᳚",
+          "pada_kn": "ಆಶಯೇ",
+          "meaning_en": "lies / dwells",
+          "meaning_kn": "ನೆಲೆಸಿದೆ / ವಾಸಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ (ಅಗ್ನಿದೇವನು)"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "that (one) / him",
+          "meaning_kn": "ಅದನ್ನು / ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "ब्रह्म॑णा",
+          "pada_kn": "ಬ್ರಹ್ಮಣಾ",
+          "meaning_en": "with sacred word / with prayer",
+          "meaning_kn": "ಪವಿತ್ರ ಮಂತ್ರದೊಂದಿಗೆ / ಪ್ರಾರ್ಥನೆಯೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "स॒ह",
+          "pada_kn": "ಸಹ",
+          "meaning_en": "together / with",
+          "meaning_kn": "ಸಹಿತ / ಜೊತೆಗೂಡಿ"
+        },
+        {
+          "pada_original": "निः",
+          "pada_kn": "ನಿಃ",
+          "meaning_en": "completely (prefix for destruction)",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "क्र॒व्य॒।आद᳚‌म्",
+          "pada_kn": "ಕ್ರವ್ಯಾದಮ್",
+          "meaning_en": "flesh-eater / demon",
+          "meaning_kn": "ಮಾಂಸಭಕ್ಷಕನನ್ನು / ರಾಕ್ಷಸನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒नी॒न॒श॒त्",
+          "pada_kn": "ಅನೀನಶತ್",
+          "meaning_en": "destroyed / annihilated",
+          "meaning_kn": "ನಾಶಮಾಡಿದನು"
+        }
+      ],
+      "full_meaning_en": "O Agni, may the fire, together with Brahman, completely consume and drive away the evil disease (amīvā) which rests in the womb, the evil name (durnāmā) which lies in the source (yoni).",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿ, ಬ್ರಹ್ಮನೊಂದಿಗೆ ಬೆಂಕಿಯು ಗರ್ಭದಲ್ಲಿರುವ ದುಷ್ಟ ರೋಗವನ್ನು (ಅಮೀವಾ), ಮೂಲದಲ್ಲಿರುವ (ಯೋನಿ) ದುಷ್ಟ ಹೆಸರನ್ನು (ದುರ್ನಾಮಾ) ಸಂಪೂರ್ಣವಾಗಿ ತಿಂದು ಓಡಿಸಲಿ.",
+      "rig_time_s": 13.793,
+      "Insight_en": "This mantra invokes अग्नि (Agni) not only as a purifier but also as a force that dispels negativity at its origin. The \"womb\" (योनि) and \"source\" can be interpreted as the root of desires and attachments. The \"evil disease\" (अमीवा) and \"evil name\" (दुर्णामा) represent the consequences of ignorance and negative actions. By invoking अग्नि with ब्रह्म (Brahman), the mantra seeks to purify these fundamental aspects of existence, ultimately leading to spiritual liberation and freedom from suffering. It is an appeal to the divine fire to burn away the impurities that bind us to the cycle of birth and death.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯನ್ನು ಕೇವಲ ಶುದ್ಧಿಕಾರಕವಾಗಿ ಮಾತ್ರವಲ್ಲದೆ ಅದರ ಮೂಲದಲ್ಲಿಯೇ ನಕಾರಾತ್ಮಕತೆಯನ್ನು ಹೋಗಲಾಡಿಸುವ ಶಕ್ತಿಯಾಗಿ ಆಹ್ವಾನಿಸುತ್ತದೆ. \"ಗರ್ಭ\" (ಯೋನಿ) ಮತ್ತು \"ಮೂಲ\" ವನ್ನು ಬಯಕೆಗಳು ಮತ್ತು ಬಾಂಧವ್ಯಗಳ ಮೂಲವೆಂದು ಅರ್ಥೈಸಬಹುದು. \"ದುಷ್ಟ ರೋಗ\" (ಅಮೀವಾ) ಮತ್ತು \"ದುಷ್ಟ ಹೆಸರು\" (ದುರ್ನಾಮಾ) ಅಜ್ಞಾನ ಮತ್ತು ನಕಾರಾತ್ಮಕ ಕ್ರಿಯೆಗಳ ಪರಿಣಾಮಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಬ್ರಹ್ಮನೊಂದಿಗೆ ಅಗ್ನಿಯನ್ನು ಆಹ್ವಾನಿಸುವ ಮೂಲಕ, ಮಂತ್ರವು ಅಸ್ತಿತ್ವದ ಈ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು ಶುದ್ಧೀಕರಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ, ಅಂತಿಮವಾಗಿ ಆಧ್ಯಾತ್ಮಿಕ ವಿಮೋಚನೆ ಮತ್ತು ದುಃಖದಿಂದ ಸ್ವಾತಂತ್ರ್ಯಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಇದು ನಮ್ಮನ್ನು ಜನ್ಮ ಮತ್ತು ಮರಣದ ಚಕ್ರಕ್ಕೆ ಬಂಧಿಸುವ ಕಲ್ಮಶಗಳನ್ನು ಸುಡುವಂತೆ ದೈವಿಕ ಅಗ್ನಿಗೆ ಮಾಡುವ ಮನವಿಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S162_191-3_6",
+      "mandala": 10,
+      "sukta": 162,
+      "ric_index": 3,
+      "rig_lines": [
+        "यस्ते॒ हन्ति॑ प॒तय᳚न्तं निष॒त्स्नुं यः स॑रीसृ॒पम् |",
+        "जा॒तं यस्ते॒ जिघां᳚सति॒ तमि॒तो ना᳚शयामसि ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "ते॒",
+        "हन्ति॑",
+        "प॒तय᳚न्त‌म्",
+        "नि॒ऽस॒त्स्नु‌म्",
+        "यः",
+        "स॒री॒सृ॒प‌म्",
+        "जा॒त‌म्",
+        "यः",
+        "ते॒",
+        "जिघां᳚सति",
+        "त‌म्",
+        "इ॒तः",
+        "ना॒श॒या॒म॒सि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who / That which",
+          "meaning_kn": "ಯಾವುದು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your / to you",
+          "meaning_kn": "ನಿನ್ನ / ನಿನಗೆ"
+        },
+        {
+          "pada_original": "हन्ति॑",
+          "pada_kn": "ಹನ್ತಿ",
+          "meaning_en": "kills / harms",
+          "meaning_kn": "ಕೊಲ್ಲುತ್ತದೆ / ಹಾನಿ ಮಾಡುತ್ತದೆ"
+        },
+        {
+          "pada_original": "प॒तय᳚न्त‌म्",
+          "pada_kn": "ಪತಯನ್ತಮ್",
+          "meaning_en": "flying (one) / that which flies",
+          "meaning_kn": "ಹಾರಾಡುವ (ಪ್ರಾಣಿ) / ಹಾರುವುದನ್ನು"
+        },
+        {
+          "pada_original": "नि॒ऽस॒त्स्नु‌म्",
+          "pada_kn": "ನಿಸತ್ಸ್ನುಮ್",
+          "meaning_en": "sitting (one) / that which sits",
+          "meaning_kn": "ಕುಳಿತುಕೊಳ್ಳುವ (ಪ್ರಾಣಿ) / ಕುಳಿತಿರುವುದನ್ನು"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who / that which",
+          "meaning_kn": "ಯಾವುದು"
+        },
+        {
+          "pada_original": "स॒री॒सृ॒प‌म्",
+          "pada_kn": "ಸರೀಸೃಪಮ್",
+          "meaning_en": "crawling (one) / that which crawls",
+          "meaning_kn": "ತೆವಳುವ (ಪ್ರಾಣಿ) / ತೆವಳುವುದನ್ನು"
+        },
+        {
+          "pada_original": "जा॒त‌म्",
+          "pada_kn": "ಜಾತಮ್",
+          "meaning_en": "born (one) / that which is born",
+          "meaning_kn": "ಹುಟ್ಟಿದ (ಪ್ರಾಣಿ) / ಹುಟ್ಟಿದ್ದನ್ನು"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who / that which",
+          "meaning_kn": "ಯಾವುದು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your / to you",
+          "meaning_kn": "ನಿನ್ನ / ನಿನಗೆ"
+        },
+        {
+          "pada_original": "जिघां᳚सति",
+          "pada_kn": "ಜಿಘಾಂಸತಿ",
+          "meaning_en": "wishes to kill / seeks to harm",
+          "meaning_kn": "ಕೊಲ್ಲಲು ಬಯಸುತ್ತದೆ / ಹಾನಿ ಮಾಡಲು ಬಯಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him / that",
+          "meaning_kn": "ಅದನ್ನು"
+        },
+        {
+          "pada_original": "इ॒तः",
+          "pada_kn": "ಇತಃ",
+          "meaning_en": "from here / hence",
+          "meaning_kn": "ಇಲ್ಲಿಂದ"
+        },
+        {
+          "pada_original": "ना॒श॒या॒म॒सि॒",
+          "pada_kn": "ನಾಶಯಾಮಸಿ",
+          "meaning_en": "we destroy / we cause to perish",
+          "meaning_kn": "ನಾವು ನಾಶಮಾಡುತ್ತೇವೆ / ನಾವು ಅಳಿಸಿಹಾಕುತ್ತೇವೆ"
+        }
+      ],
+      "full_meaning_en": "O Agni, we drive away from here that which seeks to kill you when you are soaring, sitting, or creeping; that which seeks to destroy you when born.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ನೀವು ಮೇಲಕ್ಕೆ ಹಾರುತ್ತಿರುವಾಗ, ಕುಳಿತಿರುವಾಗ ಅಥವಾ ಚಲಿಸುತ್ತಿರುವಾಗ ನಿಮ್ಮನ್ನು ಕೊಲ್ಲಲು ಬಯಸುವವರನ್ನು ಇಲ್ಲಿಂದ ದೂರ ಮಾಡುತ್ತೇವೆ; ಹುಟ್ಟಿದಾಗ ನಿಮ್ಮನ್ನು ನಾಶಮಾಡಲು ಬಯಸುವವರನ್ನೂ ದೂರ ಮಾಡುತ್ತೇವೆ.",
+      "rig_time_s": 25.707,
+      "Insight_en": "This mantra invokes अग्नि (Agni) to protect itself from any destructive forces, regardless of their form or timing. It speaks to the omnipresent threat to the sacred fire, both internal and external. The soaring, sitting, and creeping represent various states of existence where अग्नि (Agni) can be vulnerable. By invoking protection from threats at birth, the mantra seeks to ensure the sustained purity and potency of अग्नि (Agni). Spiritually, it signifies the vigilance required to safeguard inner light and divine spark from the negativity and ignorance that constantly seek to extinguish it. It highlights the importance of continuous protection and purification in our spiritual journey. Thus, calling upon अग्नि (Agni) represents safeguarding our inherent spiritual potential.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಯಾವುದೇ ವಿನಾಶಕಾರಿ ಶಕ್ತಿಗಳಿಂದ ತನ್ನನ್ನು ರಕ್ಷಿಸಿಕೊಳ್ಳಲು ಅಗ್ನಿಯನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತದೆ, ಅದು ಯಾವುದೇ ರೂಪದಲ್ಲಿರಲಿ ಅಥವಾ ಯಾವುದೇ ಸಮಯದಲ್ಲಿರಲಿ. ಇದು ಪವಿತ್ರ ಅಗ್ನಿಗೆ ಇರುವ ಸರ್ವತ್ರ ಅಪಾಯದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ, ಅದು ಆಂತರಿಕವಾಗಿರಲಿ ಮತ್ತು ಬಾಹ್ಯವಾಗಿರಲಿ. ಮೇಲಕ್ಕೆ ಹಾರುವುದು, ಕುಳಿತುಕೊಳ್ಳುವುದು ಮತ್ತು ಚಲಿಸುವುದು ಅಗ್ನಿ ದುರ್ಬಲವಾಗಬಹುದಾದ ವಿವಿಧ ಸ್ಥಿತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಹುಟ್ಟಿನಿಂದಲೇ ರಕ್ಷಣೆ ಪಡೆಯುವುದರ ಮೂಲಕ, ಅಗ್ನಿಯ ನಿರಂತರ ಶುದ್ಧತೆ ಮತ್ತು ಸಾಮರ್ಥ್ಯವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಮಂತ್ರವು ಪ್ರಯತ್ನಿಸುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಆಂತರಿಕ ಬೆಳಕು ಮತ್ತು ದೈವಿಕ ಕಿಡಿಯನ್ನು ನಂದಿಸಲು ಸದಾ ಪ್ರಯತ್ನಿಸುವ ನಕಾರಾತ್ಮಕತೆ ಮತ್ತು ಅಜ್ಞಾನದಿಂದ ರಕ್ಷಿಸಲು ಅಗತ್ಯವಿರುವ ಎಚ್ಚರಿಕೆಯನ್ನು ಇದು ಸೂಚಿಸುತ್ತದೆ. ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯಾಣದಲ್ಲಿ ನಿರಂತರ ರಕ್ಷಣೆ ಮತ್ತು ಶುದ್ಧೀಕರಣದ ಮಹತ್ವವನ್ನು ಇದು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಹೀಗಾಗಿ, ಅಗ್ನಿಯನ್ನು ಕರೆಯುವುದು ನಮ್ಮ ಅಂತರ್ಗತ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಮರ್ಥ್ಯವನ್ನು ರಕ್ಷಿಸುವುದನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S162_191-4_6",
+      "mandala": 10,
+      "sukta": 162,
+      "ric_index": 4,
+      "rig_lines": [
+        "यस्त॑ ऊ॒रू वि॒हर॑त्यन्त॒रा दम्प॑ती॒ शये᳚ |",
+        "योनिं॒ यो, अ॒न्तरा॒रेळ्हि॒ तमि॒तो ना᳚शयामसि ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "ते॒",
+        "ऊ॒रू इति॑",
+        "वि॒ऽहर॑ति",
+        "अ॒न्त॒रा",
+        "दंप॑ती॒ इति॒ द‌म्ऽप॑ती",
+        "शये᳚",
+        "योनि᳚‌म्",
+        "यः",
+        "अ॒न्तः",
+        "आ॒ऽरेळ्हि॑",
+        "त‌म्",
+        "इ॒तः",
+        "ना॒श॒या॒म॒सि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who / He who",
+          "meaning_kn": "ಯಾರು / ಯಾವನು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your (feminine, referring to the woman)",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "ऊ॒रू इति॑",
+          "pada_kn": "ಊರೂ ಇತಿ",
+          "meaning_en": "thighs (dual)",
+          "meaning_kn": "ತೊಡೆಗಳನ್ನು (ಎರಡೂ)"
+        },
+        {
+          "pada_original": "वि॒ऽहर॑ति",
+          "pada_kn": "ವಿಹರತಿ",
+          "meaning_en": "separates / spreads apart",
+          "meaning_kn": "ಬೇರ್ಪಡಿಸುತ್ತಾನೆ / ಅಗಲಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "अ॒न्त॒रा",
+          "pada_kn": "ಅಂತರಾ",
+          "meaning_en": "between",
+          "meaning_kn": "ಮಧ್ಯೆ"
+        },
+        {
+          "pada_original": "दंप॑ती॒ इति॒ द‌म्ऽप॑ती",
+          "pada_kn": "ದಂಪತೀ ಇತಿ ದಂಪತೀ",
+          "meaning_en": "a husband and wife (a couple)",
+          "meaning_kn": "ದಂಪತಿಗಳು / ಗಂಡ-ಹೆಂಡತಿ"
+        },
+        {
+          "pada_original": "शये᳚",
+          "pada_kn": "ಶಯೇ",
+          "meaning_en": "lies / rests (here, lies between)",
+          "meaning_kn": "ಮಲಗುತ್ತಾನೆ / ಮಲಗಿರುವನು"
+        },
+        {
+          "pada_original": "योनि᳚‌म्",
+          "pada_kn": "ಯೋನಿಮ್",
+          "meaning_en": "the womb / vulva / female organ",
+          "meaning_kn": "ಯೋನಿಯನ್ನು / ಗರ್ಭಕೋಶವನ್ನು"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who / he who",
+          "meaning_kn": "ಯಾರು / ಯಾವನು"
+        },
+        {
+          "pada_original": "अ॒न्तः",
+          "pada_kn": "ಅಂತಃ",
+          "meaning_en": "inside / within",
+          "meaning_kn": "ಒಳಗೆ"
+        },
+        {
+          "pada_original": "आ॒ऽरेळ्हि॑",
+          "pada_kn": "ಆರೇಳ್ಹಿ",
+          "meaning_en": "licks / tastes / defiles",
+          "meaning_kn": "ನೆಕ್ಕುತ್ತಾನೆ / ಸ್ಪರ್ಶಿಸುತ್ತಾನೆ / ಮಲಿನಗೊಳಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him / that one",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "इ॒तः",
+          "pada_kn": "ಇತಃ",
+          "meaning_en": "from here / from this place",
+          "meaning_kn": "ಇಲ್ಲಿಂದ / ಈ ಸ್ಥಳದಿಂದ"
+        },
+        {
+          "pada_original": "ना॒श॒या॒म॒सि॒",
+          "pada_kn": "ನಾಶಯಾಮಸಿ",
+          "meaning_en": "we destroy / we cause to perish",
+          "meaning_kn": "ನಾವು ನಾಶಮಾಡುತ್ತೇವೆ / ನಾವು ನಿರ್ಮೂಲಗೊಳಿಸುತ್ತೇವೆ"
+        }
+      ],
+      "full_meaning_en": "O passionate one, the man who spreads his legs between the husband and wife while they are sleeping, and the one who stimulates the womb, we will drive him away from here.",
+      "full_meaning_kn": "ಓ ಕಾಮೋದ್ರಿಕ್ತನೇ, ಮಲಗಿರುವ ಗಂಡ ಮತ್ತು ಹೆಂಡತಿಯ ನಡುವೆ ತನ್ನ ಕಾಲುಗಳನ್ನು ಚಾಚುವವನು, ಮತ್ತು ಯೋನಿಯನ್ನು ಉತ್ತೇಜಿಸುವವನು, ಅವನನ್ನು ಇಲ್ಲಿಂದ ಹೊರಹಾಕುತ್ತೇವೆ.",
+      "rig_time_s": 37.472,
+      "Insight_en": "This mantra speaks to the sanctity of marital intimacy and the protection of the sacred bond between husband and wife. The act of intruding upon their private space, especially with lustful intent, is considered a grave violation. The mantra invokes the power of अग्नि (Agni) to banish such disruptive forces, ensuring the purity and stability of the गृहस्थ (grihastha) ashrama. Spiritually, it underscores the importance of respecting boundaries and maintaining fidelity in relationships, recognizing that true spiritual progress is rooted in ethical conduct and harmonious living. Such actions disrupt the cosmic order (ऋत - rita) and invite negative consequences.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ವೈವಾಹಿಕ ನಿಕಟತೆಯ ಪಾವಿತ್ರ್ಯತೆ ಮತ್ತು ಗಂಡ ಮತ್ತು ಹೆಂಡತಿಯ ನಡುವಿನ ಪವಿತ್ರ ಬಂಧದ ರಕ್ಷಣೆಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಅವರ ಖಾಸಗಿ ಜಾಗವನ್ನು ಆಕ್ರಮಿಸುವುದು, ವಿಶೇಷವಾಗಿ ಕಾಮಪ್ರಚೋದಕ ಉದ್ದೇಶದಿಂದ, ಗಂಭೀರ ಉಲ್ಲಂಘನೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ಅಂತಹ ಅಡ್ಡಿಪಡಿಸುವ ಶಕ್ತಿಗಳನ್ನು ನಿವಾರಿಸಲು ಅಗ್ನಿಯ ಶಕ್ತಿಯನ್ನು ಮಂತ್ರವು ಆಹ್ವಾನಿಸುತ್ತದೆ, ಗೃಹಸ್ಥಾಶ್ರಮದ ಶುದ್ಧತೆ ಮತ್ತು ಸ್ಥಿರತೆಯನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ಸಂಬಂಧಗಳಲ್ಲಿನ ಗಡಿಗಳನ್ನು ಗೌರವಿಸುವ ಮತ್ತು ನಿಷ್ಠೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ನಿಜವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಯು ನೈತಿಕ ನಡತೆ ಮತ್ತು ಸಾಮರಸ್ಯದ ಜೀವನದಲ್ಲಿ ಬೇರೂರಿದೆ ಎಂದು ಗುರುತಿಸುತ್ತದೆ. ಇಂತಹ ಕ್ರಮಗಳು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಅಡ್ಡಿಪಡಿಸುತ್ತವೆ ಮತ್ತು ನಕಾರಾತ್ಮಕ ಪರಿಣಾಮಗಳನ್ನು ಆಹ್ವಾನಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S162_191-5_6",
+      "mandala": 10,
+      "sukta": 162,
+      "ric_index": 5,
+      "rig_lines": [
+        "यस्त्वा॒ भ्राता॒ पति॑र्भू॒त्वा जा॒रो भू॒त्वा नि॒पद्य॑ते |",
+        "प्र॒जां यस्ते॒ जिघां᳚सति॒ तमि॒तो ना᳚शयामसि ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "त्वा॒",
+        "भ्राता᳚",
+        "पतिः॑",
+        "भू॒त्वा",
+        "जा॒रः",
+        "भू॒त्वा",
+        "नि॒ऽपद्य॑ते",
+        "प्र॒ऽजा‌म्",
+        "यः",
+        "ते॒",
+        "जिघां᳚सति",
+        "त‌म्",
+        "इ॒तः",
+        "ना॒श॒या॒म॒सि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who / He who",
+          "meaning_kn": "ಯಾವನು"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you (accusative)",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "भ्राता᳚",
+          "pada_kn": "ಭ್ರಾತಾ",
+          "meaning_en": "brother",
+          "meaning_kn": "ಸಹೋದರನಾಗಿ"
+        },
+        {
+          "pada_original": "पतिः॑",
+          "pada_kn": "ಪತಿಃ",
+          "meaning_en": "husband",
+          "meaning_kn": "ಪತಿಯಾಗಿ"
+        },
+        {
+          "pada_original": "भू॒त्वा",
+          "pada_kn": "ಭೂತ್ವಾ",
+          "meaning_en": "having become",
+          "meaning_kn": "ಆಗಿ"
+        },
+        {
+          "pada_original": "जा॒रः",
+          "pada_kn": "ಜಾರಃ",
+          "meaning_en": "paramour / illicit lover",
+          "meaning_kn": "ಜಾರನಾಗಿ/ಅಕ್ರಮ ಪ್ರೇಮಿಯಾಗಿ"
+        },
+        {
+          "pada_original": "भू॒त्वा",
+          "pada_kn": "ಭೂತ್ವಾ",
+          "meaning_en": "having become",
+          "meaning_kn": "ಆಗಿ"
+        },
+        {
+          "pada_original": "नि॒ऽपद्य॑ते",
+          "pada_kn": "ನಿಪದ್ಯತೇ",
+          "meaning_en": "lies down / approaches (with ill intent)",
+          "meaning_kn": "ಸೇರುತ್ತಾನೋ/ಮಲಗುತ್ತಾನೋ"
+        },
+        {
+          "pada_original": "प्र॒ऽजा‌म्",
+          "pada_kn": "ಪ್ರಜಾಮ್",
+          "meaning_en": "offspring / progeny",
+          "meaning_kn": "ಸಂತತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who / he who",
+          "meaning_kn": "ಯಾವನು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your (genitive)",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "जिघां᳚सति",
+          "pada_kn": "ಜಿಘಾಂಸತಿ",
+          "meaning_en": "desires to kill / seeks to harm",
+          "meaning_kn": "ನಾಶಮಾಡಲು ಬಯಸುತ್ತಾನೋ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "इ॒तः",
+          "pada_kn": "ಇತಃ",
+          "meaning_en": "from here / from this place",
+          "meaning_kn": "ಇಲ್ಲಿಂದ/ಈ ಸ್ಥಳದಿಂದ"
+        },
+        {
+          "pada_original": "ना॒श॒या॒म॒सि॒",
+          "pada_kn": "ನಾಶಯಾಮಸಿ",
+          "meaning_en": "we destroy / we make disappear",
+          "meaning_kn": "ನಾವು ನಾಶಮಾಡುತ್ತೇವೆ"
+        }
+      ],
+      "full_meaning_en": "He who, having become a brother, or a husband, or having become a paramour, lies with you; and he who seeks to destroy your offspring, him we drive away from here.",
+      "full_meaning_kn": "ಯಾವನು ಸಹೋದರನಾಗಿ, ಅಥವಾ ಪತಿಯಾಗಿ, ಅಥವಾ ಉಪಪತಿಯಾಗಿ, ನಿಮ್ಮೊಂದಿಗೆ ಮಲಗುತ್ತಾನೋ; ಮತ್ತು ನಿಮ್ಮ ಸಂತತಿಯನ್ನು ನಾಶಮಾಡಲು ಬಯಸುತ್ತಾನೋ, ಅವನನ್ನು ನಾವು ಇಲ್ಲಿಂದ ಓಡಿಸುತ್ತೇವೆ.",
+      "rig_time_s": 48.669,
+      "Insight_en": "This mantra speaks to the importance of protecting the progeny and the sanctity of family. The verse condemns those who violate familial trust and threaten the lineage. Spiritually, it signifies the need to eliminate negative influences that impede the growth of inner consciousness and divine knowledge. Just as the offspring (प्रजा) is vital for physical continuation, the cultivation of virtues and spiritual practices is crucial for spiritual evolution. The mantra urges the seeker to banish destructive tendencies (काम, क्रोध, लोभ, मोह, मद, मत्सर) that hinder self-realization. By removing these obstacles, one can ensure the flourishing of their inner self.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸಂತತಿಯನ್ನು ಮತ್ತು ಕುಟುಂಬದ ಪಾವಿತ್ರ್ಯವನ್ನು ರಕ್ಷಿಸುವ ಮಹತ್ವವನ್ನು ಹೇಳುತ್ತದೆ. ಈ ಪದ್ಯವು ಕುಟುಂಬದ ನಂಬಿಕೆಯನ್ನು ಉಲ್ಲಂಘಿಸುವ ಮತ್ತು ವಂಶವನ್ನು ಬೆದರಿಸುವವರನ್ನು ಖಂಡಿಸುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ಆಂತರಿಕ ಪ್ರಜ್ಞೆ ಮತ್ತು ದೈವಿಕ ಜ್ಞಾನದ ಬೆಳವಣಿಗೆಗೆ ಅಡ್ಡಿಯುಂಟುಮಾಡುವ ನಕಾರಾತ್ಮಕ ಪ್ರಭಾವಗಳನ್ನು ತೊಡೆದುಹಾಕುವ ಅಗತ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಭೌತಿಕ ಮುಂದುವರಿಕೆಗೆ ಸಂತತಿ ಎಷ್ಟು ಮುಖ್ಯವೋ, ಸದ್ಗುಣಗಳು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸಗಳ ಕೃಷಿಯು ಆಧ್ಯಾತ್ಮಿಕ ವಿಕಾಸಕ್ಕೆ ಅಷ್ಟೇ ನಿರ್ಣಾಯಕವಾಗಿದೆ. ಸ್ವಯಂ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ಅಡ್ಡಿಯುಂಟುಮಾಡುವ ವಿನಾಶಕಾರಿ ಪ್ರವೃತ್ತಿಗಳನ್ನು (ಕಾಮ, ಕ್ರೋಧ, ಲೋಭ, ಮೋಹ, ಮದ, ಮತ್ಸರ) ತೊಡೆದುಹಾಕಲು ಮಂತ್ರವು ಕೇಳುಗರನ್ನು ಒತ್ತಾಯಿಸುತ್ತದೆ. ಈ ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸುವ ಮೂಲಕ, ಒಬ್ಬರು ತಮ್ಮ ಒಳಗಿನ ಆತ್ಮದ ಏಳಿಗೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S162_191-6_6",
+      "mandala": 10,
+      "sukta": 162,
+      "ric_index": 6,
+      "rig_lines": [
+        "यस्त्वा॒ स्वप्ने᳚न॒ तम॑सा मोहयि॒त्वा नि॒पद्य॑ते |",
+        "प्र॒जां यस्ते॒ जिघां᳚सति॒ तमि॒तो ना᳚शयामसि ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "त्वा॒",
+        "स्वप्ने᳚न",
+        "तम॑सा",
+        "मो॒ह॒यि॒त्वा",
+        "नि॒ऽपद्य॑ते",
+        "प्र॒ऽजा‌म्",
+        "यः",
+        "ते॒",
+        "जिघां᳚सति",
+        "त‌म्",
+        "इ॒तः",
+        "ना॒श॒या॒म॒सि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "whoever",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you (accusative)",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "स्वप्ने᳚न",
+          "pada_kn": "ಸ್ವಪ್ನೇನ",
+          "meaning_en": "by dream",
+          "meaning_kn": "ಕನಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "तम॑सा",
+          "pada_kn": "ತಮಸಾ",
+          "meaning_en": "by darkness",
+          "meaning_kn": "ಕತ್ತಲೆಯಿಂದ"
+        },
+        {
+          "pada_original": "मो॒ह॒यि॒त्वा",
+          "pada_kn": "ಮೋಹಯಿತ್ವಾ",
+          "meaning_en": "having deluded",
+          "meaning_kn": "ಮೋಹಗೊಳಿಸಿ"
+        },
+        {
+          "pada_original": "नि॒ऽपद्य॑ते",
+          "pada_kn": "ನಿಪದ್ಯತೇ",
+          "meaning_en": "approaches / lies down",
+          "meaning_kn": "ಸಮೀಪಿಸುತ್ತಾನೆ / ಮಲಗುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "प्र॒ऽजा‌म्",
+          "pada_kn": "ಪ್ರಜಾಮ್",
+          "meaning_en": "offspring / progeny",
+          "meaning_kn": "ಸಂತಾನವನ್ನು"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "whoever",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "जिघां᳚सति",
+          "pada_kn": "ಜಿಘಾಂಸತಿ",
+          "meaning_en": "desires to kill / seeks to harm",
+          "meaning_kn": "ಕೊಲ್ಲಲು ಬಯಸುತ್ತಾನೆ / ಹಾನಿ ಮಾಡಲು ಬಯಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "इ॒तः",
+          "pada_kn": "ಇತಃ",
+          "meaning_en": "from here",
+          "meaning_kn": "ಇಲ್ಲಿಂದ"
+        },
+        {
+          "pada_original": "ना॒श॒या॒म॒सि॒",
+          "pada_kn": "ನಾಶಯಾಮಸಿ",
+          "meaning_en": "we destroy / we cause to perish",
+          "meaning_kn": "ನಾಶಮಾಡುತ್ತೇವೆ"
+        }
+      ],
+      "full_meaning_en": "O Agni, we drive away from here him who, having deluded you with sleep and darkness, lies down; him who seeks to injure your offspring.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ನಿದ್ರೆ ಮತ್ತು ಕತ್ತಲೆಯೊಂದಿಗೆ ನಿಮ್ಮನ್ನು ಮರುಳುಗೊಳಿಸಿ ಮಲಗುವವನನ್ನು ಇಲ್ಲಿಂದ ಓಡಿಸುತ್ತೇವೆ; ನಿಮ್ಮ ಸಂತತಿಯನ್ನು ನೋಯಿಸಲು ಬಯಸುವವನನ್ನು ಓಡಿಸುತ್ತೇವೆ.",
+      "rig_time_s": 61.578,
+      "Insight_en": "This mantra invokes अग्नि (Agni) to dispel forces that cause delusion and harm. Sleep and darkness symbolize ignorance or माया (Maya) that obscures the true nature of reality. The 'offspring' represents the potential for spiritual growth and creation. The verse signifies the need to overcome these obscurations to protect and nurture the divine potential within us. By invoking अग्नि, the mantra aims to destroy negative influences that impede spiritual progress, emphasizing vigilance and awareness in the pursuit of enlightenment. It is a call to safeguard inner purity from external and internal impediments.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಮೋಹ ಮತ್ತು ಹಾನಿಯನ್ನು ಉಂಟುಮಾಡುವ ಶಕ್ತಿಗಳನ್ನು ಹೋಗಲಾಡಿಸಲು ಅಗ್ನಿಯನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ. ನಿದ್ರೆ ಮತ್ತು ಕತ್ತಲೆ ಅಜ್ಞಾನ ಅಥವಾ ಮಾಯೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ವಾಸ್ತವದ ನಿಜವಾದ ಸ್ವರೂಪವನ್ನು ಮರೆಮಾಚುತ್ತದೆ. 'ಸಂತತಿ' ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ಸೃಷ್ಟಿಯ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ನಮ್ಮಲ್ಲಿರುವ ದೈವಿಕ ಸಾಮರ್ಥ್ಯವನ್ನು ರಕ್ಷಿಸಲು ಮತ್ತು ಪೋಷಿಸಲು ಈ ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸುವ ಅಗತ್ಯವನ್ನು ಈ ಪದ್ಯವು ಸೂಚಿಸುತ್ತದೆ. ಅಗ್ನಿಯನ್ನು ಆಹ್ವಾನಿಸುವ ಮೂಲಕ, ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅಡ್ಡಿಯುಂಟುಮಾಡುವ ಋಣಾತ್ಮಕ ಪ್ರಭಾವಗಳನ್ನು ನಾಶಮಾಡುವುದು ಮಂತ್ರದ ಗುರಿಯಾಗಿದೆ, ಜ್ಞಾನೋದಯದ ಅನ್ವೇಷಣೆಯಲ್ಲಿ ಜಾಗರೂಕತೆ ಮತ್ತು ಅರಿವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಬಾಹ್ಯ ಮತ್ತು ಆಂತರಿಕ ಅಡೆತಡೆಗಳಿಂದ ಆಂತರಿಕ ಶುದ್ಧತೆಯನ್ನು ಕಾಪಾಡಲು ಇದು ಕರೆಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

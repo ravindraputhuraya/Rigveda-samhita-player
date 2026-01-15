@@ -1,0 +1,2232 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S14_191-1_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 1,
+      "rig_lines": [
+        "प॒रे॒यि॒वांसं᳚ प्र॒वतो᳚ म॒हीरनु॑ ब॒हुभ्यः॒ पन्था᳚मनुपस्पशा॒नम् |",
+        "वै॒व॒स्व॒तं सं॒गम॑नं॒ जना᳚नां य॒मं राजा᳚नं ह॒विषा᳚ दुवस्य ||"
+      ],
+      "pre_splits": [
+        "प॒रे॒यि॒ऽवांस᳚‌म्",
+        "प्र॒ऽवतः॑",
+        "म॒हीः",
+        "अनु॑",
+        "ब॒हुऽभ्यः॑",
+        "पन्था᳚‌म्",
+        "अ॒नु॒ऽप॒स्प॒शा॒न‌म्",
+        "वै॒व॒स्व॒त‌म्",
+        "स॒‌म्ऽगम॑न‌म्",
+        "जना᳚ना‌म्",
+        "य॒म‌म्",
+        "राजा᳚न‌म्",
+        "ह॒विषा᳚",
+        "दु॒व॒स्य॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प॒रे॒यि॒ऽवांस᳚‌म्",
+          "pada_kn": "ಪರೇಯಿವಾಂಸಮ್",
+          "meaning_en": "one who has gone forth / departed",
+          "meaning_kn": "ಹೊರಟುಹೋದವನನ್ನು / ನಿರ್ಗಮಿಸಿದವನನ್ನು"
+        },
+        {
+          "pada_original": "प्र॒ऽवतः॑",
+          "pada_kn": "ಪ್ರವತಃ",
+          "meaning_en": "slopes / declivities",
+          "meaning_kn": "ಇಳಿಜಾರುಗಳನ್ನು / ಇಳಿಜಾರು ಪ್ರದೇಶಗಳನ್ನು"
+        },
+        {
+          "pada_original": "म॒हीः",
+          "pada_kn": "ಮಹೀಃ",
+          "meaning_en": "great / vast (regions)",
+          "meaning_kn": "ಮಹತ್ತಾದ / ವಿಶಾಲವಾದ (ಪ್ರದೇಶಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "along / after",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಉದ್ದಕ್ಕೂ"
+        },
+        {
+          "pada_original": "ब॒हुऽभ्यः॑",
+          "pada_kn": "ಬಹುಭ್ಯಃ",
+          "meaning_en": "for many",
+          "meaning_kn": "ಅನೇಕರಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "पन्था᳚‌म्",
+          "pada_kn": "ಪಂಥಾಮ್",
+          "meaning_en": "path / way",
+          "meaning_kn": "ಮಾರ್ಗವನ್ನು / ಹಾದಿಯನ್ನು"
+        },
+        {
+          "pada_original": "अ॒नु॒ऽप॒स्प॒शा॒न‌म्",
+          "pada_kn": "ಅನುಪಸ್ಪಶಾನಮ್",
+          "meaning_en": "having shown / having made known",
+          "meaning_kn": "ತೋರಿಸಿದವನನ್ನು / ಸೂಚಿಸಿದವನನ್ನು"
+        },
+        {
+          "pada_original": "वै॒व॒स्व॒त‌म्",
+          "pada_kn": "ವೈವಸ್ವತಮ್",
+          "meaning_en": "son of Vivasvat (Yama)",
+          "meaning_kn": "ವಿವಸ್ವತನ ಮಗನನ್ನು (ಯಮನನ್ನು)"
+        },
+        {
+          "pada_original": "स॒‌म्ऽगम॑न‌म्",
+          "pada_kn": "ಸಂಗಮನಮ್",
+          "meaning_en": "gathering place / assembly",
+          "meaning_kn": "ಸೇರುವ ಸ್ಥಳವನ್ನು / ಸಮ್ಮಿಲನವನ್ನು"
+        },
+        {
+          "pada_original": "जना᳚ना‌म्",
+          "pada_kn": "ಜನಾನಾಮ್",
+          "meaning_en": "of people / of men",
+          "meaning_kn": "ಜನರ / ಮನುಷ್ಯರ"
+        },
+        {
+          "pada_original": "य॒म‌म्",
+          "pada_kn": "ಯಮಮ್",
+          "meaning_en": "Yama",
+          "meaning_kn": "ಯಮನನ್ನು"
+        },
+        {
+          "pada_original": "राजा᳚न‌म्",
+          "pada_kn": "ರಾಜಾನಮ್",
+          "meaning_en": "king",
+          "meaning_kn": "ರಾಜನನ್ನು"
+        },
+        {
+          "pada_original": "ह॒विषा᳚",
+          "pada_kn": "ಹವಿಷಾ",
+          "meaning_en": "with oblation / with offering",
+          "meaning_kn": "ಹವಿಸ್ಸಿನಿಂದ / ಅರ್ಪಣೆಯಿಂದ"
+        },
+        {
+          "pada_original": "दु॒व॒स्य॒",
+          "pada_kn": "ದುವಸ್ಯ",
+          "meaning_en": "worship / serve",
+          "meaning_kn": "ಪೂಜಿಸು / ಸೇವಿಸು"
+        }
+      ],
+      "full_meaning_en": "Worship with oblation Yama, the king, the son of Vivasvat, who has departed and gone forth along the vast, sloping regions, having revealed the path for many, and who is the gathering place of all people.",
+      "full_meaning_kn": "ವಿಶಾಲವಾದ ಇಳಿಜಾರು ಪ್ರದೇಶಗಳ ಮೂಲಕ ಹೊರಟುಹೋದವನೂ, ಅನೇಕರಿಗಾಗಿ ಮಾರ್ಗವನ್ನು ತೋರಿಸಿದವನೂ, ಜನರ ಸಂಗಮ ಸ್ಥಾನವೂ ಆದ ವಿವಸ್ವತನ ಮಗನಾದ ರಾಜ ಯಮನನ್ನು ಓ ಹವಿಸ್ಸಿನಿಂದ ಪೂಜಿಸು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "यम (Yama), the king, embodies the principle of cosmic order and the inevitable transition of the soul. He is not merely death, but the righteous governor of Dharma, guiding souls through the karmic consequences of their actions. The path revealed by यम (Yama) symbolizes the spiritual journey each individual must undertake, navigating the 'vast, sloping regions' of consciousness. Offering 'हवि (havi)' to यम (Yama) signifies surrendering the ego and its attachments, aligning oneself with the eternal law and seeking liberation from the cycle of birth and death. यम (Yama) serves as the 'gathering place,' illustrating the ultimate unity of all souls returning to the source.",
+      "Insight_kn": "ಯಮನು ಕಾಸ್ಮಿಕ್ ಕ್ರಮದ ತತ್ವ ಮತ್ತು ಆತ್ಮದ ಅನಿವಾರ್ಯ ಪರಿವರ್ತನೆಯನ್ನು ಮೂರ್ತೀಕರಿಸುತ್ತಾನೆ. ಅವನು ಕೇವಲ ಮರಣವಲ್ಲ, ಆದರೆ ಧರ್ಮದ ನೀತಿವಂತ ರಾಜ್ಯಪಾಲಕ, ಅವರ ಕರ್ಮದ ಪರಿಣಾಮಗಳ ಮೂಲಕ ಆತ್ಮಗಳನ್ನು ಮಾರ್ಗದರ್ಶಿಸುತ್ತಾನೆ. ಯಮನು ಬಹಿರಂಗಪಡಿಸಿದ ಮಾರ್ಗವು ಪ್ರತಿಯೊಬ್ಬ ವ್ಯಕ್ತಿಯು ಕೈಗೊಳ್ಳಬೇಕಾದ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯಾಣವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. 'ಹವಿ'ಯನ್ನು ಯಮನಿಗೆ ಅರ್ಪಿಸುವುದು ಅಹಂಕಾರ ಮತ್ತು ಅದರ ಬಾಂಧವ್ಯಗಳನ್ನು ಬಿಟ್ಟುಕೊಡುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಶಾಶ್ವತ ನಿಯಮದೊಂದಿಗೆ ಒಬ್ಬರನ್ನು ಜೋಡಿಸಿಕೊಳ್ಳುವುದು ಮತ್ತು ಜನ್ಮ ಮತ್ತು ಮರಣದ ಚಕ್ರದಿಂದ ವಿಮೋಚನೆಯನ್ನು ಪಡೆಯುವುದು. ಯಮನು 'ಸಂಗಮ ಸ್ಥಾನ' ವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಾನೆ, ಎಲ್ಲಾ ಆತ್ಮಗಳು ಮೂಲಕ್ಕೆ ಹಿಂದಿರುಗುವ ಅಂತಿಮ ಏಕತೆಯನ್ನು ವಿವರಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-2_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 2,
+      "rig_lines": [
+        "य॒मो नो᳚ गा॒तुं प्र॑थ॒मो वि॑वेद॒ नैषा गव्यू᳚ति॒रप॑भर्त॒वा, उ॑ |",
+        "यत्रा᳚ नः॒ पूर्वे᳚ पि॒तरः॑ परे॒युरे॒ना ज॑ज्ञा॒नाः प॒थ्या॒३॑(आ॒) अनु॒ स्वाः ||"
+      ],
+      "pre_splits": [
+        "य॒मः",
+        "नः॒",
+        "गा॒तु‌म्",
+        "प्र॒थ॒मः",
+        "वि॒वे॒द॒",
+        "न",
+        "ए॒षा",
+        "गव्यू᳚तिः",
+        "अप॑ऽभ॒र्त॒वै",
+        "ऊँ॒ इति॑",
+        "यत्र॑",
+        "नः॒",
+        "पूर्वे᳚",
+        "पि॒तरः॑",
+        "प॒रा॒ऽई॒युः",
+        "ए॒ना",
+        "ज॒ज्ञा॒नाः",
+        "प॒थ्याः᳚",
+        "अनु॑",
+        "स्वाः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "य॒मः",
+          "pada_kn": "ಯಮಃ",
+          "meaning_en": "Yama (the lord of the departed)",
+          "meaning_kn": "ಯಮ (ಮೃತ್ಯುದೇವತೆ)"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "for us / our",
+          "meaning_kn": "ನಮಗೆ / ನಮ್ಮ"
+        },
+        {
+          "pada_original": "गा॒तु‌म्",
+          "pada_kn": "ಗಾತುಮ್",
+          "meaning_en": "path / way",
+          "meaning_kn": "ಮಾರ್ಗವನ್ನು / ದಾರಿಯನ್ನು"
+        },
+        {
+          "pada_original": "प्र॒थ॒मः",
+          "pada_kn": "ಪ್ರಥಮಃ",
+          "meaning_en": "first / foremost",
+          "meaning_kn": "ಮೊದಲು / ಪ್ರಥಮವಾಗಿ"
+        },
+        {
+          "pada_original": "वि॒वे॒द॒",
+          "pada_kn": "ವಿವೇದ",
+          "meaning_en": "found / discovered",
+          "meaning_kn": "ಕಂಡುಕೊಂಡನು / ತಿಳಿದನು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "ए॒षा",
+          "pada_kn": "ಏಷಾ",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "गव्यू᳚तिः",
+          "pada_kn": "ಗವ್ಯೂತಿಃ",
+          "meaning_en": "path / way",
+          "meaning_kn": "ಮಾರ್ಗವು / ದಾರಿಯು"
+        },
+        {
+          "pada_original": "अप॑ऽभ॒र्त॒वै",
+          "pada_kn": "ಅಪಭರ್ತವೈ",
+          "meaning_en": "to be turned back / to be returned",
+          "meaning_kn": "ಹಿಂತಿರುಗಿಸಲು / ಮರಳಿ ಪಡೆಯಲು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "indeed / certainly (emphatic particle)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "यत्र॑",
+          "pada_kn": "ಯತ್ರ",
+          "meaning_en": "where",
+          "meaning_kn": "ಎಲ್ಲಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "our",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "पूर्वे᳚",
+          "pada_kn": "ಪೂರ್ವೇ",
+          "meaning_en": "ancient / former",
+          "meaning_kn": "ಪೂರ್ವಜರು / ಹಿಂದಿನ"
+        },
+        {
+          "pada_original": "पि॒तरः॑",
+          "pada_kn": "ಪಿತರಃ",
+          "meaning_en": "fathers / ancestors",
+          "meaning_kn": "ಪಿತೃಗಳು / ಹಿರಿಯರು"
+        },
+        {
+          "pada_original": "प॒रा॒ऽई॒युः",
+          "pada_kn": "ಪರಾಈಯುಃ",
+          "meaning_en": "went away / departed",
+          "meaning_kn": "ತೆರಳಿದರೋ / ಹೊರಟುಹೋದರೋ"
+        },
+        {
+          "pada_original": "ए॒ना",
+          "pada_kn": "ಏನಾ",
+          "meaning_en": "by this (path) / through this",
+          "meaning_kn": "ಈ (ಮಾರ್ಗದಿಂದ) / ಇದರ ಮೂಲಕ"
+        },
+        {
+          "pada_original": "ज॒ज्ञा॒नाः",
+          "pada_kn": "ಜಜ್ಞಾನಾಃ",
+          "meaning_en": "those who are born / all beings",
+          "meaning_kn": "ಹುಟ್ಟಿದವರು / ಜನಿಸಿದವರೆಲ್ಲರೂ"
+        },
+        {
+          "pada_original": "प॒थ्याः᳚",
+          "pada_kn": "ಪಥ್ಯಾಃ",
+          "meaning_en": "paths / ways",
+          "meaning_kn": "ಮಾರ್ಗಗಳನ್ನು / ದಾರಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "along / following",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಹಿಂಬಾಲಿಸಿ"
+        },
+        {
+          "pada_original": "स्वाः",
+          "pada_kn": "ಸ್ವಾಃ",
+          "meaning_en": "their own",
+          "meaning_kn": "ತಮ್ಮದೇ ಆದ / ಸ್ವಂತ"
+        }
+      ],
+      "full_meaning_en": "Yama, the foremost among us, first discovered the path (to the other world) for us. This path, once taken, cannot indeed be turned back from. It is where our ancient fathers and ancestors departed, and all beings, once born, follow their own paths along this same way.",
+      "full_meaning_kn": "ಯಮನು ನಮಗಾಗಿ ಮೊದಲು ಮಾರ್ಗವನ್ನು ಕಂಡುಕೊಂಡನು. ಈ ಮಾರ್ಗವು ಖಂಡಿತವಾಗಿಯೂ ಹಿಂತಿರುಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲದ್ದು. ನಮ್ಮ ಪೂರ್ವಜರು ಎಲ್ಲಿಗೆ ತೆರಳಿದರೋ, ಅಲ್ಲಿಗೆ ಜನ್ಮವೆತ್ತಿದವರೆಲ್ಲರೂ ತಮ್ಮದೇ ಆದ ಮಾರ್ಗಗಳನ್ನು ಅನುಸರಿಸಿ ಹೋಗುತ್ತಾರೆ.",
+      "rig_time_s": 15.511,
+      "Insight_en": "यम (Yama), as the first to tread the path of death, symbolizes the pioneering spirit of self-transcendence. The irreversible journey signifies the soul's evolution, a one-way movement towards ultimate liberation. The 'path' is not merely physical but a spiritual trajectory, urging us to embrace transformation. पितरः (Pitarah), the ancestors, represent the accumulated wisdom guiding us. Birth is inextricably linked to this path, emphasizing that existence is a continuous journey of self-discovery and return to source. The mantra underscores the importance of aligning our individual paths with the eternal cosmic dharma.",
+      "Insight_kn": "ಯಮನು ಮೃತ್ಯುವಿನ ಮಾರ್ಗವನ್ನು ಮೊದಲು ತುಳಿದವನಾಗಿ, ಆತ್ಮ-ಅತಿಕ್ರಮಣದ ಪ್ರವರ್ತಕ ಚೈತನ್ಯವನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ. ಹಿಂತಿರುಗಿಸಲಾಗದ ಪಯಣವು ಆತ್ಮದ ವಿಕಾಸವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಅಂತಿಮ ವಿಮೋಚನೆಯ ಕಡೆಗೆ ಸಾಗುವ ಏಕಮುಖ ಚಲನೆ. 'ಮಾರ್ಗ' ಕೇವಲ ಭೌತಿಕವಲ್ಲ, ಆಧ್ಯಾತ್ಮಿಕ ಪಥವಾಗಿದೆ, ಇದು ರೂಪಾಂತರವನ್ನು ಸ್ವೀಕರಿಸಲು ನಮ್ಮನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ಪಿತರಃ ನಮ್ಮನ್ನು ಮಾರ್ಗದರ್ಶಿಸುವ ಶೇಖರಣಾ ಜ್ಞಾನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಜನ್ಮವು ಈ ಮಾರ್ಗಕ್ಕೆ ಬೇರ್ಪಡಿಸಲಾಗದಂತೆ ಸಂಬಂಧ ಹೊಂದಿದೆ, ಅಸ್ತಿತ್ವವು ಸ್ವಯಂ-ಶೋಧನೆಯ ನಿರಂತರ ಪ್ರಯಾಣ ಮತ್ತು ಮೂಲಕ್ಕೆ ಮರಳುವಿಕೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ವೈಯಕ್ತಿಕ ಮಾರ್ಗಗಳನ್ನು ಶಾಶ್ವತ ಕಾಸ್ಮಿಕ್ ಧರ್ಮದೊಂದಿಗೆ ಜೋಡಿಸುವ ಮಹತ್ವವನ್ನು ಮಂತ್ರವು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-3_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 3,
+      "rig_lines": [
+        "मात॑ली क॒व्यैर्य॒मो, अङ्गि॑रोभि॒र्बृह॒स्पति॒रृक्व॑भिर्वावृधा॒नः |",
+        "याँश्च॑ दे॒वा वा᳚वृ॒धुर्ये च॑ दे॒वान्‌ त्स्वाहा॒न्ये स्व॒धया॒न्ये म॑दन्ति ||"
+      ],
+      "pre_splits": [
+        "मात॑ली",
+        "क॒व्यैः",
+        "य॒मः",
+        "अङ्गि॑रःऽभिः",
+        "बृह॒स्पतिः॑",
+        "ऋक्व॑ऽभिः",
+        "व॒वृ॒धा॒नः",
+        "यान्",
+        "च॒",
+        "दे॒वाः",
+        "व॒वृ॒धुः",
+        "ये",
+        "च॒",
+        "दे॒वान्",
+        "स्वाहा᳚",
+        "अ॒न्ये",
+        "स्व॒धया᳚",
+        "अ॒न्ये",
+        "म॒द॒न्ति॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "मात॑ली",
+          "pada_kn": "ಮಾತಲೀ",
+          "meaning_en": "Matali (a divine being/ancestor)",
+          "meaning_kn": "ಮಾತಲಿ (ಒಬ್ಬ ದಿವ್ಯ ಪುರುಷ/ಪಿತೃ)"
+        },
+        {
+          "pada_original": "क॒व्यैः",
+          "pada_kn": "ಕವ್ಯೈಃ",
+          "meaning_en": "with the Kavya (ancestors/sages)",
+          "meaning_kn": "ಕವ್ಯರೊಂದಿಗೆ / ಕವ್ಯ ಪಿತೃಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "य॒मः",
+          "pada_kn": "ಯಮಃ",
+          "meaning_en": "Yama (the lord of ancestors)",
+          "meaning_kn": "ಯಮನು / ಪಿತೃಗಳ ಅಧಿಪತಿ"
+        },
+        {
+          "pada_original": "अङ्गि॑रःऽभिः",
+          "pada_kn": "ಅಂಗಿರಃऽಭಿಃ",
+          "meaning_en": "with the Angirasas (sages/ancestors)",
+          "meaning_kn": "ಅಂಗಿರಸರೊಂದಿಗೆ / ಅಂಗಿರಸ ಪಿತೃಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "बृह॒स्पतिः॑",
+          "pada_kn": "ಬೃಹಸ್ಪತಿಃ",
+          "meaning_en": "Brihaspati (the divine priest)",
+          "meaning_kn": "ಬೃಹಸ್ಪತಿಯು / ದೇವಗುರು"
+        },
+        {
+          "pada_original": "ऋक्व॑ऽभिः",
+          "pada_kn": "ಋಕ್ವऽಭಿಃ",
+          "meaning_en": "with the Rikvas (praise-singers/hymn-singers)",
+          "meaning_kn": "ಋಕ್ವಗಳೊಂದಿಗೆ / ಸ್ತೋತ್ರ ಮಾಡುವವರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "व॒वृ॒धा॒नः",
+          "pada_kn": "ವವೃಧಾನಃ",
+          "meaning_en": "having been strengthened / glorified",
+          "meaning_kn": "ವೃದ್ಧಿಹೊಂದಿದವನು / ಪ್ರಬಲನಾದವನು"
+        },
+        {
+          "pada_original": "यान्",
+          "pada_kn": "ಯಾನ್",
+          "meaning_en": "whom",
+          "meaning_kn": "ಯಾರನ್ನು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "व॒वृ॒धुः",
+          "pada_kn": "ವವೃಧುಃ",
+          "meaning_en": "strengthened / glorified",
+          "meaning_kn": "ವೃದ್ಧಿಪಡಿಸಿದರು / ಪ್ರಬಲಗೊಳಿಸಿದರು"
+        },
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "दे॒वान्",
+          "pada_kn": "ದೇವಾನ್",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "स्वाहा᳚",
+          "pada_kn": "ಸ್ವಾಹಾ",
+          "meaning_en": "by Svaha (with oblations to gods)",
+          "meaning_kn": "ಸ್ವಾಹಾದಿಂದ / ದೇವತೆಗಳಿಗೆ ಅರ್ಪಿಸುವ ಆಹುತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "अ॒न्ये",
+          "pada_kn": "ಅನ್ಯೇ",
+          "meaning_en": "some (ancestors)",
+          "meaning_kn": "ಕೆಲವರು / ಕೆಲವು ಪಿತೃಗಳು"
+        },
+        {
+          "pada_original": "स्व॒धया᳚",
+          "pada_kn": "ಸ್ವಧಯಾ",
+          "meaning_en": "by Svadha (with ancestral offerings)",
+          "meaning_kn": "ಸ್ವಧಾದಿಂದ / ಪಿತೃಗಳಿಗೆ ಅರ್ಪಿಸುವ ಆಹುತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "अ॒न्ये",
+          "pada_kn": "ಅನ್ಯೇ",
+          "meaning_en": "others (ancestors)",
+          "meaning_kn": "ಇತರರು / ಇತರ ಪಿತೃಗಳು"
+        },
+        {
+          "pada_original": "म॒द॒न्ति॒",
+          "pada_kn": "ಮದಂತಿ",
+          "meaning_en": "they rejoice / are delighted",
+          "meaning_kn": "ಅವರು ಸಂತೋಷಪಡುತ್ತಾರೆ / ಆನಂದಿಸುತ್ತಾರೆ"
+        }
+      ],
+      "full_meaning_en": "Matali, along with the Kavya ancestors, Yama with the Angirasa ancestors, and Brihaspati with the Rikvas (praise-singers), have all been glorified. And those ancestors whom the gods have strengthened, and those who in turn strengthened the gods – some of these ancestors rejoice through offerings made with 'Svaha' (to gods), while others rejoice through offerings made with 'Svadha' (to ancestors).",
+      "full_meaning_kn": "ಕವ್ಯ ಪಿತೃಗಳೊಂದಿಗೆ ಮಾತಲಿಯು, ಅಂಗಿರಸ ಪಿತೃಗಳೊಂದಿಗೆ ಯಮನು, ಮತ್ತು ಸ್ತೋತ್ರ ಮಾಡುವವರೊಂದಿಗೆ ಬೃಹಸ್ಪತಿಯು ವೃದ್ಧಿಹೊಂದಿದ್ದಾರೆ/ಪ್ರಬಲರಾಗಿದ್ದಾರೆ. ಮತ್ತು ಯಾವ ಪಿತೃಗಳನ್ನು ದೇವತೆಗಳು ಪ್ರಬಲಗೊಳಿಸಿದರೋ, ಹಾಗೂ ಯಾರು ದೇವತೆಗಳನ್ನು ಪ್ರಬಲಗೊಳಿಸಿದರೋ – ಅಂತಹ ಪಿತೃಗಳಲ್ಲಿ ಕೆಲವರು 'ಸ್ವಾಹಾ' (ದೇವತೆಗಳಿಗೆ ಅರ್ಪಿಸುವ ಆಹುತಿ) ಮೂಲಕ ಸಂತೋಷಪಡುತ್ತಾರೆ, ಮತ್ತು ಇತರರು 'ಸ್ವಧಾ' (ಪಿತೃಗಳಿಗೆ ಅರ್ಪಿಸುವ ಆಹುತಿ) ಮೂಲಕ ಸಂತೋಷಪಡುತ್ತಾರೆ.",
+      "rig_time_s": 33.896,
+      "Insight_en": "The ancestors (पितृ) represent the accumulated wisdom and karmic inheritance within the individual. Matali, Yama, and Brihaspati, archetypal figures, symbolize different aspects of consciousness guiding this ancestral force. The dual offerings of 'Svaha' and 'Svadha' indicate the reciprocal relationship between the individual and the divine, a constant exchange of energy and grace. 'Svaha' offered to the gods, signifies aspiration and surrender, while 'Svadha' to the ancestors, represents gratitude and integration of the past. By honoring both, one acknowledges the interconnectedness of all existence, fostering spiritual growth and liberation. This interplay ensures a balanced evolution, where the individual uplifts the divine and the divine empowers the individual.",
+      "Insight_kn": "ಪಿತೃಗಳು ವ್ಯಕ್ತಿಯಲ್ಲಿ ಸಂಗ್ರಹವಾದ ಜ್ಞಾನ ಮತ್ತು ಕರ್ಮದ ಆನುವಂಶಿಕತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಮಾತಲಿ, ಯಮ ಮತ್ತು ಬೃಹಸ್ಪತಿ ಎಂಬ ಮೂಲರೂಪದ ವ್ಯಕ್ತಿಗಳು, ಈ ಪೂರ್ವಜರ ಶಕ್ತಿಯನ್ನು ಮಾರ್ಗದರ್ಶಿಸುವ ಪ್ರಜ್ಞೆಯ ವಿವಿಧ ಅಂಶಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ. 'ಸ್ವಾಹಾ' ಮತ್ತು 'ಸ್ವಧಾ' ಎಂಬ ಎರಡು ರೀತಿಯ ಅರ್ಪಣೆಗಳು ವ್ಯಕ್ತಿ ಮತ್ತು ದೈವಿಕದ ನಡುವಿನ ಪರಸ್ಪರ ಸಂಬಂಧವನ್ನು ಸೂಚಿಸುತ್ತವೆ, ಇದು ಶಕ್ತಿ ಮತ್ತು ಕೃಪೆಯ ನಿರಂತರ ವಿನಿಮಯವಾಗಿದೆ. ದೇವತೆಗಳಿಗೆ ಅರ್ಪಿಸುವ 'ಸ್ವಾಹಾ', ಆಕಾಂಕ್ಷೆ ಮತ್ತು ಶರಣಾಗತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಆದರೆ ಪಿತೃಗಳಿಗೆ ಅರ್ಪಿಸುವ 'ಸ್ವಧಾ', ಕೃತಜ್ಞತೆ ಮತ್ತು ಗತಕಾಲದ ಸಮನ್ವಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇವೆರಡನ್ನೂ ಗೌರವಿಸುವುದರ ಮೂಲಕ, ಒಬ್ಬರು ಅಸ್ತಿತ್ವದ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಅಂಗೀಕರಿಸುತ್ತಾರೆ, ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ವಿಮೋಚನೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತಾರೆ. ಈ ಪರಸ್ಪರ ಕ್ರಿಯೆಯು ಸಮತೋಲಿತ ವಿಕಾಸವನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ, ಅಲ್ಲಿ ವ್ಯಕ್ತಿಯು ದೈವಿಕವನ್ನು ಉನ್ನತೀಕರಿಸುತ್ತಾನೆ ಮತ್ತು ದೈವಿಕವು ವ್ಯಕ್ತಿಯನ್ನು ಸಶಕ್ತಗೊಳಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-4_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 4,
+      "rig_lines": [
+        "इ॒मं य॑म प्रस्त॒रमा हि सीदाङ्गि॑रोभिः पि॒तृभिः॑ संविदा॒नः |",
+        "आ त्वा॒ मन्त्राः᳚ कविश॒स्ता व॑हन्त्वे॒ना रा᳚जन्ह॒विषा᳚ मादयस्व ||"
+      ],
+      "pre_splits": [
+        "इ॒म‌म्",
+        "य॒म॒",
+        "प्र॒ऽस्त॒र‌म्",
+        "आ",
+        "हि",
+        "सीद॑",
+        "अङ्गि॑रःऽभिः",
+        "पि॒तृऽभिः॑",
+        "स॒‌म्ऽवि॒दा॒नः",
+        "आ",
+        "त्वा॒",
+        "मन्त्राः᳚",
+        "क॒वि॒ऽश॒स्ताः",
+        "व॒ह॒न्तु॒",
+        "ए॒ना",
+        "रा॒ज॒न्",
+        "ह॒विषा᳚",
+        "मा॒द॒य॒स्व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इ॒म‌म्",
+          "pada_kn": "ಇಮಮ್",
+          "meaning_en": "this (sacred grass)",
+          "meaning_kn": "ಈ (ದರ್ಭಾಸನವನ್ನು)"
+        },
+        {
+          "pada_original": "य॒म॒",
+          "pada_kn": "ಯಮ",
+          "meaning_en": "O Yama",
+          "meaning_kn": "ಓ ಯಮನೇ"
+        },
+        {
+          "pada_original": "प्र॒ऽस्त॒र‌म्",
+          "pada_kn": "ಪ್ರಸ್ತರಮ್",
+          "meaning_en": "the sacred grass / seat",
+          "meaning_kn": "ದರ್ಭಾಸನವನ್ನು / ಯಜ್ಞದ ಹುಲ್ಲನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "come",
+          "meaning_kn": "ಬಂದು"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "सीद॑",
+          "pada_kn": "ಸೀದ",
+          "meaning_en": "sit",
+          "meaning_kn": "ಕುಳಿತುಕೋ"
+        },
+        {
+          "pada_original": "अङ्गि॑रःऽभिः",
+          "pada_kn": "ಅಂಗಿರಃऽಭಿಃ",
+          "meaning_en": "with the Angiras (ancestors)",
+          "meaning_kn": "ಅಂಗಿರಸ್ಸುಗಳೊಂದಿಗೆ (ಪೂರ್ವಜರೊಂದಿಗೆ)"
+        },
+        {
+          "pada_original": "पि॒तृऽभिः॑",
+          "pada_kn": "ಪಿತೃऽಭಿಃ",
+          "meaning_en": "with the fathers (ancestors)",
+          "meaning_kn": "ಪಿತೃಗಳೊಂದಿಗೆ (ಪೂರ್ವಜರೊಂದಿಗೆ)"
+        },
+        {
+          "pada_original": "स॒‌म्ऽवि॒दा॒नः",
+          "pada_kn": "ಸಮ್ऽವಿದಾನಃ",
+          "meaning_en": "united / associated",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಸೇರಿಕೊಂಡು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(come)",
+          "meaning_kn": "(ಬಂದು)"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "मन्त्राः᳚",
+          "pada_kn": "ಮಂತ್ರಾಃ",
+          "meaning_en": "the hymns",
+          "meaning_kn": "ಮಂತ್ರಗಳು"
+        },
+        {
+          "pada_original": "क॒वि॒ऽश॒स्ताः",
+          "pada_kn": "ಕವಿऽಶಸ್ತಾಃ",
+          "meaning_en": "praised by poets/sages",
+          "meaning_kn": "ಕವಿಗಳಿಂದ/ಋಷಿಗಳಿಂದ ಸ್ತುತಿಸಲ್ಪಟ್ಟ"
+        },
+        {
+          "pada_original": "व॒ह॒न्तु॒",
+          "pada_kn": "ವಹಂತು",
+          "meaning_en": "may they bring",
+          "meaning_kn": "ಹೊತ್ತು ತರಲಿ"
+        },
+        {
+          "pada_original": "ए॒ना",
+          "pada_kn": "ಏನಾ",
+          "meaning_en": "with this",
+          "meaning_kn": "ಈ (ಹವಿಸ್ಸಿನಿಂದ)"
+        },
+        {
+          "pada_original": "रा॒ज॒न्",
+          "pada_kn": "ರಾಜನ್",
+          "meaning_en": "O King",
+          "meaning_kn": "ಓ ರಾಜನೇ"
+        },
+        {
+          "pada_original": "ह॒विषा᳚",
+          "pada_kn": "ಹವಿಷಾ",
+          "meaning_en": "with the oblation",
+          "meaning_kn": "ಹವಿಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "मा॒द॒य॒स्व॒",
+          "pada_kn": "ಮಾದಯಸ್ವ",
+          "meaning_en": "be pleased / rejoice",
+          "meaning_kn": "ಸಂತೋಷಿಸು / ತೃಪ್ತನಾಗು"
+        }
+      ],
+      "full_meaning_en": "O Yama, come and indeed sit upon this sacred grass, united with the Angiras and other ancestral fathers. May the hymns praised by the sages bring you here. O King, be pleased with this oblation.",
+      "full_meaning_kn": "ಓ ಯಮನೇ, ಅಂಗಿರಸ್ಸುಗಳ ಮತ್ತು ಪಿತೃಗಳೊಂದಿಗೆ ಸೇರಿಕೊಂಡು, ಈ ದರ್ಭಾಸನದ ಮೇಲೆ ಬಂದು ಕುಳಿತುಕೋ. ಋಷಿಗಳಿಂದ ಸ್ತುತಿಸಲ್ಪಟ್ಟ ಮಂತ್ರಗಳು ನಿನ್ನನ್ನು ಇಲ್ಲಿಗೆ ಕರೆತರಲಿ. ಓ ರಾಜನೇ, ಈ ಹವಿಸ್ಸಿನಿಂದ ಸಂತೋಷಿಸು.",
+      "rig_time_s": 50.618,
+      "Insight_en": "Yama, in the Adhyatmika sense, is not merely death, but the principle of Dharma, the cosmic order. The sacred grass, प्रस्तर (prastara), represents the established foundation of consciousness. The Angiras पितृ (pitṛ), ancestral fathers, are the lineage of illuminated minds whose wisdom is inherited. The hymns, मन्त्राः (mantrāḥ), are the vehicles that transport us to higher states, and the हवि (havi), oblation, is the offering of the ego to the divine will. Thus, true communion lies in surrendering to Dharma, grounding oneself in wisdom, and transcending the ego through sacred sound.",
+      "Insight_kn": "ಯಮನು, ಆಧ್ಯಾತ್ಮಿಕ ಅರ್ಥದಲ್ಲಿ, ಕೇವಲ ಮರಣವಲ್ಲ, ಧರ್ಮದ ತತ್ವ, ಕಾಸ್ಮಿಕ್ ವ್ಯವಸ್ಥೆ. ಪವಿತ್ರ ದರ್ಬೆ ಹುಲ್ಲು, ಪ್ರಸ್ತರ, ಪ್ರಜ್ಞೆಯ ಸ್ಥಾಪಿತ ಅಡಿಪಾಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅಂಗಿರಸ ಪಿತೃಗಳು, ಪೂರ್ವಜ ಪಿತೃಗಳು, ಬೆಳಗಿದ ಮನಸ್ಸುಗಳ ವಂಶಾವಳಿಯಾಗಿದ್ದು, ಅವರ ಜ್ಞಾನವನ್ನು ಆನುವಂಶಿಕವಾಗಿ ಪಡೆಯಲಾಗಿದೆ. ಮಂತ್ರಗಳು ನಮ್ಮನ್ನು ಉನ್ನತ ಸ್ಥಿತಿಗಳಿಗೆ ಸಾಗಿಸುವ ವಾಹನಗಳಾಗಿವೆ, ಮತ್ತು ಹವಿ, ಅರ್ಪಣೆಯು ದೈವಿಕ ಚಿತ್ತಕ್ಕೆ ಅಹಂಕಾರದ ಅರ್ಪಣೆಯಾಗಿದೆ. ಹೀಗಾಗಿ, ಧರ್ಮಕ್ಕೆ ಶರಣಾಗುವುದು, ಜ್ಞಾನದಲ್ಲಿ ತನ್ನನ್ನು ತಾನು ಸ್ಥಾಪಿಸಿಕೊಳ್ಳುವುದು ಮತ್ತು ಪವಿತ್ರ ಧ್ವನಿಯ ಮೂಲಕ ಅಹಂಕಾರವನ್ನು ಮೀರುವುದು ನಿಜವಾದ ಸಂವಹನದಲ್ಲಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-5_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 5,
+      "rig_lines": [
+        "अङ्गि॑रोभि॒रा ग॑हि य॒ज्ञिये᳚भि॒र्यम॑ वैरू॒पैरि॒ह मा᳚दयस्व |",
+        "विव॑स्वन्तं हुवे॒ यः पि॒ता ते॒ऽस्मिन्‌ य॒ज्ञे ब॒र्हिष्या नि॒षद्य॑ ||"
+      ],
+      "pre_splits": [
+        "अङ्गि॑रःऽभिः",
+        "आ",
+        "ग॒हि॒",
+        "य॒ज्ञिये᳚भिः",
+        "यम॑",
+        "वै॒रू॒पैः",
+        "इ॒ह",
+        "मा॒द॒य॒स्व॒",
+        "विव॑स्वन्त‌म्",
+        "हु॒वे॒",
+        "यः",
+        "पि॒ता",
+        "ते॒",
+        "अ॒स्मिन्",
+        "य॒ज्ञे",
+        "ब॒र्हिषि॑",
+        "आ",
+        "नि॒ऽसद्य॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अङ्गि॑रःऽभिः",
+          "pada_kn": "ಅಂಗಿರಃಅಭಿಃ",
+          "meaning_en": "with the Angiras (ancestors/sages)",
+          "meaning_kn": "ಅಂಗಿರಸ್ಸುಗಳೊಂದಿಗೆ / ಅಂಗಿರಸರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / come",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಬನ್ನಿ"
+        },
+        {
+          "pada_original": "ग॒हि॒",
+          "pada_kn": "ಗಹಿ",
+          "meaning_en": "come (imperative)",
+          "meaning_kn": "ಬನ್ನಿ / ಆಗಮಿಸಿ"
+        },
+        {
+          "pada_original": "य॒ज्ञिये᳚भिः",
+          "pada_kn": "ಯಜ್ಞಿಯೇಭಿಃ",
+          "meaning_en": "with the worshipful / worthy of sacrifice",
+          "meaning_kn": "ಯಜ್ಞಾರ್ಹರಾದವರೊಂದಿಗೆ / ಪೂಜನೀಯರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "यम॑",
+          "pada_kn": "ಯಮ",
+          "meaning_en": "O Yama (vocative)",
+          "meaning_kn": "ಓ ಯಮನೇ"
+        },
+        {
+          "pada_original": "वै॒रू॒पैः",
+          "pada_kn": "ವೈರೂಪೈಃ",
+          "meaning_en": "with the Virupas (a class of Angiras)",
+          "meaning_kn": "ವಿರೂಪರೊಂದಿಗೆ (ಒಂದು ಅಂಗಿರಸ್ಸುಗಳ ವರ್ಗ)"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "मा॒द॒य॒स्व॒",
+          "pada_kn": "ಮಾದಯಸ್ವ",
+          "meaning_en": "gladden yourself / rejoice",
+          "meaning_kn": "ಸಂತೋಷಗೊಳ್ಳಿ / ಆನಂದಿಸಿ"
+        },
+        {
+          "pada_original": "विव॑स्वन्त‌म्",
+          "pada_kn": "ವಿವಸ್ವನ್ತಮ್",
+          "meaning_en": "Vivasvat (Yama's father)",
+          "meaning_kn": "ವಿವಸ್ವಂತನನ್ನು (ಯಮನ ತಂದೆ)"
+        },
+        {
+          "pada_original": "हु॒वे॒",
+          "pada_kn": "ಹುವೇ",
+          "meaning_en": "I invoke / I call",
+          "meaning_kn": "ನಾನು ಆಹ್ವಾನಿಸುತ್ತೇನೆ / ಕರೆಯುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "पि॒ता",
+          "pada_kn": "ಪಿತಾ",
+          "meaning_en": "father",
+          "meaning_kn": "ತಂದೆ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your (genitive)",
+          "meaning_kn": "ನಿನ್ನ / ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "अ॒स्मिन्",
+          "pada_kn": "ಅಸ್ಮಿನ್",
+          "meaning_en": "in this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "य॒ज्ञे",
+          "pada_kn": "ಯಜ್ಞೇ",
+          "meaning_en": "sacrifice / ritual",
+          "meaning_kn": "ಯಜ್ಞದಲ್ಲಿ / ಆಹುತಿಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ब॒र्हिषि॑",
+          "pada_kn": "ಬರ್ಹಿಷಿ",
+          "meaning_en": "on the sacred grass",
+          "meaning_kn": "ದರ್ಭೆಯ ಮೇಲೆ / ಯಜ್ಞದ ಹುಲ್ಲಿನ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "upon / hither",
+          "meaning_kn": "ಮೇಲೆ / ಇಲ್ಲಿಗೆ"
+        },
+        {
+          "pada_original": "नि॒ऽसद्य॑",
+          "pada_kn": "ನಿಸದ್ಯ",
+          "meaning_en": "having sat down / being seated",
+          "meaning_kn": "ಕುಳಿತುಕೊಂಡು / ಆಸೀನನಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O Yama, come hither with the Angiras and the worshipful Virupas; rejoice here. I invoke Vivasvat, who is your father, to be seated upon the sacred grass in this sacrifice.",
+      "full_meaning_kn": "ಓ ಯಮನೇ, ಅಂಗಿರಸ್ಸುಗಳೊಂದಿಗೆ ಮತ್ತು ಯಜ್ಞಾರ್ಹರಾದ ವಿರೂಪರೊಂದಿಗೆ ಇಲ್ಲಿಗೆ ಬನ್ನಿ, ಇಲ್ಲಿ ಸಂತೋಷಗೊಳ್ಳಿ. ಈ ಯಜ್ಞದಲ್ಲಿ ದರ್ಭೆಯ ಮೇಲೆ ಆಸೀನನಾಗಲು, ನಿನ್ನ ತಂದೆಯಾದ ವಿವಸ್ವಂತನನ್ನು ನಾನು ಆಹ್ವಾನಿಸುತ್ತೇನೆ.",
+      "rig_time_s": 65.188,
+      "Insight_en": "यम (Yama), as the lord of Dharma, embodies the ultimate cosmic law governing life and death; his presence signifies the imperative to confront mortality and transcend earthly attachments. The Angiras represent the ancestral fire priests, symbolic of inner illumination and the lineage of spiritual knowledge. Vivasvant, the sun-father, embodies the source of vital energy and consciousness; his invocation signifies the infusion of divine light into the sacrificial offering. The call to sit on the sacred बर्हिस् (barhis) is an invitation to internalize the ritual, finding the divine seat within one's own consciousness, thus transforming death into a gateway to liberation.",
+      "Insight_kn": "ಯಮನು ಧರ್ಮದ ಅಧಿಪತಿಯಾಗಿ, ಜೀವನ ಮತ್ತು ಮರಣವನ್ನು ನಿಯಂತ್ರಿಸುವ ಅಂತಿಮ ಕಾಸ್ಮಿಕ್ ನಿಯಮವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ; ಅವನ ಉಪಸ್ಥಿತಿಯು ಮರ್ತ್ಯತೆಯನ್ನು ಎದುರಿಸಲು ಮತ್ತು ಲೌಕಿಕ ಬಾಂಧವ್ಯಗಳನ್ನು ಮೀರುವ ಕಡ್ಡಾಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂಗಿರಸರು ಪೂರ್ವಜರ ಅಗ್ನಿ ಪುರೋಹಿತರನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಆಂತರಿಕ ಪ್ರಕಾಶ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನದ ವಂಶವನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ. ವಿವಸ್ವಂತನು ಸೂರ್ಯ-ಪಿತೃ, ಇದು ಪ್ರಮುಖ ಶಕ್ತಿ ಮತ್ತು ಪ್ರಜ್ಞೆಯ ಮೂಲವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತದೆ; ಅವನ ಆಹ್ವಾನವು ತ್ಯಾಗದ ಅರ್ಪಣೆಗೆ ದೈವಿಕ ಬೆಳಕಿನ ಪ್ರಸರಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಪವಿತ್ರ ದರ್ಭೆಯ ಮೇಲೆ ಕುಳಿತುಕೊಳ್ಳುವ ಕರೆಯು ಆಚರಣೆಯನ್ನು ಆಂತರಿಕಗೊಳಿಸಲು, ಒಬ್ಬರ ಸ್ವಂತ ಪ್ರಜ್ಞೆಯೊಳಗೆ ದೈವಿಕ ಪೀಠವನ್ನು ಕಂಡುಕೊಳ್ಳಲು ಮತ್ತು ಹೀಗೆ ಸಾವನ್ನು ವಿಮೋಚನೆಯ ಹೆಬ್ಬಾಗಿಲಾಗಿ ಪರಿವರ್ತಿಸಲು ಒಂದು ಆಹ್ವಾನವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-6_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 6,
+      "rig_lines": [
+        "अङ्गि॑रसो नः पि॒तरो॒ नव॑ग्वा॒, अथ᳚र्वाणो॒ भृग॑वः सो॒म्यासः॑ |",
+        "तेषां᳚ व॒यं सु॑म॒तौ य॒ज्ञिया᳚ना॒मपि॑ भ॒द्रे सौ᳚मन॒से स्या᳚म ||"
+      ],
+      "pre_splits": [
+        "अङ्गि॑रसः",
+        "नः॒",
+        "पि॒तरः॑",
+        "नव॑ऽग्वाः",
+        "अथ᳚र्वाणः",
+        "भृग॑वः",
+        "सो॒म्यासः॑",
+        "तेषा᳚‌म्",
+        "व॒य‌म्",
+        "सु॒ऽम॒तौ",
+        "य॒ज्ञिया᳚ना‌म्",
+        "अपि॑",
+        "भ॒द्रे",
+        "सौ॒म॒न॒से",
+        "स्या॒म॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अङ्गि॑रसः",
+          "pada_kn": "ಅಂಗಿರಸಃ",
+          "meaning_en": "Angirasas (ancient sages/ancestors)",
+          "meaning_kn": "ಅಂಗಿರಸರು / ಪೂರ್ವಜರು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "our",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "पि॒तरः॑",
+          "pada_kn": "ಪಿತರಃ",
+          "meaning_en": "fathers / ancestors",
+          "meaning_kn": "ಪಿತೃಗಳು / ಪೂರ್ವಜರು"
+        },
+        {
+          "pada_original": "नव॑ऽग्वाः",
+          "pada_kn": "ನವಗ್ವಾಃ",
+          "meaning_en": "Navagvas (a class of Angirasas)",
+          "meaning_kn": "ನವಗ್ವರು (ಅಂಗಿರಸರ ಒಂದು ವರ್ಗ)"
+        },
+        {
+          "pada_original": "अथ᳚र्वाणः",
+          "pada_kn": "ಅಥರ್ವಾಣಃ",
+          "meaning_en": "Atharvans (sages)",
+          "meaning_kn": "ಅಥರ್ವರು"
+        },
+        {
+          "pada_original": "भृग॑वः",
+          "pada_kn": "ಭೃಗವಃ",
+          "meaning_en": "Bhrigus (sages)",
+          "meaning_kn": "ಭೃಗುಗಳು"
+        },
+        {
+          "pada_original": "सो॒म्यासः॑",
+          "pada_kn": "ಸೋಮ್ಯಾಸಃ",
+          "meaning_en": "Soma-loving / worthy of Soma",
+          "meaning_kn": "ಸೋಮಪಾನಕ್ಕೆ ಯೋಗ್ಯರಾದ / ಸೋಮವನ್ನು ಪ್ರೀತಿಸುವವರು"
+        },
+        {
+          "pada_original": "तेषा᳚‌म्",
+          "pada_kn": "ತೇಷಾಮ್",
+          "meaning_en": "of them",
+          "meaning_kn": "ಅವರ"
+        },
+        {
+          "pada_original": "व॒य‌म्",
+          "pada_kn": "ವಯಮ್",
+          "meaning_en": "we",
+          "meaning_kn": "ನಾವು"
+        },
+        {
+          "pada_original": "सु॒ऽम॒तौ",
+          "pada_kn": "ಸುಮತೌ",
+          "meaning_en": "in the good will / good thought",
+          "meaning_kn": "ಶುಭ ಬುದ್ಧಿಯಲ್ಲಿ / ಅನುಗ್ರಹದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "य॒ज्ञिया᳚ना‌म्",
+          "pada_kn": "ಯಜ್ಞಿಯಾನಾಮ್",
+          "meaning_en": "of the worshipful / worthy of sacrifice",
+          "meaning_kn": "ಯಜ್ಞಕ್ಕೆ ಯೋಗ್ಯರಾದವರ / ಪೂಜನೀಯರಾದವರ"
+        },
+        {
+          "pada_original": "अपि॑",
+          "pada_kn": "ಅಪಿ",
+          "meaning_en": "also / indeed",
+          "meaning_kn": "ಸಹ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "भ॒द्रे",
+          "pada_kn": "ಭದ್ರೇ",
+          "meaning_en": "in the auspicious / blessed",
+          "meaning_kn": "ಶುಭಕರವಾದ / ಮಂಗಳಕರವಾದ"
+        },
+        {
+          "pada_original": "सौ॒म॒न॒से",
+          "pada_kn": "ಸೌಮನಸೇ",
+          "meaning_en": "in the benevolence / good-mindedness",
+          "meaning_kn": "ಸೌಮನಸ್ಯದಲ್ಲಿ / ಪ್ರಸನ್ನತೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "स्या॒म॒",
+          "pada_kn": "ಸ್ಯಾಮ",
+          "meaning_en": "may we be",
+          "meaning_kn": "ನಾವು ಇರೋಣ / ಆಗೋಣ"
+        }
+      ],
+      "full_meaning_en": "May we be in the benevolent grace and auspicious favor of our Angirasa ancestors, the Navagvas, Atharvans, and Bhrigus, who are worthy of Soma and sacrifice.",
+      "full_meaning_kn": "ನಮ್ಮ ಅಂಗಿರಸ ಪೂರ್ವಜರಾದ, ನವಗ್ವರು, ಅಥರ್ವರು, ಭೃಗುಗಳು, ಮತ್ತು ಸೋಮಪಾನಕ್ಕೆ ಯೋಗ್ಯರಾದ ಹಾಗೂ ಯಜ್ಞಕ್ಕೆ ಅರ್ಹರಾದವರ ಶುಭ ಬುದ್ಧಿ ಮತ್ತು ಮಂಗಳಕರವಾದ ಪ್ರಸನ್ನತೆಯಲ್ಲಿ ನಾವು ಇರೋಣ.",
+      "rig_time_s": 78.906,
+      "Insight_en": "The पितरः (Pitaras), ancestors, represent the accumulated wisdom and karmic inheritance. The Angiras, Atharvans, and Bhrigus are archetypal energies embodying different aspects of spiritual practice and insight. \"Navagvas\" symbolizes the new directions in our spiritual journey. The aspiration to be in their grace signifies a desire to align oneself with the higher consciousness achieved through generations of spiritual striving, ultimately seeking सोम (Soma), the nectar of divine bliss, and auspiciousness.",
+      "Insight_kn": "ಪಿತೃಗಳು, ಪೂರ್ವಜರು, ಸಂಗ್ರಹಿಸಿದ ಜ್ಞಾನ ಮತ್ತು ಕರ್ಮದ ಉತ್ತರಾಧಿಕಾರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಅಂಗಿರಸ, ಅಥರ್ವಣ, ಮತ್ತು ಭೃಗುಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸ ಮತ್ತು ಒಳನೋಟದ ವಿವಿಧ ಅಂಶಗಳನ್ನು ಸಾಕಾರಗೊಳಿಸುವ ಮೂಲಭೂತ ಶಕ್ತಿಗಳಾಗಿವೆ. \"ನವಗ್ವರು\" ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಪಯಣದಲ್ಲಿನ ಹೊಸ ದಿಕ್ಕುಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಅವರ ಕೃಪೆಯಲ್ಲಿರಬೇಕೆಂಬ ಆಕಾಂಕ್ಷೆಯು ತಲೆಮಾರುಗಳ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯತ್ನದ ಮೂಲಕ ಸಾಧಿಸಿದ ಉನ್ನತ ಪ್ರಜ್ಞೆಯೊಂದಿಗೆ ತಮ್ಮನ್ನು ತಾವು ಜೋಡಿಸಿಕೊಳ್ಳುವ ಬಯಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಂತಿಮವಾಗಿ ದೈವಿಕ ಆನಂದದ ಸಾರವಾದ ಸೋಮ ಮತ್ತು ಶುಭವನ್ನು ಬಯಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-7_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 7,
+      "rig_lines": [
+        "प्रेहि॒ प्रेहि॑ प॒थिभिः॑ पू॒र्व्येभि॒र्यत्रा᳚ नः॒ पूर्वे᳚ पि॒तरः॑ परे॒युः |",
+        "उ॒भा राजा᳚ना स्व॒धया॒ मद᳚न्ता य॒मं प॑श्यासि॒ वरु॑णं च दे॒वम् ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "इ॒हि॒",
+        "प्र",
+        "इ॒हि॒",
+        "प॒थिऽभिः॑",
+        "पू॒र्व्येभिः॑",
+        "यत्र॑",
+        "नः॒",
+        "पूर्वे᳚",
+        "पि॒तरः॑",
+        "प॒रा॒ऽई॒युः",
+        "उ॒भा",
+        "राजा᳚ना",
+        "स्व॒धया᳚",
+        "मद᳚न्ता",
+        "य॒म‌म्",
+        "प॒श्या॒सि॒",
+        "वरु॑ण‌म्",
+        "च॒",
+        "दे॒व‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಮುಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "इ॒हि॒",
+          "pada_kn": "ಇಹಿ",
+          "meaning_en": "go",
+          "meaning_kn": "ಹೋಗು"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಮುಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "इ॒हि॒",
+          "pada_kn": "ಇಹಿ",
+          "meaning_en": "go",
+          "meaning_kn": "ಹೋಗು"
+        },
+        {
+          "pada_original": "प॒थिऽभिः॑",
+          "pada_kn": "ಪಥಿಭಿಃ",
+          "meaning_en": "by paths / along paths",
+          "meaning_kn": "ಮಾರ್ಗಗಳಿಂದ / ಹಾದಿಗಳಿಂದ"
+        },
+        {
+          "pada_original": "पू॒र्व्येभिः॑",
+          "pada_kn": "ಪೂರ್ವೈಭಿಃ",
+          "meaning_en": "ancient / ancestral",
+          "meaning_kn": "ಪ್ರಾಚೀನವಾದ / ಪೂರ್ವಜರ"
+        },
+        {
+          "pada_original": "यत्र॑",
+          "pada_kn": "ಯತ್ರ",
+          "meaning_en": "where",
+          "meaning_kn": "ಎಲ್ಲಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "our",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "पूर्वे᳚",
+          "pada_kn": "ಪೂರ್ವೇ",
+          "meaning_en": "former / ancient",
+          "meaning_kn": "ಪೂರ್ವದ / ಪ್ರಾಚೀನರಾದ"
+        },
+        {
+          "pada_original": "पि॒तरः॑",
+          "pada_kn": "ಪಿತರಃ",
+          "meaning_en": "fathers / ancestors",
+          "meaning_kn": "ಪಿತೃಗಳು / ಪೂರ್ವಜರು"
+        },
+        {
+          "pada_original": "प॒रा॒ऽई॒युः",
+          "pada_kn": "ಪರಾಈಯುಃ",
+          "meaning_en": "have gone away / departed",
+          "meaning_kn": "ಹೋಗಿದ್ದಾರೆ / ತೆರಳಿದ್ದಾರೆ"
+        },
+        {
+          "pada_original": "उ॒भा",
+          "pada_kn": "ಉಭಾ",
+          "meaning_en": "both",
+          "meaning_kn": "ಇಬ್ಬರೂ"
+        },
+        {
+          "pada_original": "राजा᳚ना",
+          "pada_kn": "ರಾಜಾನಾ",
+          "meaning_en": "kings / rulers",
+          "meaning_kn": "ರಾಜರುಗಳು"
+        },
+        {
+          "pada_original": "स्व॒धया᳚",
+          "pada_kn": "ಸ್ವಧಯಾ",
+          "meaning_en": "by their own law / with offerings",
+          "meaning_kn": "ತಮ್ಮ ಸ್ವಧೆಯಿಂದ / ಅರ್ಪಣೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "मद᳚न्ता",
+          "pada_kn": "ಮದಂತಾ",
+          "meaning_en": "rejoicing / delighting",
+          "meaning_kn": "ಆನಂದಿಸುತ್ತಿರುವ / ಸಂತೋಷಪಡುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "य॒म‌म्",
+          "pada_kn": "ಯಮಮ್",
+          "meaning_en": "Yama (the god of death)",
+          "meaning_kn": "ಯಮನನ್ನು"
+        },
+        {
+          "pada_original": "प॒श्या॒सि॒",
+          "pada_kn": "ಪಶ್ಯಾಸಿ",
+          "meaning_en": "you will see",
+          "meaning_kn": "ನೀನು ನೋಡುವೆ"
+        },
+        {
+          "pada_original": "वरु॑ण‌म्",
+          "pada_kn": "ವರುಣಮ್",
+          "meaning_en": "Varuna (the god of cosmic order)",
+          "meaning_kn": "ವರುಣನನ್ನು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "दे॒व‌म्",
+          "pada_kn": "ದೇವಮ್",
+          "meaning_en": "god / divine one",
+          "meaning_kn": "ದೇವನನ್ನು"
+        }
+      ],
+      "full_meaning_en": "Go forth, go forth along the ancient paths where our forefathers have departed. There you will see both kings, Yama and the divine Varuna, delighting in their inherent power or with offerings. This mantra guides the departed soul on its journey to the realm of the ancestors and the divine rulers.",
+      "full_meaning_kn": "ಮುಂದೆ ಹೋಗು, ಮುಂದೆ ಹೋಗು, ನಮ್ಮ ಪೂರ್ವಜರು ತೆರಳಿದ ಪ್ರಾಚೀನ ಮಾರ್ಗಗಳಲ್ಲಿ. ಅಲ್ಲಿ ನೀನು ತಮ್ಮ ಸ್ವಧೆಯಿಂದ ಆನಂದಿಸುತ್ತಿರುವ ಯಮ ಮತ್ತು ದೇವ ವರುಣ ಎಂಬ ಇಬ್ಬರು ರಾಜರನ್ನು ನೋಡುವೆ. ಈ ಮಂತ್ರವು ಮೃತ ಆತ್ಮಕ್ಕೆ ಪೂರ್ವಜರ ಲೋಕಕ್ಕೆ ಮತ್ತು ಆ ಲೋಕದ ದೈವಿಕ ಅಧಿಪತಿಗಳ ಬಳಿಗೆ ತನ್ನ ಪ್ರಯಾಣವನ್ನು ಕೈಗೊಳ್ಳಲು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತದೆ.",
+      "rig_time_s": 93.708,
+      "Insight_en": "The \"ancient paths\" (पथिभिः पूर्व्येभिः) symbolize the established and time-tested routes of spiritual practice and self-realization. The forefathers (पितरः) represent the lineage of wisdom, guiding the individual soul towards its ultimate destination. Yama and Varuna, as the two kings (राजाना), embody the principles of Dharma and cosmic order that govern the afterlife and the journey of the soul. By invoking these deities, the mantra seeks to align the departed soul with the divine laws and ensure its safe passage.",
+      "Insight_kn": "\"ಪ್ರಾಚೀನ ಮಾರ್ಗಗಳು\" (पथिभिः पूर्व्येभिः) ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆ ಮತ್ತು ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ಸ್ಥಾಪಿತ ಮತ್ತು ಸಮಯ ಪರೀಕ್ಷಿತ ಮಾರ್ಗಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಪೂರ್ವಜರು (पितरः) ಬುದ್ಧಿವಂತಿಕೆಯ ವಂಶವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಅವರು ವೈಯಕ್ತಿಕ ಆತ್ಮವನ್ನು ಅದರ ಅಂತಿಮ ಗಮ್ಯಸ್ಥಾನದ ಕಡೆಗೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತಾರೆ. ಯಮ ಮತ್ತು ವರುಣರು, ಇಬ್ಬರು ರಾಜರು (राजाना) ಆಗಿ, ಧರ್ಮದ ತತ್ವಗಳನ್ನು ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾರೆ. ಈ ದೇವತೆಗಳನ್ನು ಆವಾಹಿಸುವುದರ ಮೂಲಕ, ಮಂತ್ರವು ದೈವಿಕ ಕಾನೂನುಗಳೊಂದಿಗೆ ಬೇರ್ಪಟ್ಟ ಆತ್ಮವನ್ನು ಜೋಡಿಸಲು ಮತ್ತು ಅದರ ಸುರಕ್ಷಿತ ಮಾರ್ಗವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-8_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 8,
+      "rig_lines": [
+        "सं ग॑च्छस्व पि॒तृभिः॒ सं य॒मेने᳚ष्टापू॒र्तेन॑ पर॒मे व्यो᳚मन् |",
+        "हि॒त्वाया᳚व॒द्यं पुन॒रस्त॒मेहि॒ सं ग॑च्छस्व त॒न्वा᳚ सु॒वर्चाः᳚ ||"
+      ],
+      "pre_splits": [
+        "स‌म्",
+        "ग॒च्छ॒स्व॒",
+        "पि॒तृऽभिः॑",
+        "स‌म्",
+        "य॒मेन॑",
+        "इ॒ष्टा॒पू॒र्तेन॑",
+        "प॒र॒मे",
+        "विऽओ᳚मन्",
+        "हि॒त्वाय॑",
+        "अ॒व॒द्य‌म्",
+        "पुनः॑",
+        "अस्त᳚‌म्",
+        "आ",
+        "इ॒हि॒",
+        "स‌म्",
+        "ग॒च्छ॒स्व॒",
+        "त॒न्वा᳚",
+        "सु॒ऽवर्चाः᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / fully",
+          "meaning_kn": "ಜೊತೆಗೂಡು / ಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "ग॒च्छ॒स्व॒",
+          "pada_kn": "ಗಚ್ಛಸ್ವ",
+          "meaning_en": "unite / join",
+          "meaning_kn": "ಸೇರು / ಜೊತೆಗೂಡು"
+        },
+        {
+          "pada_original": "पि॒तृऽभिः॑",
+          "pada_kn": "ಪಿತೃಭಿಃ",
+          "meaning_en": "with the ancestors / with the fathers",
+          "meaning_kn": "ಪಿತೃಗಳೊಂದಿಗೆ / ಪೂರ್ವಜರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / fully",
+          "meaning_kn": "ಜೊತೆಗೂಡು / ಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "य॒मेन॑",
+          "pada_kn": "ಯಮೇನ",
+          "meaning_en": "with Yama (the lord of death)",
+          "meaning_kn": "ಯಮನೊಂದಿಗೆ / ಮೃತ್ಯುದೇವನೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "इ॒ष्टा॒पू॒र्तेन॑",
+          "pada_kn": "ಇಷ್ಟಾಪೂರ್ತೇನ",
+          "meaning_en": "with the merits of sacrifices and charitable deeds",
+          "meaning_kn": "ಯಜ್ಞ-ಯಾಗಾದಿಗಳ ಮತ್ತು ಸತ್ಕರ್ಮಗಳ ಪುಣ್ಯದೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "प॒र॒मे",
+          "pada_kn": "ಪರಮೇ",
+          "meaning_en": "in the highest",
+          "meaning_kn": "ಪರಮ / ಅತ್ಯುನ್ನತವಾದ"
+        },
+        {
+          "pada_original": "विऽओ᳚मन्",
+          "pada_kn": "ವ್ಯೋಮನ್",
+          "meaning_en": "in the heaven / in the sky",
+          "meaning_kn": "ಆಕಾಶದಲ್ಲಿ / ಸ್ವರ್ಗದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "हि॒त्वाय॑",
+          "pada_kn": "ಹಿತ್ವಾಯ",
+          "meaning_en": "having abandoned / having left",
+          "meaning_kn": "ತ್ಯಜಿಸಿ / ಬಿಟ್ಟು"
+        },
+        {
+          "pada_original": "अ॒व॒द्य‌म्",
+          "pada_kn": "ಅವದ್ಯಮ್",
+          "meaning_en": "blemish / sin / fault",
+          "meaning_kn": "ದೋಷ / ಪಾಪ / ಕಳಂಕ"
+        },
+        {
+          "pada_original": "पुनः॑",
+          "pada_kn": "ಪುನಃ",
+          "meaning_en": "again",
+          "meaning_kn": "ಮತ್ತೆ / ಪುನಃ"
+        },
+        {
+          "pada_original": "अस्त᳚‌म्",
+          "pada_kn": "ಅಸ್ತಮ್",
+          "meaning_en": "home / abode",
+          "meaning_kn": "ಮನೆಗೆ / ನಿವಾಸಕ್ಕೆ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / towards",
+          "meaning_kn": "ಕಡೆಗೆ / ಇಲ್ಲಿಗೆ"
+        },
+        {
+          "pada_original": "इ॒हि॒",
+          "pada_kn": "ಇಹಿ",
+          "meaning_en": "come / go",
+          "meaning_kn": "ಬಾ / ಹೋಗು"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / fully",
+          "meaning_kn": "ಜೊತೆಗೂಡು / ಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "ग॒च्छ॒स्व॒",
+          "pada_kn": "ಗಚ್ಛಸ್ವ",
+          "meaning_en": "unite / join",
+          "meaning_kn": "ಸೇರು / ಜೊತೆಗೂಡು"
+        },
+        {
+          "pada_original": "त॒न्वा᳚",
+          "pada_kn": "ತನ್ವಾ",
+          "meaning_en": "with your body",
+          "meaning_kn": "ನಿನ್ನ ಶರೀರದಿಂದ / ದೇಹದಿಂದ"
+        },
+        {
+          "pada_original": "सु॒ऽवर्चाः᳚",
+          "pada_kn": "ಸುವರ್ಚಾಃ",
+          "meaning_en": "radiant / glorious / bright",
+          "meaning_kn": "ತೇಜಸ್ವಿ / ಪ್ರಕಾಶಮಾನವಾದ"
+        }
+      ],
+      "full_meaning_en": "O departed soul, unite with the ancestors, unite with Yama, and with the merits of your sacrifices and charitable deeds in the highest heaven. Having abandoned all blemish, come again to your home (abode in the other world), uniting with your radiant body.",
+      "full_meaning_kn": "ಓ ಆತ್ಮವೇ, ಪಿತೃಗಳೊಂದಿಗೆ, ಯಮನೊಂದಿಗೆ, ಮತ್ತು ನಿನ್ನ ಯಜ್ಞ-ಯಾಗಾದಿಗಳ ಹಾಗೂ ಸತ್ಕರ್ಮಗಳ ಪುಣ್ಯದೊಂದಿಗೆ ಪರಮೋಚ್ಚ ಸ್ವರ್ಗದಲ್ಲಿ ಸೇರಿಕೊಳ್ಳು. ಎಲ್ಲಾ ದೋಷಗಳನ್ನು ತ್ಯಜಿಸಿ, ಮತ್ತೆ ನಿನ್ನ ತೇಜಸ್ವಿ ಶರೀರದಿಂದ ಕೂಡಿ ನಿನ್ನ ನಿವಾಸಕ್ಕೆ ಬಾ.",
+      "rig_time_s": 108.90299999999999,
+      "Insight_en": "This mantra speaks to the soul's journey after death, emphasizing purification and reunion. The 'fathers' (पितृ) symbolize the ancestral lineage and the collective unconscious, suggesting a return to the source of being. Yama represents the law of karma and the inevitable cycle of death and rebirth. 'Radiant body' (तन्वा᳚ सु॒वर्चाः᳚) signifies the subtle body purified through righteous actions (इष्टापूर्तेन॑), enabling a harmonious transition to the 'highest heaven' (पर॒मे व्यो᳚मन्) and a subsequent return, freed from 'blemish' (आव॒द्यं). This cycle underscores the importance of ethical conduct and spiritual refinement for liberation.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಮರಣಾನಂತರ ಆತ್ಮದ ಪಯಣದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ, ಶುದ್ಧೀಕರಣ ಮತ್ತು ಪುನರ್ಮಿಲನದ ಮಹತ್ವವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. 'ಪಿತೃಗಳು' (पितृ) ಪೂರ್ವಜರ ವಂಶ ಮತ್ತು ಸಾಮೂಹಿಕ ಪ್ರಜ್ಞಾಹೀನತೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ, ಅಸ್ತಿತ್ವದ ಮೂಲಕ್ಕೆ ಮರಳುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಯಮನು ಕರ್ಮದ ನಿಯಮ ಮತ್ತು ಮರಣ ಮತ್ತು ಪುನರ್ಜನ್ಮದ ಅನಿವಾರ್ಯ ಚಕ್ರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. 'ತೇಜಸ್ವಿ ಶರೀರ' (तन्वा᳚ सु॒वर्चाः᳚) ಧಾರ್ಮಿಕ ಕ್ರಿಯೆಗಳ ಮೂಲಕ ಶುದ್ಧೀಕರಿಸಲ್ಪಟ್ಟ ಸೂಕ್ಷ್ಮ ಶರೀರವನ್ನು ಸೂಚಿಸುತ್ತದೆ (इष्टापूर्तेन॑), ಇದು 'ಪರಮೋಚ್ಚ ಸ್ವರ್ಗ'ಕ್ಕೆ (पर॒मे व्यो᳚मन्) ಸಾಮರಸ್ಯದ ಪರಿವರ್ತನೆಗೆ ಮತ್ತು ನಂತರ 'ದೋಷ'ದಿಂದ (आव॒द्यं) ಮುಕ್ತವಾಗಿ ಹಿಂದಿರುಗಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಈ ಚಕ್ರವು ವಿಮೋಚನೆಗಾಗಿ ನೈತಿಕ ನಡವಳಿಕೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಪರಿಷ್ಕರಣೆಯ ಮಹತ್ವವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-9_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 9,
+      "rig_lines": [
+        "अपे᳚त॒ वी᳚त॒ वि च॑ सर्प॒तातो॒ऽस्मा, ए॒तं पि॒तरो᳚ लो॒कम॑क्रन् |",
+        "अहो᳚भिर॒द्भिर॒क्तुभि॒र्व्य॑क्तं य॒मो द॑दात्यव॒सान॑मस्मै ||"
+      ],
+      "pre_splits": [
+        "अप॑",
+        "इ॒त॒",
+        "वि",
+        "इ॒त॒",
+        "वि",
+        "च॒",
+        "स॒र्प॒त॒",
+        "अतः॑",
+        "अ॒स्मै",
+        "ए॒त‌म्",
+        "पि॒तरः॑",
+        "लो॒क‌म्",
+        "अ॒क्र॒न्",
+        "अहः॑ऽभिः",
+        "अ॒त्ऽभिः",
+        "अ॒क्तुऽभिः॑",
+        "वि।आ॑क्त‌म्",
+        "य॒मः",
+        "द॒दा॒ति॒",
+        "अ॒व॒ऽसान᳚‌म्",
+        "अ॒स्मै॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "Away / Off",
+          "meaning_kn": "ದೂರ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "इ॒त॒",
+          "pada_kn": "ಇತ",
+          "meaning_en": "Go / Depart",
+          "meaning_kn": "ಹೋಗಿ / ಹೊರಡಿ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "Away / Apart",
+          "meaning_kn": "ದೂರ / ಬೇರೆ"
+        },
+        {
+          "pada_original": "इ॒त॒",
+          "pada_kn": "ಇತ",
+          "meaning_en": "Go / Depart",
+          "meaning_kn": "ಹೋಗಿ / ಹೊರಡಿ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "Away / Apart",
+          "meaning_kn": "ದೂರ / ಬೇರೆ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "स॒र्प॒त॒",
+          "pada_kn": "ಸರ್ಪತ",
+          "meaning_en": "Crawl / Move (away)",
+          "meaning_kn": "ಸರಿಸಿ / ಚಲಿಸಿ"
+        },
+        {
+          "pada_original": "अतः॑",
+          "pada_kn": "ಅತಃ",
+          "meaning_en": "From here / Hence",
+          "meaning_kn": "ಇಲ್ಲಿಂದ / ಆದುದರಿಂದ"
+        },
+        {
+          "pada_original": "अ॒स्मै",
+          "pada_kn": "ಅಸ್ಮೈ",
+          "meaning_en": "For him (the deceased)",
+          "meaning_kn": "ಅವನಿಗಾಗಿ (ಮೃತನಿಗೆ)"
+        },
+        {
+          "pada_original": "ए॒त‌म्",
+          "pada_kn": "ಏತಮ್",
+          "meaning_en": "This",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "पि॒तरः॑",
+          "pada_kn": "ಪಿತರಃ",
+          "meaning_en": "Ancestors / Fathers",
+          "meaning_kn": "ಪಿತೃಗಳು / ಪೂರ್ವಜರು"
+        },
+        {
+          "pada_original": "लो॒क‌म्",
+          "pada_kn": "ಲೋಕಮ್",
+          "meaning_en": "World / Realm",
+          "meaning_kn": "ಲೋಕವನ್ನು / ಜಗತ್ತನ್ನು"
+        },
+        {
+          "pada_original": "अ॒क्र॒न्",
+          "pada_kn": "ಅಕ್ರನ್",
+          "meaning_en": "Have made / Have created",
+          "meaning_kn": "ಮಾಡಿದ್ದಾರೆ / ಸೃಷ್ಟಿಸಿದ್ದಾರೆ"
+        },
+        {
+          "pada_original": "अहः॑ऽभिः",
+          "pada_kn": "ಅಹಃಭಿಃ",
+          "meaning_en": "By days / With days",
+          "meaning_kn": "ದಿನಗಳಿಂದ / ಹಗಲುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "अ॒त्ऽभिः",
+          "pada_kn": "ಅತ್ಭಿಃ",
+          "meaning_en": "By waters / With waters",
+          "meaning_kn": "ನೀರುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "अ॒क्तुऽभिः॑",
+          "pada_kn": "ಅಕ್ತುಭಿಃ",
+          "meaning_en": "By nights / With nights",
+          "meaning_kn": "ರಾತ್ರಿಗಳಿಂದ"
+        },
+        {
+          "pada_original": "वि।आ॑क्त‌म्",
+          "pada_kn": "ವ್ಯಾಕ್ತಮ್",
+          "meaning_en": "Pervaded / Well-defined / Illuminated",
+          "meaning_kn": "ವ್ಯಾಪಿಸಲ್ಪಟ್ಟ / ಸ್ಪಷ್ಟವಾದ / ಪ್ರಕಾಶಿತವಾದ"
+        },
+        {
+          "pada_original": "य॒मः",
+          "pada_kn": "ಯಮಃ",
+          "meaning_en": "Yama (the god of death)",
+          "meaning_kn": "ಯಮನು"
+        },
+        {
+          "pada_original": "द॒दा॒ति॒",
+          "pada_kn": "ದದಾತಿ",
+          "meaning_en": "Gives / Bestows",
+          "meaning_kn": "ಕೊಡುತ್ತಾನೆ / ದಯಪಾಲಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "अ॒व॒ऽसान᳚‌म्",
+          "pada_kn": "ಅವಸಾನಮ್",
+          "meaning_en": "Dwelling / Resting place",
+          "meaning_kn": "ವಾಸಸ್ಥಾನವನ್ನು / ವಿಶ್ರಾಂತಿ ಸ್ಥಳವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒स्मै॒",
+          "pada_kn": "ಅಸ್ಮೈ",
+          "meaning_en": "For him (the deceased)",
+          "meaning_kn": "ಅವನಿಗಾಗಿ (ಮೃತನಿಗೆ)"
+        }
+      ],
+      "full_meaning_en": "O mortals, go away, depart, and disperse from here! For this departed soul, the ancestors have already prepared this realm. Yama, the god of death, bestows upon him a complete dwelling, well-defined and pervaded by days, waters, and nights.",
+      "full_meaning_kn": "ಓ ಮನುಷ್ಯರೇ, ಇಲ್ಲಿಂದ ಹೊರಡಿ, ದೂರ ಸರಿಯಿರಿ ಮತ್ತು ಚದುರಿಹೋಗಿ! ಈ ಮೃತನಿಗೆ ಪಿತೃಗಳು ಈ ಲೋಕವನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದಾರೆ. ಯಮನು ಅವನಿಗೆ ದಿನಗಳು, ನೀರುಗಳು ಮತ್ತು ರಾತ್ರಿಗಳಿಂದ ವ್ಯಾಪಿಸಲ್ಪಟ್ಟ, ಸುಸ್ಥಾಪಿತವಾದ ವಾಸಸ್ಥಾನವನ್ನು ದಯಪಾಲಿಸುತ್ತಾನೆ.",
+      "rig_time_s": 124.031,
+      "Insight_en": "यम (Yama), the lord of death, symbolizes the ultimate transformation of consciousness. This mantra speaks not only of physical death but also of the dissolution of the ego and the limitations of earthly existence. The realm prepared by the पितर (Pitaras) represents a higher state of being, free from temporal constraints, symbolized by days (अहोभि), waters (अद्भिर), and nights (अक्तुभि). 'Complete dwelling' implies a state of wholeness, signifying the integration of the individual soul with the universal consciousness. The call to \"depart and disperse\" urges detachment from material attachments, paving the way for spiritual liberation and union with the divine.",
+      "Insight_kn": "ಯಮ, ಮೃತ್ಯು ದೇವತೆ, ಪ್ರಜ್ಞೆಯ ಅಂತಿಮ ರೂಪಾಂತರವನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ. ಈ ಮಂತ್ರವು ಕೇವಲ ಭೌತಿಕ ಮರಣದ ಬಗ್ಗೆ ಮಾತ್ರವಲ್ಲ, ಅಹಂಕಾರದ ವಿಸರ್ಜನೆ ಮತ್ತು ಭೂಮಿಯ ಅಸ್ತಿತ್ವದ ಮಿತಿಗಳ ಬಗ್ಗೆಯೂ ಮಾತನಾಡುತ್ತದೆ. ಪಿತೃಗಳು ಸಿದ್ಧಪಡಿಸಿದ ಕ್ಷೇತ್ರವು ಉನ್ನತ ಸ್ಥಿತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ದಿನಗಳು (ಅಹೋಭಿ), ನೀರುಗಳು (ಅದ್ಭಿರ) ಮತ್ತು ರಾತ್ರಿಗಳು (ಅಕ್ತುಭಿ) ಸಂಕೇತಿಸುವ ತಾತ್ಕಾಲಿಕ ನಿರ್ಬಂಧಗಳಿಂದ ಮುಕ್ತವಾಗಿದೆ. 'ಸಂಪೂರ್ಣ ವಾಸಸ್ಥಾನ'ವು ಸಂಪೂರ್ಣತೆಯ ಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ವೈಯಕ್ತಿಕ ಆತ್ಮವನ್ನು ಸಾರ್ವತ್ರಿಕ ಪ್ರಜ್ಞೆಯೊಂದಿಗೆ ಸಂಯೋಜಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ಹೊರಡಿ ಮತ್ತು ಚದುರಿಹೋಗಿ' ಎಂಬ ಕರೆ ಭೌತಿಕ ಬಾಂಧವ್ಯಗಳಿಂದ ಬೇರ್ಪಡುವಂತೆ ಒತ್ತಾಯಿಸುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ವಿಮೋಚನೆ ಮತ್ತು ದೈವಿಕದೊಂದಿಗೆ ಮಿಲನಕ್ಕೆ ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-10_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 10,
+      "rig_lines": [
+        "अति॑ द्रव सारमे॒यौ श्वानौ᳚ चतुर॒क्षौ श॒बलौ᳚ सा॒धुना᳚ प॒था |",
+        "अथा᳚ पि॒तॄन्‌ त्सु॑वि॒दत्राँ॒, उपे᳚हि य॒मेन॒ ये स॑ध॒मादं॒ मद᳚न्ति ||"
+      ],
+      "pre_splits": [
+        "अति॑",
+        "द्र॒व॒",
+        "सा॒र॒मे॒यौ",
+        "श्वानौ᳚",
+        "च॒तुः॒।आ॒क्षौ",
+        "श॒बलौ᳚",
+        "सा॒धुना᳚",
+        "प॒था",
+        "अथ॑",
+        "पि॒तॄन्",
+        "सु॒ऽवि॒दत्रा᳚न्",
+        "उप॑",
+        "इ॒हि॒",
+        "य॒मेन॑",
+        "ये",
+        "स॒ध॒ऽमाद᳚‌म्",
+        "मद᳚न्ति"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अति॑",
+          "pada_kn": "ಅತಿ",
+          "meaning_en": "beyond / past",
+          "meaning_kn": "ದಾಟಿ / ಮೀರಿ"
+        },
+        {
+          "pada_original": "द्र॒व॒",
+          "pada_kn": "ದ್ರವ",
+          "meaning_en": "run / pass (imperative)",
+          "meaning_kn": "ಓಡು / ಹಾದುಹೋಗು"
+        },
+        {
+          "pada_original": "सा॒र॒मे॒यौ",
+          "pada_kn": "ಸಾರಮೇಯೌ",
+          "meaning_en": "the two sons of Saramā (Yama's dogs)",
+          "meaning_kn": "ಸರಮೆಯ ಇಬ್ಬರು ಪುತ್ರರು (ಯಮನ ನಾಯಿಗಳು)"
+        },
+        {
+          "pada_original": "श्वानौ᳚",
+          "pada_kn": "ಶ್ವಾನೌ",
+          "meaning_en": "the two dogs",
+          "meaning_kn": "ಎರಡು ನಾಯಿಗಳು"
+        },
+        {
+          "pada_original": "च॒तुः॒।आ॒क्षौ",
+          "pada_kn": "ಚತುರಾಕ್ಷೌ",
+          "meaning_en": "four-eyed",
+          "meaning_kn": "ನಾಲ್ಕು ಕಣ್ಣುಳ್ಳ"
+        },
+        {
+          "pada_original": "श॒बलौ᳚",
+          "pada_kn": "ಶಬಲೌ",
+          "meaning_en": "spotted / brindled",
+          "meaning_kn": "ಮಚ್ಚೆಯುಳ್ಳ / ಚಿತ್ರವಿಚಿತ್ರ ಬಣ್ಣದ"
+        },
+        {
+          "pada_original": "सा॒धुना᳚",
+          "pada_kn": "ಸಾಧುನಾ",
+          "meaning_en": "by a proper / good",
+          "meaning_kn": "ಒಳ್ಳೆಯ / ಸರಿಯಾದ"
+        },
+        {
+          "pada_original": "प॒था",
+          "pada_kn": "ಪಥಾ",
+          "meaning_en": "path / way",
+          "meaning_kn": "ಮಾರ್ಗದಿಂದ / ದಾರಿಯಿಂದ"
+        },
+        {
+          "pada_original": "अथ॑",
+          "pada_kn": "ಅಥ",
+          "meaning_en": "then / thereupon",
+          "meaning_kn": "ನಂತರ / ಆಮೇಲೆ"
+        },
+        {
+          "pada_original": "पि॒तॄन्",
+          "pada_kn": "ಪಿತೄನ್",
+          "meaning_en": "to the ancestors / fathers",
+          "meaning_kn": "ಪಿತೃಗಳಿಗೆ / ಪೂರ್ವಜರಿಗೆ"
+        },
+        {
+          "pada_original": "सु॒ऽवि॒दत्रा᳚न्",
+          "pada_kn": "ಸುವಿದತ್ರಾನ್",
+          "meaning_en": "wise / well-knowing",
+          "meaning_kn": "ಜ್ಞಾನಿಗಳಾದ / ಚೆನ್ನಾಗಿ ತಿಳಿದಿರುವ"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "near / towards",
+          "meaning_kn": "ಸಮೀಪ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "इ॒हि॒",
+          "pada_kn": "ಇಹಿ",
+          "meaning_en": "go (imperative)",
+          "meaning_kn": "ಹೋಗು"
+        },
+        {
+          "pada_original": "य॒मेन॑",
+          "pada_kn": "ಯಮೇನ",
+          "meaning_en": "with Yama",
+          "meaning_kn": "ಯಮನೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "स॒ध॒ऽमाद᳚‌म्",
+          "pada_kn": "ಸಧಮಾದಮ್",
+          "meaning_en": "common feast / rejoicing",
+          "meaning_kn": "ಒಟ್ಟಿಗೆ ಆನಂದಿಸುವ / ಸಹಭೋಜನ"
+        },
+        {
+          "pada_original": "मद᳚न्ति",
+          "pada_kn": "ಮದಂತಿ",
+          "meaning_en": "rejoice / revel",
+          "meaning_kn": "ಆನಂದಿಸುತ್ತಾರೆ / ಮೋಜು ಮಾಡುತ್ತಾರೆ"
+        }
+      ],
+      "full_meaning_en": "O soul, run past the two four-eyed, spotted dogs, the sons of Saramā, by a proper path. Then, go to the wise ancestors who rejoice together with Yama in a common feast.",
+      "full_meaning_kn": "ಓ ಆತ್ಮನೇ, ಸಾರಮೆಯರಾದ, ನಾಲ್ಕು ಕಣ್ಣುಳ್ಳ, ಮಚ್ಚೆಯುಳ್ಳ ಆ ಎರಡು ನಾಯಿಗಳನ್ನು ಒಳ್ಳೆಯ ಮಾರ್ಗದಿಂದ ದಾಟಿ ಹೋಗು. ಅನಂತರ, ಯಮನೊಂದಿಗೆ ಸೇರಿ ಆನಂದಿಸುವ ಜ್ಞಾನಿಗಳಾದ ಪಿತೃಗಳನ್ನು ಸೇರು.",
+      "rig_time_s": 138.994,
+      "Insight_en": "The \"two four-eyed, spotted dogs, the sons of Saramā\" symbolize the dualistic nature of perception and the subconscious fears that guard the gateway to higher consciousness. These fears, born from primal instincts (Saramā), must be transcended with wisdom and discernment (साधुना पथा). The path is not avoidance but skillful navigation, moving beyond limited perception to connect with the \"wise ancestors\" पितॄन्—the collective wisdom of the lineage and the higher self. Yama, as the lord of Dharma, represents the ethical framework within which this journey unfolds, where ultimate liberation (मोक्ष) is found in unified consciousness.",
+      "Insight_kn": "\"ಸಾರಮೆಯರಾದ, ನಾಲ್ಕು ಕಣ್ಣುಳ್ಳ, ಮಚ್ಚೆಯುಳ್ಳ ಆ ಎರಡು ನಾಯಿಗಳು\" ಗ್ರಹಿಕೆಯ ದ್ವಂದ್ವ ಸ್ವರೂಪ ಮತ್ತು ಉನ್ನತ ಪ್ರಜ್ಞೆಯ ಹೆಬ್ಬಾಗಿಲನ್ನು ಕಾಯುವ ಸುಪ್ತ ಭಯಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಮೂಲ ಪ್ರವೃತ್ತಿಗಳಿಂದ (ಸಾರಮಾ) ಹುಟ್ಟಿದ ಈ ಭಯಗಳನ್ನು ವಿವೇಕ ಮತ್ತು ತೀರ್ಮಾನದಿಂದ (साधुना पथा) ಮೀರಿಸಬೇಕು. ದಾರಿ ಎಂದರೆ ತಪ್ಪಿಸಿಕೊಳ್ಳುವುದಲ್ಲ, ಆದರೆ ಕೌಶಲ್ಯದಿಂದ ಸಾಗುವುದು, ಸೀಮಿತ ಗ್ರಹಿಕೆಯನ್ನು ಮೀರಿ ವಂಶದ ಸಾಮೂಹಿಕ ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ಉನ್ನತ ಆತ್ಮವನ್ನು ಪ್ರತಿನಿಧಿಸುವ \"ಜ್ಞಾನಿಗಳಾದ ಪಿತೃಗಳನ್ನು\" पितॄन् ಸಂಪರ್ಕಿಸುವುದು. ಯಮನು ಧರ್ಮದ ಅಧಿಪತಿಯಾಗಿ, ಈ ಪ್ರಯಾಣವು ತೆರೆದುಕೊಳ್ಳುವ ನೈತಿಕ ಚೌಕಟ್ಟನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಅಲ್ಲಿ ಏಕೀಕೃತ ಪ್ರಜ್ಞೆಯಲ್ಲಿ ಅಂತಿಮ ವಿಮೋಚನೆ (मोक्ष) ಕಂಡುಬರುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-11_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 11,
+      "rig_lines": [
+        "यौ ते॒ श्वानौ᳚ यम रक्षि॒तारौ᳚ चतुर॒क्षौ प॑थि॒रक्षी᳚ नृ॒चक्ष॑सौ |",
+        "ताभ्या᳚मेनं॒ परि॑ देहि राजन्‌ त्स्व॒स्ति चा᳚स्मा, अनमी॒वं च॑ धेहि ||"
+      ],
+      "pre_splits": [
+        "यौ",
+        "ते॒",
+        "श्वानौ᳚",
+        "य॒म॒",
+        "र॒क्षि॒तारौ᳚",
+        "च॒तुः॒।आ॒क्षौ",
+        "प॒थि॒रक्षी॒ इति॑ प॒थि॒ऽरक्षी᳚",
+        "नृ॒ऽचक्ष॑सौ",
+        "ताभ्या᳚‌म्",
+        "ए॒न॒‌म्",
+        "परि॑",
+        "दे॒हि॒",
+        "रा॒ज॒न्",
+        "स्व॒स्ति",
+        "च॒",
+        "अ॒स्मै॒",
+        "अ॒न॒मी॒व‌म्",
+        "च॒",
+        "धे॒हि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यौ",
+          "pada_kn": "ಯೌ",
+          "meaning_en": "those two",
+          "meaning_kn": "ಆ ಇಬ್ಬರು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "श्वानौ᳚",
+          "pada_kn": "ಶ್ವಾನೌ",
+          "meaning_en": "dogs (dual)",
+          "meaning_kn": "ನಾಯಿಗಳು"
+        },
+        {
+          "pada_original": "य॒म॒",
+          "pada_kn": "ಯಮ",
+          "meaning_en": "O Yama",
+          "meaning_kn": "ಓ ಯಮನೇ"
+        },
+        {
+          "pada_original": "र॒क्षि॒तारौ᳚",
+          "pada_kn": "ರಕ್ಷಿತಾರೌ",
+          "meaning_en": "protectors (dual)",
+          "meaning_kn": "ರಕ್ಷಕರು"
+        },
+        {
+          "pada_original": "च॒तुः॒।आ॒क्षौ",
+          "pada_kn": "ಚತುಃಆಕ್ಷೌ",
+          "meaning_en": "four-eyed (dual)",
+          "meaning_kn": "ನಾಲ್ಕು ಕಣ್ಣುಳ್ಳವರು"
+        },
+        {
+          "pada_original": "प॒थि॒रक्षी॒ इति॑ प॒थि॒ऽरक्षी᳚",
+          "pada_kn": "ಪಥಿರಕ್ಷೀ ಇತಿ ಪಥಿರಕ್ಷೀ",
+          "meaning_en": "path-guardians (dual)",
+          "meaning_kn": "ದಾರಿಕಾಯುವವರು"
+        },
+        {
+          "pada_original": "नृ॒ऽचक्ष॑सौ",
+          "pada_kn": "ನೃಚಕ್ಷಸೌ",
+          "meaning_en": "beholders of men (dual)",
+          "meaning_kn": "ಮನುಷ್ಯರನ್ನು ನೋಡುವವರು"
+        },
+        {
+          "pada_original": "ताभ्या᳚‌म्",
+          "pada_kn": "ತಾಭ್ಯಾಮ್",
+          "meaning_en": "to those two / through them",
+          "meaning_kn": "ಆ ಇಬ್ಬರಿಗೆ / ಅವರ ಮೂಲಕ"
+        },
+        {
+          "pada_original": "ए॒न॒‌म्",
+          "pada_kn": "ಏನಮ್",
+          "meaning_en": "this one (the deceased)",
+          "meaning_kn": "ಈತನನ್ನು"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / completely",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "दे॒हि॒",
+          "pada_kn": "ದೇಹಿ",
+          "meaning_en": "entrust / give",
+          "meaning_kn": "ಒಪ್ಪಿಸು / ಕೊಡು"
+        },
+        {
+          "pada_original": "रा॒ज॒न्",
+          "pada_kn": "ರಾಜನ್",
+          "meaning_en": "O King",
+          "meaning_kn": "ಓ ರಾಜನೇ"
+        },
+        {
+          "pada_original": "स्व॒स्ति",
+          "pada_kn": "ಸ್ವಸ್ತಿ",
+          "meaning_en": "well-being / welfare",
+          "meaning_kn": "ಕ್ಷೇಮ / ಶುಭ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "अ॒स्मै॒",
+          "pada_kn": "ಅಸ್ಮೈ",
+          "meaning_en": "to him",
+          "meaning_kn": "ಇವನಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒न॒मी॒व‌म्",
+          "pada_kn": "ಅನಮೀವಮ್",
+          "meaning_en": "freedom from illness / health",
+          "meaning_kn": "ರೋಗರಹಿತ ಸ್ಥಿತಿ / ಆರೋಗ್ಯ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "धे॒हि॒",
+          "pada_kn": "ಧೇಹಿ",
+          "meaning_en": "bestow / place",
+          "meaning_kn": "ನೀಡು / ಇಡು"
+        }
+      ],
+      "full_meaning_en": "O Yama, O King, those two four-eyed, path-guarding, men-observing dogs of yours, who are protectors—entrust this (departed soul) to them. And bestow upon him well-being and freedom from illness.",
+      "full_meaning_kn": "ಓ ಯಮನೇ, ಓ ರಾಜನೇ, ನಿನ್ನ ಆ ಇಬ್ಬರು ನಾಲ್ಕು ಕಣ್ಣುಳ್ಳ, ದಾರಿಕಾಯುವ, ಮನುಷ್ಯರನ್ನು ಗಮನಿಸುವ ನಾಯಿಗಳು ರಕ್ಷಕರಾಗಿದ್ದಾರೆ. ಈ (ಮೃತ) ಆತ್ಮವನ್ನು ಅವರಿಗೆ ಒಪ್ಪಿಸು. ಮತ್ತು ಇವನಿಗೆ ಕ್ಷೇಮವನ್ನೂ, ರೋಗರಹಿತ ಸ್ಥಿತಿಯನ್ನೂ ನೀಡು.",
+      "rig_time_s": 154.64,
+      "Insight_en": "The two dogs of Yama, चतुराक्ष (chaturaksha), represent the dual aspects of discernment and judgment that guide the soul's journey after death. They are the gatekeepers of inner realms, testing the clarity and purity of one's consciousness. Entrusting the departed soul to them signifies surrendering to the natural laws of karma and transformation. Petitioning for well-being (स्वस्ति) and freedom from illness (अनमीवम्) is an appeal for grace in this transition, a hope for a smooth passage through the trials of the afterlife. Ultimately, the mantra seeks to align the departed with the cosmic order governed by यम (Yama), the lord of dharma.",
+      "Insight_kn": "ಯಮನ ಎರಡು ನಾಯಿಗಳು, ಚತುರಾಕ್ಷ, ಮರಣಾನಂತರ ಆತ್ಮದ ಪ್ರಯಾಣವನ್ನು ಮಾರ್ಗದರ್ಶಿಸುವ ವಿವೇಚನೆ ಮತ್ತು ತೀರ್ಪಿನ ದ್ವಂದ್ವ ಅಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಅವು ಆಂತರಿಕ ಕ್ಷೇತ್ರಗಳ ದ್ವಾರಪಾಲಕರು, ಒಬ್ಬರ ಪ್ರಜ್ಞೆಯ ಸ್ಪಷ್ಟತೆ ಮತ್ತು ಶುದ್ಧತೆಯನ್ನು ಪರೀಕ್ಷಿಸುತ್ತವೆ. ಮೃತರಾದ ಆತ್ಮವನ್ನು ಅವರಿಗೆ ಒಪ್ಪಿಸುವುದು ಕರ್ಮ ಮತ್ತು ಪರಿವರ್ತನೆಯ ನೈಸರ್ಗಿಕ ನಿಯಮಗಳಿಗೆ ಶರಣಾಗುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಕ್ಷೇಮ (ಸ್ವಸ್ತಿ) ಮತ್ತು ರೋಗದಿಂದ ಬಿಡುಗಡೆಗಾಗಿ (ಅನಮೀವಂ) ಪ್ರಾರ್ಥಿಸುವುದು ಈ ಪರಿವರ್ತನೆಯಲ್ಲಿ ಅನುಗ್ರಹಕ್ಕಾಗಿ ಮನವಿ ಮಾಡುವುದು, ಮರಣಾನಂತರದ ಪ್ರಯೋಗಗಳ ಮೂಲಕ ಸುಗಮ ಮಾರ್ಗಕ್ಕಾಗಿ ಒಂದು ಭರವಸೆ. ಅಂತಿಮವಾಗಿ, ಮಂತ್ರವು ಧರ್ಮದ ಅಧಿಪತಿಯಾದ ಯಮನು ಆಳುವ ಕಾಸ್ಮಿಕ್ ಕ್ರಮದೊಂದಿಗೆ ಅಗಲಿದವರನ್ನು ಜೋಡಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-12_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 12,
+      "rig_lines": [
+        "उ॒रू॒ण॒साव॑सु॒तृपा᳚, उदुम्ब॒लौ य॒मस्य॑ दू॒तौ च॑रतो॒ जनाँ॒, अनु॑ |",
+        "ताव॒स्मभ्यं᳚ दृ॒शये॒ सूर्या᳚य॒ पुन॑र्दाता॒मसु॑म॒द्येह भ॒द्रम् ||"
+      ],
+      "pre_splits": [
+        "उ॒रु॒ऽन॒सौ",
+        "अ॒सु॒ऽतृपौ᳚",
+        "उ॒दु॒म्ब॒लौ",
+        "य॒मस्य॑",
+        "दू॒तौ",
+        "च॒र॒तः॒",
+        "जना᳚न्",
+        "अनु॑",
+        "तौ",
+        "अ॒स्मभ्य᳚‌म्",
+        "दृ॒शये᳚",
+        "सूर्या᳚य",
+        "पुनः॑",
+        "दा॒ता॒‌म्",
+        "असु᳚‌म्",
+        "अ॒द्य",
+        "इ॒ह",
+        "भ॒द्र‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒रु॒ऽन॒सौ",
+          "pada_kn": "ಉರುನಸೌ",
+          "meaning_en": "wide-nosed",
+          "meaning_kn": "ಅಗಲವಾದ ಮೂಗಿನವುಗಳು"
+        },
+        {
+          "pada_original": "अ॒सु॒ऽतृपौ᳚",
+          "pada_kn": "ಅಸುತೃಪೌ",
+          "meaning_en": "life-devouring / soul-satisfying",
+          "meaning_kn": "ಪ್ರಾಣವನ್ನು ಕುಡಿಯುವವುಗಳು / ಪ್ರಾಣವನ್ನು ತೃಪ್ತಿಪಡಿಸುವವುಗಳು"
+        },
+        {
+          "pada_original": "उ॒दु॒म्ब॒लौ",
+          "pada_kn": "ಉದುಂಬಲೌ",
+          "meaning_en": "strong / powerful",
+          "meaning_kn": "ಬಲಶಾಲಿಗಳು / ಶಕ್ತಿಶಾಲಿಗಳು"
+        },
+        {
+          "pada_original": "य॒मस्य॑",
+          "pada_kn": "ಯಮಸ್ಯ",
+          "meaning_en": "of Yama",
+          "meaning_kn": "ಯಮನ / ಯಮದೇವನ"
+        },
+        {
+          "pada_original": "दू॒तौ",
+          "pada_kn": "ದೂತೌ",
+          "meaning_en": "two messengers",
+          "meaning_kn": "ಇಬ್ಬರು ದೂತರು"
+        },
+        {
+          "pada_original": "च॒र॒तः॒",
+          "pada_kn": "ಚರತಃ",
+          "meaning_en": "they wander / they move",
+          "meaning_kn": "ಅವುಗಳು ಸಂಚರಿಸುತ್ತವೆ / ಚಲಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "जना᳚न्",
+          "pada_kn": "ಜನಾನ್",
+          "meaning_en": "among people / among men",
+          "meaning_kn": "ಜನರಲ್ಲಿ / ಮನುಷ್ಯರಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "after / throughout",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ನಡುವೆ"
+        },
+        {
+          "pada_original": "तौ",
+          "pada_kn": "ತೌ",
+          "meaning_en": "those two",
+          "meaning_kn": "ಆ ಇಬ್ಬರು / ಅವುಗಳು"
+        },
+        {
+          "pada_original": "अ॒स्मभ्य᳚‌म्",
+          "pada_kn": "ಅಸ್ಮಭ್ಯಮ್",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "दृ॒शये᳚",
+          "pada_kn": "ದೃಶಯೇ",
+          "meaning_en": "for seeing / for sight",
+          "meaning_kn": "ನೋಡಲು / ದರ್ಶನಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "सूर्या᳚य",
+          "pada_kn": "ಸೂರ್ಯಾಯ",
+          "meaning_en": "for the sun / for the sun's light",
+          "meaning_kn": "ಸೂರ್ಯನಿಗಾಗಿ / ಸೂರ್ಯನ ಬೆಳಕಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "पुनः॑",
+          "pada_kn": "ಪುನಃ",
+          "meaning_en": "again / anew",
+          "meaning_kn": "ಮತ್ತೆ / ಪುನಃ"
+        },
+        {
+          "pada_original": "दा॒ता॒‌म्",
+          "pada_kn": "ದಾತಮ್",
+          "meaning_en": "may they give / let them grant",
+          "meaning_kn": "ಅವುಗಳು ಕೊಡಲಿ / ದಯಪಾಲಿಸಲಿ"
+        },
+        {
+          "pada_original": "असु᳚‌म्",
+          "pada_kn": "ಅಸುಮ್",
+          "meaning_en": "life / breath",
+          "meaning_kn": "ಪ್ರಾಣವನ್ನು / ಜೀವವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒द्य",
+          "pada_kn": "ಅದ್ಯ",
+          "meaning_en": "today",
+          "meaning_kn": "ಇಂದು"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here / in this world",
+          "meaning_kn": "ಇಲ್ಲಿ / ಈ ಲೋಕದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "welfare / prosperity / good fortune",
+          "meaning_kn": "ಮಂಗಳವನ್ನು / ಶುಭವನ್ನು / ಕ್ಷೇಮವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "The two wide-nosed, life-devouring, powerful messengers of Yama wander among people. May those two (messengers) today, here in this world, grant us life again for the sight of the sun, and good fortune.",
+      "full_meaning_kn": "ಅಗಲವಾದ ಮೂಗಿನ, ಪ್ರಾಣವನ್ನು ಕುಡಿಯುವ, ಬಲಶಾಲಿಗಳಾದ ಯಮನ ಇಬ್ಬರು ದೂತರು ಜನರಲ್ಲಿ ಸಂಚರಿಸುತ್ತಾರೆ. ಸೂರ್ಯನನ್ನು ನೋಡಲು (ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಅನುಭವಿಸಲು) ನಮಗೆ ಮತ್ತೆ ಪ್ರಾಣವನ್ನು ಮತ್ತು ಮಂಗಳವನ್ನು ಈ ಲೋಕದಲ್ಲಿ ಇಂದು ಆ ಇಬ್ಬರು ದೂತರು ದಯಪಾಲಿಸಲಿ.",
+      "rig_time_s": 170.439,
+      "Insight_en": "The messengers of Yama represent the forces of transformation and mortality that constantly operate within us. These 'wide-nosed, life-devouring' agents symbolize the ego's attachments being consumed by the awareness of impermanence. 'Granting life again for the sight of the sun' signifies the ego's death leading to the rebirth of consciousness, illuminated by higher knowledge. The aspirant must confront these internal 'messengers' to transcend the fear of death and awaken to the eternal Self, experiencing true भद्रम् (good fortune). It is through the acceptance of mortality that the path to immortality unfolds, revealing the सूर्य (Sun) of inner wisdom.",
+      "Insight_kn": "ಯಮನ ದೂತರು ನಮ್ಮಲ್ಲಿ ನಿರಂತರವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಪರಿವರ್ತನೆ ಮತ್ತು ಮರಣದ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಈ 'ಅಗಲವಾದ ಮೂಗಿನ, ಪ್ರಾಣವನ್ನು ಕುಡಿಯುವ' ಕಾರಕಗಳು ಅಶಾಶ್ವತತೆಯ ಅರಿವಿನಿಂದ ನಾಶವಾಗುವ ಅಹಂಕಾರದ ಬಾಂಧವ್ಯಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. 'ಸೂರ್ಯನನ್ನು ನೋಡಲು ಮತ್ತೆ ಪ್ರಾಣವನ್ನು ದಯಪಾಲಿಸುವುದು' ಎಂದರೆ ಉನ್ನತ ಜ್ಞಾನದಿಂದ ಬೆಳಗಲ್ಪಟ್ಟ ಪ್ರಜ್ಞೆಯ ಪುನರ್ಜನ್ಮಕ್ಕೆ ಕಾರಣವಾಗುವ ಅಹಂಕಾರದ ಸಾವು. ಮರಣದ ಭಯವನ್ನು ಮೀರಿ ಶಾಶ್ವತ ಆತ್ಮವನ್ನು ಜಾಗೃತಗೊಳಿಸಲು ಮತ್ತು ನಿಜವಾದ ಭದ್ರಮ್ (ಒಳ್ಳೆಯ ಅದೃಷ್ಟ) ಅನುಭವಿಸಲು ಆಕಾಂಕ್ಷಿಯು ಈ ಆಂತರಿಕ 'ದೂತರನ್ನು' ಎದುರಿಸಬೇಕು. ಮರಣವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುವುದರ ಮೂಲಕವೇ ಅಮರತ್ವದ ಹಾದಿ ತೆರೆದುಕೊಳ್ಳುತ್ತದೆ, ಆಂತರಿಕ ಬುದ್ಧಿವಂತಿಕೆಯ ಸೂರ್ಯನನ್ನು (ಸೂರ್ಯ) ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-13_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 13,
+      "rig_lines": [
+        "य॒माय॒ सोमं᳚ सुनुत य॒माय॑ जुहुता ह॒विः |",
+        "य॒मं ह॑ य॒ज्ञो ग॑च्छत्य॒ग्निदू᳚तो॒, अरं᳚कृतः ||"
+      ],
+      "pre_splits": [
+        "य॒माय॑",
+        "सोम᳚‌म्",
+        "सु॒नु॒त॒",
+        "य॒माय॑",
+        "जु॒हु॒त॒",
+        "ह॒विः",
+        "य॒म‌म्",
+        "ह॒",
+        "य॒ज्ञः",
+        "ग॒च्छ॒ति॒",
+        "अ॒ग्निऽदू᳚तः",
+        "अर᳚‌म्ऽकृतः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "य॒माय॑",
+          "pada_kn": "ಯಮಾಯ",
+          "meaning_en": "To Yama",
+          "meaning_kn": "ಯಮನಿಗಾಗಿ / ಯಮನಿಗೆ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma (the sacred drink)",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "सु॒नु॒त॒",
+          "pada_kn": "ಸುನುತ",
+          "meaning_en": "press / extract (the Soma)",
+          "meaning_kn": "ಹಿಂಡಿರಿ / ಸಿದ್ಧಪಡಿಸಿ"
+        },
+        {
+          "pada_original": "य॒माय॑",
+          "pada_kn": "ಯಮಾಯ",
+          "meaning_en": "To Yama",
+          "meaning_kn": "ಯಮನಿಗಾಗಿ / ಯಮನಿಗೆ"
+        },
+        {
+          "pada_original": "जु॒हु॒त॒",
+          "pada_kn": "ಜುಹುತ",
+          "meaning_en": "offer / sacrifice",
+          "meaning_kn": "ಅರ್ಪಿಸಿ / ಹೋಮಮಾಡಿ"
+        },
+        {
+          "pada_original": "ह॒विः",
+          "pada_kn": "ಹವಿಃ",
+          "meaning_en": "oblation / offering",
+          "meaning_kn": "ಹವಿಸ್ಸನ್ನು / ಅರ್ಪಣೆಯನ್ನು"
+        },
+        {
+          "pada_original": "य॒म‌म्",
+          "pada_kn": "ಯಮಮ್",
+          "meaning_en": "Yama",
+          "meaning_kn": "ಯಮನನ್ನು"
+        },
+        {
+          "pada_original": "ह॒",
+          "pada_kn": "ಹ",
+          "meaning_en": "indeed / certainly (particle)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "य॒ज्ञः",
+          "pada_kn": "ಯಜ್ಞಃ",
+          "meaning_en": "the sacrifice",
+          "meaning_kn": "ಯಜ್ಞವು / ಯಾಗವು"
+        },
+        {
+          "pada_original": "ग॒च्छ॒ति॒",
+          "pada_kn": "ಗಚ್ಛತಿ",
+          "meaning_en": "goes / reaches",
+          "meaning_kn": "ತಲುಪುತ್ತದೆ"
+        },
+        {
+          "pada_original": "अ॒ग्निऽदू᳚तः",
+          "pada_kn": "ಅಗ್ನಿದೂತಃ",
+          "meaning_en": "with Agni as messenger / Agni being the messenger",
+          "meaning_kn": "ಅಗ್ನಿಯು ದೂತನಾಗಿ / ಅಗ್ನಿಯ ಮೂಲಕ"
+        },
+        {
+          "pada_original": "अर᳚‌म्ऽकृतः",
+          "pada_kn": "ಅರಂಕೃತಃ",
+          "meaning_en": "well-prepared / well-arranged / properly performed",
+          "meaning_kn": "ಸುಸಜ್ಜಿತವಾಗಿ / ಸರಿಯಾಗಿ ನೆರವೇರಿಸಿದ"
+        }
+      ],
+      "full_meaning_en": "Press the Soma for Yama; offer the oblation to Yama. Indeed, the well-prepared sacrifice, with Agni as the messenger, certainly reaches Yama.",
+      "full_meaning_kn": "ಯಮನಿಗಾಗಿ ಸೋಮವನ್ನು ಹಿಂಡಿರಿ; ಯಮನಿಗಾಗಿ ಹವಿಸ್ಸನ್ನು ಅರ್ಪಿಸಿ. ಅಗ್ನಿಯು ದೂತನಾಗಿರುವ, ಸರಿಯಾಗಿ ನೆರವೇರಿಸಿದ ಯಜ್ಞವು ಖಂಡಿತವಾಗಿಯೂ ಯಮನನ್ನು ತಲುಪುತ್ತದೆ.",
+      "rig_time_s": 185.364,
+      "Insight_en": "Here, यम (Yama) embodies the principle of cosmic order and the ultimate destination of the soul's journey. Offering सोम (Soma) and हविस् (havis) to Yama signifies surrendering the ego and its attachments. अग्नि (Agni), the divine messenger, carries the purified intentions of the sacrifice to Yama, ensuring the soul's progression toward liberation. The mantra highlights the transformative power of ritual action when aligned with cosmic law, guiding the individual towards spiritual realization. Through अग्नि's mediation, the well-performed यज्ञ (Yajna) transcends material limitations, uniting the individual consciousness with the universal order.",
+      "Insight_kn": "ಇಲ್ಲಿ, ಯಮನು ಕಾಸ್ಮಿಕ್ ಕ್ರಮದ ತತ್ವ ಮತ್ತು ಆತ್ಮದ ಪ್ರಯಾಣದ ಅಂತಿಮ ಗುರಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ಯಮನಿಗೆ ಸೋಮ ಮತ್ತು ಹವಿಸ್ ಅರ್ಪಿಸುವುದು ಅಹಂಕಾರ ಮತ್ತು ಅದರ ಬಾಂಧವ್ಯಗಳನ್ನು ತ್ಯಜಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಗ್ನಿಯು ದೈವಿಕ ಸಂದೇಶವಾಹಕನಾಗಿ, ತ್ಯಾಗದ ಶುದ್ಧ ಉದ್ದೇಶಗಳನ್ನು ಯಮನಿಗೆ ತಲುಪಿಸುತ್ತಾನೆ, ಆತ್ಮದ ವಿಮೋಚನೆಯ ಕಡೆಗೆ ಪ್ರಗತಿಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತಾನೆ. ಕಾಸ್ಮಿಕ್ ಕಾನೂನಿಗೆ ಅನುಗುಣವಾಗಿರುವಾಗ ಆಚರಣೆಯ ಕ್ರಿಯೆಯ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಮಂತ್ರವು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ವ್ಯಕ್ತಿಯನ್ನು ಮಾರ್ಗದರ್ಶಿಸುತ್ತದೆ. ಅಗ್ನಿಯ ಮಧ್ಯಸ್ಥಿಕೆಯ ಮೂಲಕ, ಸರಿಯಾಗಿ ನೆರವೇರಿಸಿದ ಯಜ್ಞವು ಭೌತಿಕ ಮಿತಿಗಳನ್ನು ಮೀರಿ, ವೈಯಕ್ತಿಕ ಪ್ರಜ್ಞೆಯನ್ನು ಸಾರ್ವತ್ರಿಕ ಕ್ರಮದೊಂದಿಗೆ ಒಂದುಗೂಡಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-14_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 14,
+      "rig_lines": [
+        "य॒माय॑ घृ॒तव॑द्ध॒विर्जु॒होत॒ प्र च॑ तिष्ठत |",
+        "स नो᳚ दे॒वेष्वा य॑मद्दी॒र्घमायुः॒ प्र जी॒वसे᳚ ||"
+      ],
+      "pre_splits": [
+        "य॒माय॑",
+        "घृ॒तऽव॑त्",
+        "ह॒विः",
+        "जु॒होत॑",
+        "प्र",
+        "च॒",
+        "ति॒ष्ठ॒त॒",
+        "सः",
+        "नः॒",
+        "दे॒वेषु॑",
+        "आ",
+        "य॒म॒त्",
+        "दी॒र्घ‌म्",
+        "आयुः॑",
+        "प्र",
+        "जी॒वसे᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "य॒माय॑",
+          "pada_kn": "ಯಮಾಯ",
+          "meaning_en": "To Yama",
+          "meaning_kn": "ಯಮನಿಗೆ"
+        },
+        {
+          "pada_original": "घृ॒तऽव॑त्",
+          "pada_kn": "ಘೃತವತ್",
+          "meaning_en": "rich in ghee",
+          "meaning_kn": "ತುಪ್ಪದಿಂದ ಕೂಡಿದ"
+        },
+        {
+          "pada_original": "ह॒विः",
+          "pada_kn": "ಹವಿಃ",
+          "meaning_en": "oblation / offering",
+          "meaning_kn": "ಹವಿಸ್ಸು / ಅರ್ಪಣೆ"
+        },
+        {
+          "pada_original": "जु॒होत॑",
+          "pada_kn": "ಜುಹೋತ",
+          "meaning_en": "offer (plural imperative)",
+          "meaning_kn": "ಅರ್ಪಿಸಿರಿ / ಹೋಮಮಾಡಿರಿ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಮುನ್ನಡೆಸಿ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "ति॒ष्ठ॒त॒",
+          "pada_kn": "ತಿಷ್ಠತ",
+          "meaning_en": "stand / proceed (plural imperative)",
+          "meaning_kn": "ನಿಲ್ಲಿರಿ / ಮುಂದುವರೆಯಿರಿ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He (Yama)",
+          "meaning_kn": "ಅವನು / ಯಮನು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "दे॒वेषु॑",
+          "pada_kn": "ದೇವೇಷು",
+          "meaning_en": "among the gods",
+          "meaning_kn": "ದೇವತೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "towards / here (prefix)",
+          "meaning_kn": "ಕಡೆಗೆ / ಇಲ್ಲಿ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "य॒म॒त्",
+          "pada_kn": "ಯಮತ್",
+          "meaning_en": "may he grant / may he extend",
+          "meaning_kn": "ಅವನು ದಯಪಾಲಿಸಲಿ / ಅವನು ವಿಸ್ತರಿಸಲಿ"
+        },
+        {
+          "pada_original": "दी॒र्घ‌म्",
+          "pada_kn": "ದೀರ್ಘಮ್",
+          "meaning_en": "long",
+          "meaning_kn": "ದೀರ್ಘವಾದ / ಉದ್ದವಾದ"
+        },
+        {
+          "pada_original": "आयुः॑",
+          "pada_kn": "ಆಯುಃ",
+          "meaning_en": "life",
+          "meaning_kn": "ಆಯುಷ್ಯ / ಜೀವನ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "for / to (prefix)",
+          "meaning_kn": "ಗೋಸ್ಕರ / ಸಲುವಾಗಿ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "जी॒वसे᳚",
+          "pada_kn": "ಜೀವಸೇ",
+          "meaning_en": "for living / to live",
+          "meaning_kn": "ಜೀವಿಸಲು / ಬದುಕಲು"
+        }
+      ],
+      "full_meaning_en": "Offer ghee-rich oblations to Yama, and proceed forth. May he (Yama) grant us long life among the gods, so that we may live.",
+      "full_meaning_kn": "ಯಮನಿಗೆ ತುಪ್ಪಭರಿತ ಹವಿಸ್ಸುಗಳನ್ನು ಅರ್ಪಿಸಿರಿ ಮತ್ತು ಮುಂದುವರೆಯಿರಿ. ಅವನು (ಯಮನು) ನಮಗೆ ದೇವತೆಗಳ ನಡುವೆ ದೀರ್ಘಾಯುಷ್ಯವನ್ನು ಬದುಕಲು ದಯಪಾಲಿಸಲಿ.",
+      "rig_time_s": 195.536,
+      "Insight_en": "यम (Yama), often perceived as death, is the inner controller, the restrainer of impulses. Offering घृत (ghee) symbolizes surrendering attachments and desires to this inner guide. 'Proceeding forth' signifies transcending the fear of mortality by embracing disciplined self-awareness. This act propitiates the divine within, extending not just physical life (आयुः), but also spiritual vitality (प्र जीवसे) among the gods—the awakened senses and higher faculties. True longevity is realized by mastering inner limitations and harmonizing with the divine order.",
+      "Insight_kn": "ಯಮನು, ಸಾಮಾನ್ಯವಾಗಿ ಮರಣವೆಂದು ಗ್ರಹಿಸಲ್ಪಡುತ್ತಾನೆ, ಆದರೆ ಅವನು ಆಂತರಿಕ ನಿಯಂತ್ರಕ, ಪ್ರಚೋದನೆಗಳನ್ನು ತಡೆಯುವವನು. ತುಪ್ಪವನ್ನು ಅರ್ಪಿಸುವುದು ಆಂತರಿಕ ಮಾರ್ಗದರ್ಶಕನಿಗೆ ಲಗತ್ತುಗಳು ಮತ್ತು ಆಸೆಗಳನ್ನು ಬಿಟ್ಟುಕೊಡುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. 'ಮುಂದುವರಿಯುವುದು' ಎಂದರೆ ಶಿಸ್ತುಬದ್ಧ ಸ್ವಯಂ-ಅರಿವನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳುವ ಮೂಲಕ ಮರಣದ ಭಯವನ್ನು ಮೀರುವುದು. ಈ ಕ್ರಿಯೆಯು ದೈವಿಕತೆಯನ್ನು ಸಮಾಧಾನಗೊಳಿಸುತ್ತದೆ, ಇದು ದೈಹಿಕ ಜೀವನವನ್ನು ಮಾತ್ರವಲ್ಲ (ಆಯುಃ), ದೇವತೆಗಳ ನಡುವೆ ಆಧ್ಯಾತ್ಮಿಕ ಚೈತನ್ಯವನ್ನು ಸಹ ವಿಸ್ತರಿಸುತ್ತದೆ - ಜಾಗೃತ ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಉನ್ನತ ಸಾಮರ್ಥ್ಯಗಳು. ಆಂತರಿಕ ಮಿತಿಗಳನ್ನು ಕರಗತ ಮಾಡಿಕೊಳ್ಳುವ ಮೂಲಕ ಮತ್ತು ದೈವಿಕ ಕ್ರಮದೊಂದಿಗೆ ಸಾಮರಸ್ಯವನ್ನು ಹೊಂದುವುದರ ಮೂಲಕ ನಿಜವಾದ ದೀರ್ಘಾಯುಷ್ಯವನ್ನು ಅರಿತುಕೊಳ್ಳಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-15_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 15,
+      "rig_lines": [
+        "य॒माय॒ मधु॑मत्तमं॒ राज्ञे᳚ ह॒व्यं जु॑होतन |",
+        "इ॒दं नम॒ ऋषि॑भ्यः पूर्व॒जेभ्यः॒ पूर्वे᳚भ्यः पथि॒कृद्भ्यः॑ ||"
+      ],
+      "pre_splits": [
+        "य॒माय॑",
+        "मधु॑मत्ऽतम‌म्",
+        "राज्ञे᳚",
+        "ह॒व्य‌म्",
+        "जु॒हो॒त॒न॒",
+        "इ॒द‌म्",
+        "नमः॑",
+        "ऋषि॑ऽभ्यः",
+        "पू॒र्व॒ऽजेभ्यः॑",
+        "पूर्वे᳚भ्यः",
+        "प॒थि॒कृत्ऽभ्यः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "य॒माय॑",
+          "pada_kn": "ಯಮಾಯ",
+          "meaning_en": "To Yama (the lord of the departed)",
+          "meaning_kn": "ಯಮನಿಗೆ / ಮೃತ್ಯು ದೇವನಿಗೆ"
+        },
+        {
+          "pada_original": "मधु॑मत्ऽतम‌म्",
+          "pada_kn": "ಮಧುಮತ್ತಮಮ್",
+          "meaning_en": "most sweet / richest in honey",
+          "meaning_kn": "ಅತ್ಯಂತ ಮಧುರವಾದ / ಅತ್ಯಂತ ರಸಭರಿತವಾದ"
+        },
+        {
+          "pada_original": "राज्ञे᳚",
+          "pada_kn": "ರಾಜ್ಞೇ",
+          "meaning_en": "to the King",
+          "meaning_kn": "ರಾಜನಿಗೆ"
+        },
+        {
+          "pada_original": "ह॒व्य‌म्",
+          "pada_kn": "ಹವ್ಯಮ್",
+          "meaning_en": "oblation / offering",
+          "meaning_kn": "ಹವಿಸ್ಸು / ಅರ್ಪಣೆ"
+        },
+        {
+          "pada_original": "जु॒हो॒त॒न॒",
+          "pada_kn": "ಜುಹೋತನ",
+          "meaning_en": "offer ye / you all offer",
+          "meaning_kn": "ಅರ್ಪಿಸಿರಿ / ಹೋಮಮಾಡಿರಿ"
+        },
+        {
+          "pada_original": "इ॒द‌म्",
+          "pada_kn": "ಇದಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ / ಇದನ್ನು"
+        },
+        {
+          "pada_original": "नमः॑",
+          "pada_kn": "ನಮಃ",
+          "meaning_en": "homage / salutation",
+          "meaning_kn": "ನಮಸ್ಕಾರ / ವಂದನೆ"
+        },
+        {
+          "pada_original": "ऋषि॑ऽभ्यः",
+          "pada_kn": "ಋಷಿಭ್ಯಃ",
+          "meaning_en": "to the Rishis / seers",
+          "meaning_kn": "ಋಷಿಗಳಿಗೆ / ದ್ರಷ್ಟಾರರಿಗೆ"
+        },
+        {
+          "pada_original": "पू॒र्व॒ऽजेभ्यः॑",
+          "pada_kn": "ಪೂರ್ವಜೇಭ್ಯಃ",
+          "meaning_en": "to the forefathers / those born before",
+          "meaning_kn": "ಪೂರ್ವಜರಿಗೆ / ಮೊದಲು ಹುಟ್ಟಿದವರಿಗೆ"
+        },
+        {
+          "pada_original": "पूर्वे᳚भ्यः",
+          "pada_kn": "ಪೂರ್ವೇಭ್ಯಃ",
+          "meaning_en": "to the ancient ones / former ones",
+          "meaning_kn": "ಪ್ರಾಚೀನರಿಗೆ / ಹಿಂದಿನವರಿಗೆ"
+        },
+        {
+          "pada_original": "प॒थि॒कृत्ऽभ्यः॑",
+          "pada_kn": "ಪಥಿಕೃದ್ಭ್ಯಃ",
+          "meaning_en": "to the path-makers / those who made the path (to the other world)",
+          "meaning_kn": "ಮಾರ್ಗನಿರ್ಮಾಪಕರಿಗೆ / ದಾರಿಯನ್ನು ಮಾಡಿದವರಿಗೆ"
+        }
+      ],
+      "full_meaning_en": "Offer the sweetest oblation to King Yama. This homage is also to the Rishis, to the forefathers, to the ancient ones, and to those who have made the path (to the other world).",
+      "full_meaning_kn": "ರಾಜ ಯಮನಿಗೆ ಅತ್ಯಂತ ಮಧುರವಾದ ಹವಿಸ್ಸನ್ನು ಅರ್ಪಿಸಿರಿ. ಈ ನಮಸ್ಕಾರವು ಋಷಿಗಳಿಗೆ, ಪೂರ್ವಜರಿಗೆ, ಪ್ರಾಚೀನರಿಗೆ ಮತ್ತು (ಪರಲೋಕಕ್ಕೆ) ಮಾರ್ಗವನ್ನು ನಿರ್ಮಿಸಿದವರಿಗೆ ಸಲ್ಲುತ್ತದೆ.",
+      "rig_time_s": 206.301,
+      "Insight_en": "यम (Yama) is not merely death, but the divine governor of karmic law, the sustainer of cosmic order. Offering \"sweetest oblation\" signifies surrendering egoic attachments and the fruits of actions. The ঋষিs, पितृs (Pitṛs), and path-makers embody the collective wisdom, experiences, and archetypal blueprints for navigating the journey of consciousness. This offering honors the lineage of inner guidance and the dissolution of the self into the eternal flow.",
+      "Insight_kn": "ಯಮ ಕೇವಲ ಮೃತ್ಯುವಲ್ಲ, ಆದರೆ ಕರ್ಮದ ನಿಯಮದ ದೈವಿಕ ಅಧಿಪತಿ, ಕಾಸ್ಮಿಕ್ ಕ್ರಮದ ಪೋಷಕ. \"ಅತ್ಯಂತ ಮಧುರವಾದ ಹವಿಸ್ಸು\" ಅರ್ಪಿಸುವುದು ಅಹಂಕಾರದ ಬಾಂಧವ್ಯ ಮತ್ತು ಕ್ರಿಯೆಗಳ ಫಲಗಳನ್ನು ತ್ಯಜಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಋಷಿಗಳು, ಪಿತೃಗಳು ಮತ್ತು ಮಾರ್ಗ-ನಿರ್ಮಾತೃಗಳು ಸಾಮೂಹಿಕ ಜ್ಞಾನ, ಅನುಭವಗಳು ಮತ್ತು ಪ್ರಜ್ಞೆಯ ಪ್ರಯಾಣವನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು ಮೂಲಮಾದರಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾರೆ. ಈ ಅರ್ಪಣೆಯು ಆಂತರಿಕ ಮಾರ್ಗದರ್ಶನದ ವಂಶ ಮತ್ತು ಶಾಶ್ವತ ಹರಿವಿನಲ್ಲಿ ಆತ್ಮದ ವಿಘಟನೆಯನ್ನು ಗೌರವಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S14_191-16_16",
+      "mandala": 10,
+      "sukta": 14,
+      "ric_index": 16,
+      "rig_lines": [
+        "त्रिक॑द्रुकेभिः पतति॒ षळु॒र्वीरेक॒मिद्बृ॒हत् |",
+        "त्रि॒ष्टुब्गा᳚य॒त्री छन्दां᳚सि॒ सर्वा॒ ता य॒म आहि॑ता ||"
+      ],
+      "pre_splits": [
+        "त्रिऽक॑द्रुकेभिः",
+        "प॒त॒ति॒",
+        "षट्",
+        "उ॒र्वीः",
+        "एक᳚‌म्",
+        "इत्",
+        "बृ॒हत्",
+        "त्रि॒ऽस्तुप्",
+        "गा॒य॒त्री",
+        "छन्दां᳚सि",
+        "सर्वा᳚",
+        "ता",
+        "य॒मे",
+        "आऽहि॑ता"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त्रिऽक॑द्रुकेभिः",
+          "pada_kn": "ತ್ರಿಕದ್ರುಕೇಭಿಃ",
+          "meaning_en": "with the three Soma-pressing days",
+          "meaning_kn": "ಮೂರು ಸೋಮಪಾನದ ದಿನಗಳಿಂದ"
+        },
+        {
+          "pada_original": "प॒त॒ति॒",
+          "pada_kn": "ಪತತಿ",
+          "meaning_en": "moves / flies",
+          "meaning_kn": "ಚಲಿಸುತ್ತದೆ / ಹಾರುತ್ತದೆ"
+        },
+        {
+          "pada_original": "षट्",
+          "pada_kn": "ಷಟ್",
+          "meaning_en": "six",
+          "meaning_kn": "ಆರು"
+        },
+        {
+          "pada_original": "उ॒र्वीः",
+          "pada_kn": "ಉರ್ವೀಃ",
+          "meaning_en": "wide (spaces/seasons)",
+          "meaning_kn": "ವಿಶಾಲವಾದ (ಸ್ಥಳಗಳು/ಋತುಗಳು)"
+        },
+        {
+          "pada_original": "एक᳚‌म्",
+          "pada_kn": "ಏಕಮ್",
+          "meaning_en": "one",
+          "meaning_kn": "ಒಂದು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "बृ॒हत्",
+          "pada_kn": "ಬೃಹತ್",
+          "meaning_en": "great / vast",
+          "meaning_kn": "ದೊಡ್ಡ / ವಿಶಾಲವಾದ"
+        },
+        {
+          "pada_original": "त्रि॒ऽस्तुप्",
+          "pada_kn": "ತ್ರಿಷ್ಟುಪ್",
+          "meaning_en": "Trishtubh (meter)",
+          "meaning_kn": "ತ್ರಿಷ್ಟುಪ್ (ಛಂದಸ್ಸು)"
+        },
+        {
+          "pada_original": "गा॒य॒त्री",
+          "pada_kn": "ಗಾಯತ್ರೀ",
+          "meaning_en": "Gayatri (meter)",
+          "meaning_kn": "ಗಾಯತ್ರಿ (ಛಂದಸ್ಸು)"
+        },
+        {
+          "pada_original": "छन्दां᳚सि",
+          "pada_kn": "ಛಂದಾಂಸಿ",
+          "meaning_en": "meters / poetic forms",
+          "meaning_kn": "ಛಂದಸ್ಸುಗಳು / ಕಾವ್ಯರೂಪಗಳು"
+        },
+        {
+          "pada_original": "सर्वा᳚",
+          "pada_kn": "ಸರ್ವಾ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "ता",
+          "pada_kn": "ತಾ",
+          "meaning_en": "those",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "य॒मे",
+          "pada_kn": "ಯಮೇ",
+          "meaning_en": "in Yama / in the controller",
+          "meaning_kn": "ಯಮನಲ್ಲಿ / ನಿಯಂತ್ರಕನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "आऽहि॑ता",
+          "pada_kn": "ಆಹಿತಾ",
+          "meaning_en": "placed / established",
+          "meaning_kn": "ಇರಿಸಲಾಗಿದೆ / ಸ್ಥಾಪಿಸಲಾಗಿದೆ"
+        }
+      ],
+      "full_meaning_en": "The year (or time) moves through the three Soma-pressing days and the six wide seasons, forming one great cycle. All the Vedic meters, such as Trishtubh and Gayatri, are indeed established in Yama, the lord of the departed and the ultimate controller of this cosmic order and time.",
+      "full_meaning_kn": "ವರ್ಷವು (ಅಥವಾ ಕಾಲವು) ಮೂರು ಸೋಮಪಾನದ ದಿನಗಳು ಮತ್ತು ಆರು ವಿಶಾಲವಾದ ಋತುಗಳ ಮೂಲಕ ಚಲಿಸುತ್ತದೆ, ಒಂದು ದೊಡ್ಡ ಚಕ್ರವನ್ನು ರೂಪಿಸುತ್ತದೆ. ತ್ರಿಷ್ಟುಪ್ ಮತ್ತು ಗಾಯತ್ರಿ ಮುಂತಾದ ಎಲ್ಲಾ ವೈದಿಕ ಛಂದಸ್ಸುಗಳು ಮೃತರ ಅಧಿಪತಿ ಮತ್ತು ಈ ಬ್ರಹ್ಮಾಂಡದ ವ್ಯವಸ್ಥೆ ಹಾಗೂ ಕಾಲದ ಅಂತಿಮ ನಿಯಂತ್ರಕನಾದ ಯಮನಲ್ಲಿ ಸ್ಥಾಪಿತವಾಗಿವೆ.",
+      "rig_time_s": 218.324,
+      "Insight_en": "Yama, in the Adhyatmika sense, is not merely death, but the principle of cosmic order and restraint within the individual. The 'three Soma-pressing days' symbolize the states of waking, dreaming, and deep sleep – experiences that shape our understanding of reality. The 'six seasons' represent the unfolding of karmic experiences. All Vedic meters (छन्दांसि), like Triṣṭubh and Gāyatrī, find their ultimate grounding in Yama, signifying that even the most elevated expressions of consciousness are bound by the laws of inner discipline and cosmic rhythm. Thus, true liberation lies in understanding and transcending these inherent limitations of conditioned existence within.",
+      "Insight_kn": "ಯಮನು, ಆಧ್ಯಾತ್ಮಿಕ ಅರ್ಥದಲ್ಲಿ, ಕೇವಲ ಮರಣವಲ್ಲ, ವ್ಯಕ್ತಿಯೊಳಗಿನ ಕಾಸ್ಮಿಕ್ ಕ್ರಮ ಮತ್ತು ಸಂಯಮದ ತತ್ವ. 'ಮೂರು ಸೋಮವನ್ನು ಹಿಂಡುವ ದಿನಗಳು' ಎಚ್ಚರ, ಕನಸು ಮತ್ತು ಗಾಢ ನಿದ್ರೆಯ ಸ್ಥಿತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ - ವಾಸ್ತವದ ಬಗ್ಗೆ ನಮ್ಮ ತಿಳುವಳಿಕೆಯನ್ನು ರೂಪಿಸುವ ಅನುಭವಗಳು. 'ಆರು ಋತುಗಳು' ಕರ್ಮ ಅನುಭವಗಳ ವಿಕಸನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ತ್ರಿಷ್ಟುಭ್ ಮತ್ತು ಗಾಯತ್ರಿಯಂತಹ ಎಲ್ಲಾ ವೈದಿಕ ಛಂದಸ್ಸುಗಳು ಯಮನಲ್ಲಿ ತಮ್ಮ ಅಂತಿಮ ನೆಲೆಯನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತವೆ, ಇದು ಪ್ರಜ್ಞೆಯ ಉನ್ನತ ಅಭಿವ್ಯಕ್ತಿಗಳು ಸಹ ಆಂತರಿಕ ಶಿಸ್ತು ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಲಯದ ನಿಯಮಗಳಿಗೆ ಬದ್ಧವಾಗಿವೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಹೀಗಾಗಿ, ನಿಜವಾದ ವಿಮೋಚನೆಯು ಅಸ್ತಿತ್ವದ ಈ ಸಹಜ ಮಿತಿಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಮತ್ತು ಮೀರುವುದರಲ್ಲಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

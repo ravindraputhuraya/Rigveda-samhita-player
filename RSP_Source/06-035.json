@@ -1,0 +1,776 @@
+{
+  "mandala": 6,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M6-S35_75-1_5",
+      "mandala": 6,
+      "sukta": 35,
+      "ric_index": 1,
+      "rig_lines": [
+        "क॒दा भु॑व॒न्‌ रथ॑क्षयाणि॒ ब्रह्म॑ क॒दा स्तो॒त्रे स॑हस्रपो॒ष्यं᳚ दाः |",
+        "क॒दा स्तोमं᳚ वासयोऽस्य रा॒या क॒दा धियः॑ करसि॒ वाज॑रत्नाः ||"
+      ],
+      "pre_splits": [
+        "क॒दा",
+        "भु॒व॒न्",
+        "रथ॑ऽक्षयाणि",
+        "ब्रह्म॑",
+        "क॒दा",
+        "स्तो॒त्रे",
+        "स॒ह॒स्र॒ऽपो॒ष्य᳚‌म्",
+        "दाः॒",
+        "क॒दा",
+        "स्तोम᳚‌म्",
+        "वा॒स॒यः॒",
+        "अ॒स्य॒",
+        "रा॒या",
+        "क॒दा",
+        "धियः॑",
+        "क॒र॒सि॒",
+        "वाज॑ऽरत्नाः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "क॒दा",
+          "pada_kn": "ಕದಾ",
+          "meaning_en": "When?",
+          "meaning_kn": "ಯಾವಾಗ?"
+        },
+        {
+          "pada_original": "भु॒व॒न्",
+          "pada_kn": "ಭುವನ್",
+          "meaning_en": "will become / will be",
+          "meaning_kn": "ಆಗುವುವು / ಸಂಭವಿಸುವುವು"
+        },
+        {
+          "pada_original": "रथ॑ऽक्षयाणि",
+          "pada_kn": "ರಥಕ್ಷಯಾಣಿ",
+          "meaning_en": "abodes with chariots / wealth including chariots",
+          "meaning_kn": "ರಥಗಳಿರುವ ನಿವಾಸಗಳು / ರಥಸಹಿತವಾದ ಐಶ್ವರ್ಯ"
+        },
+        {
+          "pada_original": "ब्रह्म॑",
+          "pada_kn": "ಬ್ರಹ್ಮ",
+          "meaning_en": "prayers / hymns",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆಗಳು / ಸ್ತೋತ್ರಗಳು"
+        },
+        {
+          "pada_original": "क॒दा",
+          "pada_kn": "ಕದಾ",
+          "meaning_en": "When?",
+          "meaning_kn": "ಯಾವಾಗ?"
+        },
+        {
+          "pada_original": "स्तो॒त्रे",
+          "pada_kn": "ಸ್ತೋತ್ರೇ",
+          "meaning_en": "for the praiser / to the singer of hymns",
+          "meaning_kn": "ಸ್ತುತಿಕಾರನಿಗೆ / ಸ್ತೋತ್ರ ಮಾಡುವವನಿಗೆ"
+        },
+        {
+          "pada_original": "स॒ह॒स्र॒ऽपो॒ष्य᳚‌म्",
+          "pada_kn": "ಸಹಸ್ರಪೋಷ್ಯಂ",
+          "meaning_en": "thousandfold nourishment / wealth that sustains a thousand",
+          "meaning_kn": "ಸಾವಿರಾರು ಬಗೆಯ ಪೋಷಣೆ / ಸಾವಿರಾರು ಜನರನ್ನು ಪೋಷಿಸುವ ಸಂಪತ್ತು"
+        },
+        {
+          "pada_original": "दाः॒",
+          "pada_kn": "ದಾಃ",
+          "meaning_en": "will you give?",
+          "meaning_kn": "ನೀನು ಕೊಡುವೆಯಾ?"
+        },
+        {
+          "pada_original": "क॒दा",
+          "pada_kn": "ಕದಾ",
+          "meaning_en": "When?",
+          "meaning_kn": "ಯಾವಾಗ?"
+        },
+        {
+          "pada_original": "स्तोम᳚‌म्",
+          "pada_kn": "ಸ್ತೋಮಂ",
+          "meaning_en": "the hymn of praise",
+          "meaning_kn": "ಸ್ತುತಿಯನ್ನು / ಸ್ತೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "वा॒स॒यः॒",
+          "pada_kn": "ವಾಸಯಃ",
+          "meaning_en": "will you adorn / will you clothe",
+          "meaning_kn": "ನೀನು ಅಲಂಕರಿಸುವೆ?"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "of this (praiser)",
+          "meaning_kn": "ಈ (ಸ್ತೋತ್ರಕಾರನ)"
+        },
+        {
+          "pada_original": "रा॒या",
+          "pada_kn": "ರಾಯಾ",
+          "meaning_en": "with wealth",
+          "meaning_kn": "ಸಂಪತ್ತಿನಿಂದ / ಧನದಿಂದ"
+        },
+        {
+          "pada_original": "क॒दा",
+          "pada_kn": "ಕದಾ",
+          "meaning_en": "When?",
+          "meaning_kn": "ಯಾವಾಗ?"
+        },
+        {
+          "pada_original": "धियः॑",
+          "pada_kn": "ಧಿಯಃ",
+          "meaning_en": "the thoughts / the prayers",
+          "meaning_kn": "ಚಿಂತನೆಗಳನ್ನು / ಪ್ರಾರ್ಥನೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "क॒र॒सि॒",
+          "pada_kn": "ಕರಸಿ",
+          "meaning_en": "will you make",
+          "meaning_kn": "ನೀನು ಮಾಡುವೆ?"
+        },
+        {
+          "pada_original": "वाज॑ऽरत्नाः",
+          "pada_kn": "ವಾಜರತ್ನಾಃ",
+          "meaning_en": "rich in rewards / treasure-laden",
+          "meaning_kn": "ಪ್ರತಿಫಲಗಳೆಂಬ ರತ್ನಗಳುಳ್ಳವನ್ನು / ಶಕ್ತಿದಾಯಕ ರತ್ನಗಳಿಂದ ಕೂಡಿದವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O deity, when will there be the fulfillment of our prayers in the form of wealth and dwellings with chariots? When will you bestow a thousandfold nourishment upon this singer of hymns? When will you adorn the hymn of this praiser with riches? When will you make our thoughts rich with divine rewards and treasures?",
+      "full_meaning_kn": "ಓ ದೇವರೆ, ರಥಗಳುಳ್ಳ ಧಾಮಗಳು ಮತ್ತು ಸಂಪತ್ತಿನ ರೂಪದಲ್ಲಿ ನಮ್ಮ ಪ್ರಾರ್ಥನೆಗಳು ಯಾವಾಗ ನೆರವೇರುತ್ತವೆ? ಯಾವಾಗ ನೀವು ಈ ಸ್ತೋತ್ರವನ್ನು ಹಾಡುವವನಿಗೆ ಸಾವಿರ ಪಟ್ಟು ಪೋಷಣೆಯನ್ನು ನೀಡುತ್ತೀರಿ? ಯಾವಾಗ ನೀವು ಈ ಸ್ತುತಿಸುವವನ ಸ್ತೋತ್ರವನ್ನು ಸಂಪತ್ತಿನಿಂದ ಅಲಂಕರಿಸುತ್ತೀರಿ? ಯಾವಾಗ ನೀವು ನಮ್ಮ ಆಲೋಚನೆಗಳನ್ನು ದೈವಿಕ ಪ್ರತಿಫಲಗಳು ಮತ್ತು ನಿಧಿಗಳಿಂದ ಸಮೃದ್ಧಗೊಳಿಸುತ್ತೀರಿ?",
+      "rig_time_s": 0.0,
+      "Insight_en": "The human yearning for divine grace is expressed through the desire for material and spiritual fulfillment. The chariot symbolizes the body, the abode for the Self, and wealth represents the inner riches gained through spiritual practice. The thousandfold nourishment signifies the abundance of divine blessings, sustaining both the physical and spiritual self. The adornment of hymns indicates the beautification of consciousness through devotion, leading to the realization of the divine within. The verse is a prayer for the transformation of thought into a treasure trove of wisdom.",
+      "Insight_kn": "ದೈವಿಕ ಅನುಗ್ರಹಕ್ಕಾಗಿ ಮಾನವನ ಹಾತೊರೆಯುವಿಕೆಯು ಭೌತಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ನೆರವೇರಿಕೆಯ ಬಯಕೆಯ ಮೂಲಕ ವ್ಯಕ್ತವಾಗುತ್ತದೆ. ರಥವು ದೇಹವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಸ್ವಯಂಗೆ ಧಾಮವಾಗಿದೆ, ಮತ್ತು ಸಂಪತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಮೂಲಕ ಗಳಿಸಿದ ಆಂತರಿಕ ಸಂಪತ್ತನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಸಾವಿರ ಪಟ್ಟು ಪೋಷಣೆಯು ದೈವಿಕ ಆಶೀರ್ವಾದದ ಸಮೃದ್ಧಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ದೈಹಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಯಂ ಅನ್ನು ಉಳಿಸುತ್ತದೆ. ಸ್ತೋತ್ರಗಳ ಅಲಂಕಾರವು ಭಕ್ತಿಯ ಮೂಲಕ ಪ್ರಜ್ಞೆಯ ಸೌಂದರ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಒಳಗಿನ ದೈವಿಕ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಈ ಪದ್ಯವು ಆಲೋಚನೆಯನ್ನು ಜ್ಞಾನದ ನಿಧಿಯಾಗಿ ಪರಿವರ್ತಿಸುವ ಪ್ರಾರ್ಥನೆಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S35_75-2_5",
+      "mandala": 6,
+      "sukta": 35,
+      "ric_index": 2,
+      "rig_lines": [
+        "कर्हि॑ स्वि॒त्‌ तदि᳚न्द्र॒ यन्नृभि॒र्नॄन् वी॒रैर्वी॒रान्‌ नी॒ळया᳚से॒ जया॒जीन् |",
+        "त्रि॒धातु॒ गा, अधि॑ जयासि॒ गोष्विन्द्र॑ द्यु॒म्नं स्व᳚र्वद्‌ धेह्य॒स्मे ||"
+      ],
+      "pre_splits": [
+        "कर्हि॑",
+        "स्वि॒त्",
+        "तत्",
+        "इ॒न्द्र॒",
+        "यत्",
+        "नृऽभिः॑",
+        "नॄन्",
+        "वी॒रैः",
+        "वी॒रान्",
+        "नी॒ळया᳚से",
+        "जय॑",
+        "आ॒जीन्",
+        "त्रि॒ऽधातु॑",
+        "गाः",
+        "अधि॑",
+        "ज॒या॒सि॒",
+        "गोषु॑",
+        "इन्द्र॑",
+        "द्यु॒म्न‌म्",
+        "स्वः॑ऽवत्",
+        "धे॒हि॒",
+        "अ॒स्मे इति॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "कर्हि॑",
+          "pada_kn": "ಕರ್ಹಿ",
+          "meaning_en": "When?",
+          "meaning_kn": "ಯಾವಾಗ?"
+        },
+        {
+          "pada_original": "स्वि॒त्",
+          "pada_kn": "ಸ್ವಿತ್",
+          "meaning_en": "indeed / pray",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that (time)",
+          "meaning_kn": "ಆ (ಕಾಲವು)"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "नृऽभिः॑",
+          "pada_kn": "ನೃಭಿಃ",
+          "meaning_en": "with men",
+          "meaning_kn": "ನಮ್ಮ ನರರಿಂದ"
+        },
+        {
+          "pada_original": "नॄन्",
+          "pada_kn": "ನೄನ್",
+          "meaning_en": "men",
+          "meaning_kn": "(ಶತ್ರು) ನರರನ್ನು"
+        },
+        {
+          "pada_original": "वी॒रैः",
+          "pada_kn": "ವೀರೈಃ",
+          "meaning_en": "with heroes",
+          "meaning_kn": "ನಮ್ಮ ವೀರರಿಂದ"
+        },
+        {
+          "pada_original": "वी॒रान्",
+          "pada_kn": "ವೀರಾನ್",
+          "meaning_en": "heroes",
+          "meaning_kn": "(ಶತ್ರು) ವೀರರನ್ನು"
+        },
+        {
+          "pada_original": "नी॒ळया᳚से",
+          "pada_kn": "ನೀಳಯಾಸೇ",
+          "meaning_en": "you strike down",
+          "meaning_kn": "ನೀನು ನಾಶಪಡಿಸುವೆ"
+        },
+        {
+          "pada_original": "जय॑",
+          "pada_kn": "ಜಯ",
+          "meaning_en": "Conquer!",
+          "meaning_kn": "ಜಯಿಸು!"
+        },
+        {
+          "pada_original": "आ॒जीन्",
+          "pada_kn": "ಆಜೀನ್",
+          "meaning_en": "the battles",
+          "meaning_kn": "ಯುದ್ಧಗಳನ್ನು"
+        },
+        {
+          "pada_original": "त्रि॒ऽधातु॑",
+          "pada_kn": "ತ್ರಿಧಾತು",
+          "meaning_en": "threefold",
+          "meaning_kn": "ಮೂರು ಬಗೆಯ"
+        },
+        {
+          "pada_original": "गाः",
+          "pada_kn": "ಗಾಃ",
+          "meaning_en": "cows / wealth",
+          "meaning_kn": "ಗೋವುಗಳನ್ನು / ಸಂಪತ್ತನ್ನು"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "over / upon (as a prefix to the verb)",
+          "meaning_kn": "(ಗೆಲ್ಲುವ ಕ್ರಿಯೆಗೆ) ಉಪಸರ್ಗ"
+        },
+        {
+          "pada_original": "ज॒या॒सि॒",
+          "pada_kn": "ಜಯಾಸಿ",
+          "meaning_en": "you win / you conquer",
+          "meaning_kn": "ನೀನು ಗೆಲ್ಲುವೆ"
+        },
+        {
+          "pada_original": "गोषु॑",
+          "pada_kn": "ಗೋಷು",
+          "meaning_en": "in the contests for cows",
+          "meaning_kn": "ಗೋವುಗಳಿಗಾಗಿ ನಡೆಯುವ ಸ್ಪರ್ಧೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "इन्द्र॑",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "द्यु॒म्न‌म्",
+          "pada_kn": "ದ್ಯುಮ್ನಮ್",
+          "meaning_en": "glory / splendour",
+          "meaning_kn": "ಕೀರ್ತಿಯನ್ನು / ತೇಜಸ್ಸನ್ನು"
+        },
+        {
+          "pada_original": "स्वः॑ऽवत्",
+          "pada_kn": "ಸ್ವರ್ವತ್",
+          "meaning_en": "heaven-like / glorious",
+          "meaning_kn": "ಸ್ವರ್ಗಸದೃಶವಾದ / ತೇಜೋಮಯವಾದ"
+        },
+        {
+          "pada_original": "धे॒हि॒",
+          "pada_kn": "ಧೇಹಿ",
+          "meaning_en": "bestow / grant",
+          "meaning_kn": "ನೀಡು / ಅನುಗ್ರಹಿಸು"
+        },
+        {
+          "pada_original": "अ॒स्मे इति॑",
+          "pada_kn": "ಅಸ್ಮೇ ಇತಿ",
+          "meaning_en": "to us (thus)",
+          "meaning_kn": "ನಮಗೆ (ಇತಿ)"
+        }
+      ],
+      "full_meaning_en": "O Indra, when will that moment arrive when you empower our men to vanquish their men, and our heroes to defeat their heroes in battle? Conquer the battles decisively! You, Indra, attain threefold treasures in the struggles for the cows. Bestow upon us a splendor that is luminous like the heavens.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ನಮ್ಮ ಜನರು ಅವರ ಜನರನ್ನು ಸೋಲಿಸಲು ಮತ್ತು ನಮ್ಮ ವೀರರು ಯುದ್ಧದಲ್ಲಿ ಅವರ ವೀರರನ್ನು ಸೋಲಿಸಲು ನೀವು ಯಾವಾಗ ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತೀರಿ? ಯುದ್ಧಗಳನ್ನು ನಿರ್ಣಾಯಕವಾಗಿ ಜಯಿಸಿರಿ! ಎಲೈ ಇಂದ್ರನೇ, ಗೋವುಗಳಿಗಾಗಿ ನಡೆಯುವ ಹೋರಾಟದಲ್ಲಿ ನೀವು ಮೂರು ಪಟ್ಟು ಸಂಪತ್ತನ್ನು ಪಡೆಯುತ್ತೀರಿ. ದಯವಿಟ್ಟು ನಮಗೆ ಸ್ವರ್ಗದಂತೆ ಪ್ರಕಾಶಮಾನವಾದ ತೇಜಸ್ಸನ್ನು ದಯಪಾಲಿಸಿ.",
+      "rig_time_s": 14.537,
+      "Insight_en": "The mantra speaks to the inherent human desire for victory and the divine assistance sought in overcoming adversaries. It is not merely a call for physical triumph but a deeper yearning for spiritual and material prosperity, symbolized by the threefold wealth (त्रिधातु) and heavenly splendor (स्व:). The inner battle against ignorance and ego requires the grace of Indra, representing the power of consciousness to dispel darkness and bestow enlightenment.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ವಿಜಯಕ್ಕಾಗಿ ಅಂತರ್ಗತ ಮಾನವ ಬಯಕೆಯನ್ನು ಮತ್ತು ವಿರೋಧಿಗಳನ್ನು ಜಯಿಸಲು ಕೋರುವ ದೈವಿಕ ಸಹಾಯವನ್ನು ಹೇಳುತ್ತದೆ. ಇದು ಕೇವಲ ಭೌತಿಕ ವಿಜಯಕ್ಕಾಗಿ ಕರೆ ನೀಡುತ್ತಿಲ್ಲ ಆದರೆ ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ಭೌತಿಕ ಸಮೃದ್ಧಿಗಾಗಿ ಆಳವಾದ ಹಾತೊರೆಯುವಿಕೆಯಾಗಿದೆ, ಇದನ್ನು ಮೂರು ಪಟ್ಟು ಸಂಪತ್ತು (ತ್ರಿಧಾತು) ಮತ್ತು ಸ್ವರ್ಗೀಯ ವೈಭವದಿಂದ (ಸ್ವ:) ಸಂಕೇತಿಸುತ್ತದೆ. ಅಜ್ಞಾನ ಮತ್ತು ಅಹಂಕಾರದ ವಿರುದ್ಧದ ಆಂತರಿಕ ಯುದ್ಧಕ್ಕೆ ಇಂದ್ರನ ಅನುಗ್ರಹದ ಅಗತ್ಯವಿದೆ, ಇದು ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸಲು ಮತ್ತು ಜ್ಞಾನೋದಯವನ್ನು ನೀಡಲು ಪ್ರಜ್ಞೆಯ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S35_75-3_5",
+      "mandala": 6,
+      "sukta": 35,
+      "ric_index": 3,
+      "rig_lines": [
+        "कर्हि॑ स्वि॒त्‌ तदि᳚न्द्र॒ यज्ज॑रि॒त्रे वि॒श्वप्सु॒ ब्रह्म॑ कृ॒णवः॑ शविष्ठ |",
+        "क॒दा धियो॒ न नि॒युतो᳚ युवासे क॒दा गोम॑घा॒ हव॑नानि गच्छाः ||"
+      ],
+      "pre_splits": [
+        "कर्हि॑",
+        "स्वि॒त्",
+        "तत्",
+        "इ॒न्द्र॒",
+        "यत्",
+        "ज॒रि॒त्रे",
+        "वि॒श्वऽप्सु॑",
+        "ब्रह्म॑",
+        "कृ॒णवः॑",
+        "श॒वि॒ष्ठ॒",
+        "क॒दा",
+        "धियः॑",
+        "न",
+        "नि॒ऽयुतः॑",
+        "यु॒वा॒से॒",
+        "क॒दा",
+        "गोऽम॑घा",
+        "हव॑नानि",
+        "ग॒च्छाः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "कर्हि॑",
+          "pada_kn": "ಕರ್ಹಿ",
+          "meaning_en": "When?",
+          "meaning_kn": "ಯಾವಾಗ?"
+        },
+        {
+          "pada_original": "स्वि॒त्",
+          "pada_kn": "ಸ್ವಿತ್",
+          "meaning_en": "Indeed / Pray tell",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "That",
+          "meaning_kn": "ಅದನ್ನು"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "Which / That",
+          "meaning_kn": "ಯಾವುದನ್ನು"
+        },
+        {
+          "pada_original": "ज॒रि॒त्रे",
+          "pada_kn": "ಜರಿತ್ರೆ",
+          "meaning_en": "For the singer / praiser",
+          "meaning_kn": "ಸ್ತುತಿಕಾರನಿಗೆ"
+        },
+        {
+          "pada_original": "वि॒श्वऽप्सु॑",
+          "pada_kn": "ವಿಶ್ವಪ್ಸು",
+          "meaning_en": "All-nourishing / Multiform",
+          "meaning_kn": "ಸರ್ವಪೋಷಕವಾದ / ನಾನಾರೂಪದ"
+        },
+        {
+          "pada_original": "ब्रह्म॑",
+          "pada_kn": "ಬ್ರಹ್ಮ",
+          "meaning_en": "Prayer / Spiritual food",
+          "meaning_kn": "ಸ್ತೋತ್ರವನ್ನು / ಅನ್ನವನ್ನು"
+        },
+        {
+          "pada_original": "कृ॒णवः॑",
+          "pada_kn": "ಕೃಣವಃ",
+          "meaning_en": "You will make / grant",
+          "meaning_kn": "ನೀನು ಮಾಡುವೆ / ನೀಡುವೆ"
+        },
+        {
+          "pada_original": "श॒वि॒ष्ठ॒",
+          "pada_kn": "ಶವಿಷ್ಠ",
+          "meaning_en": "O most powerful one",
+          "meaning_kn": "ಓ ಅತ್ಯಂತ ಬಲಿಷ್ಠನೇ"
+        },
+        {
+          "pada_original": "क॒दा",
+          "pada_kn": "ಕದಾ",
+          "meaning_en": "When?",
+          "meaning_kn": "ಯಾವಾಗ?"
+        },
+        {
+          "pada_original": "धियः॑",
+          "pada_kn": "ಧಿಯಃ",
+          "meaning_en": "Thoughts / Prayers",
+          "meaning_kn": "ಆಲೋಚನೆಗಳ / ಸ್ತುತಿಗಳ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "Like",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "नि॒ऽयुतः॑",
+          "pada_kn": "ನಿಯುತಃ",
+          "meaning_en": "Your team of horses",
+          "meaning_kn": "ನಿನ್ನ ಕುದುರೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "यु॒वा॒से॒",
+          "pada_kn": "ಯುವಾಸೇ",
+          "meaning_en": "You will yoke",
+          "meaning_kn": "ನೀನು ಹೂಡುವೆ"
+        },
+        {
+          "pada_original": "क॒दा",
+          "pada_kn": "ಕದಾ",
+          "meaning_en": "When?",
+          "meaning_kn": "ಯಾವಾಗ?"
+        },
+        {
+          "pada_original": "गोऽम॑घा",
+          "pada_kn": "ಗೋಮಘಾ",
+          "meaning_en": "Rich in cows / Bestowing cows",
+          "meaning_kn": "ಗೋವುಗಳಿಂದ ಸಮೃದ್ಧವಾದ"
+        },
+        {
+          "pada_original": "हव॑नानि",
+          "pada_kn": "ಹವನಾನಿ",
+          "meaning_en": "To the invocations / calls",
+          "meaning_kn": "ಕರೆಗಳಿಗೆ / ಆಹ್ವಾನಗಳಿಗೆ"
+        },
+        {
+          "pada_original": "ग॒च्छाः॒",
+          "pada_kn": "ಗಚ್ಛಾಃ",
+          "meaning_en": "You will go / come",
+          "meaning_kn": "ನೀನು ಬರುವೆ"
+        }
+      ],
+      "full_meaning_en": "O Indra, most powerful one, when will you bestow that all-sustaining prayer upon your devoted singer? When will you harness your thought-swift steeds? When will you grace our invocations that yearn for the bounty of cows?",
+      "full_meaning_kn": "ಓ ಶಕ್ತಿಶಾಲಿ ಇಂದ್ರನೇ, ಯಾವಾಗ ನೀನು ನಿನ್ನ ಭಕ್ತನಿಗೆ ಪೋಷಣೆಯನ್ನು ನೀಡುವ ಪ್ರಾರ್ಥನೆಯನ್ನು ದಯಪಾಲಿಸುವೆ? ಯಾವಾಗ ನೀನು ಮನಸ್ಸಿನ ವೇಗದ ಕುದುರೆಗಳನ್ನು ಹತೋಟಿಗೆ ತಂದುಕೊಳ್ಳುವೆ? ಹೇರಳವಾದ ಹಸುಗಳಿಗಾಗಿ ಹಾತೊರೆಯುವ ನಮ್ಮ ಪ್ರಾರ್ಥನೆಗಳನ್ನು ಯಾವಾಗ ಸ್ವೀಕರಿಸುವೆ?",
+      "rig_time_s": 29.162,
+      "Insight_en": "The yearning for divine grace is a constant inner invocation. The 'cows' represent abundance, not merely material wealth, but the richness of inner experience and spiritual insight. Indra's 'steeds' are the powers of the mind, requiring harnessing for focused devotion.",
+      "Insight_kn": "ದೈವಿಕ ಅನುಗ್ರಹಕ್ಕಾಗಿ ಹಾತೊರೆಯುವುದು ನಿರಂತರವಾದ ಆಂತರಿಕ ಪ್ರಾರ್ಥನೆಯಾಗಿದೆ. 'ಹಸುಗಳು' ಸಮೃದ್ಧಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಕೇವಲ ಭೌತಿಕ ಸಂಪತ್ತನ್ನಲ್ಲ, ಆಂತರಿಕ ಅನುಭವ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟದ ಶ್ರೀಮಂತಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಇಂದ್ರನ 'ಕುದುರೆಗಳು' ಮನಸ್ಸಿನ ಶಕ್ತಿಗಳಾಗಿವೆ, ಇವುಗಳನ್ನು ಕೇಂದ್ರೀಕೃತ ಭಕ್ತಿಗಾಗಿ ಹತೋಟಿಗೆ ತರಬೇಕಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S35_75-4_5",
+      "mandala": 6,
+      "sukta": 35,
+      "ric_index": 4,
+      "rig_lines": [
+        "स गोम॑घा जरि॒त्रे, अश्व॑श्चन्द्रा॒ वाज॑श्रवसो॒, अधि॑ धेहि॒ पृक्षः॑ |",
+        "पी॒पि॒हीषः॑ सु॒दुघा᳚मिन्द्र धे॒नुं भ॒रद्वा᳚जेषु सु॒रुचो᳚ रुरुच्याः ||"
+      ],
+      "pre_splits": [
+        "सः",
+        "गोऽम॑घाः",
+        "ज॒रि॒त्रे",
+        "अश्व॑ऽचन्द्राः",
+        "वाज॑ऽश्रवसः",
+        "अधि॑",
+        "धे॒हि॒",
+        "पृक्षः॑",
+        "पी॒पि॒हि",
+        "इषः॑",
+        "सु॒ऽदुघा᳚‌म्",
+        "इ॒न्द्र॒",
+        "धे॒नु‌म्",
+        "भ॒रत्ऽवा᳚जेषु",
+        "सु॒ऽरुचः॑",
+        "रु॒रु॒च्याः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He (that Indra)",
+          "meaning_kn": "ಅವನು (ಆ ಇಂದ್ರನು)"
+        },
+        {
+          "pada_original": "गोऽम॑घाः",
+          "pada_kn": "ಗೋಮಘಾಃ",
+          "meaning_en": "Giver of wealth in cows",
+          "meaning_kn": "ಗೋರೂಪದ ಸಂಪತ್ತನ್ನು ಕೊಡುವವನು"
+        },
+        {
+          "pada_original": "ज॒रि॒त्रे",
+          "pada_kn": "ಜರಿತ್ರೇ",
+          "meaning_en": "to the singer / praiser",
+          "meaning_kn": "ಸ್ತುತಿಕರ್ತನಿಗೆ"
+        },
+        {
+          "pada_original": "अश्व॑ऽचन्द्राः",
+          "pada_kn": "ಅಶ್ವಚಂದ್ರಾಃ",
+          "meaning_en": "Giver of delightful horses",
+          "meaning_kn": "ಆಹ್ಲಾದಕರವಾದ ಅಶ್ವಗಳನ್ನು ಕೊಡುವವನು"
+        },
+        {
+          "pada_original": "वाज॑ऽश्रवसः",
+          "pada_kn": "ವಾಜಶ್ರವಸಃ",
+          "meaning_en": "Giver of food and fame",
+          "meaning_kn": "ಅನ್ನ ಮತ್ತು ಕೀರ್ತಿಯನ್ನು ಕೊಡುವವನು"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon / over",
+          "meaning_kn": "ಮೇಲೆ / ಅಧಿ"
+        },
+        {
+          "pada_original": "धे॒हि॒",
+          "pada_kn": "ಧೇಹಿ",
+          "meaning_en": "grant / bestow",
+          "meaning_kn": "ನೀಡು / ಅನುಗ್ರಹಿಸು"
+        },
+        {
+          "pada_original": "पृक्षः॑",
+          "pada_kn": "ಪೃಕ್ಷಃ",
+          "meaning_en": "food / nourishment",
+          "meaning_kn": "ಅನ್ನವನ್ನು / ಪೋಷಣೆಯನ್ನು"
+        },
+        {
+          "pada_original": "पी॒पि॒हि",
+          "pada_kn": "ಪೀಪಿಹಿ",
+          "meaning_en": "make abundant / cause to swell",
+          "meaning_kn": "ಸಮೃದ್ಧಗೊಳಿಸು"
+        },
+        {
+          "pada_original": "इषः॑",
+          "pada_kn": "ಇಷಃ",
+          "meaning_en": "food / strength",
+          "meaning_kn": "ಅನ್ನವನ್ನು / ಶಕ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "सु॒ऽदुघा᳚‌म्",
+          "pada_kn": "ಸುದುಘಾಮ್",
+          "meaning_en": "easy to milk / abundantly yielding",
+          "meaning_kn": "ಸುಲಭವಾಗಿ ಕರೆಯುವ / ಸಮೃದ್ಧವಾಗಿ ಕೊಡುವ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರ"
+        },
+        {
+          "pada_original": "धे॒नु‌म्",
+          "pada_kn": "ಧೇನುಮ್",
+          "meaning_en": "the cow (of plenty)",
+          "meaning_kn": "ಧೇನುವನ್ನು (ಕಾಮಧೇನುವನ್ನು)"
+        },
+        {
+          "pada_original": "भ॒रत्ऽवा᳚जेषु",
+          "pada_kn": "ಭರದ್ವಾಜೇಷು",
+          "meaning_en": "among the Bharadvajas",
+          "meaning_kn": "ಭರದ್ವಾಜರಲ್ಲಿ"
+        },
+        {
+          "pada_original": "सु॒ऽरुचः॑",
+          "pada_kn": "ಸುರುಚಃ",
+          "meaning_en": "bright splendors",
+          "meaning_kn": "ಉತ್ತಮವಾದ ಕಾಂತಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "रु॒रु॒च्याः॒",
+          "pada_kn": "ರುರುಚ್ಯಾಃ",
+          "meaning_en": "make (them) shine brightly",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುವಂತೆ ಮಾಡು"
+        }
+      ],
+      "full_meaning_en": "O Indra, bestower of wealth in cows, radiant horses, sustenance, and renown, grant nourishment to this worshipper. Swell our offerings, like an easily milked, bountiful cow. Among the Bharadvajas, may brilliant splendors shine forth.",
+      "full_meaning_kn": "ಎಲೈ ಇಂದ್ರನೆ, ಗೋವುಗಳಲ್ಲಿ ಸಂಪತ್ತನ್ನು ನೀಡುವವನೇ, ಕಾಂತಿಯುಕ್ತ ಕುದುರೆಗಳೇ, ಆಹಾರವೇ, ಮತ್ತು ಕೀರ್ತಿಯೇ, ಈ ಆರಾಧಕನಿಗೆ ಪೋಷಣೆಯನ್ನು ದಯಪಾಲಿಸು. ಸುಲಭವಾಗಿ ಹಾಲು ಕರೆಯುವ, ಸಮೃದ್ಧ ಹಸುವಿನಂತೆ ನಮ್ಮ ಕೊಡುಗೆಗಳನ್ನು ಹಿಗ್ಗಿಸು. ಭರದ್ವಾಜರಲ್ಲಿ, ಅದ್ಭುತ ತೇಜಸ್ಸುಗಳು ಹೊಳೆಯಲಿ.",
+      "rig_time_s": 42.084,
+      "Insight_en": "The inner cow (धेनु) represents the faculty of abundance within. By invoking Indra, the power of consciousness, we seek to milk this inner cow, drawing forth inspiration, vitality, and the radiant light (रुचि) of awakened awareness. The Bharadvajas symbolize those striving for deeper wisdom, for whom this inner light is sought.",
+      "Insight_kn": "ಆಂತರಿಕ ಗೋವು (ಧೇನು) ಒಳಗಿನ ಸಮೃದ್ಧಿಯ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇಂದ್ರನನ್ನು, ಪ್ರಜ್ಞೆಯ ಶಕ್ತಿಯನ್ನು ಆಹ್ವಾನಿಸುವ ಮೂಲಕ, ನಾವು ಈ ಆಂತರಿಕ ಹಸುವನ್ನು ಕರೆಯಲು ಬಯಸುತ್ತೇವೆ, ಸ್ಫೂರ್ತಿ, ಚೈತನ್ಯ ಮತ್ತು ಜಾಗೃತ ಅರಿವಿನ ಪ್ರಕಾಶಮಾನವಾದ ಬೆಳಕನ್ನು (ರುಚಿ) ಹೊರತೆಗೆಯುತ್ತೇವೆ. ಭರದ್ವಾಜರು ಆಳವಾದ ಜ್ಞಾನಕ್ಕಾಗಿ ಶ್ರಮಿಸುವವರನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ, ಅವರಿಗಾಗಿ ಈ ಆಂತರಿಕ ಬೆಳಕನ್ನು ಬಯಸಲಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S35_75-5_5",
+      "mandala": 6,
+      "sukta": 35,
+      "ric_index": 5,
+      "rig_lines": [
+        "तमा नू॒नं वृ॒जन॑म॒न्यथा᳚ चि॒च्छूरो॒ यच्छ॑क्र॒ वि दुरो᳚ गृणी॒षे |",
+        "मा निर॑रं शुक्र॒दुघ॑स्य धे॒नोरा᳚ङ्गिर॒सान्‌ ब्रह्म॑णा विप्र जिन्व ||"
+      ],
+      "pre_splits": [
+        "त‌म्",
+        "आ",
+        "नू॒न‌म्",
+        "वृ॒जन᳚‌म्",
+        "अ॒न्यथा᳚",
+        "चि॒त्",
+        "शूरः॑",
+        "यत्",
+        "श॒क्र॒",
+        "वि",
+        "दुरः॑",
+        "गृ॒णी॒षे",
+        "मा",
+        "निः",
+        "अ॒र॒‌म्",
+        "शु॒क्र॒ऽदुघ॑स्य",
+        "धे॒नोः",
+        "आ॒ङ्गि॒र॒सान्",
+        "ब्रह्म॑णा",
+        "वि॒प्र॒",
+        "जि॒न्व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "that",
+          "meaning_kn": "ಆ (ಶತ್ರುಬಲವನ್ನು)"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "indeed",
+          "meaning_kn": "ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "नू॒न‌म्",
+          "pada_kn": "ನೂನಮ್",
+          "meaning_en": "now",
+          "meaning_kn": "ಈಗ"
+        },
+        {
+          "pada_original": "वृ॒जन᳚‌म्",
+          "pada_kn": "ವೃಜನಮ್",
+          "meaning_en": "hostile force / enclosure",
+          "meaning_kn": "ಶತ್ರುಬಲವನ್ನು / ಆವರಣವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒न्यथा᳚",
+          "pada_kn": "ಅನ್ಯಥಾ",
+          "meaning_en": "otherwise",
+          "meaning_kn": "ಬೇರೆ ರೀತಿಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "even",
+          "meaning_kn": "ಕೂಡ"
+        },
+        {
+          "pada_original": "शूरः॑",
+          "pada_kn": "ಶೂರಃ",
+          "meaning_en": "the hero",
+          "meaning_kn": "ಶೂರನಾದ (ನೀನು)"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "श॒क्र॒",
+          "pada_kn": "ಶಕ್ರ",
+          "meaning_en": "O Śakra / O mighty one",
+          "meaning_kn": "ಓ ಶಕ್ರನೇ / ಶಕ್ತಿವಂತನೇ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "open (preverb)",
+          "meaning_kn": "ತೆರೆ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "दुरः॑",
+          "pada_kn": "ದುರಃ",
+          "meaning_en": "the doors",
+          "meaning_kn": "ದ್ವಾರಗಳನ್ನು"
+        },
+        {
+          "pada_original": "गृ॒णी॒षे",
+          "pada_kn": "ಗೃಣೀಷೇ",
+          "meaning_en": "you sing open / you praise",
+          "meaning_kn": "ನೀನು ಸ್ತುತಿಯಿಂದ ತೆರೆಯುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "not (prohibitive)",
+          "meaning_kn": "ಬೇಡ"
+        },
+        {
+          "pada_original": "निः",
+          "pada_kn": "ನಿಃ",
+          "meaning_en": "away from (preverb)",
+          "meaning_kn": "ದೂರ"
+        },
+        {
+          "pada_original": "अ॒र॒‌म्",
+          "pada_kn": "ಅರಮ್",
+          "meaning_en": "may I be separated",
+          "meaning_kn": "ನಾನು ದೂರವಾಗಲಿ"
+        },
+        {
+          "pada_original": "शु॒क्र॒ऽदुघ॑स्य",
+          "pada_kn": "ಶುಕ್ರದುಘಸ್ಯ",
+          "meaning_en": "of the one yielding bright liquid",
+          "meaning_kn": "ಶುಭ್ರವಾದ ರಸವನ್ನು ಕರೆಯುವ"
+        },
+        {
+          "pada_original": "धे॒नोः",
+          "pada_kn": "ಧೇನೋಃ",
+          "meaning_en": "of the milch-cow",
+          "meaning_kn": "ಧೇನುವಿನಿಂದ / ಹಸುವಿನಿಂದ"
+        },
+        {
+          "pada_original": "आ॒ङ्गि॒र॒सान्",
+          "pada_kn": "ಆಙ್ಗಿರಸಾನ್",
+          "meaning_en": "the Angirases",
+          "meaning_kn": "ಅಂಗಿರಸರನ್ನು"
+        },
+        {
+          "pada_original": "ब्रह्म॑णा",
+          "pada_kn": "ಬ್ರಹ್ಮಣಾ",
+          "meaning_en": "with the sacred word / prayer",
+          "meaning_kn": "ಸ್ತೋತ್ರದಿಂದ / ಮಂತ್ರದಿಂದ"
+        },
+        {
+          "pada_original": "वि॒प्र॒",
+          "pada_kn": "ವಿಪ್ರ",
+          "meaning_en": "O wise one / O inspired one",
+          "meaning_kn": "ಓ ಜ್ಞಾನಿಯೇ"
+        },
+        {
+          "pada_original": "जि॒न्व॒",
+          "pada_kn": "ಜಿನ್ವ",
+          "meaning_en": "invigorate / gladden",
+          "meaning_kn": "ಚೈತನ್ಯಗೊಳಿಸು / ಪ್ರೇರೇಪಿಸು"
+        }
+      ],
+      "full_meaning_en": "O mighty Śakra, valiant Hero, when you resoundingly unlock the gates (of abundance), confront that inimical force now and decisively. May I never be severed from the bountiful cow yielding radiant blessings. O inspired seer, invigorate the Angirasas with your sacred incantation.",
+      "full_meaning_kn": "ಓ ಶಕ್ತಿಯುತ ಶಕ್ರ, ಧೀರನೇ, ನೀನು ಸಮೃದ್ಧಿಯ ದ್ವಾರಗಳನ್ನು ತೆರೆದಾಗ, ಆ ವಿರೋಧಿ ಶಕ್ತಿಯನ್ನು ಈಗಲೇ ನಿರ್ಣಾಯಕವಾಗಿ ಎದುರಿಸು. ಪ್ರಕಾಶಮಾನವಾದ ಆಶೀರ್ವಾದಗಳನ್ನು ನೀಡುವ ಸಮೃದ್ಧ ಹಸುವಿನಿಂದ ನಾನು ಎಂದಿಗೂ ಬೇರ್ಪಡಬಾರದು. ಓ ಪ್ರೇರಿತ ದ್ರಷ್ಟಾರ, ನಿಮ್ಮ ಪವಿತ್ರ ಮಂತ್ರದಿಂದ ಅಂಗಿರಸರನ್ನು ಬಲಪಡಿಸಿ.",
+      "rig_time_s": 55.743,
+      "Insight_en": "The mantra speaks to the immediate need to confront negativity and obstacles (represented by the 'inimical force'). The 'bountiful cow' symbolizes inner resources and divine grace, essential for spiritual progress. Invigorating the Angirasas represents the strengthening of inner faculties and the lineage of wisdom through devotion and sacred sound. The doors of abundance are opened through focused intention and unwavering commitment to truth. Śakra represents the power to overcome obstacles, and the Hero embodies courage in spiritual pursuit.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ನಕಾರಾತ್ಮಕತೆ ಮತ್ತು ಅಡೆತಡೆಗಳನ್ನು ಎದುರಿಸುವ ತಕ್ಷಣದ ಅಗತ್ಯವನ್ನು ಹೇಳುತ್ತದೆ ('ವಿರೋಧಿ ಶಕ್ತಿ'ಯಿಂದ ಪ್ರತಿನಿಧಿಸಲ್ಪಡುತ್ತದೆ). 'ಸಮೃದ್ಧ ಹಸು' ಆಂತರಿಕ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅವಶ್ಯಕವಾಗಿದೆ. ಅಂಗಿರಸರನ್ನು ಬಲಪಡಿಸುವುದು ಆಂತರಿಕ ಸಾಮರ್ಥ್ಯಗಳ ಬಲವರ್ಧನೆ ಮತ್ತು ಭಕ್ತಿ ಮತ್ತು ಪವಿತ್ರ ಧ್ವನಿಯ ಮೂಲಕ ಜ್ಞಾನದ ವಂಶವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಕೇಂದ್ರೀಕೃತ ಉದ್ದೇಶ ಮತ್ತು ಸತ್ಯಕ್ಕೆ ಅಚಲ ಬದ್ಧತೆಯ ಮೂಲಕ ಸಮೃದ್ಧಿಯ ಬಾಗಿಲು ತೆರೆಯಲ್ಪಡುತ್ತದೆ. ಶಕ್ರನು ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸುವ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ ಮತ್ತು ವೀರನು ಆಧ್ಯಾತ್ಮಿಕ ಅನ್ವೇಷಣೆಯಲ್ಲಿ ಧೈರ್ಯವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

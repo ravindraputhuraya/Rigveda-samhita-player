@@ -1,0 +1,657 @@
+{
+  "mandala": 3,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M3-S21_62-1_5",
+      "mandala": 3,
+      "sukta": 21,
+      "ric_index": 1,
+      "rig_lines": [
+        "इ॒मं नो᳚ य॒ज्ञम॒मृते᳚षु धेही॒मा ह॒व्या जा᳚तवेदो जुषस्व |",
+        "स्तो॒काना᳚मग्ने॒ मेद॑सो घृ॒तस्य॒ होतः॒ प्राशा᳚न प्रथ॒मो नि॒षद्य॑ ||"
+      ],
+      "pre_splits": [
+        "इ॒म‌म्",
+        "नः॒",
+        "य॒ज्ञ‌म्",
+        "अ॒मृते᳚षु",
+        "धे॒हि॒",
+        "ई॒मा",
+        "ह॒व्या",
+        "जा॒त॒ऽवे॒दः॒",
+        "जु॒ष॒स्व॒",
+        "स्तो॒काना᳚‌म्",
+        "अ॒ग्ने॒",
+        "मेद॑सः",
+        "घृ॒तस्य॑",
+        "होत॒रिति॑",
+        "प्र",
+        "अ॒शा॒न॒",
+        "प्र॒थ॒मः",
+        "नि॒ऽसद्य॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इ॒म‌म्",
+          "pada_kn": "ಇಮಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "our",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "य॒ज्ञ‌म्",
+          "pada_kn": "ಯಜ್ಞಮ್",
+          "meaning_en": "sacrifice",
+          "meaning_kn": "ಯಜ್ಞವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒मृते᳚षु",
+          "pada_kn": "ಅಮೃತೇಷು",
+          "meaning_en": "among the immortals/gods",
+          "meaning_kn": "ಅಮರರಲ್ಲಿ/ದೇವತೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "धे॒हि॒",
+          "pada_kn": "ಧೇಹಿ",
+          "meaning_en": "place/establish",
+          "meaning_kn": "ಸ್ಥಾಪಿಸು/ಇಡು"
+        },
+        {
+          "pada_original": "ई॒मा",
+          "pada_kn": "ಈಮಾ",
+          "meaning_en": "these",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "ह॒व्या",
+          "pada_kn": "ಹವ್ಯಾ",
+          "meaning_en": "oblations",
+          "meaning_kn": "ಹವಿಸ್ಸುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "जा॒त॒ऽवे॒दः॒",
+          "pada_kn": "ಜಾತವೇದಃ",
+          "meaning_en": "O Jātavedas (Agni)",
+          "meaning_kn": "ಓ ಜಾತವೇದನೇ (ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "जु॒ष॒स्व॒",
+          "pada_kn": "ಜುಷಸ್ವ",
+          "meaning_en": "accept/enjoy",
+          "meaning_kn": "ಸ್ವೀಕರಿಸು/ಸೇವಿಸು"
+        },
+        {
+          "pada_original": "स्तो॒काना᳚‌म्",
+          "pada_kn": "ಸ್ತೋಕಾನಾಮ್",
+          "meaning_en": "of drops",
+          "meaning_kn": "ಹನಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अ॒ग्ने॒",
+          "pada_kn": "ಅಗ್ನೇ",
+          "meaning_en": "O Agni",
+          "meaning_kn": "ಓ ಅಗ್ನಿ"
+        },
+        {
+          "pada_original": "मेद॑सः",
+          "pada_kn": "ಮೇದಸಃ",
+          "meaning_en": "of fat/marrow",
+          "meaning_kn": "ಕೊಬ್ಬಿನ/ಮೇದಸ್ಸಿನ"
+        },
+        {
+          "pada_original": "घृ॒तस्य॑",
+          "pada_kn": "ಘೃತಸ್ಯ",
+          "meaning_en": "of ghee",
+          "meaning_kn": "ತುಪ್ಪದ"
+        },
+        {
+          "pada_original": "होत॒रिति॑",
+          "pada_kn": "ಹೋತರಿತಿ",
+          "meaning_en": "O Hotar (invoker/priest)",
+          "meaning_kn": "ಓ ಹೋತೃವೇ (ಆಹ್ವಾನಿಸುವವನೇ/ಪುರೋಹಿತನೇ)"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth/well",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ/ಮುಂದೆ"
+        },
+        {
+          "pada_original": "अ॒शा॒न॒",
+          "pada_kn": "ಅಶಾನ",
+          "meaning_en": "consume/eat",
+          "meaning_kn": "ಭುಂಜಿಸು/ತಿನ್ನು"
+        },
+        {
+          "pada_original": "प्र॒थ॒मः",
+          "pada_kn": "ಪ್ರಥಮಃ",
+          "meaning_en": "first",
+          "meaning_kn": "ಮೊದಲಾಗಿ"
+        },
+        {
+          "pada_original": "नि॒ऽसद्य॑",
+          "pada_kn": "ನಿಸದ್ಯ",
+          "meaning_en": "having sat down/being seated",
+          "meaning_kn": "ಆಸೀನನಾಗಿ/ಕುಳಿತುಕೊಂಡು"
+        }
+      ],
+      "full_meaning_en": "O Agni, knower of all that is born, place this our sacrifice among the immortals; accept these offerings. O Agni, O Hotar, having seated yourself first, partake of these scant drops of fat and ghee.",
+      "full_meaning_kn": "ಎಲೈ ಜಾತವೇದಸಾಗ್ನಿಯೇ, ಈ ನಮ್ಮ ಯಜ್ಞವನ್ನು ಅಮರರಲ್ಲಿ ಸ್ಥಾಪಿಸು; ಈ ಹವಿಸ್ಸುಗಳನ್ನು ಸ್ವೀಕರಿಸು. ಓ ಅಗ್ನಿಯೇ, ಓ ಹೋತಾರನೇ, ಮೊದಲು ಕುಳಿತುಕೊಂಡು, ಈ ಕೊಬ್ಬಿನ ಮತ್ತು ತುಪ್ಪದ ಸಣ್ಣ ಹನಿಗಳನ್ನು ಸವಿಯಾಗಿ ಭುಜಿಸು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The individual's offering to अग्नि represents the aspiration to elevate their कर्म to the realm of immortality (अमृत). Through surrender and devotion, even the smallest offerings of intention (fat and ghee) can be transformed into profound spiritual nourishment. The 'first seat' signifies the priority of inner contemplation before outward action.",
+      "Insight_kn": "ವ್ಯಕ್ತಿಯು ಅಗ್ನಿಗೆ ಅರ್ಪಿಸುವ ಅರ್ಪಣೆಯು ತನ್ನ ಕರ್ಮವನ್ನು ಅಮರತ್ವದ (ಅಮೃತ) ಕ್ಷೇತ್ರಕ್ಕೆ ಏರಿಸುವ ಬಯಕೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಶರಣಾಗತಿ ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ, ಸಣ್ಣ ಪ್ರಮಾಣದ ಉದ್ದೇಶಗಳನ್ನೂ (ಕೊಬ್ಬು ಮತ್ತು ತುಪ್ಪ) ಸಹ ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಪೋಷಣೆಯಾಗಿ ಪರಿವರ್ತಿಸಬಹುದು. 'ಮೊದಲ ಆಸನ'ವು ಬಾಹ್ಯ ಕ್ರಿಯೆಗಿಂತ ಮೊದಲು ಆಂತರಿಕ ಚಿಂತನೆಯ ಆದ್ಯತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S21_62-2_5",
+      "mandala": 3,
+      "sukta": 21,
+      "ric_index": 2,
+      "rig_lines": [
+        "घृ॒तव᳚न्तः पावक ते स्तो॒काः श्चो᳚तन्ति॒ मेद॑सः |",
+        "स्वध᳚र्मन्‌ दे॒ववी᳚तये॒ श्रेष्ठं᳚ नो धेहि॒ वार्य᳚म् ||"
+      ],
+      "pre_splits": [
+        "घृ॒तऽव᳚न्तः",
+        "पा॒व॒क॒",
+        "ते॒",
+        "स्तो॒काः",
+        "श्चो॒त॒न्ति॒",
+        "मेद॑सः",
+        "स्वऽध᳚र्मन्",
+        "दे॒वऽवी᳚तये",
+        "श्रेष्ठ᳚‌म्",
+        "नः॒",
+        "धे॒हि॒",
+        "वार्य᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "घृ॒तऽव᳚न्तः",
+          "pada_kn": "ಘೃತವನ್ತಃ",
+          "meaning_en": "full of ghee / rich in clarified butter",
+          "meaning_kn": "ತುಪ್ಪದಿಂದ ಕೂಡಿದ / ತುಪ್ಪಭರಿತ"
+        },
+        {
+          "pada_original": "पा॒व॒क॒",
+          "pada_kn": "ಪಾವಕ",
+          "meaning_en": "O Purifier (Agni)",
+          "meaning_kn": "ಓ ಪಾವಕನೇ / ಶುದ್ಧೀಕರಿಸುವ ಅಗ್ನಿಯೇ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your (referring to Agni)",
+          "meaning_kn": "ನಿನ್ನ / ನಿನ್ನವು"
+        },
+        {
+          "pada_original": "स्तो॒काः",
+          "pada_kn": "ಸ್ತೋಕಾಃ",
+          "meaning_en": "drops (of ghee)",
+          "meaning_kn": "ಹನಿಗಳು / ಬಿಂದುಗಳು"
+        },
+        {
+          "pada_original": "श्चो॒त॒न्ति॒",
+          "pada_kn": "ಶ್ಚೋತನ್ತಿ",
+          "meaning_en": "drip / flow",
+          "meaning_kn": "ಸುರಿಯುತ್ತವೆ / ಹರಿಯುತ್ತವೆ"
+        },
+        {
+          "pada_original": "मेद॑सः",
+          "pada_kn": "ಮೇದಸಃ",
+          "meaning_en": "of fat / of essence (from the offering)",
+          "meaning_kn": "ಮೇದಸ್ಸಿನ / ಸಾರದ"
+        },
+        {
+          "pada_original": "स्वऽध᳚र्मन्",
+          "pada_kn": "ಸ್ವಧರ್ಮನ್",
+          "meaning_en": "O upholder of your own law / O one whose nature is to sustain",
+          "meaning_kn": "ಓ ಸ್ವಧರ್ಮನೇ / ತನ್ನ ಧರ್ಮವನ್ನು ಪಾಲಿಸುವವನೇ"
+        },
+        {
+          "pada_original": "दे॒वऽवी᳚तये",
+          "pada_kn": "ದೇವವೀತಯೇ",
+          "meaning_en": "for the gods' enjoyment / for the gods' feast",
+          "meaning_kn": "ದೇವತೆಗಳ ಭೋಜನಕ್ಕಾಗಿ / ದೇವತೆಗಳ ಸಂತೃಪ್ತಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "श्रेष्ठ᳚‌म्",
+          "pada_kn": "ಶ್ರೇಷ್ಠಮ್",
+          "meaning_en": "best / most excellent",
+          "meaning_kn": "ಶ್ರೇಷ್ಠವಾದ / ಅತ್ಯುತ್ತಮವಾದ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ / ನಮ್ಮೆಲ್ಲರಿಗೆ"
+        },
+        {
+          "pada_original": "धे॒हि॒",
+          "pada_kn": "ಧೇಹಿ",
+          "meaning_en": "bestow / grant",
+          "meaning_kn": "ನೀಡು / ಅನುಗ್ರಹಿಸು"
+        },
+        {
+          "pada_original": "वार्य᳚‌म्",
+          "pada_kn": "ವಾರ್‍ಯಮ್",
+          "meaning_en": "choicest blessings / desirable wealth",
+          "meaning_kn": "ಅಪೇಕ್ಷಣೀಯ ಸಂಪತ್ತು / ಶ್ರೇಷ್ಠ ವರ"
+        }
+      ],
+      "full_meaning_en": "O Purifier Agni, your drops of ghee, rich with essence, flow forth. O Agni, upholder of your own nature, for the enjoyment of the gods, bestow upon us the most excellent and desirable blessings.",
+      "full_meaning_kn": "ಓ ಪಾವಕ ಅಗ್ನಿಯೇ, ಸಾರಭೂತವಾದ ತುಪ್ಪದ ಹನಿಗಳು ನಿನ್ನಿಂದ ಹೊರಹೊಮ್ಮುತ್ತವೆ. ಓ ಸ್ವಧರ್ಮನ್, ದೇವತೆಗಳ ಆನಂದಕ್ಕಾಗಿ, ಅತ್ಯುತ್ತಮವಾದ ಮತ್ತು ಅಪೇಕ್ಷಣೀಯವಾದ ವರಗಳನ್ನು ನಮಗೆ ದಯಪಾಲಿಸು.",
+      "rig_time_s": 14.66,
+      "Insight_en": "The essence of purification (अग्नि) manifests as the flow of nourishing grace. By upholding our true nature (स्वधर्म), we invite divine bliss and receive the most precious blessings.",
+      "Insight_kn": "ಶುದ್ಧೀಕರಣದ ಸಾರ (ಅಗ್ನಿ) ಪೋಷಿಸುವ ಅನುಗ್ರಹದ ಹರಿವಾಗಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ. ನಮ್ಮ ನಿಜವಾದ ಸ್ವರೂಪವನ್ನು (ಸ್ವಧರ್ಮ) ಎತ್ತಿಹಿಡಿಯುವ ಮೂಲಕ, ನಾವು ದೈವಿಕ ಆನಂದವನ್ನು ಆಹ್ವಾನಿಸುತ್ತೇವೆ ಮತ್ತು ಅತ್ಯಮೂಲ್ಯವಾದ ಆಶೀರ್ವಾದಗಳನ್ನು ಪಡೆಯುತ್ತೇವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S21_62-3_5",
+      "mandala": 3,
+      "sukta": 21,
+      "ric_index": 3,
+      "rig_lines": [
+        "तुभ्यं᳚ स्तो॒का घृ॑त॒श्चुतोऽग्ने॒ विप्रा᳚य सन्त्य |",
+        "ऋषिः॒ श्रेष्ठः॒ समि॑ध्यसे य॒ज्ञस्य॑ प्रावि॒ता भ॑व ||"
+      ],
+      "pre_splits": [
+        "तुभ्य᳚‌म्",
+        "स्तो॒काः",
+        "घृ॒त॒ऽश्चुतः॑",
+        "अग्ने᳚",
+        "विप्रा᳚य",
+        "स॒न्त्य॒",
+        "ऋषिः॑",
+        "श्रेष्ठः॑",
+        "स‌म्",
+        "इ॒ध्य॒से॒",
+        "य॒ज्ञस्य॑",
+        "प्र॒।आ॒वि॒ता",
+        "भ॒व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "तुभ्य᳚‌म्",
+          "pada_kn": "ತುಭ್ಯಮ್",
+          "meaning_en": "To you / For you",
+          "meaning_kn": "ನಿನಗೆ / ನಿನಗಾಗಿ"
+        },
+        {
+          "pada_original": "स्तो॒काः",
+          "pada_kn": "ಸ್ತೋಕಾಃ",
+          "meaning_en": "drops (of ghee)",
+          "meaning_kn": "ಹನಿಗಳು / ಬಿಂದುಗಳು"
+        },
+        {
+          "pada_original": "घृ॒त॒ऽश्चुतः॑",
+          "pada_kn": "ಘೃತಶ್ಚುತಃ",
+          "meaning_en": "dripping ghee / flowing with clarified butter",
+          "meaning_kn": "ತುಪ್ಪ ಸುರಿಯುವ / ತುಪ್ಪದಿಂದ ತೊಟ್ಟಿಕ್ಕುವ"
+        },
+        {
+          "pada_original": "अग्ने᳚",
+          "pada_kn": "ಅಗ್ನೇ",
+          "meaning_en": "O Agni / O Fire",
+          "meaning_kn": "ಅಗ್ನಿಯೇ / ಅಗ್ನಿ ದೇವನೇ"
+        },
+        {
+          "pada_original": "विप्रा᳚य",
+          "pada_kn": "ವಿಪ್ರಾಯ",
+          "meaning_en": "to the inspired one / to the wise one (Agni)",
+          "meaning_kn": "ವಿಪ್ರನಾದವನಿಗೆ / ಜ್ಞಾನಿಯಾದವನಿಗೆ (ಅಗ್ನಿಗೆ)"
+        },
+        {
+          "pada_original": "स॒न्त्य॒",
+          "pada_kn": "ಸನ್ತ್ಯ",
+          "meaning_en": "O benevolent one / O truly existing one",
+          "meaning_kn": "ಸತ್ಯನಾದವನೇ / ಸಜ್ಜನನೇ"
+        },
+        {
+          "pada_original": "ऋषिः॑",
+          "pada_kn": "ಋಷಿಃ",
+          "meaning_en": "a seer / a sage",
+          "meaning_kn": "ಋಷಿ / ದ್ರಷ್ಟಾರ"
+        },
+        {
+          "pada_original": "श्रेष्ठः॑",
+          "pada_kn": "ಶ್ರೇಷ್ಠಃ",
+          "meaning_en": "most excellent / supreme",
+          "meaning_kn": "ಶ್ರೇಷ್ಠ / ಉತ್ತಮ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "well / completely (prefix)",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "इ॒ध्य॒से॒",
+          "pada_kn": "ಇಧ್ಯಸೇ",
+          "meaning_en": "you are kindled / you are inflamed",
+          "meaning_kn": "ಪ್ರಜ್ವಲಿಸಲ್ಪಡುತ್ತೀಯೆ / ಹೊತ್ತಿಸಲ್ಪಡುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "य॒ज्ञस्य॑",
+          "pada_kn": "ಯಜ್ಞಸ್ಯ",
+          "meaning_en": "of the sacrifice / of the ritual",
+          "meaning_kn": "ಯಜ್ಞದ / ಯಾಗದ"
+        },
+        {
+          "pada_original": "प्र॒।आ॒वि॒ता",
+          "pada_kn": "ಪ್ರಾವಿತಾ",
+          "meaning_en": "protector / guardian",
+          "meaning_kn": "ರಕ್ಷಕ / ಪಾಲಕ"
+        },
+        {
+          "pada_original": "भ॒व॒",
+          "pada_kn": "ಭವ",
+          "meaning_en": "be / become",
+          "meaning_kn": "ಆಗು / ಇರು"
+        }
+      ],
+      "full_meaning_en": "O Agni, the wise one, these drops of clarified butter are offered to you. You are kindled as the most excellent seer. Be the protector of this sacrifice.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ಜ್ಞಾನವುಳ್ಳವನೇ, ಈ ತುಪ್ಪದ ಹನಿಗಳು ನಿನಗಾಗಿ ಅರ್ಪಿತವಾಗಿವೆ. ಅತ್ಯಂತ ಶ್ರೇಷ್ಠ ದ್ರಷ್ಟಾರನಾಗಿ ನಿನ್ನನ್ನು ಬೆಳಗಿಸಲಾಗುತ್ತದೆ. ಈ ಯಜ್ಞದ ರಕ್ಷಕನಾಗು.",
+      "rig_time_s": 27.911,
+      "Insight_en": "Agni represents the divine will and transformative power within. The offering of ghee symbolizes the purification of thoughts and emotions. Kindling Agni as the 'most excellent seer' signifies the awakening of inner wisdom. By becoming the protector of the sacrifice (yajna), one safeguards the journey of self-discovery from external disturbances and internal negativity.",
+      "Insight_kn": "ಅಗ್ನಿ ದೈವಿಕ ಇಚ್ಛಾಶಕ್ತಿ ಮತ್ತು ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ತುಪ್ಪದ ಅರ್ಪಣೆಯು ಆಲೋಚನೆಗಳು ಮತ್ತು ಭಾವನೆಗಳ ಶುದ್ಧೀಕರಣವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. 'ಅತ್ಯಂತ ಶ್ರೇಷ್ಠ ದ್ರಷ್ಟಾರ'ನಾಗಿ ಅಗ್ನಿಯನ್ನು ಬೆಳಗಿಸುವುದು ಆಂತರಿಕ ಜ್ಞಾನದ ಜಾಗೃತಿಗೆ ಸೂಚಿಸುತ್ತದೆ. ಯಜ್ಞದ ರಕ್ಷಕನಾಗುವ ಮೂಲಕ, ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ಬಾಹ್ಯ ತೊಂದರೆಗಳು ಮತ್ತು ಆಂತರಿಕ ಋಣಾತ್ಮಕತೆಯಿಂದ ಸ್ವಯಂ-ಶೋಧನೆಯ ಪ್ರಯಾಣವನ್ನು ರಕ್ಷಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S21_62-4_5",
+      "mandala": 3,
+      "sukta": 21,
+      "ric_index": 4,
+      "rig_lines": [
+        "तुभ्यं᳚ श्चोतन्त्यध्रिगो शचीवः स्तो॒कासो᳚, अग्ने॒ मेद॑सो घृ॒तस्य॑ |",
+        "क॒वि॒श॒स्तो बृ॑ह॒ता भा॒नुनागा᳚ ह॒व्या जु॑षस्व मेधिर ||"
+      ],
+      "pre_splits": [
+        "तुभ्य᳚‌म्",
+        "श्चो॒त॒न्ति॒",
+        "अ॒ध्रि॒गो॒ इत्य॑ध्रिऽगो",
+        "श॒ची॒ऽवः॒",
+        "स्तो॒कासः॑",
+        "अ॒ग्ने॒",
+        "मेद॑सः",
+        "घृ॒तस्य॑",
+        "क॒वि॒ऽश॒स्तः",
+        "बृ॒ह॒ता",
+        "भा॒नुना᳚",
+        "आ",
+        "अ॒गाः॒",
+        "ह॒व्या",
+        "जु॒ष॒स्व॒",
+        "मे॒धि॒र॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "तुभ्य᳚‌म्",
+          "pada_kn": "ತುಭ್ಯಮ್",
+          "meaning_en": "To you / For you",
+          "meaning_kn": "ನಿನಗಾಗಿ"
+        },
+        {
+          "pada_original": "श्चो॒त॒न्ति॒",
+          "pada_kn": "ಶ್ಚೋತಂತಿ",
+          "meaning_en": "flow / drip",
+          "meaning_kn": "ಹರಿಯುತ್ತವೆ / ಸುರಿಯುತ್ತವೆ"
+        },
+        {
+          "pada_original": "अ॒ध्रि॒गो॒ इत्य॑ध्रिऽगो",
+          "pada_kn": "ಅಧ್ರಿಗೋ ಇತ್ಯಧ್ರಿऽಗೋ",
+          "meaning_en": "O unassailable one / O unhindered one",
+          "meaning_kn": "ಓ ಅಜೇಯನೇ / ಓ ತಡೆಯಿಲ್ಲದವನೇ"
+        },
+        {
+          "pada_original": "श॒ची॒ऽवः॒",
+          "pada_kn": "ಶಚೀऽವಃ",
+          "meaning_en": "O powerful one / O mighty one",
+          "meaning_kn": "ಓ ಶಕ್ತಿಶಾಲಿಯೇ / ಓ ಬಲಶಾಲಿಯೇ"
+        },
+        {
+          "pada_original": "स्तो॒कासः॑",
+          "pada_kn": "ಸ್ತೋಕಾಸಃ",
+          "meaning_en": "drops / trickles",
+          "meaning_kn": "ಹನಿಗಳು / ತುಂತುರುಗಳು"
+        },
+        {
+          "pada_original": "अ॒ग्ने॒",
+          "pada_kn": "ಅಗ್ನೇ",
+          "meaning_en": "O Agni",
+          "meaning_kn": "ಓ ಅಗ್ನಿಯೇ"
+        },
+        {
+          "pada_original": "मेद॑सः",
+          "pada_kn": "ಮೇದಸಃ",
+          "meaning_en": "of fat / marrow / sacrificial fat",
+          "meaning_kn": "ಕೊಬ್ಬಿನ / ಮೇದಸ್ಸಿನ"
+        },
+        {
+          "pada_original": "घृ॒तस्य॑",
+          "pada_kn": "ಘೃತಸ್ಯ",
+          "meaning_en": "of ghee / clarified butter",
+          "meaning_kn": "ತುಪ್ಪದ"
+        },
+        {
+          "pada_original": "क॒वि॒ऽश॒स्तः",
+          "pada_kn": "ಕವಿऽಶಸ್ತಃ",
+          "meaning_en": "praised by seers / lauded by poets",
+          "meaning_kn": "ಕವಿಗಳಿಂದ ಸ್ತುತಿಸಲ್ಪಟ್ಟವನು / ಋಷಿಗಳಿಂದ ಹೊಗಳಲ್ಪಟ್ಟವನು"
+        },
+        {
+          "pada_original": "बृ॒ह॒ता",
+          "pada_kn": "ಬೃಹತಾ",
+          "meaning_en": "with great / vast",
+          "meaning_kn": "ಮಹಾನ್ / ದೊಡ್ಡ"
+        },
+        {
+          "pada_original": "भा॒नुना᳚",
+          "pada_kn": "ಭಾನುನಾ",
+          "meaning_en": "with light / radiance",
+          "meaning_kn": "ಪ್ರಕಾಶದಿಂದ / ತೇಜಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix indicating arrival/motion towards)",
+          "meaning_kn": "(ಆಗಮನವನ್ನು ಸೂಚಿಸುವ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अ॒गाः॒",
+          "pada_kn": "ಅಗಾಃ",
+          "meaning_en": "you have come / arrived",
+          "meaning_kn": "ನೀನು ಬಂದಿರುವೆ / ಆಗಮಿಸಿರುವೆ"
+        },
+        {
+          "pada_original": "ह॒व्या",
+          "pada_kn": "ಹವ್ಯಾ",
+          "meaning_en": "oblations / offerings",
+          "meaning_kn": "ಹವಿಸ್ಸುಗಳನ್ನು / ಅರ್ಪಣೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "जु॒ष॒स्व॒",
+          "pada_kn": "ಜುಷಸ್ವ",
+          "meaning_en": "accept / partake",
+          "meaning_kn": "ಸ್ವೀಕರಿಸು / ಆಸ್ವಾದಿಸು"
+        },
+        {
+          "pada_original": "मे॒धि॒र॒",
+          "pada_kn": "ಮೇಧಿರ",
+          "meaning_en": "O wise one / O intelligent one",
+          "meaning_kn": "ಓ ಜ್ಞಾನಿಯೇ / ಓ ಬುದ್ಧಿವಂತನೇ"
+        }
+      ],
+      "full_meaning_en": "O unassailable and mighty Agni, these drops of clarified butter and fat flow forth for you. O Agni, praised by the wise, you have come with your great and radiant light. O discerning one, partake of these our offerings.",
+      "full_meaning_kn": "ಓ ಅಚಲ ಮತ್ತು ಬಲಿಷ್ಠ ಅಗ್ನಿಯೇ, ಈ ತುಪ್ಪದ ಮತ್ತು ಕೊಬ್ಬಿನ ಹನಿಗಳು ನಿನಗಾಗಿ ಹರಿಯುತ್ತವೆ. ಓ ಅಗ್ನಿಯೇ, ಜ್ಞಾನಿಗಳಿಂದ ಸ್ತುತಿಸಲ್ಪಟ್ಟವನೇ, ನೀನು ನಿನ್ನ ಮಹಾನ್ ಮತ್ತು ಪ್ರಕಾಶಮಾನವಾದ ಬೆಳಕಿನೊಂದಿಗೆ ಬಂದಿದ್ದೀಯೆ. ಓ ವಿವೇಕಿಯಾದವನೇ, ನಮ್ಮ ಈ ಅರ್ಪಣೆಗಳನ್ನು ಸ್ವೀಕರಿಸು.",
+      "rig_time_s": 38.917,
+      "Insight_en": "The flowing of ghee and fat represents the continuous offering of inner desires and attachments into the fire of self-knowledge (अग्नि). The arrival of Agni with great radiance signifies the illumination of the intellect, leading to wisdom (मेधिर) and the ability to discern truth from illusion. The acceptance of oblations symbolizes the integration of worldly experiences into spiritual understanding, fueling the journey towards self-realization.",
+      "Insight_kn": "ತುಪ್ಪ ಮತ್ತು ಕೊಬ್ಬಿನ ಹರಿವು ಸ್ವಯಂ ಜ್ಞಾನದ ಅಗ್ನಿಯಲ್ಲಿ (ಅಗ್ನಿ) ಆಂತರಿಕ ಬಯಕೆಗಳು ಮತ್ತು ಬಾಂಧವ್ಯಗಳ ನಿರಂತರ ಅರ್ಪಣೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಮಹಾನ್ ತೇಜಸ್ಸಿನೊಂದಿಗೆ ಅಗ್ನಿಯ ಆಗಮನವು ಬುದ್ಧಿವಂತಿಕೆಯ ಪ್ರಕಾಶವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ವಿವೇಕಕ್ಕೆ (ಮೇಧಿರ) ಮತ್ತು ಭ್ರಮೆಯಿಂದ ಸತ್ಯವನ್ನು ವಿವೇಚಿಸುವ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಅರ್ಪಣೆಗಳ ಸ್ವೀಕಾರವು ಲೌಕಿಕ ಅನುಭವಗಳನ್ನು ಆಧ್ಯಾತ್ಮಿಕ ತಿಳುವಳಿಕೆಯಲ್ಲಿ ಸಂಯೋಜಿಸುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ಪ್ರಯಾಣವನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S21_62-5_5",
+      "mandala": 3,
+      "sukta": 21,
+      "ric_index": 5,
+      "rig_lines": [
+        "ओजि॑ष्ठं ते मध्य॒तो मेद॒ उद्भृ॑तं॒ प्र ते᳚ व॒यं द॑दामहे |",
+        "श्चोत᳚न्ति ते वसो स्तो॒का, अधि॑ त्व॒चि प्रति॒ तान्‌ दे᳚व॒शो वि॑हि ||"
+      ],
+      "pre_splits": [
+        "ओजि॑ष्ठ‌म्",
+        "ते॒",
+        "म॒ध्य॒तः",
+        "मेदः॑",
+        "उत्ऽभृ॑त‌म्",
+        "प्र",
+        "ते॒",
+        "व॒य‌म्",
+        "द॒दा॒म॒हे॒",
+        "श्चोत᳚न्ति",
+        "ते॒",
+        "व॒सो॒ इति॑",
+        "स्तो॒काः",
+        "अधि॑",
+        "त्व॒चि",
+        "प्रति॑",
+        "तान्",
+        "दे॒व॒ऽशः",
+        "वि॒हि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ओजि॑ष्ठ‌म्",
+          "pada_kn": "ಓಜಿಷ್ಠಮ್",
+          "meaning_en": "most potent / strongest",
+          "meaning_kn": "ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿ / ಬಲಶಾಲಿ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "to you / your",
+          "meaning_kn": "ನಿನಗೆ / ನಿನ್ನ"
+        },
+        {
+          "pada_original": "म॒ध्य॒तः",
+          "pada_kn": "ಮಧ್ಯತಃ",
+          "meaning_en": "from the middle / from the interior",
+          "meaning_kn": "ಮಧ್ಯದಿಂದ / ಒಳಗಿನಿಂದ"
+        },
+        {
+          "pada_original": "मेदः॑",
+          "pada_kn": "ಮೇದಃ",
+          "meaning_en": "fat / marrow / essence",
+          "meaning_kn": "ಕೊಬ್ಬು / ಸಾರ"
+        },
+        {
+          "pada_original": "उत्ऽभृ॑त‌म्",
+          "pada_kn": "ಉತ್ಭೃತಮ್",
+          "meaning_en": "extracted / brought forth",
+          "meaning_kn": "ಹೊರತೆಗೆದ / ಸಂಗ್ರಹಿಸಿದ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / completely",
+          "meaning_kn": "ಮುಂದೆ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "to you",
+          "meaning_kn": "ನಿನಗೆ"
+        },
+        {
+          "pada_original": "व॒य‌म्",
+          "pada_kn": "ವಯಮ್",
+          "meaning_en": "we",
+          "meaning_kn": "ನಾವು"
+        },
+        {
+          "pada_original": "द॒दा॒म॒हे॒",
+          "pada_kn": "ದದಾಮಹೇ",
+          "meaning_en": "offer / give",
+          "meaning_kn": "ಅರ್ಪಿಸುತ್ತೇವೆ / ಕೊಡುತ್ತೇವೆ"
+        },
+        {
+          "pada_original": "श्चोत᳚न्ति",
+          "pada_kn": "ಶ್ಚೋತಂತಿ",
+          "meaning_en": "drip / flow",
+          "meaning_kn": "ಹರಿಯುತ್ತವೆ / ತೊಟ್ಟಿಕ್ಕುತ್ತವೆ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "व॒सो॒ इति॑",
+          "pada_kn": "ವಸೋ ಇತಿ",
+          "meaning_en": "O Vasu (Agni)",
+          "meaning_kn": "ಓ ವಸು (ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "स्तो॒काः",
+          "pada_kn": "ಸ್ತೋಕಾಃ",
+          "meaning_en": "drops / trickles",
+          "meaning_kn": "ಹನಿಗಳು / ತೊಟ್ಟುಗಳು"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon / on",
+          "meaning_kn": "ಮೇಲೆ"
+        },
+        {
+          "pada_original": "त्व॒चि",
+          "pada_kn": "ತ್ವಚಿ",
+          "meaning_en": "on the skin / on the hide",
+          "meaning_kn": "ಚರ್ಮದ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / in return",
+          "meaning_kn": "ಕಡೆಗೆ / ಪ್ರತಿಯಾಗಿ"
+        },
+        {
+          "pada_original": "तान्",
+          "pada_kn": "ತಾನ್",
+          "meaning_en": "them (the drops)",
+          "meaning_kn": "ಅವುಗಳನ್ನು (ಹನಿಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "दे॒व॒ऽशः",
+          "pada_kn": "ದೇವಶಃ",
+          "meaning_en": "O god / divine one",
+          "meaning_kn": "ಓ ದೇವ / ದೈವಿಕನೇ"
+        },
+        {
+          "pada_original": "वि॒हि॒",
+          "pada_kn": "ವಿಹಿ",
+          "meaning_en": "consume / partake",
+          "meaning_kn": "ಸೇವಿಸು / ಆನಂದಿಸು"
+        }
+      ],
+      "full_meaning_en": "O Agni, we offer unto you the most potent essence, drawn from the heart of the sacrifice. O Vasu, may the libations pour forth and the sacred drops descend upon your skin; O radiant deity, accept them with favor.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ಯಜ್ಞದ ಹೃದಯದಿಂದ ತೆಗೆದ ಅತ್ಯಂತ ಶಕ್ತಿಯುತವಾದ ಸಾರವನ್ನು ನಿಮಗೆ ಅರ್ಪಿಸುತ್ತೇವೆ. ಓ ವಸೂ, ಈ ಅರ್ಪಣೆಗಳು ಸುರಿಯಲಿ ಮತ್ತು ಪವಿತ್ರ ಹನಿಗಳು ನಿಮ್ಮ ಚರ್ಮದ ಮೇಲೆ ಇಳಿಯಲಿ; ಓ ಪ್ರಕಾಶಮಾನ ದೇವತೆ, ಅವುಗಳನ್ನು ದಯೆಯಿಂದ ಸ್ವೀಕರಿಸಿ.",
+      "rig_time_s": 52.273,
+      "Insight_en": "The offering's essence represents the refined consciousness, extracted from the depths of experience. The 'skin' symbolizes the receptive surface of our being, where divine grace descends. True devotion lies in offering this essence, allowing the divine to permeate and transform our very nature. The stoka, the essence, symbolizes the flow of grace. अग्नि is the transformative power of consciousness.",
+      "Insight_kn": "ಯಜ್ಞದ ಸಾರವು ಅನುಭವದ ಆಳದಿಂದ ಹೊರತೆಗೆದ ಶುದ್ಧೀಕರಿಸಿದ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. 'ಚರ್ಮ'ವು ನಮ್ಮ ಅಸ್ತಿತ್ವದ ಸ್ವೀಕಾರಾರ್ಹ ಮೇಲ್ಮೈಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಅಲ್ಲಿ ದೈವಿಕ ಅನುಗ್ರಹವು ಇಳಿಯುತ್ತದೆ. ಈ ಸಾರವನ್ನು ಅರ್ಪಿಸುವುದರಲ್ಲಿ ನಿಜವಾದ ಭಕ್ತಿಯಿದೆ, ದೈವಿಕವು ನಮ್ಮ ಸ್ವರೂಪವನ್ನು ವ್ಯಾಪಿಸಲು ಮತ್ತು ಪರಿವರ್ತಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಸ್ತೋಕ, ಸಾರವು ಅನುಗ್ರಹದ ಹರಿವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಅಗ್ನಿ ಪ್ರಜ್ಞೆಯ ಪರಿವರ್ತಕ ಶಕ್ತಿಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

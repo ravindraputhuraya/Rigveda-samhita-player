@@ -1,0 +1,538 @@
+{
+  "mandala": 9,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M9-S112_114-1_4",
+      "mandala": 9,
+      "sukta": 112,
+      "ric_index": 1,
+      "rig_lines": [
+        "ना॒ना॒नं वा, उ॑ नो॒ धियो॒ वि व्र॒तानि॒ जना᳚नाम् |",
+        "तक्षा᳚ रि॒ष्टं रु॒तं भि॒षग्ब्र॒ह्मा सु॒न्वन्त॑मिच्छ॒तीन्द्रा᳚येन्दो॒ परि॑ स्रव ||"
+      ],
+      "pre_splits": [
+        "ना॒ना॒न‌म्",
+        "वै",
+        "ऊँ॒ इति॑",
+        "नः॒",
+        "धियः॑",
+        "वि",
+        "व्र॒तानि॑",
+        "जना᳚ना‌म्",
+        "तक्षा᳚",
+        "रि॒ष्ट‌म्",
+        "रु॒त‌म्",
+        "भि॒षक्",
+        "ब्र॒ह्मा",
+        "सु॒न्वन्त᳚‌म्",
+        "इ॒च्छ॒ति॒",
+        "इन्द्रा᳚य",
+        "इ॒न्दो॒ इति॑",
+        "परि॑",
+        "स्र॒व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ना॒ना॒न‌म्",
+          "pada_kn": "ನಾನಾನಮ್",
+          "meaning_en": "various / diverse",
+          "meaning_kn": "ನಾನಾ / ವಿವಿಧ"
+        },
+        {
+          "pada_original": "वै",
+          "pada_kn": "ವೈ",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊँ ಇತಿ",
+          "meaning_en": "and / also / indeed (an expletive particle)",
+          "meaning_kn": "ಮತ್ತು / ಸಹ / ನಿಜಕ್ಕೂ (ಒಂದು ನಿಪಾತ)"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "our",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "धियः॑",
+          "pada_kn": "ಧಿಯಃ",
+          "meaning_en": "thoughts / intentions / activities",
+          "meaning_kn": "ಆಲೋಚನೆಗಳು / ಉದ್ದೇಶಗಳು / ಕಾರ್ಯಗಳು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart / differently",
+          "meaning_kn": "ಬೇರೆಬೇರೆಯಾಗಿ / ಭಿನ್ನವಾಗಿ"
+        },
+        {
+          "pada_original": "व्र॒तानि॑",
+          "pada_kn": "ವ್ರತಾನಿ",
+          "meaning_en": "vows / works / occupations",
+          "meaning_kn": "ವ್ರತಗಳು / ಕಾರ್ಯಗಳು / ವೃತ್ತಿಗಳು"
+        },
+        {
+          "pada_original": "जना᳚ना‌म्",
+          "pada_kn": "ಜನಾನಾಮ್",
+          "meaning_en": "of people / of men",
+          "meaning_kn": "ಜನರ / ಮನುಷ್ಯರ"
+        },
+        {
+          "pada_original": "तक्षा᳚",
+          "pada_kn": "ತಕ್ಷಾ",
+          "meaning_en": "a carpenter / craftsman",
+          "meaning_kn": "ಬಡಗಿ / ಶಿಲ್ಪಿ"
+        },
+        {
+          "pada_original": "रि॒ष्ट‌म्",
+          "pada_kn": "ರಿಷ್ಟಮ್",
+          "meaning_en": "(one who seeks) something broken/damaged (for repair)",
+          "meaning_kn": "ಮುರಿದದ್ದನ್ನು / ಹಾನಿಗೊಳಗಾದದ್ದನ್ನು (ಸರಿಪಡಿಸಲು ಬಯಸುವವನು)"
+        },
+        {
+          "pada_original": "रु॒त‌म्",
+          "pada_kn": "ರುತಮ್",
+          "meaning_en": "(one who seeks) a song / sound (to sing)",
+          "meaning_kn": "ಹಾಡನ್ನು / ಶಬ್ದವನ್ನು (ಹಾಡಲು ಬಯಸುವವನು)"
+        },
+        {
+          "pada_original": "भि॒षक्",
+          "pada_kn": "ಭಿಷಕ್",
+          "meaning_en": "a physician / healer",
+          "meaning_kn": "ವೈದ್ಯ / ಚಿಕಿತ್ಸಕ"
+        },
+        {
+          "pada_original": "ब्र॒ह्मा",
+          "pada_kn": "ಬ್ರಹ್ಮಾ",
+          "meaning_en": "a priest / reciter of sacred texts",
+          "meaning_kn": "ಪುರೋಹಿತ / ಬ್ರಹ್ಮನ್ (ವೇದ ಪಠಿಸುವವನು)"
+        },
+        {
+          "pada_original": "सु॒न्वन्त᳚‌म्",
+          "pada_kn": "ಸುವ್ವನ್ತಮ್",
+          "meaning_en": "one who presses (Soma) / one who performs sacrifice",
+          "meaning_kn": "ಸೋಮವನ್ನು ಹಿಂಡುವವನನ್ನು / ಯಜ್ಞ ಮಾಡುವವನನ್ನು"
+        },
+        {
+          "pada_original": "इ॒च्छ॒ति॒",
+          "pada_kn": "ಇಚ್ಛತಿ",
+          "meaning_en": "desires / seeks",
+          "meaning_kn": "ಬಯಸುತ್ತಾನೆ / ಹುಡುಕುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "इन्द्रा᳚य",
+          "pada_kn": "ಇಂದ್ರಾಯ",
+          "meaning_en": "for Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "इ॒न्दो॒ इति॑",
+          "pada_kn": "ಇಂದೋ ಇತಿ",
+          "meaning_en": "O Soma",
+          "meaning_kn": "ಓ ಸೋಮ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / fully / flow forth",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಪೂರ್ಣವಾಗಿ / ಹರಿಯು"
+        },
+        {
+          "pada_original": "स्र॒व॒",
+          "pada_kn": "ಸ್ರವ",
+          "meaning_en": "flow",
+          "meaning_kn": "ಹರಿ"
+        }
+      ],
+      "full_meaning_en": "Indeed, our thoughts and the occupations of people are diverse. A carpenter desires something broken (to repair), a physician (desires a patient), and a priest (Brahma) desires one who presses Soma (i.e., performs a sacrifice). O Soma, flow forth fully for Indra!",
+      "full_meaning_kn": "ನಿಜವಾಗಿಯೂ, ನಮ್ಮ ಆಲೋಚನೆಗಳು ಮತ್ತು ಜನರ ವೃತ್ತಿಗಳು ವಿವಿಧವಾಗಿವೆ. ಬಡಗಿಯು ಮುರಿದದ್ದನ್ನು (ಸರಿಪಡಿಸಲು) ಬಯಸುತ್ತಾನೆ, ವೈದ್ಯನು (ರೋಗಿಯನ್ನು ಬಯಸುತ್ತಾನೆ), ಮತ್ತು ಪುರೋಹಿತನು (ಬ್ರಹ್ಮನು) ಸೋಮವನ್ನು ಹಿಂಡುವವನನ್ನು (ಅಂದರೆ ಯಜ್ಞ ಮಾಡುವವನನ್ನು) ಬಯಸುತ್ತಾನೆ. ಓ ಸೋಮ, ಇಂದ್ರನಿಗಾಗಿ ಪೂರ್ಣವಾಗಿ ಹರಿ!",
+      "Insight_en": "The individual soul, with its myriad `धियो` (thoughts) and `व्रतानि` (aspirations), seeks diverse paths for its unfolding. Yet, a deeper current governs this diversity: the inner `तक्षा` (shaper) desires to mend the `रिष्टं रुतं` (broken fragments) of existence, the divine `भिषक्` (healer) yearns to restore integral harmony, and the `ब्रह्मा` (truth-conscious priest) ever seeks the `सुन्वन्तम्` (offerer of delight). For the very purpose of all inner labor is the outpouring of `इन्दु` (divine Soma-bliss) towards `इंद्र` (the luminous Supermind), enabling the full flow of enlightened consciousness. This mantra reveals that all apparent divergence ultimately converges upon the unified spiritual sacrifice.",
+      "Insight_kn": "ಓ ಅಂತರಾತ್ಮನೇ, ನಿನ್ನ `ಧಿಯಃ` (ಅರಿವಿನ ಚಲನೆಗಳು) ಮತ್ತು `ವ್ರತಾನಿ` (ಸಂಕಲ್ಪಗಳು) ಭಿನ್ನವಾಗಿದ್ದರೂ, ಒಂದು ಏಕೀಕೃತ ಉದ್ದೇಶವಿದೆ. ಅಂತರಂಗದ `ತಕ್ಷಾ` (ರೂಪಕಾರನು) ಜೀವನದ `ರಿಷ್ಟಂ ರುತಂ` (ಭಗ್ನಾವಶೇಷಗಳನ್ನು) ಸರಿಪಡಿಸಲು ಬಯಸುತ್ತಾನೆ, ದೈವಿಕ `ಭಿಷಕ್` (ವೈದ್ಯನು) ಸಂಪೂರ್ಣ ಸಮನ್ವಯವನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲು ಹಂಬಲಿಸುತ್ತಾನೆ. `ಬ್ರಹ್ಮಾ` (ಸತ್ಯಪ್ರಜ್ಞೆಯ ಪುರೋಹಿತನು) ಯಾವಾಗಲೂ `ಸುನ್ವಂತಂ` (ಆನಂದವನ್ನು ಅರ್ಪಿಸುವವನನ್ನು) ಅರಸುತ್ತಾನೆ. ಸಮಸ್ತ ಅಂತರಂಗದ ಶ್ರಮದ ಗುರಿಯು `ಇಂದ್ರ` (ಪ್ರಜ್ಞಾಬಲ) ಗಾಗಿ `ಇಂದು` (ದೈವಿಕ ಸೋಮ-ಆನಂದ) ವನ್ನು ಸಮರ್ಪಿಸುವುದಾಗಿದೆ. ಇದರಿಂದ ಪ್ರಬುದ್ಧ ಅರಿವು ಸಮೃದ್ಧವಾಗಿ ಹರಿಯುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": "",
+      "rig_time_s": 0.0
+    },
+    {
+      "mantra_id": "M9-S112_114-2_4",
+      "mandala": 9,
+      "sukta": 112,
+      "ric_index": 2,
+      "rig_lines": [
+        "जर॑तीभि॒रोष॑धीभिः प॒र्णेभिः॑ शकु॒नाना᳚म् |",
+        "का॒र्मा॒रो, अश्म॑भि॒र्द्युभि॒र्हिर᳚ण्यवन्तमिच्छ॒तीन्द्रा᳚येन्दो॒ परि॑ स्रव ||"
+      ],
+      "pre_splits": [
+        "जर॑तीभिः",
+        "ओष॑धीभिः",
+        "प॒र्णेभिः॑",
+        "श॒कु॒नाना᳚‌म्",
+        "का॒र्मा॒रः",
+        "अश्म॑ऽभिः",
+        "द्युऽभिः॑",
+        "हिर᳚ण्यऽवन्त‌म्",
+        "इ॒च्छ॒ति॒",
+        "इन्द्रा᳚य",
+        "इ॒न्दो॒ इति॑",
+        "परि॑",
+        "स्र॒व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "जर॑तीभिः",
+          "pada_kn": "ಜರತೀಭಿಃ",
+          "meaning_en": "with old women",
+          "meaning_kn": "ಮುಪ್ಪಾದ ಸ್ತ್ರೀಯರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "ओष॑धीभिः",
+          "pada_kn": "ಓಷಧೀಭಿಃ",
+          "meaning_en": "with herbs",
+          "meaning_kn": "ಓಷಧಿಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "प॒र्णेभिः॑",
+          "pada_kn": "ಪರ್ಣೇಭಿಃ",
+          "meaning_en": "with leaves / with feathers",
+          "meaning_kn": "ಎಲೆಗಳೊಂದಿಗೆ / ರೆಕ್ಕೆಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "श॒कु॒नाना᳚‌म्",
+          "pada_kn": "ಶಕುನಾನಾಮ್",
+          "meaning_en": "of birds",
+          "meaning_kn": "ಪಕ್ಷಿಗಳ"
+        },
+        {
+          "pada_original": "का॒र्मा॒रः",
+          "pada_kn": "ಕಾರ್ಮಾರಃ",
+          "meaning_en": "the smith",
+          "meaning_kn": "ಕಮ್ಮಾರನು"
+        },
+        {
+          "pada_original": "अश्म॑ऽभिः",
+          "pada_kn": "ಅಶ್ಮಭಿಃ",
+          "meaning_en": "with stones",
+          "meaning_kn": "ಕಲ್ಲುಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "द्युऽभिः॑",
+          "pada_kn": "ದ್ಯುಭಿಃ",
+          "meaning_en": "by day",
+          "meaning_kn": "ಹಗಲಿನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "हिर᳚ण्यऽवन्त‌म्",
+          "pada_kn": "ಹಿರಣ್ಯವನ್ತಮ್",
+          "meaning_en": "one possessing gold",
+          "meaning_kn": "ಚಿನ್ನವನ್ನು ಹೊಂದಿದವನನ್ನು"
+        },
+        {
+          "pada_original": "इ॒च्छ॒ति॒",
+          "pada_kn": "ಇಚ್ಛತಿ",
+          "meaning_en": "desires / seeks",
+          "meaning_kn": "ಬಯಸುತ್ತಾನೆ / ಹುಡುಕುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "इन्द्रा᳚य",
+          "pada_kn": "ಇಂದ್ರಾಯ",
+          "meaning_en": "for Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "इ॒न्दो॒ इति॑",
+          "pada_kn": "ಇಂದೋ",
+          "meaning_en": "O Soma",
+          "meaning_kn": "ಓ ಸೋಮನೇ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / completely",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "स्र॒व॒",
+          "pada_kn": "ಸ್ರವ",
+          "meaning_en": "flow / pour",
+          "meaning_kn": "ಹರಿ / ಸುರಿ"
+        }
+      ],
+      "full_meaning_en": "Just as old women (work) with herbs, and (people work) with the feathers of birds; the smith (works) with stones and by day, desiring one possessing gold. O Soma, flow forth for Indra.",
+      "full_meaning_kn": "ಮುಪ್ಪಾದ ಸ್ತ್ರೀಯರು ಓಷಧಿಗಳೊಂದಿಗೆ (ಕೆಲಸ ಮಾಡುವಂತೆ), ಮತ್ತು (ಜನರು) ಪಕ್ಷಿಗಳ ರೆಕ್ಕೆಗಳೊಂದಿಗೆ (ಕೆಲಸ ಮಾಡುವಂತೆ); ಕಮ್ಮಾರನು ಕಲ್ಲುಗಳೊಂದಿಗೆ ಮತ್ತು ಹಗಲಿನಲ್ಲಿ ಚಿನ್ನವನ್ನು ಹೊಂದಿದವನನ್ನು ಬಯಸುತ್ತಾನೆ. ಓ ಸೋಮನೇ, ಇಂದ್ರನಿಗಾಗಿ ಹರಿ.",
+      "Insight_en": "The divine Soma (सोम), the flowing essence of bliss and inspired consciousness, is invoked to pour forth for the luminous Mind (इन्द्र). Just as ancient wisdom (ओषधी) and mature spiritual practices prepare the subtle ground, and as the subtle wings of higher thought (शकुना) enable ascent, so too does the inner craftsman (कार्मार) labor. With unyielding resolve (अश्म), under the radiant clarity of awakened consciousness (द्यु), the aspirant meticulously seeks to refine the raw elements of experience into the pure, immortal truth (हिरण्य). Thus, all dedicated efforts converge, causing the ecstatic nectar to continuously envelop and empower the divine intelligence within.",
+      "Insight_kn": "ಓ ಸೋಮ (सोम), ದಿವ್ಯ ಆನಂದದ ಮತ್ತು ಪ್ರೇರಿತ ಪ್ರಜ್ಞೆಯ ಹರಿವು, ಪ್ರಕಾಶಮಾನವಾದ ಮನಸ್ಸಿಗೆ (ಇಂದ್ರ) ಧಾರಾಕಾರವಾಗಿ ಹರಿಯಲು ಆಹ್ವಾನಿಸಲಾಗಿದೆ. ಪ್ರಾಚೀನ ಜ್ಞಾನ (ಓಷಧಿ) ಮತ್ತು ಪ್ರಬುದ್ಧ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸಗಳು ಸೂಕ್ಷ್ಮ ಕ್ಷೇತ್ರವನ್ನು ಸಿದ್ಧಪಡಿಸುವಂತೆ, ಮತ್ತು ಉನ್ನತ ಚಿಂತನೆಯ ಸೂಕ್ಷ್ಮ ರೆಕ್ಕೆಗಳು (ಶಕುನಾ) ಆರೋಹಣಕ್ಕೆ ಸಹಾಯಕವಾಗುವಂತೆ, ಹಾಗೆಯೇ ಆಂತರಿಕ ಶಿಲ್ಪಿ (कार्मार) ಶ್ರಮಿಸುತ್ತಾನೆ. ದೃಢ ಸಂಕಲ್ಪದಿಂದ (ಅಶ್ಮ), ಜಾಗೃತ ಪ್ರಜ್ಞೆಯ (ದ್ಯು) ಪ್ರಕಾಶಮಾನವಾದ ಸ್ಪಷ್ಟತೆಯಡಿಯಲ್ಲಿ, ಸಾಧಕನು ಅನುಭವದ ಕಚ್ಚಾ ಅಂಶಗಳನ್ನು ಶುದ್ಧ, ಅಮರ ಸತ್ಯವಾಗಿ (हिरण्य) ಪರಿವರ್ತಿಸಲು ಶ್ರದ್ಧೆಯಿಂದ ಪ್ರಯತ್ನಿಸುತ್ತಾನೆ. ಹೀಗೆ, ಎಲ್ಲಾ ಸಮರ್ಪಿತ ಪ್ರಯತ್ನಗಳು ಒಗ್ಗೂಡಿ, ಆ ಆನಂದಮಯ ಅಮೃತವು ನಿರಂತರವಾಗಿ ದಿವ್ಯ ಬುದ್ಧಿಶಕ್ತಿಯನ್ನು ಆವರಿಸಿ, ಅದನ್ನು ಸಶಕ್ತಗೊಳಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": "",
+      "rig_time_s": 14.196
+    },
+    {
+      "mantra_id": "M9-S112_114-3_4",
+      "mandala": 9,
+      "sukta": 112,
+      "ric_index": 3,
+      "rig_lines": [
+        "का॒रुर॒हं त॒तो भि॒षगु॑पलप्र॒क्षिणी᳚ न॒ना |",
+        "नाना᳚धियो वसू॒यवोऽनु॒ गा, इ॑व तस्थि॒मेन्द्रा᳚येन्दो॒ परि॑ स्रव ||"
+      ],
+      "pre_splits": [
+        "का॒रुः",
+        "अ॒ह‌म्",
+        "त॒तः",
+        "भि॒षक्",
+        "उ॒प॒ल॒ऽप्र॒क्षिणी᳚",
+        "न॒ना",
+        "नाना᳚ऽधियः",
+        "व॒सु॒ऽयवः॑",
+        "अनु॑",
+        "गाःऽ‌इ᳚व",
+        "त॒स्थि॒म॒",
+        "इन्द्रा᳚य",
+        "इ॒न्दो॒ इति॑",
+        "परि॑",
+        "स्र॒व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "का॒रुः",
+          "pada_kn": "ಕಾರುಃ",
+          "meaning_en": "poet / singer",
+          "meaning_kn": "ಕವಿ / ಗಾಯಕ"
+        },
+        {
+          "pada_original": "अ॒ह‌म्",
+          "pada_kn": "ಅಹಮ್",
+          "meaning_en": "I",
+          "meaning_kn": "ನಾನು"
+        },
+        {
+          "pada_original": "त॒तः",
+          "pada_kn": "ತತಃ",
+          "meaning_en": "then / and then",
+          "meaning_kn": "ಆಗ / ತದನಂತರ"
+        },
+        {
+          "pada_original": "भि॒षक्",
+          "pada_kn": "ಭಿಷಕ್",
+          "meaning_en": "physician",
+          "meaning_kn": "ವೈದ್ಯ"
+        },
+        {
+          "pada_original": "उ॒प॒ल॒ऽप्र॒क्षिणी᳚",
+          "pada_kn": "ಉಪಲಪ್ರಕ್ಷಿಣೀ",
+          "meaning_en": "grinder (of herbs with a stone)",
+          "meaning_kn": "ಕಲ್ಲಿನಿಂದ (ಮೂಲಿಕೆಗಳನ್ನು) ಅರೆಯುವವಳು"
+        },
+        {
+          "pada_original": "न॒ना",
+          "pada_kn": "ನನಾ",
+          "meaning_en": "mother / woman",
+          "meaning_kn": "ತಾಯಿ / ಸ್ತ್ರೀ"
+        },
+        {
+          "pada_original": "नाना᳚ऽधियः",
+          "pada_kn": "ನಾನಾಧಿಯಃ",
+          "meaning_en": "having various thoughts / occupations",
+          "meaning_kn": "ವಿವಿಧ ಆಲೋಚನೆಗಳುಳ್ಳ / ವೃತ್ತಿಯುಳ್ಳ"
+        },
+        {
+          "pada_original": "व॒सु॒ऽयवः॑",
+          "pada_kn": "ವಸುಯವಃ",
+          "meaning_en": "desiring wealth",
+          "meaning_kn": "ಸಂಪತ್ತನ್ನು ಬಯಸುವವರು"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "after / following",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಹಿಂಬಾಲಿಸಿ"
+        },
+        {
+          "pada_original": "गाःऽ‌इ᳚व",
+          "pada_kn": "ಗಾಃಇವ",
+          "meaning_en": "like cows",
+          "meaning_kn": "ಹಸುಗಳಂತೆ"
+        },
+        {
+          "pada_original": "त॒स्थि॒म॒",
+          "pada_kn": "ತಸ್ಥಿಮ",
+          "meaning_en": "we stand / we are",
+          "meaning_kn": "ನಾವು ನಿಂತಿದ್ದೇವೆ / ನಾವು ಇದ್ದೇವೆ"
+        },
+        {
+          "pada_original": "इन्द्रा᳚य",
+          "pada_kn": "ಇಂದ್ರಾಯ",
+          "meaning_en": "for Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "इ॒न्दो॒ इति॑",
+          "pada_kn": "ಇಂದೋ ಇತಿ",
+          "meaning_en": "O Soma",
+          "meaning_kn": "ಓ ಸೋಮ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "forth / around",
+          "meaning_kn": "ಮುಂದಕ್ಕೆ / ಸುತ್ತಲೂ"
+        },
+        {
+          "pada_original": "स्र॒व॒",
+          "pada_kn": "ಸ್ರವ",
+          "meaning_en": "flow",
+          "meaning_kn": "ಹರಿ"
+        }
+      ],
+      "full_meaning_en": "I am a poet, then there is a physician, and a woman who grinds (herbs) with a stone. We are of various occupations, desiring wealth, just like cows follow (their pasture). O Soma, flow forth for Indra.",
+      "full_meaning_kn": "ನಾನು ಕವಿ, ನಂತರ ವೈದ್ಯನಿದ್ದಾನೆ, ಮತ್ತು ಕಲ್ಲಿನಿಂದ (ಮೂಲಿಕೆಗಳನ್ನು) ಅರೆಯುವ ಸ್ತ್ರೀಯಿದ್ದಾಳೆ. ನಾವು ವಿವಿಧ ವೃತ್ತಿಗಳನ್ನು ಹೊಂದಿದವರಾಗಿದ್ದು, ಸಂಪತ್ತನ್ನು ಬಯಸುವವರಾಗಿದ್ದೇವೆ, ಹಸುಗಳು (ತಮ್ಮ ಮೇವನ್ನು) ಹಿಂಬಾಲಿಸುವಂತೆ. ಓ ಸೋಮ, ಇಂದ್ರನಿಗಾಗಿ ಹರಿ.",
+      "Insight_en": "The indwelling Soma (इन्दु) represents the stream of divine exhilaration, the vital sap of spiritual delight. This mantra unveils the soul's manifold operations: the seer (कारु) formulates divine thought, the healer (भिषक्) rectifies inner imbalances, and the refiner (उपलप्रक्षिणी) transforms raw experience into spiritual essence. These are the diverse faculties (नानाधियः) of consciousness, all intensely desiring the radiant wealth (वसु) of divine knowledge (गाः). Let this sacred flow of Soma empower the luminous Mind (इन्द्र), strengthening its resolve to overcome inner darkness and manifest sovereign wisdom.",
+      "Insight_kn": "ಓ ಆಂತರಂಗಿಕ ಸೋಮ (ಇಂದು), ನೀನು ದೈವಿಕ ಆಹ್ಲಾದದ ಪ್ರವಾಹ, ಆಧ್ಯಾತ್ಮಿಕ ಆನಂದದ ಜೀವ ರಸ. ದಿವ್ಯ ಚಿಂತನೆಯನ್ನು ರೂಪುಗೊಳಿಸುವ ದ್ರಷ್ಟಾರ (ಕಾರು), ಆಂತರಿಕ ಅಸಮತೋಲನಗಳನ್ನು ಸರಿಪಡಿಸುವ ವೈದ್ಯ (ಭಿಷಕ್), ಮತ್ತು ಕಚ್ಚಾ ಅನುಭವವನ್ನು ಆಧ್ಯಾತ್ಮಿಕ ಸಾರವಾಗಿ ಪರಿವರ್ತಿಸುವ ಪರಿಷ್ಕಾರಕಿ (ಉಪಲಪ್ರಕ್ಷಿಣಿ) - ಇವರು ಆತ್ಮದ ವಿವಿಧ ಕಾರ್ಯಗಳು. ಇವು ಪ್ರಜ್ಞೆಯ ನಾನಾ ಶಕ್ತಿಗಳಾಗಿ (ನಾನಾಧಿಯಃ), ದೈವಿಕ ಜ್ಞಾನದ (ಗಾಃ) ಪ್ರಕಾಶಮಯ ಸಂಪತ್ತನ್ನು (ವಸು) ತೀವ್ರವಾಗಿ ಬಯಸುತ್ತವೆ. ದಿವ್ಯ ಮನಸ್ಸಾದ (ಇಂದ್ರ) ಇವನಿಗಾಗಿ ಈ ಪವಿತ್ರ ಸೋಮ ರಸವು ಪ್ರವಹಿಸಲಿ, ಆಂತರಿಕ ಅಜ್ಞಾನವನ್ನು ಗೆದ್ದು ಸಾರ್ವಭೌಮ ಜ್ಞಾನವನ್ನು ಪ್ರಕಟಪಡಿಸುವ ಅವನ ಸಂಕಲ್ಪವನ್ನು ಬಲಪಡಿಸಲಿ.",
+      "Notes_en": "",
+      "Notes_kn": "",
+      "rig_time_s": 28.098
+    },
+    {
+      "mantra_id": "M9-S112_114-4_4",
+      "mandala": 9,
+      "sukta": 112,
+      "ric_index": 4,
+      "rig_lines": [
+        "अश्वो॒ वोळ्हा᳚ सु॒खं रथं᳚ हस॒नामु॑पम॒न्त्रिणः॑ |",
+        "शेपो॒ रोम᳚ण्वन्तौ भे॒दौ वारिन्म॒ण्डूक॑ इच्छ॒तीन्द्रा᳚येन्दो॒ परि॑ स्रव ||"
+      ],
+      "pre_splits": [
+        "अश्वः॑",
+        "वोळ्हा᳚",
+        "सु॒ऽख‌म्",
+        "रथ᳚‌म्",
+        "ह॒स॒ना‌म्",
+        "उ॒प॒ऽम॒न्त्रिणः॑",
+        "शेपः॑",
+        "रोम॑ण्ऽवन्तौ",
+        "भे॒दौ",
+        "वाः",
+        "इत्",
+        "म॒ण्डूकः॑",
+        "इ॒च्छ॒ति॒",
+        "इन्द्रा᳚य",
+        "इ॒न्दो॒ इति॑",
+        "परि॑",
+        "स्र॒व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अश्वः॑",
+          "pada_kn": "ಅಶ್ವಃ",
+          "meaning_en": "horse",
+          "meaning_kn": "ಕುದುರೆ"
+        },
+        {
+          "pada_original": "वोळ्हा᳚",
+          "pada_kn": "ವೋಳ್ಹಾ",
+          "meaning_en": "bearer/carrier",
+          "meaning_kn": "ಹೊರುವವನು/ವಾಹಕ"
+        },
+        {
+          "pada_original": "सु॒ऽख‌म्",
+          "pada_kn": "ಸುಖಮ್",
+          "meaning_en": "comfortably/easily",
+          "meaning_kn": "ಸುಖವಾಗಿ/ಸುಲಭವಾಗಿ"
+        },
+        {
+          "pada_original": "रथ᳚‌म्",
+          "pada_kn": "ರಥಮ್",
+          "meaning_en": "chariot",
+          "meaning_kn": "ರಥವನ್ನು"
+        },
+        {
+          "pada_original": "ह॒स॒ना‌म्",
+          "pada_kn": "ಹಸನಾಮ್",
+          "meaning_en": "(of) laughter/joy",
+          "meaning_kn": "ನಗುವಿನ/ಸಂತೋಷದ"
+        },
+        {
+          "pada_original": "उ॒प॒ऽम॒न्त्रिणः॑",
+          "pada_kn": "ಉಪಮನ್ತ್ರಿಣಃ",
+          "meaning_en": "advisors/counselors",
+          "meaning_kn": "ಸಲಹೆಗಾರರು/ಮಂತ್ರಿಗಳು"
+        },
+        {
+          "pada_original": "शेपः॑",
+          "pada_kn": "ಶೇಪಃ",
+          "meaning_en": "penis (male organ)",
+          "meaning_kn": "ಶಿಶ್ನ"
+        },
+        {
+          "pada_original": "रोम॑ण्ऽवन्तौ",
+          "pada_kn": "ರೋಮಣ್ವಂತೌ",
+          "meaning_en": "hairy (two)",
+          "meaning_kn": "ರೋಮಗಳಿಂದ ಕೂಡಿದ (ಎರಡು)"
+        },
+        {
+          "pada_original": "भे॒दौ",
+          "pada_kn": "ಭೇದೌ",
+          "meaning_en": "testicles (two)",
+          "meaning_kn": "ವೃಷಣಗಳು (ಎರಡು)"
+        },
+        {
+          "pada_original": "वाः",
+          "pada_kn": "ವಾಃ",
+          "meaning_en": "water",
+          "meaning_kn": "ನೀರನ್ನು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed/only",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ/ಮಾತ್ರ"
+        },
+        {
+          "pada_original": "म॒ण्डूकः॑",
+          "pada_kn": "ಮಂಡೂಕಃ",
+          "meaning_en": "frog",
+          "meaning_kn": "ಕಪ್ಪೆ"
+        },
+        {
+          "pada_original": "इ॒च्छ॒ति॒",
+          "pada_kn": "ಇಚ್ಛತಿ",
+          "meaning_en": "desires/wishes",
+          "meaning_kn": "ಬಯಸುತ್ತದೆ/ಇಚ್ಛಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "इन्द्रा᳚य",
+          "pada_kn": "ಇಂದ್ರಾಯ",
+          "meaning_en": "for Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "इ॒न्दो॒ इति॑",
+          "pada_kn": "ಇಂದೋ ಇತಿ",
+          "meaning_en": "O Soma",
+          "meaning_kn": "ಓ ಸೋಮನೇ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around/forth",
+          "meaning_kn": "ಸುತ್ತಲೂ/ಮುಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "स्र॒व॒",
+          "pada_kn": "ಸ್ರವ",
+          "meaning_en": "flow",
+          "meaning_kn": "ಹರಿ"
+        }
+      ],
+      "full_meaning_en": "A horse is the bearer of a comfortable chariot. Advisors desire laughter and joy. A frog desires water, along with its hairy male organ and testicles. O Soma, flow forth for Indra!",
+      "full_meaning_kn": "ಕುದುರೆಯು ಸುಖಕರವಾದ ರಥವನ್ನು ಹೊರುವವನು. ಸಲಹೆಗಾರರು ನಗು ಮತ್ತು ಸಂತೋಷವನ್ನು ಬಯಸುತ್ತಾರೆ. ಕಪ್ಪೆಯು ತನ್ನ ರೋಮಗಳಿಂದ ಕೂಡಿದ ಶಿಶ್ನ ಮತ್ತು ವೃಷಣಗಳೊಂದಿಗೆ ನೀರನ್ನು ಬಯಸುತ್ತದೆ. ಓ ಸೋಮನೇ, ಇಂದ್ರನಿಗಾಗಿ ಹರಿದು ಬಾ!",
+      "Insight_en": "The divine Soma (इन्दो), essence of immortal delight, is the ultimate aspiration. Awakened vital energy (अश्व) renders the purified form (रथ) a joyous vehicle for the soul's journey. Inner discerning faculties (उपमन्त्रिणः) seek profound spiritual felicity (हसनाम्). The embodied consciousness (मण्डूक), with its generative life-force, yearns intensely for the sustaining waters of truth (वारि), its primal element. This entire progression converges upon the manifestation of the luminous Divine Mind (इन्द्र). O Soma, therefore, pour forth your abundant, transformative bliss.",
+      "Insight_kn": "ಓ ಸೋಮನೇ (ಇಂದೋ), ಅಮೃತಮಯ ಆನಂದದ ಸಾರವೇ ಪರಮ ಆಕಾಂಕ್ಷೆ. ಜಾಗೃತವಾದ ಪ್ರಾಣಶಕ್ತಿಯು (ಅಶ್ವ) ಶುದ್ಧೀಕೃತ ರೂಪವನ್ನು (ರಥ) ಆತ್ಮದ ಪ್ರಯಾಣಕ್ಕೆ ಆನಂದಮಯ ವಾಹನವಾಗಿಸುತ್ತದೆ. ಆಂತರಿಕ ವಿವೇಚನಾ ಶಕ್ತಿಗಳು (ಉಪಮನ್ತ್ರಿಣಃ) ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಸೌಖ್ಯವನ್ನು (ಹಸನಾಮ್) ಅರಸುತ್ತವೆ. ತನ್ನ ಉತ್ಪಾದಕ ಜೀವಶಕ್ತಿಯೊಂದಿಗೆ ಶರೀರಬದ್ಧ ಪ್ರಜ್ಞೆಯು (ಮಂಡೂಕ) ಸತ್ಯದ ಜಲಗಳಿಗಾಗಿ (ವಾರಿ) ತೀವ್ರವಾಗಿ ಹಂಬಲಿಸುತ್ತದೆ. ಈ ಸಮಸ್ತ ಪ್ರಗತಿಯು ಜ್ಞಾನಮಯ ದೈವಿಕ ಮನಸ್ಸಿನ (ಇಂದ್ರ) ಅಭಿವ್ಯಕ್ತಿಯ ಕಡೆಗೆ ಸಾಗುತ್ತದೆ. ಓ ಸೋಮನೇ, ಆದಕಾರಣ, ನಿನ್ನ ಸಮೃದ್ಧ, ಪರಿವರ್ತಕ ಆನಂದವನ್ನು ಸುರಿಸು.",
+      "Notes_en": "",
+      "Notes_kn": "",
+      "rig_time_s": 41.317
+    }
+  ]
+}

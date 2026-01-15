@@ -1,0 +1,734 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S161_191-1_5",
+      "mandala": 10,
+      "sukta": 161,
+      "ric_index": 1,
+      "rig_lines": [
+        "मु॒ञ्चामि॑ त्वा ह॒विषा॒ जीव॑नाय॒ कम॑ज्ञातय॒क्ष्मादु॒त रा᳚जय॒क्ष्मात् |",
+        "ग्राहि॑र्ज॒ग्राह॒ यदि॑ वै॒तदे᳚नं॒ तस्या᳚, इन्द्राग्नी॒ प्र मु॑मुक्तमेनम् ||"
+      ],
+      "pre_splits": [
+        "मुं॒चामि॑",
+        "त्वा॒",
+        "ह॒विषा᳚",
+        "जीव॑नाय",
+        "क‌म्",
+        "अ॒ज्ञा॒त॒ऽय॒क्ष्मात्",
+        "उ॒त",
+        "रा॒ज॒ऽय॒क्ष्मात्",
+        "ग्राहिः॑",
+        "ज॒ग्राह॑",
+        "यदि॑",
+        "वा॒",
+        "ए॒तत्",
+        "ए॒न॒‌म्",
+        "तस्याः᳚",
+        "इ॒न्द्रा॒ग्नी॒ इति॑",
+        "प्र",
+        "मु॒मु॒क्त॒‌म्",
+        "ए॒न॒‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "मुं॒चामि॑",
+          "pada_kn": "ಮುಂಚಾಮಿ",
+          "meaning_en": "I release / I free",
+          "meaning_kn": "ನಾನು ಬಿಡುಗಡೆಗೊಳಿಸುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you (the patient)",
+          "meaning_kn": "ನಿನ್ನನ್ನು (ರೋಗಿಯನ್ನು)"
+        },
+        {
+          "pada_original": "ह॒विषा᳚",
+          "pada_kn": "ಹವಿಷಾ",
+          "meaning_en": "with an oblation / by means of an offering",
+          "meaning_kn": "ಹವಿಸ್ಸಿನಿಂದ / ಅರ್ಪಣೆಯಿಂದ"
+        },
+        {
+          "pada_original": "जीव॑नाय",
+          "pada_kn": "ಜೀವನಾಯ",
+          "meaning_en": "for life / for living",
+          "meaning_kn": "ಜೀವನಕ್ಕಾಗಿ / ಬದುಕಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "क‌म्",
+          "pada_kn": "ಕಮ್",
+          "meaning_en": "for happiness / for welfare",
+          "meaning_kn": "ಸುಖಕ್ಕಾಗಿ / ಕ್ಷೇಮಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒ज्ञा॒त॒ऽय॒क्ष्मात्",
+          "pada_kn": "ಅಜ್ಞಾತಯಕ್ಷ್ಮಾತ್",
+          "meaning_en": "from unknown disease / from unknown consumption",
+          "meaning_kn": "ಅಜ್ಞಾತ ರೋಗದಿಂದ / ತಿಳಿಯದ ಕ್ಷಯದಿಂದ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "रा॒ज॒ऽय॒क्ष्मात्",
+          "pada_kn": "ರಾಜಯಕ್ಷ್ಮಾತ್",
+          "meaning_en": "from consumption (Rajayakshma) / from king's evil",
+          "meaning_kn": "ರಾಜಯಕ್ಷ್ಮದಿಂದ / ಕ್ಷಯರೋಗದಿಂದ"
+        },
+        {
+          "pada_original": "ग्राहिः॑",
+          "pada_kn": "ಗ್ರಾಹಿಃ",
+          "meaning_en": "the seizure (personified as a demoness of disease)",
+          "meaning_kn": "ಹಿಡಿಯುವವಳು / ಗ್ರಹಿಸುವವಳು (ರೋಗದ ದೇವತೆ)"
+        },
+        {
+          "pada_original": "ज॒ग्राह॑",
+          "pada_kn": "ಜಗ್ರಾಹ",
+          "meaning_en": "has seized / has grasped",
+          "meaning_kn": "ಹಿಡಿದಿದ್ದರೆ / ಗ್ರಹಿಸಿದ್ದರೆ"
+        },
+        {
+          "pada_original": "यदि॑",
+          "pada_kn": "ಯದಿ",
+          "meaning_en": "if",
+          "meaning_kn": "ಒಂದು ವೇಳೆ"
+        },
+        {
+          "pada_original": "वा॒",
+          "pada_kn": "ವಾ",
+          "meaning_en": "or",
+          "meaning_kn": "ಅಥವಾ"
+        },
+        {
+          "pada_original": "ए॒तत्",
+          "pada_kn": "ಏತತ್",
+          "meaning_en": "this (disease/seizure)",
+          "meaning_kn": "ಇದನ್ನು (ಈ ರೋಗವನ್ನು/ಗ್ರಹಣವನ್ನು)"
+        },
+        {
+          "pada_original": "ए॒न॒‌म्",
+          "pada_kn": "ಏನಮ್",
+          "meaning_en": "him (the patient)",
+          "meaning_kn": "ಇವನನ್ನು / ಈತನನ್ನು"
+        },
+        {
+          "pada_original": "तस्याः᳚",
+          "pada_kn": "ತಸ್ಯಾಃ",
+          "meaning_en": "from her (the seizure/Grahi)",
+          "meaning_kn": "ಅವಳಿಂದ (ಗ್ರಹಿಯಿಂದ)"
+        },
+        {
+          "pada_original": "इ॒न्द्रा॒ग्नी॒ इति॑",
+          "pada_kn": "ಇಂದ್ರಾಗ್ನೀ ಇತಿ",
+          "meaning_en": "O Indra and Agni",
+          "meaning_kn": "ಓ ಇಂದ್ರ ಮತ್ತು ಅಗ್ನಿ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / completely",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "मु॒मु॒क्त॒‌म्",
+          "pada_kn": "ಮುಮುಕ್ತಮ್",
+          "meaning_en": "release (you two) / free (you two)",
+          "meaning_kn": "ಬಿಡುಗಡೆಗೊಳಿಸಿ / ಮುಕ್ತಗೊಳಿಸಿ"
+        },
+        {
+          "pada_original": "ए॒न॒‌म्",
+          "pada_kn": "ಏನಮ್",
+          "meaning_en": "him (the patient)",
+          "meaning_kn": "ಇವನನ್ನು / ಈತನನ್ನು"
+        }
+      ],
+      "full_meaning_en": "I release you with oblation for life, from consumption caused by unknown disease, and from consumption caused by the king. If the Grahi has seized him, may Indra and Agni release him from that!",
+      "full_meaning_kn": "ನಿನ್ನನ್ನು ಜೀವಂತವಾಗಿರಿಸಲು ಹವಿಸ್ಸಿನೊಂದಿಗೆ ಬಿಡುಗಡೆ ಮಾಡುತ್ತೇನೆ, ತಿಳಿಯದ ಕಾಯಿಲೆಯಿಂದ ಉಂಟಾಗುವ ಕ್ಷಯದಿಂದ ಮತ್ತು ರಾಜನಿಂದ ಉಂಟಾಗುವ ಕ್ಷಯದಿಂದ ಮುಕ್ತನಾಗಿಸು. ಗ್ರಾಹಿಯು ಅವನನ್ನು ಹಿಡಿದಿದ್ದರೆ, ಇಂದ್ರ ಮತ್ತು ಅಗ್ನಿಯು ಅವನನ್ನು ಅದರಿಂದ ಬಿಡುಗಡೆ ಮಾಡಲಿ!",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra is a prayer for release from disease and suffering. The term अज्ञातयक्ष्मात् (ajñātayakṣmāt) refers to illness from an unknown origin, highlighting the uncertainties of human suffering. The mention of राजयक्ष्मात् (rājayakṣmāt) implies affliction stemming from authority or societal structures, adding a layer of complexity. The appeal to Indra and Agni signifies invoking both divine power (Indra) and transformative energy (Agni) to overcome these obstacles. The use of 'मुञ्चामि' (muñcāmi) conveys a deliberate act of liberation, emphasizing agency in seeking healing and freedom from affliction.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ರೋಗ ಮತ್ತು ಸಂಕಟದಿಂದ ಬಿಡುಗಡೆಗಾಗಿ ಪ್ರಾರ್ಥನೆಯಾಗಿದೆ. ಅಜ್ಞಾತಯಕ್ಷ್ಮಾತ್ ಎಂಬ ಪದವು ತಿಳಿದಿಲ್ಲದ ಮೂಲದ ಕಾಯಿಲೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಮಾನವ ಸಂಕಟಗಳ ಅನಿಶ್ಚಿತತೆಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ರಾಜಯಕ್ಷ್ಮಾತ್ ಉಲ್ಲೇಖವು ಅಧಿಕಾರ ಅಥವಾ ಸಾಮಾಜಿಕ ರಚನೆಗಳಿಂದ ಉಂಟಾಗುವ ಬಾಧೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಒಂದು ಪದರದ ಸಂಕೀರ್ಣತೆಯನ್ನು ನೀಡುತ್ತದೆ. ಇಂದ್ರ ಮತ್ತು ಅಗ್ನಿಗೆ ಮನವಿ ಮಾಡುವುದು ಈ ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸಲು ದೈವಿಕ ಶಕ್ತಿ (ಇಂದ್ರ) ಮತ್ತು ಪರಿವರ್ತಕ ಶಕ್ತಿ (ಅಗ್ನಿ) ಎರಡನ್ನೂ ಆಹ್ವಾನಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ಮುಂಚಾಮಿ' ಪದದ ಬಳಕೆ ಉದ್ದೇಶಪೂರ್ವಕ ಬಿಡುಗಡೆಯ ಕ್ರಿಯೆಯನ್ನು ತಿಳಿಸುತ್ತದೆ, ಇದು ಗುಣಪಡಿಸುವಿಕೆ ಮತ್ತು ಸಂಕಟದಿಂದ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಪಡೆಯುವಲ್ಲಿನ ಏಜೆನ್ಸಿಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S161_191-2_5",
+      "mandala": 10,
+      "sukta": 161,
+      "ric_index": 2,
+      "rig_lines": [
+        "यदि॑ क्षि॒तायु॒र्यदि॑ वा॒ परे᳚तो॒ यदि॑ मृ॒त्योर᳚न्ति॒कं नी᳚त ए॒व |",
+        "तमा ह॑रामि॒ निरृ॑तेरु॒पस्था॒दस्पा᳚र्षमेनं श॒तशा᳚रदाय ||"
+      ],
+      "pre_splits": [
+        "यदि॑",
+        "क्षि॒तऽआ᳚युः",
+        "यदि॑",
+        "वा॒",
+        "परा᳚ऽ‌इतः",
+        "यदि॑",
+        "मृ॒त्योः",
+        "अ॒न्ति॒क‌म्",
+        "निऽ‌इ᳚तः",
+        "ए॒व",
+        "त‌म्",
+        "आ",
+        "ह॒रा॒मि॒",
+        "निःऽऋ॑तेः",
+        "उ॒पऽस्था᳚त्",
+        "अस्पा᳚र्ष‌म्",
+        "ए॒न॒‌म्",
+        "श॒तऽशा᳚रदाय"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यदि॑",
+          "pada_kn": "ಯದಿ",
+          "meaning_en": "if",
+          "meaning_kn": "ಒಂದು ವೇಳೆ"
+        },
+        {
+          "pada_original": "क्षि॒तऽआ᳚युः",
+          "pada_kn": "ಕ್ಷಿತಾಯುಃ",
+          "meaning_en": "whose life is diminished",
+          "meaning_kn": "ಆಯುಸ್ಸು ಕ್ಷೀಣಿಸಿದವನು"
+        },
+        {
+          "pada_original": "यदि॑",
+          "pada_kn": "ಯದಿ",
+          "meaning_en": "if",
+          "meaning_kn": "ಒಂದು ವೇಳೆ"
+        },
+        {
+          "pada_original": "वा॒",
+          "pada_kn": "ವಾ",
+          "meaning_en": "or",
+          "meaning_kn": "ಅಥವಾ"
+        },
+        {
+          "pada_original": "परा᳚ऽ‌इतः",
+          "pada_kn": "ಪರೇತಃ",
+          "meaning_en": "departed / dead",
+          "meaning_kn": "ಮೃತಪಟ್ಟವನು"
+        },
+        {
+          "pada_original": "यदि॑",
+          "pada_kn": "ಯದಿ",
+          "meaning_en": "if",
+          "meaning_kn": "ಒಂದು ವೇಳೆ"
+        },
+        {
+          "pada_original": "मृ॒त्योः",
+          "pada_kn": "ಮೃತ್ಯೋಃ",
+          "meaning_en": "of death",
+          "meaning_kn": "ಮೃತ್ಯುವಿನ / ಸಾವಿನ"
+        },
+        {
+          "pada_original": "अ॒न्ति॒क‌म्",
+          "pada_kn": "ಅಂತಿಕಮ್",
+          "meaning_en": "near / proximity",
+          "meaning_kn": "ಸಮೀಪಕ್ಕೆ / ಹತ್ತಿರಕ್ಕೆ"
+        },
+        {
+          "pada_original": "निऽ‌इ᳚तः",
+          "pada_kn": "ನೀತಃ",
+          "meaning_en": "led / taken",
+          "meaning_kn": "ಕರೆದೊಯ್ಯಲ್ಪಟ್ಟವನು"
+        },
+        {
+          "pada_original": "ए॒व",
+          "pada_kn": "ಏವ",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "back (prefix)",
+          "meaning_kn": "ಹಿಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "ह॒रा॒मि॒",
+          "pada_kn": "ಹರಾಮಿ",
+          "meaning_en": "I bring",
+          "meaning_kn": "ನಾನು ತರುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "निःऽऋ॑तेः",
+          "pada_kn": "ನಿರ್ಋತೇಃ",
+          "meaning_en": "from Nirṛti (goddess of decay/destruction)",
+          "meaning_kn": "ನಿರ್ಋತಿಯಿಂದ (ವಿನಾಶದ ದೇವತೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "उ॒पऽस्था᳚त्",
+          "pada_kn": "ಉಪಸ್ಥಾತ್",
+          "meaning_en": "from the lap / from the presence",
+          "meaning_kn": "ತೊಡೆಯಿಂದ / ಸಮೀಪದಿಂದ"
+        },
+        {
+          "pada_original": "अस्पा᳚र्ष‌म्",
+          "pada_kn": "ಅಸ್ಪಾರ್ಷಮ್",
+          "meaning_en": "I have touched / I have restored to life",
+          "meaning_kn": "ನಾನು ಸ್ಪರ್ಶಿಸಿದ್ದೇನೆ / ನಾನು ಪುನರುಜ್ಜೀವನಗೊಳಿಸಿದ್ದೇನೆ"
+        },
+        {
+          "pada_original": "ए॒न॒‌म्",
+          "pada_kn": "ಏನಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಇವನನ್ನು"
+        },
+        {
+          "pada_original": "श॒तऽशा᳚रदाय",
+          "pada_kn": "ಶತಶಾರದಾಯ",
+          "meaning_en": "for a hundred autumns / for a hundred years",
+          "meaning_kn": "ನೂರು ಶರತ್ಕಾಲಗಳಿಗಾಗಿ / ನೂರು ವರ್ಷಗಳ ಕಾಲ"
+        }
+      ],
+      "full_meaning_en": "If this person has a diminished lifespan, or if he is departed, or if he has been brought to the proximity of death itself, even from the lap of Nirriti (goddess of destruction), I bring him back; let this person attain a life of a hundred autumns, free from the touch of death.",
+      "full_meaning_kn": "ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ಕ್ಷೀಣಿಸಿದ ಜೀವಿತಾವಧಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ಅಥವಾ ಅವನು ಅಗಲಿದ್ದರೆ, ಅಥವಾ ಅವನನ್ನು ಮೃತ್ಯುವಿನ ಸಾಮೀಪ್ಯಕ್ಕೆ ತಂದಿದ್ದರೆ, ನಿರ್ಋತಿಯ ಮಡಿಲಿನಿಂದಲೂ (ವಿನಾಶದ ದೇವತೆ), ನಾನು ಅವನನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತೇನೆ; ಈ ವ್ಯಕ್ತಿಯು ಸಾವಿನ ಸ್ಪರ್ಶವಿಲ್ಲದೆ ನೂರು ಶರತ್ಕಾಲಗಳ ಜೀವನವನ್ನು ಪಡೆಯಲಿ.",
+      "rig_time_s": 17.629,
+      "Insight_en": "This mantra speaks to the power of invocation and the potential to transcend limitations, even the ultimate limitation of death. It highlights the concept of retrieving a soul from the grasp of Nirriti, symbolizing overcoming negativity and destructive forces. The verse emphasizes the possibility of extending one's lifespan and attaining longevity, not merely in a physical sense, but also in terms of spiritual realization and contribution to the world. The phrase \"hundred autumns\" is symbolic of a full and complete life, rich in experiences and wisdom. The mantra thus inspires hope and reinforces the belief in the transformative power of Vedic rituals and prayers, emphasizing the potential to conquer even death through devotion and spiritual practice. By seeking refuge and grace, the individual can overcome the challenges and attain a fulfilling existence.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಆಹ್ವಾನದ ಶಕ್ತಿ ಮತ್ತು ಮಿತಿಗಳನ್ನು ಮೀರಿದ ಸಾಮರ್ಥ್ಯದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ, ಇದು ಮರಣದ ಅಂತಿಮ ಮಿತಿಯಾಗಿದೆ. ಇದು ನಕಾರಾತ್ಮಕತೆ ಮತ್ತು ವಿನಾಶಕಾರಿ ಶಕ್ತಿಗಳನ್ನು ಮೀರಿಸುವ ಸಂಕೇತವಾದ ನಿರ್ಋತಿಯ ಹಿಡಿತದಿಂದ ಆತ್ಮವನ್ನು ಹಿಂಪಡೆಯುವ ಪರಿಕಲ್ಪನೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಈ ಪದ್ಯವು ಒಬ್ಬರ ಜೀವಿತಾವಧಿಯನ್ನು ವಿಸ್ತರಿಸುವ ಮತ್ತು ದೀರ್ಘಾಯುಷ್ಯವನ್ನು ಪಡೆಯುವ ಸಾಧ್ಯತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಇದು ಕೇವಲ ದೈಹಿಕ ಅರ್ಥದಲ್ಲಿ ಮಾತ್ರವಲ್ಲ, ಆಧ್ಯಾತ್ಮಿಕ ಸಾಕ್ಷಾತ್ಕಾರ ಮತ್ತು ಜಗತ್ತಿಗೆ ಕೊಡುಗೆ ನೀಡುವ ವಿಷಯದಲ್ಲೂ ಸಹ. \"ನೂರು ಶರತ್ಕಾಲಗಳು\" ಎಂಬ ಪದವು ಅನುಭವಗಳು ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಸಮೃದ್ಧವಾದ ಪೂರ್ಣ ಮತ್ತು ಸಂಪೂರ್ಣ ಜೀವನದ ಸಂಕೇತವಾಗಿದೆ. ಹೀಗಾಗಿ ಮಂತ್ರವು ಭರವಸೆಯನ್ನು ನೀಡುತ್ತದೆ ಮತ್ತು ವೈದಿಕ ಆಚರಣೆಗಳು ಮತ್ತು ಪ್ರಾರ್ಥನೆಗಳ ಪರಿವರ್ತಕ ಶಕ್ತಿಯಲ್ಲಿನ ನಂಬಿಕೆಯನ್ನು ಬಲಪಡಿಸುತ್ತದೆ, ಭಕ್ತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಮೂಲಕ ಮರಣವನ್ನು ಸಹ ಜಯಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಆಶ್ರಯ ಮತ್ತು ಕೃಪೆಯನ್ನು ಪಡೆಯುವ ಮೂಲಕ, ವ್ಯಕ್ತಿಯು ಸವಾಲುಗಳನ್ನು ಜಯಿಸಬಹುದು ಮತ್ತು ನೆಮ್ಮದಿಯ ಅಸ್ತಿತ್ವವನ್ನು ಪಡೆಯಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S161_191-3_5",
+      "mandala": 10,
+      "sukta": 161,
+      "ric_index": 3,
+      "rig_lines": [
+        "स॒ह॒स्रा॒क्षेण॑ श॒तशा᳚रदेन श॒तायु॑षा ह॒विषाहा᳚र्षमेनम् |",
+        "श॒तं यथे॒मं श॒रदो॒ नया॒तीन्द्रो॒ विश्व॑स्य दुरि॒तस्य॑ पा॒रम् ||"
+      ],
+      "pre_splits": [
+        "स॒ह॒स्र॒।आ॒क्षेण॑",
+        "श॒तऽशा᳚रदेन",
+        "श॒तऽआ᳚युषा",
+        "ह॒विषा᳚",
+        "आ",
+        "अ॒हा॒र्ष॒‌म्",
+        "ए॒न॒‌म्",
+        "श॒त‌म्",
+        "यथा᳚",
+        "इ॒म‌म्",
+        "श॒रदः॑",
+        "नया᳚ति",
+        "इन्द्रः॑",
+        "विश्व॑स्य",
+        "दुः॒ऽ‌इ॒तस्य॑",
+        "पा॒र‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स॒ह॒स्र॒।आ॒क्षेण॑",
+          "pada_kn": "ಸಹಸ್ರಾಕ್ಷೇಣ",
+          "meaning_en": "By the thousand-eyed (Indra)",
+          "meaning_kn": "ಸಾವಿರ ಕಣ್ಣುಳ್ಳ (ಇಂದ್ರನಿಂದ)"
+        },
+        {
+          "pada_original": "श॒तऽशा᳚रदेन",
+          "pada_kn": "ಶತಶಾರದೇನ",
+          "meaning_en": "By the one of hundred autumns (long-lived)",
+          "meaning_kn": "ನೂರು ಶರತ್ಕಾಲಗಳ (ಆಯುಷ್ಯವುಳ್ಳವನಿಂದ)"
+        },
+        {
+          "pada_original": "श॒तऽआ᳚युषा",
+          "pada_kn": "ಶತಾಯುಷಾ",
+          "meaning_en": "By the one with a hundred years of life",
+          "meaning_kn": "ನೂರು ವರ್ಷಗಳ ಆಯುಷ್ಯವುಳ್ಳವನಿಂದ"
+        },
+        {
+          "pada_original": "ह॒विषा᳚",
+          "pada_kn": "ಹವಿಷಾ",
+          "meaning_en": "With the oblation",
+          "meaning_kn": "ಹವಿಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix for verb)",
+          "meaning_kn": "(ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अ॒हा॒र्ष॒‌म्",
+          "pada_kn": "ಅಹಾರ್ಷಮ್",
+          "meaning_en": "I have taken away / I have removed",
+          "meaning_kn": "ನಾನು ತೆಗೆದುಹಾಕಿದ್ದೇನೆ / ನಾನು ದೂರ ಮಾಡಿದ್ದೇನೆ"
+        },
+        {
+          "pada_original": "ए॒न॒‌म्",
+          "pada_kn": "ಏನಮ್",
+          "meaning_en": "This (person)",
+          "meaning_kn": "ಇವನನ್ನು / ಈ ವ್ಯಕ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "श॒त‌म्",
+          "pada_kn": "ಶತಮ್",
+          "meaning_en": "Hundred",
+          "meaning_kn": "ನೂರು"
+        },
+        {
+          "pada_original": "यथा᳚",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "So that / as",
+          "meaning_kn": "ಇದರಿಂದ / ಹೇಗೆ"
+        },
+        {
+          "pada_original": "इ॒म‌म्",
+          "pada_kn": "ಇಮಮ್",
+          "meaning_en": "This (person)",
+          "meaning_kn": "ಇವನನ್ನು / ಈ ವ್ಯಕ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "श॒रदः॑",
+          "pada_kn": "ಶರದಃ",
+          "meaning_en": "Autumns / years",
+          "meaning_kn": "ಶರತ್ಕಾಲಗಳು / ವರ್ಷಗಳು"
+        },
+        {
+          "pada_original": "नया᳚ति",
+          "pada_kn": "ನಯಾತಿ",
+          "meaning_en": "He leads / he brings",
+          "meaning_kn": "ಅವನು ಮುನ್ನಡೆಸುತ್ತಾನೆ / ಅವನು ತಲುಪಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "विश्व॑स्य",
+          "pada_kn": "ವಿಶ್ವಸ್ಯ",
+          "meaning_en": "Of all",
+          "meaning_kn": "ಎಲ್ಲದರ / ಸಮಸ್ತದ"
+        },
+        {
+          "pada_original": "दुः॒ऽ‌इ॒तस्य॑",
+          "pada_kn": "ದುರಿತಸ್ಯ",
+          "meaning_en": "Of evil / of misfortune",
+          "meaning_kn": "ದುರಿತದ / ಕೆಡುಕಿನ"
+        },
+        {
+          "pada_original": "पा॒र‌म्",
+          "pada_kn": "ಪಾರಮ್",
+          "meaning_en": "The other shore / the end",
+          "meaning_kn": "ಆಚೆ ದಡವನ್ನು / ಅಂತ್ಯವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Indra, with thousand eyes (all-seeing), with hundred autumns (experienced), with a life of hundred years, I have invoked him with offerings. May he lead this one across all difficulties of the world, so that he completes a hundred autumns.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಸಾವಿರ ಕಣ್ಣುಗಳುಳ್ಳ (ಸರ್ವಜ್ಞ), ನೂರು ಶರತ್ಕಾಲಗಳನ್ನು (ಅನುಭವಿಸಿದ) ಹೊಂದಿರುವ, ನೂರು ವರ್ಷಗಳ ಆಯುಷ್ಯವುಳ್ಳ ಅವನನ್ನು ಅರ್ಪಣೆಗಳೊಂದಿಗೆ ನಾನು ಆಹ್ವಾನಿಸಿದ್ದೇನೆ. ಅವನು ಜಗತ್ತಿನ ಎಲ್ಲಾ ತೊಂದರೆಗಳನ್ನು ದಾಟಿಸಿ, ನೂರು ಶರತ್ಕಾಲಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸುವಂತೆ ಮಾಡಲಿ.",
+      "rig_time_s": 33.65,
+      "Insight_en": "This mantra is a prayer to Indra, the king of the gods, seeking longevity and the ability to overcome life's difficulties. The phrase \"सहस्राक्षेण\" (sahasrākṣeṇa), meaning 'with a thousand eyes,' symbolizes Indra's all-seeing nature, his awareness of everything. \"शतशारदेन\" (śataśāradena) refers to experiencing a hundred autumns, representing a long and fulfilling life. By offering हवि (havi), or oblations, the devotee seeks Indra's grace to navigate the challenges of संसार (saṃsāra) and attain a complete life span. The ultimate goal is to transcend दु:ख (duḥkha) and achieve a state of well-being through divine favor. The hymn emphasizes the importance of divine grace in overcoming obstacles and attaining a full and meaningful life.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೇವರುಗಳ ರಾಜನಾದ ಇಂದ್ರನಿಗೆ ಒಂದು ಪ್ರಾರ್ಥನೆಯಾಗಿದ್ದು, ದೀರ್ಘಾಯುಷ್ಯ ಮತ್ತು ಜೀವನದ ಕಷ್ಟಗಳನ್ನು ಜಯಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಕೋರುತ್ತದೆ. \"ಸಹಸ್ರಾಕ್ಷೇಣ\" ಎಂದರೆ 'ಸಾವಿರ ಕಣ್ಣುಗಳುಳ್ಳ' ಎಂದು, ಇದು ಇಂದ್ರನ ಸರ್ವಜ್ಞ ಸ್ವಭಾವವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಅವನ ಎಲ್ಲದರ ಅರಿವು. \"ಶತಶಾರದನ\" ಎಂದರೆ ನೂರು ಶರತ್ಕಾಲಗಳನ್ನು ಅನುಭವಿಸುವುದು, ಇದು ದೀರ್ಘ ಮತ್ತು ತೃಪ್ತಿಕರ ಜೀವನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಹವಿ ಅರ್ಪಿಸುವ ಮೂಲಕ, ಭಕ್ತನು ಸಂಸಾರದ ಸವಾಲುಗಳನ್ನು ನಿಭಾಯಿಸಲು ಮತ್ತು ಸಂಪೂರ್ಣ ಜೀವನವನ್ನು ಸಾಧಿಸಲು ಇಂದ್ರನ ಕೃಪೆಯನ್ನು ಪಡೆಯುತ್ತಾನೆ. ದುಃಖವನ್ನು ಮೀರಿ ದೈವಿಕ ಅನುಗ್ರಹದಿಂದ ಯೋಗಕ್ಷೇಮದ ಸ್ಥಿತಿಯನ್ನು ಸಾಧಿಸುವುದು ಅಂತಿಮ ಗುರಿಯಾಗಿದೆ. ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸಲು ಮತ್ತು ಪೂರ್ಣ ಹಾಗೂ ಅರ್ಥಪೂರ್ಣ ಜೀವನವನ್ನು ಸಾಧಿಸಲು ದೈವಿಕ ಕೃಪೆಯ ಮಹತ್ವವನ್ನು ಸ್ತೋತ್ರವು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S161_191-4_5",
+      "mandala": 10,
+      "sukta": 161,
+      "ric_index": 4,
+      "rig_lines": [
+        "श॒तं जी᳚व श॒रदो॒ वर्ध॑मानः श॒तं हे᳚म॒न्ताञ्छ॒तमु॑ वस॒न्तान् |",
+        "श॒तमि᳚न्द्रा॒ग्नी स॑वि॒ता बृह॒स्पतिः॑ श॒तायु॑षा ह॒विषे॒मं पुन॑र्दुः ||"
+      ],
+      "pre_splits": [
+        "श॒त‌म्",
+        "जी॒व॒",
+        "श॒रदः॑",
+        "वर्ध॑मानः",
+        "श॒त‌म्",
+        "हे॒म॒न्तान्",
+        "श॒त‌म्",
+        "ऊँ॒ इति॑",
+        "व॒स॒न्तान्",
+        "श॒त‌म्",
+        "इ॒न्द्रा॒ग्नी इति॑",
+        "स॒वि॒ता",
+        "बृह॒स्पतिः॑",
+        "श॒तऽआ᳚युषा",
+        "ह॒विषा᳚",
+        "इ॒म‌म्",
+        "पुनः॑",
+        "दुः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "श॒त‌म्",
+          "pada_kn": "ಶತಮ್",
+          "meaning_en": "a hundred",
+          "meaning_kn": "ನೂರು"
+        },
+        {
+          "pada_original": "जी॒व॒",
+          "pada_kn": "ಜೀವ",
+          "meaning_en": "live / may you live",
+          "meaning_kn": "ಬದುಕು / ನೀನು ಬದುಕಲಿ"
+        },
+        {
+          "pada_original": "श॒रदः॑",
+          "pada_kn": "ಶರದಃ",
+          "meaning_en": "autumns / years",
+          "meaning_kn": "ಶರತ್ಕಾಲಗಳು / ವರ್ಷಗಳು"
+        },
+        {
+          "pada_original": "वर्ध॑मानः",
+          "pada_kn": "ವರ್ಧಮಾನಃ",
+          "meaning_en": "growing / increasing",
+          "meaning_kn": "ಬೆಳೆಯುತ್ತಾ / ವೃದ್ಧಿಯಾಗುತ್ತಾ"
+        },
+        {
+          "pada_original": "श॒त‌म्",
+          "pada_kn": "ಶತಮ್",
+          "meaning_en": "a hundred",
+          "meaning_kn": "ನೂರು"
+        },
+        {
+          "pada_original": "हे॒म॒न्तान्",
+          "pada_kn": "ಹೇಮನ್ತಾನ್",
+          "meaning_en": "winters",
+          "meaning_kn": "ಹೇಮಂತ ಋತುಗಳು / ಚಳಿಗಾಲಗಳು"
+        },
+        {
+          "pada_original": "श॒त‌म्",
+          "pada_kn": "ಶತಮ್",
+          "meaning_en": "a hundred",
+          "meaning_kn": "ನೂರು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "व॒स॒न्तान्",
+          "pada_kn": "ವಸನ್ತಾನ್",
+          "meaning_en": "springs",
+          "meaning_kn": "ವಸಂತ ಋತುಗಳು"
+        },
+        {
+          "pada_original": "श॒त‌म्",
+          "pada_kn": "ಶತಮ್",
+          "meaning_en": "a hundred",
+          "meaning_kn": "ನೂರು"
+        },
+        {
+          "pada_original": "इ॒न्द्रा॒ग्नी इति॑",
+          "pada_kn": "ಇನ್ದ್ರಾಗ್ನೀ ಇತಿ",
+          "meaning_en": "Indra and Agni",
+          "meaning_kn": "ಇಂದ್ರ ಮತ್ತು ಅಗ್ನಿ"
+        },
+        {
+          "pada_original": "स॒वि॒ता",
+          "pada_kn": "ಸವಿತಾ",
+          "meaning_en": "Savitar (the stimulator/sun god)",
+          "meaning_kn": "ಸವಿತೃ (ಪ್ರೇರಕ ದೇವತೆ/ಸೂರ್ಯ)"
+        },
+        {
+          "pada_original": "बृह॒स्पतिः॑",
+          "pada_kn": "ಬೃಹಸ್ಪತಿಃ",
+          "meaning_en": "Brihaspati (lord of prayer/divine preceptor)",
+          "meaning_kn": "ಬೃಹಸ್ಪತಿ (ಪ್ರಾರ್ಥನೆಗಳ ಅಧಿಪತಿ/ದೇವಗುರು)"
+        },
+        {
+          "pada_original": "श॒तऽआ᳚युषा",
+          "pada_kn": "ಶತಾಯುಷಾ",
+          "meaning_en": "with a hundred years of life / with a hundred-year lifespan",
+          "meaning_kn": "ನೂರು ವರ್ಷಗಳ ಆಯುಷ್ಯದಿಂದ / ನೂರಾರು ವರ್ಷಗಳ ಜೀವಿತಾವಧಿಯಿಂದ"
+        },
+        {
+          "pada_original": "ह॒विषा᳚",
+          "pada_kn": "ಹವಿಷಾ",
+          "meaning_en": "with oblation / with offering",
+          "meaning_kn": "ಹವಿಸ್ಸಿನಿಂದ / ಅರ್ಪಣೆಯಿಂದ"
+        },
+        {
+          "pada_original": "इ॒म‌म्",
+          "pada_kn": "ಇಮಮ್",
+          "meaning_en": "this (person) / him",
+          "meaning_kn": "ಇವನನ್ನು / ಈ ವ್ಯಕ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "पुनः॑",
+          "pada_kn": "ಪುನಃ",
+          "meaning_en": "again / anew",
+          "meaning_kn": "ಮತ್ತೆ / ಪುನಃ"
+        },
+        {
+          "pada_original": "दुः॒",
+          "pada_kn": "ದುಃ",
+          "meaning_en": "they gave / they bestowed",
+          "meaning_kn": "ಅವರು ನೀಡಿದರು / ಅವರು ದಯಪಾಲಿಸಿದರು"
+        }
+      ],
+      "full_meaning_en": "May you live a hundred autumns, ever increasing; a hundred winters, a hundred springs. O Indra and Agni, Savita, Brihaspati, restore him for a hundred years to this oblation.",
+      "full_meaning_kn": "ನೀವು ನೂರು ಶರತ್ಕಾಲಗಳನ್ನು ವೃದ್ಧಿಸುತ್ತಾ ಜೀವಿಸಿರಿ; ನೂರು ಹಿಮಂತಗಳನ್ನು, ನೂರು ವಸಂತಗಳನ್ನು. ಓ ಇಂದ್ರ ಮತ್ತು ಅಗ್ನಿ, ಸವಿತಾ, ಬೃಹಸ್ಪತಿ, ನೂರು ವರ್ಷಗಳ ಆಯುಷ್ಯಕ್ಕಾಗಿ ಅವನನ್ನು ಈ ಹವಿಸ್ಸಿಗೆ ಪುನಃ ಸೇರಿಸಿ.",
+      "rig_time_s": 48.671,
+      "Insight_en": "This mantra invokes a blessing for longevity and vitality. It prays for a life spanning a hundred autumns, winters, and springs, symbolizing completeness and fulfillment across all seasons of life. The invocation of Indra and Agni (इन्द्राग्नी), Savita, and Brihaspati highlights the comprehensive divine support sought for a long and healthy existence. The term हविष (haviṣ) suggests a restored life offered back to the divine, implying a cycle of offering and renewal. The mantra encourages reflection on the interconnectedness of time, divine grace, and human life, ultimately seeking wholeness and a life lived in harmony with the cosmos.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೀರ್ಘಾಯುಷ್ಯ ಮತ್ತು ಚೈತನ್ಯಕ್ಕಾಗಿ ಆಶೀರ್ವಾದವನ್ನು ಕೋರುತ್ತದೆ. ಇದು ನೂರು ಶರತ್ಕಾಲಗಳು, ಹಿಮಂತಗಳು ಮತ್ತು ವಸಂತಗಳನ್ನು ಒಳಗೊಂಡ ಜೀವನಕ್ಕಾಗಿ ಪ್ರಾರ್ಥಿಸುತ್ತದೆ, ಇದು ಜೀವನದ ಎಲ್ಲಾ ಋತುಗಳಲ್ಲಿ ಸಂಪೂರ್ಣತೆ ಮತ್ತು ನೆರವೇರಿಕೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಇಂದ್ರ ಮತ್ತು ಅಗ್ನಿ, ಸವಿತಾ ಮತ್ತು ಬೃಹಸ್ಪತಿಯ ಆಹ್ವಾನವು ದೀರ್ಘ ಮತ್ತು ಆರೋಗ್ಯಕರ ಅಸ್ತಿತ್ವಕ್ಕಾಗಿ ಕೋರುವ ಸಮಗ್ರ ದೈವಿಕ ಬೆಂಬಲವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಹವಿಷ್ ಎಂಬ ಪದವು ದೈವಿಕತೆಗೆ ಹಿಂದಿರುಗಿಸಿದ ಪುನಃಸ್ಥಾಪಿತ ಜೀವನವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಅರ್ಪಣೆ ಮತ್ತು ನವೀಕರಣದ ಚಕ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮಂತ್ರವು ಸಮಯ, ದೈವಿಕ ಅನುಗ್ರಹ ಮತ್ತು ಮಾನವ ಜೀವನದ ಪರಸ್ಪರ ಸಂಪರ್ಕದ ಬಗ್ಗೆ ಪ್ರತಿಬಿಂಬಿಸಲು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ, ಅಂತಿಮವಾಗಿ ಸಮಗ್ರತೆ ಮತ್ತು ವಿಶ್ವದೊಂದಿಗೆ ಸಾಮರಸ್ಯದಿಂದ ಬದುಕಿದ ಜೀವನವನ್ನು ಬಯಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S161_191-5_5",
+      "mandala": 10,
+      "sukta": 161,
+      "ric_index": 5,
+      "rig_lines": [
+        "आहा᳚र्षं॒ त्वावि॑दं त्वा॒ पुन॒रागाः᳚ पुनर्नव |",
+        "सर्वा᳚ङ्ग॒ सर्वं᳚ ते॒ चक्षुः॒ सर्व॒मायु॑श्च तेऽविदम् ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "अ॒हा॒र्ष॒‌म्",
+        "त्वा॒",
+        "अवि॑द‌म्",
+        "त्वा॒",
+        "पुनः॑",
+        "आ",
+        "अ॒गाः॒",
+        "पु॒नः॒ऽन॒व॒",
+        "सर्व॑।आङ्ग",
+        "सर्व᳚‌म्",
+        "ते॒",
+        "चक्षुः॑",
+        "सर्व᳚‌म्",
+        "आयुः॑",
+        "च॒",
+        "ते॒",
+        "अ॒वि॒द॒‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle, intensifying)",
+          "meaning_kn": "(ಉಪಸರ್ಗ, ತೀವ್ರಗೊಳಿಸುವ)"
+        },
+        {
+          "pada_original": "अ॒हा॒र्ष॒‌म्",
+          "pada_kn": "ಅಹಾರ್ಷಮ್",
+          "meaning_en": "I have brought back / I have taken away (from illness)",
+          "meaning_kn": "ನಾನು ಹಿಂದಕ್ಕೆ ತಂದಿದ್ದೇನೆ / ನಾನು ದೂರ ಮಾಡಿದ್ದೇನೆ (ರೋಗದಿಂದ)"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "अवि॑द‌म्",
+          "pada_kn": "ಅವಿದಮ್",
+          "meaning_en": "I have found / I have known",
+          "meaning_kn": "ನಾನು ಕಂಡುಕೊಂಡಿದ್ದೇನೆ / ನಾನು ತಿಳಿದಿದ್ದೇನೆ"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "पुनः॑",
+          "pada_kn": "ಪುನಃ",
+          "meaning_en": "again",
+          "meaning_kn": "ಮತ್ತೆ / ಪುನಃ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle, indicating return)",
+          "meaning_kn": "(ಉಪಸರ್ಗ, ಹಿಂದಿರುಗುವಿಕೆಯನ್ನು ಸೂಚಿಸುವ)"
+        },
+        {
+          "pada_original": "अ॒गाः॒",
+          "pada_kn": "ಅಗಾಃ",
+          "meaning_en": "you have come (back)",
+          "meaning_kn": "ನೀನು ಬಂದಿದ್ದೀಯೆ (ಹಿಂದಕ್ಕೆ)"
+        },
+        {
+          "pada_original": "पु॒नः॒ऽन॒व॒",
+          "pada_kn": "ಪುನಃನವ",
+          "meaning_en": "renewed / fresh again",
+          "meaning_kn": "ಮತ್ತೆ ಹೊಸದಾದ / ನವೀಕೃತವಾದ"
+        },
+        {
+          "pada_original": "सर्व॑।आङ्ग",
+          "pada_kn": "ಸರ್ವಾಂಗ",
+          "meaning_en": "all limbs / entire body",
+          "meaning_kn": "ಎಲ್ಲಾ ಅಂಗಗಳು / ಇಡೀ ದೇಹ"
+        },
+        {
+          "pada_original": "सर्व᳚‌म्",
+          "pada_kn": "ಸರ್ವಮ್",
+          "meaning_en": "all / entire",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಂಪೂರ್ಣ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "चक्षुः॑",
+          "pada_kn": "ಚಕ್ಷುಃ",
+          "meaning_en": "eye / sight",
+          "meaning_kn": "ಕಣ್ಣು / ದೃಷ್ಟಿ"
+        },
+        {
+          "pada_original": "सर्व᳚‌म्",
+          "pada_kn": "ಸರ್ವಮ್",
+          "meaning_en": "all / entire",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಂಪೂರ್ಣ"
+        },
+        {
+          "pada_original": "आयुः॑",
+          "pada_kn": "ಆಯುಃ",
+          "meaning_en": "life / life-span",
+          "meaning_kn": "ಆಯುಷ್ಯ / ಜೀವಿತಾವಧಿ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "अ॒वि॒द॒‌म्",
+          "pada_kn": "ಅವಿದಮ್",
+          "meaning_en": "I have found / I have known",
+          "meaning_kn": "ನಾನು ಕಂಡುಕೊಂಡಿದ್ದೇನೆ / ನಾನು ತಿಳಿದಿದ್ದೇನೆ"
+        }
+      ],
+      "full_meaning_en": "O Agni, I have invoked you, I have known you, you have come again, again you are new. I have known all your limbs, I have known all your eyes, and all your life.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ನಾನು ನಿನ್ನನ್ನು ಆಹ್ವಾನಿಸಿದ್ದೇನೆ, ನಾನು ನಿನ್ನನ್ನು ತಿಳಿದಿದ್ದೇನೆ, ನೀನು ಮತ್ತೆ ಬಂದಿದ್ದಿ, ಮತ್ತೆ ನೀನು ಹೊಸಬನಾಗಿದ್ದಿ. ನಾನು ನಿನ್ನ ಎಲ್ಲಾ ಅಂಗಗಳನ್ನು ತಿಳಿದಿದ್ದೇನೆ, ನಾನು ನಿನ್ನ ಎಲ್ಲಾ ಕಣ್ಣುಗಳನ್ನು ತಿಳಿದಿದ್ದೇನೆ, ಮತ್ತು ನಿನ್ನ ಎಲ್ಲಾ ಜೀವನವನ್ನು ತಿಳಿದಿದ್ದೇನೆ.",
+      "rig_time_s": 65.294,
+      "Insight_en": "This mantra speaks to the cyclical nature of existence and the renewal inherent in the divine अग्नि (Agni). The repeated invocation and recognition suggest a deep, continuous connection with the divine. Knowing all aspects – limbs, eyes, life – implies a complete understanding of the divine's manifestation and power. This intimate knowledge allows for a renewed relationship with अग्नि (Agni), highlighting the potential for constant spiritual growth and transformation. Each invocation brings forth a fresh experience, symbolizing the eternal and ever-new nature of the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಸ್ತಿತ್ವದ ಆವರ್ತಕ ಸ್ವರೂಪ ಮತ್ತು ದೈವಿಕ ಅಗ್ನಿಯಲ್ಲಿ ಅಂತರ್ಗತವಾಗಿರುವ ನವೀಕರಣದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಪದೇ ಪದೇ ಆಹ್ವಾನ ಮತ್ತು ಗುರುತಿಸುವಿಕೆಯು ದೈವಿಕದೊಂದಿಗೆ ಆಳವಾದ, ನಿರಂತರ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಎಲ್ಲಾ ಅಂಶಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳುವುದು - ಅಂಗಗಳು, ಕಣ್ಣುಗಳು, ಜೀವನ - ದೈವಿಕ ಅಭಿವ್ಯಕ್ತಿ ಮತ್ತು ಶಕ್ತಿಯ ಸಂಪೂರ್ಣ ತಿಳುವಳಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ನಿಕಟ ಜ್ಞಾನವು ಅಗ್ನಿಯೊಂದಿಗೆ ನವೀಕೃತ ಸಂಬಂಧವನ್ನು ಅನುಮತಿಸುತ್ತದೆ, ನಿರಂತರ ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ರೂಪಾಂತರದ ಸಾಮರ್ಥ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಪ್ರತಿಯೊಂದು ಆಹ್ವಾನವು ಒಂದು ಹೊಸ ಅನುಭವವನ್ನು ತರುತ್ತದೆ, ಇದು ದೈವಿಕದ ಶಾಶ್ವತ ಮತ್ತು ಸದಾ ಹೊಸ ಸ್ವರೂಪವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

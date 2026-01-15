@@ -1,0 +1,1483 @@
+{
+  "mandala": 5,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M5-S83_87-1_10",
+      "mandala": 5,
+      "sukta": 83,
+      "ric_index": 1,
+      "rig_lines": [
+        "अच्छा᳚ वद त॒वसं᳚ गी॒र्भिरा॒भिः स्तु॒हि प॒र्जन्यं॒ नम॒सा वि॑वास |",
+        "कनि॑क्रदद्‌ वृष॒भो जी॒रदा᳚नू॒ रेतो᳚ दधा॒त्योष॑धीषु॒ गर्भ᳚म् ||"
+      ],
+      "pre_splits": [
+        "अच्छ॑",
+        "व॒द॒",
+        "त॒वस᳚‌म्",
+        "गीः॒ऽभिः",
+        "आ॒भिः",
+        "स्तु॒हि",
+        "प॒र्जन्य᳚‌म्",
+        "नम॑सा",
+        "आ",
+        "वि॒वा॒स॒",
+        "कनि॑क्रदत्",
+        "वृ॒ष॒भः",
+        "जी॒रऽदा᳚नुः",
+        "रेतः॑",
+        "द॒धा॒ति॒",
+        "ओष॑धीषु",
+        "गर्भ᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अच्छ॑",
+          "pada_kn": "ಅಚ್ಛ",
+          "meaning_en": "towards",
+          "meaning_kn": "ಕಡೆಗೆ / ಸಮೀಪಕ್ಕೆ"
+        },
+        {
+          "pada_original": "व॒द॒",
+          "pada_kn": "ವದ",
+          "meaning_en": "speak / praise",
+          "meaning_kn": "ನುಡಿ / ಸ್ತುತಿಸು"
+        },
+        {
+          "pada_original": "त॒वस᳚‌म्",
+          "pada_kn": "ತವಸಮ್",
+          "meaning_en": "the strong one",
+          "meaning_kn": "ಪ್ರಬಲನನ್ನು"
+        },
+        {
+          "pada_original": "गीः॒ऽभिः",
+          "pada_kn": "ಗೀಃಭಿಃ",
+          "meaning_en": "with praises / with songs",
+          "meaning_kn": "ಸ್ತುತಿಗಳಿಂದ / ಗೀತೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "आ॒भिः",
+          "pada_kn": "ಆಭಿಃ",
+          "meaning_en": "these",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "स्तु॒हि",
+          "pada_kn": "ಸ್ತುಹಿ",
+          "meaning_en": "praise / extol",
+          "meaning_kn": "ಸ್ತುತಿಸು / ಹೊಗಳು"
+        },
+        {
+          "pada_original": "प॒र्जन्य᳚‌म्",
+          "pada_kn": "ಪರ್ಜನ್ಯಮ್",
+          "meaning_en": "Parjanya (the rain-god)",
+          "meaning_kn": "ಪರ್ಜನ್ಯನನ್ನು (ಮಳೆ ದೇವರನ್ನು)"
+        },
+        {
+          "pada_original": "नम॑सा",
+          "pada_kn": "ನಮಸಾ",
+          "meaning_en": "with reverence / with homage",
+          "meaning_kn": "ನಮಸ್ಕಾರದಿಂದ / ಗೌರವದಿಂದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix for 'vivas')",
+          "meaning_kn": "(ವಿವಾಸ್ ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "वि॒वा॒स॒",
+          "pada_kn": "ವಿವಾಸ",
+          "meaning_en": "worship / serve",
+          "meaning_kn": "ಪೂಜಿಸು / ಸೇವಿಸು"
+        },
+        {
+          "pada_original": "कनि॑क्रदत्",
+          "pada_kn": "ಕನಿಕ್ರದತ್",
+          "meaning_en": "roaring loudly / thundering",
+          "meaning_kn": "ಘರ್ಜಿಸುತ್ತಾ / ಗುಡುಗುತ್ತಾ"
+        },
+        {
+          "pada_original": "वृ॒ष॒भः",
+          "pada_kn": "ವೃಷಭಃ",
+          "meaning_en": "the bull (the potent one)",
+          "meaning_kn": "ವೃಷಭನು (ಶಕ್ತಿಶಾಲಿ)"
+        },
+        {
+          "pada_original": "जी॒रऽदा᳚नुः",
+          "pada_kn": "ಜೀರದಾನುಃ",
+          "meaning_en": "whose gifts are swift",
+          "meaning_kn": "ಯಾರ ದಾನಗಳು ಶೀಘ್ರವೋ ಅವನು"
+        },
+        {
+          "pada_original": "रेतः॑",
+          "pada_kn": "ರೇತಃ",
+          "meaning_en": "seed / fertilizing fluid (rain)",
+          "meaning_kn": "ಬೀಜ / ಫಲವತ್ತಾದ ದ್ರವ (ಮಳೆ)"
+        },
+        {
+          "pada_original": "द॒धा॒ति॒",
+          "pada_kn": "ದಧಾತಿ",
+          "meaning_en": "places / bestows",
+          "meaning_kn": "ಇಡುತ್ತಾನೆ / ನೀಡುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "ओष॑धीषु",
+          "pada_kn": "ಓಷಧೀಷು",
+          "meaning_en": "in the plants / in the herbs",
+          "meaning_kn": "ಸಸ್ಯಗಳಲ್ಲಿ / ಗಿಡಮೂಲಿಕೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "गर्भ᳚‌म्",
+          "pada_kn": "ಗರ್ಭಮ್",
+          "meaning_en": "embryo / germ / offspring",
+          "meaning_kn": "ಗರ್ಭವನ್ನು / ಭ್ರೂಣವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O people, invoke the mighty Parjanya with these hymns; adore and serve him with reverence. The loudly roaring Bull, whose gifts are swift, deposits the life-giving seed as an embryo within the plants.",
+      "full_meaning_kn": "ಎಲೈ ಜನರೇ, ಈ ಸ್ತೋತ್ರಗಳಿಂದ ಬಲಿಷ್ಠ ಪರ್ಜನ್ಯನನ್ನು ಆವಾಹಿಸಿರಿ; ಭಕ್ತಿಯಿಂದ ಆರಾಧಿಸಿ ಮತ್ತು ಸೇವೆ ಮಾಡಿರಿ. ಜೋರಾಗಿ ಘರ್ಜಿಸುವ ವೃಷಭನು, ಯಾರ ಕೊಡುಗೆಗಳು ಕ್ಷಿಪ್ರವಾಗಿವೆಯೋ, ಅವನು ಸಸ್ಯಗಳಲ್ಲಿ ಜೀವ ನೀಡುವ ಬೀಜವನ್ನು ಭ್ರೂಣವಾಗಿ ಠೇವಣಿ ಮಾಡುತ್ತಾನೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "Parjanya, the rain god, embodies the creative power of the Divine that permeates all existence. Just as rain impregnates the earth, so too does the Divine grace (कृपा) infuse life and consciousness into every being. The 'seed' (रेतस्) symbolizes potential, and the 'embryo' (गर्भ) represents the unfolding of that potential within the womb of existence. The roaring sound signifies the potent energy that manifests as creation.",
+      "Insight_kn": "ಪರ್ಜನ್ಯನು, ಮಳೆ ದೇವರು, ಸೃಷ್ಟಿಯ ಎಲ್ಲಾ ಅಸ್ತಿತ್ವದಲ್ಲಿ ವ್ಯಾಪಿಸಿರುವ ದೈವಿಕ ಸೃಜನಶೀಲ ಶಕ್ತಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ಮಳೆಯು ಭೂಮಿಯನ್ನು ಹೇಗೆ ತುಂಬುತ್ತದೆಯೋ, ಹಾಗೆಯೇ ದೈವಿಕ ಕೃಪೆಯು (ಕೃಪಾ) ಪ್ರತಿಯೊಂದು ಜೀವಿಗೂ ಜೀವ ಮತ್ತು ಪ್ರಜ್ಞೆಯನ್ನು ತುಂಬುತ್ತದೆ. 'ಬೀಜ' (ರೆತಸ್) ಸಾಮರ್ಥ್ಯವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ ಮತ್ತು 'ಭ್ರೂಣ' (ಗರ್ಭ) ಅಸ್ತಿತ್ವದ ಗರ್ಭದಲ್ಲಿ ಆ ಸಾಮರ್ಥ್ಯದ ಅನಾವರಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಘರ್ಜನೆಯ ಶಬ್ದವು ಸೃಷ್ಟಿಯಾಗಿ ವ್ಯಕ್ತವಾಗುವ ಪ್ರಬಲ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S83_87-2_10",
+      "mandala": 5,
+      "sukta": 83,
+      "ric_index": 2,
+      "rig_lines": [
+        "वि वृ॒क्षान्‌ ह᳚न्त्यु॒त ह᳚न्ति र॒क्षसो॒ विश्वं᳚ बिभाय॒ भुव॑नं म॒हाव॑धात् |",
+        "उ॒ताना᳚गा, ईषते॒ वृष्ण्या᳚वतो॒ यत्‌ प॒र्जन्यः॑ स्त॒नय॒न्‌ हन्ति॑ दु॒ष्कृतः॑ ||"
+      ],
+      "pre_splits": [
+        "वि",
+        "वृ॒क्षान्",
+        "ह॒न्ति॒",
+        "उ॒त",
+        "ह॒न्ति॒",
+        "र॒क्षसः॑",
+        "विश्व᳚‌म्",
+        "बि॒भा॒य॒",
+        "भुव॑न‌म्",
+        "म॒हाऽव॑धात्",
+        "उ॒त",
+        "अना᳚गाः",
+        "ई॒ष॒ते॒",
+        "वृष्ण्य॑ऽवतः",
+        "यत्",
+        "प॒र्जन्यः॑",
+        "स्त॒नय॑न्",
+        "हन्ति॑",
+        "दुः॒ऽकृतः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "away / apart",
+          "meaning_kn": "ದೂರ / ಪ್ರತ್ಯೇಕವಾಗಿ"
+        },
+        {
+          "pada_original": "वृ॒क्षान्",
+          "pada_kn": "ವೃಕ್ಷಾನ್",
+          "meaning_en": "trees",
+          "meaning_kn": "ಮರಗಳನ್ನು"
+        },
+        {
+          "pada_original": "ह॒न्ति॒",
+          "pada_kn": "ಹನ್ತಿ",
+          "meaning_en": "(he) strikes / destroys",
+          "meaning_kn": "(ಅವನು) ಹೊಡೆಯುತ್ತಾನೆ / ನಾಶಮಾಡುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "ह॒न्ति॒",
+          "pada_kn": "ಹನ್ತಿ",
+          "meaning_en": "(he) strikes / destroys",
+          "meaning_kn": "(ಅವನು) ಹೊಡೆಯುತ್ತಾನೆ / ನಾಶಮಾಡುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "र॒क्षसः॑",
+          "pada_kn": "ರಕ್ಷಸಃ",
+          "meaning_en": "demons / evil spirits",
+          "meaning_kn": "ರಾಕ್ಷಸರನ್ನು / ದುಷ್ಟಶಕ್ತಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "विश्व᳚‌म्",
+          "pada_kn": "ವಿಶ್ವಮ್",
+          "meaning_en": "all / entire",
+          "meaning_kn": "ಎಲ್ಲಾ / ಇಡೀ"
+        },
+        {
+          "pada_original": "बि॒भा॒य॒",
+          "pada_kn": "ಬಿಭಾಯ",
+          "meaning_en": "fears / is afraid",
+          "meaning_kn": "ಭಯಪಡುತ್ತದೆ / ಹೆದರುತ್ತದೆ"
+        },
+        {
+          "pada_original": "भुव॑न‌म्",
+          "pada_kn": "ಭುವನಮ್",
+          "meaning_en": "world / creation",
+          "meaning_kn": "ಲೋಕ / ಸೃಷ್ಟಿ"
+        },
+        {
+          "pada_original": "म॒हाऽव॑धात्",
+          "pada_kn": "ಮಹಾವಧಾತ್",
+          "meaning_en": "from the great striking / from the great blow",
+          "meaning_kn": "ಮಹಾ ಪ್ರಹಾರದಿಂದ / ಮಹಾ ಹೊಡೆತದಿಂದ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "अना᳚गाः",
+          "pada_kn": "ಅನಾಗಾಃ",
+          "meaning_en": "the innocent / blameless",
+          "meaning_kn": "ನಿರಪರಾಧಿಗಳು / ದೋಷರಹಿತರು"
+        },
+        {
+          "pada_original": "ई॒ष॒ते॒",
+          "pada_kn": "ಈಷತೇ",
+          "meaning_en": "trembles / is disturbed",
+          "meaning_kn": "ನಡುಗುತ್ತದೆ / ವಿಚಲಿತವಾಗುತ್ತದೆ"
+        },
+        {
+          "pada_original": "वृष्ण्य॑ऽवतः",
+          "pada_kn": "ವೃಷ್ಣ್ಯವತಃ",
+          "meaning_en": "of the powerful one / of the mighty one",
+          "meaning_kn": "ಪ್ರಬಲನಾದವನ / ಶಕ್ತಿಶಾಲಿಯಾದವನ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / that",
+          "meaning_kn": "ಯಾವಾಗ / ಅದು"
+        },
+        {
+          "pada_original": "प॒र्जन्यः॑",
+          "pada_kn": "ಪರ್ಜನ್ಯಃ",
+          "meaning_en": "Parjanya (the rain god)",
+          "meaning_kn": "ಪರ್ಜನ್ಯ (ಮಳೆ ದೇವರು)"
+        },
+        {
+          "pada_original": "स्त॒नय॑न्",
+          "pada_kn": "ಸ್ತನಯನ್",
+          "meaning_en": "thundering / roaring",
+          "meaning_kn": "ಗುಡುಗುತ್ತಾ / ಘರ್ಜಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "हन्ति॑",
+          "pada_kn": "ಹನ್ತಿ",
+          "meaning_en": "strikes / kills",
+          "meaning_kn": "ಹೊಡೆಯುತ್ತಾನೆ / ಕೊಲ್ಲುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "दुः॒ऽकृतः॑",
+          "pada_kn": "ದುಷ್ಕೃತಃ",
+          "meaning_en": "evildoers / those who do wrong",
+          "meaning_kn": "ದುಷ್ಕರ್ಮಿಗಳನ್ನು / ಕೆಟ್ಟ ಕೆಲಸ ಮಾಡುವವರನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Parjanya, you strike down the trees and slay the demons. The entire world trembles at your mighty power. Even the innocent fear your strength, when, thundering, you strike down the evildoers.",
+      "full_meaning_kn": "ಓ ಪರ್ಜನ್ಯನೇ, ನೀನು ವೃಕ್ಷಗಳನ್ನು ಹೊಡೆದುರುಳಿಸುತ್ತಿ, ರಾಕ್ಷಸರನ್ನು ಕೊಲ್ಲುತ್ತಿ. ನಿನ್ನ ಮಹಾ ಹೊಡೆತಕ್ಕೆ ಇಡೀ ಜಗವೇ ನಡುಗುವುದು. ನಿನ್ನ ಬಲಕ್ಕೆ ಮುಗ್ಧರೂ ಹೆದರುವರು, ಗುಡುಗುತ್ತಾ ನೀನು ದುಷ್ಕರ್ಮಿಗಳನ್ನು ಹೊಡೆದುರುಳಿಸುವಾಗ.",
+      "rig_time_s": 14.788,
+      "Insight_en": "Parjanya represents the divine force that both nourishes and destroys. The evildoers are our inner demons, the negative tendencies that obstruct spiritual growth. The thunder is the voice of truth, shattering illusions and prompting purification. Even the innocent tremble because the path to enlightenment requires confronting and overcoming the ego.",
+      "Insight_kn": "ಪರ್ಜನ್ಯನು ಪೋಷಿಸುವ ಮತ್ತು ನಾಶಮಾಡುವ ದೈವಿಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ದುಷ್ಕರ್ಮಿಗಳು ನಮ್ಮ ಆಂತರಿಕ ರಾಕ್ಷಸರು, ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಅಡ್ಡಿಯುಂಟುಮಾಡುವ ನಕಾರಾತ್ಮಕ ಪ್ರವೃತ್ತಿಗಳು. ಗುಡುಗು ಸತ್ಯದ ಧ್ವನಿಯಾಗಿದೆ, ಇದು ಭ್ರಮೆಗಳನ್ನು ಚೂರುಚೂರು ಮಾಡುತ್ತದೆ ಮತ್ತು ಶುದ್ಧೀಕರಣಕ್ಕೆ ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ಮುಗ್ಧರೂ ನಡುಗುತ್ತಾರೆ, ಏಕೆಂದರೆ ಜ್ಞಾನೋದಯದ ಹಾದಿಗೆ ಅಹಂ ಅನ್ನು ಎದುರಿಸುವುದು ಮತ್ತು ಜಯಿಸುವುದು ಅಗತ್ಯವಾಗಿರುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S83_87-3_10",
+      "mandala": 5,
+      "sukta": 83,
+      "ric_index": 3,
+      "rig_lines": [
+        "र॒थीव॒ कश॒याश्वाँ᳚, अभिक्षि॒पन्ना॒विर्दू॒तान्‌ कृ॑णुते व॒र्ष्या॒३॑(आँ॒) अह॑ |",
+        "दू॒रात्‌ सिं॒हस्य॑ स्त॒नथा॒, उदी᳚रते॒ यत्‌ प॒र्जन्यः॑ कृणु॒ते व॒र्ष्य१॑(अं॒) नभः॑ ||"
+      ],
+      "pre_splits": [
+        "र॒थीऽ‌इ᳚व",
+        "कश॑या",
+        "अश्वा᳚न्",
+        "अ॒भि॒ऽक्षि॒पन्",
+        "आ॒विः",
+        "दू॒तान्",
+        "कृ॒णु॒ते॒",
+        "व॒र्ष्या᳚न्",
+        "अह॑",
+        "दू॒रात्",
+        "सिं॒हस्य॑",
+        "स्त॒नथाः᳚",
+        "उत्",
+        "ई॒र॒ते॒",
+        "यत्",
+        "प॒र्जन्यः॑",
+        "कृ॒णु॒ते",
+        "व॒र्ष्य᳚‌म्",
+        "नभः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "र॒थीऽ‌इ᳚व",
+          "pada_kn": "ರಥೀಇವ",
+          "meaning_en": "like a charioteer",
+          "meaning_kn": "ರಥಿಕನಂತೆ"
+        },
+        {
+          "pada_original": "कश॑या",
+          "pada_kn": "ಕಶಯಾ",
+          "meaning_en": "with a whip",
+          "meaning_kn": "ಚಾವಟಿಯಿಂದ"
+        },
+        {
+          "pada_original": "अश्वा᳚न्",
+          "pada_kn": "ಅಶ್ವಾನ್",
+          "meaning_en": "horses",
+          "meaning_kn": "ಕುದುರೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अ॒भि॒ऽक्षि॒पन्",
+          "pada_kn": "ಅಭಿಕ್ಷಿಪನ್",
+          "meaning_en": "lashing / striking",
+          "meaning_kn": "ಹೊಡೆಯುತ್ತಾ / ಚಾವಟಿ ಬೀಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "आ॒विः",
+          "pada_kn": "ಆವಿಃ",
+          "meaning_en": "manifest / visible",
+          "meaning_kn": "ಪ್ರಕಟವಾಗಿ / ಗೋಚರವಾಗಿ"
+        },
+        {
+          "pada_original": "दू॒तान्",
+          "pada_kn": "ದೂತಾನ್",
+          "meaning_en": "messengers",
+          "meaning_kn": "ದೂತರನ್ನು"
+        },
+        {
+          "pada_original": "कृ॒णु॒ते॒",
+          "pada_kn": "ಕೃಣುತೇ",
+          "meaning_en": "he makes / creates",
+          "meaning_kn": "ಮಾಡುತ್ತಾನೆ / ಸೃಷ್ಟಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "व॒र्ष्या᳚न्",
+          "pada_kn": "ವರ್ಷ್ಯಾನ್",
+          "meaning_en": "rainy (days)",
+          "meaning_kn": "ಮಳೆಯ (ದಿನಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "अह॑",
+          "pada_kn": "ಅಹ",
+          "meaning_en": "days",
+          "meaning_kn": "ದಿನಗಳನ್ನು"
+        },
+        {
+          "pada_original": "दू॒रात्",
+          "pada_kn": "ದೂರಾತ್",
+          "meaning_en": "from afar / from a distance",
+          "meaning_kn": "ದೂರದಿಂದ"
+        },
+        {
+          "pada_original": "सिं॒हस्य॑",
+          "pada_kn": "ಸಿಂಹಸ್ಯ",
+          "meaning_en": "of a lion",
+          "meaning_kn": "ಸಿಂಹದ"
+        },
+        {
+          "pada_original": "स्त॒नथाः᳚",
+          "pada_kn": "ಸ್ತನಥಾಃ",
+          "meaning_en": "roars / thunderings",
+          "meaning_kn": "ಗರ್ಜನೆಗಳು / ಗುಡುಗುಗಳು"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / forth",
+          "meaning_kn": "ಮೇಲೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "ई॒र॒ते॒",
+          "pada_kn": "ಈರತೇ",
+          "meaning_en": "they rise / move",
+          "meaning_kn": "ಏಳುತ್ತವೆ / ಹೊರಹೊಮ್ಮುತ್ತವೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "प॒र्जन्यः॑",
+          "pada_kn": "ಪರ್ಜನ್ಯಃ",
+          "meaning_en": "Parjanya (the rain god)",
+          "meaning_kn": "ಪರ್ಜನ್ಯನು"
+        },
+        {
+          "pada_original": "कृ॒णु॒ते",
+          "pada_kn": "ಕೃಣುತೇ",
+          "meaning_en": "he makes / creates",
+          "meaning_kn": "ಮಾಡುತ್ತಾನೆ / ಸೃಷ್ಟಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "व॒र्ष्य᳚‌म्",
+          "pada_kn": "ವರ್ಷ್ಯಮ್",
+          "meaning_en": "rainy",
+          "meaning_kn": "ಮಳೆಯ"
+        },
+        {
+          "pada_original": "नभः॑",
+          "pada_kn": "ನಭಃ",
+          "meaning_en": "sky / cloud",
+          "meaning_kn": "ಆಕಾಶವನ್ನು / ಮೋಡವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "Like a charioteer urging on his horses with a whip, Parjanya manifests his rain-bearing messengers during the days of বর্ষা. When Parjanya creates the rain-filled sky, the roars of the lion rise up from afar.",
+      "full_meaning_kn": "ರಥಿಕನು ಕುದುರೆಗಳನ್ನು ಚಾಟಿಯಿಂದ ಹೊಡೆದು ಪ್ರೇರೇಪಿಸುವಂತೆ, ಪರ್ಜನ್ಯನು ಮಳೆಯ ದಿನಗಳಲ್ಲಿ ತನ್ನ ಮಳೆ ಹೊತ್ತು ತರುವ ದೂತರನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತಾನೆ. ಪರ್ಜನ್ಯನು ಮಳೆಯಿಂದ ತುಂಬಿದ ಆಕಾಶವನ್ನು ಸೃಷ್ಟಿಸಿದಾಗ, ಸಿಂಹದ ಘರ್ಜನೆಗಳು ದೂರದಿಂದ ಮೇಲೇಳುತ್ತವೆ.",
+      "rig_time_s": 30.643,
+      "Insight_en": "Parjanya represents the divine power that awakens dormant potential within us. Just as a charioteer guides his horses, our inner will must direct our energies. The thunder is the voice of truth, rising from the depths of our being, heralding inner transformation. The rain signifies the release of inner blockages.",
+      "Insight_kn": "ಪರ್ಜನ್ಯನು ನಮ್ಮಲ್ಲಿನ ಸುಪ್ತ ಸಾಮರ್ಥ್ಯವನ್ನು ಜಾಗೃತಗೊಳಿಸುವ ದೈವಿಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ರಥಿಕನು ತನ್ನ ಕುದುರೆಗಳನ್ನು ಹೇಗೆ ಮಾರ್ಗದರ್ಶಿಸುತ್ತಾನೋ ಹಾಗೆ, ನಮ್ಮ ಆಂತರಿಕ ಇಚ್ಛಾಶಕ್ತಿಯು ನಮ್ಮ ಶಕ್ತಿಯನ್ನು ನಿರ್ದೇಶಿಸಬೇಕು. ಗುಡುಗು ಸತ್ಯದ ಧ್ವನಿಯಾಗಿದೆ, ಅದು ನಮ್ಮ ಅಸ್ತಿತ್ವದ ಆಳದಿಂದ ಏರುತ್ತದೆ, ಆಂತರಿಕ ರೂಪಾಂತರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮಳೆಯು ಆಂತರಿಕ ಅಡೆತಡೆಗಳ ಬಿಡುಗಡೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S83_87-4_10",
+      "mandala": 5,
+      "sukta": 83,
+      "ric_index": 4,
+      "rig_lines": [
+        "प्र वाता॒ वान्ति॑ प॒तय᳚न्ति वि॒द्युत॒ उदोष॑धी॒र्जिह॑ते॒ पिन्व॑ते॒ स्वः॑ |",
+        "इरा॒ विश्व॑स्मै॒ भुव॑नाय जायते॒ यत्‌ प॒र्जन्यः॑ पृथि॒वीं रेत॒साव॑ति ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "वाताः᳚",
+        "वान्ति॑",
+        "प॒तय᳚न्ति",
+        "वि॒ऽद्युतः॑",
+        "उत्",
+        "ओष॑धीः",
+        "जिह॑ते",
+        "पिन्व॑ते",
+        "स्व१॒॑रिति॒ स्वः॑",
+        "इरा᳚",
+        "विश्व॑स्मै",
+        "भुव॑नाय",
+        "जा॒य॒ते॒",
+        "यत्",
+        "प॒र्जन्यः॑",
+        "पृ॒थि॒वी‌म्",
+        "रेत॑सा",
+        "अव॑ति"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "वाताः᳚",
+          "pada_kn": "ವಾತಾಃ",
+          "meaning_en": "winds",
+          "meaning_kn": "ಗಾಳಿಗಳು"
+        },
+        {
+          "pada_original": "वान्ति॑",
+          "pada_kn": "ವಾನ್ತಿ",
+          "meaning_en": "blow",
+          "meaning_kn": "ಬೀಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "प॒तय᳚न्ति",
+          "pada_kn": "ಪತಯನ್ತಿ",
+          "meaning_en": "flash / fall",
+          "meaning_kn": "ಹೊಳೆಯುತ್ತವೆ / ಬೀಳುತ್ತವೆ"
+        },
+        {
+          "pada_original": "वि॒ऽद्युतः॑",
+          "pada_kn": "ವಿದ್ಯುತಃ",
+          "meaning_en": "lightnings",
+          "meaning_kn": "ಮಿಂಚುಗಳು"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / forth",
+          "meaning_kn": "ಮೇಲೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "ओष॑धीः",
+          "pada_kn": "ಓಷಧೀಃ",
+          "meaning_en": "herbs / plants",
+          "meaning_kn": "ಸಸ್ಯಗಳು / ಮೂಲಿಕೆಗಳು"
+        },
+        {
+          "pada_original": "जिह॑ते",
+          "pada_kn": "ಜಿಹತೇ",
+          "meaning_en": "grow / spring up",
+          "meaning_kn": "ಬೆಳೆಯುತ್ತವೆ / ಚಿಗುರುತ್ತವೆ"
+        },
+        {
+          "pada_original": "पिन्व॑ते",
+          "pada_kn": "ಪಿನ್ವತೇ",
+          "meaning_en": "swells / pours",
+          "meaning_kn": "ತುಂಬುತ್ತದೆ / ಸುರಿಯುತ್ತದೆ"
+        },
+        {
+          "pada_original": "स्व१॒॑रिति॒ स्वः॑",
+          "pada_kn": "ಸ್ವರಿತಿ ಸ್ವಃ",
+          "meaning_en": "the sky / heaven",
+          "meaning_kn": "ಆಕಾಶ / ಸ್ವರ್ಗ"
+        },
+        {
+          "pada_original": "इरा᳚",
+          "pada_kn": "ಇರಾ",
+          "meaning_en": "nourishment / food / water",
+          "meaning_kn": "ಪೋಷಣೆ / ಆಹಾರ / ನೀರು"
+        },
+        {
+          "pada_original": "विश्व॑स्मै",
+          "pada_kn": "ವಿಶ್ವಸ್ಮೈ",
+          "meaning_en": "for all",
+          "meaning_kn": "ಎಲ್ಲರಿಗೂ"
+        },
+        {
+          "pada_original": "भुव॑नाय",
+          "pada_kn": "ಭುವನಾಯ",
+          "meaning_en": "for beings / for the world",
+          "meaning_kn": "ಜೀವಿಗಳಿಗಾಗಿ / ಜಗತ್ತಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "जा॒य॒ते॒",
+          "pada_kn": "ಜಾಯತೇ",
+          "meaning_en": "is born / arises",
+          "meaning_kn": "ಉಂಟಾಗುತ್ತದೆ / ಹುಟ್ಟುತ್ತದೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / because",
+          "meaning_kn": "ಯಾವಾಗ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "प॒र्जन्यः॑",
+          "pada_kn": "ಪರ್ಜನ್ಯಃ",
+          "meaning_en": "Parjanya (the rain-god)",
+          "meaning_kn": "ಪರ್ಜನ್ಯ (ಮಳೆ ದೇವರು)"
+        },
+        {
+          "pada_original": "पृ॒थि॒वी‌म्",
+          "pada_kn": "ಪೃಥಿವೀಮ್",
+          "meaning_en": "the earth",
+          "meaning_kn": "ಭೂಮಿಯನ್ನು"
+        },
+        {
+          "pada_original": "रेत॑सा",
+          "pada_kn": "ರೇತಸಾ",
+          "meaning_en": "with seed / with fertilizing fluid (rain)",
+          "meaning_kn": "ಬೀಜದಿಂದ / ಫಲವತ್ತಾದ ದ್ರವದಿಂದ (ಮಳೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "अव॑ति",
+          "pada_kn": "ಅವತಿ",
+          "meaning_en": "nourishes / protects",
+          "meaning_kn": "ಪೋಷಿಸುತ್ತಾನೆ / ರಕ್ಷಿಸುತ್ತಾನೆ"
+        }
+      ],
+      "full_meaning_en": "The winds blow, the lightnings flash, the plants shoot up, and the heavens swell. Sustenance is born for all the world when Parjanya impregnates the earth with seed.",
+      "full_meaning_kn": "ಮಾರುತಗಳು ಬೀಸುತ್ತವೆ, ಮಿಂಚು ಮಿಂಚುತ್ತದೆ, ಸಸ್ಯಗಳು ಚಿಗುರುತ್ತವೆ, ಮತ್ತು ಸ್ವರ್ಗವು ಉಕ್ಕಿ ಹರಿಯುತ್ತದೆ. ಪರ್ಜನ್ಯನು ಭೂಮಿಗೆ ಬೀಜವನ್ನು ಧಾರೆಯೆರೆದಾಗ ಜಗತ್ತಿಗೆಲ್ಲಾ ಪೋಷಣೆ ಹುಟ್ಟುತ್ತದೆ.",
+      "rig_time_s": 50.474,
+      "Insight_en": "The cosmic dance of elements—wind, lightning, and rain— mirrors the inner alchemical process. Parjanya, the rain deity, represents the divine creative force that fertilizes the earth (Prithvi), symbolizing the receptive mind. The emergence of ओषधी (plants/herbs) signifies the manifestation of thoughts and insights when the mind is fertile and receptive to the divine influence. This mantra speaks to the importance of cultivating inner receptivity to allow divine wisdom to germinate and flourish within.",
+      "Insight_kn": "ಮಾರುತ, ಮಿಂಚು ಮತ್ತು ಮಳೆಯಂತಹ ಅಂಶಗಳ ಕಾಸ್ಮಿಕ್ ನೃತ್ಯವು ಆಂತರಿಕ ಆಲ್ಕೆಮಿಕಲ್ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಪರ್ಜನ್ಯನು ಮಳೆಯ ದೇವತೆ, ದೈವಿಕ ಸೃಜನಶೀಲ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಇದು ಭೂಮಿಯನ್ನು ಫಲವತ್ತಾಗಿಸುತ್ತದೆ (ಪೃಥ್ವಿ), ಇದು ಸ್ವೀಕರಿಸುವ ಮನಸ್ಸನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಓಷಧಿಗಳ ಹೊರಹೊಮ್ಮುವಿಕೆ (ಸಸ್ಯಗಳು/ಗಿಡಮೂಲಿಕೆಗಳು) ದೈವಿಕ ಪ್ರಭಾವಕ್ಕೆ ಮನಸ್ಸು ಫಲವತ್ತಾದ ಮತ್ತು ಸ್ವೀಕರಿಸುವ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದಾಗ ಆಲೋಚನೆಗಳು ಮತ್ತು ಒಳನೋಟಗಳ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ದೈವಿಕ ಜ್ಞಾನವು ಮೊಳಕೆಯೊಡೆಯಲು ಮತ್ತು ಬೆಳೆಯಲು ಅನುವು ಮಾಡಿಕೊಡಲು ಆಂತರಿಕ ಸ್ವೀಕಾರಾರ್ಹತೆಯನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುವ ಮಹತ್ವದ ಬಗ್ಗೆ ಈ ಮಂತ್ರವು ಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S83_87-5_10",
+      "mandala": 5,
+      "sukta": 83,
+      "ric_index": 5,
+      "rig_lines": [
+        "यस्य᳚ व्र॒ते पृ॑थि॒वी नन्न॑मीति॒ यस्य᳚ व्र॒ते श॒फव॒ज्जर्भु॑रीति |",
+        "यस्य᳚ व्र॒त ओष॑धीर्वि॒श्वरू᳚पाः॒ स नः॑ पर्जन्य॒ महि॒ शर्म॑ यच्छ ||"
+      ],
+      "pre_splits": [
+        "यस्य॑",
+        "व्र॒ते",
+        "पृ॒थि॒वी",
+        "नन्न॑मीति",
+        "यस्य॑",
+        "व्र॒ते",
+        "श॒फऽव॑त्",
+        "जर्भु॑रीति",
+        "यस्य॑",
+        "व्र॒ते",
+        "ओष॑धीः",
+        "वि॒श्वऽरू᳚पाः",
+        "सः",
+        "नः॒",
+        "प॒र्ज॒न्य॒",
+        "महि॑",
+        "शर्म॑",
+        "य॒च्छ॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "Whose / By whose (ordinance)",
+          "meaning_kn": "ಯಾರ / ಯಾವನ (ಆಜ್ಞೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "व्र॒ते",
+          "pada_kn": "ವ್ರತೇ",
+          "meaning_en": "in the ordinance / by the law",
+          "meaning_kn": "ಆಜ್ಞೆಯಲ್ಲಿ / ನಿಯಮದಿಂದ"
+        },
+        {
+          "pada_original": "पृ॒थि॒वी",
+          "pada_kn": "ಪೃಥಿವೀ",
+          "meaning_en": "the earth",
+          "meaning_kn": "ಭೂಮಿಯು"
+        },
+        {
+          "pada_original": "नन्न॑मीति",
+          "pada_kn": "ನನ್ನಮೀತಿ",
+          "meaning_en": "bows down / bends (with vegetation)",
+          "meaning_kn": "ಬಾಗುತ್ತದೆ / ನಮಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "Whose / By whose (ordinance)",
+          "meaning_kn": "ಯಾರ / ಯಾವನ (ಆಜ್ಞೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "व्र॒ते",
+          "pada_kn": "ವ್ರತೇ",
+          "meaning_en": "in the ordinance / by the law",
+          "meaning_kn": "ಆಜ್ಞೆಯಲ್ಲಿ / ನಿಯಮದಿಂದ"
+        },
+        {
+          "pada_original": "श॒फऽव॑त्",
+          "pada_kn": "ಶಫವತ್",
+          "meaning_en": "hoof-like / with hooves (moving)",
+          "meaning_kn": "ಗೊರಸುಳ್ಳಂತೆ / ಗೊರಸುಗಳಿಂದ (ಚಲಿಸುವಂತೆ)"
+        },
+        {
+          "pada_original": "जर्भु॑रीति",
+          "pada_kn": "ಜರ್ಭುರೀತಿ",
+          "meaning_en": "trembles / moves about",
+          "meaning_kn": "ನಡುಗುತ್ತದೆ / ಚಲಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "Whose / By whose (ordinance)",
+          "meaning_kn": "ಯಾರ / ಯಾವನ (ಆಜ್ಞೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "व्र॒ते",
+          "pada_kn": "ವ್ರತೇ",
+          "meaning_en": "in the ordinance / by the law",
+          "meaning_kn": "ಆಜ್ಞೆಯಲ್ಲಿ / ನಿಯಮದಿಂದ"
+        },
+        {
+          "pada_original": "ओष॑धीः",
+          "pada_kn": "ಓಷಧೀಃ",
+          "meaning_en": "the herbs / plants",
+          "meaning_kn": "ಸಸ್ಯಗಳು / ಓಷಧಿಗಳು"
+        },
+        {
+          "pada_original": "वि॒श्वऽरू᳚पाः",
+          "pada_kn": "ವಿಶ್ವರೂಪಾಃ",
+          "meaning_en": "of all forms / of various forms",
+          "meaning_kn": "ನಾನಾ ರೂಪವುಳ್ಳ / ವಿವಿಧ ರೂಪಗಳ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "that (Parjanya) / He",
+          "meaning_kn": "ಆ (ಪರ್ಜನ್ಯನು) / ಅವನು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "प॒र्ज॒न्य॒",
+          "pada_kn": "ಪರ್ಜನ್ಯ",
+          "meaning_en": "O Parjanya (rain-god)",
+          "meaning_kn": "ಓ ಪರ್ಜನ್ಯನೇ"
+        },
+        {
+          "pada_original": "महि॑",
+          "pada_kn": "ಮಹಿ",
+          "meaning_en": "great / vast",
+          "meaning_kn": "ಮಹತ್ತಾದ / ದೊಡ್ಡ"
+        },
+        {
+          "pada_original": "शर्म॑",
+          "pada_kn": "ಶರ್ಮ",
+          "meaning_en": "protection / happiness / shelter",
+          "meaning_kn": "ರಕ್ಷಣೆ / ಸುಖ / ಆಶ್ರಯ"
+        },
+        {
+          "pada_original": "य॒च्छ॒",
+          "pada_kn": "ಯಚ್ಛ",
+          "meaning_en": "grant / bestow",
+          "meaning_kn": "ನೀಡು / ಕೊಡು"
+        }
+      ],
+      "full_meaning_en": "O Parjanya, at whose command the earth bows down, at whose command the hooved creatures tremble, at whose command plants of all forms arise, grant us vast shelter and joy.",
+      "full_meaning_kn": "ಓ ಪರ್ಜನ್ಯ, ಯಾರ ಆಜ್ಞೆಯಲ್ಲಿ ಪೃಥ್ವಿಯು ತಗ್ಗುತ್ತದೆಯೋ, ಯಾರ ಆಜ್ಞೆಯಲ್ಲಿ ಗೊರಸುಳ್ಳ ಜೀವಿಗಳು ನಡುಗುತ್ತವೆಯೋ, ಯಾರ ಆಜ್ಞೆಯಲ್ಲಿ ಸಕಲ ಬಗೆಯ ಸಸ್ಯಗಳು ಏಳುತ್ತವೆಯೋ, ಆತನು ನಮಗೆ ಅಪಾರ ಆಶ್ರಯವನ್ನೂ ಆನಂದವನ್ನೂ ದಯಪಾಲಿಸಲಿ.",
+      "rig_time_s": 66.039,
+      "Insight_en": "The earth's surrender represents the ego's necessary humility before the divine will. The trembling hooves symbolize the shaking foundations of ignorance when confronted with truth. The flourishing plants signify the diverse expressions of consciousness emerging from the fertile ground of spiritual practice. Parjanya, as the rain-giver, is the life-giving force that nourishes both the physical and the spiritual realms. The seeker finds refuge and bliss in the embrace of this universal principle.",
+      "Insight_kn": "ಭೂಮಿಯ ಶರಣಾಗತಿಯು ದೈವಿಕ ಇಚ್ಛೆಯ ಮುಂದೆ ಅಹಂಕಾರದ ಅಗತ್ಯವಾದ ವಿನಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ನಡುಗುವ ಗೊರಸುಗಳು ಸತ್ಯವನ್ನು ಎದುರಿಸಿದಾಗ ಅಜ್ಞಾನದ ಅಡಿಪಾಯಗಳು ಅಲುಗಾಡುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಬೆಳೆಯುತ್ತಿರುವ ಸಸ್ಯಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಯ ಫಲವತ್ತಾದ ನೆಲದಿಂದ ಹೊರಹೊಮ್ಮುವ ಪ್ರಜ್ಞೆಯ ವಿವಿಧ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಪರ್ಜನ್ಯನು ಮಳೆಯನ್ನು ನೀಡುವವನಾಗಿ, ಭೌತಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಕ್ಷೇತ್ರಗಳನ್ನು ಪೋಷಿಸುವ ಜೀವ ನೀಡುವ ಶಕ್ತಿಯಾಗಿದ್ದಾನೆ. ಈ ಸಾರ್ವತ್ರಿಕ ತತ್ವದ ಆಲಿಂಗನದಲ್ಲಿ ಸಾಧಕನು ಆಶ್ರಯ ಮತ್ತು ಆನಂದವನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S83_87-6_10",
+      "mandala": 5,
+      "sukta": 83,
+      "ric_index": 6,
+      "rig_lines": [
+        "दि॒वो नो᳚ वृ॒ष्टिं म॑रुतो ररीध्वं॒ प्र पि᳚न्वत॒ वृष्णो॒, अश्व॑स्य॒ धाराः᳚ |",
+        "अ॒र्वाङे॒तेन॑ स्तनयि॒त्नुनेह्य॒पो नि॑षि॒ञ्चन्नसु॑रः पि॒ता नः॑ ||"
+      ],
+      "pre_splits": [
+        "दि॒वः",
+        "नः॒",
+        "वृ॒ष्टि‌म्",
+        "म॒रु॒तः॒",
+        "र॒री॒ध्व॒‌म्",
+        "प्र",
+        "पि॒न्व॒त॒",
+        "वृष्णः॑",
+        "अश्व॑स्य",
+        "धाराः᳚",
+        "अ॒र्वाङ्",
+        "ए॒तेन॑",
+        "स्त॒न॒यि॒त्नुना᳚",
+        "आ",
+        "इ॒हि॒",
+        "अ॒पः",
+        "नि॒ऽसिं॒चन्",
+        "असु॑रः",
+        "पि॒ता",
+        "नाः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "from heaven",
+          "meaning_kn": "ಸ್ವರ್ಗದಿಂದ / ಆಕಾಶದಿಂದ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "वृ॒ष्टि‌म्",
+          "pada_kn": "ವೃಷ್ಟಿಮ್",
+          "meaning_en": "rain",
+          "meaning_kn": "ಮಳೆ"
+        },
+        {
+          "pada_original": "म॒रु॒तः॒",
+          "pada_kn": "ಮರುತಃ",
+          "meaning_en": "O Maruts (storm gods)",
+          "meaning_kn": "ಓ ಮರುತ್‌ಗಳೇ"
+        },
+        {
+          "pada_original": "र॒री॒ध्व॒‌म्",
+          "pada_kn": "ರರೀಧ್ವಮ್",
+          "meaning_en": "grant / bestow",
+          "meaning_kn": "ನೀಡಿ / ದಯಪಾಲಿಸಿ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "पि॒न्व॒त॒",
+          "pada_kn": "ಪಿನ್ವತ",
+          "meaning_en": "cause to swell / make flow",
+          "meaning_kn": "ತುಂಬಿಸಿ / ಹರಿಯುವಂತೆ ಮಾಡಿ"
+        },
+        {
+          "pada_original": "वृष्णः॑",
+          "pada_kn": "ವೃಷ್ಣಃ",
+          "meaning_en": "of the potent one / of the bull (Parjanya)",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿಯಾದವನ / ವೃಷಭದ"
+        },
+        {
+          "pada_original": "अश्व॑स्य",
+          "pada_kn": "ಅಶ್ವಸ್ಯ",
+          "meaning_en": "of the horse (swift clouds)",
+          "meaning_kn": "ಅಶ್ವದ / ಕುದುರೆಯ"
+        },
+        {
+          "pada_original": "धाराः᳚",
+          "pada_kn": "ಧಾರಾಃ",
+          "meaning_en": "streams / torrents",
+          "meaning_kn": "ಧಾರಾಕಾರಗಳು / ಪ್ರವಾಹಗಳು"
+        },
+        {
+          "pada_original": "अ॒र्वाङ्",
+          "pada_kn": "ಅರ್ವಾಙ್",
+          "meaning_en": "hither / downwards",
+          "meaning_kn": "ಇತ್ತ / ಕೆಳಗೆ"
+        },
+        {
+          "pada_original": "ए॒तेन॑",
+          "pada_kn": "ಏತೇನ",
+          "meaning_en": "with this",
+          "meaning_kn": "ಇದರಿಂದ / ಇದರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "स्त॒न॒यि॒त्नुना᳚",
+          "pada_kn": "ಸ್ತನಯಿತ್ನುನಾ",
+          "meaning_en": "with thunder",
+          "meaning_kn": "ಗುಡುಗಿನಿಂದ / ಸಿಡಿಲಿನಿಂದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / towards",
+          "meaning_kn": "ಇತ್ತ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "इ॒हि॒",
+          "pada_kn": "ಇಹಿ",
+          "meaning_en": "come",
+          "meaning_kn": "ಬಾ / ಬನ್ನಿ"
+        },
+        {
+          "pada_original": "अ॒पः",
+          "pada_kn": "ಅಪಃ",
+          "meaning_en": "waters",
+          "meaning_kn": "ನೀರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "नि॒ऽसिं॒चन्",
+          "pada_kn": "ನಿಸಿಂಚನ್",
+          "meaning_en": "pouring down",
+          "meaning_kn": "ಸುರಿಯುತ್ತಾ / ಸುರಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "असु॑रः",
+          "pada_kn": "ಅಸುರಃ",
+          "meaning_en": "the mighty one / the lord (Parjanya)",
+          "meaning_kn": "ಅಸುರನು / ಪ್ರಬಲನು"
+        },
+        {
+          "pada_original": "पि॒ता",
+          "pada_kn": "ಪಿತಾ",
+          "meaning_en": "father",
+          "meaning_kn": "ತಂದೆ"
+        },
+        {
+          "pada_original": "नाः॒",
+          "pada_kn": "ನಾಃ",
+          "meaning_en": "our",
+          "meaning_kn": "ನಮ್ಮ"
+        }
+      ],
+      "full_meaning_en": "O Maruts, bestow upon us rain from the heavens; cause the streams of the potent bull, Parjanya, the horse of swift clouds, to swell and flow forth abundantly. O mighty Parjanya, our Father, descend upon us with thunder, showering down the life-giving waters.",
+      "full_meaning_kn": "ಓ ಮರುತರು, ದ್ಯುಲೋಕದಿಂದ ನಮಗೆ ಮಳೆಯನ್ನು ದಯಪಾಲಿಸಿರಿ; ವೃಷಭ ಪರ್ಜನ್ಯನ ಪ್ರಭಾವಶಾಲಿ ಪ್ರವಾಹಗಳನ್ನು, ವೇಗದ ಮೋಡಗಳ ಕುದುರೆಯಾದ ಅವನ ಧಾರೆಗಳನ್ನು ಉಕ್ಕಿಸಿ ಹರಿಯುವಂತೆ ಮಾಡಿರಿ. ಓ ಬಲಶಾಲಿಯಾದ ಪರ್ಜನ್ಯನೇ, ನಮ್ಮ ತಂದೆಯೇ, ಗುಡುಗು ಸಹಿತವಾಗಿ ಇಲ್ಲಿಗೆ ಬಂದು ಜೀವ ನೀಡುವ ನೀರನ್ನು ಸುರಿಸು.",
+      "rig_time_s": 80.03399999999999,
+      "Insight_en": "The Maruts, representing the vital life forces, are invoked to release the celestial waters, symbolizing the flow of divine grace and abundance. Parjanya, the rain god, embodies the nourishing aspect of the divine, acting as the father figure who bestows life through the life-giving waters. The thunder signifies the potent energy required to break through limitations and manifest divine blessings. This symbolizes the inner transformation and the flow of spiritual energy that nourishes the soul. The image of the bull and horse represents power and swiftness, indicating the dynamic and immediate nature of divine intervention.",
+      "Insight_kn": "ಮರುತರು, ಪ್ರಮುಖ ಜೀವನ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುವರು, ದೈವಿಕ ಕೃಪೆ ಮತ್ತು ಸಮೃದ್ಧಿಯ ಹರಿವನ್ನು ಸಂಕೇತಿಸುವ ಆಕಾಶದ ನೀರನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲು ಪ್ರಾರ್ಥಿಸಲಾಗಿದೆ. ಪರ್ಜನ್ಯನು, ಮಳೆ ದೇವರು, ಜೀವ ನೀಡುವ ನೀರಿನ ಮೂಲಕ ಜೀವನವನ್ನು ನೀಡುವ ತಂದೆಯ ಪಾತ್ರವನ್ನು ನಿರ್ವಹಿಸುತ್ತಾನೆ. ಗುಡುಗು ಮಿತಿಗಳನ್ನು ಭೇದಿಸಿ ದೈವಿಕ ಆಶೀರ್ವಾದಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಅಗತ್ಯವಿರುವ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಆತ್ಮವನ್ನು ಪೋಷಿಸುವ ಆಂತರಿಕ ರೂಪಾಂತರ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯ ಹರಿವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ವೃಷಭ ಮತ್ತು ಕುದುರೆಯ ಚಿತ್ರವು ಶಕ್ತಿ ಮತ್ತು ವೇಗವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ದೈವಿಕ ಹಸ್ತಕ್ಷೇಪದ ಕ್ರಿಯಾತ್ಮಕ ಮತ್ತು ತಕ್ಷಣದ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S83_87-7_10",
+      "mandala": 5,
+      "sukta": 83,
+      "ric_index": 7,
+      "rig_lines": [
+        "अ॒भि क्र᳚न्द स्त॒नय॒ गर्भ॒मा धा᳚, उद॒न्वता॒ परि॑ दीया॒ रथे᳚न |",
+        "दृतिं॒ सु क॑र्ष॒ विषि॑तं॒ न्य᳚ञ्चं स॒मा भ॑वन्तू॒द्वतो᳚ निपा॒दाः ||"
+      ],
+      "pre_splits": [
+        "अ॒भि",
+        "क्र॒न्द॒",
+        "स्त॒नय॑",
+        "गर्भ᳚‌म्",
+        "आ",
+        "धाः॒",
+        "उ॒द॒न्ऽवता᳚",
+        "परि॑",
+        "दी॒य॒",
+        "रथे᳚न",
+        "दृति᳚‌म्",
+        "सु",
+        "क॒र्ष॒",
+        "विऽसि॑त‌म्",
+        "न्यं᳚च‌म्",
+        "स॒माः",
+        "भ॒व॒न्तु॒",
+        "उ॒त्ऽवतः॑",
+        "नि॒ऽपा॒दाः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "intensely / towards",
+          "meaning_kn": "ತೀವ್ರವಾಗಿ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "क्र॒न्द॒",
+          "pada_kn": "ಕ್ರಂದ",
+          "meaning_en": "roar / cry out (O Parjanya)",
+          "meaning_kn": "ಗರ್ಜಿಸು / ಕೂಗು (ಓ ಪರ್ಜನ್ಯನೇ)"
+        },
+        {
+          "pada_original": "स्त॒नय॑",
+          "pada_kn": "ಸ್ತನಯ",
+          "meaning_en": "thunder",
+          "meaning_kn": "ಗುಡುಗು"
+        },
+        {
+          "pada_original": "गर्भ᳚‌म्",
+          "pada_kn": "ಗರ್ಭಮ್",
+          "meaning_en": "the embryo / the rain",
+          "meaning_kn": "ಗರ್ಭವನ್ನು / ಮಳೆಯನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "bestow / place",
+          "meaning_kn": "ಪ್ರದಾನ ಮಾಡು / ಇಡು"
+        },
+        {
+          "pada_original": "धाः॒",
+          "pada_kn": "ಧಾಃ",
+          "meaning_en": "bestow / place",
+          "meaning_kn": "ಪ್ರದಾನ ಮಾಡು / ಇಡು"
+        },
+        {
+          "pada_original": "उ॒द॒न्ऽवता᳚",
+          "pada_kn": "ಉದನ್ವತಾ",
+          "meaning_en": "with the water-laden (chariot)",
+          "meaning_kn": "ನೀರು ತುಂಬಿದ (ರಥದೊಂದಿಗೆ)"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / completely",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "दी॒य॒",
+          "pada_kn": "ದೀಯ",
+          "meaning_en": "move / go",
+          "meaning_kn": "ಸಂಚರಿಸು / ಹೋಗು"
+        },
+        {
+          "pada_original": "रथे᳚न",
+          "pada_kn": "ರಥೇನ",
+          "meaning_en": "with the chariot",
+          "meaning_kn": "ರಥದೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "दृति᳚‌म्",
+          "pada_kn": "ದೃತಿಮ್",
+          "meaning_en": "the water-skin / cloud",
+          "meaning_kn": "ನೀರಿನ ಚೀಲವನ್ನು / ಮೋಡವನ್ನು"
+        },
+        {
+          "pada_original": "सु",
+          "pada_kn": "ಸು",
+          "meaning_en": "well / indeed",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "क॒र्ष॒",
+          "pada_kn": "ಕರ್ಷ",
+          "meaning_en": "draw / empty",
+          "meaning_kn": "ಸೆಳೆ / ಖಾಲಿ ಮಾಡು"
+        },
+        {
+          "pada_original": "विऽसि॑त‌म्",
+          "pada_kn": "ವಿಸಿತಮ್",
+          "meaning_en": "loosened / opened",
+          "meaning_kn": "ಸಡಿಲಗೊಳಿಸಿದ / ತೆರೆದ"
+        },
+        {
+          "pada_original": "न्यं᳚च‌म्",
+          "pada_kn": "ನ್ಯಂಚಮ್",
+          "meaning_en": "downward-facing",
+          "meaning_kn": "ಕೆಳಮುಖವಾಗಿರುವ"
+        },
+        {
+          "pada_original": "स॒माः",
+          "pada_kn": "ಸಮಾಃ",
+          "meaning_en": "level / even",
+          "meaning_kn": "ಸಮ / ಸಮತಟ್ಟಾದ"
+        },
+        {
+          "pada_original": "भ॒व॒न्तु॒",
+          "pada_kn": "ಭವಂತು",
+          "meaning_en": "let them be / become",
+          "meaning_kn": "ಅವು ಆಗಲಿ / ಆಗಿಬಿಡಲಿ"
+        },
+        {
+          "pada_original": "उ॒त्ऽवतः॑",
+          "pada_kn": "ಉತ್ವತಃ",
+          "meaning_en": "the elevated places",
+          "meaning_kn": "ಎತ್ತರದ ಪ್ರದೇಶಗಳು"
+        },
+        {
+          "pada_original": "नि॒ऽपा॒दाः",
+          "pada_kn": "ನಿಪಾದಾಃ",
+          "meaning_en": "the low places / depressions",
+          "meaning_kn": "ತಗ್ಗು ಪ್ರದೇಶಗಳು / ಇಳಿಜಾರುಗಳು"
+        }
+      ],
+      "full_meaning_en": "O Parjanya, thunder and roar, bestow the rain, the embryo of the waters. Move around with your rain-bearing chariot. Draw forth and empty your water-skin, which is loosened and turned downwards, so that the elevated places and the low places on the earth may become level.",
+      "full_meaning_kn": "ಓ ಪರ್ಜನ್ಯನೇ, ಘರ್ಜಿಸು ಮತ್ತು ಗುಡುಗು, ಮಳೆಯನ್ನು ದಯಪಾಲಿಸು, ಇದು ನೀರಿನ ಭ್ರೂಣವಾಗಿದೆ. ನಿನ್ನ ಮಳೆ ತುಂಬಿದ ರಥದೊಂದಿಗೆ ಸುತ್ತಲೂ ಚಲಿಸು. ಖಾಲಿಮಾಡು ಮತ್ತು ನಿನ್ನ ನೀರಿನ ಚೀಲವನ್ನು ಹೊರತೆಗೆಯು, ಅದು ಸಡಿಲಗೊಂಡಿದೆ ಮತ್ತು ಕೆಳಮುಖವಾಗಿದೆ, ಇದರಿಂದ ಭೂಮಿಯ ಎತ್ತರದ ಸ್ಥಳಗಳು ಮತ್ತು ತಗ್ಗು ಪ್ರದೇಶಗಳು ಸಮತಟ್ಟಾಗುತ್ತವೆ.",
+      "rig_time_s": 94.701,
+      "Insight_en": "The roaring of Parjanya (the rain god) symbolizes the potent creative energy that brings forth life. The 'water-skin' represents the reservoir of potential within us, which when emptied selflessly, nourishes and levels the inequalities of existence. It is through the release of our inner resources that balance and harmony are achieved, both internally and externally. The leveling of high and low places signifies the transcendence of ego and the realization of unity.",
+      "Insight_kn": "ಪರ್ಜನ್ಯನ (ಮಳೆ ದೇವರು) ಘರ್ಜನೆಯು ಜೀವನವನ್ನು ತರುವ ಪ್ರಬಲ ಸೃಜನಶೀಲ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. 'ನೀರಿನ ಚೀಲ' ನಮ್ಮೊಳಗಿನ ಸಾಮರ್ಥ್ಯದ ಜಲಾಶಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಅದನ್ನು ನಿಸ್ವಾರ್ಥವಾಗಿ ಖಾಲಿ ಮಾಡಿದಾಗ, ಅಸ್ತಿತ್ವದ ಅಸಮಾನತೆಗಳನ್ನು ಪೋಷಿಸುತ್ತದೆ ಮತ್ತು ಸಮಗೊಳಿಸುತ್ತದೆ. ನಮ್ಮ ಆಂತರಿಕ ಸಂಪನ್ಮೂಲಗಳ ಬಿಡುಗಡೆಯ ಮೂಲಕವೇ ಸಮತೋಲನ ಮತ್ತು ಸಾಮರಸ್ಯವನ್ನು ಸಾಧಿಸಲಾಗುತ್ತದೆ, ಆಂತರಿಕವಾಗಿ ಮತ್ತು ಬಾಹ್ಯವಾಗಿ. ಎತ್ತರದ ಮತ್ತು ತಗ್ಗು ಪ್ರದೇಶಗಳ ಸಮತಟ್ಟು ಅಹಂಕಾರದ ಅತಿಕ್ರಮಣ ಮತ್ತು ಏಕತೆಯ ಸಾಕ್ಷಾತ್ಕಾರವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S83_87-8_10",
+      "mandala": 5,
+      "sukta": 83,
+      "ric_index": 8,
+      "rig_lines": [
+        "म॒हान्तं॒ कोश॒मुद॑चा॒ नि षि᳚ञ्च॒ स्यन्द᳚न्तां कु॒ल्या विषि॑ताः पु॒रस्ता᳚त् |",
+        "घृ॒तेन॒ द्यावा᳚पृथि॒वी व्यु᳚न्धि सुप्रपा॒णं भ॑वत्व॒घ्न्याभ्यः॑ ||"
+      ],
+      "pre_splits": [
+        "म॒हान्त᳚‌म्",
+        "कोश᳚‌म्",
+        "उत्",
+        "अ॒च॒",
+        "नि",
+        "सिं॒च॒",
+        "स्यन्द᳚न्ता‌म्",
+        "कु॒ल्याः",
+        "विऽसि॑ताः",
+        "पु॒रस्ता᳚त्",
+        "घृ॒तेन॑",
+        "द्यावा᳚पृथि॒वी इति॑",
+        "वि",
+        "उ॒न्धि॒",
+        "सु॒ऽप्र॒पा॒न‌म्",
+        "भ॒व॒तु॒",
+        "अ॒घ्न्याभ्यः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "म॒हान्त᳚‌म्",
+          "pada_kn": "ಮಹಾನ್ತಮ್",
+          "meaning_en": "great / large",
+          "meaning_kn": "ಮಹತ್ತಾದ / ದೊಡ್ಡ"
+        },
+        {
+          "pada_original": "कोश᳚‌म्",
+          "pada_kn": "ಕೋಶಮ್",
+          "meaning_en": "reservoir / bucket (of rain)",
+          "meaning_kn": "ಜಲಕೋಶವನ್ನು / ಬಾನೆಯನ್ನು"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / forth",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ / ಹೊರಕ್ಕೆ"
+        },
+        {
+          "pada_original": "अ॒च॒",
+          "pada_kn": "ಅಚ",
+          "meaning_en": "pour (imperative)",
+          "meaning_kn": "ಸುರಿ (ಆಜ್ಞಾರ್ಥ)"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / into",
+          "meaning_kn": "ಕೆಳಕ್ಕೆ / ಒಳಗೆ"
+        },
+        {
+          "pada_original": "सिं॒च॒",
+          "pada_kn": "ಸಿಂಚ",
+          "meaning_en": "sprinkle / pour (imperative)",
+          "meaning_kn": "ಚಿಮುಕಿಸು / ಸುರಿ (ಆಜ್ಞಾರ್ಥ)"
+        },
+        {
+          "pada_original": "स्यन्द᳚न्ता‌म्",
+          "pada_kn": "ಸ್ಯನ್ದನ್ತಾಮ್",
+          "meaning_en": "let them flow",
+          "meaning_kn": "ಅವು ಹರಿಯಲಿ"
+        },
+        {
+          "pada_original": "कु॒ल्याः",
+          "pada_kn": "ಕುಲ್ಯಾಃ",
+          "meaning_en": "channels / streams",
+          "meaning_kn": "ಕಾಲುವೆಗಳು / ಹಳ್ಳಗಳು"
+        },
+        {
+          "pada_original": "विऽसि॑ताः",
+          "pada_kn": "ವಿಸಿತಾಃ",
+          "meaning_en": "opened / released",
+          "meaning_kn": "ತೆರೆದ / ಬಿಡುಗಡೆಯಾದ"
+        },
+        {
+          "pada_original": "पु॒रस्ता᳚त्",
+          "pada_kn": "ಪುರಸ್ತಾತ್",
+          "meaning_en": "from the front / eastward",
+          "meaning_kn": "ಮುಂಭಾಗದಿಂದ / ಪೂರ್ವದಿಂದ"
+        },
+        {
+          "pada_original": "घृ॒तेन॑",
+          "pada_kn": "ಘೃತೇನ",
+          "meaning_en": "with water / rain (lit. ghee)",
+          "meaning_kn": "ನೀರಿನಿಂದ / ಮಳೆಯಿಂದ (ಅಕ್ಷರಶಃ ತುಪ್ಪದಿಂದ)"
+        },
+        {
+          "pada_original": "द्यावा᳚पृथि॒वी इति॑",
+          "pada_kn": "ದ್ಯಾವಾಪೃಥಿವೀ ಇತಿ",
+          "meaning_en": "O Heaven and Earth",
+          "meaning_kn": "ಓ ದ್ಯಾವಾಪೃಥಿವಿಗಳೇ (ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ)"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "thoroughly / apart",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ಪ್ರತ್ಯೇಕವಾಗಿ"
+        },
+        {
+          "pada_original": "उ॒न्धि॒",
+          "pada_kn": "ಉನ್ಧಿ",
+          "meaning_en": "moisten / drench (imperative)",
+          "meaning_kn": "ನೆನೆಸಿ / ತೋಯಿಸಿ (ಆಜ್ಞಾರ್ಥ)"
+        },
+        {
+          "pada_original": "सु॒ऽप्र॒पा॒न‌म्",
+          "pada_kn": "ಸುಪ್ರಪಾನಮ್",
+          "meaning_en": "a good drinking place",
+          "meaning_kn": "ಒಳ್ಳೆಯ ಕುಡಿಯುವ ಸ್ಥಳ"
+        },
+        {
+          "pada_original": "भ॒व॒तु॒",
+          "pada_kn": "ಭವತು",
+          "meaning_en": "let it be",
+          "meaning_kn": "ಇರಲಿ"
+        },
+        {
+          "pada_original": "अ॒घ्न्याभ्यः॑",
+          "pada_kn": "ಅಘ್ನ್ಯಾಭ್ಯಃ",
+          "meaning_en": "for the cows / for the milch-kine",
+          "meaning_kn": "ಹಸುಗಳಿಗಾಗಿ / ಹಾಲು ಕೊಡುವ ಹಸುಗಳಿಗಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O (Parjanya/Maruts), uplift and pour forth the vast treasure (of rain). Let the opened channels flow freely from the east. O Heaven and Earth, saturate yourselves completely with the nourishing waters. Let there be abundant, accessible drinking for the sacred cows.",
+      "full_meaning_kn": "ಓ (ಪರ್ಜನ್ಯ/ಮರುತ್), ಆ ಮಹಾನ್ ನಿಧಿಯನ್ನು ಮೇಲಕ್ಕೆತ್ತಿ ಸುರಿಯಿರಿ (ಮಳೆಯ). ತೆರೆದ ನಾಲೆಗಳು ಪೂರ್ವದಿಂದ ಮುಕ್ತವಾಗಿ ಹರಿಯಲಿ. ಓ ದ್ಯಾವಾ ಮತ್ತು ಪೃಥ್ವಿ, ನಿಮ್ಮನ್ನು ಪೋಷಕಾಂಶವುಳ್ಳ ನೀರಿನಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ತೇವಗೊಳಿಸಿ. ಪವಿತ್ರ ಗೋವುಗಳಿಗೆ ಹೇರಳವಾಗಿ, ಸುಲಭವಾಗಿ ಕುಡಿಯುವ ನೀರು ಇರಲಿ.",
+      "rig_time_s": 108.72200000000001,
+      "Insight_en": "The 'vast treasure' refers to the inexhaustible potential within us. The flowing channels symbolize the pathways of consciousness, which, when opened, allow divine grace to flow freely. 'Heaven and Earth' represent the inner and outer worlds, both of which must be saturated with spiritual nourishment (ghṛta) to sustain the sacred (aghnyā). The cows symbolize our senses, which must be properly nourished for spiritual growth.",
+      "Insight_kn": "ಆ 'ಮಹಾನ್ ನಿಧಿ' ನಮ್ಮೊಳಗಿನ ಅಕ್ಷಯ ಸಾಮರ್ಥ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಹರಿಯುವ ನಾಲೆಗಳು ಪ್ರಜ್ಞೆಯ ಮಾರ್ಗಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ, ಅವು ತೆರೆದಾಗ ದೈವಿಕ ಅನುಗ್ರಹವು ಮುಕ್ತವಾಗಿ ಹರಿಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. 'ದ್ಯಾವಾ ಮತ್ತು ಪೃಥ್ವಿ' ಒಳಗಿನ ಮತ್ತು ಹೊರಗಿನ ಪ್ರಪಂಚಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಇವೆರಡನ್ನೂ ಆಧ್ಯಾತ್ಮಿಕ ಪೋಷಣೆಯಿಂದ (ಘೃತ) ಪವಿತ್ರತೆಯನ್ನು (ಅಘ್ನ್ಯಾ) ಕಾಪಾಡಲು ಸ್ಯಾಚುರೇಟ್ ಮಾಡಬೇಕು. ಹಸುಗಳು ನಮ್ಮ ಇಂದ್ರಿಯಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ, ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗಾಗಿ ಅವುಗಳನ್ನು ಸರಿಯಾಗಿ ಪೋಷಿಸಬೇಕು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S83_87-9_10",
+      "mandala": 5,
+      "sukta": 83,
+      "ric_index": 9,
+      "rig_lines": [
+        "यत्‌ प॑र्जन्य॒ कनि॑क्रदत् स्त॒नय॒न्‌ हंसि॑ दु॒ष्कृतः॑ |",
+        "प्रती॒दं विश्वं᳚ मोदते॒ यत्‌ किं च॑ पृथि॒व्यामधि॑ ||"
+      ],
+      "pre_splits": [
+        "यत्",
+        "प॒र्ज॒न्य॒",
+        "कनि॑क्रदत्",
+        "स्त॒नय॑न्",
+        "हंसि॑",
+        "दुः॒ऽकृतः॑",
+        "प्रति॑",
+        "इ॒द‌म्",
+        "विश्व᳚‌म्",
+        "मो॒द॒ते॒",
+        "यत्",
+        "कि‌म्",
+        "च॒",
+        "पृ॒थि॒व्या‌म्",
+        "अधि॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "When / When you",
+          "meaning_kn": "ಯಾವಾಗ / ನೀನು"
+        },
+        {
+          "pada_original": "प॒र्ज॒न्य॒",
+          "pada_kn": "ಪರ್ಜನ್ಯ",
+          "meaning_en": "O Parjanya (rain god)",
+          "meaning_kn": "ಓ ಪರ್ಜನ್ಯನೇ / ಮಳೆ ದೇವರೇ"
+        },
+        {
+          "pada_original": "कनि॑क्रदत्",
+          "pada_kn": "ಕನಿಕ್ರದತ್",
+          "meaning_en": "roaring loudly / thundering",
+          "meaning_kn": "ಗಟ್ಟಿಯಾಗಿ ಗರ್ಜಿಸುತ್ತಾ / ಗುಡುಗುತ್ತಾ"
+        },
+        {
+          "pada_original": "स्त॒नय॑न्",
+          "pada_kn": "ಸ್ತನಯನ್",
+          "meaning_en": "thundering / making noise",
+          "meaning_kn": "ಗುಡುಗುತ್ತಾ / ಶಬ್ದ ಮಾಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "हंसि॑",
+          "pada_kn": "ಹಂಸಿ",
+          "meaning_en": "you strike / you destroy",
+          "meaning_kn": "ನೀನು ಹೊಡೆಯುತ್ತೀಯೆ / ನಾಶಮಾಡುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "दुः॒ऽकृतः॑",
+          "pada_kn": "ದುಷ್ಕೃತಃ",
+          "meaning_en": "the evil-doers / those who do wrong",
+          "meaning_kn": "ದುಷ್ಕರ್ಮಿಗಳನ್ನು / ಕೆಟ್ಟ ಕೆಲಸ ಮಾಡುವವರನ್ನು"
+        },
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / in response",
+          "meaning_kn": "ಪ್ರತಿಯಾಗಿ / ಇದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "इ॒द‌म्",
+          "pada_kn": "ಇದಮ್",
+          "meaning_en": "this / this entire",
+          "meaning_kn": "ಇದು / ಈ"
+        },
+        {
+          "pada_original": "विश्व᳚‌म्",
+          "pada_kn": "ವಿಶ್ವಮ್",
+          "meaning_en": "world / universe",
+          "meaning_kn": "ಜಗತ್ತು / ವಿಶ್ವ"
+        },
+        {
+          "pada_original": "मो॒द॒ते॒",
+          "pada_kn": "ಮೋದತೇ",
+          "meaning_en": "rejoices / is delighted",
+          "meaning_kn": "ಸಂತೋಷಪಡುತ್ತದೆ / ಆನಂದಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "whatever / that which",
+          "meaning_kn": "ಯಾವುದು / ಏನೇ ಇರಲಿ"
+        },
+        {
+          "pada_original": "कि‌म्",
+          "pada_kn": "ಕಿಮ್",
+          "meaning_en": "what / anything",
+          "meaning_kn": "ಏನು / ಯಾವುದೇ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्या‌म्",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಮ್",
+          "meaning_en": "on the earth",
+          "meaning_kn": "ಭೂಮಿಯ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon / over",
+          "meaning_kn": "ಮೇಲೆ / ಕುರಿತು"
+        }
+      ],
+      "full_meaning_en": "O Parjanya, when you roar loudly and thunder, striking down the evil-doers, then this entire world, and whatever is upon the earth, rejoices.",
+      "full_meaning_kn": "ಓ ಪರ್ಜನ್ಯನೇ, ನೀನು ಗಟ್ಟಿಯಾಗಿ ಗರ್ಜಿಸುತ್ತಾ ಮತ್ತು ಗುಡುಗುತ್ತಾ, ದುಷ್ಕರ್ಮಿಗಳನ್ನು ನಾಶಮಾಡಿದಾಗ, ಈ ಇಡೀ ಜಗತ್ತು ಮತ್ತು ಭೂಮಿಯ ಮೇಲಿರುವ ಎಲ್ಲವೂ ಸಂತೋಷಪಡುತ್ತದೆ.",
+      "rig_time_s": 124.3,
+      "Insight_en": "The Divine Grace, manifesting as Parjanya (पर्जन्य), is the immense, generating power of Truth-Consciousness descending with irresistible force. Its thunderous descent purifies the inner being, shattering the obstructing formations of ignorance and falsehood (दुष्कृतः) that veil the light. When this purifying spiritual energy permeates the conscious and subconscious realms, the entire inner cosmos rejoices in liberated delight. Every aspect of the earthly (पृथ्वी) manifestation, rooted in physical consciousness, blossoms forth in harmony and spiritual abundance. This divine showering brings forth a profound spiritual awakening and renewal.",
+      "Insight_kn": "ಓ ಪರ್ಜನ್ಯ (ಪರ್ಜನ್ಯ)ವು ದೈವೀಕ ಅನುಗ್ರಹವಾಗಿದ್ದು, ಸತ್ಯ-ಪ್ರಜ್ಞೆಯ ಅಗಾಧ, ಸೃಷ್ಟಿಕಾರಕ ಶಕ್ತಿಯು ಅಪ್ರತಿರೋಧವಾದ ಬಲದಿಂದ ಇಳಿದುಬರುತ್ತದೆ. ಅದರ ಗುಡುಗಿನ ಅವತರಣಿಕೆಯು ಅಂತರಂಗವನ್ನು ಶುದ್ಧೀಕರಿಸುತ್ತದೆ, ಬೆಳಕನ್ನು ಮರೆಮಾಡುವ ಅಜ್ಞಾನ ಮತ್ತು ಅಸತ್ಯದ (ದುಷ್ಕೃತಃ) ಅಡ್ಡಿಪಡಿಸುವ ರಚನೆಗಳನ್ನು ಛಿದ್ರಗೊಳಿಸುತ್ತದೆ. ಈ ಶುದ್ಧೀಕರಿಸುವ ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯು ಅರಿವು ಮತ್ತು ಸುಪ್ತಾವಸ್ಥೆಯ ಆಂತರಿಕ ಕ್ಷೇತ್ರಗಳನ್ನು ವ್ಯಾಪಿಸಿದಾಗ, ಸಂಪೂರ್ಣ ಆಂತರಿಕ ವಿಶ್ವವು ವಿಮುಕ್ತ ಆನಂದದಲ್ಲಿ ಸಂತೋಷಪಡುತ್ತದೆ. ಭೌತಿಕ ಪ್ರಜ್ಞೆಯಲ್ಲಿ ಆಳವಾಗಿ ಬೇರೂರಿರುವ ಭೂಮಿಯ (ಪೃಥ್ವೀ) ಪ್ರತಿಯೊಂದು ಅಭಿವ್ಯಕ್ತಿಯು ಸಾಮರಸ್ಯ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಮೃದ್ಧಿಯಲ್ಲಿ ಅರಳುತ್ತದೆ. ಈ ದೈವಿಕ ವರ್ಷವು ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಜಾಗೃತಿ ಮತ್ತು ನವೀಕರಣವನ್ನು ತರುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S83_87-10_10",
+      "mandala": 5,
+      "sukta": 83,
+      "ric_index": 10,
+      "rig_lines": [
+        "अव॑र्षीर्व॒र्षमुदु॒ षू गृ॑भा॒याऽक॒र्धन्वा॒न्यत्ये᳚त॒वा, उ॑ |",
+        "अजी᳚जन॒ ओष॑धी॒र्भोज॑नाय॒ कमु॒त प्र॒जाभ्यो᳚ऽविदो मनी॒षाम् ||"
+      ],
+      "pre_splits": [
+        "अव॑र्षीः",
+        "व॒र्ष‌म्",
+        "उत्",
+        "ऊँ॒ इति॑",
+        "सु",
+        "गृ॒भा॒य॒",
+        "अकः॑",
+        "धन्वा᳚नि",
+        "अति॑ऽए॒त॒वै",
+        "ऊँ॒ इति॑",
+        "अजी᳚जनः",
+        "ओष॑धीः",
+        "भोज॑नाय",
+        "क‌म्",
+        "उ॒त",
+        "प्र॒ऽजाभ्यः॑",
+        "अ॒वि॒दः॒",
+        "म॒नी॒षा‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अव॑र्षीः",
+          "pada_kn": "ಅವರ್ಷೀಃ",
+          "meaning_en": "You have rained",
+          "meaning_kn": "ನೀನು ಮಳೆ ಸುರಿಸಿದೆ"
+        },
+        {
+          "pada_original": "व॒र्ष‌म्",
+          "pada_kn": "ವರ್ಷಮ್",
+          "meaning_en": "rain",
+          "meaning_kn": "ಮಳೆ / ವರ್ಷ"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / forth (particle)",
+          "meaning_kn": "ಮೇಲೆ / ಹೊರಗೆ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊँ ಇತಿ",
+          "meaning_en": "indeed / truly (emphatic particle)",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ (ಒತ್ತು ನೀಡುವ ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "सु",
+          "pada_kn": "ಸು",
+          "meaning_en": "well / good (adverbial particle)",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ಸುಖವಾಗಿ (ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "गृ॒भा॒य॒",
+          "pada_kn": "ಗೃಭಾಯ",
+          "meaning_en": "hold back / cease (the rain)",
+          "meaning_kn": "ಹಿಡಿದಿಡು / ನಿಲ್ಲಿಸು (ಮಳೆಯನ್ನು)"
+        },
+        {
+          "pada_original": "अकः॑",
+          "pada_kn": "ಅಕಃ",
+          "meaning_en": "you made / you have made",
+          "meaning_kn": "ನೀನು ಮಾಡಿದೆ / ನೀನು ಸಿದ್ಧಪಡಿಸಿದೆ"
+        },
+        {
+          "pada_original": "धन्वा᳚नि",
+          "pada_kn": "ಧನ್ವಾನಿ",
+          "meaning_en": "deserts / dry lands",
+          "meaning_kn": "ಮರುಭೂಮಿಗಳು / ಶುಷ್ಕ ಪ್ರದೇಶಗಳು"
+        },
+        {
+          "pada_original": "अति॑ऽए॒त॒वै",
+          "pada_kn": "ಅತಿಏತವೈ",
+          "meaning_en": "to pass over / to cross",
+          "meaning_kn": "ದಾಟಲು / ಹಾದುಹೋಗಲು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊँ ಇತಿ",
+          "meaning_en": "indeed / truly (emphatic particle)",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ (ಒತ್ತು ನೀಡುವ ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "अजी᳚जनः",
+          "pada_kn": "ಅಜೀಜನಃ",
+          "meaning_en": "you generated / you produced",
+          "meaning_kn": "ನೀನು ಉತ್ಪಾದಿಸಿದೆ / ನೀನು ಸೃಷ್ಟಿಸಿದೆ"
+        },
+        {
+          "pada_original": "ओष॑धीः",
+          "pada_kn": "ಓಷಧೀಃ",
+          "meaning_en": "herbs / plants",
+          "meaning_kn": "ಸಸ್ಯಗಳು / ಔಷಧಿಗಳು"
+        },
+        {
+          "pada_original": "भोज॑नाय",
+          "pada_kn": "ಭೋಜನಾಯ",
+          "meaning_en": "for food",
+          "meaning_kn": "ಆಹಾರಕ್ಕಾಗಿ / ಭೋಜನಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "क‌म्",
+          "pada_kn": "ಕಮ್",
+          "meaning_en": "indeed / well-being (particle)",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಒಳಿತಿಗಾಗಿ (ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / moreover",
+          "meaning_kn": "ಮತ್ತು / ಅಲ್ಲದೆ"
+        },
+        {
+          "pada_original": "प्र॒ऽजाभ्यः॑",
+          "pada_kn": "ಪ್ರಜಾಭ್ಯಃ",
+          "meaning_en": "for the progeny / for the people",
+          "meaning_kn": "ಪ್ರಜೆಗಳಿಗಾಗಿ / ಸಂತತಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒वि॒दः॒",
+          "pada_kn": "ಅವಿದಃ",
+          "meaning_en": "you found / you knew",
+          "meaning_kn": "ನೀನು ಕಂಡುಕೊಂಡೆ / ನೀನು ತಿಳಿದುಕೊಂಡೆ"
+        },
+        {
+          "pada_original": "म॒नी॒षा‌म्",
+          "pada_kn": "ಮನೀಷಾಮ್",
+          "meaning_en": "wisdom / insight",
+          "meaning_kn": "ವಿವೇಕ / ಬುದ್ಧಿಶಕ್ತಿ"
+        }
+      ],
+      "full_meaning_en": "O Parjanya, thou hast showered rain; now restrain it well! Thou hast made deserts passable, bringing forth plants for nourishment. And furthermore, thou hast discovered wisdom for the generations to come.",
+      "full_meaning_kn": "ಓ ಪರ್ಜನ್ಯನೇ, ಮಳೆಯನ್ನು ಸುರಿಸಿದ್ದಿ; ಈಗ ಅದನ್ನು ಚೆನ್ನಾಗಿ ತಡೆ! ಮರುಭೂಮಿಗಳನ್ನು ದಾಟಲು ಸಾಧ್ಯವಾಗುವಂತೆ ಮಾಡಿದೆ, ಪೋಷಣೆಗಾಗಿ ಸಸ್ಯಗಳನ್ನು ತಂದಿದ್ದಿ. ಮತ್ತು ಹೆಚ್ಚುವರಿಯಾಗಿ, ಮುಂದಿನ ಪೀಳಿಗೆಗೆ ಜ್ಞಾನವನ್ನು ಕಂಡುಕೊಂಡಿದ್ದಿ.",
+      "rig_time_s": 134.437,
+      "Insight_en": "The descent of grace (वर्ष) allows for the traversing of inner wastelands, revealing sustenance and wisdom. Parjanya is not merely rain, but the force that transforms barrenness into fertility, both externally and within the seeker's heart. The ability to restrain (गृभाया) is as crucial as the showering itself, indicating the necessity of discernment and inner regulation. The wisdom (मनीषाम्) found is not simply knowledge, but a profound insight into the nature of reality, benefiting generations.",
+      "Insight_kn": "ಅನುಗ್ರಹದ ಇಳಿಯುವಿಕೆ (ವರ್ಷ) ಆಂತರಿಕ ಪಾಳುಭೂಮಿಗಳ ಮೂಲಕ ಸಾಗಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ, ಪೋಷಣೆ ಮತ್ತು ಜ್ಞಾನವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಪರ್ಜನ್ಯ ಕೇವಲ ಮಳೆಯಲ್ಲ, ಆದರೆ ಬರಡನ್ನು ಫಲವತ್ತತೆಯಾಗಿ ಪರಿವರ್ತಿಸುವ ಶಕ್ತಿ, ಬಾಹ್ಯವಾಗಿ ಮತ್ತು ಸಾಧಕನ ಹೃದಯದಲ್ಲಿ. ಸುರಿಸುವುದು ಎಷ್ಟು ಮುಖ್ಯವೋ ತಡೆಯುವ ಸಾಮರ್ಥ್ಯವೂ (ಗೃಭಾಯ) ಅಷ್ಟೇ ಮುಖ್ಯ, ಇದು ವಿವೇಚನೆ ಮತ್ತು ಆಂತರಿಕ ನಿಯಂತ್ರಣದ ಅಗತ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಕಂಡುಬರುವ ಜ್ಞಾನ (ಮನೀಷಾಮ್) ಕೇವಲ ಜ್ಞಾನವಲ್ಲ, ಆದರೆ ವಾಸ್ತವದ ಸ್ವರೂಪದ ಬಗ್ಗೆ ಆಳವಾದ ಒಳನೋಟವಾಗಿದೆ, ಇದು ತಲೆಮಾರುಗಳಿಗೆ ಪ್ರಯೋಜನವನ್ನು ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

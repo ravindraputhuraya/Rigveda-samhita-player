@@ -1,0 +1,1021 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S5_191-1_7",
+      "mandala": 10,
+      "sukta": 5,
+      "ric_index": 1,
+      "rig_lines": [
+        "एकः॑ समु॒द्रो ध॒रुणो᳚ रयी॒णाम॒स्मद्धृ॒दो भूरि॑जन्मा॒ वि च॑ष्टे |",
+        "सिष॒क्त्यूध᳚र्नि॒ण्योरु॒पस्थ॒ उत्स॑स्य॒ मध्ये॒ निहि॑तं प॒दं वेः ||"
+      ],
+      "pre_splits": [
+        "एकः॑",
+        "स॒मु॒द्रः",
+        "ध॒रुणः॑",
+        "र॒यी॒णा‌म्",
+        "अ॒स्मत्",
+        "हृ॒दः",
+        "भूरि॑ऽजन्मा",
+        "वि",
+        "च॒ष्टे॒",
+        "सिस॑क्ति",
+        "ऊधः॑",
+        "नि॒ण्योः",
+        "उ॒पऽस्थे᳚",
+        "उत्स॑स्य",
+        "मध्ये᳚",
+        "निऽहि॑त‌म्",
+        "प॒द‌म्",
+        "वेरिति॒ वेः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "एकः॑",
+          "pada_kn": "ಏಕಃ",
+          "meaning_en": "One / Single",
+          "meaning_kn": "ಒಂದು / ಏಕೈಕ"
+        },
+        {
+          "pada_original": "स॒मु॒द्रः",
+          "pada_kn": "ಸಮುದ್ರಃ",
+          "meaning_en": "Ocean / Vast reservoir",
+          "meaning_kn": "ಸಮುದ್ರ / ಸಾಗರ"
+        },
+        {
+          "pada_original": "ध॒रुणः॑",
+          "pada_kn": "ಧರುಣಃ",
+          "meaning_en": "Supporter / Sustainer",
+          "meaning_kn": "ಆಧಾರ / ಪೋಷಕ"
+        },
+        {
+          "pada_original": "र॒यी॒णा‌म्",
+          "pada_kn": "ರಯೀಣಾಮ್",
+          "meaning_en": "Of riches / Of wealth",
+          "meaning_kn": "ಸಂಪತ್ತುಗಳ / ಧನಗಳ"
+        },
+        {
+          "pada_original": "अ॒स्मत्",
+          "pada_kn": "ಅಸ್ಮತ್",
+          "meaning_en": "From us / From our",
+          "meaning_kn": "ನಮ್ಮಿಂದ / ನಮ್ಮ"
+        },
+        {
+          "pada_original": "हृ॒दः",
+          "pada_kn": "ಹೃದಃ",
+          "meaning_en": "Heart / Mind",
+          "meaning_kn": "ಹೃದಯದಿಂದ / ಮನಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "भूरि॑ऽजन्मा",
+          "pada_kn": "ಭೂರಿಜನ್ಮಾ",
+          "meaning_en": "Of many births / Having many forms",
+          "meaning_kn": "ಬಹು ಜನ್ಮಗಳನ್ನುಳ್ಳ / ಅನೇಕ ರೂಪಗಳನ್ನುಳ್ಳ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "Widely / Apart",
+          "meaning_kn": "ವಿಶೇಷವಾಗಿ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "च॒ष्टे॒",
+          "pada_kn": "ಚಷ್ಟೇ",
+          "meaning_en": "Sees / Observes / Manifests",
+          "meaning_kn": "ನೋಡುತ್ತಾನೆ / ಪ್ರಕಟಪಡಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "सिस॑क्ति",
+          "pada_kn": "ಸಿಸಕ್ತಿ",
+          "meaning_en": "Attaches itself to / Clings to",
+          "meaning_kn": "ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ / ಸೇರಿಕೊಳ್ಳುತ್ತದೆ"
+        },
+        {
+          "pada_original": "ऊधः॑",
+          "pada_kn": "ಊಧಃ",
+          "meaning_en": "Udder / Source of nourishment",
+          "meaning_kn": "ಕೆಚ್ಚಲು / ಪೋಷಣೆಯ ಮೂಲ"
+        },
+        {
+          "pada_original": "नि॒ण्योः",
+          "pada_kn": "ನಿಣ್ಯೋಃ",
+          "meaning_en": "Of the secret places / Of the hidden depths",
+          "meaning_kn": "ರಹಸ್ಯ ಸ್ಥಳಗಳ / ಗುಪ್ತ ಆಳಗಳ"
+        },
+        {
+          "pada_original": "उ॒पऽस्थे᳚",
+          "pada_kn": "ಉಪಸ್ಥೇ",
+          "meaning_en": "In the lap / In the vicinity",
+          "meaning_kn": "ಮಡಿಲಲ್ಲಿ / ಸಮೀಪದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "उत्स॑स्य",
+          "pada_kn": "ಉತ್ಸಸ್ಯ",
+          "meaning_en": "Of the spring / Of the fountain",
+          "meaning_kn": "ಚಿಲುಮೆಯ / ಮೂಲದ"
+        },
+        {
+          "pada_original": "मध्ये᳚",
+          "pada_kn": "ಮಧ್ಯೇ",
+          "meaning_en": "In the middle / Amidst",
+          "meaning_kn": "ಮಧ್ಯದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "निऽहि॑त‌म्",
+          "pada_kn": "ನಿಹಿತಮ್",
+          "meaning_en": "Placed / Deposited / Hidden",
+          "meaning_kn": "ಇರಿಸಿದ / ಸ್ಥಾಪಿತವಾದ"
+        },
+        {
+          "pada_original": "प॒द‌म्",
+          "pada_kn": "ಪದಮ್",
+          "meaning_en": "Foot / Step / Place / Abode",
+          "meaning_kn": "ಹೆಜ್ಜೆ / ಸ್ಥಾನ / ನೆಲೆ"
+        },
+        {
+          "pada_original": "वेरिति॒ वेः",
+          "pada_kn": "ವೇರಿತಿ ವೇಃ",
+          "meaning_en": "Of the bird / Of the swift one (Sun)",
+          "meaning_kn": "ಪಕ್ಷಿಯ / ವೇಗವಾಗಿ ಚಲಿಸುವವನ"
+        }
+      ],
+      "full_meaning_en": "The one ocean, the sustainer of all riches, the multi-born (or multi-formed) being, observes everything from our hearts. It attaches itself to the udder in the secret depths. The abode of the swift-moving one (the bird/Sun) is placed in the middle of the spring. This mantra describes a singular, all-pervading cosmic principle, a source of life and wealth, which is both within us and universally present, observing and sustaining all creation.",
+      "full_meaning_kn": "ಸಂಪತ್ತುಗಳ ಆಧಾರವಾದ ಏಕೈಕ ಸಮುದ್ರದಂತಿರುವ, ಅನೇಕ ರೂಪಗಳನ್ನುಳ್ಳ ಆ ತತ್ವವು ನಮ್ಮ ಹೃದಯದಿಂದ ಎಲ್ಲವನ್ನೂ ನೋಡುತ್ತದೆ. ಅದು ರಹಸ್ಯ ಸ್ಥಳಗಳ ಮಡಿಲಲ್ಲಿರುವ ಕೆಚ್ಚಲಿಗೆ (ಪೋಷಣೆಯ ಮೂಲಕ್ಕೆ) ಅಂಟಿಕೊಳ್ಳುತ್ತದೆ. ವೇಗವಾಗಿ ಚಲಿಸುವ ಆ ಪಕ್ಷಿಯ (ಸೂರ್ಯನ/ದೈವದ) ನೆಲೆ ಚಿಲುಮೆಯ ಮಧ್ಯದಲ್ಲಿ ಸ್ಥಾಪಿತವಾಗಿದೆ. ಈ ಮಂತ್ರವು ಏಕೈಕ, ಸರ್ವವ್ಯಾಪಿ, ಜೀವಪೋಷಕವಾದ ಒಂದು ಬ್ರಹ್ಮಾಂಡದ ತತ್ವವನ್ನು ವಿವರಿಸುತ್ತದೆ, ಅದು ನಮ್ಮೊಳಗೂ ಇದೆ ಮತ್ತು ಸಾರ್ವತ್ರಿಕವಾಗಿ ಪ್ರಕಟವಾಗಿದೆ, ಎಲ್ಲ ಸೃಷ್ಟಿಯನ್ನು ವೀಕ್ಷಿಸುತ್ತಾ ಮತ್ತು ಪೋಷಿಸುತ್ತಾ ಇದೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "समुद्र (Samudra), the ocean, symbolizes the vast, undifferentiated consciousness. Within this ocean of consciousness lies the potential for all riches (रयीणाम्). The 'multi-born' (भूरि॑जन्मा) principle signifies the manifestation of this consciousness into diverse forms. The placement of the 'abode of the swift-moving one' (पदं वेः) in the 'middle of the spring' (उत्स॑स्य॒ मध्ये) suggests the heart as the source of spiritual vitality, where the divine spark resides. This mantra encourages introspection to discover the infinite potential within.",
+      "Insight_kn": "ಸಮುದ್ರವು (समुद्र) ವಿಶಾಲವಾದ, ಅವಿಭಜಿತ ಪ್ರಜ್ಞೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಈ ಪ್ರಜ್ಞೆಯ ಸಾಗರದಲ್ಲಿಯೇ ಎಲ್ಲಾ ಸಂಪತ್ತುಗಳ (रयीणाम्) ಸಾಮರ್ಥ್ಯವಿದೆ. 'ಬಹುರೂಪಿ' ತತ್ವವು (भूरि॑जन्मा) ಈ ಪ್ರಜ್ಞೆಯು ವಿವಿಧ ರೂಪಗಳಲ್ಲಿ ವ್ಯಕ್ತವಾಗುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ವೇಗವಾಗಿ ಚಲಿಸುವವನ ಸ್ಥಾನ' (पदं वेः) ವನ್ನು 'ಚಿಲುಮೆಯ ಮಧ್ಯದಲ್ಲಿ' ಇರಿಸಿರುವುದು (उत्स॑स्य॒ मध्ये) ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯ ಮೂಲವಾಗಿ ಹೃದಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಲ್ಲಿ ದೈವಿಕ ಕಿಡಿಯು ನೆಲೆಸಿದೆ. ಈ ಮಂತ್ರವು ನಮ್ಮಲ್ಲಿರುವ ಅನಂತ ಸಾಧ್ಯತೆಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಲು ಆತ್ಮಾವಲೋಕನವನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S5_191-2_7",
+      "mandala": 10,
+      "sukta": 5,
+      "ric_index": 2,
+      "rig_lines": [
+        "स॒मा॒नं नी॒ळं वृष॑णो॒ वसा᳚नाः॒ सं ज॑ग्मिरे महि॒षा, अर्व॑तीभिः |",
+        "ऋ॒तस्य॑ प॒दं क॒वयो॒ नि पा᳚न्ति॒ गुहा॒ नामा᳚नि दधिरे॒ परा᳚णि ||"
+      ],
+      "pre_splits": [
+        "स॒मा॒न‌म्",
+        "नी॒ळ‌म्",
+        "वृष॑णः",
+        "वसा᳚नाः",
+        "स‌म्",
+        "ज॒ग्मि॒रे॒",
+        "म॒हि॒षाः",
+        "अर्व॑तीभिः",
+        "ऋ॒तस्य॑",
+        "प॒द‌म्",
+        "क॒वयः॑",
+        "नि",
+        "पा॒न्ति॒",
+        "गुहा᳚",
+        "नामा᳚नि",
+        "द॒धि॒रे॒",
+        "परा᳚णि"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स॒मा॒न‌म्",
+          "pada_kn": "ಸಮಾನಮ್",
+          "meaning_en": "same / common",
+          "meaning_kn": "ಒಂದೇ / ಸಾಮಾನ್ಯ"
+        },
+        {
+          "pada_original": "नी॒ळ‌म्",
+          "pada_kn": "ನೀಳಮ್",
+          "meaning_en": "abode / dwelling",
+          "meaning_kn": "ವಾಸಸ್ಥಾನ / ಗೂಡು"
+        },
+        {
+          "pada_original": "वृष॑णः",
+          "pada_kn": "ವೃಷಣಃ",
+          "meaning_en": "strong ones / mighty ones",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿಗಳು / ವೃಷಭಗಳು"
+        },
+        {
+          "pada_original": "वसा᳚नाः",
+          "pada_kn": "ವಸಾನಾಃ",
+          "meaning_en": "inhabiting / dwelling",
+          "meaning_kn": "ವಾಸಿಸುವವರು / ನೆಲೆಸಿರುವವರು"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / completely",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "ज॒ग्मि॒रे॒",
+          "pada_kn": "ಜಗ್ಮಿರೇ",
+          "meaning_en": "they came / they met",
+          "meaning_kn": "ಅವರು ಬಂದರು / ಅವರು ಸೇರಿದರು"
+        },
+        {
+          "pada_original": "म॒हि॒षाः",
+          "pada_kn": "ಮಹಿಷಾಃ",
+          "meaning_en": "great ones / mighty ones",
+          "meaning_kn": "ಮಹಾನ್ ಶಕ್ತಿಗಳು / ಮಹಿಷಗಳು"
+        },
+        {
+          "pada_original": "अर्व॑तीभिः",
+          "pada_kn": "ಅರ್ವತೀಭಿಃ",
+          "meaning_en": "with the swift ones / with the mares",
+          "meaning_kn": "ವೇಗಶಾಲಿಗಳೊಂದಿಗೆ / ಅಶ್ವಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "ऋ॒तस्य॑",
+          "pada_kn": "ಋತಸ್ಯ",
+          "meaning_en": "of the cosmic order / of truth",
+          "meaning_kn": "ಋತದ / ಸತ್ಯದ"
+        },
+        {
+          "pada_original": "प॒द‌म्",
+          "pada_kn": "ಪದಮ್",
+          "meaning_en": "path / place",
+          "meaning_kn": "ಮಾರ್ಗ / ಸ್ಥಾನ"
+        },
+        {
+          "pada_original": "क॒वयः॑",
+          "pada_kn": "ಕವಯಃ",
+          "meaning_en": "seers / wise ones",
+          "meaning_kn": "ಕವಿಗಳು / ಜ್ಞಾನಿಗಳು"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / into / completely",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ / ಒಳಗೆ"
+        },
+        {
+          "pada_original": "पा॒न्ति॒",
+          "pada_kn": "ಪಾನ್ತಿ",
+          "meaning_en": "they protect / they guard",
+          "meaning_kn": "ಅವರು ರಕ್ಷಿಸುತ್ತಾರೆ / ಅವರು ಪಾಲಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "गुहा᳚",
+          "pada_kn": "ಗುಹಾ",
+          "meaning_en": "in secret / in a hidden place",
+          "meaning_kn": "ಗುಪ್ತವಾಗಿ / ಗುಹೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "नामा᳚नि",
+          "pada_kn": "ನಾಮಾನಿ",
+          "meaning_en": "names",
+          "meaning_kn": "ಹೆಸರುಗಳು"
+        },
+        {
+          "pada_original": "द॒धि॒रे॒",
+          "pada_kn": "ದಧಿರೇ",
+          "meaning_en": "they held / they established",
+          "meaning_kn": "ಅವರು ಧರಿಸಿದರು / ಅವರು ಸ್ಥಾಪಿಸಿದರು"
+        },
+        {
+          "pada_original": "परा᳚णि",
+          "pada_kn": "ಪರಾಣಿ",
+          "meaning_en": "supreme / higher",
+          "meaning_kn": "ಶ್ರೇಷ್ಠವಾದ / ಉನ್ನತವಾದ"
+        }
+      ],
+      "full_meaning_en": "The strong and mighty ones, dwelling in a common abode, have come together with the swift forces. The wise seers protect the path of cosmic order, and they have established their supreme names in a hidden place.",
+      "full_meaning_kn": "ಒಂದೇ ವಾಸಸ್ಥಾನದಲ್ಲಿ ನೆಲೆಸಿರುವ ಶಕ್ತಿಶಾಲಿಗಳು ಮತ್ತು ಮಹಾನ್ ಶಕ್ತಿಗಳು ವೇಗಶಾಲಿಗಳೊಂದಿಗೆ ಸೇರಿಕೊಂಡಿದ್ದಾರೆ. ಜ್ಞಾನಿಗಳಾದ ಕವಿಗಳು ಋತದ ಮಾರ್ಗವನ್ನು ರಕ್ಷಿಸುತ್ತಾರೆ, ಮತ್ತು ಅವರು ತಮ್ಮ ಶ್ರೇಷ್ಠವಾದ ಹೆಸರುಗಳನ್ನು ಗುಪ್ತ ಸ್ಥಳದಲ್ಲಿ ಸ್ಥಾಪಿಸಿದ್ದಾರೆ.",
+      "rig_time_s": 13.552,
+      "Insight_en": "The 'common abode' signifies the shared consciousness where powerful energies (वृषण:) unite with swift forces, representing thoughts and intentions. 'Protecting the path of cosmic order' (ऋतस्य पदं) highlights the ethical responsibility of the awakened mind to maintain inner harmony. The 'hidden place' where supreme names are established points to the subconscious, where true self-knowledge resides. The mantra encourages the integration of conscious effort with subconscious wisdom to manifest divine potential. This integration reveals the individual's role in upholding the universal order (ऋत). The ultimate goal is realizing one's true identity within the hidden depths of consciousness and acting in accordance with cosmic law.",
+      "Insight_kn": "ಇಲ್ಲಿ 'ಒಂದೇ ವಾಸಸ್ಥಾನ'ವು ಹಂಚಿಕೆಯ ಪ್ರಜ್ಞೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಪ್ರಬಲ ಶಕ್ತಿಗಳು (ವೃಷಣ:) ತ್ವರಿತ ಶಕ್ತಿಗಳೊಂದಿಗೆ ಒಂದಾಗುತ್ತವೆ, ಇದು ಆಲೋಚನೆಗಳು ಮತ್ತು ಉದ್ದೇಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. 'ಋತದ ಪಥವನ್ನು ರಕ್ಷಿಸುವುದು' ಎಂದರೆ ಆಂತರಿಕ ಸಾಮರಸ್ಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಜಾಗೃತ ಮನಸ್ಸಿನ ನೈತಿಕ ಜವಾಬ್ದಾರಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಶ್ರೇಷ್ಠ ಹೆಸರುಗಳನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿರುವ 'ಗುಪ್ತ ಸ್ಥಳ'ವು ಉಪಪ್ರಜ್ಞೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಲ್ಲಿ ನಿಜವಾದ ಆತ್ಮಜ್ಞಾನವಿದೆ. ದೈವಿಕ ಸಾಮರ್ಥ್ಯವನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಪ್ರಯತ್ನವನ್ನು ಉಪಪ್ರಜ್ಞೆಯ ಬುದ್ಧಿವಂತಿಕೆಯೊಂದಿಗೆ ಸಂಯೋಜಿಸಲು ಮಂತ್ರವು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ. ಈ ಏಕೀಕರಣವು ಸಾರ್ವತ್ರಿಕ ಕ್ರಮವನ್ನು (ಋತ) ಎತ್ತಿಹಿಡಿಯುವಲ್ಲಿ ವ್ಯಕ್ತಿಯ ಪಾತ್ರವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಅಂತಿಮ ಗುರಿಯು ಪ್ರಜ್ಞೆಯ ಗುಪ್ತ ಆಳದಲ್ಲಿ ಒಬ್ಬರ ನಿಜವಾದ ಗುರುತನ್ನು ಅರಿತುಕೊಳ್ಳುವುದು ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಕಾನೂನಿಗೆ ಅನುಗುಣವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S5_191-3_7",
+      "mandala": 10,
+      "sukta": 5,
+      "ric_index": 3,
+      "rig_lines": [
+        "ऋ॒ता॒यिनी᳚ मा॒यिनी॒ सं द॑धाते मि॒त्वा शिशुं᳚ जज्ञतुर्व॒र्धय᳚न्ती |",
+        "विश्व॑स्य॒ नाभिं॒ चर॑तो ध्रु॒वस्य॑ क॒वेश्चि॒त्तन्तुं॒ मन॑सा वि॒यन्तः॑ ||"
+      ],
+      "pre_splits": [
+        "ऋ॒त॒यिनी॒ इत्यृ॑त॒ऽयिनी᳚",
+        "मा॒यिनी॒ इति॑",
+        "स‌म्",
+        "द॒धा॒ते॒ इति॑",
+        "मि॒त्वा",
+        "शिशु᳚‌म्",
+        "ज॒ज्ञ॒तुः॒",
+        "व॒र्धय᳚न्ती॒ इति॑",
+        "विश्व॑स्य",
+        "नाभि᳚‌म्",
+        "चर॑तः",
+        "ध्रु॒वस्य॑",
+        "क॒वेः",
+        "चि॒त्",
+        "तन्तु᳚‌म्",
+        "मन॑सा",
+        "वि॒ऽयन्तः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ऋ॒त॒यिनी॒ इत्यृ॑त॒ऽयिनी᳚",
+          "pada_kn": "ಋತಯಿನೀ ಇತ್ಯೃತಯಿನೀ",
+          "meaning_en": "Possessing cosmic order/truth (dual)",
+          "meaning_kn": "ಋತವನ್ನು/ಸತ್ಯವನ್ನು ಹೊಂದಿದವು"
+        },
+        {
+          "pada_original": "मा॒यिनी॒ इति॑",
+          "pada_kn": "ಮಾಯಿನೀ ಇತಿ",
+          "meaning_en": "Possessing creative power/maya (dual)",
+          "meaning_kn": "ಮಾಯೆಯನ್ನು/ಸೃಷ್ಟಿಶಕ್ತಿಯನ್ನು ಹೊಂದಿದವು"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "Together / completely",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "द॒धा॒ते॒ इति॑",
+          "pada_kn": "ದಧಾತೇ ಇತಿ",
+          "meaning_en": "They hold / establish / unite",
+          "meaning_kn": "ಅವು ಸ್ಥಾಪಿಸುತ್ತವೆ / ಒಗ್ಗೂಡಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "मि॒त्वा",
+          "pada_kn": "ಮಿತ್ವಾ",
+          "meaning_en": "Having measured / established",
+          "meaning_kn": "ಅಳತೆ ಮಾಡಿ / ಸ್ಥಾಪಿಸಿ"
+        },
+        {
+          "pada_original": "शिशु᳚‌म्",
+          "pada_kn": "ಶಿಶುಮ್",
+          "meaning_en": "A child / offspring",
+          "meaning_kn": "ಒಂದು ಶಿಶುವನ್ನು / ಸಂತತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "ज॒ज्ञ॒तुः॒",
+          "pada_kn": "ಜಜ್ಞತುಃ",
+          "meaning_en": "They gave birth / produced",
+          "meaning_kn": "ಅವು ಜನ್ಮವಿತ್ತವು / ಉತ್ಪಾದಿಸಿದವು"
+        },
+        {
+          "pada_original": "व॒र्धय᳚न्ती॒ इति॑",
+          "pada_kn": "ವರ್ಧಯಂತೀ ಇತಿ",
+          "meaning_en": "Causing to grow / nourishing",
+          "meaning_kn": "ಬೆಳೆಯುವಂತೆ ಮಾಡುತ್ತಾ / ಪೋಷಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "विश्व॑स्य",
+          "pada_kn": "ವಿಶ್ವಸ್ಯ",
+          "meaning_en": "Of the universe / of all",
+          "meaning_kn": "ವಿಶ್ವದ / ಎಲ್ಲದರ"
+        },
+        {
+          "pada_original": "नाभि᳚‌म्",
+          "pada_kn": "ನಾಭಿಮ್",
+          "meaning_en": "Navel / center / origin",
+          "meaning_kn": "ನಾಭಿ / ಕೇಂದ್ರ / ಮೂಲ"
+        },
+        {
+          "pada_original": "चर॑तः",
+          "pada_kn": "ಚರತಃ",
+          "meaning_en": "Of the moving / mobile",
+          "meaning_kn": "ಚಲಿಸುವಿಕೆಯ / ಚಲಿಸುವ"
+        },
+        {
+          "pada_original": "ध्रु॒वस्य॑",
+          "pada_kn": "ಧ್ರುವಸ್ಯ",
+          "meaning_en": "Of the firm / stable",
+          "meaning_kn": "ಸ್ಥಿರವಾದ / ಅಚಲವಾದ"
+        },
+        {
+          "pada_original": "क॒वेः",
+          "pada_kn": "ಕವೇಃ",
+          "meaning_en": "Of the seer / wise one",
+          "meaning_kn": "ಕವಿಯ / ಜ್ಞಾನಿಯ"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "Indeed / even",
+          "meaning_kn": "ನಿಶ್ಚಯವಾಗಿ / ಸಹ"
+        },
+        {
+          "pada_original": "तन्तु᳚‌म्",
+          "pada_kn": "ತಂತುಮ್",
+          "meaning_en": "Thread / continuity",
+          "meaning_kn": "ತಂತುವನ್ನು / ನಿರಂತರತೆಯನ್ನು"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "With the mind / by thought",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ / ಆಲೋಚನೆಯಿಂದ"
+        },
+        {
+          "pada_original": "वि॒ऽयन्तः॑",
+          "pada_kn": "ವಿಯಂತಃ",
+          "meaning_en": "Weaving / extending / spreading",
+          "meaning_kn": "ನೇಯುತ್ತಾ / ವಿಸ್ತರಿಸುತ್ತಾ"
+        }
+      ],
+      "full_meaning_en": "The two entities, possessing cosmic order and creative power, unite. Having measured out, they give birth to a child, nourishing it. This child becomes the navel and origin of both the moving and the stable parts of the universe. With their mind, they weave the very thread of the seer, extending the cosmic wisdom and order.",
+      "full_meaning_kn": "ಋತವನ್ನು (ಸತ್ಯ/ವ್ಯವಸ್ಥೆ) ಮತ್ತು ಮಾಯೆಯನ್ನು (ಸೃಷ್ಟಿಶಕ್ತಿ) ಹೊಂದಿರುವ ಆ ಇಬ್ಬರು ದೇವತೆಗಳು (ಅಥವಾ ಶಕ್ತಿಗಳು) ಒಗ್ಗೂಡುತ್ತವೆ. ಅಳತೆ ಮಾಡಿ, ಒಂದು ಶಿಶುವಿಗೆ ಜನ್ಮವಿತ್ತು, ಅದನ್ನು ಪೋಷಿಸುತ್ತವೆ. ಆ ಶಿಶುವು ಚಲಿಸುವ ಮತ್ತು ಸ್ಥಿರವಾದ ಸಮಸ್ತ ವಿಶ್ವದ ನಾಭಿ ಮತ್ತು ಮೂಲವಾಗುತ್ತದೆ. ಆ ಇಬ್ಬರು ದೇವತೆಗಳು ತಮ್ಮ ಮನಸ್ಸಿನಿಂದ ಜ್ಞಾನಿಯ (ಕವಿಯ) ತಂತುವನ್ನು (ಸೃಷ್ಟಿಯ ನಿರಂತರತೆಯನ್ನು) ನೇಯುತ್ತಾ, ವಿಶ್ವದ ವ್ಯವಸ್ಥೆಯನ್ನು ವಿಸ್ತರಿಸುತ್ತವೆ.",
+      "rig_time_s": 27.58,
+      "Insight_en": "The 'child' born from the union of Ṛta (cosmic order) and Māyā (creative power) is the awakened Self. This Self, nurtured by the divine feminine, becomes the center (nābhi) of both the dynamic (moving) and static aspects of existence. Through focused intention and intuitive insight, the individual consciousness weaves the very fabric of wisdom, extending beyond the limitations of the mind. This process illuminates the inherent unity of all things, revealing the divine play of consciousness. The 'seer's thread' is the continuous flow of awareness, connecting the individual to the universal.",
+      "Insight_kn": "ಋತ (ಕಾಸ್ಮಿಕ್ ಕ್ರಮ) ಮತ್ತು ಮಾಯಾ (ಸೃಜನಶೀಲ ಶಕ್ತಿ) ಗಳ ಮಿಲನದಿಂದ ಜನಿಸಿದ 'ಮಗು' ಜಾಗೃತಗೊಂಡ ಆತ್ಮ. ಈ ಆತ್ಮವು ದೈವಿಕ ಸ್ತ್ರೀತ್ವದಿಂದ ಪೋಷಿಸಲ್ಪಟ್ಟು, ಅಸ್ತಿತ್ವದ ಕ್ರಿಯಾತ್ಮಕ (ಚಲಿಸುವ) ಮತ್ತು ಸ್ಥಿರ ಅಂಶಗಳ ಕೇಂದ್ರವಾಗುತ್ತದೆ (ನಾಭಿ). ಕೇಂದ್ರೀಕೃತ ಉದ್ದೇಶ ಮತ್ತು ಅಂತಃಪ್ರಜ್ಞೆಯ ಒಳನೋಟದ ಮೂಲಕ, ವೈಯಕ್ತಿಕ ಪ್ರಜ್ಞೆಯು ಬುದ್ಧಿವಂತಿಕೆಯ ಬಟ್ಟೆಯನ್ನು ನೇಯ್ಗೆ ಮಾಡುತ್ತದೆ, ಮನಸ್ಸಿನ ಮಿತಿಗಳನ್ನು ಮೀರಿ ವಿಸ್ತರಿಸುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಎಲ್ಲ ವಿಷಯಗಳ ಅಂತರ್ಗತ ಏಕತೆಯನ್ನು ಬೆಳಗಿಸುತ್ತದೆ, ಪ್ರಜ್ಞೆಯ ದೈವಿಕ ನಾಟಕವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. 'ದಾರ್ಶನಿಕನ ದಾರ'ವು ಅರಿವಿನ ನಿರಂತರ ಹರಿವು, ವೈಯಕ್ತಿಕವನ್ನು ಸಾರ್ವತ್ರಿಕತೆಗೆ ಸಂಪರ್ಕಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S5_191-4_7",
+      "mandala": 10,
+      "sukta": 5,
+      "ric_index": 4,
+      "rig_lines": [
+        "ऋ॒तस्य॒ हि व॑र्त॒नयः॒ सुजा᳚त॒मिषो॒ वाजा᳚य प्र॒दिवः॒ सच᳚न्ते |",
+        "अ॒धी॒वा॒सं रोद॑सी वावसा॒ने घृ॒तैरन्नै᳚र्वावृधाते॒ मधू᳚नाम् ||"
+      ],
+      "pre_splits": [
+        "ऋ॒तस्य॑",
+        "हि",
+        "व॒र्त॒नयः॑",
+        "सुऽजा᳚त‌म्",
+        "इषः॑",
+        "वाजा᳚य",
+        "प्र॒ऽदिवः॑",
+        "सच᳚न्ते",
+        "अ॒धी॒वा॒स‌म्",
+        "रोद॑सी॒ इति॑",
+        "व॒व॒सा॒ने इति॑",
+        "घृ॒तैः",
+        "अन्नैः᳚",
+        "व॒वृ॒धा॒ते॒ इति॑",
+        "मधू᳚ना‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ऋ॒तस्य॑",
+          "pada_kn": "ಋತಸ್ಯ",
+          "meaning_en": "of Rta (cosmic order/truth)",
+          "meaning_kn": "ಋತದ / ಸತ್ಯದ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "indeed / surely",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "व॒र्त॒नयः॑",
+          "pada_kn": "ವರ್ತನಯಃ",
+          "meaning_en": "paths / courses",
+          "meaning_kn": "ಮಾರ್ಗಗಳು / ಹಾದಿಗಳು"
+        },
+        {
+          "pada_original": "सुऽजा᳚त‌म्",
+          "pada_kn": "ಸುಜಾತಮ್",
+          "meaning_en": "well-born / well-produced",
+          "meaning_kn": "ಉತ್ತಮವಾಗಿ ಜನಿಸಿದ / ಉತ್ತಮವಾಗಿ ಉಂಟಾದ"
+        },
+        {
+          "pada_original": "इषः॑",
+          "pada_kn": "ಇಷಃ",
+          "meaning_en": "foods / nourishment",
+          "meaning_kn": "ಆಹಾರಗಳು / ಅನ್ನಗಳು"
+        },
+        {
+          "pada_original": "वाजा᳚य",
+          "pada_kn": "ವಾಜಾಯ",
+          "meaning_en": "for strength / for vigor",
+          "meaning_kn": "ಶಕ್ತಿಗಾಗಿ / ಬಲಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "प्र॒ऽदिवः॑",
+          "pada_kn": "ಪ್ರದಿವಃ",
+          "meaning_en": "from ancient times / from days of old",
+          "meaning_kn": "ಪ್ರಾಚೀನ ಕಾಲದಿಂದ / ಹಿಂದಿನ ದಿನಗಳಿಂದ"
+        },
+        {
+          "pada_original": "सच᳚न्ते",
+          "pada_kn": "ಸಚನ್ತೇ",
+          "meaning_en": "they attend / they join",
+          "meaning_kn": "ಅವು ಸೇರಿಕೊಳ್ಳುತ್ತವೆ / ಅವು ಜೊತೆಗೂಡುತ್ತವೆ"
+        },
+        {
+          "pada_original": "अ॒धी॒वा॒स‌म्",
+          "pada_kn": "ಅಧೀವಾಸಮ್",
+          "meaning_en": "a covering / a garment",
+          "meaning_kn": "ಆವರಣ / ವಸ್ತ್ರ"
+        },
+        {
+          "pada_original": "रोद॑सी॒ इति॑",
+          "pada_kn": "ರೋದಸೀ ಇತಿ",
+          "meaning_en": "Heaven and Earth (dual)",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥ್ವಿಗಳು / ಆಕಾಶ ಮತ್ತು ಭೂಮಿ"
+        },
+        {
+          "pada_original": "व॒व॒सा॒ने इति॑",
+          "pada_kn": "ವವಸಾನೇ ಇತಿ",
+          "meaning_en": "having clothed themselves / having put on",
+          "meaning_kn": "ಧರಿಸಿಕೊಂಡು / ಆವರಿಸಿಕೊಂಡು"
+        },
+        {
+          "pada_original": "घृ॒तैः",
+          "pada_kn": "ಘೃತೈಃ",
+          "meaning_en": "with clarified butter / with ghee",
+          "meaning_kn": "ತುಪ್ಪದಿಂದ / ಆಜ್ಯದಿಂದ"
+        },
+        {
+          "pada_original": "अन्नैः᳚",
+          "pada_kn": "ಅನ್ನೈಃ",
+          "meaning_en": "with foods / with provisions",
+          "meaning_kn": "ಆಹಾರಗಳಿಂದ / ಅನ್ನಗಳಿಂದ"
+        },
+        {
+          "pada_original": "व॒वृ॒धा॒ते॒ इति॑",
+          "pada_kn": "ವವೃಧಾತೇ ಇತಿ",
+          "meaning_en": "they grow / they increase (dual)",
+          "meaning_kn": "ಅವು ಬೆಳೆಯುತ್ತವೆ / ಅವು ವೃದ್ಧಿಯಾಗುತ್ತವೆ"
+        },
+        {
+          "pada_original": "मधू᳚ना‌म्",
+          "pada_kn": "ಮಧೂನಾಮ್",
+          "meaning_en": "of sweet things / of honey",
+          "meaning_kn": "ಮಧುರವಾದವುಗಳ / ಜೇನುತುಪ್ಪಗಳ"
+        }
+      ],
+      "full_meaning_en": "Indeed, the paths of cosmic order, from ancient times, attend to the well-born (sacrifice or Agni), bringing nourishment for strength. Heaven and Earth, having clothed themselves with a covering, grow and increase with clarified butter, foods, and sweet things.",
+      "full_meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ, ಋತದ (ಸತ್ಯದ/ನಿಯಮದ) ಮಾರ್ಗಗಳು, ಪ್ರಾಚೀನ ಕಾಲದಿಂದಲೂ, ಉತ್ತಮವಾಗಿ ಜನಿಸಿದ (ಯಜ್ಞ ಅಥವಾ ಅಗ್ನಿ) ವನ್ನು ಸೇರಿಕೊಳ್ಳುತ್ತವೆ, ಶಕ್ತಿಗಾಗಿ ಆಹಾರವನ್ನು ತರುತ್ತವೆ. ದ್ಯಾವಾಪೃಥ್ವಿಗಳು (ಆಕಾಶ ಮತ್ತು ಭೂಮಿ), ಒಂದು ಆವರಣವನ್ನು ಧರಿಸಿಕೊಂಡು, ತುಪ್ಪ, ಆಹಾರಗಳು ಮತ್ತು ಮಧುರವಾದವುಗಳಿಂದ ಬೆಳೆಯುತ್ತವೆ ಮತ್ತು ವೃದ್ಧಿಯಾಗುತ್ತವೆ.",
+      "rig_time_s": 42.427,
+      "Insight_en": "Here, Ṛta (ऋत), the cosmic order, is not merely an external law but the inherent principle of consciousness guiding the soul's journey. The 'paths of Ṛta' represent the inner pathways of self-discovery, nurtured by offerings (food, clarified butter – symbolic of refined thoughts and emotions) to Agni (अग्नि), the divine spark within. Dyāvāpṛthivī (द्यावापृथिवी), Heaven and Earth, embody the unified consciousness, the integration of the higher and lower selves, which expands through dedicated practice. This reveals that spiritual growth isn't about external rituals but the conscious cultivation of inner harmony, aligning with Ṛta for profound self-realization. The sweet things (मधूनाम्) symbolize the bliss experienced on realizing this inner harmony.",
+      "Insight_kn": "ಇಲ್ಲಿ, ಋತವು (ಋತ), ಕಾಸ್ಮಿಕ್ ಕ್ರಮವು, ಕೇವಲ ಬಾಹ್ಯ ನಿಯಮವಲ್ಲ, ಆದರೆ ಆತ್ಮದ ಪ್ರಯಾಣವನ್ನು ಮಾರ್ಗದರ್ಶಿಸುವ ಪ್ರಜ್ಞೆಯ ಅಂತರ್ಗತ ತತ್ವವಾಗಿದೆ. 'ಋತದ ಮಾರ್ಗಗಳು' ಆತ್ಮಾವಲೋಕನದ ಆಂತರಿಕ ಮಾರ್ಗಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಇದು ಅಗ್ನಿಗೆ (ಅಗ್ನಿ) ಅರ್ಪಣೆಗಳಿಂದ (ಆಹಾರ, ತುಪ್ಪ - ಸಂಸ್ಕರಿಸಿದ ಆಲೋಚನೆಗಳು ಮತ್ತು ಭಾವನೆಗಳ ಸಂಕೇತ) ಪೋಷಿಸಲ್ಪಡುತ್ತದೆ, ಇದು ಒಳಗಿನ ದೈವಿಕ ಕಿಡಿಯಾಗಿದೆ. ದ್ಯಾವಾಪೃಥಿವಿ (द्यावापृथिवी), ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ, ಏಕೀಕೃತ ಪ್ರಜ್ಞೆಯನ್ನು, ಉನ್ನತ ಮತ್ತು ಕೆಳ ಸ್ವಯಂನ ಸಮನ್ವಯವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತದೆ, ಇದು ಸಮರ್ಪಿತ ಅಭ್ಯಾಸದ ಮೂಲಕ ವಿಸ್ತರಿಸುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯು ಬಾಹ್ಯ ಆಚರಣೆಗಳ ಬಗ್ಗೆ ಅಲ್ಲ ಆದರೆ ಆಳವಾದ ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರಕ್ಕಾಗಿ ಋತದೊಂದಿಗೆ (ಋತ) ಹೊಂದಾಣಿಕೆ ಮಾಡುವ ಮೂಲಕ ಆಂತರಿಕ ಸಾಮರಸ್ಯದ ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಕೃಷಿಯಾಗಿದೆ ಎಂದು ಇದು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಸಿಹಿ ವಸ್ತುಗಳು (मधूनाम्) ಈ ಆಂತರಿಕ ಸಾಮರಸ್ಯವನ್ನು ಅರಿತುಕೊಂಡಾಗ ಅನುಭವಿಸುವ ಆನಂದವನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S5_191-5_7",
+      "mandala": 10,
+      "sukta": 5,
+      "ric_index": 5,
+      "rig_lines": [
+        "स॒प्त स्वसॄ॒ररु॑षीर्वावशा॒नो वि॒द्वान्‌ मध्व॒ उज्ज॑भारा दृ॒शे कम् |",
+        "अ॒न्तर्ये᳚मे, अ॒न्तरि॑क्षे पुरा॒जा, इ॒च्छन्व॒व्रिम॑विदत्पूष॒णस्य॑ ||"
+      ],
+      "pre_splits": [
+        "स॒प्त",
+        "स्वसॄः᳚",
+        "अरु॑षीः",
+        "वा॒व॒शा॒नः",
+        "वि॒द्वान्",
+        "मध्वः॑",
+        "उत्",
+        "ज॒भा॒र॒",
+        "दृ॒शे",
+        "क‌म्",
+        "अ॒न्तः",
+        "ये॒मे॒",
+        "अ॒न्तरि॑क्षे",
+        "पु॒रा॒ऽजाः",
+        "इ॒च्छन्",
+        "व॒व्रि‌म्",
+        "अ॒वि॒द॒त्",
+        "पू॒ष॒णस्य॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स॒प्त",
+          "pada_kn": "ಸಪ್ತ",
+          "meaning_en": "seven",
+          "meaning_kn": "ಏಳು"
+        },
+        {
+          "pada_original": "स्वसॄः᳚",
+          "pada_kn": "ಸ್ವಸೄಃ",
+          "meaning_en": "sisters (the seven rivers/rays)",
+          "meaning_kn": "ಸಹೋದರಿಯರನ್ನು (ಏಳು ನದಿಗಳು/ಕಿರಣಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "अरु॑षीः",
+          "pada_kn": "ಅರುಷೀಃ",
+          "meaning_en": "reddish / bright",
+          "meaning_kn": "ಕೆಂಪಾದ / ಪ್ರಕಾಶಮಾನವಾದ"
+        },
+        {
+          "pada_original": "वा॒व॒शा॒नः",
+          "pada_kn": "ವಾವಶಾನಃ",
+          "meaning_en": "desiring / eager",
+          "meaning_kn": "ಬಯಸುವವನು / ಉತ್ಸುಕನಾದವನು"
+        },
+        {
+          "pada_original": "वि॒द्वान्",
+          "pada_kn": "ವಿದ್ವಾನ್",
+          "meaning_en": "knowing / wise one",
+          "meaning_kn": "ತಿಳಿದವನು / ಜ್ಞಾನಿ"
+        },
+        {
+          "pada_original": "मध्वः॑",
+          "pada_kn": "ಮಧ್ವಃ",
+          "meaning_en": "of sweetness / of honey / of Soma",
+          "meaning_kn": "ಮಾಧುರ್ಯದ / ಮಧುವಿನ / ಸೋಮದ"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / forth",
+          "meaning_kn": "ಮೇಲೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "ज॒भा॒र॒",
+          "pada_kn": "ಜಭಾರ",
+          "meaning_en": "he brought / he carried",
+          "meaning_kn": "ಅವನು ತಂದನು / ಹೊತ್ತನು"
+        },
+        {
+          "pada_original": "दृ॒शे",
+          "pada_kn": "ದೃಶೇ",
+          "meaning_en": "for seeing / for manifestation",
+          "meaning_kn": "ನೋಡಲು / ಪ್ರಕಟವಾಗಲು"
+        },
+        {
+          "pada_original": "क‌म्",
+          "pada_kn": "ಕಮ್",
+          "meaning_en": "indeed / verily / for joy",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಸಂತೋಷಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒न्तः",
+          "pada_kn": "ಅಂತಃ",
+          "meaning_en": "within / inside",
+          "meaning_kn": "ಒಳಗೆ / ಮಧ್ಯದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ये॒मे॒",
+          "pada_kn": "ಯೇಮೇ",
+          "meaning_en": "he held / he controlled / he established",
+          "meaning_kn": "ಅವನು ಹಿಡಿದನು / ನಿಯಂತ್ರಿಸಿದನು / ಸ್ಥಾಪಿಸಿದನು"
+        },
+        {
+          "pada_original": "अ॒न्तरि॑क्षे",
+          "pada_kn": "ಅಂತರಿಕ್ಷೇ",
+          "meaning_en": "in the mid-region / in the atmosphere",
+          "meaning_kn": "ಅಂತರಿಕ್ಷದಲ್ಲಿ / ಮಧ್ಯಪ್ರದೇಶದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "पु॒रा॒ऽजाः",
+          "pada_kn": "ಪುರಾಜಾಃ",
+          "meaning_en": "ancient-born / born of old",
+          "meaning_kn": "ಪುರಾತನವಾಗಿ ಹುಟ್ಟಿದವನು / ಮೊದಲೇ ಹುಟ್ಟಿದವನು"
+        },
+        {
+          "pada_original": "इ॒च्छन्",
+          "pada_kn": "ಇಚ್ಛನ್",
+          "meaning_en": "desiring / seeking",
+          "meaning_kn": "ಬಯಸುತ್ತಾ / ಹುಡುಕುತ್ತಾ"
+        },
+        {
+          "pada_original": "व॒व्रि‌म्",
+          "pada_kn": "ವವ್ರಿಮ್",
+          "meaning_en": "the covering / the hidden treasure",
+          "meaning_kn": "ಆವರಣವನ್ನು / ಗುಪ್ತ ನಿಧಿಯನ್ನು"
+        },
+        {
+          "pada_original": "अ॒वि॒द॒त्",
+          "pada_kn": "ಅವಿದತ್",
+          "meaning_en": "he found / he obtained",
+          "meaning_kn": "ಅವನು ಕಂಡುಕೊಂಡನು / ಪಡೆದನು"
+        },
+        {
+          "pada_original": "पू॒ष॒णस्य॑",
+          "pada_kn": "ಪೂಷಣಸ್ಯ",
+          "meaning_en": "of Pūṣan (the nourisher god)",
+          "meaning_kn": "ಪೂಷಣನ (ಪೋಷಕ ದೇವನ)"
+        }
+      ],
+      "full_meaning_en": "The wise one, desiring the seven reddish sisters (rivers or rays), brought forth the sweetness (Soma or honey) for manifestation and joy. He, the ancient-born, held it within the mid-region, and seeking, he found the hidden treasure of Pūṣan.",
+      "full_meaning_kn": "ಏಳು ಕೆಂಪಾದ/ಪ್ರಕಾಶಮಾನವಾದ ಸಹೋದರಿಯರನ್ನು (ನದಿಗಳು ಅಥವಾ ಕಿರಣಗಳು) ಬಯಸುತ್ತಾ, ತಿಳಿದವನು (ಜ್ಞಾನಿ) ಮಾಧುರ್ಯವನ್ನು (ಸೋಮ ಅಥವಾ ಮಧು) ಪ್ರಕಟವಾಗಲು ಮತ್ತು ಸಂತೋಷಕ್ಕಾಗಿ ಹೊರತಂದನು. ಅವನು, ಪುರಾತನವಾಗಿ ಹುಟ್ಟಿದವನು, ಅದನ್ನು ಅಂತರಿಕ್ಷದಲ್ಲಿ ಹಿಡಿದನು, ಮತ್ತು ಹುಡುಕುತ್ತಾ, ಪೂಷಣನ ಗುಪ್ತ ನಿಧಿಯನ್ನು ಕಂಡುಕೊಂಡನು.",
+      "rig_time_s": 57.681,
+      "Insight_en": "The seven reddish sisters represent the seven rays of consciousness, the सप्त स्वसृ (sapta svasṛ). The wise one, the awakened intellect, extracts मध्व (madhu), the honey or Soma, the essence of bliss, from these rays. Holding this essence within, in the अन्तरिक्ष (antarikṣa), the inner space, the seeker discovers the hidden treasure of पूषण् (Pūṣan), the nourisher, signifying the unveiling of inner resources and potential. This mantra speaks to the alchemical process of transforming sensory experience into spiritual insight through the purification and integration of consciousness.",
+      "Insight_kn": "ಏಳು ಕೆಂಪಾದ ಸಹೋದರಿಯರು ಪ್ರಜ್ಞೆಯ ಏಳು ಕಿರಣಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಸಪ್ತ ಸ್ವಸೃ. ಜ್ಞಾನಿಯು, ಜಾಗೃತ ಬುದ್ಧಿಯು, ಈ ಕಿರಣಗಳಿಂದ ಮಧ್ವವನ್ನು (ಜೇನುತುಪ್ಪ ಅಥವಾ ಸೋಮ), ಆನಂದದ ಸಾರವನ್ನು ಹೊರತೆಗೆಯುತ್ತಾನೆ. ಈ ಸಾರವನ್ನು ಒಳಗಡೆ ಹಿಡಿದಿಟ್ಟುಕೊಂಡು, ಅಂತರಾಕ್ಷದಲ್ಲಿ (ಆಂತರಿಕ ಸ್ಥಳ), ಸಾಧಕನು ಪೂಷಣನ ಗುಪ್ತ ನಿಧಿಯನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತಾನೆ, ಪೋಷಕ, ಆಂತರಿಕ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ಸಾಮರ್ಥ್ಯದ ಅನಾವರಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಮಂತ್ರವು ಪ್ರಜ್ಞೆಯ ಶುದ್ಧೀಕರಣ ಮತ್ತು ಏಕೀಕರಣದ ಮೂಲಕ ಸಂವೇದನಾಶೀಲ ಅನುಭವವನ್ನು ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟವಾಗಿ ಪರಿವರ್ತಿಸುವ ರಸವಿದ್ಯೆಯ ಪ್ರಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S5_191-6_7",
+      "mandala": 10,
+      "sukta": 5,
+      "ric_index": 6,
+      "rig_lines": [
+        "स॒प्त म॒र्यादाः᳚ क॒वय॑स्ततक्षु॒स्तासा॒मेका॒मिद॒भ्यं᳚हु॒रो गा᳚त् |",
+        "आ॒योर्ह॑ स्क॒म्भ उ॑प॒मस्य॑ नी॒ळे प॒थां वि॑स॒र्गे ध॒रुणे᳚षु तस्थौ ||"
+      ],
+      "pre_splits": [
+        "स॒प्त",
+        "म॒र्यादाः᳚",
+        "क॒वयः॑",
+        "त॒त॒क्षुः॒",
+        "तासा᳚‌म्",
+        "एका᳚‌म्",
+        "इत्",
+        "अ॒भि",
+        "अं॒हु॒रः",
+        "गा॒त्",
+        "आ॒योः",
+        "ह॒",
+        "स्क॒म्भः",
+        "उ॒प॒ऽमस्य॑",
+        "नी॒ळे",
+        "प॒था‌म्",
+        "वि॒ऽस॒र्गे",
+        "ध॒रुणे᳚षु",
+        "त॒स्थौ॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स॒प्त",
+          "pada_kn": "ಸಪ್ತ",
+          "meaning_en": "Seven",
+          "meaning_kn": "ಏಳು"
+        },
+        {
+          "pada_original": "म॒र्यादाः᳚",
+          "pada_kn": "ಮರ್ಯಾದಾಃ",
+          "meaning_en": "boundaries / ordinances",
+          "meaning_kn": "ಮರ್ಯಾದೆಗಳು / ನಿಯಮಗಳು"
+        },
+        {
+          "pada_original": "क॒वयः॑",
+          "pada_kn": "ಕವಯಃ",
+          "meaning_en": "the wise ones / seers",
+          "meaning_kn": "ಜ್ಞಾನಿಗಳು / ಋಷಿಗಳು"
+        },
+        {
+          "pada_original": "त॒त॒क्षुः॒",
+          "pada_kn": "ತತಕ್ಷುಃ",
+          "meaning_en": "fashioned / established",
+          "meaning_kn": "ನಿರ್ಮಿಸಿದರು / ಸ್ಥಾಪಿಸಿದರು"
+        },
+        {
+          "pada_original": "तासा᳚‌म्",
+          "pada_kn": "ತಾಸಾಮ್",
+          "meaning_en": "of them",
+          "meaning_kn": "ಅವುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "एका᳚‌म्",
+          "pada_kn": "ಏಕಾಮ್",
+          "meaning_en": "one",
+          "meaning_kn": "ಒಂದು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ನಿಜಕ್ಕೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards / into",
+          "meaning_kn": "ಕಡೆಗೆ / ಒಳಗೆ"
+        },
+        {
+          "pada_original": "अं॒हु॒रः",
+          "pada_kn": "ಅಂಹುರಃ",
+          "meaning_en": "the narrow path / distress",
+          "meaning_kn": "ಸಂಕಟದ ಮಾರ್ಗ / ಕಷ್ಟ"
+        },
+        {
+          "pada_original": "गा॒त्",
+          "pada_kn": "ಗಾತ್",
+          "meaning_en": "went / has gone",
+          "meaning_kn": "ಹೋಯಿತು / ಸಾಗಿತು"
+        },
+        {
+          "pada_original": "आ॒योः",
+          "pada_kn": "ಆಯೋಃ",
+          "meaning_en": "of man / of the living being",
+          "meaning_kn": "ಮನುಷ್ಯನ / ಜೀವಿಯ"
+        },
+        {
+          "pada_original": "ह॒",
+          "pada_kn": "ಹ",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜಕ್ಕೂ"
+        },
+        {
+          "pada_original": "स्क॒म्भः",
+          "pada_kn": "ಸ್ಕಂಭಃ",
+          "meaning_en": "the pillar / support",
+          "meaning_kn": "ಸ್ತಂಭ / ಆಧಾರ"
+        },
+        {
+          "pada_original": "उ॒प॒ऽमस्य॑",
+          "pada_kn": "ಉಪಮಸ್ಯ",
+          "meaning_en": "of the highest / of the supreme",
+          "meaning_kn": "ಸರ್ವೋಚ್ಚನ / ಶ್ರೇಷ್ಠನ"
+        },
+        {
+          "pada_original": "नी॒ळे",
+          "pada_kn": "ನೀಳೇ",
+          "meaning_en": "in the abode / in the dwelling",
+          "meaning_kn": "ನಿವಾಸದಲ್ಲಿ / ಆಶ್ರಯದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "प॒था‌म्",
+          "pada_kn": "ಪಥಾಮ್",
+          "meaning_en": "of paths / of ways",
+          "meaning_kn": "ಮಾರ್ಗಗಳ / ದಾರಿಗಳ"
+        },
+        {
+          "pada_original": "वि॒ऽस॒र्गे",
+          "pada_kn": "ವಿಸರ್ಗೆ",
+          "meaning_en": "in the divergence / at the branching",
+          "meaning_kn": "ಕವಲಿನಲ್ಲಿ / ಬೇರ್ಪಡುವಿಕೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ध॒रुणे᳚षु",
+          "pada_kn": "ಧರುಣೇಷು",
+          "meaning_en": "in the foundations / in the supports",
+          "meaning_kn": "ಆಧಾರಗಳಲ್ಲಿ / ತಳಹದಿಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "त॒स्थौ॒",
+          "pada_kn": "ತಸ್ಥೌ",
+          "meaning_en": "stood / stands",
+          "meaning_kn": "ನಿಂತಿದೆ / ಸ್ಥಾಪಿತವಾಗಿದೆ"
+        }
+      ],
+      "full_meaning_en": "The wise seers established seven boundaries or ordinances. Of these, one indeed leads to a narrow, difficult path (or distress). The pillar of the supreme being, the support of man, verily stands in its highest abode, at the divergence of paths, amidst the fundamental supports.",
+      "full_meaning_kn": "ಜ್ಞಾನಿಗಳಾದ ಋಷಿಗಳು ಏಳು ಮರ್ಯಾದೆಗಳನ್ನು ಅಥವಾ ನಿಯಮಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು. ಅವುಗಳಲ್ಲಿ ಒಂದು ನಿಜಕ್ಕೂ ಸಂಕಟದ ಅಥವಾ ಕಷ್ಟದ ಮಾರ್ಗಕ್ಕೆ ಹೋಗುತ್ತದೆ. ಮನುಷ್ಯನ ಆಧಾರವಾದ, ಸರ್ವೋಚ್ಚನ ಸ್ತಂಭವು ತನ್ನ ಶ್ರೇಷ್ಠ ನಿವಾಸದಲ್ಲಿ, ಮಾರ್ಗಗಳ ಕವಲಿನಲ್ಲಿ, ಆಧಾರಗಳ ನಡುವೆ ನಿಂತಿದೆ.",
+      "rig_time_s": 72.499,
+      "Insight_en": "The seven boundaries (स॒प्त म॒र्यादाः) signify the limitations of human consciousness, while the 'difficult path' represents the arduous journey of self-realization. The 'pillar' (स्क॒म्भ) symbolizes the self, Atman, firmly established in its true nature amidst the diverging paths of worldly desires. It stands as a constant support within the foundational principles (ध॒रुणे᳚षु) of dharma, guiding the seeker towards liberation. One must transcend the limitations to discover the unwavering self.",
+      "Insight_kn": "ಏಳು ಮಿತಿಗಳು (ಸ॒ಪ್ತ ಮ॒ರ್ಯದಾಃ) ಮಾನವ ಪ್ರಜ್ಞೆಯ ಮಿತಿಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ, ಆದರೆ 'ಕಷ್ಟಕರ ಮಾರ್ಗ'ವು ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ ಕಠಿಣ ಪ್ರಯಾಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. 'ಸ್ತಂಭ' (स्क॒म्भ)ವು ಜಗತ್ತಿನ ಬಯಕೆಗಳ ಭಿನ್ನ ಮಾರ್ಗಗಳ ನಡುವೆ ತನ್ನ ನಿಜ ಸ್ವರೂಪದಲ್ಲಿ ಸ್ಥಾಪಿತವಾದ ಆತ್ಮವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಇದು ಧರ್ಮದ ಮೂಲಭೂತ ತತ್ವಗಳಲ್ಲಿ (ध॒रुणे᳚षु) ಸ್ಥಿರವಾದ ಬೆಂಬಲವಾಗಿ ನಿಂತು, ಸಾಧಕನನ್ನು ಬಿಡುಗಡೆಗೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡುತ್ತದೆ. ಅಲುಗಾಡದ ಆತ್ಮವನ್ನು ಅರಿಯಲು ಮಿತಿಗಳನ್ನು ಮೀರಬೇಕು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S5_191-7_7",
+      "mandala": 10,
+      "sukta": 5,
+      "ric_index": 7,
+      "rig_lines": [
+        "अस॑च्च॒ सच्च॑ पर॒मे व्यो᳚म॒न्दक्ष॑स्य॒ जन्म॒न्नदि॑तेरु॒पस्थे᳚ |",
+        "अ॒ग्निर्ह॑ नः प्रथम॒जा, ऋ॒तस्य॒ पूर्व॒ आयु॑नि वृष॒भश्च॑ धे॒नुः ||"
+      ],
+      "pre_splits": [
+        "अस॑त्",
+        "च॒",
+        "स॒त्",
+        "च॒",
+        "प॒र॒मे",
+        "विऽओ᳚मन्",
+        "दक्ष॑स्य",
+        "जन्म॑न्",
+        "अदि॑तेः",
+        "उ॒पऽस्थे᳚",
+        "अ॒ग्निः",
+        "ह॒",
+        "नः॒",
+        "प्र॒थ॒म॒ऽजाः",
+        "ऋ॒तस्य॑",
+        "पूर्वे᳚",
+        "आयु॑नि",
+        "वृ॒ष॒भः",
+        "च॒",
+        "धे॒नुः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अस॑त्",
+          "pada_kn": "ಅಸತ್",
+          "meaning_en": "Non-existent / The unreal",
+          "meaning_kn": "ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲದ / ಅಸತ್ಯ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "स॒त्",
+          "pada_kn": "ಸತ್",
+          "meaning_en": "Existent / The real",
+          "meaning_kn": "ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ / ಸತ್ಯ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "प॒र॒मे",
+          "pada_kn": "ಪರಮೇ",
+          "meaning_en": "In the highest / Supreme",
+          "meaning_kn": "ಅತ್ಯುನ್ನತದಲ್ಲಿ / ಪರಮವಾದ"
+        },
+        {
+          "pada_original": "विऽओ᳚मन्",
+          "pada_kn": "ವ್ಯೋಮನ್",
+          "meaning_en": "In the sky / In the realm",
+          "meaning_kn": "ಆಕಾಶದಲ್ಲಿ / ಲೋಕದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "दक्ष॑स्य",
+          "pada_kn": "ದಕ್ಷಸ್ಯ",
+          "meaning_en": "Of Daksha (a creative power) / Of skill",
+          "meaning_kn": "ದಕ್ಷನ / ಸಾಮರ್ಥ್ಯದ"
+        },
+        {
+          "pada_original": "जन्म॑न्",
+          "pada_kn": "ಜನ್ಮನ್",
+          "meaning_en": "In the birth / In the origin",
+          "meaning_kn": "ಜನ್ಮದಲ್ಲಿ / ಮೂಲದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अदि॑तेः",
+          "pada_kn": "ಅದಿತೇಃ",
+          "meaning_en": "Of Aditi (the infinite mother goddess) / Of infinitude",
+          "meaning_kn": "ಅದಿತಿಯ / ಅನಂತತೆಯ"
+        },
+        {
+          "pada_original": "उ॒पऽस्थे᳚",
+          "pada_kn": "ಉಪಸ್ಥೇ",
+          "meaning_en": "In the lap / In the proximity",
+          "meaning_kn": "ಮಡಿಲಲ್ಲಿ / ಸಮೀಪದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni / Fire",
+          "meaning_kn": "ಅಗ್ನಿ / ಬೆಂಕಿ"
+        },
+        {
+          "pada_original": "ह॒",
+          "pada_kn": "ಹ",
+          "meaning_en": "Indeed / Verily",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Our / To us",
+          "meaning_kn": "ನಮ್ಮ / ನಮಗೆ"
+        },
+        {
+          "pada_original": "प्र॒थ॒म॒ऽजाः",
+          "pada_kn": "ಪ್ರಥಮಜಾಃ",
+          "meaning_en": "First-born / Primordial",
+          "meaning_kn": "ಮೊದಲಾಗಿ ಹುಟ್ಟಿದ / ಆದಿಮ"
+        },
+        {
+          "pada_original": "ऋ॒तस्य॑",
+          "pada_kn": "ಋತಸ್ಯ",
+          "meaning_en": "Of Rta (cosmic order/truth)",
+          "meaning_kn": "ಋತದ / ಸತ್ಯದ"
+        },
+        {
+          "pada_original": "पूर्वे᳚",
+          "pada_kn": "ಪೂರ್ವೇ",
+          "meaning_en": "In the former / In the ancient",
+          "meaning_kn": "ಹಿಂದಿನ / ಪ್ರಾಚೀನ"
+        },
+        {
+          "pada_original": "आयु॑नि",
+          "pada_kn": "ಆಯುನಿ",
+          "meaning_en": "In the life / In the age / In the existence",
+          "meaning_kn": "ಆಯುಷ್ಯದಲ್ಲಿ / ಯುಗದಲ್ಲಿ / ಅಸ್ತಿತ್ವದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "वृ॒ष॒भः",
+          "pada_kn": "ವೃಷಭಃ",
+          "meaning_en": "Bull / The strong one / The showerer (of blessings)",
+          "meaning_kn": "ವೃಷಭ / ಬಲಶಾಲಿ / ವರಗಳನ್ನು ಸುರಿಸುವವನು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "धे॒नुः",
+          "pada_kn": "ಧೇನುಃ",
+          "meaning_en": "Cow / The nourishing one / The milch-cow",
+          "meaning_kn": "ಧೇನು / ಪೋಷಿಸುವವಳು / ಹಾಲು ಕೊಡುವ ಹಸು"
+        }
+      ],
+      "full_meaning_en": "Agni, indeed, is our first-born, the primordial one of the cosmic order, existing as both the non-existent and the existent in the supreme realm, in the origin of Daksha and in the lap of Aditi. In ancient times, Agni was both the potent bull and the nourishing cow.",
+      "full_meaning_kn": "ಅಗ್ನಿಯು ಖಂಡಿತವಾಗಿಯೂ ನಮ್ಮ ಮೊದಲ ಮಗನು, ಋತದ (ಸತ್ಯ/ವ್ಯವಸ್ಥೆ) ಆದಿಮ ರೂಪನು. ಅವನು ಪರಮ ವ್ಯೋಮದಲ್ಲಿ, ದಕ್ಷನ ಜನ್ಮದಲ್ಲಿ ಮತ್ತು ಅದಿತಿಯ ಮಡಿಲಲ್ಲಿ ಅಸತ್ ಮತ್ತು ಸತ್ ಎರಡೂ ಆಗಿ ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದಾನೆ. ಹಿಂದಿನ ಯುಗದಲ್ಲಿ, ಅಗ್ನಿಯು ವೃಷಭನೂ (ಬಲಶಾಲಿ) ಮತ್ತು ಧೇನುವೂ (ಪೋಷಿಸುವವಳು) ಆಗಿದ್ದನು.",
+      "rig_time_s": 87.684,
+      "Insight_en": "Agni, the divine fire, is the primordial principle of existence, encompassing both the manifest (सत्) and the unmanifest (असत्). Agni dwells within the supreme space (व्योमन्), symbolizing consciousness itself, and originates from the creative power of Daksha and the nurturing embrace of Aditi, representing the boundless cosmic mother. As the first-born of cosmic order (ऋतस्य), Agni embodies the eternal law of transformation and the inherent potential within all beings. Agni is perceived as both the potent bull (वृषभ) and the nourishing cow (धेनुः), representing the dual aspects of divine power—strength and sustenance. Through contemplation of Agni, one can recognize the unity of opposites and the underlying divinity inherent in all creation.",
+      "Insight_kn": "ಅಗ್ನಿಯು, ದೈವಿಕ ಅಗ್ನಿಯು, ಅಸ್ತಿತ್ವದ ಮೂಲಭೂತ ತತ್ವವಾಗಿದೆ, ಇದು ವ್ಯಕ್ತ (ಸತ್) ಮತ್ತು ಅವ್ಯಕ್ತ (ಅಸತ್) ಎರಡನ್ನೂ ಒಳಗೊಂಡಿದೆ. ಅಗ್ನಿಯು ಪರಮ ಆಕಾಶದಲ್ಲಿ (व्योमन्) ನೆಲೆಸಿದ್ದಾನೆ, ಇದು ಪ್ರಜ್ಞೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಮತ್ತು ದಕ್ಷನ ಸೃಜನಶೀಲ ಶಕ್ತಿಯಿಂದ ಮತ್ತು ಅದಿತಿಯ ಪೋಷಣೆಯ ಆಲಿಂಗನದಿಂದ ಹುಟ್ಟಿಕೊಂಡಿದೆ, ಇದು ಅಪರಿಮಿತ ಕಾಸ್ಮಿಕ್ ತಾಯಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಕಾಸ್ಮಿಕ್ ಕ್ರಮದ (ऋतस्य) ಮೊದಲನೆಯವನಾಗಿ, ಅಗ್ನಿಯು ರೂಪಾಂತರದ ಶಾಶ್ವತ ನಿಯಮವನ್ನು ಮತ್ತು ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲಿ ಅಂತರ್ಗತವಾಗಿರುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಒಳಗೊಂಡಿದೆ. ಅಗ್ನಿಯನ್ನು ಪ್ರಬಲ ವೃಷಭ (वृषभ) ಮತ್ತು ಪೋಷಿಸುವ ಹಸು (धेनुः) ಎಂದು ಗ್ರಹಿಸಲಾಗಿದೆ, ಇದು ದೈವಿಕ ಶಕ್ತಿಯ ದ್ವಂದ್ವ ಅಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ - ಶಕ್ತಿ ಮತ್ತು ಪೋಷಣೆ. ಅಗ್ನಿಯ ಧ್ಯಾನದ ಮೂಲಕ, ಒಬ್ಬರು ವಿರೋಧಾಭಾಸಗಳ ಏಕತೆಯನ್ನು ಮತ್ತು ಎಲ್ಲಾ ಸೃಷ್ಟಿಯಲ್ಲಿ ಅಂತರ್ಗತವಾಗಿರುವ ಆಧಾರವಾಗಿರುವ ದೈವತ್ವವನ್ನು ಗುರುತಿಸಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

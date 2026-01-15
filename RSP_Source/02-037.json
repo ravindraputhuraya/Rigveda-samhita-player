@@ -1,0 +1,958 @@
+{
+  "mandala": 2,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M2-S37_43-1_6",
+      "mandala": 2,
+      "sukta": 37,
+      "ric_index": 1,
+      "rig_lines": [
+        "मन्द॑स्व हो॒त्रादनु॒ जोष॒मन्ध॒सोऽध्व᳚र्यवः॒ स पू॒र्णां व॑ष्ट्या॒सिच᳚म् |",
+        "तस्मा᳚, ए॒तं भ॑रत तद्व॒शो द॒दिर्हो॒त्रात्‌ सोमं᳚ द्रविणोदः॒ पिब॑ ऋ॒तुभिः॑ ||"
+      ],
+      "pre_splits": [
+        "मन्द॑स्व",
+        "हो॒त्रात्",
+        "अनु॑",
+        "जोष᳚‌म्",
+        "अन्ध॑सः",
+        "अध्व᳚र्यवः",
+        "सः",
+        "पू॒र्णा‌म्",
+        "व॒ष्टि॒",
+        "आ॒ऽसिच᳚‌म्",
+        "तस्मै᳚",
+        "ए॒त‌म्",
+        "भ॒र॒त॒",
+        "त॒त्ऽव॒शः",
+        "द॒दिः",
+        "हो॒त्रात्",
+        "सोम᳚‌म्",
+        "द्र॒वि॒णः॒ऽदः॒",
+        "पिब॑",
+        "ऋ॒तुऽभिः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "मन्द॑स्व",
+          "pada_kn": "ಮಂದಸ್ವ",
+          "meaning_en": "Rejoice / be exhilarated",
+          "meaning_kn": "ಮೋದಿಸು / ಸಂತೋಷಿಸು"
+        },
+        {
+          "pada_original": "हो॒त्रात्",
+          "pada_kn": "ಹೋತ್ರಾತ್",
+          "meaning_en": "From the oblation / invocation",
+          "meaning_kn": "ಹೋತ್ರದಿಂದ / ಆಹ್ವಾನದಿಂದ"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "According to / following",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಪ್ರಕಾರ"
+        },
+        {
+          "pada_original": "जोष᳚‌म्",
+          "pada_kn": "ಜೋಷಮ್",
+          "meaning_en": "Desire / pleasure",
+          "meaning_kn": "ಇಷ್ಟದಂತೆ / ಸಂತೋಷ"
+        },
+        {
+          "pada_original": "अन्ध॑सः",
+          "pada_kn": "ಅಂಧಸಃ",
+          "meaning_en": "Of the Soma juice / food",
+          "meaning_kn": "ಸೋಮರಸದ / ಅನ್ನದ"
+        },
+        {
+          "pada_original": "अध्व᳚र्यवः",
+          "pada_kn": "ಅಧ್ವರ್ಯವಃ",
+          "meaning_en": "O Adhvaryus (priests)",
+          "meaning_kn": "ಓ ಅಧ್ವರ್ಯುಗಳೇ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He (the deity)",
+          "meaning_kn": "ಅವನು (ದೇವನು)"
+        },
+        {
+          "pada_original": "पू॒र्णा‌म्",
+          "pada_kn": "ಪೂರ್ಣಾಮ್",
+          "meaning_en": "Full",
+          "meaning_kn": "ಪೂರ್ಣವಾದ / ತುಂಬಿದ"
+        },
+        {
+          "pada_original": "व॒ष्टि॒",
+          "pada_kn": "ವಷ್ಟಿ",
+          "meaning_en": "Desires / wishes",
+          "meaning_kn": "ಬಯಸುತ್ತಾನೆ / ಇಚ್ಛಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "आ॒ऽसिच᳚‌म्",
+          "pada_kn": "ಆಸಿಚಮ್",
+          "meaning_en": "A libation / pouring",
+          "meaning_kn": "ಆಹುತಿಯನ್ನು / ಸುರಿಯುವಿಕೆಯನ್ನು"
+        },
+        {
+          "pada_original": "तस्मै᳚",
+          "pada_kn": "ತಸ್ಮೈ",
+          "meaning_en": "To him",
+          "meaning_kn": "ಅವನಿಗೆ"
+        },
+        {
+          "pada_original": "ए॒त‌म्",
+          "pada_kn": "ಏತಮ್",
+          "meaning_en": "This",
+          "meaning_kn": "ಇದನ್ನು"
+        },
+        {
+          "pada_original": "भ॒र॒त॒",
+          "pada_kn": "ಭರತ",
+          "meaning_en": "Bring / offer",
+          "meaning_kn": "ತನ್ನಿ / ಅರ್ಪಿಸಿ"
+        },
+        {
+          "pada_original": "त॒त्ऽव॒शः",
+          "pada_kn": "ತತ್ವಶಃ",
+          "meaning_en": "Being under his sway / according to his will",
+          "meaning_kn": "ಅವನ ಅಧೀನನಾಗಿ / ಅವನ ಇಚ್ಛೆಯಂತೆ"
+        },
+        {
+          "pada_original": "द॒दिः",
+          "pada_kn": "ದದಿಃ",
+          "meaning_en": "Giver / one who gives",
+          "meaning_kn": "ಕೊಡುವವನು / ದಾತ"
+        },
+        {
+          "pada_original": "हो॒त्रात्",
+          "pada_kn": "ಹೋತ್ರಾತ್",
+          "meaning_en": "From the oblation / invocation",
+          "meaning_kn": "ಹೋತ್ರದಿಂದ / ಆಹ್ವಾನದಿಂದ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "द्र॒वि॒णः॒ऽदः॒",
+          "pada_kn": "ದ್ರವಿಣೋದಃ",
+          "meaning_en": "O Giver of wealth",
+          "meaning_kn": "ಓ ಧನವನ್ನು ಕೊಡುವವನೇ"
+        },
+        {
+          "pada_original": "पिब॑",
+          "pada_kn": "ಪಿಬ",
+          "meaning_en": "Drink",
+          "meaning_kn": "ಕುಡಿ"
+        },
+        {
+          "pada_original": "ऋ॒तुऽभिः॑",
+          "pada_kn": "ಋತುಭಿಃ",
+          "meaning_en": "With the seasons / at the proper times",
+          "meaning_kn": "ಋತುಗಳೊಂದಿಗೆ / ಸರಿಯಾದ ಸಮಯಗಳಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Adhvaryu priests, let the deity rejoice according to his desire from the Soma juice offered in the invocation. He desires a full libation. Therefore, offer this Soma to him, for he is the bestower of boons and acts according to his own will. O Giver of wealth (Agni), drink the Soma from the invocation with the appropriate seasons.",
+      "full_meaning_kn": "ಓ ಅಧ್ವರ್ಯು ಪುರೋಹಿತರೇ, ಆಹ್ವಾನದಲ್ಲಿ ಅರ್ಪಿತವಾದ ಸೋಮರಸದಿಂದ ದೇವತೆಯು ತನ್ನ ಇಚ್ಛೆಯ ಪ್ರಕಾರ ಆನಂದಿಸಲಿ. ಆತನು ಪೂರ್ಣವಾದ ಅರ್ಪಣೆಯನ್ನು ಬಯಸುತ್ತಾನೆ. ಆದ್ದರಿಂದ, ಈ ಸೋಮವನ್ನು ಆತನಿಗೆ ಅರ್ಪಿಸಿ, ಏಕೆಂದರೆ ಅವನು ವರಗಳನ್ನು ನೀಡುವವನು ಮತ್ತು ತನ್ನ ಸ್ವಂತ ಇಚ್ಛೆಯಂತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಾನೆ. ಓ ಸಂಪತ್ತನ್ನು ನೀಡುವವನೇ (ಅಗ್ನಿ), ಸೂಕ್ತವಾದ ಋತುಗಳಲ್ಲಿ ಆಹ್ವಾನದಿಂದ ಸೋಮವನ್ನು ಕುಡಿಯಿರಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The Soma offering represents the purification and refinement of the senses and the mind. By offering this refined essence to अग्नि, the inner fire, we fuel the transformative process within, aligning our will with the divine will. The seasons (ऋतुभिः) signify the cyclical nature of spiritual practice and the need for constant renewal.",
+      "Insight_kn": "ಸೋಮ ಅರ್ಪಣೆಯು ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಮನಸ್ಸಿನ ಶುದ್ಧೀಕರಣ ಮತ್ತು ಪರಿಷ್ಕರಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಈ ಪರಿಷ್ಕರಿಸಿದ ಸಾರವನ್ನು ಅಗ್ನಿಗೆ ಅರ್ಪಿಸುವ ಮೂಲಕ, ನಾವು ನಮ್ಮ ಆಂತರಿಕ ಪರಿವರ್ತನಾ ಪ್ರಕ್ರಿಯೆಗೆ ಉತ್ತೇಜನ ನೀಡುತ್ತೇವೆ, ನಮ್ಮ ಇಚ್ಛಾಶಕ್ತಿಯನ್ನು ದೈವಿಕ ಇಚ್ಛೆಯೊಂದಿಗೆ ಜೋಡಿಸುತ್ತೇವೆ. ಋತುಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಚಕ್ರಾಕಾರದ ಸ್ವರೂಪ ಮತ್ತು ನಿರಂತರ ನವೀಕರಣದ ಅಗತ್ಯವನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S37_43-2_6",
+      "mandala": 2,
+      "sukta": 37,
+      "ric_index": 2,
+      "rig_lines": [
+        "यमु॒ पूर्व॒महु॑वे॒ तमि॒दं हु॑वे॒ सेदु॒ हव्यो᳚ द॒दिर्यो नाम॒ पत्य॑ते |",
+        "अ॒ध्व॒र्युभिः॒ प्रस्थि॑तं सो॒म्यं मधु॑ पो॒त्रात्‌ सोमं᳚ द्रविणोदः॒ पिब॑ ऋ॒तुभिः॑ ||"
+      ],
+      "pre_splits": [
+        "य‌म्",
+        "ऊँ॒ इति॑",
+        "पूर्व᳚‌म्",
+        "अहु॑वे",
+        "त‌म्",
+        "इ॒द‌म्",
+        "हु॒वे॒",
+        "सः",
+        "इत्",
+        "ऊँ॒ इति॑",
+        "हव्यः॑",
+        "द॒दिः",
+        "यः",
+        "नाम॑",
+        "पत्य॑ते",
+        "अ॒ध्व॒र्युऽभिः॑",
+        "प्रऽस्थि॑त‌म्",
+        "सो॒म्य‌म्",
+        "मधु॑",
+        "पो॒त्रात्",
+        "सोम᳚‌म्",
+        "द्र॒वि॒णः॒ऽदः॒",
+        "पिब॑",
+        "ऋ॒तुऽभिः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "य‌म्",
+          "pada_kn": "ಯಮ್",
+          "meaning_en": "whom",
+          "meaning_kn": "ಯಾರನ್ನು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊँ ಇತಿ",
+          "meaning_en": "indeed",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "पूर्व᳚‌म्",
+          "pada_kn": "ಪೂರ್ವಮ್",
+          "meaning_en": "formerly",
+          "meaning_kn": "ಹಿಂದೆ"
+        },
+        {
+          "pada_original": "अहु॑वे",
+          "pada_kn": "ಅಹುವೇ",
+          "meaning_en": "I invoked",
+          "meaning_kn": "ನಾನು ಆಹ್ವಾನಿಸಿದೆ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "इ॒द‌म्",
+          "pada_kn": "ಇದಮ್",
+          "meaning_en": "now",
+          "meaning_kn": "ಈಗ"
+        },
+        {
+          "pada_original": "हु॒वे॒",
+          "pada_kn": "ಹುವೇ",
+          "meaning_en": "I invoke",
+          "meaning_kn": "ನಾನು ಆಹ್ವಾನಿಸುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊँ ಇತಿ",
+          "meaning_en": "indeed",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "हव्यः॑",
+          "pada_kn": "ಹವ್ಯಃ",
+          "meaning_en": "worthy of invocation",
+          "meaning_kn": "ಆಹ್ವಾನಕ್ಕೆ ಯೋಗ್ಯನಾದವನು"
+        },
+        {
+          "pada_original": "द॒दिः",
+          "pada_kn": "ದದಿಃ",
+          "meaning_en": "giver (of boons)",
+          "meaning_kn": "ದಾನಿ / ಕೊಡುವವನು"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "नाम॑",
+          "pada_kn": "ನಾಮ",
+          "meaning_en": "by name / truly",
+          "meaning_kn": "ಹೆಸರಿನಿಂದ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "पत्य॑ते",
+          "pada_kn": "ಪತ್ಯತೇ",
+          "meaning_en": "rules / is master",
+          "meaning_kn": "ಆಳುತ್ತಾನೆ / ಒಡೆಯನಾಗಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒र्युऽभिः॑",
+          "pada_kn": "ಅಧ್ವರ್ಯುಭಿಃ",
+          "meaning_en": "by the Adhvaryu priests",
+          "meaning_kn": "ಅಧ್ವರ್ಯುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "प्रऽस्थि॑त‌म्",
+          "pada_kn": "ಪ್ರಸ್ಥಿತಮ್",
+          "meaning_en": "prepared",
+          "meaning_kn": "ಸಿದ್ಧಪಡಿಸಿದ"
+        },
+        {
+          "pada_original": "सो॒म्य‌म्",
+          "pada_kn": "ಸೋಮ್ಯಮ್",
+          "meaning_en": "Soma-related",
+          "meaning_kn": "ಸೋಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದ"
+        },
+        {
+          "pada_original": "मधु॑",
+          "pada_kn": "ಮಧು",
+          "meaning_en": "sweet drink (Soma)",
+          "meaning_kn": "ಮಧುರ ಪಾನೀಯ (ಸೋಮ)"
+        },
+        {
+          "pada_original": "पो॒त्रात्",
+          "pada_kn": "ಪೋತ್ರಾತ್",
+          "meaning_en": "from the Potr (priest's cup)",
+          "meaning_kn": "ಪೋತೃವಿನಿಂದ (ಪಾತ್ರೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "द्र॒वि॒णः॒ऽदः॒",
+          "pada_kn": "ದ್ರವಿಣೋದಃ",
+          "meaning_en": "O Giver of wealth!",
+          "meaning_kn": "ಓ ಸಂಪತ್ತನ್ನು ಕೊಡುವವನೇ!"
+        },
+        {
+          "pada_original": "पिब॑",
+          "pada_kn": "ಪಿಬ",
+          "meaning_en": "drink!",
+          "meaning_kn": "ಕುಡಿ!"
+        },
+        {
+          "pada_original": "ऋ॒तुऽभिः॑",
+          "pada_kn": "ಋತುಭಿಃ",
+          "meaning_en": "at the proper times / with the seasons",
+          "meaning_kn": "ಸರಿಯಾದ ಸಮಯಗಳಲ್ಲಿ / ಋತುಗಳೊಂದಿಗೆ"
+        }
+      ],
+      "full_meaning_en": "Him whom I invoked in ancient times, him I invoke now. He is indeed worthy of our offerings, the bountiful giver who reigns supreme. O Agni, bestower of riches, partake of the sweet Soma, prepared by the Adhvaryu priests, from the cup of the Potr, according to the sacred seasons.",
+      "full_meaning_kn": "ಯಾವನನ್ನು ನಾನು ಪೂರ್ವದಲ್ಲಿ ಆಹ್ವಾನಿಸಿದೆನೋ, ಅವನ್ನೇ ಈಗಲೂ ಆಹ್ವಾನಿಸುತ್ತೇನೆ. ಅವನು ಖಂಡಿತವಾಗಿಯೂ ಅರ್ಪಣೆಗಳಿಗೆ ಯೋಗ್ಯನಾದವನು, ಸಮೃದ್ಧ ದಾನಿ, ನಿಜವಾಗಿ ಆಳುತ್ತಾನೆ. ಓ ಅಗ್ನಿಯೇ, ಸಂಪತ್ತನ್ನು ನೀಡುವವನೇ, ಅಧ್ವರ್ಯು ಪುರೋಹಿತರು ಸಿದ್ಧಪಡಿಸಿದ ಸಿಹಿ ಸೋಮವನ್ನು ಪೋತ್ರನ ಪಾತ್ರೆಯಿಂದ ಪವಿತ್ರ ಋತುಗಳಿಗನುಸಾರವಾಗಿ ಸೇವಿಸು.",
+      "rig_time_s": 17.306,
+      "Insight_en": "Invocation is not merely a ritualistic act, but a continuous communion with the divine. The true offering is not just the external oblation (havya), but the internal surrender to the ruling power within. The seasons represent the opportune moments for spiritual growth, and the Soma, the nectar of divine experience, must be imbibed with awareness and reverence.",
+      "Insight_kn": "ಆಹ್ವಾನವು ಕೇವಲ ಒಂದು ಆಚರಣೆಯಲ್ಲ, ಆದರೆ ದೈವಿಕದೊಂದಿಗೆ ನಿರಂತರ ಸಂವಹನ. ನಿಜವಾದ ಅರ್ಪಣೆಯೆಂದರೆ ಬಾಹ್ಯ ಆಹುತಿಯಲ್ಲ (ಹವ್ಯ), ಆಂತರಿಕ ಶಕ್ತಿಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಶರಣಾಗತಿ. ಋತುಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಸಕಾಲವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಮತ್ತು ಸೋಮವು ದೈವಿಕ ಅನುಭವದ ಅಮೃತ, ಅರಿವು ಮತ್ತು ಗೌರವದಿಂದ ಸೇವಿಸಬೇಕು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S37_43-3_6",
+      "mandala": 2,
+      "sukta": 37,
+      "ric_index": 3,
+      "rig_lines": [
+        "मेद्य᳚न्तु ते॒ वह्न॑यो॒ येभि॒रीय॒सेऽरि॑षण्यन्‌ वीळयस्वा वनस्पते |",
+        "आ॒यूया᳚ धृष्णो, अभि॒गूर्या॒ त्वं ने॒ष्ट्रात्‌ सोमं᳚ द्रविणोदः॒ पिब॑ ऋ॒तुभिः॑ ||"
+      ],
+      "pre_splits": [
+        "मेद्य᳚न्तु",
+        "ते॒",
+        "वह्न॑यः",
+        "येभिः॑",
+        "ईय॑से",
+        "अरि॑षण्यन्",
+        "वी॒ळ॒य॒स्व॒",
+        "व॒न॒स्प॒ते॒",
+        "आ॒ऽयूय॑",
+        "धृ॒ष्णो॒ इति॑",
+        "अ॒भि॒ऽगूर्य॑",
+        "त्व‌म्",
+        "ने॒ष्ट्रात्",
+        "सोम᳚‌म्",
+        "द्र॒वि॒णः॒ऽदः॒",
+        "पिब॑",
+        "ऋ॒तुऽभिः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "मेद्य᳚न्तु",
+          "pada_kn": "ಮೇದ್ಯಂತು",
+          "meaning_en": "Let them prosper / let them be strong",
+          "meaning_kn": "ಅವು ಪುಷ್ಟಿಗೊಳ್ಳಲಿ / ಬಲಿಷ್ಠವಾಗಲಿ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "Your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "वह्न॑यः",
+          "pada_kn": "ವಹ್ನಯಃ",
+          "meaning_en": "Conveyances / steeds / bearers (of offerings)",
+          "meaning_kn": "ವಾಹನಗಳು / ಅಶ್ವಗಳು / ಅರ್ಪಣೆಗಳನ್ನು ಹೊರುವವರು"
+        },
+        {
+          "pada_original": "येभिः॑",
+          "pada_kn": "ಯೇಭಿಃ",
+          "meaning_en": "By which / with which",
+          "meaning_kn": "ಯಾವುದರಿಂದ / ಯಾವುದರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "ईय॑से",
+          "pada_kn": "ಈಯಸೇ",
+          "meaning_en": "You move / you proceed",
+          "meaning_kn": "ನೀನು ಸಂಚರಿಸುತ್ತೀಯೆ / ಮುಂದುವರೆಯುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "अरि॑षण्यन्",
+          "pada_kn": "ಅರಿಷಣ್ಯನ್",
+          "meaning_en": "Not harming / without injury",
+          "meaning_kn": "ಹಾನಿ ಮಾಡದೆ / ಗಾಯಗೊಳ್ಳದೆ"
+        },
+        {
+          "pada_original": "वी॒ळ॒य॒स्व॒",
+          "pada_kn": "ವೀಳಯಸ್ವ",
+          "meaning_en": "Be firm / be strong",
+          "meaning_kn": "ದೃಢವಾಗಿರು / ಬಲಿಷ್ಠವಾಗಿರು"
+        },
+        {
+          "pada_original": "व॒न॒स्प॒ते॒",
+          "pada_kn": "ವನಸ್ಪತೇ",
+          "meaning_en": "O Vanaspati (Lord of the forest/plants, often Soma)",
+          "meaning_kn": "ಓ ವನಸ್ಪತಿಯೇ (ವನಗಳ/ಸಸ್ಯಗಳ ಅಧಿಪತಿ, ಸಾಮಾನ್ಯವಾಗಿ ಸೋಮ)"
+        },
+        {
+          "pada_original": "आ॒ऽयूय॑",
+          "pada_kn": "ಆಯೂಯ",
+          "meaning_en": "Having yoked / having harnessed",
+          "meaning_kn": "ಹೂಡಿ / ಸಿದ್ಧಪಡಿಸಿ"
+        },
+        {
+          "pada_original": "धृ॒ष्णो॒ इति॑",
+          "pada_kn": "ಧೃಷ್ಣೋ ಇತಿ",
+          "meaning_en": "O bold one / O daring one",
+          "meaning_kn": "ಓ ಧೀರನೇ / ಓ ಸಾಹಸಿಯೇ"
+        },
+        {
+          "pada_original": "अ॒भि॒ऽगूर्य॑",
+          "pada_kn": "ಅಭಿಗೂರ್ಯ",
+          "meaning_en": "Having invoked / having praised",
+          "meaning_kn": "ಆಹ್ವಾನಿಸಿ / ಸ್ತುತಿಸಿ"
+        },
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "You",
+          "meaning_kn": "ನೀನು"
+        },
+        {
+          "pada_original": "ने॒ष्ट्रात्",
+          "pada_kn": "ನೇಷ್ಟ್ರಾತ್",
+          "meaning_en": "From the Neshtri's (priest's vessel/place)",
+          "meaning_kn": "ನೇಷ್ಟೃವಿನಿಂದ (ಪುರೋಹಿತನ ಪಾತ್ರೆ/ಸ್ಥಳದಿಂದ)"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma (the divine drink)",
+          "meaning_kn": "ಸೋಮ (ದೈವಿಕ ಪಾನೀಯ)"
+        },
+        {
+          "pada_original": "द्र॒वि॒णः॒ऽदः॒",
+          "pada_kn": "ದ್ರವಿಣೋದಃ",
+          "meaning_en": "O giver of wealth",
+          "meaning_kn": "ಓ ಸಂಪತ್ತನ್ನು ನೀಡುವವನೇ"
+        },
+        {
+          "pada_original": "पिब॑",
+          "pada_kn": "ಪಿಬ",
+          "meaning_en": "Drink!",
+          "meaning_kn": "ಕುಡಿ!"
+        },
+        {
+          "pada_original": "ऋ॒तुऽभिः॑",
+          "pada_kn": "ಋತುಭಿಃ",
+          "meaning_en": "With the seasons / at the proper times",
+          "meaning_kn": "ಋತುಗಳೊಂದಿಗೆ / ಯಥಾಕಾಲದಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Vanaspati (Lord of the Forest), may your carriers, by which you proceed, thrive and be robust, moving without obstruction. O courageous one, having harnessed (your powers) and being invoked, O Giver of Wealth (Dravinodah), drink the Soma offered by the Neshtri (priest) according to the seasons.",
+      "full_meaning_kn": "ಓ ವನಸ್ಪತಿಯೇ, ಯಾವ ವಾಹನಗಳಿಂದ ನೀನು ಸಾಗುತ್ತೀಯೋ ಅವು ವೃದ್ಧಿಯಾಗಲಿ ಮತ್ತು ಬಲಶಾಲಿಯಾಗಲಿ, ತಡೆಯಿಲ್ಲದೆ ಚಲಿಸಲಿ. ಎಲೈ ಧೈರ್ಯಶಾಲಿಯೇ, (ನಿಮ್ಮ ಶಕ್ತಿಯನ್ನು) ಸಜ್ಜುಗೊಳಿಸಿ ಮತ್ತು ಆಹ್ವಾನಿಸಲ್ಪಟ್ಟವನಾಗಿ, ಎಲೈ ದ್ರವಿಣೋದನೇ, ಋತುಗಳಿಗನುಸಾರವಾಗಿ ನೇಷ್ತ್ರಿಯಿಂದ ಅರ್ಪಿತವಾದ ಸೋಮವನ್ನು ಪಾನಮಾಡು.",
+      "rig_time_s": 33.728,
+      "Insight_en": "The mantra speaks to the inner vitality and unobstructed flow of spiritual energy. Vanaspati represents the indwelling spirit within nature, and its carriers symbolize the faculties of perception and action. The call to drink Soma from the Neshtri’s vessel signifies imbibing the nectar of divine wisdom through disciplined practice and seasonal attunement. Dravinodah, the giver of wealth, indicates that true prosperity arises from the harmonious integration of inner and outer worlds. The unhindered movement symbolizes the effortless unfolding of consciousness.",
+      "Insight_kn": "ಮಂತ್ರವು ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯ ಆಂತರಿಕ ಚೈತನ್ಯ ಮತ್ತು ತಡೆಯಿಲ್ಲದ ಹರಿವನ್ನು ಕುರಿತು ಹೇಳುತ್ತದೆ. ವನಸ್ಪತಿಯು ಪ್ರಕೃತಿಯಲ್ಲಿನ ಅಂತರ್ಗತ ಚೈತನ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಮತ್ತು ಅದರ ವಾಹಕಗಳು ಗ್ರಹಿಕೆ ಮತ್ತು ಕ್ರಿಯೆಯ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ನೇಷ್ತ್ರಿಯ ಪಾತ್ರೆಯಿಂದ ಸೋಮವನ್ನು ಕುಡಿಯುವ ಕರೆ, ಶಿಸ್ತುಬದ್ಧ ಅಭ್ಯಾಸ ಮತ್ತು ಕಾಲೋಚಿತ ಹೊಂದಾಣಿಕೆಯ ಮೂಲಕ ದೈವಿಕ ಜ್ಞಾನದ ಅಮೃತವನ್ನು ಹೀರಿಕೊಳ್ಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ದ್ರವಿಣೋದನು ಸಂಪತ್ತನ್ನು ನೀಡುವವನು, ಆಂತರಿಕ ಮತ್ತು ಬಾಹ್ಯ ಪ್ರಪಂಚಗಳ ಸಾಮರಸ್ಯದ ಏಕೀಕರಣದಿಂದ ನಿಜವಾದ ಸಮೃದ್ಧಿ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಅಡೆತಡೆಯಿಲ್ಲದ ಚಲನೆಯು ಪ್ರಜ್ಞೆಯ ಸಲೀಸಾದ ವಿಕಸನವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S37_43-4_6",
+      "mandala": 2,
+      "sukta": 37,
+      "ric_index": 4,
+      "rig_lines": [
+        "अपा᳚द्धो॒त्रादु॒त पो॒त्राद॑मत्तो॒त ने॒ष्ट्राद॑जुषत॒ प्रयो᳚ हि॒तम् |",
+        "तु॒रीयं॒ पात्र॒ममृ॑क्त॒मम॑र्त्यं द्रविणो॒दाः पि॑बतु द्राविणोद॒सः ||"
+      ],
+      "pre_splits": [
+        "अपा᳚त्",
+        "हो॒त्रात्",
+        "उ॒त",
+        "पो॒त्रात्",
+        "अ॒म॒त्त॒",
+        "उ॒त",
+        "ने॒ष्ट्रात्",
+        "अ॒जु॒ष॒त॒",
+        "प्रयः॑",
+        "हि॒त‌म्",
+        "तु॒रीय᳚‌म्",
+        "पात्र᳚‌म्",
+        "अमृ॑क्त‌म्",
+        "अम॑र्त्य‌म्",
+        "द्र॒वि॒णः॒ऽदाः",
+        "पि॒ब॒तु॒",
+        "द्रा॒वि॒णः॒ऽद॒सः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अपा᳚त्",
+          "pada_kn": "ಅಪಾತ್",
+          "meaning_en": "drank (he)",
+          "meaning_kn": "ಕುಡಿದನು (ಅವನು)"
+        },
+        {
+          "pada_original": "हो॒त्रात्",
+          "pada_kn": "ಹೋತ್ರಾತ್",
+          "meaning_en": "from the Hotṛ's (share)",
+          "meaning_kn": "ಹೋತೃವಿನ (ಪಾತ್ರೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "पो॒त्रात्",
+          "pada_kn": "ಪೋತ್ರಾತ್",
+          "meaning_en": "from the Potṛ's (share)",
+          "meaning_kn": "ಪೋತೃವಿನ (ಪಾತ್ರೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "अ॒म॒त्त॒",
+          "pada_kn": "ಅಮತ್ತ",
+          "meaning_en": "was delighted / intoxicated",
+          "meaning_kn": "ಸಂತೋಷಗೊಂಡನು / ಮದೋನ್ಮತ್ತನಾದನು"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "ने॒ष्ट्रात्",
+          "pada_kn": "ನೇಷ್ಟ್ರಾತ್",
+          "meaning_en": "from the Neṣṭṛ's (share)",
+          "meaning_kn": "ನೇಷ್ಟೃವಿನ (ಪಾತ್ರೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "अ॒जु॒ष॒त॒",
+          "pada_kn": "ಅಜುಷತ",
+          "meaning_en": "enjoyed / was pleased with",
+          "meaning_kn": "ಆನಂದಿಸಿದನು / ಪ್ರೀತಿಸಿದನು"
+        },
+        {
+          "pada_original": "प्रयः॑",
+          "pada_kn": "ಪ್ರಯಃ",
+          "meaning_en": "delight / pleasing offering",
+          "meaning_kn": "ಸಂತೋಷ / ಪ್ರಿಯವಾದ ಅರ್ಪಣೆ"
+        },
+        {
+          "pada_original": "हि॒त‌म्",
+          "pada_kn": "ಹಿತಮ್",
+          "meaning_en": "placed / offered",
+          "meaning_kn": "ಇರಿಸಿದ / ಅರ್ಪಿಸಿದ"
+        },
+        {
+          "pada_original": "तु॒रीय᳚‌म्",
+          "pada_kn": "ತುರೀಯಮ್",
+          "meaning_en": "the fourth",
+          "meaning_kn": "ನಾಲ್ಕನೆಯ"
+        },
+        {
+          "pada_original": "पात्र᳚‌म्",
+          "pada_kn": "ಪಾತ್ರಮ್",
+          "meaning_en": "cup / vessel",
+          "meaning_kn": "ಪಾತ್ರೆ / ಕಪ್"
+        },
+        {
+          "pada_original": "अमृ॑क्त‌म्",
+          "pada_kn": "ಅಮೃಕ್ತಮ್",
+          "meaning_en": "unstained / pure",
+          "meaning_kn": "ಕಳಂಕವಿಲ್ಲದ / ಶುದ್ಧವಾದ"
+        },
+        {
+          "pada_original": "अम॑र्त्य‌म्",
+          "pada_kn": "ಅಮರ್ತ್ಯಮ್",
+          "meaning_en": "immortal / undying",
+          "meaning_kn": "ಅಮರವಾದ / ಸಾವಿಲ್ಲದ"
+        },
+        {
+          "pada_original": "द्र॒वि॒णः॒ऽदाः",
+          "pada_kn": "ದ್ರವಿಣೋದಾಃ",
+          "meaning_en": "Giver of wealth (Draviṇodās)",
+          "meaning_kn": "ಸಂಪತ್ತನ್ನು ನೀಡುವವನು (ದ್ರವಿಣೋದಾಃ)"
+        },
+        {
+          "pada_original": "पि॒ब॒तु॒",
+          "pada_kn": "ಪಿಬತು",
+          "meaning_en": "let him drink",
+          "meaning_kn": "ಅವನು ಕುಡಿಯಲಿ"
+        },
+        {
+          "pada_original": "द्रा॒वि॒णः॒ऽद॒सः",
+          "pada_kn": "ದ್ರಾವಿಣೋದಸಃ",
+          "meaning_en": "O Draviṇodas / for the giver of wealth",
+          "meaning_kn": "ದ್ರವಿಣೋದಸನೇ / ಸಂಪತ್ತನ್ನು ನೀಡುವವನಿಗಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O Draviṇodās, he has partaken from the Hotṛ's portion, delighted in the Potṛ's offering, and enjoyed the Neṣṭṛ's placed oblation. May the Giver of Riches, immortal and undefiled, now drink the fourth cup of Draviṇodas.",
+      "full_meaning_kn": "ಎಲೈ ದ್ರವಿಣೋದಾ, ಹೋತೃವಿನ ಭಾಗದಿಂದ ಅವನು ಪಾಲ್ಗೊಂಡಿದ್ದಾನೆ, ಪೋತೃವಿನ ಅರ್ಪಣೆಯಲ್ಲಿ ಆನಂದಿಸಿದನು, ಮತ್ತು ನೇಷ್ತೃವಿನ ಇರಿಸಲಾದ ಅರ್ಪಣೆಯನ್ನು ಅನುಭವಿಸಿದನು. ಅಮರನೂ ನಿರ್ಮಲನೂ ಆದ ಸಂಪತ್ತಿನ ದಾತನು, ದ್ರವಿಣೋದಸನ ನಾಲ್ಕನೇ ಪಾನಪಾತ್ರೆಯನ್ನು ಈಗ ಕುಡಿಯಲಿ.",
+      "rig_time_s": 50.948,
+      "Insight_en": "The mantra speaks of inner participation and enjoyment of offerings on multiple levels, mirroring the different aspects of the self. The Hotṛ represents the invoking mind, the Potṛ, the purifying consciousness, and the Neṣṭṛ, the focused will. The 'fourth cup' symbolizes the complete and undefiled state of Ātman (आत्मन्), the ultimate reality. Draviṇodās (द्रविणोदास्), the giver of wealth, embodies the generous and abundant nature of the divine, offering fulfillment and immortality.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಆತ್ಮದ ವಿವಿಧ ಅಂಶಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ ಬಹು ಹಂತಗಳಲ್ಲಿ ಆಂತರಿಕ ಭಾಗವಹಿಸುವಿಕೆ ಮತ್ತು ಅರ್ಪಣೆಗಳ ಆನಂದವನ್ನು ಕುರಿತು ಹೇಳುತ್ತದೆ. ಹೋತೃ ಆಹ್ವಾನಿಸುವ ಮನಸ್ಸನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಪೋತೃ ಶುದ್ಧೀಕರಿಸುವ ಪ್ರಜ್ಞೆಯನ್ನು ಮತ್ತು ನೇಷ್ತೃ ಕೇಂದ್ರೀಕೃತ ಇಚ್ಛಾಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. 'ನಾಲ್ಕನೇ ಪಾನಪಾತ್ರೆ' ಆತ್ಮನ್‌ನ (आत्मन्) ಸಂಪೂರ್ಣ ಮತ್ತು ನಿರ್ಮಲ ಸ್ಥಿತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಅಂತಿಮ ವಾಸ್ತವ. ದ್ರವಿಣೋದಾಸ್ (द्रविणोदास्), ಸಂಪತ್ತನ್ನು ನೀಡುವವನು, ದೈವಿಕದ ಉದಾರ ಮತ್ತು ಸಮೃದ್ಧ ಸ್ವಭಾವವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ, ಇದು ನೆರವೇರಿಕೆ ಮತ್ತು ಅಮರತ್ವವನ್ನು ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S37_43-5_6",
+      "mandala": 2,
+      "sukta": 37,
+      "ric_index": 5,
+      "rig_lines": [
+        "अ॒र्वाञ्च॑म॒द्य य॒य्यं᳚ नृ॒वाह॑णं॒ रथं᳚ युञ्जाथामि॒ह वां᳚ वि॒मोच॑नम् |",
+        "पृ॒ङ्क्तं ह॒वींषि॒ मधु॒ना हि कं᳚ ग॒तमथा॒ सोमं᳚ पिबतं वाजिनीवसू ||"
+      ],
+      "pre_splits": [
+        "अ॒र्वांच᳚‌म्",
+        "अ॒द्य",
+        "य॒य्य᳚‌म्",
+        "नृ॒ऽवाह॑न‌म्",
+        "रथ᳚‌म्",
+        "युं॒जा॒था॒‌म्",
+        "इ॒ह",
+        "वा॒‌म्",
+        "वि॒ऽमोच॑न‌म्",
+        "पृ॒ङ्क्त‌म्",
+        "ह॒वींषि॑",
+        "मधु॑ना",
+        "आ",
+        "हि",
+        "क॒‌म्",
+        "ग॒त‌म्",
+        "अथ॑",
+        "सोम᳚‌म्",
+        "पि॒ब॒त॒‌म्",
+        "वा॒जि॒नी॒व॒सू॒ इति॑ वाजिनीऽवसू"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒र्वांच᳚‌म्",
+          "pada_kn": "ಅರ್ವಾಂಚಮ್",
+          "meaning_en": "hitherward / towards us",
+          "meaning_kn": "ನಮ್ಮ ಕಡೆಗೆ / ಇತ್ತ"
+        },
+        {
+          "pada_original": "अ॒द्य",
+          "pada_kn": "ಅದ್ಯ",
+          "meaning_en": "today",
+          "meaning_kn": "ಇಂದು"
+        },
+        {
+          "pada_original": "य॒य्य᳚‌म्",
+          "pada_kn": "ಯಯ್ಯಮ್",
+          "meaning_en": "swift-moving / quick",
+          "meaning_kn": "ವೇಗವಾಗಿ ಚಲಿಸುವ / ಶೀಘ್ರ"
+        },
+        {
+          "pada_original": "नृ॒ऽवाह॑न‌म्",
+          "pada_kn": "ನೃವಾಹನಮ್",
+          "meaning_en": "man-carrying / bearing men",
+          "meaning_kn": "ಮನುಷ್ಯರನ್ನು ಹೊರುವ"
+        },
+        {
+          "pada_original": "रथ᳚‌म्",
+          "pada_kn": "ರಥಮ್",
+          "meaning_en": "chariot",
+          "meaning_kn": "ರಥವನ್ನು"
+        },
+        {
+          "pada_original": "युं॒जा॒था॒‌म्",
+          "pada_kn": "ಯುಂಜಾಥಾಮ್",
+          "meaning_en": "(you two) harness / yoke",
+          "meaning_kn": "(ನೀವಿಬ್ಬರೂ) ಹೂಡಿರಿ / ಜೋಡಿಸಿರಿ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "for you two / your",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗಾಗಿ / ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "वि॒ऽमोच॑न‌म्",
+          "pada_kn": "ವಿಮೋಚನಮ್",
+          "meaning_en": "unyoking place / resting place",
+          "meaning_kn": "ರಥ ಬಿಚ್ಚುವ ಸ್ಥಳ / ವಿಶ್ರಾಂತಿ ಸ್ಥಳ"
+        },
+        {
+          "pada_original": "पृ॒ङ्क्त‌म्",
+          "pada_kn": "ಪೃಙ್ಕ್ತಮ್",
+          "meaning_en": "(you two) mix / fill",
+          "meaning_kn": "(ನೀವಿಬ್ಬರೂ) ಬೆರೆಸಿರಿ / ತುಂಬಿರಿ"
+        },
+        {
+          "pada_original": "ह॒वींषि॑",
+          "pada_kn": "ಹವೀಂಷಿ",
+          "meaning_en": "oblations / offerings",
+          "meaning_kn": "ಹವಿಸ್ಸುಗಳನ್ನು / ಅರ್ಪಣೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "मधु॑ना",
+          "pada_kn": "ಮಧುನಾ",
+          "meaning_en": "with sweetness / with honey",
+          "meaning_kn": "ಮಧುರತೆಯಿಂದ / ಜೇನಿನಿಂದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "for / because",
+          "meaning_kn": "ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "क॒‌म्",
+          "pada_kn": "ಕಮ್",
+          "meaning_en": "happiness / joy",
+          "meaning_kn": "ಸಂತೋಷ / ಆನಂದ"
+        },
+        {
+          "pada_original": "ग॒त‌म्",
+          "pada_kn": "ಗತಮ್",
+          "meaning_en": "attained / reached",
+          "meaning_kn": "ಪ್ರಾಪ್ತವಾಗಿದೆ / ತಲುಪಿದೆ"
+        },
+        {
+          "pada_original": "अथ॑",
+          "pada_kn": "ಅಥ",
+          "meaning_en": "then / therefore",
+          "meaning_kn": "ನಂತರ / ಆದುದರಿಂದ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma (juice)",
+          "meaning_kn": "ಸೋಮವನ್ನು (ರಸವನ್ನು)"
+        },
+        {
+          "pada_original": "पि॒ब॒त॒‌म्",
+          "pada_kn": "ಪಿಬತಮ್",
+          "meaning_en": "(you two) drink",
+          "meaning_kn": "(ನೀವಿಬ್ಬರೂ) ಪಾನಮಾಡಿರಿ"
+        },
+        {
+          "pada_original": "वा॒जि॒नी॒व॒सू॒ इति॑ वाजिनीऽवसू",
+          "pada_kn": "ವಾಜಿನೀವಸೂ ಇತಿ ವಾಜಿನೀವಸೂ",
+          "meaning_en": "O you two rich in strength/food (Ashvins)",
+          "meaning_kn": "ಓ ಶಕ್ತಿ/ಆಹಾರ ಸಂಪನ್ನರಾದ (ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ)"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, harness your swift, man-bearing chariot that approaches us today; here is your unyoking place. Anoint the oblations with honey, for indeed happiness has been attained. Then, O you two rich in strength, drink the Soma!",
+      "full_meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ನಿಮ್ಮ ಶೀಘ್ರಗಾಮಿ, ಮಾನವರನ್ನು ಹೊತ್ತ ರಥವನ್ನು ಇಂದು ಹತ್ತಿರಕ್ಕೆ ಯೋಜಿಸಿರಿ; ಇಲ್ಲಿ ನಿಮ್ಮ ವಿಶ್ರಾಂತಿ ಸ್ಥಳವಿದೆ. ಹವಿಸ್ಸುಗಳನ್ನು ಮಧುರದಿಂದ ಅಭಿಷೇಕಿಸಿರಿ, ಏಕೆಂದರೆ ನಿಜವಾಗಿಯೂ ಆನಂದವು ಲಭಿಸಿದೆ. ಆ ಬಳಿಕ, ಓ ಬಲಶಾಲಿಗಳಾದ ನೀವು, ಸೋಮವನ್ನು ಪಾನಮಾಡಿರಿ!",
+      "rig_time_s": 66.313,
+      "Insight_en": "The arrival of the Ashvins' chariot symbolizes the imminent possibility of healing and transformation. The unyoking place represents a point of stillness and receptivity, essential for inner work. Mixing oblations with honey signifies the integration of sweetness (सौख्य) into our offerings and actions, transforming them into acts of devotion. Drinking Soma, the elixir of immortality, represents the realization of our true, eternal nature.",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳ ರಥದ ಆಗಮನವು ಗುಣಪಡಿಸುವಿಕೆ ಮತ್ತು ರೂಪಾಂತರದ ಸನ್ನಿಹಿತ ಸಾಧ್ಯತೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ರಥವನ್ನು ಬಿಚ್ಚುವ ಸ್ಥಳವು ಆಂತರಿಕ ಕೆಲಸಕ್ಕೆ ಅತ್ಯಗತ್ಯವಾದ ಸ್ಥಿರತೆ ಮತ್ತು ಸ್ವೀಕಾರದ ಬಿಂದುವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಹವಿಸ್ಸುಗಳನ್ನು ಜೇನುತುಪ್ಪದೊಂದಿಗೆ ಮಿಶ್ರಣ ಮಾಡುವುದು ನಮ್ಮ ಅರ್ಪಣೆಗಳು ಮತ್ತು ಕ್ರಿಯೆಗಳಲ್ಲಿ ಮಾಧುರ್ಯವನ್ನು (ಸೌಖ್ಯ) ಸಂಯೋಜಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅವುಗಳನ್ನು ಭಕ್ತಿಯ ಕಾರ್ಯಗಳಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ. ಅಮರತ್ವದ ಅಮೃತವಾದ ಸೋಮವನ್ನು ಕುಡಿಯುವುದು ನಮ್ಮ ನಿಜವಾದ, ಶಾಶ್ವತ ಸ್ವರೂಪದ ಸಾಕ್ಷಾತ್ಕಾರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S37_43-6_6",
+      "mandala": 2,
+      "sukta": 37,
+      "ric_index": 6,
+      "rig_lines": [
+        "जोष्य॑ग्ने स॒मिधं॒ जोष्याहु॑तिं॒ जोषि॒ ब्रह्म॒ जन्यं॒ जोषि॑ सुष्टु॒तिम् |",
+        "विश्वे᳚भि॒र्विश्वाँ᳚, ऋ॒तुना᳚ वसो म॒ह उ॒शन्‌ दे॒वाँ, उ॑श॒तः पा᳚यया ह॒विः ||"
+      ],
+      "pre_splits": [
+        "जोषि॑",
+        "अ॒ग्ने॒",
+        "स॒‌म्ऽ‌इध᳚‌म्",
+        "जोषि॑",
+        "आऽहु॑ति‌म्",
+        "जोषि॑",
+        "ब्रह्म॑",
+        "जन्य᳚‌म्",
+        "जोषि॑",
+        "सु॒ऽस्तु॒ति‌म्",
+        "विश्वे᳚भिः",
+        "विश्वा᳚न्",
+        "ऋ॒तुना᳚",
+        "व॒सो॒ इति॑",
+        "म॒हः",
+        "उ॒शन्",
+        "दे॒वान्",
+        "उ॒श॒तः",
+        "पा॒य॒य॒",
+        "ह॒विः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "जोषि॑",
+          "pada_kn": "ಜೋಷಿ",
+          "meaning_en": "May you delight in / May you enjoy",
+          "meaning_kn": "ಸಂತೋಷಿಸು / ಆನಂದಿಸು"
+        },
+        {
+          "pada_original": "अ॒ग्ने॒",
+          "pada_kn": "ಅಗ್ನೇ",
+          "meaning_en": "O Agni!",
+          "meaning_kn": "ಓ ಅಗ್ನಿ!"
+        },
+        {
+          "pada_original": "स॒‌म्ऽ‌इध᳚‌म्",
+          "pada_kn": "ಸಮಿದಮ್",
+          "meaning_en": "The fuel / the kindling",
+          "meaning_kn": "ಸಮಿದ್ / ಉರುವಲು"
+        },
+        {
+          "pada_original": "जोषि॑",
+          "pada_kn": "ಜೋಷಿ",
+          "meaning_en": "May you delight in / May you enjoy",
+          "meaning_kn": "ಸಂತೋಷಿಸು / ಆನಂದಿಸು"
+        },
+        {
+          "pada_original": "आऽहु॑ति‌म्",
+          "pada_kn": "ಆಹುತಿಮ್",
+          "meaning_en": "The oblation / the offering",
+          "meaning_kn": "ಆಹುತಿ / ಅರ್ಪಣೆ"
+        },
+        {
+          "pada_original": "जोषि॑",
+          "pada_kn": "ಜೋಷಿ",
+          "meaning_en": "May you delight in / May you enjoy",
+          "meaning_kn": "ಸಂತೋಷಿಸು / ಆನಂದಿಸು"
+        },
+        {
+          "pada_original": "ब्रह्म॑",
+          "pada_kn": "ಬ್ರಹ್ಮ",
+          "meaning_en": "The sacred word / prayer",
+          "meaning_kn": "ಪವಿತ್ರ ವಚನ / ಪ್ರಾರ್ಥನೆ"
+        },
+        {
+          "pada_original": "जन्य᳚‌म्",
+          "pada_kn": "ಜನ್ಯಮ್",
+          "meaning_en": "Produced (by us) / born (from us)",
+          "meaning_kn": "ನಮ್ಮಿಂದ ಹುಟ್ಟಿದ / ಉತ್ಪಾದಿಸಿದ"
+        },
+        {
+          "pada_original": "जोषि॑",
+          "pada_kn": "ಜೋಷಿ",
+          "meaning_en": "May you delight in / May you enjoy",
+          "meaning_kn": "ಸಂತೋಷಿಸು / ಆನಂದಿಸು"
+        },
+        {
+          "pada_original": "सु॒ऽस्तु॒ति‌म्",
+          "pada_kn": "ಸುಸ್ತುತಿಮ್",
+          "meaning_en": "The good praise / the excellent hymn",
+          "meaning_kn": "ಉತ್ತಮ ಸ್ತುತಿ / ಸುಸ್ತುತಿ"
+        },
+        {
+          "pada_original": "विश्वे᳚भिः",
+          "pada_kn": "ವಿಶ್ವೇಭಿಃ",
+          "meaning_en": "With all (your powers/aspects)",
+          "meaning_kn": "ನಿನ್ನ ಎಲ್ಲ ಶಕ್ತಿಗಳಿಂದ/ರೂಪಗಳಿಂದ"
+        },
+        {
+          "pada_original": "विश्वा᳚न्",
+          "pada_kn": "ವಿಶ್ವಾನ್",
+          "meaning_en": "All (offerings/things)",
+          "meaning_kn": "ಎಲ್ಲಾ ಅರ್ಪಣೆಗಳನ್ನು/ವಸ್ತುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "ऋ॒तुना᳚",
+          "pada_kn": "ಋತುನಾ",
+          "meaning_en": "In due season / at the proper time",
+          "meaning_kn": "ಸರಿಯಾದ ಸಮಯದಲ್ಲಿ / ಋತುವಿನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "व॒सो॒ इति॑",
+          "pada_kn": "ವಸೋ ಇತಿ",
+          "meaning_en": "O Vasu! (O good one / O wealthy one)",
+          "meaning_kn": "ಓ ವಸು! (ಓ ಉತ್ತಮನೇ / ಓ ಸಂಪದ್ಭರಿತನೇ!)"
+        },
+        {
+          "pada_original": "म॒हः",
+          "pada_kn": "ಮಹಃ",
+          "meaning_en": "Great / mighty",
+          "meaning_kn": "ಮಹತ್ತಾದ / ಶ್ರೇಷ್ಠವಾದ"
+        },
+        {
+          "pada_original": "उ॒शन्",
+          "pada_kn": "ಉಶನ್",
+          "meaning_en": "Desiring / wishing (Agni)",
+          "meaning_kn": "ಬಯಸುವ (ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "दे॒वान्",
+          "pada_kn": "ದೇವಾನ್",
+          "meaning_en": "The gods",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "उ॒श॒तः",
+          "pada_kn": "ಉಶತಃ",
+          "meaning_en": "Desiring / wishing (themselves - gods)",
+          "meaning_kn": "ಬಯಸುವ (ದೇವತೆಗಳು)"
+        },
+        {
+          "pada_original": "पा॒य॒य॒",
+          "pada_kn": "ಪಾಯಯ",
+          "meaning_en": "Cause to drink / make them partake",
+          "meaning_kn": "ಕುಡಿಸು / ಸೇವಿಸುವಂತೆ ಮಾಡು"
+        },
+        {
+          "pada_original": "ह॒विः",
+          "pada_kn": "ಹವಿಃ",
+          "meaning_en": "The oblation / the offering",
+          "meaning_kn": "ಹವಿಸ್ಸು / ಅರ್ಪಣೆ"
+        }
+      ],
+      "full_meaning_en": "O Agni, find joy in the kindling fuel, find joy in the poured oblation, find joy in the sacred prayer generated, find joy in the beautiful hymn. O Vasu, with all (your) powers, at the right season, desiring the great, may you cause the desiring Gods to partake of the oblation.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ಹೊತ್ತುತ್ತಿರುವ ಸమిಧೆಯಲ್ಲಿ ಆನಂದಿಸು, ಅರ್ಪಿತವಾದ ಆಹುತಿಯಲ್ಲಿ ಆನಂದಿಸು, ಪవిత್ರವಾದ ಜನಿತ ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ ಆನಂದಿಸು, ಸುಂದರವಾದ ಸ್ತೋತ್ರದಲ್ಲಿ ಆನಂದಿಸು. ಓ ವಸು, ನಿನ್ನ ಸಕಲ ಶಕ್ತಿಗಳೊಡನೆ, ಸಕಾಲದಲ್ಲಿ, ಮಹತ್ತರವಾದುದನ್ನು ಅಪೇಕ್ಷಿಸುತ್ತಾ, ಅಪೇಕ್ಷಿಸುವ ದೇವತೆಗಳನ್ನು ಈ ಹವಿಸ್ಸಿನಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳುವಂತೆ ಮಾಡು.",
+      "rig_time_s": 82.049,
+      "Insight_en": "The mantra speaks to the inner fire (अग्नि) of consciousness. The 'fuel' is our focused attention, the 'oblation' is the surrender of ego, the 'prayer' is the sincere aspiration, and the 'hymn' is the expression of gratitude. By offering these to the inner fire, we nourish the divine within us (वसो) and allow the Gods (the powers of the soul) to partake in the bliss of self-realization. The 'right season' is the opportune moment when inner readiness aligns with divine grace.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಂತರಂಗದ ಅಗ್ನಿಯಾದ ಪ್ರಜ್ಞೆಯ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ. 'ಸಮಿಧೆ' ಎಂದರೆ ನಮ್ಮ ಏಕಾಗ್ರ ಗಮನ, 'ಆಹುತಿ' ಎಂದರೆ ಅಹಂಕಾರದ ಸಮರ್ಪಣೆ, 'ಪ್ರಾರ್ಥನೆ' ಎಂದರೆ ಶುದ್ಧವಾದ ಆಕಾಂಕ್ಷೆ, ಮತ್ತು 'ಸ್ತೋತ್ರ' ಎಂದರೆ ಕೃತಜ್ಞತೆಯ ಅಭಿವ್ಯಕ್ತಿ. ಇವುಗಳನ್ನು ಆಂತರಿಕ ಅಗ್ನಿಗೆ ಅರ್ಪಿಸುವ ಮೂಲಕ, ನಾವು ನಮ್ಮೊಳಗಿನ ದೈವಿಕತೆಯನ್ನು (ವಸು) ಪೋಷಿಸುತ್ತೇವೆ ಮತ್ತು ದೇವತೆಗಳು (ಆತ್ಮದ ಶಕ್ತಿಗಳು) ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ ಆನಂದದಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತೇವೆ. 'ಸಕಾಲ' ಎಂದರೆ ಆಂತರಿಕ ಸಿದ್ಧತೆಯು ದೈವಿಕ ಕೃಪೆಯೊಂದಿಗೆ ಹೊಂದಿಕೆಯಾಗುವ ಸೂಕ್ತ ಕ್ಷಣ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

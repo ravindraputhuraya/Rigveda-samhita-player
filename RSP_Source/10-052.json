@@ -1,0 +1,972 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S52_191-1_6",
+      "mandala": 10,
+      "sukta": 52,
+      "ric_index": 1,
+      "rig_lines": [
+        "विश्वे᳚ देवाः शा॒स्तन॑ मा॒ यथे॒ह होता᳚ वृ॒तो म॒नवै॒ यन्नि॒षद्य॑ |",
+        "प्र मे᳚ ब्रूत भाग॒धेयं॒ यथा᳚ वो॒ येन॑ प॒था ह॒व्यमा वो॒ वहा᳚नि ||"
+      ],
+      "pre_splits": [
+        "विश्वे᳚",
+        "दे॒वाः॒",
+        "शा॒स्तन॑",
+        "मा॒",
+        "यथा᳚",
+        "इ॒ह",
+        "होता᳚",
+        "वृ॒तः",
+        "म॒नवै᳚",
+        "यत्",
+        "नि॒ऽसद्य॑",
+        "प्र",
+        "मे॒",
+        "ब्रू॒त॒",
+        "भा॒ग॒ऽधेय᳚‌म्",
+        "यथा᳚",
+        "वः॒",
+        "येन॑",
+        "प॒था",
+        "ह॒व्य‌म्",
+        "आ",
+        "वः॒",
+        "वहा᳚नि"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "विश्वे᳚",
+          "pada_kn": "ವಿಶ್ವೇ",
+          "meaning_en": "All",
+          "meaning_kn": "ಸಕಲ"
+        },
+        {
+          "pada_original": "दे॒वाः॒",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "O Gods",
+          "meaning_kn": "ಓ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "शा॒स्तन॑",
+          "pada_kn": "ಶಾಸ್ತನ",
+          "meaning_en": "Instruct / Guide",
+          "meaning_kn": "ಉಪದೇಶಿಸಿರಿ / ಮಾರ್ಗದರ್ಶನ ಮಾಡಿರಿ"
+        },
+        {
+          "pada_original": "मा॒",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "Me",
+          "meaning_kn": "ನನಗೆ"
+        },
+        {
+          "pada_original": "यथा᳚",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "So that / How",
+          "meaning_kn": "ಹೇಗೆ / ಇದರಿಂದ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "Here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "होता᳚",
+          "pada_kn": "ಹೋತಾ",
+          "meaning_en": "The Hotar (priest)",
+          "meaning_kn": "ಹೋತೃ (ಋತ್ವಿಜ)"
+        },
+        {
+          "pada_original": "वृ॒तः",
+          "pada_kn": "ವೃತಃ",
+          "meaning_en": "Chosen",
+          "meaning_kn": "ಆರಿಸಲ್ಪಟ್ಟವನು"
+        },
+        {
+          "pada_original": "म॒नवै᳚",
+          "pada_kn": "ಮನವೈ",
+          "meaning_en": "For Manu / For mankind",
+          "meaning_kn": "ಮನುಗಾಗಿ / ಮನುಷ್ಯರಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "When",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "नि॒ऽसद्य॑",
+          "pada_kn": "ನಿಸದ್ಯ",
+          "meaning_en": "Having sat down",
+          "meaning_kn": "ಕುಳಿತುಕೊಂಡಾಗ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "Forth / Well",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ಮುಂದೆ"
+        },
+        {
+          "pada_original": "मे॒",
+          "pada_kn": "ಮೇ",
+          "meaning_en": "To me",
+          "meaning_kn": "ನನಗೆ"
+        },
+        {
+          "pada_original": "ब्रू॒त॒",
+          "pada_kn": "ಬ್ರೂತ",
+          "meaning_en": "Tell",
+          "meaning_kn": "ಹೇಳಿರಿ"
+        },
+        {
+          "pada_original": "भा॒ग॒ऽधेय᳚‌म्",
+          "pada_kn": "ಭಾಗಧೇಯಮ್",
+          "meaning_en": "Share / Portion",
+          "meaning_kn": "ಪಾಲು / ಭಾಗ"
+        },
+        {
+          "pada_original": "यथा᳚",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "How",
+          "meaning_kn": "ಹೇಗೆ"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "To you",
+          "meaning_kn": "ನಿಮಗೆ"
+        },
+        {
+          "pada_original": "येन॑",
+          "pada_kn": "ಯೇನ",
+          "meaning_en": "By which",
+          "meaning_kn": "ಯಾವ"
+        },
+        {
+          "pada_original": "प॒था",
+          "pada_kn": "ಪಥಾ",
+          "meaning_en": "Path / Way",
+          "meaning_kn": "ಮಾರ್ಗದಿಂದ / ದಾರಿಯಿಂದ"
+        },
+        {
+          "pada_original": "ह॒व्य‌म्",
+          "pada_kn": "ಹವ್ಯಮ್",
+          "meaning_en": "Oblation",
+          "meaning_kn": "ಹವ್ಯವನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Hither / To",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ನಿಮಗೆ"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "To you",
+          "meaning_kn": "ನಿಮಗೆ"
+        },
+        {
+          "pada_original": "वहा᳚नि",
+          "pada_kn": "ವಹಾನಿ",
+          "meaning_en": "May I carry / Bring",
+          "meaning_kn": "ನಾನು ಒಯ್ಯಲಿ / ತಲುಪಿಸಲಿ"
+        }
+      ],
+      "full_meaning_en": "O all ye Gods, govern us in such a way that, as the invoker chosen here for the sake of man sits down to perform the sacrifice; declare to me my share according to your will, by which path I may bring the oblation to you.",
+      "full_meaning_kn": "ಓ ಎಲ್ಲಾ ದೇವತೆಗಳೇ, ಮನುಷ್ಯನ ಸಲುವಾಗಿ ಇಲ್ಲಿ ಆರಿಸಲ್ಪಟ್ಟ ಆಹ್ವಾನಿಸುವವನು ಯಜ್ಞವನ್ನು ಮಾಡಲು ಕುಳಿತಿರುವಂತೆ, ನಮ್ಮನ್ನು ಆ ರೀತಿಯಲ್ಲಿ ಆಳುವಿರಿ; ನಿಮ್ಮ ಇಚ್ಛೆಯ ಪ್ರಕಾರ ನನ್ನ ಪಾಲನ್ನು ನನಗೆ ತಿಳಿಸಿ, ಯಾವ ಮಾರ್ಗದಿಂದ ನಾನು ನಿಮಗೆ ಅರ್ಪಣೆಯನ್ನು ತರಬಹುದು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra is a prayer to all the Gods (विश्वे देवाः), seeking their guidance and governance. The speaker, acting as the hota or invoker, requests that the Gods define his role and share in the sacrificial offering (bhagadheyam). It signifies the importance of divine direction in performing rituals and the devotee's dependence on the Gods' grace to ensure the successful conveyance of offerings. The path (patha) symbolizes the correct procedure and understanding necessary for effective worship, emphasizing the interconnectedness between the devotee, the ritual, and the divine. The mantra highlights the surrender and the seeking of divine will in the execution of sacred duties, ensuring the efficacy of the sacrifice and the attainment of blessings from the devas.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಎಲ್ಲಾ ದೇವರುಗಳಿಗೆ (ವಿಶ್ವೇ ದೇವಾಃ) ಒಂದು ಪ್ರಾರ್ಥನೆಯಾಗಿದ್ದು, ಅವರ ಮಾರ್ಗದರ್ಶನ ಮತ್ತು ಆಡಳಿತವನ್ನು ಬಯಸುತ್ತದೆ. ಹೋತ ಅಥವಾ ಆಹ್ವಾನಿಸುವವನಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಭಾಷಿಕನು, ದೇವರುಗಳು ಅವನ ಪಾತ್ರವನ್ನು ಮತ್ತು ಯಜ್ಞದ ಅರ್ಪಣೆಯಲ್ಲಿ ಅವನ ಪಾಲನ್ನು (ಭಾಗಧೇಯಂ) ವ್ಯಾಖ್ಯಾನಿಸಬೇಕೆಂದು ವಿನಂತಿಸುತ್ತಾನೆ. ಇದು ಆಚರಣೆಗಳನ್ನು ಮಾಡುವಲ್ಲಿ ದೈವಿಕ ನಿರ್ದೇಶನದ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಮತ್ತು ಅರ್ಪಣೆಗಳ ಯಶಸ್ವಿ ಸಾಗಣೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಭಕ್ತನು ದೇವರುಗಳ ಕೃಪೆಯ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿರುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮಾರ್ಗವು (ಪಥ) ಪರಿಣಾಮಕಾರಿ ಆರಾಧನೆಗೆ ಅಗತ್ಯವಾದ ಸರಿಯಾದ ವಿಧಾನ ಮತ್ತು ತಿಳುವಳಿಕೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಭಕ್ತ, ಆಚರಣೆ ಮತ್ತು ದೈವಿಕತೆಯ ನಡುವಿನ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಪವಿತ್ರ ಕರ್ತವ್ಯಗಳ ಕಾರ್ಯಗತಗೊಳಿಸುವಿಕೆಯಲ್ಲಿ ಶರಣಾಗತಿ ಮತ್ತು ದೈವಿಕ ಇಚ್ಛೆಯನ್ನು ಹುಡುಕುವುದನ್ನು ಮಂತ್ರವು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಯಜ್ಞದ ಪರಿಣಾಮಕಾರಿತ್ವ ಮತ್ತು ದೇವತೆಗಳಿಂದ ಆಶೀರ್ವಾದಗಳ ಪ್ರಾಪ್ತಿಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S52_191-2_6",
+      "mandala": 10,
+      "sukta": 52,
+      "ric_index": 2,
+      "rig_lines": [
+        "अ॒हं होता॒ न्य॑सीदं॒ यजी᳚या॒न्‌ विश्वे᳚ दे॒वा म॒रुतो᳚ मा जुनन्ति |",
+        "अह॑रहरश्वि॒नाध्व᳚र्यवं वां ब्र॒ह्मा स॒मिद्भ॑वति॒ साहु॑तिर्वाम् ||"
+      ],
+      "pre_splits": [
+        "अ॒ह‌म्",
+        "होता᳚",
+        "नि",
+        "अ॒सी॒द॒‌म्",
+        "यजी᳚यान्",
+        "विश्वे᳚",
+        "दे॒वाः॒",
+        "म॒रुतः॑",
+        "मा॒",
+        "जु॒न॒न्ति॒",
+        "अहः॑।आहः",
+        "अ॒श्वि॒ना॒",
+        "आध्व᳚र्यव‌म्",
+        "वा॒‌म्",
+        "ब्र॒ह्मा",
+        "स॒‌म्ऽ‌इत्",
+        "भ॒व॒ति॒",
+        "सा",
+        "आऽहु॑तिः",
+        "वा॒‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒ह‌म्",
+          "pada_kn": "ಅಹಮ್",
+          "meaning_en": "I",
+          "meaning_kn": "ನಾನು"
+        },
+        {
+          "pada_original": "होता᳚",
+          "pada_kn": "ಹೋತಾ",
+          "meaning_en": "the Hotar (priest who invokes gods)",
+          "meaning_kn": "ಹೋತೃ (ದೇವತೆಗಳನ್ನು ಆಹ್ವಾನಿಸುವ ಋತ್ವಿಜ)"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / indeed (prefix)",
+          "meaning_kn": "ಕೆಳಗೆ / ನಿಶ್ಚಯವಾಗಿ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अ॒सी॒द॒‌म्",
+          "pada_kn": "ಅಸೀದಮ್",
+          "meaning_en": "I sat",
+          "meaning_kn": "ನಾನು ಕುಳಿತೆನು"
+        },
+        {
+          "pada_original": "यजी᳚यान्",
+          "pada_kn": "ಯಜೀಯಾನ್",
+          "meaning_en": "more sacrificing / better sacrificer",
+          "meaning_kn": "ಹೆಚ್ಚು ಯಜ್ಞ ಮಾಡುವವನು / ಉತ್ತಮ ಯಜ್ಞಕರ್ತ"
+        },
+        {
+          "pada_original": "विश्वे᳚",
+          "pada_kn": "ವಿಶ್ವೇ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "दे॒वाः॒",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "म॒रुतः॑",
+          "pada_kn": "ಮರುತಃ",
+          "meaning_en": "Maruts (storm gods)",
+          "meaning_kn": "ಮರುತ್ತುಗಳು (ಗಾಳಿ ದೇವತೆಗಳು)"
+        },
+        {
+          "pada_original": "मा॒",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "जु॒न॒न्ति॒",
+          "pada_kn": "ಜುನಂತಿ",
+          "meaning_en": "they impel / they quicken",
+          "meaning_kn": "ಅವರು ಪ್ರೇರಿಸುತ್ತಾರೆ / ಅವರು ಚುರುಕುಗೊಳಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "अहः॑।आहः",
+          "pada_kn": "ಅಹಃ।ಆಹಃ",
+          "meaning_en": "day by day / daily",
+          "meaning_kn": "ಪ್ರತಿದಿನ / ದಿನದಿನವೂ"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins (dual)",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "आध्व᳚र्यव‌म्",
+          "pada_kn": "ಆಧ್ವರ್ಯವಮ್",
+          "meaning_en": "the Adhvaryu's work / function of Adhvaryu",
+          "meaning_kn": "ಅಧ್ವರ್ಯುವಿನ ಕಾರ್ಯ / ಅಧ್ವರ್ಯುವಿನ ಕರ್ತವ್ಯ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "for you (dual)",
+          "meaning_kn": "ನಿಮಗೆ (ಇಬ್ಬರಿಗೂ)"
+        },
+        {
+          "pada_original": "ब्र॒ह्मा",
+          "pada_kn": "ಬ್ರಹ್ಮಾ",
+          "meaning_en": "the Brahman priest",
+          "meaning_kn": "ಬ್ರಹ್ಮ ಋತ್ವಿಜ"
+        },
+        {
+          "pada_original": "स॒‌म्ऽ‌इत्",
+          "pada_kn": "ಸಮಿತ್",
+          "meaning_en": "the fuel / the kindling wood",
+          "meaning_kn": "ಸಮಿತ್ತು / ಉರುವಲು"
+        },
+        {
+          "pada_original": "भ॒व॒ति॒",
+          "pada_kn": "ಭವತಿ",
+          "meaning_en": "becomes / is",
+          "meaning_kn": "ಆಗುತ್ತದೆ / ಇರುತ್ತದೆ"
+        },
+        {
+          "pada_original": "सा",
+          "pada_kn": "ಸಾ",
+          "meaning_en": "that / that very",
+          "meaning_kn": "ಆ / ಅದೇ"
+        },
+        {
+          "pada_original": "आऽहु॑तिः",
+          "pada_kn": "ಆಹುತಿಃ",
+          "meaning_en": "offering / oblation",
+          "meaning_kn": "ಆಹುತಿ / ಅರ್ಪಣೆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "for you (dual)",
+          "meaning_kn": "ನಿಮಗೆ (ಇಬ್ಬರಿಗೂ)"
+        }
+      ],
+      "full_meaning_en": "I, the invoker (hota), sit down, more worthy to be worshipped; may all the gods, the Maruts, accept me. Day after day, O Ashvins, your adhvaryu (priest) offers the oblation; the Brahma becomes the Samidh (kindling wood), the Sahuti (offering) is for you.",
+      "full_meaning_kn": "ನಾನು, ಆಹ್ವಾನಿಸುವವನು (ಹೋತ), ಕುಳಿತುಕೊಳ್ಳುತ್ತೇನೆ, ಪೂಜಿಸಲು ಹೆಚ್ಚು ಯೋಗ್ಯನಾಗಿದ್ದೇನೆ; ಎಲ್ಲಾ ದೇವರುಗಳು, ಮರುತ್‌ಗಳು, ನನ್ನನ್ನು ಸ್ವೀಕರಿಸಲಿ. ದಿನದ ನಂತರ ದಿನ, ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ನಿಮ್ಮ ಅಧ್ವರ್ಯು (ಪೂಜಾರಿ) ಅರ್ಪಣೆಯನ್ನು ನೀಡುತ್ತಾನೆ; ಬ್ರಹ್ಮವು ಸಮಿಧ (ಉರಿಯುವ ಕಟ್ಟಿಗೆ) ಆಗುತ್ತದೆ, ಸಹುತಿ (ಅರ್ಪಣೆ) ನಿಮಗಾಗಿ.",
+      "rig_time_s": 15.917,
+      "Insight_en": "This mantra speaks to the role of the hota (invoker) in the Vedic ritual. The hota establishes a connection between the human and divine realms through prayer and offering. By invoking the gods, specifically the Maruts and Ashvins, the hota seeks their acceptance and blessings. The offering of samidh (kindling wood) and sahuti (oblations) emphasizes the importance of sacrifice in maintaining cosmic order (ṛta). The brahman, representing the sacred word and the power of prayer, further enhances the ritual's efficacy. This act highlights the devotee's aspiration to merge with the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ವೈದಿಕ ಆಚರಣೆಯಲ್ಲಿ ಹೋತೃವಿನ ಪಾತ್ರದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಹೋತೃ ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಅರ್ಪಣೆಗಳ ಮೂಲಕ ಮಾನವ ಮತ್ತು ದೈವಿಕ ಕ್ಷೇತ್ರಗಳ ನಡುವೆ ಸಂಪರ್ಕವನ್ನು ಸ್ಥಾಪಿಸುತ್ತಾನೆ. ನಿರ್ದಿಷ್ಟವಾಗಿ ಮರುತ್‌ಗಳು ಮತ್ತು ಅಶ್ವಿನಿ ದೇವತೆಗಳನ್ನು ಆಹ್ವಾನಿಸುವ ಮೂಲಕ, ಹೋತೃ ಅವರ ಸ್ವೀಕಾರ ಮತ್ತು ಆಶೀರ್ವಾದವನ್ನು ಪಡೆಯಲು ಪ್ರಯತ್ನಿಸುತ್ತಾನೆ. ಸಮಿಧ (ಉರಿಯುವ ಕಟ್ಟಿಗೆ) ಮತ್ತು ಸಹುತಿಯ (ಆಹುತಿ) ಅರ್ಪಣೆಯು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು (ಋತ) ಕಾಪಾಡಿಕೊಳ್ಳುವಲ್ಲಿ ತ್ಯಾಗದ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಬ್ರಹ್ಮವು ಪವಿತ್ರ ಪದ ಮತ್ತು ಪ್ರಾರ್ಥನೆಯ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಆಚರಣೆಯ ಪರಿಣಾಮಕಾರಿತ್ವವನ್ನು ಮತ್ತಷ್ಟು ಹೆಚ್ಚಿಸುತ್ತದೆ. ಈ ಕ್ರಿಯೆಯು ದೈವಿಕತೆಯೊಂದಿಗೆ ವಿಲೀನಗೊಳ್ಳಲು ಭಕ್ತರ ಆಕಾಂಕ್ಷೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S52_191-3_6",
+      "mandala": 10,
+      "sukta": 52,
+      "ric_index": 3,
+      "rig_lines": [
+        "अ॒यं यो होता॒ किरु॒ स य॒मस्य॒ कमप्यू᳚हे॒ यत्स॑म॒ञ्जन्ति॑ दे॒वाः |",
+        "अह॑रहर्जायते मा॒सिमा॒स्यथा᳚ दे॒वा द॑धिरे हव्य॒वाह᳚म् ||"
+      ],
+      "pre_splits": [
+        "अ॒य‌म्",
+        "यः",
+        "होता᳚",
+        "किः",
+        "ऊँ॒ इति॑",
+        "सः",
+        "य॒मस्य॑",
+        "क‌म्",
+        "अपि॑",
+        "ऊ॒हे॒",
+        "यत्",
+        "स॒‌म्।आं॒जन्ति॑",
+        "दे॒वाः",
+        "अहः॑।आहः",
+        "जा॒य॒ते॒",
+        "मा॒सिऽमा᳚सि",
+        "अथ॑",
+        "दे॒वाः",
+        "द॒धि॒रे॒",
+        "ह॒व्य॒ऽवाह᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒य‌म्",
+          "pada_kn": "ಅಯಮ್",
+          "meaning_en": "This (one)",
+          "meaning_kn": "ಈ (ಒಬ್ಬ)"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "होता᳚",
+          "pada_kn": "ಹೋತಾ",
+          "meaning_en": "The invoker (priest)",
+          "meaning_kn": "ಹೋತೃ / ಆಹ್ವಾನಿಸುವವನು"
+        },
+        {
+          "pada_original": "किः",
+          "pada_kn": "ಕಿಃ",
+          "meaning_en": "What?",
+          "meaning_kn": "ಏನು?"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊँ ಇತಿ",
+          "meaning_en": "Indeed / verily",
+          "meaning_kn": "ನಿಜವಾಗಿ / ಖಂಡಿತವಾಗಿ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "य॒मस्य॑",
+          "pada_kn": "ಯಮಸ್ಯ",
+          "meaning_en": "Of Yama (the god of death)",
+          "meaning_kn": "ಯಮನ / ಮೃತ್ಯುದೇವನ"
+        },
+        {
+          "pada_original": "क‌म्",
+          "pada_kn": "ಕಮ್",
+          "meaning_en": "For what purpose / joy",
+          "meaning_kn": "ಯಾವ ಉದ್ದೇಶಕ್ಕಾಗಿ / ಸಂತೋಷಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "अपि॑",
+          "pada_kn": "ಅಪಿ",
+          "meaning_en": "Also / even / indeed",
+          "meaning_kn": "ಕೂಡ / ಸಹ"
+        },
+        {
+          "pada_original": "ऊ॒हे॒",
+          "pada_kn": "ಊಹೇ",
+          "meaning_en": "Does he carry? / Does he bear?",
+          "meaning_kn": "ಅವನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆಯೇ? / ಅವನು ಸಹಿಸುತ್ತಾನೆಯೇ?"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "When / that which",
+          "meaning_kn": "ಯಾವಾಗ / ಯಾವುದು"
+        },
+        {
+          "pada_original": "स॒‌म्।आं॒जन्ति॑",
+          "pada_kn": "ಸಮ್।ಆಂಜನ್ತಿ",
+          "meaning_en": "They anoint / they prepare",
+          "meaning_kn": "ಅವರು ಲೇಪಿಸುತ್ತಾರೆ / ಅವರು ಸಿದ್ಧಗೊಳಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "The gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "अहः॑।आहः",
+          "pada_kn": "ಅಹಃ।ಆಹಃ",
+          "meaning_en": "Day by day / daily",
+          "meaning_kn": "ದಿನೇ ದಿನೇ / ಪ್ರತಿದಿನ"
+        },
+        {
+          "pada_original": "जा॒य॒ते॒",
+          "pada_kn": "ಜಾಯತೇ",
+          "meaning_en": "Is born / appears",
+          "meaning_kn": "ಹುಟ್ಟುತ್ತಾನೆ / ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "मा॒सिऽमा᳚सि",
+          "pada_kn": "ಮಾಸಿऽಮಾಸಿ",
+          "meaning_en": "Month by month / every month",
+          "meaning_kn": "ತಿಂಗಳಿ ತಿಂಗಳು / ಪ್ರತಿ ತಿಂಗಳು"
+        },
+        {
+          "pada_original": "अथ॑",
+          "pada_kn": "ಅಥ",
+          "meaning_en": "Then / thereupon",
+          "meaning_kn": "ಆಗ / ತರುವಾಯ"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "The gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "द॒धि॒रे॒",
+          "pada_kn": "ದಧಿರೇ",
+          "meaning_en": "Placed / established",
+          "meaning_kn": "ಸ್ಥಾಪಿಸಿದರು / ಇರಿಸಿದರು"
+        },
+        {
+          "pada_original": "ह॒व्य॒ऽवाह᳚‌म्",
+          "pada_kn": "ಹವ್ಯऽವಾಹಮ್",
+          "meaning_en": "The bearer of offerings (Agni)",
+          "meaning_kn": "ಹವ್ಯವಾಹಕನನ್ನು / ಆಹುತಿಗಳನ್ನು ಹೊತ್ತೊಯ್ಯುವವನನ್ನು"
+        }
+      ],
+      "full_meaning_en": "This sacrificer (hota) who is the messenger (kiru) of Yama, what offering would he bear to Yama, which the gods together prepare. Day after day he is born, month after month. Then the gods established Agni as the bearer of oblations (havyavāham).",
+      "full_meaning_kn": "ಯಮದೂತರೂಪದ ಈ ಹೋತೃವು ಯಮನಿಗೆ ಯಾವ ಅರ್ಪಣೆಯನ್ನು ತರಬೇಕು? ಯಾವ ಅರ್ಪಣೆಯನ್ನು ದೇವತೆಗಳು ಒಟ್ಟಾಗಿ ಸಿದ್ಧಪಡಿಸುತ್ತಾರೆ? ಅವನು ದಿನದಿನವೂ ಹುಟ್ಟುತ್ತಾನೆ, ತಿಂಗಳ ತಿಂಗಳೂ ಹುಟ್ಟುತ್ತಾನೆ. ನಂತರ ದೇವತೆಗಳು ಅಗ್ನಿಯನ್ನು ಹವಿಸ್ಸನ್ನು ಸಾಗಿಸುವವನನ್ನಾಗಿ ಸ್ಥಾಪಿಸಿದರು.",
+      "rig_time_s": 31.898,
+      "Insight_en": "This mantra speaks of the cyclical nature of existence and the role of अग्नि (Agni) as the divine messenger and carrier of oblations. The repeated births signify the constant renewal of cosmic energies and the continuous interaction between the mortal and immortal realms. The gods' preparation and establishment of Agni as हव्यवाहम् (havyavāham) highlight the divine orchestration of sacrificial rituals. Ultimately, it underscores the importance of यज्ञ (yajna) as a means to connect with the divine and sustain cosmic order. The 'sacrificer' represents the individual soul constantly striving to unite with the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಸ್ತಿತ್ವದ ಚಕ್ರೀಯ ಸ್ವರೂಪ ಮತ್ತು ದೈವಿಕ ಸಂದೇಶವಾಹಕ ಹಾಗೂ ಅರ್ಪಣೆಗಳ ವಾಹಕನಾಗಿ ಅಗ್ನಿಯ ಪಾತ್ರದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಪದೇ ಪದೇ ಜನನವಾಗುವುದು ಕಾಸ್ಮಿಕ್ ಶಕ್ತಿಗಳ ನಿರಂತರ ನವೀಕರಣ ಮತ್ತು ಮರ್ತ್ಯ ಹಾಗೂ ಅಮರ ಕ್ಷೇತ್ರಗಳ ನಡುವಿನ ನಿರಂತರ ಸಂವಹನವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ದೇವತೆಗಳು ಅಗ್ನಿಯನ್ನು ಹವ್ಯವಾಹನನ್ನಾಗಿ ಸಿದ್ಧಪಡಿಸಿ ಸ್ಥಾಪಿಸುವುದು ಯಜ್ಞದ ಆಚರಣೆಗಳ ದೈವಿಕ ಸಮನ್ವಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ದೈವಿಕ ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸಲು ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಯಜ್ಞದ ಮಹತ್ವವನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ. 'ತ್ಯಾಗ ಮಾಡುವವನು' ದೈವಿಕನೊಂದಿಗೆ ಒಂದಾಗಲು ನಿರಂತರವಾಗಿ ಶ್ರಮಿಸುವ ವೈಯಕ್ತಿಕ ಆತ್ಮವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S52_191-4_6",
+      "mandala": 10,
+      "sukta": 52,
+      "ric_index": 4,
+      "rig_lines": [
+        "मां दे॒वा द॑धिरे हव्य॒वाह॒मप᳚म्लुक्तं ब॒हु कृ॒च्छ्रा चर᳚न्तम् |",
+        "अ॒ग्निर्वि॒द्वान्‌ य॒ज्ञं नः॑ कल्पयाति॒ पञ्च॑यामं त्रि॒वृतं᳚ स॒प्तत᳚न्तुम् ||"
+      ],
+      "pre_splits": [
+        "मा‌म्",
+        "दे॒वाः",
+        "द॒धि॒रे॒",
+        "ह॒व्य॒ऽवाह᳚‌म्",
+        "अप॑ऽम्लुक्त‌म्",
+        "ब॒हु",
+        "कृ॒च्छ्रा",
+        "चर᳚न्त‌म्",
+        "अ॒ग्निः",
+        "वि॒द्वान्",
+        "य॒ज्ञ‌म्",
+        "नः॒",
+        "क॒ल्प॒या॒ति॒",
+        "पंच॑ऽयाम‌म्",
+        "त्रि॒ऽवृत᳚‌म्",
+        "स॒प्तऽत᳚न्तु‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "मा‌म्",
+          "pada_kn": "ಮಾಮ್",
+          "meaning_en": "Me (Agni)",
+          "meaning_kn": "ನನ್ನನ್ನು (ಅಗ್ನಿಯನ್ನು)"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "The gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "द॒धि॒रे॒",
+          "pada_kn": "ದಧಿರೇ",
+          "meaning_en": "Appointed / placed",
+          "meaning_kn": "ನೇಮಿಸಿದರು / ಸ್ಥಾಪಿಸಿದರು"
+        },
+        {
+          "pada_original": "ह॒व्य॒ऽवाह᳚‌म्",
+          "pada_kn": "ಹವ್ಯವಾಹಮ್",
+          "meaning_en": "The bearer of oblations",
+          "meaning_kn": "ಹವಿಸ್ಸುಗಳನ್ನು ಹೊತ್ತೊಯ್ಯುವವನನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "अप॑ऽम्लुक्त‌म्",
+          "pada_kn": "ಅಪಮ್ಲುಕ್ತಮ್",
+          "meaning_en": "Unblemished / not fallen",
+          "meaning_kn": "ಕಳಂಕವಿಲ್ಲದವನನ್ನಾಗಿ / ಮರೆಯಾಗದವನನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "ब॒हु",
+          "pada_kn": "ಬಹು",
+          "meaning_en": "Many / much",
+          "meaning_kn": "ಬಹಳ"
+        },
+        {
+          "pada_original": "कृ॒च्छ्रा",
+          "pada_kn": "ಕೃಚ್ಛ್ರಾ",
+          "meaning_en": "Difficulties / hardships",
+          "meaning_kn": "ಕಷ್ಟಗಳನ್ನು"
+        },
+        {
+          "pada_original": "चर᳚न्त‌म्",
+          "pada_kn": "ಚರನ್ತಮ್",
+          "meaning_en": "Undergoing / experiencing",
+          "meaning_kn": "ಅನುಭವಿಸುತ್ತಿದ್ದ (ನನ್ನನ್ನು)"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ"
+        },
+        {
+          "pada_original": "वि॒द्वान्",
+          "pada_kn": "ವಿದ್ವಾನ್",
+          "meaning_en": "Knowing / wise",
+          "meaning_kn": "ತಿಳಿದಿರುವ / ಜ್ಞಾನಿ"
+        },
+        {
+          "pada_original": "य॒ज्ञ‌म्",
+          "pada_kn": "ಯಜ್ಞಮ್",
+          "meaning_en": "The sacrifice",
+          "meaning_kn": "ಯಜ್ಞವನ್ನು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Our",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "क॒ल्प॒या॒ति॒",
+          "pada_kn": "ಕಲ್ಪಯಾತಿ",
+          "meaning_en": "May he arrange / accomplish",
+          "meaning_kn": "ಅವನು ಸಿದ್ಧಪಡಿಸಲಿ / ನೆರವೇರಿಸಲಿ"
+        },
+        {
+          "pada_original": "पंच॑ऽयाम‌म्",
+          "pada_kn": "ಪಂಚಯಾಮಮ್",
+          "meaning_en": "Five-fold / having five courses",
+          "meaning_kn": "ಐದು ವಿಧದ / ಐದು ಯಾಮಗಳಿರುವ"
+        },
+        {
+          "pada_original": "त्रि॒ऽवृत᳚‌म्",
+          "pada_kn": "ತ್ರಿವೃತಮ್",
+          "meaning_en": "Three-fold / three-stranded",
+          "meaning_kn": "ಮೂರು ವಿಧದ / ಮೂರು ಸುತ್ತಿನ"
+        },
+        {
+          "pada_original": "स॒प्तऽत᳚न्तु‌म्",
+          "pada_kn": "ಸಪ್ತತನ್ತುಮ್",
+          "meaning_en": "Seven-threaded / having seven threads",
+          "meaning_kn": "ಏಳು ತಂತುಗಳಿರುವ / ಏಳು ವಿಧದ"
+        }
+      ],
+      "full_meaning_en": "The Gods have made me, Agni, the carrier of oblations, freed from faults, though wandering through many difficulties. May Agni, the wise one, arrange our sacrifice, which has five extensions, threefold layers, and seven threads.",
+      "full_meaning_kn": "ದೇವತೆಗಳು ನನ್ನನ್ನು, ಅಗ್ನಿಯನ್ನು, ಅರ್ಪಣೆಗಳನ್ನು ಸಾಗಿಸುವವನನ್ನಾಗಿ ಮಾಡಿದ್ದಾರೆ, ದೋಷಗಳಿಂದ ಮುಕ್ತನನ್ನಾಗಿ, ಅನೇಕ ಕಷ್ಟಗಳ ಮೂಲಕ ಅಲೆದಾಡುವವನನ್ನಾಗಿ ಮಾಡಿದ್ದಾರೆ. ಜ್ಞಾನಿಯಾದ ಅಗ್ನಿಯು ನಮ್ಮ ಯಜ್ಞವನ್ನು ವ್ಯವಸ್ಥೆಗೊಳಿಸಲಿ, ಅದು ಐದು ವಿಸ್ತರಣೆಗಳನ್ನು, ಮೂರು ಪದರಗಳನ್ನು ಮತ್ತು ಏಳು ಎಳೆಗಳನ್ನು ಹೊಂದಿದೆ.",
+      "rig_time_s": 47.036,
+      "Insight_en": "This mantra speaks of अग्नि (Agni) as the carrier of oblations, representing the divine spark within us. The difficulties mentioned symbolize the challenges in our spiritual journey. The prayer is for अग्नि (Agni), the wise one, to organize the sacrifice, which signifies the integration of our senses (five extensions), the three states of consciousness (threefold layers), and the seven chakras (seven threads). Ultimately, it is a plea for the divine to guide and perfect our inner transformation.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯನ್ನು ಅರ್ಪಣೆಗಳನ್ನು ಸಾಗಿಸುವವನಾಗಿ ಮಾತನಾಡುತ್ತದೆ, ಇದು ನಮ್ಮೊಳಗಿನ ದೈವಿಕ ಕಿಡಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಉಲ್ಲೇಖಿಸಲಾದ ತೊಂದರೆಗಳು ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯಾಣದಲ್ಲಿನ ಸವಾಲುಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಜ್ಞಾನಿಯಾದ ಅಗ್ನಿಯು ಯಜ್ಞವನ್ನು ಸಂಘಟಿಸಲು ಪ್ರಾರ್ಥನೆಯಾಗಿದೆ, ಇದು ನಮ್ಮ ಇಂದ್ರಿಯಗಳ ಏಕೀಕರಣವನ್ನು (ಐದು ವಿಸ್ತರಣೆಗಳು), ಪ್ರಜ್ಞೆಯ ಮೂರು ಸ್ಥಿತಿಗಳನ್ನು (ಮೂರು ಪದರಗಳು) ಮತ್ತು ಏಳು ಚಕ್ರಗಳನ್ನು (ಏಳು ಎಳೆಗಳು) ಸೂಚಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ದೈವಿಕವು ನಮ್ಮ ಆಂತರಿಕ ರೂಪಾಂತರವನ್ನು ಮಾರ್ಗದರ್ಶಿಸಲು ಮತ್ತು ಪರಿಪೂರ್ಣಗೊಳಿಸಲು ಒಂದು ಪ್ರಾರ್ಥನೆಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S52_191-5_6",
+      "mandala": 10,
+      "sukta": 52,
+      "ric_index": 5,
+      "rig_lines": [
+        "आ वो᳚ यक्ष्यमृत॒त्वं सु॒वीरं॒ यथा᳚ वो देवा॒ वरि॑वः॒ करा᳚णि |",
+        "आ बा॒ह्वोर्वज्र॒मिन्द्र॑स्य धेया॒मथे॒मा विश्वाः॒ पृत॑ना जयाति ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "वः॒",
+        "य॒क्षि॒",
+        "अ॒मृ॒त॒ऽत्व‌म्",
+        "सु॒ऽवीर᳚‌म्",
+        "यथा᳚",
+        "वः॒",
+        "दे॒वाः॒",
+        "वरि॑वः",
+        "करा᳚णि",
+        "आ",
+        "बा॒ह्वोः",
+        "वज्र᳚‌म्",
+        "इन्द्र॑स्य",
+        "धेया᳚‌म्",
+        "अथ॑",
+        "इ॒माः",
+        "विश्वाः᳚",
+        "पृत॑नाः",
+        "ज॒या॒ति॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "May I bring/offer",
+          "meaning_kn": "ನಾನು ತರಲಿ/ಅರ್ಪಿಸಲಿ"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "to you (plural)",
+          "meaning_kn": "ನಿಮಗೆ"
+        },
+        {
+          "pada_original": "य॒क्षि॒",
+          "pada_kn": "ಯಕ್ಷಿ",
+          "meaning_en": "may I worship/offer",
+          "meaning_kn": "ನಾನು ಪೂಜಿಸಲಿ/ಅರ್ಪಿಸಲಿ"
+        },
+        {
+          "pada_original": "अ॒मृ॒त॒ऽत्व‌म्",
+          "pada_kn": "ಅಮೃತತ್ವಮ್",
+          "meaning_en": "immortality",
+          "meaning_kn": "ಅಮರತ್ವವನ್ನು"
+        },
+        {
+          "pada_original": "सु॒ऽवीर᳚‌म्",
+          "pada_kn": "ಸುವೀರಮ್",
+          "meaning_en": "good heroism/valor",
+          "meaning_kn": "ಉತ್ತಮ ಶೌರ್ಯವನ್ನು/ವೀರತ್ವವನ್ನು"
+        },
+        {
+          "pada_original": "यथा᳚",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "so that",
+          "meaning_kn": "ಹೇಗೆಂದರೆ/ಹಾಗಾಗಿ"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "for you (plural)",
+          "meaning_kn": "ನಿಮಗಾಗಿ"
+        },
+        {
+          "pada_original": "दे॒वाः॒",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "O gods",
+          "meaning_kn": "ಓ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "वरि॑वः",
+          "pada_kn": "ವರಿವಃ",
+          "meaning_en": "prosperity/comfort",
+          "meaning_kn": "ಸಮೃದ್ಧಿ/ಸುಖವನ್ನು"
+        },
+        {
+          "pada_original": "करा᳚णि",
+          "pada_kn": "ಕರಾಣಿ",
+          "meaning_en": "may I make/provide",
+          "meaning_kn": "ನಾನು ಮಾಡಲಿ/ಒದಗಿಸಲಿ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "May we place/establish",
+          "meaning_kn": "ನಾವು ಇಡೋಣ/ಸ್ಥಾಪಿಸೋಣ"
+        },
+        {
+          "pada_original": "बा॒ह्वोः",
+          "pada_kn": "ಬಾಹ್ವೋಃ",
+          "meaning_en": "in the two arms",
+          "meaning_kn": "ಎರಡು ತೋಳುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "वज्र᳚‌म्",
+          "pada_kn": "ವಜ್ರಮ್",
+          "meaning_en": "the thunderbolt",
+          "meaning_kn": "ವಜ್ರಾಯುಧವನ್ನು"
+        },
+        {
+          "pada_original": "इन्द्र॑स्य",
+          "pada_kn": "ಇಂದ್ರಸ್ಯ",
+          "meaning_en": "of Indra",
+          "meaning_kn": "ಇಂದ್ರನ"
+        },
+        {
+          "pada_original": "धेया᳚‌म्",
+          "pada_kn": "ಧೇಯಾಮ್",
+          "meaning_en": "may we place/establish",
+          "meaning_kn": "ನಾವು ಇಡೋಣ/ಸ್ಥಾಪಿಸೋಣ"
+        },
+        {
+          "pada_original": "अथ॑",
+          "pada_kn": "ಅಥ",
+          "meaning_en": "then/thereupon",
+          "meaning_kn": "ಆಗ/ನಂತರ"
+        },
+        {
+          "pada_original": "इ॒माः",
+          "pada_kn": "ಇಮಾಃ",
+          "meaning_en": "these",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "विश्वाः᳚",
+          "pada_kn": "ವಿಶ್ವಾಃ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "पृत॑नाः",
+          "pada_kn": "ಪೃತನಾಃ",
+          "meaning_en": "battles/armies",
+          "meaning_kn": "ಯುದ್ಧಗಳನ್ನು/ಸೇನೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "ज॒या॒ति॒",
+          "pada_kn": "ಜಯಾತಿ",
+          "meaning_en": "may he conquer",
+          "meaning_kn": "ಅವನು ಜಯಿಸಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Gods, I will worship you to attain immortality, and to have excellent heroes, just as your bounties should be givers. Let us invoke the thunderbolt of Indra in (our) two arms, then may he conquer all these hosts of enemies.",
+      "full_meaning_kn": "ಓ ದೇವತೆಗಳೇ, ಅಮರತ್ವವನ್ನು ಪಡೆಯಲು ಮತ್ತು ಅತ್ಯುತ್ತಮ ವೀರರನ್ನು ಹೊಂದಲು ನಾನು ನಿಮ್ಮನ್ನು ಪೂಜಿಸುತ್ತೇನೆ, ನಿಮ್ಮ ಕೊಡುಗೆಗಳು ದಾನಿಗಳಾಗಿರಬೇಕು. ಇಂದ್ರನ ವಜ್ರಾಯುಧವನ್ನು (ನಮ್ಮ) ಎರಡು ತೋಳುಗಳಲ್ಲಿ ಆವಾಹಿಸೋಣ, ನಂತರ ಅವನು ಎಲ್ಲಾ ಶತ್ರುಗಳ ಗುಂಪುಗಳನ್ನು ಜಯಿಸಲಿ.",
+      "rig_time_s": 62.77,
+      "Insight_en": "This mantra emphasizes the attainment of immortality (अमृतत्वं) through devotion and worship of the Gods. It invokes the power of Indra's thunderbolt (वज्र), symbolizing strength and victory over obstacles. The devotee aspires to embody the divine qualities within themselves, suggesting the potential for inner transformation and the conquest of internal enemies. The invocation of Gods is not merely for external gain but for the realization of one's own inherent divinity and power. This aligns with the Vedic concept of self-realization through divine connection.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೇವತೆಗಳ ಭಕ್ತಿ ಮತ್ತು ಆರಾಧನೆಯ ಮೂಲಕ ಅಮರತ್ವವನ್ನು (ಅಮೃತತ್ವಂ) ಪಡೆಯುವುದನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಇದು ಇಂದ್ರನ ವಜ್ರಾಯುಧದ (ವಜ್ರ) ಶಕ್ತಿಯನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ, ಇದು ಶಕ್ತಿ ಮತ್ತು ಅಡೆತಡೆಗಳ ಮೇಲಿನ ವಿಜಯವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಭಕ್ತನು ತನ್ನಲ್ಲಿ ದೈವಿಕ ಗುಣಗಳನ್ನು ಸಾಕಾರಗೊಳಿಸಲು ಬಯಸುತ್ತಾನೆ, ಇದು ಆಂತರಿಕ ರೂಪಾಂತರದ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಆಂತರಿಕ ಶತ್ರುಗಳ ವಿಜಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ದೇವತೆಗಳ ಆಹ್ವಾನವು ಕೇವಲ ಬಾಹ್ಯ ಲಾಭಕ್ಕಾಗಿಯಲ್ಲ, ಬದಲಿಗೆ ದೈವಿಕ ಸಂಪರ್ಕದ ಮೂಲಕ ಒಬ್ಬರ ಸ್ವಂತ ಅಂತರ್ಗತ ದೈವತ್ವ ಮತ್ತು ಶಕ್ತಿಯ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕಾಗಿ ಆಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S52_191-6_6",
+      "mandala": 10,
+      "sukta": 52,
+      "ric_index": 6,
+      "rig_lines": [
+        "त्रीणि॑ श॒ता त्री स॒हस्रा᳚ण्य॒ग्निं त्रिं॒शच्च॑ दे॒वा नव॑ चासपर्यन् |",
+        "औक्ष॑न्‌ घृ॒तैरस्तृ॑णन्‌ ब॒र्हिर॑स्मा॒, आदिद्धोता᳚रं॒ न्य॑सादयन्त ||"
+      ],
+      "pre_splits": [
+        "त्रीणि॑",
+        "श॒ता",
+        "त्री",
+        "स॒हस्रा᳚णि",
+        "अ॒ग्नि‌म्",
+        "त्रिं॒शत्",
+        "च॒",
+        "दे॒वाः",
+        "नव॑",
+        "च॒",
+        "अ॒स॒प॒र्य॒न्",
+        "औक्ष॑न्",
+        "घृ॒तैः",
+        "अस्तृ॑णन्",
+        "ब॒र्हिः",
+        "अ॒स्मै॒",
+        "आत्",
+        "इत्",
+        "होता᳚र‌म्",
+        "नि",
+        "अ॒सा॒द॒य॒न्त॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त्रीणि॑",
+          "pada_kn": "ತ್ರೀಣಿ",
+          "meaning_en": "three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "श॒ता",
+          "pada_kn": "ಶತಾ",
+          "meaning_en": "hundreds",
+          "meaning_kn": "ನೂರುಗಳು"
+        },
+        {
+          "pada_original": "त्री",
+          "pada_kn": "ತ್ರೀ",
+          "meaning_en": "three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "स॒हस्रा᳚णि",
+          "pada_kn": "ಸಹಸ್ರಾಣಿ",
+          "meaning_en": "thousands",
+          "meaning_kn": "ಸಾವಿರಗಳು"
+        },
+        {
+          "pada_original": "अ॒ग्नि‌म्",
+          "pada_kn": "ಅಗ್ನಿಮ್",
+          "meaning_en": "Agni",
+          "meaning_kn": "ಅಗ್ನಿಯನ್ನು"
+        },
+        {
+          "pada_original": "त्रिं॒शत्",
+          "pada_kn": "ತ್ರಿಂಶತ್",
+          "meaning_en": "thirty",
+          "meaning_kn": "ಮೂವತ್ತು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "नव॑",
+          "pada_kn": "ನವ",
+          "meaning_en": "nine",
+          "meaning_kn": "ಒಂಬತ್ತು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "अ॒स॒प॒र्य॒न्",
+          "pada_kn": "ಅಸಪರ್ಯನ್",
+          "meaning_en": "they worshipped / served",
+          "meaning_kn": "ಅವರು ಪೂಜಿಸಿದರು / ಸೇವಿಸಿದರು"
+        },
+        {
+          "pada_original": "औक्ष॑न्",
+          "pada_kn": "ಔಕ್ಷನ್",
+          "meaning_en": "they sprinkled / moistened",
+          "meaning_kn": "ಅವರು ಸಿಂಪಡಿಸಿದರು / ತೇವಗೊಳಿಸಿದರು"
+        },
+        {
+          "pada_original": "घृ॒तैः",
+          "pada_kn": "ಘೃತೈಃ",
+          "meaning_en": "with clarified butter / ghee",
+          "meaning_kn": "ತುಪ್ಪದಿಂದ"
+        },
+        {
+          "pada_original": "अस्तृ॑णन्",
+          "pada_kn": "ಅಸ್ತೃಣನ್",
+          "meaning_en": "they spread",
+          "meaning_kn": "ಅವರು ಹರಡಿದರು"
+        },
+        {
+          "pada_original": "ब॒र्हिः",
+          "pada_kn": "ಬರ್ಹಿಃ",
+          "meaning_en": "sacred grass",
+          "meaning_kn": "ದರ್ಭೆ / ಪವಿತ್ರ ಹುಲ್ಲು"
+        },
+        {
+          "pada_original": "अ॒स्मै॒",
+          "pada_kn": "ಅಸ್ಮೈ",
+          "meaning_en": "for him / to him",
+          "meaning_kn": "ಅವನಿಗಾಗಿ / ಅವನಿಗೆ"
+        },
+        {
+          "pada_original": "आत्",
+          "pada_kn": "ಆತ್",
+          "meaning_en": "then / thereupon",
+          "meaning_kn": "ಆಗ / ಅನಂತರ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ನಿಶ್ಚಯವಾಗಿ / ನಿಜವಾಗಿ"
+        },
+        {
+          "pada_original": "होता᳚र‌म्",
+          "pada_kn": "ಹೋತಾರಮ್",
+          "meaning_en": "the Hotar (priest)",
+          "meaning_kn": "ಹೋತೃವನ್ನು (ಪುರೋಹಿತನನ್ನು)"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / in",
+          "meaning_kn": "ಕೆಳಗೆ / ಒಳಗೆ"
+        },
+        {
+          "pada_original": "अ॒सा॒द॒य॒न्त॒",
+          "pada_kn": "ಅಸಾದಯಂತ",
+          "meaning_en": "they caused to sit / they seated",
+          "meaning_kn": "ಅವರು ಕುಳ್ಳಿರಿಸಿದರು"
+        }
+      ],
+      "full_meaning_en": "Three hundred, three thousand, thirty and nine gods attended Agni; they sprinkled him with clarified butter, spread the sacred grass for him, and then seated him as the invoking priest.",
+      "full_meaning_kn": "ಮುನ್ನೂರು, ಮೂರು ಸಾವಿರ, ಮೂವತ್ತು ಮತ್ತು ಒಂಬತ್ತು ದೇವತೆಗಳು ಅಗ್ನಿಯನ್ನು ಉಪಚರಿಸಿದರು; ಅವರು ಅವನನ್ನು ತುಪ್ಪದಿಂದ ಸಿಂಪಡಿಸಿದರು, ಪವಿತ್ರ ಹುಲ್ಲನ್ನು ಅವನಿಗೆ ಹರಡಿದರು, ತರುವಾಯ ಅವನನ್ನು ಆಹ್ವಾನಿಸುವ ಪುರೋಹಿತನಾಗಿ ಕುಳ್ಳಿರಿಸಿದರು.",
+      "rig_time_s": 77.884,
+      "Insight_en": "This verse from the Rig Veda signifies the cosmic importance of अग्नि (Agni), the fire god, in Vedic rituals. The number of gods attending him highlights the universal reverence towards the divine fire, essential for sacrificial offerings and communication between humans and deities. The act of sprinkling घी (ghrita/clarified butter) symbolizes purification and nourishment, while spreading the बर्हिस् (barhis/sacred grass) indicates the creation of a sacred space for the ritual. By seating Agni as the होतारं (hotaram/invoking priest), it emphasizes his role as the mediator and primary recipient of oblations in यज्ञ (yajna/sacrifice).",
+      "Insight_kn": "ಈ ಋಗ್ವೇದದ ಶ್ಲೋಕವು ವೈದಿಕ ಆಚರಣೆಗಳಲ್ಲಿ ಅಗ್ನಿಯ ಕಾಸ್ಮಿಕ್ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅವನನ್ನು ಉಪಚರಿಸುವ ದೇವತೆಗಳ ಸಂಖ್ಯೆಯು ದೈವಿಕ ಅಗ್ನಿಯ ಕಡೆಗೆ ಸಾರ್ವತ್ರಿಕ ಗೌರವವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ತ್ಯಾಗದ ಅರ್ಪಣೆಗಳು ಮತ್ತು ಮಾನವರು ಮತ್ತು ದೇವತೆಗಳ ನಡುವಿನ ಸಂವಹನಕ್ಕೆ ಇದು ಅತ್ಯಗತ್ಯ. ತುಪ್ಪವನ್ನು ಸಿಂಪಡಿಸುವ ಕ್ರಿಯೆಯು ಶುದ್ಧೀಕರಣ ಮತ್ತು ಪೋಷಣೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಆದರೆ ಹುಲ್ಲನ್ನು ಹರಡುವುದು ಆಚರಣೆಗೆ ಪವಿತ್ರ ಸ್ಥಳದ ಸೃಷ್ಟಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಗ್ನಿಯನ್ನು ಆಹ್ವಾನಿಸುವ ಪುರೋಹಿತನಾಗಿ ಕುಳ್ಳಿರಿಸುವ ಮೂಲಕ, ಯಜ್ಞದಲ್ಲಿ ಅವನ ಪಾತ್ರವನ್ನು ಮಧ್ಯವರ್ತಿಯಾಗಿ ಮತ್ತು ಅರ್ಪಣೆಗಳ ಪ್ರಾಥಮಿಕ ಸ್ವೀಕರಿಸುವವನಾಗಿ ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

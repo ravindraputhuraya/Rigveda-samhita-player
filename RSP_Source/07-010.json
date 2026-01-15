@@ -1,0 +1,713 @@
+{
+  "mandala": 7,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M7-S10_104-1_5",
+      "mandala": 7,
+      "sukta": 10,
+      "ric_index": 1,
+      "rig_lines": [
+        "उ॒षो न जा॒रः पृ॒थु पाजो᳚, अश्रे॒द् दवि॑द्युत॒द्‌ दीद्य॒च्छोशु॑चानः |",
+        "वृषा॒ हरिः॒ शुचि॒रा भा᳚ति भा॒सा धियो᳚ हिन्वा॒न उ॑श॒तीर॑जीगः ||"
+      ],
+      "pre_splits": [
+        "उ॒षः",
+        "न",
+        "जा॒रः",
+        "पृ॒थु",
+        "पाजः॑",
+        "अ॒श्रे॒त्",
+        "दवि॑द्युतत्",
+        "दीद्य॑त्",
+        "शोशु॑चानः",
+        "वृषा᳚",
+        "हरिः॑",
+        "शुचिः॑",
+        "आ",
+        "भा॒ति॒",
+        "भा॒सा",
+        "धियः॑",
+        "हि॒न्वा॒नः",
+        "उ॒श॒तीः",
+        "अ॒जी॒ग॒रिति॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒षः",
+          "pada_kn": "ಉಷಃ",
+          "meaning_en": "of the dawn",
+          "meaning_kn": "ಉಷಃಕಾಲದ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "जा॒रः",
+          "pada_kn": "ಜಾರಃ",
+          "meaning_en": "the lover",
+          "meaning_kn": "ಪ್ರಿಯತಮ"
+        },
+        {
+          "pada_original": "पृ॒थु",
+          "pada_kn": "ಪೃಥು",
+          "meaning_en": "broad / extensive",
+          "meaning_kn": "ವಿಸ್ತಾರವಾದ"
+        },
+        {
+          "pada_original": "पाजः॑",
+          "pada_kn": "ಪಾಜಃ",
+          "meaning_en": "brilliance / form",
+          "meaning_kn": "ತೇಜಸ್ಸನ್ನು"
+        },
+        {
+          "pada_original": "अ॒श्रे॒त्",
+          "pada_kn": "ಅಶ್ರೇತ್",
+          "meaning_en": "he has spread / attained",
+          "meaning_kn": "ಹರಡಿದ್ದಾನೆ / ಆಶ್ರಯಿಸಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "दवि॑द्युतत्",
+          "pada_kn": "ದವಿದ್ಯುತತ್",
+          "meaning_en": "flashing intensely",
+          "meaning_kn": "ಅತಿಶಯವಾಗಿ ಹೊಳೆಯುತ್ತಾ"
+        },
+        {
+          "pada_original": "दीद्य॑त्",
+          "pada_kn": "ದೀದ್ಯತ್",
+          "meaning_en": "shining brightly",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "शोशु॑चानः",
+          "pada_kn": "ಶೋಶುಚಾನಃ",
+          "meaning_en": "glowing intensely",
+          "meaning_kn": "ತೀವ್ರವಾಗಿ ಜ್ವಲಿಸುತ್ತಿರುವವನಾಗಿ"
+        },
+        {
+          "pada_original": "वृषा᳚",
+          "pada_kn": "ವೃಷಾ",
+          "meaning_en": "the powerful one / the showerer of gifts",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿ / ಕಾಮವರ್ಷಕ"
+        },
+        {
+          "pada_original": "हरिः॑",
+          "pada_kn": "ಹರಿಃ",
+          "meaning_en": "the golden-hued one",
+          "meaning_kn": "ಹೊಂಬಣ್ಣದವನು"
+        },
+        {
+          "pada_original": "शुचिः॑",
+          "pada_kn": "ಶುಚಿಃ",
+          "meaning_en": "the pure / radiant one",
+          "meaning_kn": "ಶುದ್ಧನಾದವನು / ಪ್ರಕಾಶಮಾನನಾದವನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "forth (with a verb)",
+          "meaning_kn": "(ಕ್ರಿಯಾಪದದೊಂದಿಗೆ ಸೇರಿ) ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "भा॒ति॒",
+          "pada_kn": "ಭಾತಿ",
+          "meaning_en": "shines",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "भा॒सा",
+          "pada_kn": "ಭಾಸಾ",
+          "meaning_en": "with his light",
+          "meaning_kn": "ತನ್ನ ಪ್ರಭೆಯಿಂದ"
+        },
+        {
+          "pada_original": "धियः॑",
+          "pada_kn": "ಧಿಯಃ",
+          "meaning_en": "the prayers / devotions",
+          "meaning_kn": "ಸ್ತುತಿಗಳನ್ನು / ಪ್ರಾರ್ಥನೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "हि॒न्वा॒नः",
+          "pada_kn": "ಹಿನ್ವಾನಃ",
+          "meaning_en": "impelling / stimulating",
+          "meaning_kn": "ಪ್ರೇರೇಪಿಸುತ್ತಿರುವವನಾಗಿ"
+        },
+        {
+          "pada_original": "उ॒श॒तीः",
+          "pada_kn": "ಉಶತೀಃ",
+          "meaning_en": "the desiring (prayers)",
+          "meaning_kn": "ಅಪೇಕ್ಷಿಸುತ್ತಿರುವ (ಸ್ತುತಿಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "अ॒जी॒ग॒रिति॑",
+          "pada_kn": "ಅಜೀಗರಿತಿ",
+          "meaning_en": "he has awakened (the 'iti' is a marker)",
+          "meaning_kn": "ಎಚ್ಚರಿಸಿದ್ದಾನೆ ('ಇತಿ' ಎಂಬುದು ಚಿಹ್ನೆ)"
+        }
+      ],
+      "full_meaning_en": "O Agni, like the lover of dawn, you have spread your vast brilliance. Flashing intensely, shining brightly, and glowing fervently, O powerful, golden, and pure one, you shine forth with your light. Inspiring our devout prayers, you have awakened them.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ಉಷೆಯ ಪ್ರೇಮಿಯಂತೆ, ನೀನು ನಿನ್ನ ವಿಸ್ತಾರವಾದ ತೇಜಸ್ಸನ್ನು ಹರಡಿದ್ದಿ. ತೀವ್ರವಾಗಿ ಮಿಂಚುತ್ತಾ, ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತಾ, ಮತ್ತು ತೀವ್ರವಾಗಿ ಹೊಳೆಯುತ್ತಾ, ಓ ಬಲಿಷ್ಠ, ಸುವರ್ಣಮಯ ಮತ್ತು ಶುದ್ಧನಾದವನೇ, ನೀನು ನಿನ್ನ ಬೆಳಕಿನಿಂದ ಹೊಳೆಯುತ್ತಿ. ನಮ್ಮ ಭಕ್ತಿಯ ಪ್ರಾರ್ಥನೆಗಳನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತಾ, ನೀನು ಅವುಗಳನ್ನು ಜಾಗೃತಗೊಳಿಸಿದ್ದಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "अग्नि represents the awakened consciousness. Just as the dawn awakens the world, अग्नि awakens inner potential and insight. The golden brilliance signifies purity and transformative power. The yearning prayers symbolize the soul's longing for higher truth, kindled by divine presence.",
+      "Insight_kn": "ಅಗ್ನಿ ಜಾಗೃತ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಹೇಗೆ ಉಷೆಯು ಜಗತ್ತನ್ನು ಜಾಗೃತಗೊಳಿಸುತ್ತದೆಯೋ, ಹಾಗೆಯೇ ಅಗ್ನಿ ಆಂತರಿಕ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಒಳನೋಟವನ್ನು ಜಾಗೃತಗೊಳಿಸುತ್ತದೆ. ಸುವರ್ಣ ಕಾಂತಿಯು ಪರಿಶುದ್ಧತೆ ಮತ್ತು ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಹಂಬಲಿಸುವ ಪ್ರಾರ್ಥನೆಗಳು ದೈವಿಕ ಉಪಸ್ಥಿತಿಯಿಂದ ಪ್ರೇರಿತವಾದ ಉನ್ನತ ಸತ್ಯಕ್ಕಾಗಿ ಆತ್ಮದ ಹಂಬಲವನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S10_104-2_5",
+      "mandala": 7,
+      "sukta": 10,
+      "ric_index": 2,
+      "rig_lines": [
+        "स्व१॑(अ॒)र्ण वस्तो᳚रु॒षसा᳚मरोचि य॒ज्ञं त᳚न्वा॒ना, उ॒शिजो॒ न मन्म॑ |",
+        "अ॒ग्निर्जन्मा᳚नि दे॒व आ वि वि॒द्वान् द्र॒वद्‌ दू॒तो दे᳚व॒यावा॒ वनि॑ष्ठः ||"
+      ],
+      "pre_splits": [
+        "स्वः॑",
+        "न",
+        "वस्तोः᳚",
+        "उ॒षसा᳚‌म्",
+        "अ॒रो॒चि॒",
+        "य॒ज्ञ‌म्",
+        "त॒न्वा॒नाः",
+        "उ॒शिजः॑",
+        "न",
+        "मन्म॑",
+        "अ॒ग्निः",
+        "जन्मा᳚नि",
+        "दे॒वः",
+        "आ",
+        "वि",
+        "वि॒द्वान्",
+        "द्र॒वत्",
+        "दू॒तः",
+        "दे॒व॒ऽयावा᳚",
+        "वनि॑ष्ठः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स्वः॑",
+          "pada_kn": "ಸ್ವಃ",
+          "meaning_en": "like light",
+          "meaning_kn": "ಬೆಳಕಿನಂತೆ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "as / like",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "वस्तोः᳚",
+          "pada_kn": "ವಸ್ತೋಃ",
+          "meaning_en": "of the day / morning",
+          "meaning_kn": "ದಿನದ / ಪ್ರಭಾತದ"
+        },
+        {
+          "pada_original": "उ॒षसा᳚‌म्",
+          "pada_kn": "ಉಷಸಾಮ್",
+          "meaning_en": "of the dawns",
+          "meaning_kn": "ಉಷಸ್ಸುಗಳ"
+        },
+        {
+          "pada_original": "अ॒रो॒चि॒",
+          "pada_kn": "ಅರೋಚಿ",
+          "meaning_en": "has shone",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸಿತು"
+        },
+        {
+          "pada_original": "य॒ज्ञ‌म्",
+          "pada_kn": "ಯಜ್ಞಮ್",
+          "meaning_en": "the sacrifice",
+          "meaning_kn": "ಯಜ್ಞವನ್ನು"
+        },
+        {
+          "pada_original": "त॒न्वा॒नाः",
+          "pada_kn": "ತನ್ವಾನಾಃ",
+          "meaning_en": "spreading / performing",
+          "meaning_kn": "ವಿಸ್ತರಿಸುತ್ತಿರುವವರು"
+        },
+        {
+          "pada_original": "उ॒शिजः॑",
+          "pada_kn": "ಉಶಿಜಃ",
+          "meaning_en": "the eager ones (priests)",
+          "meaning_kn": "ಅಪೇಕ್ಷೆಯುಳ್ಳವರು (ಪುರೋಹಿತರು)"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like",
+          "meaning_kn": "ಹಾಗೆ"
+        },
+        {
+          "pada_original": "मन्म॑",
+          "pada_kn": "ಮನ್ಮ",
+          "meaning_en": "prayer / thought",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆ / ಚಿಂತನೆ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni",
+          "meaning_kn": "ಅಗ್ನಿ"
+        },
+        {
+          "pada_original": "जन्मा᳚नि",
+          "pada_kn": "ಜನ್ಮಾನಿ",
+          "meaning_en": "all beings / births",
+          "meaning_kn": "ಸಕಲ ಜೀವಿಗಳನ್ನು / ಜನ್ಮಗಳನ್ನು"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "the divine one",
+          "meaning_kn": "ದೇವನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "towards (prefix)",
+          "meaning_kn": "(ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart (prefix)",
+          "meaning_kn": "(ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "वि॒द्वान्",
+          "pada_kn": "ವಿದ್ವಾನ್",
+          "meaning_en": "knowing / the wise one",
+          "meaning_kn": "ತಿಳಿದವನು / ಜ್ಞಾನಿಯು"
+        },
+        {
+          "pada_original": "द्र॒वत्",
+          "pada_kn": "ದ್ರವತ್",
+          "meaning_en": "let him run / move swiftly",
+          "meaning_kn": "ಅವನು ವೇಗವಾಗಿ ಚಲಿಸಲಿ"
+        },
+        {
+          "pada_original": "दू॒तः",
+          "pada_kn": "ದೂತಃ",
+          "meaning_en": "the messenger",
+          "meaning_kn": "ದೂತನು"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयावा᳚",
+          "pada_kn": "ದೇವಯಾವಾ",
+          "meaning_en": "going to the gods",
+          "meaning_kn": "ದೇವತೆಗಳೆಡೆಗೆ ಹೋಗುವವನು"
+        },
+        {
+          "pada_original": "वनि॑ष्ठः",
+          "pada_kn": "ವನಿಷ್ಠಃ",
+          "meaning_en": "most bountiful / best winner",
+          "meaning_kn": "ಅತ್ಯಂತ ಉದಾರಿಯಾದ / ಶ್ರೇಷ್ಠ ದಾನಿಯು"
+        }
+      ],
+      "full_meaning_en": "O Agni, like the radiant light of dawn, the sacrifice unfolds, extended by zealous priests, akin to a heartfelt prayer. May the divine Agni, knowing all births, swiftly traverse as a messenger to the gods, the most generous bestower of boons.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ಉಷೆಯ ಪ್ರಕಾಶದಂತೆ, ಯಜ್ಞವು ತೆರೆದುಕೊಳ್ಳುತ್ತದೆ, ಉತ್ಸಾಹಿ ಪುರೋಹಿತರಿಂದ ವಿಸ್ತರಿಸಲ್ಪಟ್ಟಿದೆ, ಅದು ಹೃದಯಪೂರ್ವಕ ಪ್ರಾರ್ಥನೆಯಂತೆ. ದೈವಿಕ ಅಗ್ನಿಯು, ಎಲ್ಲಾ ಜನ್ಮಗಳನ್ನು ತಿಳಿದವನು, ದೇವತೆಗಳಿಗೆ ಸಂದೇಶವಾಹಕನಾಗಿ ವೇಗವಾಗಿ ಚಲಿಸಲಿ, ಅವನು ವರಗಳ ಅತ್ಯಂತ ಉದಾರ ನೀಡುವವನು.",
+      "rig_time_s": 14.062,
+      "Insight_en": "The unfolding sacrifice represents the expansion of consciousness. The 'zealous priests' are the focused senses, directing awareness. Agni, the divine fire, symbolizes the awakened intellect, which comprehends all manifestations (births) and acts as a conduit (messenger) to higher states of being (the gods). Generosity (boons) arises from this enlightened awareness.",
+      "Insight_kn": "ತೆರೆದುಕೊಳ್ಳುವ ಯಜ್ಞವು ಪ್ರಜ್ಞೆಯ ವಿಸ್ತರಣೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. 'ಉತ್ಸಾಹಿ ಪುರೋಹಿತರು' ಎಂದರೆ ಕೇಂದ್ರೀಕೃತ ಇಂದ್ರಿಯಗಳು, ಅರಿವನ್ನು ನಿರ್ದೇಶಿಸುತ್ತವೆ. ಅಗ್ನಿ, ದೈವಿಕ ಬೆಂಕಿ, ಜಾಗೃತ ಬುದ್ಧಿಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಎಲ್ಲಾ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು (ಜನ್ಮಗಳನ್ನು) ಗ್ರಹಿಸುತ್ತದೆ ಮತ್ತು ಉನ್ನತ ಸ್ಥಿತಿಗಳಿಗೆ (ದೇವತೆಗಳು) ವಾಹಕವಾಗಿ (ಸಂದೇಶವಾಹಕ) ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಈ ಜ್ಞಾನೋದಯದ ಅರಿವಿನಿಂದ ಉದಾರತೆ (ವರಗಳು) ಉಂಟಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S10_104-3_5",
+      "mandala": 7,
+      "sukta": 10,
+      "ric_index": 3,
+      "rig_lines": [
+        "अच्छा॒ गिरो᳚ म॒तयो᳚ देव॒यन्ती᳚र॒ग्निं य᳚न्ति॒ द्रवि॑णं॒ भिक्ष॑माणाः |",
+        "सु॒सं॒दृशं᳚ सु॒प्रती᳚कं॒ स्वञ्चं᳚ हव्य॒वाह॑मर॒तिं मानु॑षाणाम् ||"
+      ],
+      "pre_splits": [
+        "अच्छ॑",
+        "गिरः॑",
+        "म॒तयः॑",
+        "दे॒व॒ऽयन्तीः᳚",
+        "अ॒ग्नि‌म्",
+        "य॒न्ति॒",
+        "द्रवि॑ण‌म्",
+        "भिक्ष॑माणाः",
+        "सु॒ऽसं॒दृश᳚‌म्",
+        "सु॒ऽप्रती᳚क‌म्",
+        "सु॒।आंच᳚‌म्",
+        "ह॒व्य॒ऽवाह᳚‌म्",
+        "अ॒र॒ति‌म्",
+        "मानु॑षाणा‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अच्छ॑",
+          "pada_kn": "ಅಚ್ಛ",
+          "meaning_en": "towards",
+          "meaning_kn": "ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "गिरः॑",
+          "pada_kn": "ಗಿರಃ",
+          "meaning_en": "praises, hymns",
+          "meaning_kn": "ಸ್ತುತಿಗಳು"
+        },
+        {
+          "pada_original": "म॒तयः॑",
+          "pada_kn": "ಮತಯಃ",
+          "meaning_en": "thoughts, prayers",
+          "meaning_kn": "ಚಿಂತನೆಗಳು, ಪ್ರಾರ್ಥನೆಗಳು"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयन्तीः᳚",
+          "pada_kn": "ದೇವಯಂತೀಃ",
+          "meaning_en": "seeking the gods, pious",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು ಅರಸುವ"
+        },
+        {
+          "pada_original": "अ॒ग्नि‌म्",
+          "pada_kn": "ಅಗ್ನಿಮ್",
+          "meaning_en": "to Agni",
+          "meaning_kn": "ಅಗ್ನಿಯನ್ನು"
+        },
+        {
+          "pada_original": "य॒न्ति॒",
+          "pada_kn": "ಯಂತಿ",
+          "meaning_en": "they go",
+          "meaning_kn": "ಹೋಗುತ್ತವೆ"
+        },
+        {
+          "pada_original": "द्रवि॑ण‌म्",
+          "pada_kn": "ದ್ರವಿಣಮ್",
+          "meaning_en": "wealth, riches",
+          "meaning_kn": "ಸಂಪತ್ತನ್ನು"
+        },
+        {
+          "pada_original": "भिक्ष॑माणाः",
+          "pada_kn": "ಭಿಕ್ಷಮಾಣಾಃ",
+          "meaning_en": "requesting, seeking",
+          "meaning_kn": "ಬೇಡುತ್ತಾ, ಯಾಚಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "सु॒ऽसं॒दृश᳚‌म्",
+          "pada_kn": "ಸುಸಂದೃಶಮ್",
+          "meaning_en": "(him who is) beautiful to behold",
+          "meaning_kn": "ನೋಡಲು ಸುಂದರನಾದವನನ್ನು"
+        },
+        {
+          "pada_original": "सु॒ऽप्रती᳚क‌म्",
+          "pada_kn": "ಸುಪ್ರತೀಕಮ್",
+          "meaning_en": "(him who has) a beautiful form",
+          "meaning_kn": "ಸುಂದರ ರೂಪವುಳ್ಳವನನ್ನು"
+        },
+        {
+          "pada_original": "सु॒।आंच᳚‌म्",
+          "pada_kn": "ಸ್ವಾಂಚಮ್",
+          "meaning_en": "(him who is) moving gracefully",
+          "meaning_kn": "ಸುಂದರವಾಗಿ ಚಲಿಸುವವನನ್ನು"
+        },
+        {
+          "pada_original": "ह॒व्य॒ऽवाह᳚‌म्",
+          "pada_kn": "ಹವ್ಯವಾಹಮ್",
+          "meaning_en": "the carrier of oblations",
+          "meaning_kn": "ಹವಿಸ್ಸನ್ನು ಒಯ್ಯುವವನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒र॒ति‌म्",
+          "pada_kn": "ಅರತಿಮ್",
+          "meaning_en": "the minister, the active agent",
+          "meaning_kn": "ಕಾರ್ಯನಿರ್ವಾಹಕನನ್ನು"
+        },
+        {
+          "pada_original": "मानु॑षाणा‌म्",
+          "pada_kn": "ಮಾನುಷಾಣಾಮ್",
+          "meaning_en": "of men, of mortals",
+          "meaning_kn": "ಮಾನವರ"
+        }
+      ],
+      "full_meaning_en": "God-seeking hymns and devout thoughts, desiring abundance, approach Agni; Him, beautiful to behold, fair of countenance, graceful in motion, the bearer of offerings, the active envoy of humanity.",
+      "full_meaning_kn": "ದೇವರೆಡೆಗೆ ಸಾಗುವ ಸ್ತುತಿಗಳು ಮತ್ತು ಭಕ್ತಿಯುಳ್ಳ ಆಲೋಚನೆಗಳು, ಸಮೃದ್ಧಿಯನ್ನು ಅಪೇಕ್ಷಿಸುತ್ತಾ, ಅಗ್ನಿಯನ್ನು ಸಮೀಪಿಸುತ್ತವೆ; ಆ ಅಗ್ನಿಯು ನೋಡಲು ಸುಂದರನಾದವನು, ನ್ಯಾಯಯುತ ನೋಟವುಳ್ಳವನು, ಚಲನೆಯಲ್ಲಿ ಆಕರ್ಷಕನು, ಅರ್ಪಣೆಗಳನ್ನು ಹೊತ್ತವನು, ಮಾನವಕುಲದ ಸಕ್ರಿಯ ರಾಯಭಾರಿ.",
+      "rig_time_s": 29.567,
+      "Insight_en": "The inner Agni, representing the awakened consciousness, is the destination for all sincere aspirations and devotional thoughts. Seeking abundance is not merely material; it is the yearning for the fullness of inner realization. Agni's beauty signifies the resplendent nature of divine consciousness, accessible through the grace of inner transformation.",
+      "Insight_kn": "ಅಂತರ್ಯದ ಅಗ್ನಿ, ಜಾಗೃತ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಎಲ್ಲಾ ಪ್ರಾಮಾಣಿಕ ಆಕಾಂಕ್ಷೆಗಳು ಮತ್ತು ಭಕ್ತಿಯುಳ್ಳ ಆಲೋಚನೆಗಳ ತಾಣವಾಗಿದೆ. ಸಮೃದ್ಧಿಯನ್ನು ಹುಡುಕುವುದು ಕೇವಲ ಭೌತಿಕವಲ್ಲ; ಇದು ಆಂತರಿಕ ಸಾಕ್ಷಾತ್ಕಾರದ ಸಂಪೂರ್ಣತೆಗಾಗಿ ಹಾತೊರೆಯುವಿಕೆಯಾಗಿದೆ. ಅಗ್ನಿಯ ಸೌಂದರ್ಯವು ದೈವಿಕ ಪ್ರಜ್ಞೆಯ ತೇಜಸ್ಸಿನ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಆಂತರಿಕ ರೂಪಾಂತರದ ಅನುಗ್ರಹದ ಮೂಲಕ ಲಭ್ಯವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S10_104-4_5",
+      "mandala": 7,
+      "sukta": 10,
+      "ric_index": 4,
+      "rig_lines": [
+        "इन्द्रं᳚ नो, अग्ने॒ वसु॑भिः स॒जोषा᳚ रु॒द्रं रु॒द्रेभि॒रा व॑हा बृ॒हन्त᳚म् |",
+        "आ॒दि॒त्येभि॒रदि॑तिं वि॒श्वज᳚न्यां॒ बृह॒स्पति॒मृक्व॑भिर्वि॒श्ववा᳚रम् ||"
+      ],
+      "pre_splits": [
+        "इन्द्र᳚‌म्",
+        "नः॒",
+        "अ॒ग्ने॒",
+        "वसु॑ऽभिः",
+        "स॒ऽजोषाः᳚",
+        "रु॒द्र‌म्",
+        "रु॒द्रेभिः॑",
+        "आ",
+        "व॒ह॒",
+        "बृ॒हन्त᳚‌म्",
+        "आ॒दि॒त्येभिः॑",
+        "अदि॑ति‌म्",
+        "वि॒श्वऽज᳚न्या‌म्",
+        "बृह॒स्पति᳚‌म्",
+        "ऋक्व॑ऽभिः",
+        "वि॒श्वऽवा᳚र‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इन्द्र᳚‌म्",
+          "pada_kn": "ಇಂದ್ರಮ್",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನನ್ನು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "for us",
+          "meaning_kn": "ನಮಗಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒ग्ने॒",
+          "pada_kn": "ಅಗ್ನೇ",
+          "meaning_en": "O Agni",
+          "meaning_kn": "ಓ ಅಗ್ನಿಯೇ"
+        },
+        {
+          "pada_original": "वसु॑ऽभिः",
+          "pada_kn": "ವಸುಭಿಃ",
+          "meaning_en": "with the Vasus",
+          "meaning_kn": "ವಸುಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "स॒ऽजोषाः᳚",
+          "pada_kn": "ಸಜೋಷಾಃ",
+          "meaning_en": "being in harmony / united",
+          "meaning_kn": "ಪ್ರೀತಿಯುಳ್ಳವನಾಗಿ / ಸಹಮತದಿಂದ"
+        },
+        {
+          "pada_original": "रु॒द्र‌म्",
+          "pada_kn": "ರುದ್ರಮ್",
+          "meaning_en": "Rudra",
+          "meaning_kn": "ರುದ್ರನನ್ನು"
+        },
+        {
+          "pada_original": "रु॒द्रेभिः॑",
+          "pada_kn": "ರುದ್ರೇಭಿಃ",
+          "meaning_en": "with the Rudras",
+          "meaning_kn": "ರುದ್ರರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / here",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ"
+        },
+        {
+          "pada_original": "व॒ह॒",
+          "pada_kn": "ವಹ",
+          "meaning_en": "bring",
+          "meaning_kn": "ಕರೆತೊ"
+        },
+        {
+          "pada_original": "बृ॒हन्त᳚‌म्",
+          "pada_kn": "ಬೃಹಂತಮ್",
+          "meaning_en": "the great / mighty",
+          "meaning_kn": "ಮಹಾಂತನಾದ / ಶ್ರೇಷ್ಠನಾದ"
+        },
+        {
+          "pada_original": "आ॒दि॒त्येभिः॑",
+          "pada_kn": "ಆದಿತ್ಯೇಭಿಃ",
+          "meaning_en": "with the Adityas",
+          "meaning_kn": "ಆದಿತ್ಯರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "अदि॑ति‌म्",
+          "pada_kn": "ಅದಿತಿಮ್",
+          "meaning_en": "Aditi",
+          "meaning_kn": "ಅದಿತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "वि॒श्वऽज᳚न्या‌म्",
+          "pada_kn": "ವಿಶ್ವಜನ್ಯಾಮ್",
+          "meaning_en": "for all people / mother of all",
+          "meaning_kn": "ಸರ್ವಜನಹಿತಳಾದ / ಎಲ್ಲರಿಗೂ ಸೇರಿದ"
+        },
+        {
+          "pada_original": "बृह॒स्पति᳚‌म्",
+          "pada_kn": "ಬೃಹಸ್ಪತಿಮ್",
+          "meaning_en": "Brihaspati",
+          "meaning_kn": "ಬೃಹಸ್ಪತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "ऋक्व॑ऽभिः",
+          "pada_kn": "ಋಕ್ವಭಿಃ",
+          "meaning_en": "with the singers (praisers)",
+          "meaning_kn": "ಸ್ತುತಿಕರ್ತರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "वि॒श्वऽवा᳚र‌म्",
+          "pada_kn": "ವಿಶ್ವವಾರಮ್",
+          "meaning_en": "possessing all treasures / desired by all",
+          "meaning_kn": "ಸರ್ವಶ್ರೇಷ್ಠ ಸಂಪತ್ತುಳ್ಳವನನ್ನು / ಎಲ್ಲರಿಂದಲೂ ಅಪೇಕ್ಷಿತನಾದವನನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Agni, in unison with the Vasus, bring Indra to us. With the Rudras, bring the mighty Rudra; with the Adityas, bring Aditi, the mother of all; and with the Ṛk verses, bring Brihaspati, the giver of all treasures.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ವಸುಗಳೊಂದಿಗೆ ಸಜೋಶನಾಗಿ ಇಂದ್ರನನ್ನು ನಮಗಾಗಿ ಕರೆತನ್ನಿ. ರುದ್ರರೊಂದಿಗೆ ಮಹಾನ್ ರುದ್ರನನ್ನು ಕರೆತನ್ನಿ; ಆದಿತ್ಯರೊಂದಿಗೆ ಎಲ್ಲರಿಗೂ ಸೇರಿದ ಅದಿತಿಯನ್ನು ಕರೆತನ್ನಿ; ಮತ್ತು ಋಕ್ಕುಗಳೊಂದಿಗೆ ಎಲ್ಲಾ ಸಂಪತ್ತುಗಳನ್ನು ನೀಡುವ ಬೃಹಸ್ಪತಿಯನ್ನು ಕರೆತನ್ನಿ.",
+      "rig_time_s": 45.742,
+      "Insight_en": "The mantra speaks to the interconnectedness of divine forces. अग्नि (Agni), as the mediator, invokes इंद्र (Indra), रुद्र (Rudra), अदिति (Aditi), and बृहस्पति (Brihaspati), signifying the integration of different aspects of consciousness. Each deity represents a unique power – इंद्र (Indra) for strength, रुद्र (Rudra) for transformation, अदिति (Aditi) for boundless potential, and बृहस्पति (Brihaspati) for wisdom. By invoking them collectively, the seeker aims for holistic spiritual growth.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ಶಕ್ತಿಗಳ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಹೇಳುತ್ತದೆ. ಅಗ್ನಿ ಮಧ್ಯವರ್ತಿಯಾಗಿ, ಇಂದ್ರ, ರುದ್ರ, ಅದಿತಿ ಮತ್ತು ಬೃಹಸ್ಪತಿಗಳನ್ನು ಆಹ್ವಾನಿಸುತ್ತಾನೆ, ಇದು ಪ್ರಜ್ಞೆಯ ವಿವಿಧ ಅಂಶಗಳ ಏಕೀಕರಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಪ್ರತಿಯೊಂದು ದೇವತೆಯು ವಿಶಿಷ್ಟ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ - ಇಂದ್ರನು ಶಕ್ತಿಗಾಗಿ, ರುದ್ರನು ರೂಪಾಂತರಕ್ಕಾಗಿ, ಅದಿತಿಯು ಅಪರಿಮಿತ ಸಾಮರ್ಥ್ಯಕ್ಕಾಗಿ ಮತ್ತು ಬೃಹಸ್ಪತಿಯು ಜ್ಞಾನಕ್ಕಾಗಿ. ಅವರನ್ನು ಒಟ್ಟಾಗಿ ಆಹ್ವಾನಿಸುವ ಮೂಲಕ, ಸಾಧಕನು ಸಮಗ್ರ ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ಗುರಿಯಾಗಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S10_104-5_5",
+      "mandala": 7,
+      "sukta": 10,
+      "ric_index": 5,
+      "rig_lines": [
+        "म॒न्द्रं होता᳚रमु॒शिजो॒ यवि॑ष्ठम॒ग्निं विश॑ ईळते, अध्व॒रेषु॑ |",
+        "स हि क्षपा᳚वाँ॒, अभ॑वद्‌ रयी॒णामत᳚न्द्रो दू॒तो य॒जथा᳚य दे॒वान् ||"
+      ],
+      "pre_splits": [
+        "म॒न्द्र‌म्",
+        "होता᳚र‌म्",
+        "उ॒शिजः॑",
+        "यवि॑ष्ठ‌म्",
+        "अ॒ग्नि‌म्",
+        "विशः॑",
+        "ई॒ळ॒ते॒",
+        "अ॒ध्व॒रेषु॑",
+        "सः",
+        "हि",
+        "क्षपा᳚ऽवान्",
+        "अभ॑वत्",
+        "र॒यी॒णा‌म्",
+        "अत᳚न्द्रः",
+        "दू॒तः",
+        "य॒जथा᳚य",
+        "दे॒वान्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "म॒न्द्र‌म्",
+          "pada_kn": "ಮಂದ್ರಮ್",
+          "meaning_en": "the delightful",
+          "meaning_kn": "ಆನಂದದಾಯಕನಾದ"
+        },
+        {
+          "pada_original": "होता᳚र‌म्",
+          "pada_kn": "ಹೋತಾರಮ್",
+          "meaning_en": "the invoker (Hotr)",
+          "meaning_kn": "ಹೋತೃವಾದ / ಆಹ್ವಾನಿಸುವವನಾದ"
+        },
+        {
+          "pada_original": "उ॒शिजः॑",
+          "pada_kn": "ಉಶಿಜಃ",
+          "meaning_en": "the eager ones / zealous worshippers",
+          "meaning_kn": "ಉತ್ಸುಕರಾದವರು"
+        },
+        {
+          "pada_original": "यवि॑ष्ठ‌म्",
+          "pada_kn": "ಯವಿಷ್ಠಮ್",
+          "meaning_en": "the youngest / ever-youthful",
+          "meaning_kn": "ಅತ್ಯಂತ ಯುವಕನಾದ"
+        },
+        {
+          "pada_original": "अ॒ग्नि‌म्",
+          "pada_kn": "ಅಗ್ನಿಮ್",
+          "meaning_en": "Agni",
+          "meaning_kn": "ಅಗ್ನಿಯನ್ನು"
+        },
+        {
+          "pada_original": "विशः॑",
+          "pada_kn": "ವಿಶಃ",
+          "meaning_en": "the people / clans",
+          "meaning_kn": "ಪ್ರಜೆಗಳು / ಜನರು"
+        },
+        {
+          "pada_original": "ई॒ळ॒ते॒",
+          "pada_kn": "ಈಳತೇ",
+          "meaning_en": "they praise / they extol",
+          "meaning_kn": "ಸ್ತುತಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒रेषु॑",
+          "pada_kn": "ಅಧ್ವರೇಷು",
+          "meaning_en": "in the sacrifices",
+          "meaning_kn": "ಯಜ್ಞಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He (that Agni)",
+          "meaning_kn": "ಅವನು (ಆ ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "indeed / for",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "क्षपा᳚ऽवान्",
+          "pada_kn": "ಕ್ಷಪಾವಾನ್",
+          "meaning_en": "lord of the nights / possessor of power",
+          "meaning_kn": "ರಾತ್ರಿಗಳ ಒಡೆಯನಾದ / ಶಕ್ತಿಯುಳ್ಳವನಾದ"
+        },
+        {
+          "pada_original": "अभ॑वत्",
+          "pada_kn": "ಅಭವತ್",
+          "meaning_en": "he became / he has been",
+          "meaning_kn": "ಆದನು / ಆಗಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "र॒यी॒णा‌म्",
+          "pada_kn": "ರಯೀಣಾಮ್",
+          "meaning_en": "of riches / of wealth",
+          "meaning_kn": "ಸಂಪತ್ತುಗಳ"
+        },
+        {
+          "pada_original": "अत᳚न्द्रः",
+          "pada_kn": "ಅತಂದ್ರಃ",
+          "meaning_en": "the unwearied / tireless",
+          "meaning_kn": "ಆಲಸ್ಯವಿಲ್ಲದ / ಜಾಗರೂಕನಾದ"
+        },
+        {
+          "pada_original": "दू॒तः",
+          "pada_kn": "ದೂತಃ",
+          "meaning_en": "the messenger",
+          "meaning_kn": "ದೂತನು"
+        },
+        {
+          "pada_original": "य॒जथा᳚य",
+          "pada_kn": "ಯಜಥಾಯ",
+          "meaning_en": "for the purpose of worship / for sacrifice",
+          "meaning_kn": "ಯಜಿಸುವುದಕ್ಕಾಗಿ / ಪೂಜೆಗಾಗಿ"
+        },
+        {
+          "pada_original": "दे॒वान्",
+          "pada_kn": "ದೇವಾನ್",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O delightful Agni, the invoker, ever youthful, the zealous people praise you in sacrifices. You have become the master of riches, the tireless messenger who brings the gods for the purpose of worship.",
+      "full_meaning_kn": "ಓ ಆಹ್ಲಾದಕರ ಅಗ್ನಿಯೇ, ಆಹ್ವಾನಿಸುವವನೇ, ಸದಾ ಯೌವನಯುಕ್ತನೇ, ಉತ್ಸಾಹಿ ಜನರು ಯಜ್ಞಗಳಲ್ಲಿ ನಿನ್ನನ್ನು ಸ್ತುತಿಸುತ್ತಾರೆ. ನೀನು ಸಂಪತ್ತಿನ ಒಡೆಯನಾಗಿದ್ದಿ, ದೇವತೆಗಳನ್ನು ಪೂಜೆಗಾಗಿ ಕರೆತರುವ ದಣಿವಿಲ್ಲದ ದೂತನು.",
+      "rig_time_s": 60.914,
+      "Insight_en": "Agni represents the awakened consciousness within. Invoking Agni is invoking the transformative power of awareness that burns away impurities and reveals the inner treasures of spiritual wealth. The tireless messenger symbolizes the persistent effort needed to connect with the divine.",
+      "Insight_kn": "ಅಗ್ನಿಯು ಒಳಗಿನ ಜಾಗೃತ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅಗ್ನಿಯನ್ನು ಆಹ್ವಾನಿಸುವುದು ಎಂದರೆ ಅರಿವಿನ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಆಹ್ವಾನಿಸುವುದು, ಅದು ಕಲ್ಮಶಗಳನ್ನು ಸುಟ್ಟುಹಾಕಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಂಪತ್ತಿನ ಆಂತರಿಕ ನಿಧಿಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ದಣಿವಿಲ್ಲದ ದೂತನು ದೈವಿಕ ಸಂಪರ್ಕಕ್ಕಾಗಿ ಅಗತ್ಯವಿರುವ ನಿರಂತರ ಪ್ರಯತ್ನವನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

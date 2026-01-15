@@ -1,0 +1,713 @@
+{
+  "mandala": 3,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M3-S48_62-1_5",
+      "mandala": 3,
+      "sukta": 48,
+      "ric_index": 1,
+      "rig_lines": [
+        "स॒द्यो ह॑ जा॒तो वृ॑ष॒भः क॒नीनः॒ प्रभ॑र्तुमाव॒दन्ध॑सः सु॒तस्य॑ |",
+        "सा॒धोः पि॑ब प्रतिका॒मं यथा᳚ ते॒ रसा᳚शिरः प्रथ॒मं सो॒म्यस्य॑ ||"
+      ],
+      "pre_splits": [
+        "स॒द्यः",
+        "ह॒",
+        "जा॒तः",
+        "वृ॒ष॒भः",
+        "क॒नीनः॑",
+        "प्रऽभ॑र्तु‌म्",
+        "आ॒व॒त्",
+        "अन्ध॑सः",
+        "सु॒तस्य॑",
+        "सा॒धोः",
+        "पि॒ब॒",
+        "प्र॒ति॒ऽका॒म‌म्",
+        "यथा᳚",
+        "ते॒",
+        "रस॑ऽआशिरः",
+        "प्र॒थ॒म‌म्",
+        "सो॒म्यस्य॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स॒द्यः",
+          "pada_kn": "ಸದ್ಯಃ",
+          "meaning_en": "immediately",
+          "meaning_kn": "ತಕ್ಷಣವೇ"
+        },
+        {
+          "pada_original": "ह॒",
+          "pada_kn": "ಹ",
+          "meaning_en": "indeed, verily",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "जा॒तः",
+          "pada_kn": "ಜಾತಃ",
+          "meaning_en": "born",
+          "meaning_kn": "ಹುಟ್ಟಿದ"
+        },
+        {
+          "pada_original": "वृ॒ष॒भः",
+          "pada_kn": "ವೃಷಭಃ",
+          "meaning_en": "the bull (mighty one)",
+          "meaning_kn": "ವೃಷಭ (ಶಕ್ತಿಶಾಲಿ)"
+        },
+        {
+          "pada_original": "क॒नीनः॑",
+          "pada_kn": "ಕನೀನಃ",
+          "meaning_en": "youthful, virgin-born (uniquely born)",
+          "meaning_kn": "ಯುವಕ / ಕನ್ಯೆಯಿಂದ ಹುಟ್ಟಿದ (ಅದ್ಭುತವಾಗಿ ಹುಟ್ಟಿದ)"
+        },
+        {
+          "pada_original": "प्रऽभ॑र्तु‌म्",
+          "pada_kn": "ಪ್ರಭರ್ತುಮ್",
+          "meaning_en": "to bring forth / to carry",
+          "meaning_kn": "ಹೊರತರಲು / ಸಾಗಿಸಲು"
+        },
+        {
+          "pada_original": "आ॒व॒त्",
+          "pada_kn": "ಆವತ್",
+          "meaning_en": "desired (he desired)",
+          "meaning_kn": "ಬಯಸಿದನು"
+        },
+        {
+          "pada_original": "अन्ध॑सः",
+          "pada_kn": "ಅಂಧಸಃ",
+          "meaning_en": "of the food / of Soma",
+          "meaning_kn": "ಆಹಾರದ / ಸೋಮದ"
+        },
+        {
+          "pada_original": "सु॒तस्य॑",
+          "pada_kn": "ಸುತಸ್ಯ",
+          "meaning_en": "of the pressed (Soma)",
+          "meaning_kn": "ಹಿಂಡಿದ (ಸೋಮದ)"
+        },
+        {
+          "pada_original": "सा॒धोः",
+          "pada_kn": "ಸಾಧೋಃ",
+          "meaning_en": "O good one! O righteous one!",
+          "meaning_kn": "ಓ ಸಾಧುವೇ! / ಓ ಸಜ್ಜನನೇ!"
+        },
+        {
+          "pada_original": "पि॒ब॒",
+          "pada_kn": "ಪಿಬ",
+          "meaning_en": "drink!",
+          "meaning_kn": "ಕುಡಿ!"
+        },
+        {
+          "pada_original": "प्र॒ति॒ऽका॒म‌म्",
+          "pada_kn": "ಪ್ರತಿಕಾಮಮ್",
+          "meaning_en": "according to desire / as much as desired",
+          "meaning_kn": "ಇಚ್ಛೆಯಂತೆ / ಬೇಕಾದಷ್ಟು"
+        },
+        {
+          "pada_original": "यथा᳚",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "as / so that",
+          "meaning_kn": "ಹೇಗೆ / ಹಾಗೆ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "for you / to you",
+          "meaning_kn": "ನಿನಗೆ"
+        },
+        {
+          "pada_original": "रस॑ऽआशिरः",
+          "pada_kn": "ರಸಆಶಿರಃ",
+          "meaning_en": "mixed with essence/juice",
+          "meaning_kn": "ರಸದಿಂದ/ಸಾರದಿಂದ ಮಿಶ್ರಿತವಾದ"
+        },
+        {
+          "pada_original": "प्र॒थ॒म‌म्",
+          "pada_kn": "ಪ್ರಥಮಮ್",
+          "meaning_en": "first / foremost",
+          "meaning_kn": "ಮೊದಲನೆಯ / ಪ್ರಥಮ"
+        },
+        {
+          "pada_original": "सो॒म्यस्य॑",
+          "pada_kn": "ಸೋಮ್ಯಸ್ಯ",
+          "meaning_en": "of the Soma (essence)",
+          "meaning_kn": "ಸೋಮದ (ಸಾರ)"
+        }
+      ],
+      "full_meaning_en": "Forthwith is born the mighty Bull, youthful, desiring to bring forth the pressed Soma, his food. O righteous one, drink of the first and essence-laden Soma according to your desire, as much as it pleases you.",
+      "full_meaning_kn": "ಕ್ಷಣಮಾತ್ರದಲ್ಲೇ ವೃಷಭನು ಜನಿಸಿದನು, ಯೌವನಭರಿತನು, ಹಿಂಡಿದ ಸೋಮವನ್ನು ತನ್ನ ಆಹಾರವನ್ನಾಗಿ ತರಲು ಬಯಸುತ್ತಾನೆ. ಓ ಧರ್ಮಿಷ್ಠನೇ, ಮೊದಲನೆಯ ಮತ್ತು ಸಾರಭರಿತ ಸೋಮವನ್ನು ನಿನ್ನ ಇಚ್ಛೆಯಂತೆ ಕುಡಿ, ಅದು ನಿನಗೆ ಎಷ್ಟು ಬೇಕೋ ಅಷ್ಟು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The mantra speaks of the immediate manifestation of divine power (वृषभः, the Bull), youthful and eager to nourish itself with the essence of experience (Soma). It urges the seeker (righteous one) to partake of the primordial essence, aligning with their deepest desires, suggesting a path of self-discovery through the relish of inner states.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ಶಕ್ತಿಯ ತಕ್ಷಣದ ಅಭಿವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ (ವೃಷಭ:, ವೃಷಭ), ಯೌವನಭರಿತ ಮತ್ತು ಅನುಭವದ ಸಾರದಿಂದ (ಸೋಮ) ತನ್ನನ್ನು ತಾನೇ ಪೋಷಿಸಲು ಉತ್ಸುಕನಾಗಿದ್ದಾನೆ. ಇದು ಸಾಧಕನನ್ನು (ಧರ್ಮಿಷ್ಠ) ಆದಿಸ್ವರೂಪದ ಸಾರವನ್ನು ಸೇವಿಸಲು ಪ್ರೇರೇಪಿಸುತ್ತದೆ, ಅವರ ಆಳವಾದ ಆಸೆಗಳೊಂದಿಗೆ ಹೊಂದಾಣಿಕೆ ಮಾಡಿಕೊಳ್ಳುತ್ತದೆ, ಆಂತರಿಕ ಸ್ಥಿತಿಗಳ ಆನಂದದ ಮೂಲಕ ಸ್ವಯಂ ಶೋಧನೆಯ ಮಾರ್ಗವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S48_62-2_5",
+      "mandala": 3,
+      "sukta": 48,
+      "ric_index": 2,
+      "rig_lines": [
+        "यज्जाय॑था॒स्तदह॑रस्य॒ कामें॒शोः पी॒यूष॑मपिबो गिरि॒ष्ठाम् |",
+        "तं ते᳚ मा॒ता परि॒ योषा॒ जनि॑त्री म॒हः पि॒तुर्दम॒ आसि᳚ञ्च॒दग्रे᳚ ||"
+      ],
+      "pre_splits": [
+        "यत्",
+        "जाय॑थाः",
+        "तत्",
+        "अहः॑",
+        "अ॒स्य॒",
+        "कामे᳚",
+        "अं॒शोः",
+        "पी॒यूष᳚‌म्",
+        "अ॒पि॒बः॒",
+        "गि॒रि॒ऽस्था‌म्",
+        "त‌म्",
+        "ते॒",
+        "मा॒ता",
+        "परि॑",
+        "योषा᳚",
+        "जनि॑त्री",
+        "म॒हः",
+        "पि॒तुः",
+        "दमे᳚",
+        "आ",
+        "अ॒सिं॒च॒त्",
+        "अग्रे᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / that which",
+          "meaning_kn": "ಯಾವಾಗ / ಯಾವುದು"
+        },
+        {
+          "pada_original": "जाय॑थाः",
+          "pada_kn": "ಜಾಯಥಾಃ",
+          "meaning_en": "you were born",
+          "meaning_kn": "ನೀನು ಹುಟ್ಟಿದೆಯೋ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "अहः॑",
+          "pada_kn": "ಅಹಃ",
+          "meaning_en": "day",
+          "meaning_kn": "ದಿನ"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "of this (Indra)",
+          "meaning_kn": "ಇವನ (ಇಂದ್ರನ)"
+        },
+        {
+          "pada_original": "कामे᳚",
+          "pada_kn": "ಕಾಮೇ",
+          "meaning_en": "in the desire / for the sake of",
+          "meaning_kn": "ಇಚ್ಛೆಯಲ್ಲಿ / ಉದ್ದೇಶಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "अं॒शोः",
+          "pada_kn": "ಅಂಶೋಃ",
+          "meaning_en": "of the Soma shoot",
+          "meaning_kn": "ಸೋಮಲತೆಯ ಚಿಗುರಿನ"
+        },
+        {
+          "pada_original": "पी॒यूष᳚‌म्",
+          "pada_kn": "ಪೀಯೂಷಮ್",
+          "meaning_en": "the nectar / vital sap",
+          "meaning_kn": "ಅಮೃತ / ರಸ"
+        },
+        {
+          "pada_original": "अ॒पि॒बः॒",
+          "pada_kn": "ಅಪಿಬಃ",
+          "meaning_en": "you drank",
+          "meaning_kn": "ನೀನು ಕುಡಿದೆ"
+        },
+        {
+          "pada_original": "गि॒रि॒ऽस्था‌म्",
+          "pada_kn": "ಗಿರಿಸ್ಥಾಮ್",
+          "meaning_en": "(that which is) situated on the mountain",
+          "meaning_kn": "ಪರ್ವತದಲ್ಲಿರುವ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "that (Soma)",
+          "meaning_kn": "ಆ (ಸೋಮವನ್ನು)"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "मा॒ता",
+          "pada_kn": "ಮಾತಾ",
+          "meaning_en": "mother",
+          "meaning_kn": "ತಾಯಿ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / fully",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "योषा᳚",
+          "pada_kn": "ಯೋಷಾ",
+          "meaning_en": "the woman",
+          "meaning_kn": "ಸ್ತ್ರೀ"
+        },
+        {
+          "pada_original": "जनि॑त्री",
+          "pada_kn": "ಜನಿತ್ರೀ",
+          "meaning_en": "the creatrix / mother",
+          "meaning_kn": "ಹೆತ್ತವಳು / ಜನನಿ"
+        },
+        {
+          "pada_original": "म॒हः",
+          "pada_kn": "ಮಹಃ",
+          "meaning_en": "of the great",
+          "meaning_kn": "ಮಹಾನ್"
+        },
+        {
+          "pada_original": "पि॒तुः",
+          "pada_kn": "ಪಿತುಃ",
+          "meaning_en": "father",
+          "meaning_kn": "ತಂದೆಯ"
+        },
+        {
+          "pada_original": "दमे᳚",
+          "pada_kn": "ದಮೇ",
+          "meaning_en": "in the house / dwelling",
+          "meaning_kn": "ಮನೆಯಲ್ಲಿ / ನಿವಾಸದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix for 'sincat')",
+          "meaning_kn": "(ಸುರಿಯುವ ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अ॒सिं॒च॒त्",
+          "pada_kn": "ಅಸಿಂಚತ್",
+          "meaning_en": "poured / sprinkled",
+          "meaning_kn": "ಸುರಿದಳು / ಚಿಮುಕಿಸಿದಳು"
+        },
+        {
+          "pada_original": "अग्रे᳚",
+          "pada_kn": "ಅಗ್ರೇ",
+          "meaning_en": "in the beginning / first",
+          "meaning_kn": "ಮೊದಲು / ಆರಂಭದಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Agni, at your very birth, to fulfill your desires, you drank the delightful Soma juice growing on the mountain. Your mother, the youthful creatrix, first poured that Soma into the abode of your mighty father.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ನಿನ್ನ ಹುಟ್ಟಿನಲ್ಲೆ, ನಿನ್ನ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ಪೂರೈಸಲು, ಬೆಟ್ಟದಲ್ಲಿ ಬೆಳೆಯುವ ಆನಂದಕರ ಸೋಮರಸವನ್ನು ಕುಡಿದೆ. ನಿನ್ನ ತಾಯಿ, ಯುವ ಸೃಷ್ಟಿಕರ್ತಳು, ಮೊದಲು ಆ ಸೋಮವನ್ನು ನಿನ್ನ ಬಲಿಷ್ಠ ತಂದೆಯ ನಿವಾಸಕ್ಕೆ ಸುರಿದಳು.",
+      "rig_time_s": 14.837,
+      "Insight_en": "The birth of अग्नि represents the awakening of inner fire and consciousness. Drinking the Soma symbolizes the absorption of divine nectar, essential for spiritual growth. The mother pouring Soma into the father’s abode signifies the union of Shakti and Shiva, vital for creation and spiritual realization.",
+      "Insight_kn": "ಅಗ್ನಿಯ ಜನನವು ಆಂತರಿಕ ಅಗ್ನಿ ಮತ್ತು ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಗೆ ಸಂಕೇತವಾಗಿದೆ. ಸೋಮವನ್ನು ಕುಡಿಯುವುದು ದೈವಿಕ ಅಮೃತವನ್ನು ಹೀರಿಕೊಳ್ಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಅವಶ್ಯಕವಾಗಿದೆ. ತಾಯಿ ಸೋಮವನ್ನು ತಂದೆಯ ನಿವಾಸಕ್ಕೆ ಸುರಿಯುವುದು ಶಕ್ತಿ ಮತ್ತು ಶಿವನ ಮಿಲನವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಸೃಷ್ಟಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ನಿರ್ಣಾಯಕವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S48_62-3_5",
+      "mandala": 3,
+      "sukta": 48,
+      "ric_index": 3,
+      "rig_lines": [
+        "उ॒प॒स्थाय॑ मा॒तर॒मन्न॑मैट्ट ति॒ग्मम॑पश्यद॒भि सोम॒मूधः॑ |",
+        "प्र॒या॒वय᳚न्नचर॒द्‌ गृत्सो᳚, अ॒न्यान् म॒हानि॑ चक्रे पुरु॒धप्र॑तीकः ||"
+      ],
+      "pre_splits": [
+        "उ॒प॒ऽस्थाय॑",
+        "मा॒तर᳚‌म्",
+        "अन्न᳚‌म्",
+        "ऐ॒ट्ट॒",
+        "ति॒ग्म‌म्",
+        "अ॒प॒श्य॒त्",
+        "अ॒भि",
+        "सोम᳚‌म्",
+        "ऊधः॑",
+        "प्र॒ऽय॒वय॑न्",
+        "अ॒च॒र॒त्",
+        "गृत्सः॑",
+        "अ॒न्यान्",
+        "म॒हानि॑",
+        "च॒क्रे॒",
+        "पु॒रु॒धऽप्र॑तीकः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒प॒ऽस्थाय॑",
+          "pada_kn": "ಉಪಸ್ಥಾಯ",
+          "meaning_en": "having approached / having stood near",
+          "meaning_kn": "ಸಮೀಪಿಸಿ / ಹತ್ತಿರ ನಿಂತು"
+        },
+        {
+          "pada_original": "मा॒तर᳚‌म्",
+          "pada_kn": "ಮಾತರಮ್",
+          "meaning_en": "the mother (cow/cloud)",
+          "meaning_kn": "ತಾಯಿಯನ್ನು (ಹಸುವನ್ನು/ಮೇಘವನ್ನು)"
+        },
+        {
+          "pada_original": "अन्न᳚‌म्",
+          "pada_kn": "ಅನ್ನಮ್",
+          "meaning_en": "food / sustenance",
+          "meaning_kn": "ಅನ್ನವನ್ನು / ಆಹಾರವನ್ನು"
+        },
+        {
+          "pada_original": "ऐ॒ट्ट॒",
+          "pada_kn": "ಐಟ್ಟ",
+          "meaning_en": "he consumed / he ate",
+          "meaning_kn": "ಅವನು ಸೇವಿಸಿದನು / ತಿಂದನು"
+        },
+        {
+          "pada_original": "ति॒ग्म‌म्",
+          "pada_kn": "ತಿಗ್ಮಮ್",
+          "meaning_en": "sharp / keen / fierce",
+          "meaning_kn": "ತೀಕ್ಷ್ಣವಾದ / ಪ್ರಖರವಾದ"
+        },
+        {
+          "pada_original": "अ॒प॒श्य॒त्",
+          "pada_kn": "ಅಪಶ್ಯತ್",
+          "meaning_en": "he saw / he beheld",
+          "meaning_kn": "ಅವನು ನೋಡಿದನು"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards / upon",
+          "meaning_kn": "ಕಡೆಗೆ / ಮೇಲೆ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma (the juice/deity)",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "ऊधः॑",
+          "pada_kn": "ಊಧಃ",
+          "meaning_en": "udder (of a cow) / cloud",
+          "meaning_kn": "ಕೆಚ್ಚಲನ್ನು / ಮೇಘವನ್ನು"
+        },
+        {
+          "pada_original": "प्र॒ऽय॒वय॑न्",
+          "pada_kn": "ಪ್ರಯವಯನ್",
+          "meaning_en": "driving away / causing to flee",
+          "meaning_kn": "ಓಡಿಸುತ್ತಾ / ಪಲಾಯನ ಮಾಡುವಂತೆ ಮಾಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "अ॒च॒र॒त्",
+          "pada_kn": "ಅಚರತ್",
+          "meaning_en": "he moved / he wandered",
+          "meaning_kn": "ಅವನು ಸಂಚರಿಸಿದನು / ಚಲಿಸಿದನು"
+        },
+        {
+          "pada_original": "गृत्सः॑",
+          "pada_kn": "ಗೃತ್ಸಃ",
+          "meaning_en": "the eager one / the clever one (Indra)",
+          "meaning_kn": "ಆಸೆಯುಳ್ಳವನು / ಚತುರನು (ಇಂದ್ರನು)"
+        },
+        {
+          "pada_original": "अ॒न्यान्",
+          "pada_kn": "ಅನ್ಯಾನ್",
+          "meaning_en": "others / other enemies",
+          "meaning_kn": "ಇತರರನ್ನು / ಇತರ ಶತ್ರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "म॒हानि॑",
+          "pada_kn": "ಮಹಾನಿ",
+          "meaning_en": "great deeds / mighty acts",
+          "meaning_kn": "ಮಹತ್ಕಾರ್ಯಗಳನ್ನು / ದೊಡ್ಡ ಕಾರ್ಯಗಳನ್ನು"
+        },
+        {
+          "pada_original": "च॒क्रे॒",
+          "pada_kn": "ಚಕ್ರೇ",
+          "meaning_en": "he did / he performed",
+          "meaning_kn": "ಅವನು ಮಾಡಿದನು / ನಿರ್ವಹಿಸಿದನು"
+        },
+        {
+          "pada_original": "पु॒रु॒धऽप्र॑तीकः",
+          "pada_kn": "ಪುರುಧಪ್ರತೀಕಃ",
+          "meaning_en": "having many forms / having diverse aspects",
+          "meaning_kn": "ಅನೇಕ ರೂಪಗಳುಳ್ಳವನು / ಬಹುಮುಖಿ"
+        }
+      ],
+      "full_meaning_en": "Having approached the mother, he desired the food. He keenly observed the sharp Soma from the source. Driving away the others, the eager one moved about. He, the great one with manifold forms, performed mighty deeds.",
+      "full_meaning_kn": "ತಾಯಿಯನ್ನು ಸಮೀಪಿಸಿ, ಅವನು ಆಹಾರವನ್ನು ಬಯಸಿದನು. ತೀಕ್ಷ್ಣವಾದ ಸೋಮವನ್ನು ಅವನು ಆ ಮೂಲದಿಂದ ಗಮನಿಸಿದನು. ಇತರರನ್ನು ಓಡಿಸಿ, ಆತುರವುಳ್ಳವನು ಅತ್ತಿತ್ತ ತಿರುಗಾಡಿದನು. ಅನೇಕ ರೂಪಗಳುಳ್ಳ ಮಹಾನ್ ವ್ಯಕ್ತಿಯು ದೊಡ್ಡ ಕಾರ್ಯಗಳನ್ನು ಮಾಡಿದನು.",
+      "rig_time_s": 30.93,
+      "Insight_en": "The 'mother' symbolizes the source of all nourishment and wisdom. The 'food' (Soma) represents the nectar of divine experience. The 'eager one' is the awakened consciousness, constantly seeking deeper truths and driving away ignorance. The manifold forms signify the limitless potential within each soul to manifest greatness.",
+      "Insight_kn": "‘ತಾಯಿ’ ಎಲ್ಲಾ ಪೋಷಣೆ ಮತ್ತು ಜ್ಞಾನದ ಮೂಲವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ‘ಆಹಾರ’ (ಸೋಮ) ದೈವಿಕ ಅನುಭವದ ಅಮೃತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ‘ಆತುರವುಳ್ಳವನು’ ಎಚ್ಚರಗೊಂಡ ಪ್ರಜ್ಞೆ, ನಿರಂತರವಾಗಿ ಆಳವಾದ ಸತ್ಯಗಳನ್ನು ಹುಡುಕುತ್ತದೆ ಮತ್ತು ಅಜ್ಞಾನವನ್ನು ಓಡಿಸುತ್ತದೆ. ಅನೇಕ ರೂಪಗಳು ಪ್ರತಿ ಆತ್ಮದಲ್ಲಿ ಮಹತ್ವವನ್ನು ಪ್ರಕಟಿಸಲು ಮಿತಿಯಿಲ್ಲದ ಸಾಮರ್ಥ್ಯವನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S48_62-4_5",
+      "mandala": 3,
+      "sukta": 48,
+      "ric_index": 4,
+      "rig_lines": [
+        "उ॒ग्रस्तु॑रा॒षाळ॒भिभू᳚त्योजा यथाव॒शं त॒न्वं᳚ चक्र ए॒षः |",
+        "त्वष्टा᳚र॒मिन्द्रो᳚ ज॒नुषा᳚भि॒भूया॒मुष्या॒ सोम॑मपिबच्च॒मूषु॑ ||"
+      ],
+      "pre_splits": [
+        "उ॒ग्रः",
+        "तु॒रा॒षाट्",
+        "अ॒भिभू᳚तिऽओजाः",
+        "य॒था॒ऽव॒श‌म्",
+        "त॒न्व᳚‌म्",
+        "च॒क्रे॒",
+        "ए॒षः",
+        "त्वष्टा᳚र‌म्",
+        "इन्द्रः॑",
+        "ज॒नुषा᳚",
+        "अ॒भि॒ऽभूय॑",
+        "आ॒ऽमुष्य॑",
+        "सोम᳚‌म्",
+        "अ॒पि॒ब॒त्",
+        "च॒मूषु॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒ग्रः",
+          "pada_kn": "ಉಗ್ರಃ",
+          "meaning_en": "fierce / mighty",
+          "meaning_kn": "ಉಗ್ರನಾದ / ಪ್ರಚಂಡನಾದ"
+        },
+        {
+          "pada_original": "तु॒रा॒षाट्",
+          "pada_kn": "ತುರಾಷಾಟ್",
+          "meaning_en": "swiftly conquering / overpowering",
+          "meaning_kn": "ಶೀಘ್ರವಾಗಿ ಜಯಿಸುವ / ಸೋಲಿಸುವ"
+        },
+        {
+          "pada_original": "अ॒भिभू᳚तिऽओजाः",
+          "pada_kn": "ಅಭಿಭೂತಿಓಜಾಃ",
+          "meaning_en": "whose strength is overwhelming / victorious",
+          "meaning_kn": "ಅತಿಶಯವಾದ ಶಕ್ತಿಯುಳ್ಳವನು / ವಿಜಯಶಾಲಿ"
+        },
+        {
+          "pada_original": "य॒था॒ऽव॒श‌म्",
+          "pada_kn": "ಯಥಾವಶಮ್",
+          "meaning_en": "according to his will / desire",
+          "meaning_kn": "ತನ್ನ ಇಚ್ಛೆಯಂತೆ / ಅಧೀನವಾಗಿ"
+        },
+        {
+          "pada_original": "त॒न्व᳚‌म्",
+          "pada_kn": "ತನ್ವಮ್",
+          "meaning_en": "body (himself)",
+          "meaning_kn": "ಶರೀರವನ್ನು (ತನ್ನನ್ನು)"
+        },
+        {
+          "pada_original": "च॒क्रे॒",
+          "pada_kn": "ಚಕ್ರೇ",
+          "meaning_en": "he made / fashioned",
+          "meaning_kn": "ಮಾಡಿಕೊಂಡನು / ರೂಪಿಸಿಕೊಂಡನು"
+        },
+        {
+          "pada_original": "ए॒षः",
+          "pada_kn": "ಏಷಃ",
+          "meaning_en": "this (Indra)",
+          "meaning_kn": "ಈ (ಇಂದ್ರನು)"
+        },
+        {
+          "pada_original": "त्वष्टा᳚र‌म्",
+          "pada_kn": "ತ್ವಷ್ಟಾರಮ್",
+          "meaning_en": "Tvashtar",
+          "meaning_kn": "ತ್ವಷ್ಟಾರನನ್ನು"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "ज॒नुषा᳚",
+          "pada_kn": "ಜನುಷಾ",
+          "meaning_en": "by birth / by nature",
+          "meaning_kn": "ಹುಟ್ಟಿನಿಂದಲೇ / ಸ್ವಭಾವದಿಂದಲೇ"
+        },
+        {
+          "pada_original": "अ॒भि॒ऽभूय॑",
+          "pada_kn": "ಅಭಿಭೂಯ",
+          "meaning_en": "having overcome / conquered",
+          "meaning_kn": "ಸೋಲಿಸಿ / ಅಭಿಭೂತಗೊಳಿಸಿ"
+        },
+        {
+          "pada_original": "आ॒ऽमुष्य॑",
+          "pada_kn": "ಆಮುಷ್ಯ",
+          "meaning_en": "of him (Tvashtar)",
+          "meaning_kn": "ಅವನ (ತ್ವಷ್ಟಾರನ)"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒पि॒ब॒त्",
+          "pada_kn": "ಅಪಿಬತ್",
+          "meaning_en": "he drank",
+          "meaning_kn": "ಕುಡಿದನು"
+        },
+        {
+          "pada_original": "च॒मूषु॑",
+          "pada_kn": "ಚಮೂಷು",
+          "meaning_en": "in the vessels / bowls",
+          "meaning_kn": "ಪಾತ್ರೆಗಳಲ್ಲಿ / ಸೋಮಪಾತ್ರೆಗಳಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Indra, fierce and swiftly victorious, with irresistible strength, you have manifested your form according to your will. Born to conquer, you overcame Tvashtar and drank the Soma from the sacred vessels.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಉಗ್ರ ಮತ್ತು ಶೀಘ್ರ ವಿಜಯಶಾಲಿಯಾದವನೇ, ಅಪ್ರತಿಮ ಬಲದಿಂದ ಕೂಡಿದವನೇ, ನೀನು ನಿನ್ನ ಇಚ್ಛೆಯಂತೆ ನಿನ್ನ ರೂಪವನ್ನು ಪ್ರಕಟಿಸಿದ್ದಿ. ಜಯಿಸಲು ಹುಟ್ಟಿದವನೇ, ನೀನು ತ್ವಷ್ಟಾರನನ್ನು ಜಯಿಸಿ ಪವಿತ್ರ ಪಾತ್ರೆಗಳಿಂದ ಸೋಮವನ್ನು ಕುಡಿದಿದ್ದಿ.",
+      "rig_time_s": 45.38,
+      "Insight_en": "The mantra speaks to the self-mastery inherent within. Like Indra, the individual soul possesses the potential to manifest its desired form through will and overcome limitations (Tvashtar). The Soma represents the nectar of inner experience, attained through transcending ego and material attachments.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಂತರ್ಗತ ಆತ್ಮ-ಪ್ರಭುತ್ವದ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ. ಇಂದ್ರನಂತೆ, ವೈಯಕ್ತಿಕ ಆತ್ಮವು ತನ್ನ ಇಚ್ಛೆಯ ಮೂಲಕ ತನ್ನ ಅಪೇಕ್ಷಿತ ರೂಪವನ್ನು ಪ್ರಕಟಿಸುವ ಮತ್ತು ಮಿತಿಗಳನ್ನು (ತ್ವಷ್ಟಾರ) ಜಯಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊಂದಿದೆ. ಸೋಮವು ಆಂತರಿಕ ಅನುಭವದ ಅಮೃತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಅಹಂಕಾರ ಮತ್ತು ಭೌತಿಕ ಲಗತ್ತುಗಳನ್ನು ಮೀರಿ ಸಾಧಿಸಲ್ಪಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S48_62-5_5",
+      "mandala": 3,
+      "sukta": 48,
+      "ric_index": 5,
+      "rig_lines": [
+        "शु॒नं हु॑वेम म॒घवा᳚न॒मिन्द्र॑म॒स्मिन्‌ भरे॒ नृत॑मं॒ वाज॑सातौ |",
+        "शृ॒ण्वन्त॑मु॒ग्रमू॒तये᳚ स॒मत्सु॒ घ्नन्तं᳚ वृ॒त्राणि॑ सं॒जितं॒ धना᳚नाम् ||"
+      ],
+      "pre_splits": [
+        "शु॒न‌म्",
+        "हु॒वे॒म॒",
+        "म॒घऽवा᳚न‌म्",
+        "इन्द्र᳚‌म्",
+        "अ॒स्मिन्",
+        "भरे᳚",
+        "नृऽत॑म‌म्",
+        "वाज॑ऽसातौ",
+        "शृ॒ण्वन्त᳚‌म्",
+        "उ॒ग्र‌म्",
+        "ऊ॒तये᳚",
+        "स॒मत्ऽसु॑",
+        "घ्नन्त᳚‌म्",
+        "वृ॒त्राणि॑",
+        "स॒‌म्ऽजित᳚‌म्",
+        "धना᳚ना‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "शु॒न‌म्",
+          "pada_kn": "ಶುನಮ್",
+          "meaning_en": "auspiciously/happily",
+          "meaning_kn": "ಶುಭವಾಗಿ/ಸಂತೋಷದಿಂದ"
+        },
+        {
+          "pada_original": "हु॒वे॒म॒",
+          "pada_kn": "ಹುವೇಮ",
+          "meaning_en": "may we invoke",
+          "meaning_kn": "ನಾವು ಆಹ್ವಾನಿಸೋಣ"
+        },
+        {
+          "pada_original": "म॒घऽवा᳚न‌म्",
+          "pada_kn": "ಮಘವಾನಮ್",
+          "meaning_en": "the bountiful/generous one",
+          "meaning_kn": "ಉದಾರನಾದವನನ್ನು/ಸಂಪದ್ಭರಿತನಾದವನನ್ನು"
+        },
+        {
+          "pada_original": "इन्द्र᳚‌म्",
+          "pada_kn": "ಇಂದ್ರಮ್",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒स्मिन्",
+          "pada_kn": "ಅಸ್ಮಿನ್",
+          "meaning_en": "in this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "भरे᳚",
+          "pada_kn": "ಭರೇ",
+          "meaning_en": "battle/contest",
+          "meaning_kn": "ಯುದ್ಧದಲ್ಲಿ/ಸ್ಪರ್ಧೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "नृऽत॑म‌म्",
+          "pada_kn": "ನೃತಮಮ್",
+          "meaning_en": "most heroic/most manly",
+          "meaning_kn": "ಅತ್ಯಂತ ಶೂರನಾದ/ಪರಾಕ್ರಮಿಯಾದ"
+        },
+        {
+          "pada_original": "वाज॑ऽसातौ",
+          "pada_kn": "ವಾಜಸಾತೌ",
+          "meaning_en": "in the acquisition of strength/booty",
+          "meaning_kn": "ಶಕ್ತಿ/ಸಂಪತ್ತಿನ ಗಳಿಕೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "शृ॒ण्वन्त᳚‌म्",
+          "pada_kn": "ಶೃಣ್ವನ್ತಮ್",
+          "meaning_en": "hearing (our prayers)",
+          "meaning_kn": "ಕೇಳುವವನನ್ನು (ನಮ್ಮ ಪ್ರಾರ್ಥನೆಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "उ॒ग्र‌म्",
+          "pada_kn": "ಉಗ್ರಮ್",
+          "meaning_en": "mighty/fierce",
+          "meaning_kn": "ಉಗ್ರನಾದ/ಶಕ್ತಿಶಾಲಿಯಾದ"
+        },
+        {
+          "pada_original": "ऊ॒तये᳚",
+          "pada_kn": "ಊತಯೇ",
+          "meaning_en": "for protection/for help",
+          "meaning_kn": "ರಕ್ಷಣೆಗಾಗಿ/ಸಹಾಯಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "स॒मत्ऽसु॑",
+          "pada_kn": "ಸಮತ್ಸು",
+          "meaning_en": "in battles/in conflicts",
+          "meaning_kn": "ಯುದ್ಧಗಳಲ್ಲಿ/ಸಂಘರ್ಷಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "घ्नन्त᳚‌म्",
+          "pada_kn": "ಘ್ನನ್ತಮ್",
+          "meaning_en": "smiting/slaying",
+          "meaning_kn": "ಸಂಹರಿಸುವವನನ್ನು/ಹೊಡೆಯುವವನನ್ನು"
+        },
+        {
+          "pada_original": "वृ॒त्राणि॑",
+          "pada_kn": "ವೃತ್ರಾಣಿ",
+          "meaning_en": "obstacles/enemies (Vritras)",
+          "meaning_kn": "ಅಡೆತಡೆಗಳನ್ನು/ಶತ್ರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "स॒‌म्ऽजित᳚‌म्",
+          "pada_kn": "ಸಂಜಿತಮ್",
+          "meaning_en": "completely victorious/conquering",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ ಜಯಿಸುವವನನ್ನು"
+        },
+        {
+          "pada_original": "धना᳚ना‌म्",
+          "pada_kn": "ಧನಾನಾಮ್",
+          "meaning_en": "of riches/wealth",
+          "meaning_kn": "ಧನಗಳ/ಸಂಪತ್ತಿನ"
+        }
+      ],
+      "full_meaning_en": "May we call upon Indra, the generous one, most valiant in this conflict, for strength and victory. May we call upon the mighty Indra, who listens to our prayers, for protection in battles, the slayer of obstacles, the complete conqueror of riches.",
+      "full_meaning_kn": "ಈ ಯುದ್ಧದಲ್ಲಿ ಶಕ್ತಿ ಮತ್ತು ವಿಜಯಕ್ಕಾಗಿ, ಉದಾರಿಯಾದ ಇಂದ್ರನನ್ನು ಕರೆಯೋಣ. ನಮ್ಮ ಪ್ರಾರ್ಥನೆಗಳನ್ನು ಆಲಿಸುವ, ಅಡೆತಡೆಗಳನ್ನು ನಾಶಮಾಡುವ ಮತ್ತು ಸಂಪತ್ತನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಗೆಲ್ಲುವ ಬಲಿಷ್ಠ ಇಂದ್ರನನ್ನು ಯುದ್ಧಗಳಲ್ಲಿ ರಕ್ಷಣೆಗಾಗಿ ಕರೆಯೋಣ.",
+      "rig_time_s": 59.625,
+      "Insight_en": "Indra represents the dynamic, transformative power within. Invoking Indra signifies activating one's inner strength to overcome obstacles (वृत्राणि) and attain spiritual riches (धना᳚नाम्). The battlefield (भरे) symbolizes the inner conflicts one must resolve to achieve self-mastery.",
+      "Insight_kn": "ಇಂದ್ರನು ಒಳಗಿನ ಕ್ರಿಯಾತ್ಮಕ, ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಇಂದ್ರನನ್ನು ಆವಾಹಿಸುವುದು ಅಡೆತಡೆಗಳನ್ನು (ವೃತ್ರಾಣಿ) ಜಯಿಸಲು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಂಪತ್ತನ್ನು (ಧನಾನಾಮ್) ಪಡೆಯಲು ಒಬ್ಬರ ಆಂತರಿಕ ಶಕ್ತಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಯುದ್ಧಭೂಮಿ (ಭರೆ) ಸ್ವಯಂ ಪ್ರಭುತ್ವವನ್ನು ಸಾಧಿಸಲು ಒಬ್ಬರು ಪರಿಹರಿಸಬೇಕಾದ ಆಂತರಿಕ ಸಂಘರ್ಷಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

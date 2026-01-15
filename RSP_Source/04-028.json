@@ -1,0 +1,762 @@
+{
+  "mandala": 4,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M4-S28_58-1_5",
+      "mandala": 4,
+      "sukta": 28,
+      "ric_index": 1,
+      "rig_lines": [
+        "त्वा यु॒जा तव॒ तत्‌ सो᳚म स॒ख्य इन्द्रो᳚, अ॒पो मन॑वे स॒स्रुत॑स्कः |",
+        "अह॒न्नहि॒मरि॑णात्‌ स॒प्त सिन्धू॒नपा᳚वृणो॒दपि॑हितेव॒ खानि॑ ||"
+      ],
+      "pre_splits": [
+        "त्वा",
+        "यु॒जा",
+        "तव॑",
+        "तत्",
+        "सो॒म॒",
+        "स॒ख्ये",
+        "इन्द्रः॑",
+        "अ॒पः",
+        "मन॑वे",
+        "स॒ऽस्रुतः॑",
+        "क॒रिति॑ कः",
+        "अह॑न्",
+        "अहि᳚‌म्",
+        "अरि॑णात्",
+        "स॒प्त",
+        "सिन्धू᳚न्",
+        "अप॑",
+        "अ॒वृ॒णो॒त्",
+        "अपि॑हिताऽ‌इव",
+        "खानि॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त्वा",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "You (accusative)",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "यु॒जा",
+          "pada_kn": "ಯುಜಾ",
+          "meaning_en": "as an ally",
+          "meaning_kn": "ಸಹಾಯಕನಾಗಿ"
+        },
+        {
+          "pada_original": "तव॑",
+          "pada_kn": "ತವ",
+          "meaning_en": "Your (genitive)",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "सो॒म॒",
+          "pada_kn": "ಸೋಮ",
+          "meaning_en": "O Soma",
+          "meaning_kn": "ಓ ಸೋಮ"
+        },
+        {
+          "pada_original": "स॒ख्ये",
+          "pada_kn": "ಸಖ್ಯೇ",
+          "meaning_en": "in friendship",
+          "meaning_kn": "ಸ್ನೇಹದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "अ॒पः",
+          "pada_kn": "ಅಪಃ",
+          "meaning_en": "waters",
+          "meaning_kn": "ನೀರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "मन॑वे",
+          "pada_kn": "ಮನವೇ",
+          "meaning_en": "for Manu (mankind)",
+          "meaning_kn": "ಮನುಷ್ಯನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "स॒ऽस्रुतः॑",
+          "pada_kn": "ಸಸ್ರುತಃ",
+          "meaning_en": "flowing",
+          "meaning_kn": "ಹರಿಯುವಂತೆ"
+        },
+        {
+          "pada_original": "क॒रिति॑ कः",
+          "pada_kn": "ಕರಿತಿ ಕಃ",
+          "meaning_en": "made",
+          "meaning_kn": "ಮಾಡಿದನು"
+        },
+        {
+          "pada_original": "अह॑न्",
+          "pada_kn": "ಅಹನ್",
+          "meaning_en": "He slew",
+          "meaning_kn": "ಅವನು ಕೊಂದನು"
+        },
+        {
+          "pada_original": "अहि᳚‌म्",
+          "pada_kn": "ಅಹಿಮ್",
+          "meaning_en": "the Ahi (Vritra)",
+          "meaning_kn": "ಅಹಿಯನ್ನು (ವೃತ್ರನನ್ನು)"
+        },
+        {
+          "pada_original": "अरि॑णात्",
+          "pada_kn": "ಅರಿಣಾತ್",
+          "meaning_en": "he released",
+          "meaning_kn": "ಅವನು ಬಿಡುಗಡೆಗೊಳಿಸಿದನು"
+        },
+        {
+          "pada_original": "स॒प्त",
+          "pada_kn": "ಸಪ್ತ",
+          "meaning_en": "seven",
+          "meaning_kn": "ಏಳು"
+        },
+        {
+          "pada_original": "सिन्धू᳚न्",
+          "pada_kn": "ಸಿಂಧೂನ್",
+          "meaning_en": "rivers",
+          "meaning_kn": "ನದಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "away",
+          "meaning_kn": "ದೂರ"
+        },
+        {
+          "pada_original": "अ॒वृ॒णो॒त्",
+          "pada_kn": "ಅವೃಣೋತ್",
+          "meaning_en": "he uncovered",
+          "meaning_kn": "ಅವನು ತೆರೆದನು"
+        },
+        {
+          "pada_original": "अपि॑हिताऽ‌इव",
+          "pada_kn": "ಅಪಿಹಿತೈವ",
+          "meaning_en": "as if covered",
+          "meaning_kn": "ಮುಚ್ಚಿದಂತಿದ್ದ"
+        },
+        {
+          "pada_original": "खानि॑",
+          "pada_kn": "ಖಾನಿ",
+          "meaning_en": "channels",
+          "meaning_kn": "ಕಾಲುವೆಗಳನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Soma, with you as an ally, in your friendship, Indra made the waters flow for Manu (mankind). He slew Ahi (Vritra), released the seven rivers, and uncovered the channels as if they were covered.",
+      "full_meaning_kn": "ಓ ಸೋಮ, ನಿನ್ನ ಸಹಾಯದಿಂದ, ನಿನ್ನ ಸ್ನೇಹದಲ್ಲಿ, ಇಂದ್ರನು ಮನುಷ್ಯರಿಗಾಗಿ ನೀರನ್ನು ಹರಿಯುವಂತೆ ಮಾಡಿದನು. ಅವನು ಅಹಿಯನ್ನು (ವೃತ್ರ) ಕೊಂದನು, ಏಳು ನದಿಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದನು, ಮತ್ತು ಮುಚ್ಚಲ್ಪಟ್ಟಿದ್ದ ಕಾಲುವೆಗಳನ್ನು ತೆರೆದನು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The flow of waters symbolizes the flow of consciousness. Indra, aided by Soma (the divine elixir), overcomes Ahi (ignorance/obstruction) to release the seven rivers, representing the awakening of the seven chakras and the opening of inner channels (nadis) for spiritual realization. The uncovering of hidden channels signifies the revealing of inherent potential within.",
+      "Insight_kn": "ನೀರಿನ ಹರಿವು ಪ್ರಜ್ಞೆಯ ಹರಿವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸೋಮನ ಸಹಾಯದಿಂದ ಇಂದ್ರನು (ದೈವಿಕ ಅಮೃತ), ಅಹಿಯನ್ನು (ಅಜ್ಞಾನ/ತಡೆ) ಜಯಿಸಿ ಏಳು ನದಿಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತಾನೆ, ಇದು ಏಳು ಚಕ್ರಗಳ ಜಾಗೃತಿಯನ್ನು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕಾಗಿ ಆಂತರಿಕ ನಾಡಿಗಳ ತೆರೆಯುವಿಕೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಗುಪ್ತ ಕಾಲುವೆಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುವುದು ಒಳಗಿನ ಸುಪ್ತ ಸಾಮರ್ಥ್ಯವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S28_58-2_5",
+      "mandala": 4,
+      "sukta": 28,
+      "ric_index": 2,
+      "rig_lines": [
+        "त्वा यु॒जा नि खि॑द॒त्‌ सूर्य॒स्येन्द्र॑श्च॒क्रं सह॑सा स॒द्य इ᳚न्दो |",
+        "अधि॒ ष्णुना᳚ बृह॒ता वर्त॑मानं म॒हो द्रु॒हो, अप॑ वि॒श्वायु॑ धायि ||"
+      ],
+      "pre_splits": [
+        "त्वा",
+        "यु॒जा",
+        "नि",
+        "खि॒द॒त्",
+        "सूर्य॑स्य",
+        "इन्द्रः॑",
+        "च॒क्र‌म्",
+        "सह॑सा",
+        "स॒द्यः",
+        "इ॒न्दो॒ इति॑",
+        "अधि॑",
+        "स्नुना᳚",
+        "बृ॒ह॒ता",
+        "वर्त॑मान‌म्",
+        "म॒हः",
+        "द्रु॒हः",
+        "अप॑",
+        "वि॒श्वऽआ᳚यु",
+        "धा॒यि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त्वा",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you (Soma)",
+          "meaning_kn": "ನಿನ್ನನ್ನು (ಸೋಮ)"
+        },
+        {
+          "pada_original": "यु॒जा",
+          "pada_kn": "ಯುಜಾ",
+          "meaning_en": "as an ally / with the help",
+          "meaning_kn": "ಮಿತ್ರನಾಗಿ / ನಿನ್ನ ಸಹಾಯದಿಂದ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / completely",
+          "meaning_kn": "ಕೆಳಗೆ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "खि॒द॒त्",
+          "pada_kn": "ಖಿದತ್",
+          "meaning_en": "shattered / crushed",
+          "meaning_kn": "ಪುಡಿಮಾಡಿದನು / ಧ್ವಂಸಗೊಳಿಸಿದನು"
+        },
+        {
+          "pada_original": "सूर्य॑स्य",
+          "pada_kn": "ಸೂರ್ಯಸ್ಯ",
+          "meaning_en": "of Surya / of the sun",
+          "meaning_kn": "ಸೂರ್ಯನ"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "च॒क्र‌म्",
+          "pada_kn": "ಚಕ್ರಮ್",
+          "meaning_en": "the wheel",
+          "meaning_kn": "ಚಕ್ರವನ್ನು"
+        },
+        {
+          "pada_original": "सह॑सा",
+          "pada_kn": "ಸಹಸಾ",
+          "meaning_en": "with might / forcefully",
+          "meaning_kn": "ಬಲದಿಂದ / ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "स॒द्यः",
+          "pada_kn": "ಸದ್ಯಃ",
+          "meaning_en": "immediately / at once",
+          "meaning_kn": "ತಕ್ಷಣವೇ / ಕೂಡಲೇ"
+        },
+        {
+          "pada_original": "इ॒न्दो॒ इति॑",
+          "pada_kn": "ಇಂದೋ ಇತಿ",
+          "meaning_en": "O Soma!",
+          "meaning_kn": "ಓ ಸೋಮ!"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon / over",
+          "meaning_kn": "ಮೇಲೆ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "स्नुना᳚",
+          "pada_kn": "ಸ್ನುನಾ",
+          "meaning_en": "with the high peak / with the ridge",
+          "meaning_kn": "ಉನ್ನತ ಶಿಖರದಿಂದ / ಬೆಟ್ಟದ ತುದಿಯಿಂದ"
+        },
+        {
+          "pada_original": "बृ॒ह॒ता",
+          "pada_kn": "ಬೃಹತಾ",
+          "meaning_en": "great / vast",
+          "meaning_kn": "ದೊಡ್ಡ / ವಿಶಾಲವಾದ"
+        },
+        {
+          "pada_original": "वर्त॑मान‌म्",
+          "pada_kn": "ವರ್ತಮಾನಮ್",
+          "meaning_en": "moving / revolving",
+          "meaning_kn": "ಚಲಿಸುತ್ತಿರುವ / ತಿರುಗುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "म॒हः",
+          "pada_kn": "ಮಹಃ",
+          "meaning_en": "of the great (enemy)",
+          "meaning_kn": "ಮಹಾನ್ (ಶತ್ರುವಿನ)"
+        },
+        {
+          "pada_original": "द्रु॒हः",
+          "pada_kn": "ದ್ರುಹಃ",
+          "meaning_en": "of the deceiver / of the enemy",
+          "meaning_kn": "ವಂಚಕನ / ಶತ್ರುವಿನ"
+        },
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "away / off",
+          "meaning_kn": "ದೂರ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "वि॒श्वऽआ᳚यु",
+          "pada_kn": "ವಿಶ್ವಾಆಯು",
+          "meaning_en": "all life / full life span",
+          "meaning_kn": "ಸಂಪೂರ್ಣ ಆಯುಷ್ಯ / ಎಲ್ಲಾ ಜೀವಿತಾವಧಿ"
+        },
+        {
+          "pada_original": "धा॒यि॒",
+          "pada_kn": "ಧಾಯಿ",
+          "meaning_en": "was taken away / was removed",
+          "meaning_kn": "ಕಸಿದುಕೊಳ್ಳಲ್ಪಟ್ಟಿತು / ತೆಗೆದುಹಾಕಲ್ಪಟ್ಟಿತು"
+        }
+      ],
+      "full_meaning_en": "O Soma, united with you, Indra, with sudden might, shattered Surya's wheel. The entire lifespan of the great deceiver, whose wheel was revolving high, was taken away.",
+      "full_meaning_kn": "ಓ ಸೋಮ, ನಿನ್ನೊಡನೆ ಯುಕ್ತನಾದ ಇಂದ್ರನು, ತಕ್ಷಣದ ಬಲದಿಂದ ಸೂರ್ಯನ ಚಕ್ರವನ್ನು ಪುಡಿಮಾಡಿದನು. ಎತ್ತರದಲ್ಲಿ ತಿರುಗುತ್ತಿದ್ದ ಮಹಾನ್ ವಂಚಕನ ಸಂಪೂರ್ಣ ಆಯುಷ್ಯವನ್ನು ತೆಗೆದುಹಾಕಲಾಯಿತು.",
+      "rig_time_s": 13.703,
+      "Insight_en": "The shattering of Surya's wheel symbolizes the destruction of illusion (maya) and the cessation of the cycle of suffering. Indra, aided by Soma, represents the awakened consciousness that can dismantle the forces of ignorance and liberate the individual from the wheel of samsara. The 'great deceiver' signifies the ego, whose influence is diminished through spiritual practice and divine grace. The 'wheel revolving high' represents the ego's constant activity and its elevated sense of self-importance.",
+      "Insight_kn": "ಸೂರ್ಯನ ಚಕ್ರದ ಭಂಗವು ಮಾಯೆಯ ನಾಶ ಮತ್ತು ದುಃಖದ ಚಕ್ರದ ಅಂತ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸೋಮನ ಸಹಾಯದಿಂದ ಇಂದ್ರನು, ಜ್ಞಾನೋದಯದ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಇದು ಅಜ್ಞಾನದ ಶಕ್ತಿಗಳನ್ನು ಕಿತ್ತೊಗೆದು ಸಂಸಾರದ ಚಕ್ರದಿಂದ ವ್ಯಕ್ತಿಯನ್ನು ಮುಕ್ತಗೊಳಿಸುತ್ತದೆ. 'ಮಹಾನ್ ವಂಚಕ' ಎಂಬುದು ಅಹಂಕಾರವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದರ ಪ್ರಭಾವವು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸ ಮತ್ತು ದೈವಿಕ ಅನುಗ್ರಹದಿಂದ ಕಡಿಮೆಯಾಗುತ್ತದೆ. 'ಎತ್ತರದಲ್ಲಿ ತಿರುಗುವ ಚಕ್ರ'ವು ಅಹಂಕಾರದ ನಿರಂತರ ಚಟುವಟಿಕೆ ಮತ್ತು ಅದರ ಉನ್ನತ ಸ್ವಯಂ-ಮಹತ್ವದ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S28_58-3_5",
+      "mandala": 4,
+      "sukta": 28,
+      "ric_index": 3,
+      "rig_lines": [
+        "अह॒न्निन्द्रो॒, अद॑हद॒ग्निरि᳚न्दो पु॒रा दस्यू᳚न्‌ म॒ध्यंदि॑नाद॒भीके᳚ |",
+        "दु॒र्गे दु॑रो॒णे क्रत्वा॒ न या॒तां पु॒रू स॒हस्रा॒ शर्वा॒ नि ब᳚र्हीत् ||"
+      ],
+      "pre_splits": [
+        "अह॑न्",
+        "इन्द्रः॑",
+        "अद॑हत्",
+        "अ॒ग्निः",
+        "इ॒न्दो॒ इति॑",
+        "पु॒रा",
+        "दस्यू᳚न्",
+        "म॒ध्यंदि॑नात्",
+        "अ॒भीके᳚",
+        "दुः॒ऽगे",
+        "दु॒रो॒णे",
+        "क्रत्वा᳚",
+        "न",
+        "या॒ता‌म्",
+        "पु॒रु",
+        "स॒हस्रा᳚",
+        "शर्वा᳚",
+        "नि",
+        "ब॒र्ही॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अह॑न्",
+          "pada_kn": "अह॑न्",
+          "meaning_en": "struck down",
+          "meaning_kn": "ಹೊಡೆದನು"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ॑",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "अद॑हत्",
+          "pada_kn": "ಅದ॑ಹತ್",
+          "meaning_en": "burned up",
+          "meaning_kn": "ಸುಟ್ಟನು"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅ॒ಗ್ನಿಃ",
+          "meaning_en": "Agni",
+          "meaning_kn": "ಅಗ್ನಿಯು"
+        },
+        {
+          "pada_original": "इ॒न्दो॒ इति॑",
+          "pada_kn": "ಇ॒ಂದೋ॒ ಇತಿ॑",
+          "meaning_en": "Indu, thus",
+          "meaning_kn": "ಇಂದು, ಹೀಗೆ"
+        },
+        {
+          "pada_original": "पु॒रा",
+          "pada_kn": "ಪು॒ರಾ",
+          "meaning_en": "formerly",
+          "meaning_kn": "ಮೊದಲು"
+        },
+        {
+          "pada_original": "दस्यू᳚न्",
+          "pada_kn": "ದಸ್ಯೂ᳚ನ್",
+          "meaning_en": "the Dasyus",
+          "meaning_kn": "ದಸ್ಯುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "म॒ध्यंदि॑नात्",
+          "pada_kn": "ಮ॒ಧ್ಯಂದಿ॑ನಾತ್",
+          "meaning_en": "from midday",
+          "meaning_kn": "ಮಧ್ಯಾಹ್ನದಿಂದ"
+        },
+        {
+          "pada_original": "अ॒भीके᳚",
+          "pada_kn": "ಅ॒ಭೀಕೇ᳚",
+          "meaning_en": "in the presence",
+          "meaning_kn": "ಸಮ್ಮುಖದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "दुः॒ऽगे",
+          "pada_kn": "ದುಃ॒ऽಗೆ",
+          "meaning_en": "in inaccessible places",
+          "meaning_kn": "ದುರ್ಗಮ ಸ್ಥಳಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "दु॒रो॒णे",
+          "pada_kn": "ದು॒ರೋ॒ಣೆ",
+          "meaning_en": "in the house",
+          "meaning_kn": "ಮನೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "क्रत्वा᳚",
+          "pada_kn": "ಕ್ರತ್ವಾ᳚",
+          "meaning_en": "by strength",
+          "meaning_kn": "ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "या॒ता‌म्",
+          "pada_kn": "ಯಾ॒ತಾಮ್",
+          "meaning_en": "they went",
+          "meaning_kn": "ಅವರು ಹೋದರು"
+        },
+        {
+          "pada_original": "पु॒रु",
+          "pada_kn": "ಪು॒ರು",
+          "meaning_en": "many",
+          "meaning_kn": "ಅನೇಕ"
+        },
+        {
+          "pada_original": "स॒हस्रा᳚",
+          "pada_kn": "ಸ॒ಹಸ್ರಾ᳚",
+          "meaning_en": "thousands",
+          "meaning_kn": "ಸಾವಿರಾರು"
+        },
+        {
+          "pada_original": "शर्वा᳚",
+          "pada_kn": "ಶರ್ವಾ᳚",
+          "meaning_en": "the destroyer",
+          "meaning_kn": "ವಿಧ್ವಂಸಕ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down",
+          "meaning_kn": "ಕೆಳಗೆ"
+        },
+        {
+          "pada_original": "ब॒र्ही॒त्",
+          "pada_kn": "ಬ॒ರ್ಹೀ॒ತ್",
+          "meaning_en": "crushed",
+          "meaning_kn": "ಪುಡಿಮಾಡಿದರು"
+        }
+      ],
+      "full_meaning_en": "O Indra, you slew the Dasyus; O Agni, you consumed them before the noonday hour in fierce battle. Neither in strong fortresses nor in secure dwellings could they withstand your might. Verily, thousands upon thousands were utterly vanquished by your destructive power.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ನೀನು ದಸ್ಯುಗಳನ್ನು ಕೊಂದೆ; ಓ ಅಗ್ನಿ, ಮಧ್ಯಾಹ್ನದ ಹೊತ್ತಿಗೆ ಮುಂಚೆಯೇ ಉಗ್ರ ಯುದ್ಧದಲ್ಲಿ ಅವರನ್ನು ಭಸ್ಮಮಾಡಿದೆ. ಬಲವಾದ ಕೋಟೆಗಳಲ್ಲಿ ಅಥವಾ ಸುರಕ್ಷಿತ ವಾಸಸ್ಥಾನಗಳಲ್ಲಿಯೂ ಅವರು ನಿಮ್ಮ ಶಕ್ತಿಯನ್ನು ತಡೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ನಿಜಕ್ಕೂ, ಸಾವಿರಾರು ಜನರು ನಿಮ್ಮ ವಿನಾಶಕಾರಿ ಶಕ್ತಿಯಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಸೋಲಿಸಲ್ಪಟ್ಟರು.",
+      "rig_time_s": 27.804,
+      "Insight_en": "The destruction of the Dasyus symbolizes the annihilation of negative tendencies within. Indra represents the power of discrimination (विवेक) that dispels ignorance, while Agni signifies the transformative fire that burns away impurities. The fortresses represent the ego's defenses, which ultimately crumble before the combined forces of wisdom and purification. The 'thousands' denote the countless forms of negativity that must be overcome on the spiritual path.",
+      "Insight_kn": "ದಸ್ಯುಗಳ ನಾಶವು ಒಳಗಿನ ನಕಾರಾತ್ಮಕ ಪ್ರವೃತ್ತಿಗಳ ನಿರ್ಮೂಲನೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಇಂದ್ರನು ಅಜ್ಞಾನವನ್ನು ಹೋಗಲಾಡಿಸುವ ವಿವೇಚನೆಯ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಆದರೆ ಅಗ್ನಿಯು ಅಶುದ್ಧತೆಗಳನ್ನು ಸುಡುವ ಪರಿವರ್ತಕ ಬೆಂಕಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಕೋಟೆಗಳು ಅಹಂಕಾರದ ರಕ್ಷಣೆಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಅದು ಅಂತಿಮವಾಗಿ ಜ್ಞಾನ ಮತ್ತು ಶುದ್ಧೀಕರಣದ ಸಂಯೋಜಿತ ಶಕ್ತಿಗಳ ಮುಂದೆ ಕುಸಿಯುತ್ತದೆ. 'ಸಾವಿರಾರು' ಆಧ್ಯಾತ್ಮಿಕ ಮಾರ್ಗದಲ್ಲಿ ಜಯಿಸಬೇಕಾದ ನಕಾರಾತ್ಮಕತೆಯ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ರೂಪಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S28_58-4_5",
+      "mandala": 4,
+      "sukta": 28,
+      "ric_index": 4,
+      "rig_lines": [
+        "विश्व॑स्मात्‌ सीमध॒माँ, इ᳚न्द्र॒ दस्यू॒न् विशो॒ दासी᳚रकृणोरप्रश॒स्ताः |",
+        "अबा᳚धेथा॒ममृ॑णतं॒ नि शत्रू॒नवि᳚न्देथा॒मप॑चितिं॒ वध॑त्रैः ||"
+      ],
+      "pre_splits": [
+        "विश्व॑स्मात्",
+        "सी॒‌म्",
+        "अ॒ध॒मान्",
+        "इ॒न्द्र॒",
+        "दस्यू᳚न्",
+        "विशः॑",
+        "दासीः᳚",
+        "अ॒कृ॒णोः॒",
+        "अ॒प्र॒ऽश॒स्ताः",
+        "अबा᳚धेथा‌म्",
+        "अमृ॑णत‌म्",
+        "नि",
+        "शत्रू᳚न्",
+        "अवि᳚न्देथा‌म्",
+        "अप॑ऽचिति‌म्",
+        "वध॑त्रैः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "विश्व॑स्मात्",
+          "pada_kn": "ವಿಶ್ವಸ್ಮಾತ್",
+          "meaning_en": "from all / from everyone",
+          "meaning_kn": "ಎಲ್ಲರಿಂದಲೂ / ಎಲ್ಲ ಕಡೆಯಿಂದಲೂ"
+        },
+        {
+          "pada_original": "सी॒‌म्",
+          "pada_kn": "ಸೀಮ್",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अ॒ध॒मान्",
+          "pada_kn": "ಅಧಮಾನ್",
+          "meaning_en": "the low ones / the inferior ones",
+          "meaning_kn": "ಅಧಮರನ್ನು / ಕೆಳಮಟ್ಟದವರನ್ನು"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "दस्यू᳚न्",
+          "pada_kn": "ದಸ್ಯೂನ್",
+          "meaning_en": "the Dasyus (enemies)",
+          "meaning_kn": "ದಸ್ಯುಗಳನ್ನು (ಶತ್ರುಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "विशः॑",
+          "pada_kn": "ವಿಶಃ",
+          "meaning_en": "the people / the tribes",
+          "meaning_kn": "ಜನರನ್ನು / ಕುಲಗಳನ್ನು"
+        },
+        {
+          "pada_original": "दासीः᳚",
+          "pada_kn": "ದಾಸೀಃ",
+          "meaning_en": "the enslaved / the servile",
+          "meaning_kn": "ದಾಸರಾದವರನ್ನು / ಗುಲಾಮರನ್ನು"
+        },
+        {
+          "pada_original": "अ॒कृ॒णोः॒",
+          "pada_kn": "ಅಕೃಣೋಃ",
+          "meaning_en": "you made / you rendered",
+          "meaning_kn": "ನೀನು ಮಾಡಿದಿ / ನೀನು ಗೊಳಿಸಿದೆ"
+        },
+        {
+          "pada_original": "अ॒प्र॒ऽश॒स्ताः",
+          "pada_kn": "ಅಪ್ರಶಸ್ತಾಃ",
+          "meaning_en": "unpraiseworthy / dishonored",
+          "meaning_kn": "ಅಪಕೀರ್ತಿಗೆ ಗುರಿಪಡಿಸಿದಿ / ಗೌರವವಿಲ್ಲದವರನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "अबा᳚धेथा‌म्",
+          "pada_kn": "ಅಬಾಧೇಥಾಮ್",
+          "meaning_en": "you two oppressed / you two harassed",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಪೀಡಿಸಿದಿರಿ / ಹಿಂಸಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "अमृ॑णत‌म्",
+          "pada_kn": "ಅಮೃಣತಮ್",
+          "meaning_en": "you two crushed / you two destroyed",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಪುಡಿಮಾಡಿದಿರಿ / ನಾಶಮಾಡಿದಿರಿ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / completely",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ / ಕೆಳಗೆ"
+        },
+        {
+          "pada_original": "शत्रू᳚न्",
+          "pada_kn": "ಶತ್ರೂನ್",
+          "meaning_en": "the enemies",
+          "meaning_kn": "ಶತ್ರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अवि᳚न्देथा‌म्",
+          "pada_kn": "ಅವಿಂದೇಥಾಮ್",
+          "meaning_en": "you two found / you two obtained",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಪಡೆದಿರಿ / ಕಂಡುಕೊಂಡಿರಿ"
+        },
+        {
+          "pada_original": "अप॑ऽचिति‌म्",
+          "pada_kn": "ಅಪಚಿತಮ್",
+          "meaning_en": "satisfaction / retribution",
+          "meaning_kn": "ತೃಪ್ತಿಯನ್ನು / ಪ್ರತೀಕಾರವನ್ನು"
+        },
+        {
+          "pada_original": "वध॑त्रैः",
+          "pada_kn": "ವಧತ್ರೈಃ",
+          "meaning_en": "with weapons / with instruments of slaying",
+          "meaning_kn": "ವಧಿಸುವ ಆಯುಧಗಳಿಂದ / ಶಸ್ತ್ರಗಳಿಂದ"
+        }
+      ],
+      "full_meaning_en": "O Indra, verily, you rendered the Dasyus, who were weak and base tribes, devoid of praise in all respects. You two (Indra and his power) suppressed and utterly destroyed the foes; you both attained complete satisfaction through your deadly weapons.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರನೇ, ನೀನು ದಸ್ಯುಗಳನ್ನು, ದುರ್ಬಲರಾದ ಮತ್ತು ಕೀಳು ಬುಡಕಟ್ಟುಗಳನ್ನು, ಎಲ್ಲಾ ವಿಷಯಗಳಲ್ಲಿಯೂ ಹೊಗಳಿಕೆಗೆ ಅರ್ಹರಲ್ಲದವರನ್ನಾಗಿ ಮಾಡಿದೆ. ನೀವಿಬ್ಬರೂ (ಇಂದ್ರ ಮತ್ತು ಅವನ ಶಕ್ತಿ) ಶತ್ರುಗಳನ್ನು ದಮನಮಾಡಿ ಸಂಪೂರ್ಣವಾಗಿ ನಾಶಮಾಡಿದಿರಿ; ನಿಮ್ಮಿಬ್ಬರಿಗೂ ನಿಮ್ಮ ಮಾರಣಾಂತಿಕ ಆಯುಧಗಳ ಮೂಲಕ ಸಂಪೂರ್ಣ ತೃಪ್ತಿ ದೊರೆಯಿತು.",
+      "rig_time_s": 43.482,
+      "Insight_en": "The annihilation of the Dasyus represents the destruction of negative tendencies within the individual. Indra's triumph symbolizes the victory of divine will over inner demons like anger (क्रोध), greed (लोभ), and delusion (मोह). True satisfaction arises from conquering these internal enemies with the weapon of spiritual knowledge (ज्ञान).",
+      "Insight_kn": "ದಸ್ಯುಗಳ ನಿರ್ನಾಮವು ವ್ಯಕ್ತಿಯೊಳಗಿನ ನಕಾರಾತ್ಮಕ ಪ್ರವೃತ್ತಿಗಳ ನಾಶವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇಂದ್ರನ ವಿಜಯವು ಕೋಪ (ಕ್ರోధ), ದುರಾಸೆ (ಲೋಭ) ಮತ್ತು ಭ್ರಮೆ (ಮೋಹ) ಮುಂತಾದ ಆಂತರಿಕ ರಾಕ್ಷಸರ ಮೇಲೆ ದೈವಿಕ ಇಚ್ಛಾಶಕ್ತಿಯ ವಿಜಯವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನದ (ಜ್ಞಾನ) ಆಯುಧದಿಂದ ಈ ಆಂತರಿಕ ಶತ್ರುಗಳನ್ನು ಜಯಿಸುವುದರಿಂದ ನಿಜವಾದ ತೃಪ್ತಿ ಉಂಟಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S28_58-5_5",
+      "mandala": 4,
+      "sukta": 28,
+      "ric_index": 5,
+      "rig_lines": [
+        "ए॒वा स॒त्यं म॑घवाना यु॒वं तदिन्द्र॑श्च सोमो॒र्वमश्व्यं॒ गोः |",
+        "आद॑र्दृत॒मपि॑हिता॒न्यश्ना᳚ रिरि॒चथुः॒, क्षाश्चि॑त्‌ ततृदा॒ना ||"
+      ],
+      "pre_splits": [
+        "ए॒व",
+        "स॒त्य‌म्",
+        "म॒घ॒ऽवा॒ना॒",
+        "यु॒व‌म्",
+        "तत्",
+        "इन्द्रः॑",
+        "च॒",
+        "सो॒म॒",
+        "ऊ॒र्व‌म्",
+        "अश्व्य᳚‌म्",
+        "गोः",
+        "आ",
+        "अ॒द॒र्दृ॒त॒‌म्",
+        "अपि॑ऽहितानि",
+        "अश्ना᳚",
+        "रि॒रि॒चथुः॑",
+        "क्षाः",
+        "चि॒त्",
+        "त॒तृ॒दा॒ना"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ए॒व",
+          "pada_kn": "ಏವ",
+          "meaning_en": "Thus / Indeed",
+          "meaning_kn": "ಹೀಗೆ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "स॒त्य‌म्",
+          "pada_kn": "ಸತ್ಯಮ್",
+          "meaning_en": "Truth / True",
+          "meaning_kn": "ಸತ್ಯ / ನಿಜ"
+        },
+        {
+          "pada_original": "म॒घ॒ऽवा॒ना॒",
+          "pada_kn": "ಮಘವಾನಾ",
+          "meaning_en": "O wealthy ones (dual)",
+          "meaning_kn": "ಓ ಧನವಂತರೇ / ಓ ಉದಾರರೇ"
+        },
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "You two",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "That",
+          "meaning_kn": "ಅದು"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "सो॒म॒",
+          "pada_kn": "ಸೋಮ",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮ"
+        },
+        {
+          "pada_original": "ऊ॒र्व‌म्",
+          "pada_kn": "ಊರ್ವಮ್",
+          "meaning_en": "Enclosure / Pen",
+          "meaning_kn": "ದೊಡ್ಡಿ / ಗೋಶಾಲೆ"
+        },
+        {
+          "pada_original": "अश्व्य᳚‌म्",
+          "pada_kn": "ಅಶ್ವ್ಯಮ್",
+          "meaning_en": "Pertaining to horses / Horses",
+          "meaning_kn": "ಅಶ್ವಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ / ಕುದುರೆಗಳು"
+        },
+        {
+          "pada_original": "गोः",
+          "pada_kn": "ಗೋಃ",
+          "meaning_en": "Of cows / Cattle",
+          "meaning_kn": "ಗೋವುಗಳ / ದನಗಳು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Completely (prefix)",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अ॒द॒र्दृ॒त॒‌म्",
+          "pada_kn": "ಅದರ್ದೃತಮ್",
+          "meaning_en": "You two broke open / tore open",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಭೇದಿಸಿದಿರಿ / ಒಡೆದು ಹಾಕಿದಿರಿ"
+        },
+        {
+          "pada_original": "अपि॑ऽहितानि",
+          "pada_kn": "ಅಪಿಹಿತಾನಿ",
+          "meaning_en": "Hidden / Covered",
+          "meaning_kn": "ಮರೆಮಾಡಿದ / ಆವರಿಸಿದ"
+        },
+        {
+          "pada_original": "अश्ना᳚",
+          "pada_kn": "ಅಶ್ನಾ",
+          "meaning_en": "By stones / Rocks",
+          "meaning_kn": "ಕಲ್ಲುಗಳಿಂದ / ಬಂಡೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "रि॒रि॒चथुः॑",
+          "pada_kn": "ರಿರಿಚಥುಃ",
+          "meaning_en": "You two emptied / released",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಖಾಲಿಮಾಡಿದಿರಿ / ಬಿಡುಗಡೆಗೊಳಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "क्षाः",
+          "pada_kn": "ಕ್ಷಾಃ",
+          "meaning_en": "Lands / Earths",
+          "meaning_kn": "ಭೂಮಿಗಳು / ಪ್ರದೇಶಗಳು"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "Even / Indeed",
+          "meaning_kn": "ಕೂಡ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "त॒तृ॒दा॒ना",
+          "pada_kn": "ತತೃದಾನಾ",
+          "meaning_en": "Being broken / Being torn",
+          "meaning_kn": "ಭೇದಿಸಲ್ಪಟ್ಟ / ಹರಿದುಹೋದ"
+        }
+      ],
+      "full_meaning_en": "O generous Indra and Soma, truly you two shattered that enclosure of horses and cattle, hidden by rocks. You released them, even when the very lands were bursting apart.",
+      "full_meaning_kn": "ಓ ದಾನಿಗಳಾದ ಇಂದ್ರ ಮತ್ತು ಸೋಮ, ನಿಜವಾಗಿಯೂ ನೀವು ಇಬ್ಬರೂ ಕುದುರೆಗಳು ಮತ್ತು ದನಗಳ ಆ ಆವರಣವನ್ನು ಭೇದಿಸಿದಿರಿ, ಅದು ಬಂಡೆಗಳಿಂದ ಮರೆಮಾಡಲ್ಪಟ್ಟಿತ್ತು. ನೀವು ಅವುಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದಿರಿ, ಭೂಮಿಗಳೇ ಛಿದ್ರವಾಗುತ್ತಿದ್ದರೂ.",
+      "rig_time_s": 60.027,
+      "Insight_en": "The breaking open of enclosures represents the liberation of consciousness from the limiting confines of ignorance (अविद्या). Indra and Soma, as divine forces, symbolize the powers that shatter these limitations, revealing the vast expanse of truth and freedom within. The release of horses (अश्व) and cattle (गो) signifies the freeing of vital energies and illuminating knowledge, respectively, allowing for the full expression of one's potential.",
+      "Insight_kn": "ಆವರಣಗಳ ಒಡೆಯುವಿಕೆಯು ಅಜ್ಞಾನದ (ಅವಿದ್ಯಾ) ಮಿತಿಯೊಳಗಿನಿಂದ ಪ್ರಜ್ಞೆಯ ಬಿಡುಗಡೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇಂದ್ರ ಮತ್ತು ಸೋಮ, ದೈವಿಕ ಶಕ್ತಿಗಳಾಗಿ, ಈ ಮಿತಿಗಳನ್ನು ಮುರಿಯುವ ಶಕ್ತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ, ಸತ್ಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯದ ವಿಶಾಲ ವಿಸ್ತಾರವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತಾರೆ. ಕುದುರೆಗಳ (ಅಶ್ವ) ಮತ್ತು ದನಗಳ (ಗೋ) ಬಿಡುಗಡೆಯು ಕ್ರಮವಾಗಿ ಪ್ರಮುಖ ಶಕ್ತಿಗಳ ಬಿಡುಗಡೆ ಮತ್ತು ಜ್ಞಾನವನ್ನು ಬೆಳಗಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಒಬ್ಬರ ಸಾಮರ್ಥ್ಯದ ಪೂರ್ಣ ಅಭಿವ್ಯಕ್ತಿಗೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

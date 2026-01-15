@@ -1,0 +1,727 @@
+{
+  "mandala": 3,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M3-S20_62-1_5",
+      "mandala": 3,
+      "sukta": 20,
+      "ric_index": 1,
+      "rig_lines": [
+        "अ॒ग्निमु॒षस॑म॒श्विना᳚ दधि॒क्रां व्यु॑ष्टिषु हवते॒ वह्नि॑रु॒क्थैः |",
+        "सु॒ज्योति॑षो नः शृण्वन्तु दे॒वाः स॒जोष॑सो, अध्व॒रं वा᳚वशा॒नाः ||"
+      ],
+      "pre_splits": [
+        "अ॒ग्नि‌म्",
+        "उ॒षस᳚‌म्",
+        "अ॒श्विना᳚",
+        "द॒धि॒ऽक्रा‌म्",
+        "वि।औ᳚ष्टिषु",
+        "ह॒व॒ते॒",
+        "वह्निः॑",
+        "उ॒क्थैः",
+        "सु॒ऽज्योति॑षः",
+        "नः॒",
+        "शृ॒ण्व॒न्तु॒",
+        "दे॒वाः",
+        "स॒ऽजोष॑सः",
+        "अ॒ध्व॒र‌म्",
+        "वा॒व॒शा॒नाः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒ग्नि‌म्",
+          "pada_kn": "ಅಗ್ನಿಮ್",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ (ಅಗ್ನಿ ದೇವ)"
+        },
+        {
+          "pada_original": "उ॒षस᳚‌म्",
+          "pada_kn": "ಉಷಸಮ್",
+          "meaning_en": "Ushas (the dawn goddess)",
+          "meaning_kn": "ಉಷಸ್ (ಉಷಾದೇವಿ)"
+        },
+        {
+          "pada_original": "अ॒श्विना᳚",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "the Ashvins (twin deities)",
+          "meaning_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "द॒धि॒ऽक्रा‌म्",
+          "pada_kn": "ದಧಿಕ್ರಾಮ್",
+          "meaning_en": "Dadikra (a divine horse/swift force)",
+          "meaning_kn": "ದಧಿಕ್ರಾ (ದೈವಿಕ ಅಶ್ವ/ವೇಗದ ಶಕ್ತಿ)"
+        },
+        {
+          "pada_original": "वि।औ᳚ष्टिषु",
+          "pada_kn": "ವ್ಯುಷ್ಟಿಷು",
+          "meaning_en": "at the dawns / at the break of day",
+          "meaning_kn": "ಉಷಃಕಾಲಗಳಲ್ಲಿ / ಪ್ರಭಾತಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ह॒व॒ते॒",
+          "pada_kn": "ಹವತೇ",
+          "meaning_en": "invokes / calls",
+          "meaning_kn": "ಆಹ್ವಾನಿಸುತ್ತಾನೆ / ಕರೆಯುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "वह्निः॑",
+          "pada_kn": "ವಹ್ನಿಃ",
+          "meaning_en": "the invoker / the priest",
+          "meaning_kn": "ಆಹ್ವಾನಿಸುವವನು / ಪುರೋಹಿತ"
+        },
+        {
+          "pada_original": "उ॒क्थैः",
+          "pada_kn": "ಉಕ್ಥೈಃ",
+          "meaning_en": "with praises / with hymns",
+          "meaning_kn": "ಸ್ತೋತ್ರಗಳಿಂದ / ಮಂತ್ರಗಳಿಂದ"
+        },
+        {
+          "pada_original": "सु॒ऽज्योति॑षः",
+          "pada_kn": "ಸುಜ್ಯೋತಿಷಃ",
+          "meaning_en": "brightly shining / resplendent",
+          "meaning_kn": "ಉತ್ತಮ ಪ್ರಕಾಶವುಳ್ಳವರು / ತೇಜಸ್ವಿಗಳು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us / our",
+          "meaning_kn": "ನಮಗೆ / ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "शृ॒ण्व॒न्तु॒",
+          "pada_kn": "ಶೃಣ್ವಂತು",
+          "meaning_en": "may they hear",
+          "meaning_kn": "ಕೇಳಲಿ"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "स॒ऽजोष॑सः",
+          "pada_kn": "ಸಜೋಷಸಃ",
+          "meaning_en": "pleased / delighted",
+          "meaning_kn": "ಸಂತುಷ್ಟರಾಗಿ / ಪ್ರಸನ್ನರಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒र‌म्",
+          "pada_kn": "ಅಧ್ವರಮ್",
+          "meaning_en": "the sacrifice / the ritual",
+          "meaning_kn": "ಯಜ್ಞವನ್ನು / ಕರ್ಮವನ್ನು"
+        },
+        {
+          "pada_original": "वा॒व॒शा॒नाः",
+          "pada_kn": "ವಾವಶಾನಾಃ",
+          "meaning_en": "desiring / wishing",
+          "meaning_kn": "ಇಚ್ಛಿಸುವವರು / ಆಶಿಸುವವರು"
+        }
+      ],
+      "full_meaning_en": "O Agni, Ushas, Ashvins, and Dadikra, the invoker calls upon you with hymns at the break of dawn. May the radiant gods, united in joy and desiring our sacred rite, listen to our prayers.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿ, ಉಷಾ, ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ ಮತ್ತು ದಧಿಕ್ರಾನೇ, ಪ್ರಾತಃಕಾಲದ ಉದಯದಲ್ಲಿ ಸ್ತೋತ್ರಗಳೊಂದಿಗೆ ನಿಮ್ಮನ್ನು ಆಹ್ವಾನಿಸುತ್ತೇವೆ. ಪ್ರಕಾಶಮಾನವಾದ ದೇವತೆಗಳು, ಸಂತೋಷದಿಂದ ಕೂಡಿ ನಮ್ಮ ಯಜ್ಞವನ್ನು ಬಯಸಿ, ನಮ್ಮ ಪ್ರಾರ್ಥನೆಗಳನ್ನು ಆಲಿಸಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The dawn (उषस्) symbolizes the awakening of consciousness. Agni represents the transformative fire within. The Ashvins embody healing and vital energy. Dadikra signifies swiftness and strength of the mind. Invoking these deities at dawn is a call for inner illumination, health, and mental acuity to perform the spiritual sacrifice.",
+      "Insight_kn": "ಉಷಸ್ ಎಂದರೆ ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಯ ಸಂಕೇತ. ಅಗ್ನಿ ಆಂತರಿಕ ಪರಿವರ್ತನೆಯ ಬೆಂಕಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಅಶ್ವಿನಿ ದೇವತೆಗಳು ಚಿಕಿತ್ಸೆ ಮತ್ತು ಪ್ರಮುಖ ಶಕ್ತಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾರೆ. ದಧಿಕ್ರಾ ಮನಸ್ಸಿನ ವೇಗ ಮತ್ತು ಬಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ದೇವತೆಗಳನ್ನು ಬೆಳಿಗ್ಗೆ ಆಹ್ವಾನಿಸುವುದು ಆಧ್ಯಾತ್ಮಿಕ ತ್ಯಾಗವನ್ನು ಮಾಡಲು ಆಂತರಿಕ ಪ್ರಕಾಶ, ಆರೋಗ್ಯ ಮತ್ತು ಮಾನಸಿಕ ತೀಕ್ಷ್ಣತೆಗಾಗಿ ಕರೆ ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S20_62-2_5",
+      "mandala": 3,
+      "sukta": 20,
+      "ric_index": 2,
+      "rig_lines": [
+        "अग्ने॒ त्री ते॒ वाजि॑ना॒ त्री ष॒धस्था᳚ ति॒स्रस्ते᳚ जि॒ह्वा, ऋ॑तजात पू॒र्वीः |",
+        "ति॒स्र उ॑ ते त॒न्वो᳚ दे॒ववा᳚ता॒स्ताभि᳚र्नः पाहि॒ गिरो॒, अप्र॑युच्छन् ||"
+      ],
+      "pre_splits": [
+        "अग्ने᳚",
+        "त्री",
+        "ते॒",
+        "वाजि॑ना",
+        "त्री",
+        "स॒धऽस्था᳚",
+        "ति॒स्रः",
+        "ते॒",
+        "जि॒ह्वाः",
+        "ऋ॒त॒ऽजा॒त॒",
+        "पू॒र्वीः",
+        "ति॒स्रः",
+        "ऊँ॒ इति॑",
+        "ते॒",
+        "त॒न्वः॑",
+        "दे॒वऽवा᳚ताः",
+        "ताभिः॑",
+        "नः॒",
+        "पा॒हि॒",
+        "गिरः॑",
+        "अप्र॑ऽयुच्छन्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अग्ने᳚",
+          "pada_kn": "ಅಗ್ನೇ",
+          "meaning_en": "O Agni!",
+          "meaning_kn": "ಓ ಅಗ್ನಿಯೇ!"
+        },
+        {
+          "pada_original": "त्री",
+          "pada_kn": "ತ್ರೀ",
+          "meaning_en": "three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "वाजि॑ना",
+          "pada_kn": "ವಾಜಿನಾ",
+          "meaning_en": "swift / powerful (forms)",
+          "meaning_kn": "ವೇಗವಾದ / ಶಕ್ತಿಶಾಲಿ (ರೂಪಗಳು)"
+        },
+        {
+          "pada_original": "त्री",
+          "pada_kn": "ತ್ರೀ",
+          "meaning_en": "three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "स॒धऽस्था᳚",
+          "pada_kn": "ಸಧಸ್ಥಾ",
+          "meaning_en": "dwelling places / abodes",
+          "meaning_kn": "ನೆಲೆಗಳು / ವಾಸಸ್ಥಾನಗಳು"
+        },
+        {
+          "pada_original": "ति॒स्रः",
+          "pada_kn": "ತಿಸ್ರಃ",
+          "meaning_en": "three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "जि॒ह्वाः",
+          "pada_kn": "ಜಿಹ್ವಾಃ",
+          "meaning_en": "tongues",
+          "meaning_kn": "ನಾಲಿಗೆಗಳು"
+        },
+        {
+          "pada_original": "ऋ॒त॒ऽजा॒त॒",
+          "pada_kn": "ಋತಜಾತ",
+          "meaning_en": "O born of truth/cosmic order",
+          "meaning_kn": "ಓ ಸತ್ಯದಿಂದ/ಋತದಿಂದ ಜನಿಸಿದವನೇ"
+        },
+        {
+          "pada_original": "पू॒र्वीः",
+          "pada_kn": "ಪೂರ್ವೀಃ",
+          "meaning_en": "ancient / abundant",
+          "meaning_kn": "ಪ್ರಾಚೀನ / ಸಮೃದ್ಧ"
+        },
+        {
+          "pada_original": "ति॒स्रः",
+          "pada_kn": "ತಿಸ್ರಃ",
+          "meaning_en": "three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "and / indeed",
+          "meaning_kn": "ಮತ್ತು / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "त॒न्वः॑",
+          "pada_kn": "ತನ್ವಃ",
+          "meaning_en": "bodies / forms",
+          "meaning_kn": "ದೇಹಗಳು / ರೂಪಗಳು"
+        },
+        {
+          "pada_original": "दे॒वऽवा᳚ताः",
+          "pada_kn": "ದೇವವಾತಾಃ",
+          "meaning_en": "desired by gods / god-given",
+          "meaning_kn": "ದೇವತೆಗಳಿಂದ ಅಪೇಕ್ಷಿತ / ದೇವದತ್ತ"
+        },
+        {
+          "pada_original": "ताभिः॑",
+          "pada_kn": "ತಾಭಿಃ",
+          "meaning_en": "with them",
+          "meaning_kn": "ಅವುಗಳಿಂದ / ಅವುಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us / our",
+          "meaning_kn": "ನಮ್ಮನ್ನು / ನಮ್ಮ"
+        },
+        {
+          "pada_original": "पा॒हि॒",
+          "pada_kn": "ಪಾಹಿ",
+          "meaning_en": "protect",
+          "meaning_kn": "ರಕ್ಷಿಸು"
+        },
+        {
+          "pada_original": "गिरः॑",
+          "pada_kn": "ಗಿರಃ",
+          "meaning_en": "praises / hymns",
+          "meaning_kn": "ಸ್ತುತಿಗಳನ್ನು / ಸ್ತೋತ್ರಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अप्र॑ऽयुच्छन्",
+          "pada_kn": "ಅಪ್ರಯುಚ್ಛನ್",
+          "meaning_en": "without negligence / unwearied",
+          "meaning_kn": "ಅಜಾಗರೂಕತೆಯಿಲ್ಲದೆ / ದಣಿಯದೆ"
+        }
+      ],
+      "full_meaning_en": "O Agni, you have three swift steeds, three places of rest, and three tongues, O truth-born, ancient and abundant. You have three bodies desired by the gods. With them, protect our hymns and praises, never ceasing.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ನಿನಗೆ ಮೂರು ವೇಗದ ಕುದುರೆಗಳಿವೆ, ಮೂರು ವಿಶ್ರಾಂತಿ ಸ್ಥಳಗಳಿವೆ ಮತ್ತು ಮೂರು ನಾಲಿಗೆಗಳಿವೆ. ಓ ಸತ್ಯದಿಂದ ಹುಟ್ಟಿದವನೇ, ಪ್ರಾಚೀನ ಮತ್ತು ಸಮೃದ್ಧನಾದವನೇ, ದೇವತೆಗಳು ಬಯಸುವ ಮೂರು ದೇಹಗಳು ನಿನಗಿವೆ. ಅವುಗಳಿಂದ ನಮ್ಮ ಸ್ತೋತ್ರಗಳನ್ನು ಮತ್ತು ಹೊಗಳಿಕೆಗಳನ್ನು ರಕ್ಷಿಸು, ಎಂದಿಗೂ ನಿಲ್ಲಿಸಬೇಡ.",
+      "rig_time_s": 14.176,
+      "Insight_en": "The threefold nature of अग्नि represents the manifestation of consciousness across different planes: physical, mental, and spiritual. The three tongues symbolize अग्नि’s ability to consume and transform offerings, leading to purification and enlightenment. These forms, craved by the gods (devatas), underscore the interdependence between human devotion and divine grace, emphasizing that sustained effort in maintaining the sacred fire of awareness is crucial for continuous spiritual growth.",
+      "Insight_kn": "ಅಗ್ನಿಯ ತ್ರಿವಿಧ ಸ್ವರೂಪವು ಭೌತಿಕ, ಮಾನಸಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ವಿಭಿನ್ನ ಹಂತಗಳಲ್ಲಿ ಪ್ರಜ್ಞೆಯ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಮೂರು ನಾಲಿಗೆಗಳು ಅಗ್ನಿಯು ಅರ್ಪಣೆಗಳನ್ನು ಭಕ್ಷಿಸಿ ಪರಿವರ್ತಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ, ಇದು ಶುದ್ಧೀಕರಣ ಮತ್ತು ಜ್ಞಾನೋದಯಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ದೇವತೆಗಳು ಬಯಸುವ ಈ ರೂಪಗಳು, ಮಾನವ ಭಕ್ತಿ ಮತ್ತು ದೈವಿಕ ಅನುಗ್ರಹದ ನಡುವಿನ ಪರಸ್ಪರ ಅವಲಂಬನೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತವೆ, ಜಾಗರೂಕತೆಯ ಪವಿತ್ರ ಅಗ್ನಿಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ನಿರಂತರ ಪ್ರಯತ್ನವು ನಿರಂತರ ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ನಿರ್ಣಾಯಕವಾಗಿದೆ ಎಂದು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S20_62-3_5",
+      "mandala": 3,
+      "sukta": 20,
+      "ric_index": 3,
+      "rig_lines": [
+        "अग्ने॒ भूरी᳚णि॒ तव॑ जातवेदो॒ देव॑ स्वधावो॒ऽमृत॑स्य॒ नाम॑ |",
+        "याश्च॑ मा॒या मा॒यिनां᳚ विश्वमिन्व॒ त्वे पू॒र्वीः सं᳚द॒धुः पृ॑ष्टबन्धो ||"
+      ],
+      "pre_splits": [
+        "अग्ने᳚",
+        "भूरी᳚णि",
+        "तव॑",
+        "जा॒त॒ऽवे॒दः॒",
+        "देव॑",
+        "स्व॒धा॒ऽवः॒",
+        "अ॒मृत॑स्य",
+        "नाम॑",
+        "याः",
+        "च॒",
+        "मा॒याः",
+        "मा॒यिना᳚‌म्",
+        "वि॒श्व॒‌म्ऽ‌इ॒न्व॒",
+        "त्वे इति॑",
+        "पू॒र्वीः",
+        "स॒‌म्ऽद॒धुः",
+        "पृ॒ष्ट॒ब॒न्धो॒ इति॑ पृष्टऽबन्धो"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अग्ने᳚",
+          "pada_kn": "ಅಗ್ನೇ",
+          "meaning_en": "O Agni",
+          "meaning_kn": "ಓ ಅಗ್ನಿ"
+        },
+        {
+          "pada_original": "भूरी᳚णि",
+          "pada_kn": "ಭೂರೀಣಿ",
+          "meaning_en": "many / abundant",
+          "meaning_kn": "ಅನೇಕ / ಬಹಳಷ್ಟು"
+        },
+        {
+          "pada_original": "तव॑",
+          "pada_kn": "ತವ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "जा॒त॒ऽवे॒दः॒",
+          "pada_kn": "ಜಾತವೇದಃ",
+          "meaning_en": "O Jātavedas (knower of all born things)",
+          "meaning_kn": "ಓ ಜಾತವೇದ (ಹುಟ್ಟಿದ ಎಲ್ಲವನ್ನೂ ಬಲ್ಲವನೇ)"
+        },
+        {
+          "pada_original": "देव॑",
+          "pada_kn": "ದೇವ",
+          "meaning_en": "O God / divine one",
+          "meaning_kn": "ಓ ದೇವ / ದೈವಿಕನೇ"
+        },
+        {
+          "pada_original": "स्व॒धा॒ऽवः॒",
+          "pada_kn": "ಸ್ವಧಾವಃ",
+          "meaning_en": "O self-sustaining one / O possessor of inherent power",
+          "meaning_kn": "ಓ ಸ್ವಯಂ-ಪೋಷಕನೇ / ಸಹಜ ಶಕ್ತಿಯುಳ್ಳವನೇ"
+        },
+        {
+          "pada_original": "अ॒मृत॑स्य",
+          "pada_kn": "ಅಮೃತಸ್ಯ",
+          "meaning_en": "of immortality / of the immortal",
+          "meaning_kn": "ಅಮರತ್ವದ / ಅಮರನ"
+        },
+        {
+          "pada_original": "नाम॑",
+          "pada_kn": "ನಾಮ",
+          "meaning_en": "names / forms",
+          "meaning_kn": "ಹೆಸರುಗಳು / ರೂಪಗಳು"
+        },
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "which",
+          "meaning_kn": "ಯಾವ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "मा॒याः",
+          "pada_kn": "ಮಾಯಾಃ",
+          "meaning_en": "creative powers / wondrous deeds",
+          "meaning_kn": "ಸೃಜನಾತ್ಮಕ ಶಕ್ತಿಗಳು / ಅದ್ಭುತ ಕಾರ್ಯಗಳು"
+        },
+        {
+          "pada_original": "मा॒यिना᳚‌म्",
+          "pada_kn": "ಮಾಯಿನಾಮ್",
+          "meaning_en": "of the wise / of the creative ones",
+          "meaning_kn": "ಜ್ಞಾನಿಗಳ / ಸೃಷ್ಟಿಕರ್ತರ"
+        },
+        {
+          "pada_original": "वि॒श्व॒‌म्ऽ‌इ॒न्व॒",
+          "pada_kn": "ವಿಶ್ವಮಿನ್ವ",
+          "meaning_en": "O impeller of all / O pervader of all",
+          "meaning_kn": "ಓ ಎಲ್ಲವನ್ನೂ ಪ್ರೇರೇಪಿಸುವವನೇ / ಎಲ್ಲವನ್ನೂ ವ್ಯಾಪಿಸುವವನೇ"
+        },
+        {
+          "pada_original": "त्वे इति॑",
+          "pada_kn": "ತ್ವೇ ಇತಿ",
+          "meaning_en": "in you",
+          "meaning_kn": "ನಿನ್ನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "पू॒र्वीः",
+          "pada_kn": "ಪೂರ್ವೀಃ",
+          "meaning_en": "ancient / many",
+          "meaning_kn": "ಪ್ರಾಚೀನ / ಅನೇಕ"
+        },
+        {
+          "pada_original": "स॒‌म्ऽद॒धुः",
+          "pada_kn": "ಸಂದಧುಃ",
+          "meaning_en": "they placed / they established",
+          "meaning_kn": "ಅವರು ಇರಿಸಿದರು / ಅವರು ಸ್ಥಾಪಿಸಿದರು"
+        },
+        {
+          "pada_original": "पृ॒ष्ट॒ब॒न्धो॒ इति॑ पृष्टऽबन्धो",
+          "pada_kn": "ಪೃಷ್ಟಬಂಧೋ ಇತಿ ಪೃಷ್ಟಬಂಧೋ",
+          "meaning_en": "O supporter / O foundation",
+          "meaning_kn": "ಓ ಆಧಾರ / ಓ ಬೆಂಬಲಿಸುವವನೇ"
+        }
+      ],
+      "full_meaning_en": "O Agni, possessor of manifold brilliance, O Jātavedas, divine and self-sustaining one, immortal is your essence and manifold are your names. O pervader of the universe, O foundation of all, within you the ancient seers have established their diverse and primordial creative energies.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ಹೇರಳ ತೇಜಸ್ಸುಳ್ಳವನೇ, ಓ ಜಾತವೇದ, ದೈವೀ ಮತ್ತು ಸ್ವಯಂ-ನಿರಂತರನಾದವನೇ, ಅಮರತ್ವವು ನಿನ್ನ ಸಾರ ಮತ್ತು ನಿನ್ನ ಹೆಸರುಗಳು ಹಲವು. ಓ ವಿಶ್ವವ್ಯಾಪಕನೇ, ಓ ಎಲ್ಲದರ ಅಡಿಪಾಯವೇ, ನಿನ್ನಲ್ಲಿ ಪುರಾತನ ಋಷಿಗಳು ತಮ್ಮ ವಿವಿಧ ಮತ್ತು ಆದಿಸ್ವರೂಪದ ಸೃಜನಶೀಲ ಶಕ್ತಿಯನ್ನು ಸ್ಥಾಪಿಸಿದ್ದಾರೆ.",
+      "rig_time_s": 31.171,
+      "Insight_en": "The manifold names of अग्नि (Agni) represent the diverse manifestations of the divine within the individual. The ancient creative energies (माया) symbolize the potential for spiritual transformation residing within. Surrendering to the inner अग्नि allows one to integrate these powers, establishing a firm foundation (पृष्टबन्धो) for spiritual growth and liberation.",
+      "Insight_kn": "ಅಗ್ನಿಯ ಬಹುರೂಪಿ ಹೆಸರುಗಳು ವ್ಯಕ್ತಿಯೊಳಗಿನ ದೈವಿಕತೆಯ ವಿವಿಧ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಪ್ರಾಚೀನ ಸೃಜನಶೀಲ ಶಕ್ತಿಗಳು (ಮಾಯಾ) ಒಳಗಿರುವ ಆಧ್ಯಾತ್ಮಿಕ ರೂಪಾಂತರದ ಸಾಮರ್ಥ್ಯವನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಆಂತರಿಕ ಅಗ್ನಿಗೆ ಶರಣಾಗುವುದರಿಂದ ಈ ಶಕ್ತಿಗಳನ್ನು ಸಂಯೋಜಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ, ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ವಿಮೋಚನೆಗೆ ದೃಢವಾದ ಅಡಿಪಾಯವನ್ನು (ಪೃಷ್ಠಬಂಧೋ) ಸ್ಥಾಪಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S20_62-4_5",
+      "mandala": 3,
+      "sukta": 20,
+      "ric_index": 4,
+      "rig_lines": [
+        "अ॒ग्निर्ने॒ता भग॑ इव क्षिती॒नां दैवी᳚नां दे॒व ऋ॑तु॒पा, ऋ॒तावा᳚ |",
+        "स वृ॑त्र॒हा स॒नयो᳚ वि॒श्ववे᳚दाः॒ पर्ष॒द्‌ विश्वाति॑ दुरि॒ता गृ॒णन्त᳚म् ||"
+      ],
+      "pre_splits": [
+        "अ॒ग्निः",
+        "ने॒ता",
+        "भगः॑ऽ‌इव",
+        "क्षि॒ती॒ना‌म्",
+        "दैवी᳚ना‌म्",
+        "दे॒वः",
+        "ऋ॒तु॒ऽपाः",
+        "ऋ॒तऽवा᳚",
+        "सः",
+        "वृ॒त्र॒ऽहा",
+        "स॒नयः॑",
+        "वि॒श्वऽवे᳚दाः",
+        "पर्ष॑त्",
+        "विश्वा᳚",
+        "अति॑",
+        "दुः॒ऽ‌इ॒ता",
+        "गृ॒णन्त᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ / ಅಗ್ನಿದೇವ"
+        },
+        {
+          "pada_original": "ने॒ता",
+          "pada_kn": "ನೇತಾ",
+          "meaning_en": "Leader / Guide",
+          "meaning_kn": "ನಾಯಕ / ಮಾರ್ಗದರ್ಶಕ"
+        },
+        {
+          "pada_original": "भगः॑ऽ‌इव",
+          "pada_kn": "ಭಗಃऽಇವ",
+          "meaning_en": "Like Bhaga (the dispenser of fortune)",
+          "meaning_kn": "ಭಗನಂತೆ (ಭಾಗ್ಯವನ್ನು ನೀಡುವವನಂತೆ)"
+        },
+        {
+          "pada_original": "क्षि॒ती॒ना‌म्",
+          "pada_kn": "ಕ್ಷಿತೀನಾಮ್",
+          "meaning_en": "Of settlements / Of people",
+          "meaning_kn": "ನಿವಾಸಿಗಳ / ಜನರ"
+        },
+        {
+          "pada_original": "दैवी᳚ना‌म्",
+          "pada_kn": "ದೈವೀನಾಮ್",
+          "meaning_en": "Divine / Of divine beings",
+          "meaning_kn": "ದೈವಿಕ / ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "God",
+          "meaning_kn": "ದೇವ"
+        },
+        {
+          "pada_original": "ऋ॒तु॒ऽपाः",
+          "pada_kn": "ಋತುऽಪಾಃ",
+          "meaning_en": "Protector of seasons / Protector of sacrifices",
+          "meaning_kn": "ಋತುಗಳ ರಕ್ಷಕ / ಯಜ್ಞಗಳ ರಕ್ಷಕ"
+        },
+        {
+          "pada_original": "ऋ॒तऽवा᳚",
+          "pada_kn": "ಋತऽವಾ",
+          "meaning_en": "Upholder of cosmic law / Possessor of truth",
+          "meaning_kn": "ಋತದ ಪಾಲಕ / ಸತ್ಯವಂತ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "वृ॒त्र॒ऽहा",
+          "pada_kn": "ವೃತ್ರऽಹಾ",
+          "meaning_en": "Slayer of Vritra (the obstructer)",
+          "meaning_kn": "ವೃತ್ರನನ್ನು ಸಂಹರಿಸುವವನು"
+        },
+        {
+          "pada_original": "स॒नयः॑",
+          "pada_kn": "ಸನಯಃ",
+          "meaning_en": "Ancient / Eternal",
+          "meaning_kn": "ಪುರಾತನ / ಶಾಶ್ವತ"
+        },
+        {
+          "pada_original": "वि॒श्वऽवे᳚दाः",
+          "pada_kn": "ವಿಶ್ವऽವೇದಾಃ",
+          "meaning_en": "All-knowing / Possessor of all wealth",
+          "meaning_kn": "ಸರ್ವಜ್ಞ / ಸಕಲ ಸಂಪತ್ತಿನ ಒಡೆಯ"
+        },
+        {
+          "pada_original": "पर्ष॑त्",
+          "pada_kn": "ಪರ್ಷತ್",
+          "meaning_en": "May he carry across / May he deliver",
+          "meaning_kn": "ದಾಟಿಸಲಿ / ಪಾರುಮಾಡಲಿ"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "All",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "अति॑",
+          "pada_kn": "ಅತಿ",
+          "meaning_en": "Beyond / Over",
+          "meaning_kn": "ಮೀರಿ / ದಾಟಿ"
+        },
+        {
+          "pada_original": "दुः॒ऽ‌इ॒ता",
+          "pada_kn": "ದುಃऽಇತಾ",
+          "meaning_en": "Evils / Difficulties / Sins",
+          "meaning_kn": "ದುರಿತಗಳು / ಕಷ್ಟಗಳು / ಪಾಪಗಳು"
+        },
+        {
+          "pada_original": "गृ॒णन्त᳚‌म्",
+          "pada_kn": "ಗೃಣನ್ತಮ್",
+          "meaning_en": "The praiser / The one who invokes",
+          "meaning_kn": "ಸ್ತುತಿಸುವವನನ್ನು / ಆಹ್ವಾನಿಸುವವನನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Agni, the leader, like Bhaga among the abodes of the gods, divine and the protector of seasons, the establisher of cosmic order! He is the slayer of Vritra from ancient times, all-knowing. May he carry beyond all difficulties the one who sings his praise.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ನಾಯಕನೇ, ದೇವತೆಗಳ ನಿವಾಸಗಳಲ್ಲಿ ಭಗನಂತೆ, ದೈವೀ ಮತ್ತು ಋತುಗಳ ರಕ್ಷಕನೇ, ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಸ್ಥಾಪಿಸುವವನೇ! ಅವನು ಪ್ರಾಚೀನ ಕಾಲದಿಂದಲೂ ವೃತ್ರನನ್ನು ಕೊಂದವನು, ಎಲ್ಲವನ್ನೂ ತಿಳಿದವನು. ಅವನ ಸ್ತುತಿಯನ್ನು ಹಾಡುವವನನ್ನು ಎಲ್ಲಾ ತೊಂದರೆಗಳಿಂದಲೂ ದಾಟಿಸಲಿ.",
+      "rig_time_s": 45.835,
+      "Insight_en": "The mantra reveals अग्नि as the leader (नेता), much like भग among divine settlements, signifying both leadership and auspiciousness. अग्नि's role as ऋतुपा, the protector of seasons, highlights the cyclical nature of cosmic order (ऋत). The slaying of वृत्र from ancient times suggests overcoming inner obstacles.  Ultimately, sincere praise (गृणन्तम्) ensures safe passage beyond all difficulties, emphasizing devotion's transformative power.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯನ್ನು ನಾಯಕ (ನೇತಾ) ಎಂದು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ, ದೈವಿಕ ವಸಾಹತುಗಳಲ್ಲಿ ಭಗನಂತೆ, ನಾಯಕತ್ವ ಮತ್ತು ಮಂಗಳಕರತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಗ್ನಿಯ ಪಾತ್ರ ಋತುಪಾ, ಋತುಗಳ ರಕ್ಷಕ, ಕಾಸ್ಮಿಕ್ ಕ್ರಮದ ಆವರ್ತಕ ಸ್ವರೂಪವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ (ಋತ). ಪ್ರಾಚೀನ ಕಾಲದಿಂದಲೂ ವೃತ್ರನನ್ನು ಕೊಂದದ್ದು ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಪ್ರಾಮಾಣಿಕ ಸ್ತುತಿ (ಗೃಣಂತಮ್) ಎಲ್ಲಾ ತೊಂದರೆಗಳನ್ನು ಮೀರಿ ಸುರಕ್ಷಿತ ಮಾರ್ಗವನ್ನು ಖಾತ್ರಿಗೊಳಿಸುತ್ತದೆ, ಭಕ್ತಿಯ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S20_62-5_5",
+      "mandala": 3,
+      "sukta": 20,
+      "ric_index": 5,
+      "rig_lines": [
+        "द॒धि॒क्राम॒ग्निमु॒षसं᳚ च दे॒वीं बृह॒स्पतिं᳚ सवि॒तारं᳚ च दे॒वम् |",
+        "अ॒श्विना᳚ मि॒त्रावरु॑णा॒ भगं᳚ च॒ वसू᳚न्‌ रु॒द्राँ, आ᳚दि॒त्याँ, इ॒ह हु॑वे ||"
+      ],
+      "pre_splits": [
+        "द॒धि॒ऽक्रा‌म्",
+        "अ॒ग्नि‌म्",
+        "उ॒षस᳚‌म्",
+        "च॒",
+        "दे॒वी‌म्",
+        "बृह॒स्पति᳚‌म्",
+        "स॒वि॒तार᳚‌म्",
+        "च॒",
+        "दे॒व‌म्",
+        "अ॒श्विना᳚",
+        "मि॒त्रावरु॑णा",
+        "भग᳚‌म्",
+        "च॒",
+        "वसू᳚न्",
+        "रु॒द्रा᳚न्",
+        "आ॒दि॒त्यान्",
+        "इ॒ह",
+        "हु॒वे॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "द॒धि॒ऽक्रा‌म्",
+          "pada_kn": "ದಧಿಕ್ರಾಮ್",
+          "meaning_en": "Dadikra (a divine horse/deity)",
+          "meaning_kn": "ದಧಿಕ್ರಾ (ಒಂದು ದಿವ್ಯ ಅಶ್ವ/ದೇವತೆ)"
+        },
+        {
+          "pada_original": "अ॒ग्नि‌म्",
+          "pada_kn": "ಅಗ್ನಿಮ್",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ (ಅಗ್ನಿದೇವ)"
+        },
+        {
+          "pada_original": "उ॒षस᳚‌म्",
+          "pada_kn": "ಉಷಸಮ್",
+          "meaning_en": "Ushas (the dawn goddess)",
+          "meaning_kn": "ಉಷಸ್ (ಉಷಾದೇವಿ)"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "दे॒वी‌म्",
+          "pada_kn": "ದೇವೀಮ್",
+          "meaning_en": "divine (goddess)",
+          "meaning_kn": "ದಿವ್ಯಳಾದ (ದೇವಿಯನ್ನು)"
+        },
+        {
+          "pada_original": "बृह॒स्पति᳚‌म्",
+          "pada_kn": "ಬೃಹಸ್ಪತಿಮ್",
+          "meaning_en": "Brihaspati (lord of prayer/divine priest)",
+          "meaning_kn": "ಬೃಹಸ್ಪತಿ (ಪ್ರಾರ್ಥನೆಗಳ ಅಧಿಪತಿ/ದೇವಗುರು)"
+        },
+        {
+          "pada_original": "स॒वि॒तार᳚‌म्",
+          "pada_kn": "ಸವಿತಾರಮ್",
+          "meaning_en": "Savitr (the stimulator/sun god)",
+          "meaning_kn": "ಸವಿತೃ (ಪ್ರೇರಕ/ಸೂರ್ಯದೇವ)"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "दे॒व‌म्",
+          "pada_kn": "ದೇವಮ್",
+          "meaning_en": "god",
+          "meaning_kn": "ದೇವನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒श्विना᳚",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "the Ashvins (twin divine physicians)",
+          "meaning_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು (ಇಬ್ಬರು ದಿವ್ಯ ವೈದ್ಯರು)"
+        },
+        {
+          "pada_original": "मि॒त्रावरु॑णा",
+          "pada_kn": "ಮಿತ್ರಾವರುಣಾ",
+          "meaning_en": "Mitra and Varuna",
+          "meaning_kn": "ಮಿತ್ರ ಮತ್ತು ವರುಣ"
+        },
+        {
+          "pada_original": "भग᳚‌म्",
+          "pada_kn": "ಭಗಮ್",
+          "meaning_en": "Bhaga (dispenser of fortune)",
+          "meaning_kn": "ಭಗ (ಸಂಪತ್ತು/ಭಾಗ್ಯದಾತ)"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "वसू᳚न्",
+          "pada_kn": "ವಸೂನ್",
+          "meaning_en": "the Vasus (a class of deities)",
+          "meaning_kn": "ವಸುಗಳು (ಒಂದು ದೇವಗಣ)"
+        },
+        {
+          "pada_original": "रु॒द्रा᳚न्",
+          "pada_kn": "ರುದ್ರಾನ್",
+          "meaning_en": "the Rudras (a class of deities)",
+          "meaning_kn": "ರುದ್ರರು (ಒಂದು ದೇವಗಣ)"
+        },
+        {
+          "pada_original": "आ॒दि॒त्यान्",
+          "pada_kn": "ಆದಿತ್ಯಾನ್",
+          "meaning_en": "the Adityas (a class of deities)",
+          "meaning_kn": "ಆದಿತ್ಯರು (ಒಂದು ದೇವಗಣ)"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here (in this sacrifice)",
+          "meaning_kn": "ಇಲ್ಲಿ (ಈ ಯಜ್ಞದಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "हु॒वे॒",
+          "pada_kn": "ಹುವೇ",
+          "meaning_en": "I invoke / I call",
+          "meaning_kn": "ನಾನು ಆಹ್ವಾನಿಸುತ್ತೇನೆ / ಕರೆಯುತ್ತೇನೆ"
+        }
+      ],
+      "full_meaning_en": "I invoke here Dadikra, Agni, and the divine Ushas; Brihaspati and the divine Savitr; the Ashvins, Mitra and Varuna, and Bhaga; the Vasus, the Rudras, and the Adityas.",
+      "full_meaning_kn": "ದಧಿಕ್ರಾ, ಅಗ್ನಿ ಮತ್ತು ದೇವಿಯಾದ ಉಷಸ್, ಬೃಹಸ್ಪತಿ ಮತ್ತು ದೈವಿಕ ಸವಿತೃ, ಅಶ್ವಿನಿಗಳು, ಮಿತ್ರ ಮತ್ತು ವರುಣ, ಮತ್ತು ಭಗ, ವಸುಗಳು, ರುದ್ರರು ಮತ್ತು ಆದಿತ್ಯರನ್ನು ನಾನು ಇಲ್ಲಿ ಆಹ್ವಾನಿಸುತ್ತೇನೆ.",
+      "rig_time_s": 61.349,
+      "Insight_en": "The invocation of various deities represents the comprehensive integration of divine energies within oneself. Dadikra symbolizes swiftness of action, Agni represents transformative power, Ushas embodies the dawn of consciousness, Brihaspati signifies wisdom, Savitr inspires creativity, the Ashvins represent healing, Mitra and Varuna embody cosmic order, Bhaga signifies prosperity, the Vasus represent elemental forces, the Rudras symbolize dynamic energy, and the Adityas represent the solar principles. Through invoking these deities, one aims to harmonize these forces within their inner landscape, fostering holistic spiritual growth and realization.",
+      "Insight_kn": "ವಿವಿಧ ದೇವತೆಗಳ ಆಹ್ವಾನವು ಒಬ್ಬರೊಳಗೆ ದೈವಿಕ ಶಕ್ತಿಗಳ ಸಮಗ್ರ ಏಕೀಕರಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ದಧಿಕ್ರಾ ಕ್ರಿಯೆಯ ವೇಗವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಅಗ್ನಿ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಉಷಸ್ ಪ್ರಜ್ಞೆಯ ಉದಯವನ್ನು ಮೂರ್ತೀಕರಿಸುತ್ತದೆ, ಬೃಹಸ್ಪತಿ ಜ್ಞಾನವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಸವಿತೃ ಸೃಜನಶೀಲತೆಯನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತಾನೆ, ಅಶ್ವಿನಿಗಳು ಗುಣಪಡಿಸುವಿಕೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಮಿತ್ರ ಮತ್ತು ವರುಣರು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಭಗ ಸಮೃದ್ಧಿಯನ್ನು ಸೂಚಿಸುತ್ತಾನೆ, ವಸುಗಳು ಮೂಲಭೂತ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ರುದ್ರರು ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ ಮತ್ತು ಆದಿತ್ಯರು ಸೌರ ತತ್ವಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಈ ದೇವತೆಗಳನ್ನು ಆಹ್ವಾನಿಸುವ ಮೂಲಕ, ಒಬ್ಬರು ತಮ್ಮ ಆಂತರಿಕ ಭೂದೃಶ್ಯದಲ್ಲಿ ಈ ಶಕ್ತಿಗಳನ್ನು ಸಾಮರಸ್ಯಗೊಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದ್ದಾರೆ, ಸಮಗ್ರ ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ಸಾಕ್ಷಾತ್ಕಾರವನ್ನು ಬೆಳೆಸುತ್ತಾರೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

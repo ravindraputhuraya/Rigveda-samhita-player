@@ -1,0 +1,1203 @@
+{
+  "mandala": 5,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M5-S75_87-1_9",
+      "mandala": 5,
+      "sukta": 75,
+      "ric_index": 1,
+      "rig_lines": [
+        "प्रति॑ प्रि॒यत॑मं॒ रथं॒ वृष॑णं वसु॒वाह॑नम् |",
+        "स्तो॒ता वा᳚मश्विना॒वृषिः॒ स्तोमे᳚न॒ प्रति॑ भूषति॒ माध्वी॒ मम॑ श्रुतं॒ हव᳚म् ||"
+      ],
+      "pre_splits": [
+        "प्रति॑",
+        "प्रि॒यऽत॑म‌म्",
+        "रथ᳚‌म्",
+        "वृष॑ण‌म्",
+        "व॒सु॒ऽवाह॑न‌म्",
+        "स्तो॒ता",
+        "वा॒‌म्",
+        "अ॒श्वि॒नौ॒",
+        "ऋषिः॑",
+        "स्तोमे᳚न",
+        "प्रति॑",
+        "भू॒ष॒ति॒",
+        "माध्वी॒ इति॑",
+        "मम॑",
+        "श्रुत᳚‌म्",
+        "हव᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / in return",
+          "meaning_kn": "ಕಡೆಗೆ/ಪ್ರತಿಯಾಗಿ"
+        },
+        {
+          "pada_original": "प्रि॒यऽत॑म‌म्",
+          "pada_kn": "ಪ್ರಿಯತಮಮ್",
+          "meaning_en": "most beloved",
+          "meaning_kn": "ಅತ್ಯಂತ ಪ್ರಿಯವಾದ"
+        },
+        {
+          "pada_original": "रथ᳚‌म्",
+          "pada_kn": "ರಥಮ್",
+          "meaning_en": "chariot",
+          "meaning_kn": "ರಥವನ್ನು"
+        },
+        {
+          "pada_original": "वृष॑ण‌म्",
+          "pada_kn": "ವೃಷಣಮ್",
+          "meaning_en": "potent / strong",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿ/ವೃಷ್ಟಿಕಾರಕ"
+        },
+        {
+          "pada_original": "व॒सु॒ऽवाह॑न‌म्",
+          "pada_kn": "ವಸುವಾಹನಮ್",
+          "meaning_en": "wealth-bearing",
+          "meaning_kn": "ಸಂಪತ್ತನ್ನು ಹೊತ್ತು ತರುವ"
+        },
+        {
+          "pada_original": "स्तो॒ता",
+          "pada_kn": "ಸ್ತೋತಾ",
+          "meaning_en": "the praiser",
+          "meaning_kn": "ಸ್ತೋತ್ರ ಮಾಡುವವನು"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "of you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರ"
+        },
+        {
+          "pada_original": "अ॒श्वि॒नौ॒",
+          "pada_kn": "ಅಶ್ವಿನೌ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನೀ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "ऋषिः॑",
+          "pada_kn": "ಋಷಿಃ",
+          "meaning_en": "the seer",
+          "meaning_kn": "ಋಷಿಯು"
+        },
+        {
+          "pada_original": "स्तोमे᳚न",
+          "pada_kn": "ಸ್ತೋಮೇನ",
+          "meaning_en": "with praise",
+          "meaning_kn": "ಸ್ತೋತ್ರದಿಂದ"
+        },
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / in return",
+          "meaning_kn": "ಕಡೆಗೆ/ಪ್ರತಿಯಾಗಿ"
+        },
+        {
+          "pada_original": "भू॒ष॒ति॒",
+          "pada_kn": "ಭೂಷತಿ",
+          "meaning_en": "adorns / praises",
+          "meaning_kn": "ಅಲಂಕರಿಸುತ್ತಾನೆ/ಸ್ತುತಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "माध्वी॒ इति॑",
+          "pada_kn": "ಮಾಧ್ವೀ ಇತಿ",
+          "meaning_en": "O Madhvi (honey-sweet ones)",
+          "meaning_kn": "ಓ ಮಧುರವಾದ ಅಶ್ವಿನೀ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "मम॑",
+          "pada_kn": "ಮಮ",
+          "meaning_en": "my",
+          "meaning_kn": "ನನ್ನ"
+        },
+        {
+          "pada_original": "श्रुत᳚‌म्",
+          "pada_kn": "ಶ್ರುತಮ್",
+          "meaning_en": "hear",
+          "meaning_kn": "ಕೇಳಿರಿ"
+        },
+        {
+          "pada_original": "हव᳚‌म्",
+          "pada_kn": "ಹವಮ್",
+          "meaning_en": "call / invocation",
+          "meaning_kn": "ಆಹ್ವಾನವನ್ನು/ಕರೆಯನ್ನು"
+        }
+      ],
+      "full_meaning_en": "The worshipper, the seer, adorns your most beloved, mighty, wealth-bearing chariot with hymns. O honey-sweet Ashvins, listen to my invocation!",
+      "full_meaning_kn": "ಸ್ತುತಿಸುವವನು, ದಾರ್ಶನಿಕನು, ನಿಮ್ಮ ಅತಿ ಪ್ರಿಯವಾದ, ಶಕ್ತಿಯುತವಾದ, ಸಂಪತ್ತನ್ನು ಹೊರುವ ರಥವನ್ನು ಸ್ತೋತ್ರಗಳಿಂದ ಅಲಂಕರಿಸುತ್ತಾನೆ. ಓ ಮಧುರವಾದ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ನನ್ನ ಪ್ರಾರ್ಥನೆಯನ್ನು ಆಲಿಸಿರಿ!",
+      "rig_time_s": 0.0,
+      "Insight_en": "The chariot represents the body, and the Ashvins, divine healers, are invoked to purify and strengthen it. The hymns are the purifying actions, adorning the self with virtues and preparing it for spiritual awakening. The call is the soul's yearning for divine grace, seeking healing and wholeness.",
+      "Insight_kn": "ರಥವು ದೇಹವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ ಮತ್ತು ಅಶ್ವಿನಿ ದೇವತೆಗಳು ದೈವಿಕ ವೈದ್ಯರಾಗಿದ್ದು, ದೇಹವನ್ನು ಶುದ್ಧೀಕರಿಸಲು ಮತ್ತು ಬಲಪಡಿಸಲು ಪ್ರಾರ್ಥಿಸಲಾಗುತ್ತದೆ. ಸ್ತೋತ್ರಗಳು ಶುದ್ಧೀಕರಣ ಕ್ರಿಯೆಗಳಾಗಿವೆ, ಸದ್ಗುಣಗಳಿಂದ ಆತ್ಮವನ್ನು ಅಲಂಕರಿಸುವುದು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಜಾಗೃತಿಗೆ ಅದನ್ನು ಸಿದ್ಧಪಡಿಸುವುದು. ಕರೆ ಎಂದರೆ ದೈವಿಕ ಅನುಗ್ರಹಕ್ಕಾಗಿ ಆತ್ಮದ ಹಾತೊರೆಯುವಿಕೆ, ಗುಣಪಡಿಸುವಿಕೆ ಮತ್ತು ಸಮಗ್ರತೆಯನ್ನು ಪಡೆಯುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S75_87-2_9",
+      "mandala": 5,
+      "sukta": 75,
+      "ric_index": 2,
+      "rig_lines": [
+        "अ॒त्याया᳚तमश्विना ति॒रो विश्वा᳚, अ॒हं सना᳚ |",
+        "दस्रा॒ हिर᳚ण्यवर्तनी॒ सुषु᳚म्ना॒ सिन्धु॑वाहसा॒ माध्वी॒ मम॑ श्रुतं॒ हव᳚म् ||"
+      ],
+      "pre_splits": [
+        "अ॒ति॒ऽआया᳚त‌म्",
+        "अ॒श्वि॒ना॒",
+        "ति॒रः",
+        "विश्वाः᳚",
+        "अ॒ह‌म्",
+        "सना᳚",
+        "दस्रा᳚",
+        "हिर᳚ण्यवर्तनी॒ इति॒ हिर᳚ण्यऽवर्तनी",
+        "सुऽसु᳚म्ना",
+        "सिन्धु॑ऽवाहसा",
+        "माध्वी॒ इति॑",
+        "मम॑",
+        "श्रुत᳚‌म्",
+        "हव᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒ति॒ऽआया᳚त‌म्",
+          "pada_kn": "ಅತಿಆಯಾತಮ್",
+          "meaning_en": "come beyond / traverse",
+          "meaning_kn": "ದಾಟಿ ಬನ್ನಿರಿ / ಅತಿಕ್ರಮಿಸಿರಿ"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "ति॒रः",
+          "pada_kn": "ತಿರಃ",
+          "meaning_en": "beyond / across",
+          "meaning_kn": "ದಾಟಿ / ಅಡ್ಡಲಾಗಿ"
+        },
+        {
+          "pada_original": "विश्वाः᳚",
+          "pada_kn": "ವಿಶ್ವಾಃ",
+          "meaning_en": "all (obstacles/beings)",
+          "meaning_kn": "ಎಲ್ಲವನ್ನೂ / ಸಮಸ್ತವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒ह‌म्",
+          "pada_kn": "ಅಹಮ್",
+          "meaning_en": "I (for me)",
+          "meaning_kn": "ನಾನು / ನನಗಾಗಿ"
+        },
+        {
+          "pada_original": "सना᳚",
+          "pada_kn": "ಸನಾ",
+          "meaning_en": "always / eternally",
+          "meaning_kn": "ಯಾವಾಗಲೂ / ಸದಾ"
+        },
+        {
+          "pada_original": "दस्रा᳚",
+          "pada_kn": "ದಸ್ರಾ",
+          "meaning_en": "O wonder-workers / O destroyers of foes",
+          "meaning_kn": "ಓ ಅದ್ಭುತ ಕಾರ್ಯಕರ್ತರೇ / ಓ ಶತ್ರುನಾಶಕರೇ"
+        },
+        {
+          "pada_original": "हिर᳚ण्यवर्तनी॒ इति॒ हिर᳚ण्यऽवर्तनी",
+          "pada_kn": "ಹಿರಣ್ಯವರ್ತನೀ ಇತಿ ಹಿರಣ್ಯವರ್ತನೀ",
+          "meaning_en": "having golden paths / with golden chariots",
+          "meaning_kn": "ಸುವರ್ಣ ಮಾರ್ಗವುಳ್ಳವರೇ / ಸುವರ್ಣ ರಥವುಳ್ಳವರೇ"
+        },
+        {
+          "pada_original": "सुऽसु᳚म्ना",
+          "pada_kn": "ಸುಸುಮ್ನಾ",
+          "meaning_en": "having good reins / easy to drive",
+          "meaning_kn": "ಉತ್ತಮ ಲಗಾಮುಳ್ಳವರೇ / ಸುಲಭವಾಗಿ ಚಲಿಸುವವರೇ"
+        },
+        {
+          "pada_original": "सिन्धु॑ऽवाहसा",
+          "pada_kn": "ಸಿಂಧುವಾಹಸಾ",
+          "meaning_en": "traversing the rivers / traversing the oceans",
+          "meaning_kn": "ನದಿಗಳನ್ನು ದಾಟುವವರೇ / ಸಾಗರಗಳನ್ನು ದಾಟುವವರೇ"
+        },
+        {
+          "pada_original": "माध्वी॒ इति॑",
+          "pada_kn": "ಮಾಧ್ವೀ ಇತಿ",
+          "meaning_en": "O honey-sweet ones / O lords of honey",
+          "meaning_kn": "ಓ ಮಧುಪ್ರಿಯರೇ / ಓ ಮಾಧ್ವಿಯರೇ"
+        },
+        {
+          "pada_original": "मम॑",
+          "pada_kn": "ಮಮ",
+          "meaning_en": "my",
+          "meaning_kn": "ನನ್ನ"
+        },
+        {
+          "pada_original": "श्रुत᳚‌म्",
+          "pada_kn": "ಶ್ರುತಮ್",
+          "meaning_en": "hear",
+          "meaning_kn": "ಕೇಳಿರಿ"
+        },
+        {
+          "pada_original": "हव᳚‌म्",
+          "pada_kn": "ಹವಮ್",
+          "meaning_en": "call / invocation",
+          "meaning_kn": "ಕರೆಯನ್ನು / ಆಹ್ವಾನವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, come quickly, surpassing all obstructions, for my sake. O wonder-workers, golden-pathed, easily accessible, traversing the rivers, O sweet ones, hear my call.",
+      "full_meaning_kn": "ಎಲೈ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಎಲ್ಲಾ ಅಡೆತಡೆಗಳನ್ನು ಮೀರಿ ನನ್ನ ಸಲುವಾಗಿ ತ್ವರಿತವಾಗಿ ಬನ್ನಿ. ಓ ಅದ್ಭುತ ಕಾರ್ಯ ಮಾಡುವವರೇ, ಸುವರ್ಣ ಪಥವುಳ್ಳವರೇ, ಸುಲಭವಾಗಿ ತಲುಪಬಹುದಾದವರೇ, ನದಿಗಳನ್ನು ದಾಟುವವರೇ, ಓ ಸಿಹಿಯಾದವರೇ, ನನ್ನ ಕರೆಯನ್ನು ಆಲಿಸಿ.",
+      "rig_time_s": 12.738,
+      "Insight_en": "The call to the Ashvins represents a longing for divine intervention to overcome obstacles and achieve ease and sweetness in life. The golden path symbolizes the righteous path towards enlightenment, while the traversing of rivers signifies overcoming the currents of worldly desires. It is an invocation for grace to navigate life's journey with ease and attain inner sweetness.",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳಿಗೆ ಕರೆ ಎಂದರೆ ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸಲು ಮತ್ತು ಜೀವನದಲ್ಲಿ ಸುಲಭ ಮತ್ತು ಮಾಧುರ್ಯವನ್ನು ಸಾಧಿಸಲು ದೈವಿಕ ಹಸ್ತಕ್ಷೇಪಕ್ಕಾಗಿ ಹಾತೊರೆಯುವುದು. ಸುವರ್ಣ ಪಥವು ಜ್ಞಾನೋದಯದ ಕಡೆಗಿನ ಸನ್ಮಾರ್ಗವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಆದರೆ ನದಿಗಳನ್ನು ದಾಟುವುದು ಲೌಕಿಕ ಆಸೆಗಳ ಪ್ರವಾಹವನ್ನು ಜಯಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಜೀವನದ ಪ್ರಯಾಣವನ್ನು ಸುಲಭವಾಗಿ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು ಮತ್ತು ಆಂತರಿಕ ಮಾಧುರ್ಯವನ್ನು ಪಡೆಯಲು ಇದು ಕೃಪೆಗಾಗಿ ಪ್ರಾರ್ಥನೆಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S75_87-3_9",
+      "mandala": 5,
+      "sukta": 75,
+      "ric_index": 3,
+      "rig_lines": [
+        "आ नो॒ रत्ना᳚नि॒ बिभ्र॑ता॒वश्वि॑ना॒ गच्छ॑तं यु॒वम् |",
+        "रुद्रा॒ हिर᳚ण्यवर्तनी जुषा॒णा वा᳚जिनीवसू॒ माध्वी॒ मम॑ श्रुतं॒ हव᳚म् ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "नः॒",
+        "रत्ना᳚नि",
+        "बिभ्र॑तौ",
+        "अश्वि॑ना",
+        "गच्छ॑त‌म्",
+        "यु॒व‌म्",
+        "रुद्रा᳚",
+        "हिर᳚ण्यवर्तनी॒ इति॒ हिर᳚ण्यऽवर्तनी",
+        "जु॒षा॒णा",
+        "वा॒जि॒नी॒व॒सू॒ इति॑ वाजिनीऽवसू",
+        "माध्वी॒ इति॑",
+        "मम॑",
+        "श्रुत᳚‌म्",
+        "हव᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "come / hither",
+          "meaning_kn": "ಬನ್ನಿ / ಇಲ್ಲಿಗೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "रत्ना᳚नि",
+          "pada_kn": "ರತ್ನಾನಿ",
+          "meaning_en": "treasures / precious gifts",
+          "meaning_kn": "ರತ್ನಗಳನ್ನು / ಸಂಪತ್ತುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "बिभ्र॑तौ",
+          "pada_kn": "ಬಿಭ್ರತೌ",
+          "meaning_en": "bearing / bringing (dual)",
+          "meaning_kn": "ಹೊತ್ತುಕೊಂಡು / ತರುತ್ತಾ (ದ್ವಿವಚನ)"
+        },
+        {
+          "pada_original": "अश्वि॑ना",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins (dual vocative)",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "गच्छ॑त‌म्",
+          "pada_kn": "ಗಚ್ಛತಮ್",
+          "meaning_en": "come / go (dual imperative)",
+          "meaning_kn": "ಬನ್ನಿ / ಹೋಗಿ (ದ್ವಿವಚನ)"
+        },
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರೂ"
+        },
+        {
+          "pada_original": "रुद्रा᳚",
+          "pada_kn": "ರುದ್ರಾ",
+          "meaning_en": "O Rudras (referring to Ashvins, dual vocative)",
+          "meaning_kn": "ಓ ರುದ್ರರೇ (ಅಶ್ವಿನಿ ದೇವತೆಗಳಿಗೆ ಸಂಬೋಧನೆ)"
+        },
+        {
+          "pada_original": "हिर᳚ण्यवर्तनी॒ इति॒ हिर᳚ण्यऽवर्तनी",
+          "pada_kn": "ಹಿರಣ್ಯವರ್ತನೀ",
+          "meaning_en": "having golden paths / with golden chariots",
+          "meaning_kn": "ಸುವರ್ಣ ಮಾರ್ಗವುಳ್ಳವರೇ / ಸುವರ್ಣ ರಥವುಳ್ಳವರೇ"
+        },
+        {
+          "pada_original": "जु॒षा॒णा",
+          "pada_kn": "ಜುಷಾಣಾ",
+          "meaning_en": "delighting in / accepting (dual)",
+          "meaning_kn": "ಸಂತೋಷಪಡುವವರೇ / ಸ್ವೀಕರಿಸುವವರೇ"
+        },
+        {
+          "pada_original": "वा॒जि॒नी॒व॒सू॒ इति॑ वाजिनीऽवसू",
+          "pada_kn": "ವಾಜಿನೀವಸೂ",
+          "meaning_en": "rich in food/strength/horses (dual)",
+          "meaning_kn": "ಅನ್ನ/ಶಕ್ತಿ/ಅಶ್ವಗಳಿಂದ ಸಮೃದ್ಧರಾದವರೇ"
+        },
+        {
+          "pada_original": "माध्वी॒ इति॑",
+          "pada_kn": "ಮಾಧ್ವೀ",
+          "meaning_en": "O sweet ones / O honey-like ones (dual vocative)",
+          "meaning_kn": "ಓ ಮಧುರರಾದವರೇ / ಓ ಜೇನಿನಂತಹವರೇ"
+        },
+        {
+          "pada_original": "मम॑",
+          "pada_kn": "ಮಮ",
+          "meaning_en": "my",
+          "meaning_kn": "ನನ್ನ"
+        },
+        {
+          "pada_original": "श्रुत᳚‌म्",
+          "pada_kn": "ಶ್ರುತಮ್",
+          "meaning_en": "hear (dual imperative)",
+          "meaning_kn": "ಕೇಳಿರಿ (ದ್ವಿವಚನ)"
+        },
+        {
+          "pada_original": "हव᳚‌म्",
+          "pada_kn": "ಹವಮ್",
+          "meaning_en": "call / invocation",
+          "meaning_kn": "ಕರೆಯನ್ನು / ಆಹ್ವಾನವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, divine healers, arrive here, bearing precious jewels for us! O Rudras, whose paths are golden, who rejoice in oblations, rich in power and sustenance, sweetest ones, heed my invocation!",
+      "full_meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ರತ್ನಗಳನ್ನು ಹೊತ್ತು ತಂದು ನಮ್ಮನ್ನು ಸೇರಿರಿ! ರುದ್ರರೂ, ಸುವರ್ಣ ಪಥವುಳ್ಳವರೂ, ಅರ್ಪಣೆಗಳಲ್ಲಿ ಆನಂದಿಸುವವರೂ, ಬಲ ಸಂಪತ್ತು ಉಳ್ಳವರೂ, ಸಿಹಿಯಾದವರೂ ಆದ ನೀವು ನನ್ನ ಕರೆಯನ್ನು ಆಲಿಸಿರಿ!",
+      "rig_time_s": 26.119,
+      "Insight_en": "The Ashvins represent the dual forces of healing and renewal. The golden path symbolizes the path of righteousness and divine order (Rta). Invoking them with devotion unlocks inner treasures and revitalizes the spirit, leading to balance and well-being. The sweet essence signifies the blissful nature of the divine.",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು ಗುಣಪಡಿಸುವ ಮತ್ತು ನವೀಕರಿಸುವ ದ್ವಂದ್ವ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಸುವರ್ಣ ಪಥವು ಧರ್ಮ ಮತ್ತು ದೈವಿಕ ಕ್ರಮದ (ಋತ) ಮಾರ್ಗವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಭಕ್ತಿಯಿಂದ ಅವರನ್ನು ಆಹ್ವಾನಿಸುವುದು ಆಂತರಿಕ ಸಂಪತ್ತನ್ನು ತೆರೆಯುತ್ತದೆ ಮತ್ತು ಆತ್ಮವನ್ನು ಪುನಶ್ಚೇತನಗೊಳಿಸುತ್ತದೆ, ಸಮತೋಲನ ಮತ್ತು ಯೋಗಕ್ಷೇಮಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಸಿಹಿ ಸಾರವು ದೈವಿಕದ ಆನಂದಮಯ ಸ್ವಭಾವವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S75_87-4_9",
+      "mandala": 5,
+      "sukta": 75,
+      "ric_index": 4,
+      "rig_lines": [
+        "सु॒ष्टुभो᳚ वां वृषण्वसू॒ रथे॒ वाणी॒च्याहि॑ता |",
+        "उ॒त वां᳚ ककु॒हो मृ॒गः पृक्षः॑ कृणोति वापु॒षो माध्वी॒ मम॑ श्रुतं॒ हव᳚म् ||"
+      ],
+      "pre_splits": [
+        "सु॒ऽस्तुभः॑",
+        "वा॒‌म्",
+        "वृ॒ष॒ण्व॒सू॒ इति॑ वृषण्ऽवसू",
+        "रथे᳚",
+        "वाणी᳚ची",
+        "आऽहि॑ता",
+        "उ॒त",
+        "वा॒‌म्",
+        "क॒कु॒हः",
+        "मृ॒गः",
+        "पृक्षः॑",
+        "कृ॒णो॒ति॒",
+        "वा॒पु॒षः",
+        "माध्वी॒ इति॑",
+        "मम॑",
+        "श्रु॒त॒‌म्",
+        "हव᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "सु॒ऽस्तुभः॑",
+          "pada_kn": "ಸುಸ್ತುಭಃ",
+          "meaning_en": "well-praised (hymn)",
+          "meaning_kn": "ಉತ್ತಮವಾಗಿ ಸ್ತುತಿಸಲ್ಪಟ್ಟ (ಸ್ತೋತ್ರ)"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "of you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರ"
+        },
+        {
+          "pada_original": "वृ॒ष॒ण्व॒सू॒ इति॑ वृषण्ऽवसू",
+          "pada_kn": "ವೃಷಣ್ವಸೂ ಇತಿ ವೃಷಣ್ವಸೂ",
+          "meaning_en": "O you two rich in strength/wealth (Ashvins)",
+          "meaning_kn": "ಓ ಶಕ್ತಿ/ಸಂಪತ್ತಿನಿಂದ ಸಮೃದ್ಧರಾದವರೇ (ಅಶ್ವಿನಿದೇವತೆಗಳೇ)"
+        },
+        {
+          "pada_original": "रथे᳚",
+          "pada_kn": "ರಥೇ",
+          "meaning_en": "in the chariot",
+          "meaning_kn": "ರಥದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "वाणी᳚ची",
+          "pada_kn": "ವಾಣೀಚೀ",
+          "meaning_en": "(the hymn) going forth with speech",
+          "meaning_kn": "ಮಾತಿನೊಂದಿಗೆ ಹೊರಡುವ (ಸ್ತೋತ್ರ)"
+        },
+        {
+          "pada_original": "आऽहि॑ता",
+          "pada_kn": "ಆಹಿತಾ",
+          "meaning_en": "placed",
+          "meaning_kn": "ಇರಿಸಲ್ಪಟ್ಟಿದೆ / ಸ್ಥಾಪಿತವಾಗಿದೆ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "of you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರ"
+        },
+        {
+          "pada_original": "क॒कु॒हः",
+          "pada_kn": "ಕಕುಹಃ",
+          "meaning_en": "the prominent one",
+          "meaning_kn": "ಪ್ರಮುಖವಾದದ್ದು / ಉನ್ನತವಾದದ್ದು"
+        },
+        {
+          "pada_original": "मृ॒गः",
+          "pada_kn": "ಮೃಗಃ",
+          "meaning_en": "the wild animal (horse)",
+          "meaning_kn": "ಕಾಡುಪ್ರಾಣಿ (ಕುದುರೆ)"
+        },
+        {
+          "pada_original": "पृक्षः॑",
+          "pada_kn": "ಪೃಕ್ಷಃ",
+          "meaning_en": "food / nourishment",
+          "meaning_kn": "ಅನ್ನ / ಪೋಷಣೆ"
+        },
+        {
+          "pada_original": "कृ॒णो॒ति॒",
+          "pada_kn": "ಕೃಣೋತಿ",
+          "meaning_en": "makes / provides",
+          "meaning_kn": "ಮಾಡುತ್ತದೆ / ಒದಗಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "वा॒पु॒षः",
+          "pada_kn": "ವಾಪುಷಃ",
+          "meaning_en": "of beautiful form",
+          "meaning_kn": "ಸುಂದರ ರೂಪದ"
+        },
+        {
+          "pada_original": "माध्वी॒ इति॑",
+          "pada_kn": "ಮಾಧ್ವೀ ಇತಿ",
+          "meaning_en": "O sweet ones (Ashvins)",
+          "meaning_kn": "ಓ ಮಧುರರಾದವರೇ (ಅಶ್ವಿನಿದೇವತೆಗಳೇ)"
+        },
+        {
+          "pada_original": "मम॑",
+          "pada_kn": "ಮಮ",
+          "meaning_en": "my",
+          "meaning_kn": "ನನ್ನ"
+        },
+        {
+          "pada_original": "श्रु॒त॒‌म्",
+          "pada_kn": "ಶ್ರುತಮ್",
+          "meaning_en": "hear",
+          "meaning_kn": "ಕೇಳಿರಿ"
+        },
+        {
+          "pada_original": "हव᳚‌म्",
+          "pada_kn": "ಹವಮ್",
+          "meaning_en": "call / invocation",
+          "meaning_kn": "ಕರೆಯನ್ನು / ಆಹ್ವಾನವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, possessors of strength and wealth, your hymn, born of eloquent speech, is set upon your chariot. And, O sweet ones, your radiant, beautifully formed horse provides sustenance. Hear now my invocation!",
+      "full_meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಶಕ್ತಿ ಮತ್ತು ಸಂಪತ್ತಿನ ಒಡೆಯರೇ, ನಿಮ್ಮ ಸ್ತುತಿ, ವಾಕ್ಚಾತುರ್ಯದಿಂದ ಹುಟ್ಟಿದ್ದು, ನಿಮ್ಮ ರಥದ ಮೇಲೆ ಸ್ಥಾಪಿತವಾಗಿದೆ. ಮತ್ತು, ಓ ಸಿಹಿಯಾದವರೇ, ನಿಮ್ಮ ಪ್ರಕಾಶಮಾನವಾದ, ಸುಂದರವಾಗಿ ರಚಿತವಾದ ಕುದುರೆಯು ಪೋಷಣೆಯನ್ನು ನೀಡುತ್ತದೆ. ಈಗ ನನ್ನ ಪ್ರಾರ್ಥನೆಯನ್ನು ಕೇಳಿ!",
+      "rig_time_s": 39.549,
+      "Insight_en": "The chariot represents the body, and the Ashvins, the divine healers, represent the inner vital energies (prana). The well-formed horse symbolizes the purified senses, which provide nourishment not just materially, but spiritually. Invocation is the key to unlocking this inner potential for healing and spiritual growth. The sweet essence of the Ashvins reflects the bliss inherent in the realization of one's true self.",
+      "Insight_kn": "ರಥವು ದೇಹವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಮತ್ತು ಅಶ್ವಿನಿ ದೇವತೆಗಳು, ದೈವಿಕ ವೈದ್ಯರು, ಆಂತರಿಕ ಪ್ರಾಣ ಶಕ್ತಿಯನ್ನು (ಪ್ರಾಣ) ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಸುಂದರವಾಗಿ ರಚಿತವಾದ ಕುದುರೆಯು ಶುದ್ಧೀಕರಿಸಿದ ಇಂದ್ರಿಯಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಕೇವಲ ಭೌತಿಕವಾಗಿ ಮಾತ್ರವಲ್ಲ, ಆಧ್ಯಾತ್ಮಿಕವಾಗಿಯೂ ಪೋಷಣೆಯನ್ನು ನೀಡುತ್ತದೆ. ಪ್ರಾರ್ಥನೆಯು ಗುಣಪಡಿಸುವಿಕೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗಾಗಿ ಈ ಆಂತರಿಕ ಸಾಮರ್ಥ್ಯವನ್ನು ತೆರೆಯಲು ಪ್ರಮುಖವಾಗಿದೆ. ಅಶ್ವಿನಿ ದೇವತೆಗಳ ಸಿಹಿ ಸಾರವು ಒಬ್ಬರ ನಿಜವಾದ ಆತ್ಮದ ಸಾಕ್ಷಾತ್ಕಾರದಲ್ಲಿ ಅಂತರ್ಗತವಾಗಿರುವ ಆನಂದವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S75_87-5_9",
+      "mandala": 5,
+      "sukta": 75,
+      "ric_index": 5,
+      "rig_lines": [
+        "बो॒धिन्म॑नसा र॒थ्ये᳚षि॒रा ह॑वन॒श्रुता᳚ |",
+        "विभि॒श्च्यवा᳚नमश्विना॒ नि या᳚थो॒, अद्व॑याविनं॒ माध्वी॒ मम॑ श्रुतं॒ हव᳚म् ||"
+      ],
+      "pre_splits": [
+        "बो॒धित्ऽम॑नसा",
+        "र॒थ्या᳚",
+        "इ॒षि॒रा",
+        "ह॒व॒न॒ऽश्रुता᳚",
+        "विऽभिः॑",
+        "च्यवा᳚न‌म्",
+        "अ॒श्वि॒ना॒",
+        "नि",
+        "या॒थः॒",
+        "अद्व॑याविन‌म्",
+        "माध्वी॒ इति॑",
+        "मम॑",
+        "श्रु॒त॒‌म्",
+        "हव᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "बो॒धित्ऽम॑नसा",
+          "pada_kn": "ಬೋಧಿತ್‌ಮನಸಾ",
+          "meaning_en": "be aware with your mind / understand mentally",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ ಅರಿತುಕೊಳ್ಳಿರಿ"
+        },
+        {
+          "pada_original": "र॒थ्या᳚",
+          "pada_kn": "ರಥ್ಯಾ",
+          "meaning_en": "O charioteers",
+          "meaning_kn": "ಓ ರಥಿಕರೇ"
+        },
+        {
+          "pada_original": "इ॒षि॒रा",
+          "pada_kn": "ಇಷಿರಾ",
+          "meaning_en": "swift / quick",
+          "meaning_kn": "ವೇಗಶಾಲಿಗಳೇ / ಚುರುಕಾದವರೇ"
+        },
+        {
+          "pada_original": "ह॒व॒न॒ऽश्रुता᳚",
+          "pada_kn": "ಹವನಶ್ರುತಾ",
+          "meaning_en": "hearers of invocation / who listen to calls",
+          "meaning_kn": "ಆಹ್ವಾನವನ್ನು ಕೇಳುವವರೇ / ಕರೆಗಳನ್ನು ಆಲಿಸುವವರೇ"
+        },
+        {
+          "pada_original": "विऽभिः॑",
+          "pada_kn": "ವಿಭಿಃ",
+          "meaning_en": "with various means / with diverse powers",
+          "meaning_kn": "ವಿವಿಧ ಸಾಧನಗಳಿಂದ / ನಾನಾ ಶಕ್ತಿಗಳಿಂದ"
+        },
+        {
+          "pada_original": "च्यवा᳚न‌म्",
+          "pada_kn": "ಚ್ಯವಾನಮ್",
+          "meaning_en": "Chyavana (the sage)",
+          "meaning_kn": "ಚ್ಯವನನನ್ನು (ಋಷಿಯನ್ನು)"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿಗಳೇ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / back (prefix for restoring)",
+          "meaning_kn": "ಕೆಳಗೆ / ಹಿಂದಕ್ಕೆ (ಪುನಃಸ್ಥಾಪಿಸಲು)"
+        },
+        {
+          "pada_original": "या॒थः॒",
+          "pada_kn": "ಯಾಥಃ",
+          "meaning_en": "you two go / you two bring (back)",
+          "meaning_kn": "ನೀವು ಹೋಗುತ್ತೀರಿ / ನೀವು (ಹಿಂದಕ್ಕೆ) ತರುತ್ತೀರಿ"
+        },
+        {
+          "pada_original": "अद्व॑याविन‌म्",
+          "pada_kn": "ಅದ್ವಯಾವಿನಮ್",
+          "meaning_en": "the sincere one / the unwavering one",
+          "meaning_kn": "ದ್ವಂದ್ವವಿಲ್ಲದವನನ್ನು / ನಿಷ್ಠಾವಂತನನ್ನು"
+        },
+        {
+          "pada_original": "माध्वी॒ इति॑",
+          "pada_kn": "ಮಾಧ್ವೀ ಇತಿ",
+          "meaning_en": "O Madhvi (O sweet ones / O lords of honey)",
+          "meaning_kn": "ಓ ಮಾಧ್ವಿಗಳೇ (ಓ ಮಧುರರಾದವರೇ)"
+        },
+        {
+          "pada_original": "मम॑",
+          "pada_kn": "ಮಮ",
+          "meaning_en": "my",
+          "meaning_kn": "ನನ್ನ"
+        },
+        {
+          "pada_original": "श्रु॒त॒‌म्",
+          "pada_kn": "ಶ್ರುತಮ್",
+          "meaning_en": "listen / may it be heard",
+          "meaning_kn": "ಕೇಳಿರಿ / ಕೇಳಲ್ಪಡಲಿ"
+        },
+        {
+          "pada_original": "हव᳚‌म्",
+          "pada_kn": "ಹವಮ್",
+          "meaning_en": "invocation / call",
+          "meaning_kn": "ಆಹ್ವಾನವನ್ನು / ಕರೆಯನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O swift-charioted Ashvins, attentive to invocations, be mindful of my prayer with discerning intellect. O sweet Madhvis, who restored the aged and resolute Chyavana to youth through diverse means, hearken to my call!",
+      "full_meaning_kn": "ಓ ವೇಗದ ರಥವುಳ್ಳ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಸ್ತೋತ್ರಗಳನ್ನು ಕೇಳುವವರೇ, ವಿವೇಕವುಳ್ಳ ಮನಸ್ಸಿನಿಂದ ನನ್ನ ಪ್ರಾರ್ಥನೆಯನ್ನು ತಿಳಿದುಕೊಳ್ಳಿ. ಓ ಮಧುವನ್ನು ಹೊಂದಿರುವ ಮಧ್ವಿ ದೇವತೆಗಳೇ, ಯಾರು ವೃದ್ಧಾಪ್ಯದಿಂದ ಕುಂದಿದ್ದ ಚ್ಯವನ ಋಷಿಯನ್ನು ವಿವಿಧ ವಿಧಾನಗಳಿಂದ ಪುನರ್ಯೌವನಗೊಳಿಸಿದರೋ, ನನ್ನ ಕರೆಯನ್ನು ಆಲಿಸಿರಿ!",
+      "rig_time_s": 52.626,
+      "Insight_en": "The Ashvins represent the dual aspects of healing and rejuvenation. The mind, sharpened by intellect (manasā rathyā), must be attentive to the inner call. Restoring Chyavana signifies transcending limitations of age and infirmity through spiritual practice and divine grace, achieving unwavering (advayāvinam) inner strength and renewed vitality.",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು ಚಿಕಿತ್ಸೆ ಮತ್ತು ಪುನರ್ಯೌವನದ ದ್ವಂದ್ವ ಅಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ (ಮನಸಾ ರಥ್ಯಾ) ತೀಕ್ಷ್ಣಗೊಂಡ ಮನಸ್ಸು ಆಂತರಿಕ ಕರೆಗೆ ಗಮನಹರಿಸಬೇಕು. ಚ್ಯವನ ಋಷಿಯನ್ನು ಪುನಃ ಸ್ಥಾಪಿಸುವುದು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸ ಮತ್ತು ದೈವಿಕ ಅನುಗ್ರಹದ ಮೂಲಕ ವಯಸ್ಸು ಮತ್ತು ದೌರ್ಬಲ್ಯದ ಮಿತಿಗಳನ್ನು ಮೀರುವುದು, ಅಚಲವಾದ (ಅದ್ವಯಾವಿನಂ) ಆಂತರಿಕ ಶಕ್ತಿ ಮತ್ತು ನವೀಕೃತ ಚೈತನ್ಯವನ್ನು ಸಾಧಿಸುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S75_87-6_9",
+      "mandala": 5,
+      "sukta": 75,
+      "ric_index": 6,
+      "rig_lines": [
+        "आ वां᳚ नरा मनो॒युजो ऽश्वा᳚सः प्रुषि॒तप्स॑वः |",
+        "वयो᳚ वहन्तु पी॒तये᳚ स॒ह सु॒म्नेभि॑रश्विना॒ माध्वी॒ मम॑ श्रुतं॒ हव᳚म् ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "वा॒‌म्",
+        "न॒रा॒",
+        "म॒नः॒ऽयुजः॑",
+        "अश्वा᳚सः",
+        "प्रु॒षि॒तऽप्स॑वः",
+        "वयः॑",
+        "व॒ह॒न्तु॒",
+        "पी॒तये᳚",
+        "स॒ह",
+        "सु॒म्नेभिः॑",
+        "अ॒श्वि॒ना॒",
+        "माध्वी॒ इति॑",
+        "मम॑",
+        "श्रु॒त॒‌म्",
+        "हव᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Hither / To",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "To you two (Ashvins)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗೆ (ಅಶ್ವಿನಿ ದೇವತೆಗಳಿಗೆ)"
+        },
+        {
+          "pada_original": "न॒रा॒",
+          "pada_kn": "ನರಾ",
+          "meaning_en": "O leaders / O heroes",
+          "meaning_kn": "ಓ ನಾಯಕರೇ / ಓ ವೀರರೇ"
+        },
+        {
+          "pada_original": "म॒नः॒ऽयुजः॑",
+          "pada_kn": "ಮನಃऽಯುಜಃ",
+          "meaning_en": "Mind-yoked / Swift as thought",
+          "meaning_kn": "ಮನಸ್ಸಿನಂತೆ ವೇಗವುಳ್ಳ / ಮನಸ್ಸಿನಿಂದ ನಿಯೋಜಿತವಾದ"
+        },
+        {
+          "pada_original": "अश्वा᳚सः",
+          "pada_kn": "ಅಶ್ವಾಸಃ",
+          "meaning_en": "Horses",
+          "meaning_kn": "ಅಶ್ವಗಳು / ಕುದುರೆಗಳು"
+        },
+        {
+          "pada_original": "प्रु॒षि॒तऽप्स॑वः",
+          "pada_kn": "ಪ್ರುಷಿತऽಪ್ಸವಃ",
+          "meaning_en": "Having speckled forms / With dappled bodies",
+          "meaning_kn": "ಚುಕ್ಕೆಗಳಿರುವ ರೂಪವುಳ್ಳ / ಮಚ್ಚೆಗಳಿರುವ ಶರೀರವುಳ್ಳ"
+        },
+        {
+          "pada_original": "वयः॑",
+          "pada_kn": "ವಯಃ",
+          "meaning_en": "(Swift) steeds / Birds (metaphorically for swift horses)",
+          "meaning_kn": "(ವೇಗವಾದ) ಅಶ್ವಗಳು / ಪಕ್ಷಿಗಳು (ರೂಪಕವಾಗಿ ವೇಗದ ಕುದುರೆಗಳು)"
+        },
+        {
+          "pada_original": "व॒ह॒न्तु॒",
+          "pada_kn": "ವಹಂತು",
+          "meaning_en": "Let them carry",
+          "meaning_kn": "ಅವು ಹೊತ್ತು ತರಲಿ / ಅವು ಕರೆತರಲಿ"
+        },
+        {
+          "pada_original": "पी॒तये᳚",
+          "pada_kn": "ಪೀತಯೇ",
+          "meaning_en": "For drinking (Soma)",
+          "meaning_kn": "(ಸೋಮಪಾನ) ಕುಡಿಯುವುದಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "स॒ह",
+          "pada_kn": "ಸಹ",
+          "meaning_en": "With",
+          "meaning_kn": "ಜೊತೆಗೂಡಿ / ಸಹಿತವಾಗಿ"
+        },
+        {
+          "pada_original": "सु॒म्नेभिः॑",
+          "pada_kn": "ಸುಮ್ನೇಭಿಃ",
+          "meaning_en": "With joys / With blessings",
+          "meaning_kn": "ಸಂತೋಷಗಳೊಂದಿಗೆ / ಆಶೀರ್ವಾದಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "माध्वी॒ इति॑",
+          "pada_kn": "ಮಾಧ್ವೀ ಇತಿ",
+          "meaning_en": "O sweet ones (Ashvins)",
+          "meaning_kn": "ಓ ಮಧುರರಾದವರೇ (ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ)"
+        },
+        {
+          "pada_original": "मम॑",
+          "pada_kn": "ಮಮ",
+          "meaning_en": "My",
+          "meaning_kn": "ನನ್ನ"
+        },
+        {
+          "pada_original": "श्रु॒त॒‌म्",
+          "pada_kn": "ಶ್ರುತಮ್",
+          "meaning_en": "Hear / Listen",
+          "meaning_kn": "ಕೇಳಿರಿ / ಆಲಿಸಿರಿ"
+        },
+        {
+          "pada_original": "हव᳚‌म्",
+          "pada_kn": "ಹವಮ್",
+          "meaning_en": "Call / Invocation",
+          "meaning_kn": "ಆಹ್ವಾನವನ್ನು / ಕರೆಯನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O heroic Ashvins, yoked by the mind, with horses swift as birds, dappled, may they carry you here to drink the Soma, along with all felicities. O sweet Ashvins, hear now my invocation!",
+      "full_meaning_kn": "ಓ ವೀರ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಮನಸ್ಸಿನಿಂದ ಕೂಡಿದ, ಹಕ್ಕಿಗಳಂತೆ ವೇಗವುಳ್ಳ, ಬಣ್ಣ ಬಣ್ಣದ ಕುದುರೆಗಳು ನಿಮ್ಮನ್ನು ಸೋಮರಸವನ್ನು ಕುಡಿಯಲು ಕರೆತರುತ್ತವೆ. ಎಲ್ಲಾ ಶುಭಗಳೊಂದಿಗೆ, ಓ ಸಿಹಿ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ನನ್ನ ಪ್ರಾರ್ಥನೆಯನ್ನು ಈಗ ಆಲಿಸಿರಿ!",
+      "rig_time_s": 65.518,
+      "Insight_en": "The Ashvins represent the dynamic life force, the prana (प्राण) and apana (अपान), constantly moving and vitalizing the body and mind. Invoking them signifies a yearning for wholeness, a union of the active and receptive aspects of consciousness. The mind-yoked horses symbolize disciplined thought leading to spiritual insight, and the Soma (सोम) represents the nectar of divine bliss obtained through self-realization.",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು ಕ್ರಿಯಾತ್ಮಕ ಜೀವನ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಪ್ರಾಣ ಮತ್ತು ಅಪಾನಗಳು ದೇಹ ಮತ್ತು ಮನಸ್ಸನ್ನು ಸದಾ ಚಲಿಸುವಂತೆ ಮತ್ತು ಚೈತನ್ಯಗೊಳಿಸುತ್ತವೆ. ಅವರನ್ನು ಆಹ್ವಾನಿಸುವುದು ಪರಿಪೂರ್ಣತೆಗಾಗಿ ಹಾತೊರೆಯುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಪ್ರಜ್ಞೆಯ ಸಕ್ರಿಯ ಮತ್ತು ಸ್ವೀಕರಿಸುವ ಅಂಶಗಳ ಒಕ್ಕೂಟ. ಮನಸ್ಸಿನಿಂದ ಕೂಡಿದ ಕುದುರೆಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟಕ್ಕೆ ಕಾರಣವಾಗುವ ಶಿಸ್ತುಬದ್ಧ ಚಿಂತನೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ ಮತ್ತು ಸೋಮವು ಸ್ವಯಂ ಸಾಕ್ಷಾತ್ಕಾರದ ಮೂಲಕ ಪಡೆದ ದೈವಿಕ ಆನಂದದ ಅಮೃತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S75_87-7_9",
+      "mandala": 5,
+      "sukta": 75,
+      "ric_index": 7,
+      "rig_lines": [
+        "अश्वि॑ना॒वेह ग॑च्छतं॒ नास॑त्या॒ मा वि वे᳚नतम् |",
+        "ति॒रश्चि॑दर्य॒या परि॑ व॒र्तिर्या᳚तमदाभ्या॒ माध्वी॒ मम॑ श्रुतं॒ हव᳚म् ||"
+      ],
+      "pre_splits": [
+        "अश्वि॑नौ",
+        "आ",
+        "इ॒ह",
+        "ग॒च्छ॒त॒‌म्",
+        "नास॑त्या",
+        "मा",
+        "वि",
+        "वे॒न॒त॒‌म्",
+        "ति॒रः",
+        "चि॒त्",
+        "अ॒र्य॒ऽया",
+        "परि॑",
+        "व॒र्तिः",
+        "या॒त॒‌म्",
+        "अ॒दा॒भ्या॒",
+        "माध्वी॒ इति॑",
+        "मम॑",
+        "श्रु॒त॒‌म्",
+        "हव᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अश्वि॑नौ",
+          "pada_kn": "ಅಶ್ವಿನೌ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನೀ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Hither / To",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "Here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ग॒च्छ॒त॒‌म्",
+          "pada_kn": "ಗಚ್ಛತಮ್",
+          "meaning_en": "Come (dual imperative)",
+          "meaning_kn": "ಬನ್ನಿ"
+        },
+        {
+          "pada_original": "नास॑त्या",
+          "pada_kn": "ನಾಸತ್ಯಾ",
+          "meaning_en": "O Nasatyas",
+          "meaning_kn": "ಓ ನಾಸತ್ಯರೇ"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "Not",
+          "meaning_kn": "ಬೇಡ / ಇಲ್ಲ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "Away / Apart",
+          "meaning_kn": "ದೂರ / ಬೇರೆ"
+        },
+        {
+          "pada_original": "वे॒न॒त॒‌म्",
+          "pada_kn": "ವೇನತಮ್",
+          "meaning_en": "Neglect / Delay (dual imperative)",
+          "meaning_kn": "ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ / ತಡಮಾಡಬೇಡಿ"
+        },
+        {
+          "pada_original": "ति॒रः",
+          "pada_kn": "ತಿರಃ",
+          "meaning_en": "Across / Through",
+          "meaning_kn": "ಅಡ್ಡಲಾಗಿ / ಮೂಲಕ"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "Even / Indeed",
+          "meaning_kn": "ಕೂಡ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अ॒र्य॒ऽया",
+          "pada_kn": "ಅರ್ಯಯಾ",
+          "meaning_en": "By the path / By the journey",
+          "meaning_kn": "ಮಾರ್ಗದಿಂದ / ಪಯಣದಿಂದ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "Around / About",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "व॒र्तिः",
+          "pada_kn": "ವರ್ತಿಃ",
+          "meaning_en": "Path / Course",
+          "meaning_kn": "ಮಾರ್ಗ / ಪಥ"
+        },
+        {
+          "pada_original": "या॒त॒‌म्",
+          "pada_kn": "ಯಾತಮ್",
+          "meaning_en": "Go / Travel (dual imperative)",
+          "meaning_kn": "ಹೋಗಿ / ಸಂಚರಿಸಿ"
+        },
+        {
+          "pada_original": "अ॒दा॒भ्या॒",
+          "pada_kn": "ಅದಾಭ್ಯಾ",
+          "meaning_en": "O Undaunted ones / O Invincible ones",
+          "meaning_kn": "ಓ ಅಜೇಯರೇ / ಓ ಅಪ್ರತಿಹತರೇ"
+        },
+        {
+          "pada_original": "माध्वी॒ इति॑",
+          "pada_kn": "ಮಾಧ್ವೀ ಇತಿ",
+          "meaning_en": "O Madhvi (associated with sweetness)",
+          "meaning_kn": "ಓ ಮಾಧ್ವೀ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "मम॑",
+          "pada_kn": "ಮಮ",
+          "meaning_en": "My",
+          "meaning_kn": "ನನ್ನ"
+        },
+        {
+          "pada_original": "श्रु॒त॒‌म्",
+          "pada_kn": "ಶ್ರುತಮ್",
+          "meaning_en": "Hear (dual imperative)",
+          "meaning_kn": "ಕೇಳಿರಿ / ಆಲಿಸಿರಿ"
+        },
+        {
+          "pada_original": "हव᳚‌म्",
+          "pada_kn": "ಹವಮ್",
+          "meaning_en": "Call / Invocation",
+          "meaning_kn": "ಕರೆಯನ್ನು / ಆಹ್ವಾನವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, celestial healers and divine twins, descend upon this sacred space! O Nasatyas, embodiments of truth, let not my humble invocation be overlooked. Though pathways may diverge and distances extend, traverse them with unwavering resolve. O undaunted ones, filled with sweet nectar, hearken to my heartfelt prayer!",
+      "full_meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಸ್ವರ್ಗೀಯ ವೈದ್ಯರು ಮತ್ತು ದೈವಿಕ ಅವಳಿಗಳೇ, ಈ ಪವಿತ್ರ ಸ್ಥಳಕ್ಕೆ ದಯಮಾಡಿ! ಓ ನಾಸತ್ಯರೇ, ಸತ್ಯದ ಸಾಕಾರ ಸ್ವರೂಪಗಳೇ, ನನ್ನ ವಿನಮ್ರ ಪ್ರಾರ್ಥನೆಯನ್ನು ಕಡೆಗಣಿಸಬೇಡಿ. ಮಾರ್ಗಗಳು ಬೇರೆಯಾಗಿದ್ದರೂ ಮತ್ತು ದೂರಗಳು ವಿಸ್ತಾರವಾಗಿದ್ದರೂ, ಅವುಗಳನ್ನು ಅಚಲವಾದ ಸಂಕಲ್ಪದಿಂದ ದಾಟಿರಿ. ಓ ಅಂಜದವರೇ, ಸಿಹಿ ಮಕರಂದದಿಂದ ತುಂಬಿದವರೇ, ನನ್ನ ಹೃದಯಪೂರ್ವಕ ಪ್ರಾರ್ಥನೆಯನ್ನು ಆಲಿಸಿರಿ!",
+      "rig_time_s": 78.863,
+      "Insight_en": "The Ashvins represent the dual aspects of healing and restoration within us. Invoking them signifies a call to balance the inner polarities. The 'paths' symbolize different facets of our being. By traversing these paths, the Ashvins integrate and harmonize our fragmented self, leading to wholeness. The nectar (madhu) represents the bliss of self-realization.",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು ನಮ್ಮಲ್ಲಿನ ಗುಣಪಡಿಸುವಿಕೆ ಮತ್ತು ಪುನಃಸ್ಥಾಪನೆಯ ದ್ವಂದ್ವ ಅಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಅವರನ್ನು ಆಹ್ವಾನಿಸುವುದು ಆಂತರಿಕ ಧ್ರುವೀಯತೆಗಳನ್ನು ಸಮತೋಲನಗೊಳಿಸುವ ಕರೆಯಾಗಿದೆ. 'ಮಾರ್ಗಗಳು' ನಮ್ಮ ಅಸ್ತಿತ್ವದ ವಿವಿಧ ಮುಖಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಈ ಮಾರ್ಗಗಳನ್ನು ದಾಟುವ ಮೂಲಕ, ಅಶ್ವಿನಿ ದೇವತೆಗಳು ನಮ್ಮ ಛಿದ್ರಗೊಂಡ ಸ್ವಯಂ ಅನ್ನು ಸಂಯೋಜಿಸಿ ಸಾಮರಸ್ಯಗೊಳಿಸುತ್ತಾರೆ, ಇದು ಸಂಪೂರ್ಣತೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಮಕರಂದವು (ಮಧು) ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ಆನಂದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S75_87-8_9",
+      "mandala": 5,
+      "sukta": 75,
+      "ric_index": 8,
+      "rig_lines": [
+        "अ॒स्मिन्‌ य॒ज्ञे, अ॑दाभ्या जरि॒तारं᳚ शुभस्पती |",
+        "अ॒व॒स्युम॑श्विना यु॒वं गृ॒णन्त॒मुप॑ भूषथो॒ माध्वी॒ मम॑ श्रुतं॒ हव᳚म् ||"
+      ],
+      "pre_splits": [
+        "अ॒स्मिन्",
+        "य॒ज्ञे",
+        "अ॒दा॒भ्या॒",
+        "ज॒रि॒तार᳚‌म्",
+        "शु॒भः॒",
+        "प॒ती॒ इति॑",
+        "अ॒व॒स्यु‌म्",
+        "अ॒श्वि॒ना॒",
+        "यु॒व‌म्",
+        "गृ॒णन्त᳚‌म्",
+        "उप॑",
+        "भू॒ष॒थः॒",
+        "माध्वी॒ इति॑",
+        "मम॑",
+        "श्रु॒त॒‌म्",
+        "हव᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒स्मिन्",
+          "pada_kn": "ಅಸ್ಮಿನ್",
+          "meaning_en": "In this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "य॒ज्ञे",
+          "pada_kn": "ಯಜ್ಞೇ",
+          "meaning_en": "sacrifice / ritual",
+          "meaning_kn": "ಯಜ್ಞದಲ್ಲಿ / ಯಾಗದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒दा॒भ्या॒",
+          "pada_kn": "ಅದಾಭ್ಯಾ",
+          "meaning_en": "O undeceivable ones",
+          "meaning_kn": "ಓ ಮೋಸಗೊಳಿಸಲಾಗದವರೇ"
+        },
+        {
+          "pada_original": "ज॒रि॒तार᳚‌म्",
+          "pada_kn": "ಜರಿತಾರಮ್",
+          "meaning_en": "the praiser / the singer",
+          "meaning_kn": "ಸ್ತೋತ್ರ ಮಾಡುವವನನ್ನು / ಸ್ತುತಿಸುವವನನ್ನು"
+        },
+        {
+          "pada_original": "शु॒भः॒",
+          "pada_kn": "ಶುಭಃ",
+          "meaning_en": "of brilliance / of prosperity",
+          "meaning_kn": "ಶುಭದ / ಪ್ರಕಾಶದ"
+        },
+        {
+          "pada_original": "प॒ती॒ इति॑",
+          "pada_kn": "ಪತೀ ಇತಿ",
+          "meaning_en": "O lords / O masters",
+          "meaning_kn": "ಓ ಒಡೆಯರೇ / ಓ ಪತಿಗಳೇ"
+        },
+        {
+          "pada_original": "अ॒व॒स्यु‌म्",
+          "pada_kn": "ಅವಸ್ಯುಮ್",
+          "meaning_en": "desiring help / seeking protection",
+          "meaning_kn": "ಸಹಾಯವನ್ನು ಬಯಸುವವನನ್ನು / ರಕ್ಷಣೆಯನ್ನು ಕೋರುವವನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನೀ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರೂ"
+        },
+        {
+          "pada_original": "गृ॒णन्त᳚‌म्",
+          "pada_kn": "ಗೃಣನ್ತಮ್",
+          "meaning_en": "praising / singing",
+          "meaning_kn": "ಸ್ತುತಿಸುವವನನ್ನು / ಕೀರ್ತಿಸುವವನನ್ನು"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "towards / near",
+          "meaning_kn": "ಕಡೆಗೆ / ಸಮೀಪ"
+        },
+        {
+          "pada_original": "भू॒ष॒थः॒",
+          "pada_kn": "ಭೂಷಥಃ",
+          "meaning_en": "you adorn / favor",
+          "meaning_kn": "ನೀವು ಅಲಂಕರಿಸುತ್ತೀರಿ / ಅನುಗ್ರಹಿಸುತ್ತೀರಿ"
+        },
+        {
+          "pada_original": "माध्वी॒ इति॑",
+          "pada_kn": "ಮಾಧ್ವೀ ಇತಿ",
+          "meaning_en": "O sweet ones / O honey-like ones",
+          "meaning_kn": "ಓ ಮಧುರವಾದವರೇ / ಓ ಜೇನಿನಂತಹವರೇ"
+        },
+        {
+          "pada_original": "मम॑",
+          "pada_kn": "ಮಮ",
+          "meaning_en": "my",
+          "meaning_kn": "ನನ್ನ"
+        },
+        {
+          "pada_original": "श्रु॒त॒‌म्",
+          "pada_kn": "ಶ್ರುತಮ್",
+          "meaning_en": "hear",
+          "meaning_kn": "ಕೇಳಿರಿ"
+        },
+        {
+          "pada_original": "हव᳚‌म्",
+          "pada_kn": "ಹವಮ್",
+          "meaning_en": "call / invocation",
+          "meaning_kn": "ಆಹ್ವಾನವನ್ನು / ಕರೆಯನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Infallible Ashvins, Lords of Splendor, sweet ones, in this sacred sacrifice, you both grace the worshiper who seeks refuge and sings your praises. Heed now my heartfelt invocation!",
+      "full_meaning_kn": "ಓ ನಿರ್ದೋಷ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ತೇಜಸ್ಸಿನ ಒಡೆಯರೇ, ಸಿಹಿಯಾದವರೇ, ಈ ಪವಿತ್ರ ಯಜ್ಞದಲ್ಲಿ, ನಿಮ್ಮನ್ನು ಸ್ತುತಿಸಿ ಸಹಾಯವನ್ನು ಯಾಚಿಸುವ ಭಕ್ತನನ್ನು ನೀವು ಅನುಗ್ರಹಿಸುತ್ತೀರಿ. ಈಗ ನನ್ನ ಪ್ರೀತಿಯ ಪ್ರಾರ್ಥನೆಯನ್ನು ಆಲಿಸಿರಿ!",
+      "rig_time_s": 91.959,
+      "Insight_en": "The Ashvins represent the divine twin healers, symbolizing the balance between physical and spiritual well-being. Seeking their grace in the यज्ञ signifies a yearning for wholeness, invoking inner transformation through devotion and self-surrender. The 'invocation' is the sincere call of the soul towards the divine within, the परमात्मा, seeking union and liberation.",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು ದೈವಿಕ ಅವಳಿ ವೈದ್ಯರನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಅವರು ದೈಹಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಯೋಗಕ್ಷೇಮದ ನಡುವಿನ ಸಮತೋಲನವನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ. ಯಜ್ಞದಲ್ಲಿ ಅವರ ಕೃಪೆಯನ್ನು ಕೋರುವುದು ಸಮಗ್ರತೆಗಾಗಿ ಹಾತೊರೆಯುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಭಕ್ತಿ ಮತ್ತು ಆತ್ಮ-ಸಮರ್ಪಣೆಯ ಮೂಲಕ ಆಂತರಿಕ ರೂಪಾಂತರವನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. 'ಪ್ರಾರ್ಥನೆ' ಎಂದರೆ ಆತ್ಮವು ತನ್ನೊಳಗಿನ ದೈವತ್ವದ ಕಡೆಗೆ ಮಾಡುವ ಪ್ರಾಮಾಣಿಕ ಕರೆ, ಪರಮಾತ್ಮ, ಒಕ್ಕೂಟ ಮತ್ತು ವಿಮೋಚನೆಯನ್ನು ಬಯಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S75_87-9_9",
+      "mandala": 5,
+      "sukta": 75,
+      "ric_index": 9,
+      "rig_lines": [
+        "अभू᳚दु॒षा रुश॑त्पशु॒राग्निर॑धाय्यृ॒त्वियः॑ |",
+        "अयो᳚जि वां वृषण्वसू॒ रथो᳚ दस्रा॒वम॑र्त्यो॒ माध्वी॒ मम॑ श्रुतं॒ हव᳚म् ||"
+      ],
+      "pre_splits": [
+        "अभू᳚त्",
+        "उ॒षाः",
+        "रुश॑त्ऽपशुः",
+        "आ",
+        "अ॒ग्निः",
+        "अ॒धा॒यि॒",
+        "ऋ॒त्वियः॑",
+        "अयो᳚जि",
+        "वा॒‌म्",
+        "वृ॒ष॒ण्व॒सू॒ इति॑ वृषण्ऽवसू",
+        "रथः॑",
+        "द॒स्रौ॒",
+        "अम॑र्त्यः",
+        "माध्वी॒ इति॑",
+        "मम॑",
+        "श्रु॒त॒‌म्",
+        "हव᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अभू᳚त्",
+          "pada_kn": "ಅಭೂತ್",
+          "meaning_en": "has appeared / has arisen",
+          "meaning_kn": "ಉದಯಿಸಿತು / ಆಯಿತು"
+        },
+        {
+          "pada_original": "उ॒षाः",
+          "pada_kn": "ಉಷಾಃ",
+          "meaning_en": "Dawn",
+          "meaning_kn": "ಉಷಸ್ಸು / ಪ್ರಭಾತ"
+        },
+        {
+          "pada_original": "रुश॑त्ऽपशुः",
+          "pada_kn": "ರುಶತ್ಪಶುಃ",
+          "meaning_en": "having bright cattle (rays of light)",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ ಗೋವುಗಳುಳ್ಳ (ಕಿರಣಗಳುಳ್ಳ)"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle, indicating 'was placed')",
+          "meaning_kn": "(ಉಪಸರ್ಗ, 'ಸ್ಥಾಪಿಸಲಾಯಿತು' ಎಂಬರ್ಥ)"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni / Fire",
+          "meaning_kn": "ಅಗ್ನಿ / ಬೆಂಕಿ"
+        },
+        {
+          "pada_original": "अ॒धा॒यि॒",
+          "pada_kn": "ಅಧಾಯಿ",
+          "meaning_en": "was placed / was kindled",
+          "meaning_kn": "ಸ್ಥಾಪಿಸಲಾಯಿತು / ಪ್ರಜ್ವಲಿಸಲಾಯಿತು"
+        },
+        {
+          "pada_original": "ऋ॒त्वियः॑",
+          "pada_kn": "ಋತ್ವಿಯಃ",
+          "meaning_en": "seasonable / fit for sacrifice",
+          "meaning_kn": "ಯಜ್ಞಕ್ಕೆ ಯೋಗ್ಯವಾದ / ಕಾಲೋಚಿತವಾದ"
+        },
+        {
+          "pada_original": "अयो᳚जि",
+          "pada_kn": "ಅಯೋಜಿ",
+          "meaning_en": "was yoked / was harnessed",
+          "meaning_kn": "ಜೋಡಿಸಲಾಯಿತು / ಸಿದ್ಧಪಡಿಸಲಾಯಿತು"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "your (dual, for Ashvins)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರ"
+        },
+        {
+          "pada_original": "वृ॒ष॒ण्व॒सू॒ इति॑ वृषण्ऽवसू",
+          "pada_kn": "ವೃಷಣ್ವಸೂ",
+          "meaning_en": "O bestowers of bounty / O rich in strength",
+          "meaning_kn": "ಓ ಶ್ರೇಷ್ಠ ಸಂಪತ್ತನ್ನು ನೀಡುವವರೇ / ಓ ಶಕ್ತಿಯುತ ಸಂಪತ್ತುಳ್ಳವರೇ"
+        },
+        {
+          "pada_original": "रथः॑",
+          "pada_kn": "ರಥಃ",
+          "meaning_en": "chariot",
+          "meaning_kn": "ರಥ"
+        },
+        {
+          "pada_original": "द॒स्रौ॒",
+          "pada_kn": "ದಸ್ರೌ",
+          "meaning_en": "O wonder-workers / O destroyers of foes",
+          "meaning_kn": "ಓ ಅದ್ಭುತ ಕಾರ್ಯಕರ್ತರೇ / ಓ ಶತ್ರುನಾಶಕರೇ"
+        },
+        {
+          "pada_original": "अम॑र्त्यः",
+          "pada_kn": "ಅಮರ್ತ್ಯಃ",
+          "meaning_en": "immortal",
+          "meaning_kn": "ಅಮರವಾದ"
+        },
+        {
+          "pada_original": "माध्वी॒ इति॑",
+          "pada_kn": "ಮಾಧ್ವೀ",
+          "meaning_en": "O sweet ones / O honey-like ones",
+          "meaning_kn": "ಓ ಮಧುರರಾದವರೇ / ಓ ಜೇನಿನಂತಹವರೇ"
+        },
+        {
+          "pada_original": "मम॑",
+          "pada_kn": "ಮಮ",
+          "meaning_en": "my",
+          "meaning_kn": "ನನ್ನ"
+        },
+        {
+          "pada_original": "श्रु॒त॒‌म्",
+          "pada_kn": "ಶ್ರುತಮ್",
+          "meaning_en": "hear",
+          "meaning_kn": "ಕೇಳಿರಿ"
+        },
+        {
+          "pada_original": "हव᳚‌म्",
+          "pada_kn": "ಹವಮ್",
+          "meaning_en": "call / invocation",
+          "meaning_kn": "ಆಹ್ವಾನ / ಕರೆ"
+        }
+      ],
+      "full_meaning_en": "Dawn, radiant with light like a herd of cattle, has emerged, and the timely sacrificial fire has been kindled. O Ashvins, possessors of wondrous powers, bestowers of blessings, immortal ones, and sweet in nature, your chariot has been harnessed. Hear now my invocation!",
+      "full_meaning_kn": "ದಿಯು ತನ್ನ ಪ್ರಕಾಶಮಾನ ಕಿರಣಗಳೊಂದಿಗೆ (ದನಗಳಂತೆ) ಮೂಡಿದೆ, ಮತ್ತು ಸಮಯೋಚಿತ ಯಜ್ಞದ ಬೆಂಕಿಯನ್ನು ಹೊತ್ತಿಸಲಾಗಿದೆ. ಓ ಅದ್ಭುತ ಶಕ್ತಿ ಹೊಂದಿರುವ, ಆಶೀರ್ವಾದ ನೀಡುವ, ಅಮರ ಮತ್ತು ಸಿಹಿ ಸ್ವಭಾವದ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ನಿಮ್ಮ ರಥವನ್ನು ಸಜ್ಜುಗೊಳಿಸಲಾಗಿದೆ. ನನ್ನ ಪ್ರಾರ್ಥನೆಯನ್ನು ಆಲಿಸಿರಿ!",
+      "rig_time_s": 104.327,
+      "Insight_en": "The dawn (उषा) represents the awakening of inner consciousness, dispelling the darkness of ignorance. The kindled sacrificial fire (अग्नि) symbolizes the ignited spiritual aspiration within. The Ashvins, divine healers, represent the dual aspects of divine grace and active compassion. Their chariot signifies the vehicle of transformation, carrying one from mortality to immortality. The invocation is a call for divine aid in this inner journey.",
+      "Insight_kn": "ಉಷಸ್ಸು (ಉषा) ಒಳಗಿನ ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಅಜ್ಞಾನದ ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುತ್ತದೆ. ಬೆಳಗಿದ ಯಜ್ಞದ ಬೆಂಕಿ (अग्नि) ಒಳಗಿನ ಆಧ್ಯಾತ್ಮಿಕ ಆಕಾಂಕ್ಷೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಅಶ್ವಿನಿ ದೇವತೆಗಳು, ದೈವಿಕ ವೈದ್ಯರು, ದೈವಿಕ ಅನುಗ್ರಹ ಮತ್ತು ಸಕ್ರಿಯ ಸಹಾನುಭೂತಿಯ ದ್ವಂದ್ವ ಅಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಅವರ ರಥವು ಪರಿವರ್ತನೆಯ ವಾಹನವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅದು ಒಬ್ಬರನ್ನು ಮರ್ತ್ಯತೆಯಿಂದ ಅಮರತ್ವಕ್ಕೆ ಕೊಂಡೊಯ್ಯುತ್ತದೆ. ಪ್ರಾರ್ಥನೆಯು ಈ ಆಂತರಿಕ ಪ್ರಯಾಣದಲ್ಲಿ ದೈವಿಕ ಸಹಾಯಕ್ಕಾಗಿ ಕರೆ ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

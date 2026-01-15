@@ -1,0 +1,923 @@
+{
+  "mandala": 9,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M9-S92_114-1_6",
+      "mandala": 9,
+      "sukta": 92,
+      "ric_index": 1,
+      "rig_lines": [
+        "परि॑ सुवा॒नो हरि॑रं॒शुः प॒वित्रे॒ रथो॒ न स॑र्जि स॒नये᳚ हिया॒नः |",
+        "आप॒च्छ्लोक॑मिन्द्रि॒यं पू॒यमा᳚नः॒ प्रति॑ दे॒वाँ, अ॑जुषत॒ प्रयो᳚भिः ||"
+      ],
+      "pre_splits": [
+        "परि॑",
+        "सु॒वा॒नः",
+        "हरिः॑",
+        "अं॒शुः",
+        "प॒वित्रे᳚",
+        "रथः॑",
+        "न",
+        "स॒र्जि॒",
+        "स॒नये᳚",
+        "हि॒या॒नः",
+        "आप॑त्",
+        "श्लोक᳚‌म्",
+        "इ॒न्द्रि॒य‌म्",
+        "पू॒यमा᳚नः",
+        "प्रति॑",
+        "दे॒वान्",
+        "अ॒जु॒ष॒त॒",
+        "प्रयः॑ऽभिः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / completely / forth",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಸಂಪೂರ್ಣವಾಗಿ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "सु॒वा॒नः",
+          "pada_kn": "ಸುವಾನಃ",
+          "meaning_en": "being pressed / flowing",
+          "meaning_kn": "ಹಿಂಡಲ್ಪಡುತ್ತಾ / ಹರಿಯುತ್ತಾ"
+        },
+        {
+          "pada_original": "हरिः॑",
+          "pada_kn": "ಹರಿಃ",
+          "meaning_en": "golden / tawny (Soma)",
+          "meaning_kn": "ಸುವರ್ಣವರ್ಣದ / ಹಳದಿ ಬಣ್ಣದ (ಸೋಮ)"
+        },
+        {
+          "pada_original": "अं॒शुः",
+          "pada_kn": "ಅಂಶುಃ",
+          "meaning_en": "stalk / shoot (of Soma)",
+          "meaning_kn": "ಕಾಂಡ / ಚಿಗುರು (ಸೋಮದ)"
+        },
+        {
+          "pada_original": "प॒वित्रे᳚",
+          "pada_kn": "ಪವಿತ್ರೇ",
+          "meaning_en": "in the sieve / on the strainer",
+          "meaning_kn": "ಜರಡಿಯಲ್ಲಿ / ಶೋಧಕದ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "रथः॑",
+          "pada_kn": "ರಥಃ",
+          "meaning_en": "chariot",
+          "meaning_kn": "ರಥ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ದಂತೆ"
+        },
+        {
+          "pada_original": "स॒र्जि॒",
+          "pada_kn": "ಸರ್ಜಿ",
+          "meaning_en": "was sent forth / flowed",
+          "meaning_kn": "ಹೊರಗೆ ಹರಿಯಿತು / ಬಿಡುಗಡೆಗೊಂಡಿತು"
+        },
+        {
+          "pada_original": "स॒नये᳚",
+          "pada_kn": "ಸನಯೇ",
+          "meaning_en": "for gain / for acquisition",
+          "meaning_kn": "ಲಾಭಕ್ಕಾಗಿ / ಸಂಪಾದನೆಗಾಗಿ"
+        },
+        {
+          "pada_original": "हि॒या॒नः",
+          "pada_kn": "ಹಿಯಾನಃ",
+          "meaning_en": "being impelled / moving swiftly",
+          "meaning_kn": "ಪ್ರೇರಿತವಾಗಿ / ವೇಗವಾಗಿ ಚಲಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "आप॑त्",
+          "pada_kn": "ಆಪತ್",
+          "meaning_en": "attained / reached",
+          "meaning_kn": "ತಲುಪಿತು / ಪಡೆದುಕೊಂಡಿತು"
+        },
+        {
+          "pada_original": "श्लोक᳚‌म्",
+          "pada_kn": "ಶ್ಲೋಕಮ್",
+          "meaning_en": "fame / praise / sound",
+          "meaning_kn": "ಕೀರ್ತಿ / ಸ್ತುತಿ / ಧ್ವನಿ"
+        },
+        {
+          "pada_original": "इ॒न्द्रि॒य‌म्",
+          "pada_kn": "ಇಂದ್ರಿಯಮ್",
+          "meaning_en": "strength / vigour",
+          "meaning_kn": "ಶಕ್ತಿ / ಸಾಮರ್ಥ್ಯ"
+        },
+        {
+          "pada_original": "पू॒यमा᳚नः",
+          "pada_kn": "ಪೂಯಮಾನಃ",
+          "meaning_en": "being purified / flowing clear",
+          "meaning_kn": "ಶುದ್ಧೀಕರಿಸಲ್ಪಡುತ್ತಾ / ಸ್ವಚ್ಛವಾಗಿ ಹರಿಯುತ್ತಾ"
+        },
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / in return",
+          "meaning_kn": "ಕಡೆಗೆ / ಪ್ರತಿಯಾಗಿ"
+        },
+        {
+          "pada_original": "दे॒वान्",
+          "pada_kn": "ದೇವಾನ್",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अ॒जु॒ष॒त॒",
+          "pada_kn": "ಅಜುಷತ",
+          "meaning_en": "pleased / delighted",
+          "meaning_kn": "ಸಂತೋಷಪಡಿಸಿತು / ಪ್ರೀತಿಸಿತು"
+        },
+        {
+          "pada_original": "प्रयः॑ऽभिः",
+          "pada_kn": "ಪ್ರಯೋಭಿಃ",
+          "meaning_en": "with offerings / with delights",
+          "meaning_kn": "ಪ್ರಿಯವಾದ ಅರ್ಪಣೆಗಳಿಂದ / ಸಂತೋಷಗಳಿಂದ"
+        }
+      ],
+      "full_meaning_en": "O Soma, the tawny stalk, when extracted, courses through the purifying filter, like a chariot speeding forth to attain treasures. As it is purified, it gains renown and vigor, delighting the gods with its delicious libations.",
+      "full_meaning_kn": "ಓ ಸೋಮ, ಸುವರ್ಣ ಕಾಂಡ, ಹಿಂಡಿದಾಗ, ರಥವು ಸಂಪತ್ತನ್ನು ಪಡೆಯಲು ಧಾವಿಸುವಂತೆ, ಶುದ್ಧೀಕರಿಸುವ ಶೋಧಕದ ಮೂಲಕ ಹರಿಯುತ್ತದೆ. ಅದು ಶುದ್ಧೀಕರಿಸಲ್ಪಟ್ಟಂತೆ, ಕೀರ್ತಿ ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಪಡೆಯುತ್ತದೆ, ಮತ್ತು ಅದರ ರುಚಿಕರವಾದ ಅರ್ಪಣೆಗಳೊಂದಿಗೆ ದೇವತೆಗಳನ್ನು ಆನಂದಿಸುತ್ತದೆ.",
+      "Insight_en": "The Soma here is not merely a plant, but represents the awakened consciousness flowing through the channels of the subtle body (nāḍīs). Its purification symbolizes the removal of mental impurities, granting inner strength (ojas) and the blissful experience (ānanda) that delights the inner deities – the senses and faculties.",
+      "Insight_kn": "ಇಲ್ಲಿ ಸೋಮವು ಕೇವಲ ಸಸ್ಯವಲ್ಲ, ಆದರೆ ಸೂಕ್ಷ್ಮ ದೇಹದ ನಾಡಿಗಳ ಮೂಲಕ ಹರಿಯುವ ಜಾಗೃತ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇದರ ಶುದ್ಧೀಕರಣವು ಮಾನಸಿಕ ಕಲ್ಮಶಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಆಂತರಿಕ ಶಕ್ತಿ (ಓಜಸ್) ಮತ್ತು ಆನಂದದಾಯಕ ಅನುಭವವನ್ನು (ಆನಂದ) ನೀಡುತ್ತದೆ, ಇದು ಆಂತರಿಕ ದೇವತೆಗಳನ್ನು ಆನಂದಿಸುತ್ತದೆ - ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಸಾಮರ್ಥ್ಯಗಳು.",
+      "Notes_en": "",
+      "Notes_kn": "",
+      "rig_time_s": 0.0
+    },
+    {
+      "mantra_id": "M9-S92_114-2_6",
+      "mandala": 9,
+      "sukta": 92,
+      "ric_index": 2,
+      "rig_lines": [
+        "अच्छा᳚ नृ॒चक्षा᳚, असरत्प॒वित्रे॒ नाम॒ दधा᳚नः क॒विर॑स्य॒ योनौ᳚ |",
+        "सीद॒न्होते᳚व॒ सद॑ने च॒मूषूपे᳚मग्म॒न्नृष॑यः स॒प्त विप्राः᳚ ||"
+      ],
+      "pre_splits": [
+        "अच्छ॑",
+        "नृ॒ऽचक्षाः᳚",
+        "अ॒स॒र॒त्",
+        "प॒वित्रे᳚",
+        "नाम॑",
+        "दधा᳚नः",
+        "क॒विः",
+        "अ॒स्य॒",
+        "योनौ᳚",
+        "सीद॑न्",
+        "होता᳚ऽ‌इव",
+        "सद॑ने",
+        "च॒मूषु॑",
+        "उप॑",
+        "ई॒‌म्",
+        "अ॒ग्म॒न्",
+        "ऋष॑यः",
+        "स॒प्त",
+        "विप्राः᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अच्छ॑",
+          "pada_kn": "ಅಚ್ಛ",
+          "meaning_en": "towards / near",
+          "meaning_kn": "ಕಡೆಗೆ / ಸಮೀಪ"
+        },
+        {
+          "pada_original": "नृ॒ऽचक्षाः᳚",
+          "pada_kn": "ನೃಚಕ್ಷಾಃ",
+          "meaning_en": "beholder of men / all-seeing",
+          "meaning_kn": "ಮನುಷ್ಯರನ್ನು ನೋಡುವವನು / ಸರ್ವವನ್ನೂ ನೋಡುವವನು"
+        },
+        {
+          "pada_original": "अ॒स॒र॒त्",
+          "pada_kn": "ಅಸರತ್",
+          "meaning_en": "flowed / moved",
+          "meaning_kn": "ಹರಿಯಿತು / ಚಲಿಸಿತು"
+        },
+        {
+          "pada_original": "प॒वित्रे᳚",
+          "pada_kn": "ಪವಿತ್ರೇ",
+          "meaning_en": "into the filter / through the sieve",
+          "meaning_kn": "ಶೋಧಕದೊಳಗೆ / ಜರಡಿಯ ಮೂಲಕ"
+        },
+        {
+          "pada_original": "नाम॑",
+          "pada_kn": "ನಾಮ",
+          "meaning_en": "name / renown",
+          "meaning_kn": "ಹೆಸರು / ಕೀರ್ತಿ"
+        },
+        {
+          "pada_original": "दधा᳚नः",
+          "pada_kn": "ದಧಾನಃ",
+          "meaning_en": "bearing / holding / assuming",
+          "meaning_kn": "ಧರಿಸಿದವನು / ಹೊಂದಿದವನು"
+        },
+        {
+          "pada_original": "क॒विः",
+          "pada_kn": "ಕವಿಃ",
+          "meaning_en": "the seer / the wise one",
+          "meaning_kn": "ಕವಿ / ಜ್ಞಾನಿ"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "of this (Soma's)",
+          "meaning_kn": "ಇದರ / ಸೋಮನ"
+        },
+        {
+          "pada_original": "योनौ᳚",
+          "pada_kn": "ಯೋನೌ",
+          "meaning_en": "in the womb / in the dwelling place",
+          "meaning_kn": "ಗರ್ಭದಲ್ಲಿ / ಸ್ಥಾನದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "सीद॑न्",
+          "pada_kn": "ಸೀದನ್",
+          "meaning_en": "sitting / settling",
+          "meaning_kn": "ಕುಳಿತುಕೊಳ್ಳುತ್ತಾ / ನೆಲೆಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "होता᳚ऽ‌इव",
+          "pada_kn": "ಹೋತಾಇವ",
+          "meaning_en": "like a Hotar priest",
+          "meaning_kn": "ಹೋತೃವಿನಂತೆ"
+        },
+        {
+          "pada_original": "सद॑ने",
+          "pada_kn": "ಸದನೇ",
+          "meaning_en": "in the seat / in the dwelling",
+          "meaning_kn": "ಸ್ಥಾನದಲ್ಲಿ / ಆಸನದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "च॒मूषु॑",
+          "pada_kn": "ಚಮೂಷು",
+          "meaning_en": "into the wooden vessels / sacrificial bowls",
+          "meaning_kn": "ಚಮೂ ಪಾತ್ರೆಗಳಲ್ಲಿ / ಯಜ್ಞಪಾತ್ರೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "near / towards",
+          "meaning_kn": "ಸಮೀಪ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "ई॒‌म्",
+          "pada_kn": "ಈಮ್",
+          "meaning_en": "him / it (Soma)",
+          "meaning_kn": "ಅವನನ್ನು / ಅದನ್ನು"
+        },
+        {
+          "pada_original": "अ॒ग्म॒न्",
+          "pada_kn": "ಅಗ್ಮನ್",
+          "meaning_en": "they went / they approached",
+          "meaning_kn": "ಅವರು ಹೋದರು / ಅವರು ಸಮೀಪಿಸಿದರು"
+        },
+        {
+          "pada_original": "ऋष॑यः",
+          "pada_kn": "ಋಷಯಃ",
+          "meaning_en": "the Rishis / the seers",
+          "meaning_kn": "ಋಷಿಗಳು / ದ್ರಷ್ಟಾರರು"
+        },
+        {
+          "pada_original": "स॒प्त",
+          "pada_kn": "ಸಪ್ತ",
+          "meaning_en": "seven",
+          "meaning_kn": "ಏಳು"
+        },
+        {
+          "pada_original": "विप्राः᳚",
+          "pada_kn": "ವಿಪ್ರಾಃ",
+          "meaning_en": "the inspired ones / the wise ones / the priests",
+          "meaning_kn": "ಪ್ರೇರಿತರು / ಜ್ಞಾನಿಗಳು / ಪುರೋಹಿತರು"
+        }
+      ],
+      "full_meaning_en": "The all-seeing Soma, assuming its celebrated name as the seer, has flowed towards the purifier. Residing in its abode like a Hotar priest, the seven inspired Rishis, wise and discerning, have approached it (Soma) in the sacred vessels.",
+      "full_meaning_kn": "ಸರ್ವವನ್ನೂ ನೋಡುವ ಸೋಮನು, ಪ್ರಸಿದ್ಧ ಋಷಿಯೆಂಬ ಹೆಸರನ್ನು ಧರಿಸಿ, ಶೋಧಕದ ಕಡೆಗೆ ಹರಿದಿದ್ದಾನೆ. ಹೋತೃ ಅರ್ಚಕನಂತೆ ತನ್ನ ಸ್ಥಾನದಲ್ಲಿ ನೆಲೆಸಿ, ಏಳು ಪ್ರೇರಿತ ಋಷಿಗಳು, ಜ್ಞಾನಿಗಳು ಮತ್ತು ವಿವೇಕಿಗಳು, ಪವಿತ್ರ ಪಾತ್ರೆಗಳಲ್ಲಿ ಅವನನ್ನು (ಸೋಮ) ಸಮೀಪಿಸಿದ್ದಾರೆ.",
+      "Insight_en": "Soma represents the awakened consciousness, flowing through the purified channels of perception (the filter). The seven Rishis symbolize the seven chakras or energetic centers, each a source of wisdom, converging towards the divine nectar within. The Hotar represents the inner priest, kindling the sacrificial fire of awareness, transforming sensory experience into spiritual insight. This convergence illuminates the path to self-realization, where individual consciousness merges with the universal.",
+      "Insight_kn": "ಸೋಮವು ಜಾಗೃತ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಶುದ್ಧೀಕರಿಸಿದ ಗ್ರಹಿಕೆಯ ನಾಳಿಕೆಗಳ ಮೂಲಕ ಹರಿಯುತ್ತದೆ (ಶೋಧಕ). ಏಳು ಋಷಿಗಳು ಏಳು ಚಕ್ರಗಳನ್ನು ಅಥವಾ ಶಕ್ತಿಯ ಕೇಂದ್ರಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ, ಪ್ರತಿಯೊಂದೂ ಜ್ಞಾನದ ಮೂಲವಾಗಿದೆ, ದೈವಿಕ ಅಮೃತದ ಕಡೆಗೆ ಒಮ್ಮುಖವಾಗುತ್ತದೆ. ಹೋತೃ ಒಳಗಿನ ಅರ್ಚಕನನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಅರಿವಿನ ಯಜ್ಞದ ಬೆಂಕಿಯನ್ನು ಹೊತ್ತಿಸುತ್ತಾನೆ, ಸಂವೇದನಾಶೀಲ ಅನುಭವವನ್ನು ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟವಾಗಿ ಪರಿವರ್ತಿಸುತ್ತಾನೆ. ಈ ಒಮ್ಮುಖವು ಆತ್ಮ-ಸಾಕ್ಷಾತ್ಕಾರದ ಹಾದಿಯನ್ನು ಬೆಳಗಿಸುತ್ತದೆ, ಅಲ್ಲಿ ವೈಯಕ್ತಿಕ ಪ್ರಜ್ಞೆಯು ಸಾರ್ವತ್ರಿಕತೆಯೊಂದಿಗೆ ವಿಲೀನಗೊಳ್ಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": "",
+      "rig_time_s": 16.133
+    },
+    {
+      "mantra_id": "M9-S92_114-3_6",
+      "mandala": 9,
+      "sukta": 92,
+      "ric_index": 3,
+      "rig_lines": [
+        "प्र सु॑मे॒धा गा᳚तु॒विद्वि॒श्वदे᳚वः॒ सोमः॑ पुना॒नः सद॑ एति॒ नित्य᳚म् |",
+        "भुव॒द्विश्वे᳚षु॒ काव्ये᳚षु॒ रन्तानु॒ जना᳚न्यतते॒ पञ्च॒ धीरः॑ ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "सु॒ऽमे॒धाः",
+        "गा॒तु॒ऽवित्",
+        "वि॒श्वऽदे᳚वः",
+        "सोमः॑",
+        "पु॒ना॒नः",
+        "सदः॑",
+        "ए॒ति॒",
+        "नित्य᳚‌म्",
+        "भुव॑त्",
+        "विश्वे᳚षु",
+        "काव्ये᳚षु",
+        "रन्ता᳚",
+        "अनु॑",
+        "जना᳚न्",
+        "य॒त॒ते॒",
+        "पंच॑",
+        "धीरः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "Forth / Well",
+          "meaning_kn": "ಮುಂದಕ್ಕೆ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "सु॒ऽमे॒धाः",
+          "pada_kn": "ಸುಮೇಧಾಃ",
+          "meaning_en": "Of good intellect / Wise",
+          "meaning_kn": "ಉತ್ತಮ ಬುದ್ಧಿಯುಳ್ಳ / ಜ್ಞಾನಿ"
+        },
+        {
+          "pada_original": "गा॒तु॒ऽवित्",
+          "pada_kn": "ಗಾತುವಿತ್",
+          "meaning_en": "Knower of paths / hymns",
+          "meaning_kn": "ಮಾರ್ಗಗಳನ್ನು / ಸ್ತೋತ್ರಗಳನ್ನು ತಿಳಿದವನು"
+        },
+        {
+          "pada_original": "वि॒श्वऽदे᳚वः",
+          "pada_kn": "ವಿಶ್ವದೇವಃ",
+          "meaning_en": "Belonging to all gods / Universal god",
+          "meaning_kn": "ಸಮಸ್ತ ದೇವತೆಗಳಿಗೂ ಸೇರಿದ / ವಿಶ್ವದೇವ"
+        },
+        {
+          "pada_original": "सोमः॑",
+          "pada_kn": "ಸೋಮಃ",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮನು"
+        },
+        {
+          "pada_original": "पु॒ना॒नः",
+          "pada_kn": "ಪುನಾನಃ",
+          "meaning_en": "Purifying himself / Being purified",
+          "meaning_kn": "ತನ್ನನ್ನು ಶುದ್ಧೀಕರಿಸಿಕೊಳ್ಳುತ್ತಾ / ಶುದ್ಧನಾಗುತ್ತಾ"
+        },
+        {
+          "pada_original": "सदः॑",
+          "pada_kn": "ಸದಃ",
+          "meaning_en": "To the seat / assembly",
+          "meaning_kn": "ಆಸನಕ್ಕೆ / ಸಭೆಗೆ"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "Goes / Approaches",
+          "meaning_kn": "ಹೋಗುತ್ತಾನೆ / ಸಮೀಪಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "नित्य᳚‌म्",
+          "pada_kn": "ನಿತ್ಯಮ್",
+          "meaning_en": "Constantly / Always",
+          "meaning_kn": "ನಿರಂತರವಾಗಿ / ಯಾವಾಗಲೂ"
+        },
+        {
+          "pada_original": "भुव॑त्",
+          "pada_kn": "ಭುವತ್",
+          "meaning_en": "May he be / become",
+          "meaning_kn": "ಅವನು ಆಗಲಿ"
+        },
+        {
+          "pada_original": "विश्वे᳚षु",
+          "pada_kn": "ವಿಶ್ವೇಷು",
+          "meaning_en": "In all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "काव्ये᳚षु",
+          "pada_kn": "ಕಾವ್ಯೇಷು",
+          "meaning_en": "In wise deeds / poetic inspirations",
+          "meaning_kn": "ಜ್ಞಾನಪೂರ್ಣ ಕಾರ್ಯಗಳಲ್ಲಿ / ಕಾವ್ಯಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "रन्ता᳚",
+          "pada_kn": "ರನ್ತಾ",
+          "meaning_en": "Delighting / A delighter",
+          "meaning_kn": "ಆನಂದ ನೀಡುವವನು / ಸಂತೋಷಪಡಿಸುವವನು"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "Among / According to",
+          "meaning_kn": "ಮಧ್ಯೆ / ಅನುಸರಿಸಿ"
+        },
+        {
+          "pada_original": "जना᳚न्",
+          "pada_kn": "ಜನಾನ್",
+          "meaning_en": "Peoples / Beings",
+          "meaning_kn": "ಜನರನ್ನು / ಪ್ರಾಣಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "य॒त॒ते॒",
+          "pada_kn": "ಯತತೇ",
+          "meaning_en": "Strives / Extends",
+          "meaning_kn": "ಪ್ರಯತ್ನಿಸುತ್ತಾನೆ / ವ್ಯಾಪಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "पंच॑",
+          "pada_kn": "ಪಂಚ",
+          "meaning_en": "Five",
+          "meaning_kn": "ಐದು"
+        },
+        {
+          "pada_original": "धीरः॑",
+          "pada_kn": "ಧೀರಃ",
+          "meaning_en": "Wise / Steadfast",
+          "meaning_kn": "ಧೀರನು / ಜ್ಞಾನಿಯು"
+        }
+      ],
+      "full_meaning_en": "O Soma, possessed of excellent wisdom, knower of the paths, belonging to all the gods, purifying yourself, you proceed constantly to the eternal seat. May you be a source of delight in all wise deeds and poetic inspirations; this wise one extends himself among the five peoples.",
+      "full_meaning_kn": "ಓ ಸೋಮ, ಉತ್ತಮ ಜ್ಞಾನವುಳ್ಳವನೇ, ದಾರಿಗಳನ್ನು ತಿಳಿದವನೇ, ಸಕಲ ದೇವತೆಗಳಿಗೆ ಸೇರಿದವನೇ, ನಿನ್ನನ್ನು ಶುದ್ಧೀಕರಿಸಿಕೊಂಡು, ನೀನು ಶಾಶ್ವತ ಪೀಠಕ್ಕೆ ಸತತವಾಗಿ ಸಾಗುತ್ತಿರು. ನೀನು ಎಲ್ಲಾ ಜ್ಞಾನಯುಕ್ತ ಕಾರ್ಯಗಳಲ್ಲಿ ಮತ್ತು ಕಾವ್ಯಾತ್ಮಕ ಪ್ರೇರಣೆಗಳಲ್ಲಿ ಆನಂದದ ಮೂಲವಾಗಬಹುದು; ಈ ಜ್ಞಾನಿಯು ಪಂಚ ಜನರಲ್ಲಿ ತನ್ನನ್ನು ವಿಸ್ತರಿಸಿಕೊಳ್ಳುತ್ತಾನೆ.",
+      "Insight_en": "Soma represents the purified mind, the nectar of divine experience. The five peoples are the five aspects of human existence: physical, vital, mental, intellectual, and spiritual. The wise one, Soma, expands through these aspects when the mind is purified, leading to holistic integration and enlightenment. Purity of consciousness is the key to experiencing ultimate reality.",
+      "Insight_kn": "ಸೋಮವು ಶುದ್ಧೀಕರಿಸಿದ ಮನಸ್ಸನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ದೈವಿಕ ಅನುಭವದ ಅಮೃತವಾಗಿದೆ. ಪಂಚ ಜನರು ಮಾನವ ಅಸ್ತಿತ್ವದ ಐದು ಅಂಶಗಳಾಗಿವೆ: ದೈಹಿಕ, ಪ್ರಾಣ, ಮಾನಸಿಕ, ಬೌದ್ಧಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ. ಜ್ಞಾನಿಯಾದ ಸೋಮನು ಮನಸ್ಸು ಶುದ್ಧವಾದಾಗ ಈ ಅಂಶಗಳ ಮೂಲಕ ವಿಸ್ತರಿಸುತ್ತಾನೆ, ಇದು ಸಮಗ್ರ ಏಕೀಕರಣ ಮತ್ತು ಜ್ಞಾನೋದಯಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಅಂತಿಮ ವಾಸ್ತವತೆಯನ್ನು ಅನುಭವಿಸಲು ಪ್ರಜ್ಞೆಯ ಶುದ್ಧತೆಯೇ ಪ್ರಮುಖವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": "",
+      "rig_time_s": 32.786
+    },
+    {
+      "mantra_id": "M9-S92_114-4_6",
+      "mandala": 9,
+      "sukta": 92,
+      "ric_index": 4,
+      "rig_lines": [
+        "तव॒ त्ये सो᳚म पवमान नि॒ण्ये विश्वे᳚ दे॒वास्त्रय॑ एकाद॒शासः॑ |",
+        "दश॑ स्व॒धाभि॒रधि॒ सानो॒, अव्ये᳚ मृ॒जन्ति॑ त्वा न॒द्यः॑ स॒प्त य॒ह्वीः ||"
+      ],
+      "pre_splits": [
+        "तव॑",
+        "त्ये",
+        "सो॒म॒",
+        "प॒व॒मा॒न॒",
+        "नि॒ण्ये",
+        "विश्वे᳚",
+        "दे॒वाः",
+        "त्रयः॑",
+        "ए॒का॒द॒शासः॑",
+        "दश॑",
+        "स्व॒धाभिः॑",
+        "अधि॑",
+        "सानौ᳚",
+        "अव्ये᳚",
+        "मृ॒जन्ति॑",
+        "त्वा॒",
+        "न॒द्यः॑",
+        "स॒प्त",
+        "य॒ह्वीः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "तव॑",
+          "pada_kn": "ತವ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "त्ये",
+          "pada_kn": "ತ್ಯೇ",
+          "meaning_en": "those",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "सो॒म॒",
+          "pada_kn": "ಸೋಮ",
+          "meaning_en": "O Soma",
+          "meaning_kn": "ಓ ಸೋಮನೇ"
+        },
+        {
+          "pada_original": "प॒व॒मा॒न॒",
+          "pada_kn": "ಪವಮಾನ",
+          "meaning_en": "O Purifier",
+          "meaning_kn": "ಓ ಪವಮಾನನೇ (ಶುದ್ಧೀಕರಿಸುವವನೇ)"
+        },
+        {
+          "pada_original": "नि॒ण्ये",
+          "pada_kn": "ನಿಣ್ಯೇ",
+          "meaning_en": "in the secret (form/essence)",
+          "meaning_kn": "ಗುಪ್ತ ರೂಪದಲ್ಲಿ / ಸಾರದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "विश्वे᳚",
+          "pada_kn": "ವಿಶ್ವೇ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "त्रयः॑",
+          "pada_kn": "ತ್ರಯಃ",
+          "meaning_en": "three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "ए॒का॒द॒शासः॑",
+          "pada_kn": "ಏಕಾದಶಾಃ",
+          "meaning_en": "eleven (three times eleven)",
+          "meaning_kn": "ಹನ್ನೊಂದು (ಮೂವತ್ತಮೂರು)"
+        },
+        {
+          "pada_original": "दश॑",
+          "pada_kn": "ದಶ",
+          "meaning_en": "ten (fingers/powers)",
+          "meaning_kn": "ಹತ್ತು (ಬೆರಳುಗಳು/ಶಕ್ತಿಗಳು)"
+        },
+        {
+          "pada_original": "स्व॒धाभिः॑",
+          "pada_kn": "ಸ್ವಧಾಭಿಃ",
+          "meaning_en": "with their powers / with offerings",
+          "meaning_kn": "ತಮ್ಮ ಶಕ್ತಿಗಳಿಂದ / ಅರ್ಪಣೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon / over",
+          "meaning_kn": "ಮೇಲೆ"
+        },
+        {
+          "pada_original": "सानौ᳚",
+          "pada_kn": "ಸಾನೌ",
+          "meaning_en": "on the ridge / on the back (of the filter)",
+          "meaning_kn": "ಸಾನುವಿನ ಮೇಲೆ / ಜರಡಿಯ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "अव्ये᳚",
+          "pada_kn": "ಅವ್ಯೇ",
+          "meaning_en": "on the sheep's fleece / on the wool (filter)",
+          "meaning_kn": "ಉಣ್ಣೆಯ ಜರಡಿಯ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "मृ॒जन्ति॑",
+          "pada_kn": "ಮೃಜಂತಿ",
+          "meaning_en": "they purify / they cleanse",
+          "meaning_kn": "ಅವರು ಶುದ್ಧೀಕರಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "न॒द्यः॑",
+          "pada_kn": "ನದ್ಯಃ",
+          "meaning_en": "rivers",
+          "meaning_kn": "ನದಿಗಳು"
+        },
+        {
+          "pada_original": "स॒प्त",
+          "pada_kn": "ಸಪ್ತ",
+          "meaning_en": "seven",
+          "meaning_kn": "ಏಳು"
+        },
+        {
+          "pada_original": "य॒ह्वीः",
+          "pada_kn": "ಯಹ್ವೀಃ",
+          "meaning_en": "mighty / great / flowing",
+          "meaning_kn": "ಮಹಾನ್ / ಪ್ರಬಲವಾಗಿ ಹರಿಯುವ"
+        }
+      ],
+      "full_meaning_en": "O Soma Pavamana, in your hidden essence, those thirty-three gods—three elevens—and the ten powers purify you with their inherent strengths. The seven mighty rivers cleanse you on the heights of the wool filter.",
+      "full_meaning_kn": "ಓ ಸೋಮ ಪವಮಾನ, ನಿನ್ನ ಗುಪ್ತ ಸಾರದಲ್ಲಿ, ಮೂರು ಹನ್ನೊಂದು (ಮೂವತ್ಮೂರು) ದೇವತೆಗಳು ಮತ್ತು ಹತ್ತು ಶಕ್ತಿಗಳು ತಮ್ಮ ಸಹಜ ಸಾಮರ್ಥ್ಯದಿಂದ ನಿನ್ನನ್ನು ಶುದ್ಧೀಕರಿಸುತ್ತಾರೆ. ಏಳು ಪ್ರಬಲ ನದಿಗಳು ಉಣ್ಣೆಯ ಜರಡಿಯ ಎತ್ತರದಲ್ಲಿ ನಿನ್ನನ್ನು ತೊಳೆದು ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತವೆ.",
+      "Insight_en": "The purification of Soma Pavamana represents the refinement of consciousness. The thirty-three gods signify the diverse aspects of divine intelligence that operate within the universe and the individual. The ten powers represent the senses and inherent energies. The seven rivers symbolize the vital currents that purify and elevate consciousness through the wool filter—the discriminating intellect.",
+      "Insight_kn": "ಸೋಮ ಪವಮಾನನ ಶುದ್ಧೀಕರಣವು ಪ್ರಜ್ಞೆಯ ಪರಿಷ್ಕರಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಮೂವತ್ಮೂರು ದೇವತೆಗಳು ವಿಶ್ವ ಮತ್ತು ವ್ಯಕ್ತಿಯಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ದೈವಿಕ ಬುದ್ಧಿವಂತಿಕೆಯ ವಿವಿಧ ಅಂಶಗಳನ್ನು ಸೂಚಿಸುತ್ತಾರೆ. ಹತ್ತು ಶಕ್ತಿಗಳು ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಅಂತರ್ಗತ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಏಳು ನದಿಗಳು ವಿವೇಚನಾಶಕ್ತಿಯಾದ ಉಣ್ಣೆಯ ಜರಡಿಯ ಮೂಲಕ ಪ್ರಜ್ಞೆಯನ್ನು ಶುದ್ಧೀಕರಿಸುವ ಮತ್ತು ಉನ್ನತೀಕರಿಸುವ ಪ್ರಮುಖ ಪ್ರವಾಹಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": "",
+      "rig_time_s": 48.785
+    },
+    {
+      "mantra_id": "M9-S92_114-5_6",
+      "mandala": 9,
+      "sukta": 92,
+      "ric_index": 5,
+      "rig_lines": [
+        "तन्नु स॒त्यं पव॑मानस्यास्तु॒ यत्र॒ विश्वे᳚ का॒रवः॑ सं॒नस᳚न्त |",
+        "ज्योति॒र्यदह्ने॒, अकृ॑णोदु लो॒कं प्राव॒न्मनुं॒ दस्य॑वे कर॒भीक᳚म् ||"
+      ],
+      "pre_splits": [
+        "तत्",
+        "नु",
+        "स॒त्य‌म्",
+        "पव॑मानस्य",
+        "अ॒स्तु॒",
+        "यत्र॑",
+        "विश्वे᳚",
+        "का॒रवः॑",
+        "स॒‌म्ऽनस᳚न्त",
+        "ज्योतिः॑",
+        "यत्",
+        "अह्ने᳚",
+        "अकृ॑णोत्",
+        "ऊँ॒ इति॑",
+        "लो॒क‌म्",
+        "प्र",
+        "आ॒व॒त्",
+        "मनु᳚‌म्",
+        "दस्य॑वे",
+        "कः॒",
+        "अ॒भीक᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "That / Therefore",
+          "meaning_kn": "ಅದು / ಆದ್ದರಿಂದ"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "Indeed / now",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಈಗ"
+        },
+        {
+          "pada_original": "स॒त्य‌म्",
+          "pada_kn": "ಸತ್ಯಮ್",
+          "meaning_en": "Truth / true",
+          "meaning_kn": "ಸತ್ಯ / ನಿಜವಾದ"
+        },
+        {
+          "pada_original": "पव॑मानस्य",
+          "pada_kn": "ಪವಮಾನಸ್ಯ",
+          "meaning_en": "Of the flowing Soma / of the purifier",
+          "meaning_kn": "ಹರಿಯುವ ಸೋಮದ / ಪವಿತ್ರಗೊಳಿಸುವವನ"
+        },
+        {
+          "pada_original": "अ॒स्तु॒",
+          "pada_kn": "ಅಸ್ತು",
+          "meaning_en": "Let it be",
+          "meaning_kn": "ಇರಲಿ"
+        },
+        {
+          "pada_original": "यत्र॑",
+          "pada_kn": "ಯತ್ರ",
+          "meaning_en": "Where",
+          "meaning_kn": "ಎಲ್ಲಿ"
+        },
+        {
+          "pada_original": "विश्वे᳚",
+          "pada_kn": "ವಿಶ್ವೇ",
+          "meaning_en": "All",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "का॒रवः॑",
+          "pada_kn": "ಕಾರವಃ",
+          "meaning_en": "Singers / praisers",
+          "meaning_kn": "ಸ್ತುತಿಸುವವರು / ಕವಿಗಳು"
+        },
+        {
+          "pada_original": "स॒‌म्ऽनस᳚न्त",
+          "pada_kn": "ಸಮ್ನಸಂತ",
+          "meaning_en": "May they meet / may they gather",
+          "meaning_kn": "ಅವರು ಸೇರಲಿ / ಒಟ್ಟುಗೂಡಲಿ"
+        },
+        {
+          "pada_original": "ज्योतिः॑",
+          "pada_kn": "ಜ್ಯೋತಿಃ",
+          "meaning_en": "Light",
+          "meaning_kn": "ಬೆಳಕು"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "Which",
+          "meaning_kn": "ಯಾವುದು"
+        },
+        {
+          "pada_original": "अह्ने᳚",
+          "pada_kn": "ಅಹ್ನೇ",
+          "meaning_en": "For the day",
+          "meaning_kn": "ದಿನಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "अकृ॑णोत्",
+          "pada_kn": "ಅಕೃಣೋತ್",
+          "meaning_en": "He made / he created",
+          "meaning_kn": "ಅವನು ಮಾಡಿದನು / ಸೃಷ್ಟಿಸಿದನು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "(particle of emphasis/completion)",
+          "meaning_kn": "ಒಂದು ಒತ್ತಿ ಹೇಳುವ ಅವ್ಯಯ"
+        },
+        {
+          "pada_original": "लो॒क‌म्",
+          "pada_kn": "ಲೋಕಮ್",
+          "meaning_en": "Space / world / realm",
+          "meaning_kn": "ಸ್ಥಳ / ಲೋಕ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "Forth / well",
+          "meaning_kn": "ಮುಂದೆ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "आ॒व॒त्",
+          "pada_kn": "ಆವತ್",
+          "meaning_en": "He protected / he helped",
+          "meaning_kn": "ಅವನು ರಕ್ಷಿಸಿದನು / ಸಹಾಯ ಮಾಡಿದನು"
+        },
+        {
+          "pada_original": "मनु᳚‌म्",
+          "pada_kn": "ಮನುಮ್",
+          "meaning_en": "Manu (the first man)",
+          "meaning_kn": "ಮನು"
+        },
+        {
+          "pada_original": "दस्य॑वे",
+          "pada_kn": "ದಸ್ಯವೇ",
+          "meaning_en": "For the Dasyu (enemy/demon)",
+          "meaning_kn": "ದಸ್ಯುವಿಗಾಗಿ / ಶತ್ರುವಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "कः॒",
+          "pada_kn": "ಕಃ",
+          "meaning_en": "(particle, perhaps emphasizing)",
+          "meaning_kn": "ಒಂದು ಅವ್ಯಯ"
+        },
+        {
+          "pada_original": "अ॒भीक᳚‌म्",
+          "pada_kn": "ಅಭೀಕಮ್",
+          "meaning_en": "Terrifying / causing fear",
+          "meaning_kn": "ಭಯಾನಕವಾದ / ಭಯ ಹುಟ್ಟಿಸುವ"
+        }
+      ],
+      "full_meaning_en": "May that truth of the purifying Soma be established, where all the performers of sacred acts assemble. The Soma, which fashioned light for the day and space for the world, protected Manu from the Dasyu, who sought to possess like a grasping hand.",
+      "full_meaning_kn": "ಪವಮಾನ ಸೋಮನ ಸತ್ಯವು ಸ್ಥಾಪಿತವಾಗಲಿ, ಅಲ್ಲಿ ಪವಿತ್ರ ಕಾರ್ಯಗಳನ್ನು ಮಾಡುವವರೆಲ್ಲರೂ ಸೇರುತ್ತಾರೆ. ಸೋಮನು, ದಿನಕ್ಕೆ ಬೆಳಕನ್ನು ಮತ್ತು ಜಗತ್ತಿಗೆ ಸ್ಥಳವನ್ನು ಸೃಷ್ಟಿಸಿದನು, ಕೈಯಿಂದ ಹಿಡಿಯುವ ದಸ್ಯುವಿನಿಂದ ಮನುವನ್ನು ರಕ್ಷಿಸಿದನು.",
+      "Insight_en": "The true essence of Soma lies in its capacity to gather all those who seek the sacred. This gathering illuminates both the inner self (day) and the outer world (space). The protection of Manu signifies the safeguarding of the inner, contemplative mind from the grasping darkness (Dasyu) that seeks to steal its light. Soma facilitates the establishment of truth, illuminating the path and protecting the seeker from internal and external threats.",
+      "Insight_kn": "ಸೋಮದ ನಿಜವಾದ ಸಾರವು ಪವಿತ್ರವನ್ನು ಬಯಸುವ ಎಲ್ಲರನ್ನು ಒಟ್ಟುಗೂಡಿಸುವ ಸಾಮರ್ಥ್ಯದಲ್ಲಿದೆ. ಈ ಕೂಟವು ಆಂತರಿಕ ಆತ್ಮ (ದಿನ) ಮತ್ತು ಬಾಹ್ಯ ಜಗತ್ತು (ಸ್ಥಳ) ಎರಡನ್ನೂ ಬೆಳಗಿಸುತ್ತದೆ. ಮನುವಿನ ರಕ್ಷಣೆಯು ಬೆಳಕನ್ನು ಕದಿಯಲು ಬಯಸುವ ಕತ್ತಲೆಯ (ದಸ್ಯು) ಹಿಡಿತದಿಂದ ಆಂತರಿಕ, ಚಿಂತನಶೀಲ ಮನಸ್ಸನ್ನು ರಕ್ಷಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸತ್ಯವನ್ನು ಸ್ಥಾಪಿಸಲು ಸೋಮನು ಅನುವು ಮಾಡಿಕೊಡುತ್ತಾನೆ, ಮಾರ್ಗವನ್ನು ಬೆಳಗಿಸುತ್ತಾನೆ ಮತ್ತು ಆಂತರಿಕ ಮತ್ತು ಬಾಹ್ಯ ಬೆದರಿಕೆಗಳಿಂದ ಸಾಧಕನನ್ನು ರಕ್ಷಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": "",
+      "rig_time_s": 64.426
+    },
+    {
+      "mantra_id": "M9-S92_114-6_6",
+      "mandala": 9,
+      "sukta": 92,
+      "ric_index": 6,
+      "rig_lines": [
+        "परि॒ सद्मे᳚व पशु॒मान्ति॒ होता॒ राजा॒ न स॒त्यः समि॑तीरिया॒नः |",
+        "सोमः॑ पुना॒नः क॒लशाँ᳚, अयासी॒त्सीद᳚न्‌ मृ॒गो न म॑हि॒षो वने᳚षु ||"
+      ],
+      "pre_splits": [
+        "परि॑",
+        "सद्म॑ऽ‌इव",
+        "प॒शु॒ऽमन्ति॑",
+        "होता᳚",
+        "राजा᳚",
+        "न",
+        "स॒त्यः",
+        "स‌म्ऽ‌इ᳚तीः",
+        "इ॒या॒नः",
+        "सोमः॑",
+        "पु॒ना॒नः",
+        "क॒लशा᳚न्",
+        "अ॒या॒सी॒त्",
+        "सीद॑न्",
+        "मृ॒गः",
+        "न",
+        "म॒हि॒षः",
+        "वने᳚षु"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / fully",
+          "meaning_kn": "ಪೂರ್ಣವಾಗಿ / ಸುತ್ತಲೂ"
+        },
+        {
+          "pada_original": "सद्म॑ऽ‌इव",
+          "pada_kn": "ಸದ್ಮೈವ",
+          "meaning_en": "like a house/dwelling",
+          "meaning_kn": "ಮನೆಯಂತೆ"
+        },
+        {
+          "pada_original": "प॒शु॒ऽमन्ति॑",
+          "pada_kn": "ಪಶುಮನ್ತಿ",
+          "meaning_en": "rich in cattle/wealth",
+          "meaning_kn": "ಪಶುಗಳಿಂದ/ಸಂಪತ್ತಿನಿಂದ ಸಮೃದ್ಧವಾದ"
+        },
+        {
+          "pada_original": "होता᳚",
+          "pada_kn": "ಹೋತಾ",
+          "meaning_en": "the invoker (priest)",
+          "meaning_kn": "ಆಹ್ವಾನಿಸುವವನು / ಹೋತೃ"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "a king",
+          "meaning_kn": "ರಾಜನು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "स॒त्यः",
+          "pada_kn": "ಸತ್ಯಃ",
+          "meaning_en": "true / truthful",
+          "meaning_kn": "ಸತ್ಯವಂತನು / ನಿಜವಾದ"
+        },
+        {
+          "pada_original": "स‌म्ऽ‌इ᳚तीः",
+          "pada_kn": "ಸಮಿತೀಃ",
+          "meaning_en": "assemblies / gatherings",
+          "meaning_kn": "ಸಭೆಗಳನ್ನು / ಸಮಿತಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "इ॒या॒नः",
+          "pada_kn": "ಇಯಾನಃ",
+          "meaning_en": "going / approaching",
+          "meaning_kn": "ಹೋಗುವವನು / ಸಮೀಪಿಸುವವನು"
+        },
+        {
+          "pada_original": "सोमः॑",
+          "pada_kn": "ಸೋಮಃ",
+          "meaning_en": "Soma",
+          "meaning_kn": "ಸೋಮನು"
+        },
+        {
+          "pada_original": "पु॒ना॒नः",
+          "pada_kn": "ಪುನಾನಃ",
+          "meaning_en": "being purified / flowing",
+          "meaning_kn": "ಶುದ್ಧೀಕರಿಸಲ್ಪಡುತ್ತಾ / ಹರಿಯುತ್ತಾ"
+        },
+        {
+          "pada_original": "क॒लशा᳚न्",
+          "pada_kn": "ಕಲಶಾನ್",
+          "meaning_en": "to the pitchers / vessels",
+          "meaning_kn": "ಕಲಶಗಳಿಗೆ / ಪಾತ್ರೆಗಳಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒या॒सी॒त्",
+          "pada_kn": "ಅಯಾಸೀತ್",
+          "meaning_en": "went / flowed",
+          "meaning_kn": "ಹರಿಯಿತು / ಹೋಯಿತು"
+        },
+        {
+          "pada_original": "सीद॑न्",
+          "pada_kn": "ಸೀದನ್",
+          "meaning_en": "sitting / settling down",
+          "meaning_kn": "ಕುಳಿತುಕೊಳ್ಳುತ್ತಾ / ನೆಲೆಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "मृ॒गः",
+          "pada_kn": "ಮೃಗಃ",
+          "meaning_en": "a wild animal / deer",
+          "meaning_kn": "ಮೃಗವು / ಜಿಂಕೆಯು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "म॒हि॒षः",
+          "pada_kn": "ಮಹಿಷಃ",
+          "meaning_en": "a mighty animal / buffalo",
+          "meaning_kn": "ಮಹಿಷವು / ಬಲಶಾಲಿ ಮೃಗವು"
+        },
+        {
+          "pada_original": "वने᳚षु",
+          "pada_kn": "ವನೇಷು",
+          "meaning_en": "in the forests",
+          "meaning_kn": "ಕಾಡುಗಳಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "The Soma, being purified, flows into the vessels, just as a Hotā priest, rich in cattle like a well-established home, approaches; or like a truthful king proceeding to his assemblies; or like a strong wild beast settling in the forests.",
+      "full_meaning_kn": "ಪರಿಶುದ್ಧವಾದ ಸೋಮವು ಪಾತ್ರೆಗಳಿಗೆ ಹರಿಯುತ್ತದೆ, ಅದು ಹೋಟಾ ಎಂಬ ಪುರೋಹಿತನು, ದನಸಂಪತ್ತಿನಿಂದ ತುಂಬಿದ ಮನೆಯಂತೆ ಸಮೀಪಿಸುತ್ತಾನೆ; ಅಥವಾ ಸತ್ಯವಂತ ರಾಜನು ಸಭೆಗಳಿಗೆ ಹೊರಡುವಂತೆ; ಅಥವಾ ಬಲಿಷ್ಠ ಕಾಡುಮೃಗವು ಕಾಡಿನಲ್ಲಿ ನೆಲೆಗೊಳ್ಳುವಂತೆ.",
+      "Insight_en": "Soma represents the purified consciousness flowing into the vessels of our being. The Hotā priest signifies the awakened intellect, rich in spiritual wisdom. The truthful king embodies righteous action, and the strong wild beast represents the untamed vital energy finding its natural abode. The mantra speaks to the integration of intellect, action, and vital energy through the transformative power of purified awareness.",
+      "Insight_kn": "ಸೋಮವು ಶುದ್ಧೀಕರಿಸಿದ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಅದು ನಮ್ಮ ಅಸ್ತಿತ್ವದ ಪಾತ್ರೆಗಳಿಗೆ ಹರಿಯುತ್ತದೆ. ಹೋತಾ ಪುರೋಹಿತನು ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನದಲ್ಲಿ ಸಮೃದ್ಧನಾದ ಜಾಗೃತ ಬುದ್ಧಿಯನ್ನು ಸೂಚಿಸುತ್ತಾನೆ. ಸತ್ಯವಂತ ರಾಜನು ಧರ್ಮನಿಷ್ಠ ಕ್ರಿಯೆಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ, ಮತ್ತು ಬಲಿಷ್ಠ ಕಾಡುಮೃಗವು ತನ್ನ ನೈಸರ್ಗಿಕ ನೆಲೆಯನ್ನು ಕಂಡುಕೊಳ್ಳುವ ಹತೋಟಿಗೆ ಬಾರದ ಪ್ರಾಣಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಶುದ್ಧೀಕರಿಸಿದ ಅರಿವಿನ ಪರಿವರ್ತಕ ಶಕ್ತಿಯ ಮೂಲಕ ಬುದ್ಧಿ, ಕ್ರಿಯೆ ಮತ್ತು ಪ್ರಾಣಶಕ್ತಿಗಳ ಏಕೀಕರಣದ ಬಗ್ಗೆ ಈ ಮಂತ್ರವು ಮಾತನಾಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": "",
+      "rig_time_s": 79.332
+    }
+  ]
+}

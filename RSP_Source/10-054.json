@@ -1,0 +1,979 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S54_191-1_6",
+      "mandala": 10,
+      "sukta": 54,
+      "ric_index": 1,
+      "rig_lines": [
+        "तां सु ते᳚ की॒र्तिं म॑घवन्महि॒त्वा यत्‌ त्वा᳚ भी॒ते रोद॑सी॒, अह्व॑येताम् |",
+        "प्रावो᳚ दे॒वाँ, आति॑रो॒ दास॒मोजः॑ प्र॒जायै᳚ त्वस्यै॒ यदशि॑क्ष इन्द्र ||"
+      ],
+      "pre_splits": [
+        "ता‌म्",
+        "सु",
+        "ते॒",
+        "की॒र्ति‌म्",
+        "म॒घ॒ऽव॒न्",
+        "म॒हि॒ऽत्वा",
+        "यत्",
+        "त्वा॒",
+        "भी॒ते इति॑",
+        "रोद॑सी॒ इति॑",
+        "अह्व॑येता‌म्",
+        "प्र",
+        "आ॒वः॒",
+        "दे॒वान्",
+        "आ",
+        "अ॒ति॒रः॒",
+        "दास᳚‌म्",
+        "ओजः॑",
+        "प्र॒ऽजायै᳚",
+        "त्व॒स्यै॒",
+        "यत्",
+        "अशि॑क्षः",
+        "इ॒न्द्र॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ता‌म्",
+          "pada_kn": "ತಾಂ",
+          "meaning_en": "that / such",
+          "meaning_kn": "ಆ / ಅಂತಹ"
+        },
+        {
+          "pada_original": "सु",
+          "pada_kn": "ಸು",
+          "meaning_en": "indeed / well",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "की॒र्ति‌म्",
+          "pada_kn": "ಕೀರ್ತಿಮ್",
+          "meaning_en": "fame / glory",
+          "meaning_kn": "ಕೀರ್ತಿ / ಖ್ಯಾತಿ"
+        },
+        {
+          "pada_original": "म॒घ॒ऽव॒न्",
+          "pada_kn": "ಮಘವನ್",
+          "meaning_en": "O Bountiful One / O Indra",
+          "meaning_kn": "ಓ ಧನವಂತನೇ / ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "म॒हि॒ऽत्वा",
+          "pada_kn": "ಮಹಿತ್ವಾ",
+          "meaning_en": "by greatness / with might",
+          "meaning_kn": "ಮಹತ್ವದಿಂದ / ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "भी॒ते इति॑",
+          "pada_kn": "ಭೀತೇ ಇತಿ",
+          "meaning_en": "frightened / terrified (two)",
+          "meaning_kn": "ಭಯಭೀತರಾದ (ಎರಡು)"
+        },
+        {
+          "pada_original": "रोद॑सी॒ इति॑",
+          "pada_kn": "ರೋದಸೀ ಇತಿ",
+          "meaning_en": "Heaven and Earth",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥಿವಿಗಳು (ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ)"
+        },
+        {
+          "pada_original": "अह्व॑येता‌म्",
+          "pada_kn": "ಅಹ್ವಯೇತಾಮ್",
+          "meaning_en": "invoked / called upon",
+          "meaning_kn": "ಆಹ್ವಾನಿಸಿದವು / ಕರೆದವು"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "आ॒वः॒",
+          "pada_kn": "ಆವಃ",
+          "meaning_en": "you protected",
+          "meaning_kn": "ನೀನು ರಕ್ಷಿಸಿದೆ"
+        },
+        {
+          "pada_original": "दे॒वान्",
+          "pada_kn": "ದೇವಾನ್",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "completely / utterly",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒ति॒रः॒",
+          "pada_kn": "ಅತಿರಃ",
+          "meaning_en": "you overcame / extended",
+          "meaning_kn": "ನೀನು ಜಯಿಸಿದೆ / ವಿಸ್ತರಿಸಿದೆ"
+        },
+        {
+          "pada_original": "दास᳚‌म्",
+          "pada_kn": "ದಾಸಮ್",
+          "meaning_en": "the Dasa / enemy",
+          "meaning_kn": "ದಾಸನನ್ನು / ಶತ್ರುವನ್ನು"
+        },
+        {
+          "pada_original": "ओजः॑",
+          "pada_kn": "ಓಜಃ",
+          "meaning_en": "might / strength",
+          "meaning_kn": "ಶಕ್ತಿ / ಬಲ"
+        },
+        {
+          "pada_original": "प्र॒ऽजायै᳚",
+          "pada_kn": "ಪ್ರಜಾಯೈ",
+          "meaning_en": "for the progeny / for the offspring",
+          "meaning_kn": "ಸಂತತಿಗಾಗಿ / ಪ್ರಜೆಗಳಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "त्व॒स्यै॒",
+          "pada_kn": "ತ್ವಸ್ಯೈ",
+          "meaning_en": "for this (progeny)",
+          "meaning_kn": "ಈ (ಸಂತತಿಗಾಗಿ)"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / because",
+          "meaning_kn": "ಯಾವಾಗ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "अशि॑क्षः",
+          "pada_kn": "ಅಶಿಕ್ಷಃ",
+          "meaning_en": "you helped / granted aid",
+          "meaning_kn": "ನೀನು ಸಹಾಯ ಮಾಡಿದೆ / ನೆರವು ನೀಡಿದೆ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರ"
+        }
+      ],
+      "full_meaning_en": "O Maghavan (Indra), that is your fame due to your greatness, when the trembling heaven and earth invoked you. You protected the gods, overcame the Dasa (demon) with strength, and instructed (granted ability) for the sake of this progeny.",
+      "full_meaning_kn": "ಓ ಮಘವನ್ (ಇಂದ್ರ), ನಿನ್ನ ಮಹತ್ತ್ವದಿಂದ ನಿನ್ನ ಕೀರ್ತಿಯು ಅದು, ನಡುಗುವ ದ್ಯಾವಾಪೃಥಿವಿಗಳು ನಿನ್ನನ್ನು ಕರೆದಾಗ. ನೀನು ದೇವತೆಗಳನ್ನು ರಕ್ಷಿಸಿದೆ, ದಾಸನನ್ನು (ರಾಕ್ಷಸನನ್ನು) ಬಲದಿಂದ ಜಯಿಸಿದೆ, ಮತ್ತು ಈ ಸಂತಾನಕ್ಕಾಗಿ ಉಪದೇಶಿಸಿದೆ (ಸಾಮರ್ಥ್ಯವನ್ನು ನೀಡಿದೆ).",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra praises Indra's greatness and his role in protecting the divine order. The trembling of heaven and earth signifies a state of cosmic crisis, highlighting Indra's power to restore balance. By overcoming the Dasa, Indra symbolizes the triumph of good over evil, safeguarding the world for the Devas and their progeny. The act of instructing or granting ability (अशिक्ष) for the sake of progeny indicates a blessing for future generations, ensuring their strength and prosperity. Indra's actions are thus seen as essential for cosmic stability and the welfare of humanity.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಇಂದ್ರನ ಶ್ರೇಷ್ಠತೆ ಮತ್ತು ದೈವಿಕ ಕ್ರಮವನ್ನು ರಕ್ಷಿಸುವಲ್ಲಿ ಅವನ ಪಾತ್ರವನ್ನು ಸ್ತುತಿಸುತ್ತದೆ. ದ್ಯಾವಾಪೃಥಿವಿಗಳ ನಡುಕವು ಕಾಸ್ಮಿಕ್ ಬಿಕ್ಕಟ್ಟಿನ ಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಸಮತೋಲನವನ್ನು ಪುನಃಸ್ಥಾಪಿಸುವ ಇಂದ್ರನ ಶಕ್ತಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ದಾಸನನ್ನು ಜಯಿಸುವ ಮೂಲಕ, ಇಂದ್ರನು ದುಷ್ಟರ ಮೇಲೆ ಒಳ್ಳೆಯದ ವಿಜಯವನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ, ದೇವತೆಗಳು ಮತ್ತು ಅವರ ಸಂತತಿಗಾಗಿ ಜಗತ್ತನ್ನು ರಕ್ಷಿಸುತ್ತಾನೆ. ಸಂತಾನಕ್ಕಾಗಿ ಉಪದೇಶಿಸುವ ಅಥವಾ ಸಾಮರ್ಥ್ಯವನ್ನು ನೀಡುವ ಕ್ರಿಯೆ (ಅಶಿಕ್ಷ) ಭವಿಷ್ಯದ ಪೀಳಿಗೆಗೆ ಆಶೀರ್ವಾದವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅವರ ಶಕ್ತಿ ಮತ್ತು ಸಮೃದ್ಧಿಯನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ. ಹೀಗಾಗಿ ಇಂದ್ರನ ಕಾರ್ಯಗಳು ಕಾಸ್ಮಿಕ್ ಸ್ಥಿರತೆ ಮತ್ತು ಮಾನವೀಯತೆಯ ಕಲ್ಯಾಣಕ್ಕೆ ಅವಶ್ಯಕವೆಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S54_191-2_6",
+      "mandala": 10,
+      "sukta": 54,
+      "ric_index": 2,
+      "rig_lines": [
+        "यदच॑रस्त॒न्वा᳚ वावृधा॒नो बला᳚नीन्द्र प्रब्रुवा॒णो जने᳚षु |",
+        "मा॒येत्सा ते॒ यानि॑ यु॒द्धान्या॒हुर्नाद्य शत्रुं᳚ न॒नु पु॒रा वि॑वित्से ||"
+      ],
+      "pre_splits": [
+        "यत्",
+        "अच॑रः",
+        "त॒न्वा᳚",
+        "व॒वृ॒धा॒नः",
+        "बला᳚नि",
+        "इ॒न्द्र॒",
+        "प्र॒ऽब्रु॒वा॒णः",
+        "जने᳚षु",
+        "मा॒या",
+        "इत्",
+        "सा",
+        "ते॒",
+        "यानि॑",
+        "यु॒द्धानि॑",
+        "आ॒हुः",
+        "न",
+        "अ॒द्य",
+        "शत्रु᳚‌म्",
+        "न॒नु",
+        "पु॒रा",
+        "वि॒वि॒त्से॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "what / which",
+          "meaning_kn": "ಯಾವುದು / ಏನು"
+        },
+        {
+          "pada_original": "अच॑रः",
+          "pada_kn": "ಅಚರಃ",
+          "meaning_en": "you moved / you acted",
+          "meaning_kn": "ನೀನು ಚಲಿಸಿದೆ / ನೀನು ಕಾರ್ಯವೆಸಗಿದೆ"
+        },
+        {
+          "pada_original": "त॒न्वा᳚",
+          "pada_kn": "ತನ್ವಾ",
+          "meaning_en": "with your body / by yourself",
+          "meaning_kn": "ನಿನ್ನ ಶರೀರದಿಂದ / ಸ್ವತಃ ನೀನೇ"
+        },
+        {
+          "pada_original": "व॒वृ॒धा॒नः",
+          "pada_kn": "ವವೃಧಾನಃ",
+          "meaning_en": "growing / increasing",
+          "meaning_kn": "ಬೆಳೆಯುತ್ತಾ / ವೃದ್ಧಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "बला᳚नि",
+          "pada_kn": "ಬಲಾನಿ",
+          "meaning_en": "powers / strengths",
+          "meaning_kn": "ಶಕ್ತಿಗಳನ್ನು / ಬಲಗಳನ್ನು"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರ"
+        },
+        {
+          "pada_original": "प्र॒ऽब्रु॒वा॒णः",
+          "pada_kn": "ಪ್ರಬ್ರುವಾಣಃ",
+          "meaning_en": "proclaiming / declaring",
+          "meaning_kn": "ಘೋಷಿಸುತ್ತಾ / ಸಾರುತ್ತಾ"
+        },
+        {
+          "pada_original": "जने᳚षु",
+          "pada_kn": "ಜನೇಷು",
+          "meaning_en": "among people / to people",
+          "meaning_kn": "ಜನರಲ್ಲಿ / ಜನರಿಗೆ"
+        },
+        {
+          "pada_original": "मा॒या",
+          "pada_kn": "ಮಾಯಾ",
+          "meaning_en": "illusion / magical power",
+          "meaning_kn": "ಮಾಯೆ / ಇಂದ್ರಜಾಲ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "सा",
+          "pada_kn": "ಸಾ",
+          "meaning_en": "that (illusion)",
+          "meaning_kn": "ಆ (ಮಾಯೆ)"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your / by you",
+          "meaning_kn": "ನಿನ್ನ / ನಿನ್ನಿಂದ"
+        },
+        {
+          "pada_original": "यानि॑",
+          "pada_kn": "ಯಾನಿ",
+          "meaning_en": "which",
+          "meaning_kn": "ಯಾವ"
+        },
+        {
+          "pada_original": "यु॒द्धानि॑",
+          "pada_kn": "ಯುದ್ಧಾನಿ",
+          "meaning_en": "battles / fights",
+          "meaning_kn": "ಯುದ್ಧಗಳು / ಕದನಗಳು"
+        },
+        {
+          "pada_original": "आ॒हुः",
+          "pada_kn": "ಆಹುಃ",
+          "meaning_en": "they say / they call",
+          "meaning_kn": "ಅವರು ಹೇಳುತ್ತಾರೆ / ಅವರು ಕರೆಯುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "अ॒द्य",
+          "pada_kn": "ಅದ್ಯ",
+          "meaning_en": "today / now",
+          "meaning_kn": "ಇಂದು / ಈಗ"
+        },
+        {
+          "pada_original": "शत्रु᳚‌म्",
+          "pada_kn": "ಶತ್ರುಮ್",
+          "meaning_en": "enemy",
+          "meaning_kn": "ಶತ್ರುವನ್ನು"
+        },
+        {
+          "pada_original": "न॒नु",
+          "pada_kn": "ನನು",
+          "meaning_en": "surely / indeed",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "पु॒रा",
+          "pada_kn": "ಪುರಾ",
+          "meaning_en": "formerly / in the past",
+          "meaning_kn": "ಹಿಂದೆ / ಪೂರ್ವದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "वि॒वि॒त्से॒",
+          "pada_kn": "ವಿವಿತ್ಸೇ",
+          "meaning_en": "I found / I experienced",
+          "meaning_kn": "ನಾನು ಕಂಡುಕೊಂಡೆ / ನಾನು ಅನುಭವಿಸಿದೆ"
+        }
+      ],
+      "full_meaning_en": "O Indra, as you moved, growing in strength, proclaiming your powers among the people, these battles they speak of are indeed your divine strategies. Today you need not seek out an enemy, for you have already vanquished him in the past.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ನೀವು ಚಲಿಸುವಾಗ, ಬಲದಲ್ಲಿ ಬೆಳೆಯುತ್ತಾ, ಜನರ ನಡುವೆ ನಿಮ್ಮ ಶಕ್ತಿಯನ್ನು ಸಾರುತ್ತಾ, ಅವರು ಮಾತನಾಡುವ ಈ ಯುದ್ಧಗಳು ನಿಜಕ್ಕೂ ನಿಮ್ಮ ದೈವಿಕ ತಂತ್ರಗಳಾಗಿವೆ. ಇಂದು ನೀವು ಶತ್ರುವನ್ನು ಹುಡುಕಬೇಕಾಗಿಲ್ಲ, ಏಕೆಂದರೆ ನೀವು ಈಗಾಗಲೇ ಅವನನ್ನು ಹಿಂದಿನ ಕಾಲದಲ್ಲಿ ಸೋಲಿಸಿದ್ದೀರಿ.",
+      "rig_time_s": 17.338,
+      "Insight_en": "This mantra highlights the all-conquering nature of Indra. The battles mentioned are not merely physical conflicts but symbolic representations of overcoming inner obstacles. Indra’s growth in strength (तन्वा वावृधान:) signifies the expansion of consciousness through spiritual practices. The 'divine strategies' (मायेत्सा ते) point to the skillful means employed by the divine to guide individuals towards liberation. The statement that Indra need not seek an enemy today emphasizes the completeness of past victories, implying the attainment of a state where all internal enemies like ego and ignorance have been vanquished. This reflects the ultimate goal of spiritual evolution, where one transcends duality and rests in the fullness of being.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಇಂದ್ರನ ಸರ್ವ-ವಿಜಯದ ಸ್ವರೂಪವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಉಲ್ಲೇಖಿಸಲಾದ ಯುದ್ಧಗಳು ಕೇವಲ ಭೌತಿಕ ಸಂಘರ್ಷಗಳಲ್ಲ ಆದರೆ ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸುವ ಸಾಂಕೇತಿಕ ನಿರೂಪಣೆಗಳಾಗಿವೆ. ಇಂದ್ರನ ಬಲದಲ್ಲಿನ ಬೆಳವಣಿಗೆ (ತನ್ವಾ ವಾವೃಧಾನ:) ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸಗಳ ಮೂಲಕ ಪ್ರಜ್ಞೆಯ ವಿಸ್ತರಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ದೈವಿಕ ತಂತ್ರಗಳು' (ಮಾಯೇತ್ಸಾ ತೇ) ವ್ಯಕ್ತಿಗಳನ್ನು ವಿಮೋಚನೆಯೆಡೆಗೆ ಮಾರ್ಗದರ್ಶನ ಮಾಡಲು ದೈವಿಕವು ಬಳಸುವ ಕೌಶಲ್ಯಪೂರ್ಣ ವಿಧಾನಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಇಂದು ಇಂದ್ರನು ಶತ್ರುವನ್ನು ಹುಡುಕಬೇಕಾಗಿಲ್ಲ ಎಂಬ ಹೇಳಿಕೆಯು ಹಿಂದಿನ ವಿಜಯಗಳ ಸಂಪೂರ್ಣತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಅಹಂ ಮತ್ತು ಅಜ್ಞಾನದಂತಹ ಎಲ್ಲಾ ಆಂತರಿಕ ಶತ್ರುಗಳನ್ನು ಸೋಲಿಸಿದ ಸ್ಥಿತಿಯ ಸಾಧನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಆಧ್ಯಾತ್ಮಿಕ ವಿಕಾಸದ ಅಂತಿಮ ಗುರಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಒಬ್ಬನು ದ್ವಂದ್ವತೆಯನ್ನು ಮೀರಿ ಅಸ್ತಿತ್ವದ ಪೂರ್ಣತೆಯಲ್ಲಿ ನೆಲೆಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S54_191-3_6",
+      "mandala": 10,
+      "sukta": 54,
+      "ric_index": 3,
+      "rig_lines": [
+        "क उ॒ नु ते᳚ महि॒मनः॑ समस्या॒स्मत्पूर्व॒ ऋष॒योऽन्त॑मापुः |",
+        "यन्मा॒तरं᳚ च पि॒तरं᳚ च सा॒कमज॑नयथास्त॒न्व१॑(अः॒) स्वायाः᳚ ||"
+      ],
+      "pre_splits": [
+        "के",
+        "ऊँ॒ इति॑",
+        "नु",
+        "ते॒",
+        "म॒हि॒मनः॑",
+        "स॒म॒स्य॒",
+        "अ॒स्मत्",
+        "पूर्वे᳚",
+        "ऋष॑यः",
+        "अन्त᳚‌म्",
+        "आ॒पुः॒",
+        "यत्",
+        "मा॒तर᳚‌म्",
+        "च॒",
+        "पि॒तर᳚‌म्",
+        "च॒",
+        "सा॒क‌म्",
+        "अज॑नयथाः",
+        "त॒न्वः॑",
+        "स्वायाः᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "के",
+          "pada_kn": "ಕೇ",
+          "meaning_en": "Who? / Which one?",
+          "meaning_kn": "ಯಾರು? / ಯಾವನು?"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಓಂ ಇತಿ",
+          "meaning_en": "indeed / certainly (emphatic particle)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "then / now / indeed (emphatic particle)",
+          "meaning_kn": "ಆಗ / ಈಗ / ನಿಜಕ್ಕೂ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "म॒हि॒मनः॑",
+          "pada_kn": "ಮಹಿಮನಃ",
+          "meaning_en": "of the greatness / of the glory",
+          "meaning_kn": "ಮಹಿಮೆಯ / ಕೀರ್ತಿಯ"
+        },
+        {
+          "pada_original": "स॒म॒स्य॒",
+          "pada_kn": "ಸಮಸ್ಯ",
+          "meaning_en": "of the totality / of the whole",
+          "meaning_kn": "ಸಮಗ್ರತೆಯ / ಸಂಪೂರ್ಣತೆಯ"
+        },
+        {
+          "pada_original": "अ॒स्मत्",
+          "pada_kn": "ಅಸ್ಮತ್",
+          "meaning_en": "than us / from us",
+          "meaning_kn": "ನಮಗಿಂತ / ನಮ್ಮಿಂದ"
+        },
+        {
+          "pada_original": "पूर्वे᳚",
+          "pada_kn": "ಪೂರ್ವೇ",
+          "meaning_en": "ancient / former",
+          "meaning_kn": "ಪ್ರಾಚೀನ / ಹಿಂದಿನ"
+        },
+        {
+          "pada_original": "ऋष॑यः",
+          "pada_kn": "ಋಷಯಃ",
+          "meaning_en": "seers / sages",
+          "meaning_kn": "ಋಷಿಗಳು / ದ್ರಷ್ಟಾರರು"
+        },
+        {
+          "pada_original": "अन्त᳚‌म्",
+          "pada_kn": "ಅಂತಮ್",
+          "meaning_en": "the limit / the end",
+          "meaning_kn": "ಮಿತಿ / ಅಂತ್ಯ"
+        },
+        {
+          "pada_original": "आ॒पुः॒",
+          "pada_kn": "ಆಪುಃ",
+          "meaning_en": "reached / attained",
+          "meaning_kn": "ತಲುಪಿದರು / ಪಡೆದರು"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "because / that",
+          "meaning_kn": "ಏಕೆಂದರೆ / ಅದು"
+        },
+        {
+          "pada_original": "मा॒तर᳚‌म्",
+          "pada_kn": "ಮಾತರಮ್",
+          "meaning_en": "mother",
+          "meaning_kn": "ತಾಯಿಯನ್ನು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "पि॒तर᳚‌म्",
+          "pada_kn": "ಪಿತರಮ್",
+          "meaning_en": "father",
+          "meaning_kn": "ತಂದೆಯನ್ನು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "सा॒क‌म्",
+          "pada_kn": "ಸಾಕಮ್",
+          "meaning_en": "together / simultaneously",
+          "meaning_kn": "ಒಟ್ಟಿಗೆ / ಏಕಕಾಲದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अज॑नयथाः",
+          "pada_kn": "ಅಜನಯಥಾಃ",
+          "meaning_en": "you generated / you created",
+          "meaning_kn": "ನೀನು ಸೃಷ್ಟಿಸಿದೆ / ನೀನು ಹುಟ್ಟಿಸಿದೆ"
+        },
+        {
+          "pada_original": "त॒न्वः॑",
+          "pada_kn": "ತನ್ವಃ",
+          "meaning_en": "from the body / from the self",
+          "meaning_kn": "ದೇಹದಿಂದ / ಸ್ವಯಂನಿಂದ"
+        },
+        {
+          "pada_original": "स्वायाः᳚",
+          "pada_kn": "ಸ್ವಾಯಾಃ",
+          "meaning_en": "your own",
+          "meaning_kn": "ನಿನ್ನ ಸ್ವಂತದ"
+        }
+      ],
+      "full_meaning_en": "O Agni, who indeed has fully comprehended the limits of your greatness? Even the ancient ṛṣis (seers) did not reach the end. You generated both mother and father together from your own body.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ನಿಮ್ಮ ಮಹಿಮೆಯ ಮಿತಿಗಳನ್ನು ಯಾರು ಸಂಪೂರ್ಣವಾಗಿ ಗ್ರಹಿಸಿದ್ದಾರೆ? ಹಿಂದಿನ ಋಷಿಗಳು ಸಹ ಅದರ ಅಂತ್ಯವನ್ನು ತಲುಪಲಿಲ್ಲ. ನಿಮ್ಮ ಸ್ವಂತ ದೇಹದಿಂದ ತಾಯಿ ಮತ್ತು ತಂದೆ ಇಬ್ಬರನ್ನು ಒಟ್ಟಿಗೆ ಸೃಷ್ಟಿಸಿದ್ದೀರಿ.",
+      "rig_time_s": 33.297,
+      "Insight_en": "This mantra delves into the incomprehensible nature of अग्नि (Agni's) greatness. Even the ancient seers, known for their profound wisdom, could not fathom the extent of अग्नि's महिमा (mahima). The verse emphasizes अग्नि's role as the origin of both mother and father, signifying the ultimate source of creation residing within अग्नि himself. This points to the understanding of अग्नि as the सर्व (sarva), the all-encompassing divine reality from which everything emanates. The generation of parents from his own body indicates self-sufficiency and the non-dual nature of the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯ ಮಹತ್ವದ ಗ್ರಹಿಸಲಾಗದ ಸ್ವರೂಪವನ್ನು ಪರಿಶೀಲಿಸುತ್ತದೆ. ಪ್ರಾಚೀನ ಋಷಿಗಳು ಸಹ ಅಗ್ನಿಯ ಮಹಿಮೆಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಗ್ರಹಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಅಗ್ನಿಯು ತಾಯಿ ಮತ್ತು ತಂದೆ ಇಬ್ಬರ ಮೂಲ ಎಂದು ಈ ಪದ್ಯವು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಇದರಿಂದಾಗಿ ಅಗ್ನಿಯು ಎಲ್ಲವನ್ನೂ ಒಳಗೊಂಡಿರುವ ದೈವಿಕ ವಾಸ್ತವತೆಯಾಗಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ತನ್ನ ಸ್ವಂತ ದೇಹದಿಂದ ಪೋಷಕರ ಉತ್ಪಾದನೆಯು ಸ್ವಾವಲಂಬನೆ ಮತ್ತು ದೈವಿಕ ಸ್ವಭಾವವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S54_191-4_6",
+      "mandala": 10,
+      "sukta": 54,
+      "ric_index": 4,
+      "rig_lines": [
+        "च॒त्वारि॑ ते, असु॒र्या᳚णि॒ नामादा᳚भ्यानि महि॒षस्य॑ सन्ति |",
+        "त्वम॒ङ्ग तानि॒ विश्वा᳚नि वित्से॒ येभिः॒ कर्मा᳚णि मघवञ्च॒कर्थ॑ ||"
+      ],
+      "pre_splits": [
+        "च॒त्वारि॑",
+        "ते॒",
+        "अ॒सु॒र्या᳚णि",
+        "नाम॑",
+        "अदा᳚भ्यानि",
+        "म॒हि॒षस्य॑",
+        "स॒न्ति॒",
+        "त्व‌म्",
+        "अ॒ङ्ग",
+        "तानि॑",
+        "विश्वा᳚नि",
+        "वि॒त्से॒",
+        "येभिः॑",
+        "कर्मा᳚णि",
+        "म॒घ॒ऽव॒न्",
+        "च॒कर्थ॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "च॒त्वारि॑",
+          "pada_kn": "ಚತ್ವಾರಿ",
+          "meaning_en": "four",
+          "meaning_kn": "ನಾಲ್ಕು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "अ॒सु॒र्या᳚णि",
+          "pada_kn": "ಅಸುರ್ಯಾಣಿ",
+          "meaning_en": "divine / mighty",
+          "meaning_kn": "ದೈವಿಕ / ಶಕ್ತಿಶಾಲಿ"
+        },
+        {
+          "pada_original": "नाम॑",
+          "pada_kn": "ನಾಮ",
+          "meaning_en": "names / powers",
+          "meaning_kn": "ಹೆಸರುಗಳು / ಶಕ್ತಿಗಳು"
+        },
+        {
+          "pada_original": "अदा᳚भ्यानि",
+          "pada_kn": "ಅದಾಭ್ಯಾನಿ",
+          "meaning_en": "unconquerable / invincible",
+          "meaning_kn": "ಅಜೇಯ / ಸೋಲಿಸಲಾಗದ"
+        },
+        {
+          "pada_original": "म॒हि॒षस्य॑",
+          "pada_kn": "ಮಹಿಷಸ್ಯ",
+          "meaning_en": "of the great one / of the mighty one",
+          "meaning_kn": "ಮಹಾನ್ ಆದವನ / ಶಕ್ತಿಶಾಲಿಯ"
+        },
+        {
+          "pada_original": "स॒न्ति॒",
+          "pada_kn": "ಸಂತಿ",
+          "meaning_en": "are / exist",
+          "meaning_kn": "ಇವೆ / ಇರುತ್ತವೆ"
+        },
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "you",
+          "meaning_kn": "ನೀನು"
+        },
+        {
+          "pada_original": "अ॒ङ्ग",
+          "pada_kn": "ಅಂಗ",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "तानि॑",
+          "pada_kn": "ತಾನಿ",
+          "meaning_en": "those",
+          "meaning_kn": "ಅವುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "विश्वा᳚नि",
+          "pada_kn": "ವಿಶ್ವಾನಿ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲವನ್ನೂ"
+        },
+        {
+          "pada_original": "वि॒त्से॒",
+          "pada_kn": "ವಿತ್ಸೇ",
+          "meaning_en": "you know / you possess",
+          "meaning_kn": "ನೀನು ಬಲ್ಲೆ / ನೀನು ಹೊಂದಿದ್ದೀಯೆ"
+        },
+        {
+          "pada_original": "येभिः॑",
+          "pada_kn": "ಯೇಭಿಃ",
+          "meaning_en": "by which",
+          "meaning_kn": "ಯಾವುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "कर्मा᳚णि",
+          "pada_kn": "ಕರ್ಮಾಣಿ",
+          "meaning_en": "deeds / actions",
+          "meaning_kn": "ಕರ್ಮಗಳನ್ನು / ಕಾರ್ಯಗಳನ್ನು"
+        },
+        {
+          "pada_original": "म॒घ॒ऽव॒न्",
+          "pada_kn": "ಮಘವನ್",
+          "meaning_en": "O bountiful one (Indra)",
+          "meaning_kn": "ಓ ಉದಾರಿಯೇ (ಇಂದ್ರ)"
+        },
+        {
+          "pada_original": "च॒कर्थ॑",
+          "pada_kn": "ಚಕರ್ಥ",
+          "meaning_en": "you have done / you have performed",
+          "meaning_kn": "ನೀನು ಮಾಡಿರುವೆಯೋ / ನೀನು ನಿರ್ವಹಿಸಿರುವೆಯೋ"
+        }
+      ],
+      "full_meaning_en": "O mighty Agni, four are your inviolable names associated with the strength of the great one (the Sun). You indeed know all those names by which, O powerful one, you have accomplished the deeds.",
+      "full_meaning_kn": "ಓ ಶಕ್ತಿಯುತ ಅಗ್ನಿಯೇ, ಮಹಾನ್ ವ್ಯಕ್ತಿಯ (ಸೂರ್ಯನ) ಬಲಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ನಾಲ್ಕು ಅವಿಭಾಜ್ಯ ಹೆಸರುಗಳು ನಿಮಗಿವೆ. ಯಾವ ಹೆಸರುಗಳಿಂದ ನೀವು ಕಾರ್ಯಗಳನ್ನು ಸಾಧಿಸಿದ್ದೀರಿ, ಓ ಶಕ್ತಿಶಾಲಿಯೇ, ಆ ಹೆಸರುಗಳೆಲ್ಲವನ್ನೂ ನೀವು ಬಲ್ಲಿರಿ.",
+      "rig_time_s": 48.143,
+      "Insight_en": "This mantra speaks of the four inviolable names (नामादाभ्यानि) of Agni (अग्नि), representing different aspects of divine power and cosmic energy. These names are associated with the strength (असुर्याणि) of the great one, often interpreted as the Sun. The hymn emphasizes that Agni knows all these names, signifying complete mastery over the powers they represent. This knowledge allows Agni to perform various deeds (कर्माणि), highlighting the transformative and creative power inherent in divine wisdom. The mantra invites the devotee to contemplate the multifaceted nature of the divine and the profound understanding required to harness its energies for righteous action.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯ ನಾಲ್ಕು ಅವಿಭಾಜ್ಯ ಹೆಸರುಗಳ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ, ಇದು ದೈವಿಕ ಶಕ್ತಿ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಶಕ್ತಿಯ ವಿವಿಧ ಅಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಈ ಹೆಸರುಗಳು ಮಹಾನ್ ವ್ಯಕ್ತಿಯ ಶಕ್ತಿಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿವೆ, ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಸೂರ್ಯ ಎಂದು ಅರ್ಥೈಸಲಾಗುತ್ತದೆ. ಅಗ್ನಿಗೆ ಈ ಎಲ್ಲಾ ಹೆಸರುಗಳು ತಿಳಿದಿವೆ ಎಂದು ಸ್ತೋತ್ರವು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಇದು ಅವರು ಪ್ರತಿನಿಧಿಸುವ ಶಕ್ತಿಗಳ ಮೇಲೆ ಸಂಪೂರ್ಣ ಪಾಂಡಿತ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಜ್ಞಾನವು ಅಗ್ನಿಗೆ ವಿವಿಧ ಕಾರ್ಯಗಳನ್ನು ಮಾಡಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ, ಇದು ದೈವಿಕ ಜ್ಞಾನದಲ್ಲಿ ಅಂತರ್ಗತವಾಗಿರುವ ಪರಿವರ್ತಕ ಮತ್ತು ಸೃಜನಶೀಲ ಶಕ್ತಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಸದಾಚಾರದ ಕ್ರಿಯೆಗಾಗಿ ಅದರ ಶಕ್ತಿಯನ್ನು ಬಳಸಿಕೊಳ್ಳಲು ಅಗತ್ಯವಾದ ದೈವಿಕ ಮತ್ತು ಆಳವಾದ ತಿಳುವಳಿಕೆಯ ಬಹುಮುಖಿ ಸ್ವರೂಪವನ್ನು ಧ್ಯಾನಿಸಲು ಮಂತ್ರವು ಭಕ್ತರನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S54_191-5_6",
+      "mandala": 10,
+      "sukta": 54,
+      "ric_index": 5,
+      "rig_lines": [
+        "त्वं विश्वा᳚ दधिषे॒ केव॑लानि॒ यान्या॒विर्या च॒ गुहा॒ वसू᳚नि |",
+        "काम॒मिन्मे᳚ मघव॒न्मा वि ता᳚री॒स्त्वमा᳚ज्ञा॒ता त्वमि᳚न्द्रासि दा॒ता ||"
+      ],
+      "pre_splits": [
+        "त्व‌म्",
+        "विश्वा᳚",
+        "द॒धि॒षे॒",
+        "केव॑लानि",
+        "यानि॑",
+        "आ॒विः",
+        "या",
+        "च॒",
+        "गुहा᳚",
+        "वसू᳚नि",
+        "काम᳚‌म्",
+        "इत्",
+        "मे॒",
+        "म॒घ॒ऽव॒न्",
+        "मा",
+        "वि",
+        "ता॒रीः॒",
+        "त्व‌म्",
+        "आ॒ऽज्ञा॒ता",
+        "त्व‌म्",
+        "इ॒न्द्र॒",
+        "अ॒सि॒",
+        "दा॒ता"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "You",
+          "meaning_kn": "ಓ ನೀನು"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "द॒धि॒षे॒",
+          "pada_kn": "ದಧಿಷೇ",
+          "meaning_en": "you hold/possess",
+          "meaning_kn": "ನೀನು ಧರಿಸುತ್ತೀಯೆ/ಹೊಂದಿದ್ದೀಯೆ"
+        },
+        {
+          "pada_original": "केव॑लानि",
+          "pada_kn": "ಕೇವಲಾನಿ",
+          "meaning_en": "exclusive/unique",
+          "meaning_kn": "ಕೇವಲವಾದ/ಅದ್ವಿತೀಯವಾದ"
+        },
+        {
+          "pada_original": "यानि॑",
+          "pada_kn": "ಯಾನಿ",
+          "meaning_en": "which",
+          "meaning_kn": "ಯಾವ"
+        },
+        {
+          "pada_original": "आ॒विः",
+          "pada_kn": "ಆವಿಃ",
+          "meaning_en": "manifest/open",
+          "meaning_kn": "ಪ್ರಕಟವಾದ/ಸ್ಪಷ್ಟವಾದ"
+        },
+        {
+          "pada_original": "या",
+          "pada_kn": "ಯಾ",
+          "meaning_en": "which",
+          "meaning_kn": "ಯಾವುದು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "गुहा᳚",
+          "pada_kn": "ಗುಹಾ",
+          "meaning_en": "hidden/secret",
+          "meaning_kn": "ಗುಪ್ತವಾದ/ಅಡಗಿರುವ"
+        },
+        {
+          "pada_original": "वसू᳚नि",
+          "pada_kn": "ವಸೂನಿ",
+          "meaning_en": "treasures/wealth",
+          "meaning_kn": "ಸಂಪತ್ತುಗಳು/ನಿಧಿಗಳು"
+        },
+        {
+          "pada_original": "काम᳚‌म्",
+          "pada_kn": "ಕಾಮಮ್",
+          "meaning_en": "desire/wish",
+          "meaning_kn": "ಆಸೆ/ಇಚ್ಛೆ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed/certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ/ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "मे॒",
+          "pada_kn": "ಮೇ",
+          "meaning_en": "my",
+          "meaning_kn": "ನನ್ನ"
+        },
+        {
+          "pada_original": "म॒घ॒ऽव॒न्",
+          "pada_kn": "ಮಘವನ್",
+          "meaning_en": "O Bountiful One (Indra)",
+          "meaning_kn": "ಓ ಐಶ್ವರ್ಯವಂತನೇ (ಇಂದ್ರನೇ)"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "not",
+          "meaning_kn": "ಬೇಡ/ಇಲ್ಲ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "away/apart (intensifier)",
+          "meaning_kn": "ದೂರ/ಬೇರೆ"
+        },
+        {
+          "pada_original": "ता॒रीः॒",
+          "pada_kn": "ತಾರೀಃ",
+          "meaning_en": "(may you) delay/hinder",
+          "meaning_kn": "ನೀನು ತಡಮಾಡಬೇಡ/ಅಡ್ಡಿಪಡಿಸಬೇಡ"
+        },
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "You",
+          "meaning_kn": "ಓ ನೀನು"
+        },
+        {
+          "pada_original": "आ॒ऽज्ञा॒ता",
+          "pada_kn": "ಆಜ್ಞಾತಾ",
+          "meaning_en": "the knower",
+          "meaning_kn": "ತಿಳಿದವನು/ಅರಿತವನು"
+        },
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "You",
+          "meaning_kn": "ಓ ನೀನು"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "अ॒सि॒",
+          "pada_kn": "ಅಸಿ",
+          "meaning_en": "are",
+          "meaning_kn": "ಇದ್ದೀಯೆ"
+        },
+        {
+          "pada_original": "दा॒ता",
+          "pada_kn": "ದಾತ",
+          "meaning_en": "the giver/bestower",
+          "meaning_kn": "ದಾನಿ/ಕೊಡುವವನು"
+        }
+      ],
+      "full_meaning_en": "O Indra, you alone possess all the visible and hidden treasures. O bountiful one, do not deny my desire; you are the knower, and you, Indra, are the giver.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ನೀನೊಬ್ಬನೇ ಎಲ್ಲಾ ಗೋಚರ ಮತ್ತು ಗುಪ್ತ ನಿಧಿಗಳನ್ನು ಹೊಂದಿದ್ದೀಯ. ಹೇ ಉದಾರಿಯೇ, ನನ್ನ ಇಚ್ಛೆಯನ್ನು ನಿರಾಕರಿಸಬೇಡ; ನೀನು ತಿಳಿದವನು, ಮತ್ತು ನೀನು, ಇಂದ್ರ, ದಾನ ಮಾಡುವವನು.",
+      "rig_time_s": 61.548,
+      "Insight_en": "This mantra emphasizes the omnipotence and all-knowing nature of Indra. Indra, as the possessor of all visible and hidden treasures (विश्वा वसू᳚नि), symbolizes the divine source of all abundance and prosperity. The devotee appeals to Indra, acknowledging him as both the knower (आ᳚ज्ञा॒ता) and the giver (दा॒ता). This highlights the relationship between knowledge and generosity; true giving stems from understanding the needs of the devotee. The plea not to deny the devotee's desire (काम॒मिन्मे᳚) reflects a deep trust in Indra's benevolence and his capacity to fulfill aspirations. Spiritually, it signifies surrendering one's desires to the divine will, trusting in the wisdom and compassion of the supreme being to provide what is truly needed.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಇಂದ್ರನ ಸರ್ವಶಕ್ತಿ ಮತ್ತು ಸರ್ವಜ್ಞಾನದ ಸ್ವರೂಪವನ್ನು ಒತ್ತಿ ಹೇಳುತ್ತದೆ. ಇಂದ್ರನು, ಎಲ್ಲಾ ಗೋಚರ ಮತ್ತು ಗುಪ್ತ ನಿಧಿಗಳ (विश्वा वसू᳚नि) ಒಡೆಯನಾಗಿ, ಸಮೃದ್ಧಿ ಮತ್ತು ಐಶ್ವರ್ಯದ ದೈವಿಕ ಮೂಲವನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ. ಭಕ್ತನು ಇಂದ್ರನಿಗೆ ಮೊರೆ ಹೋಗುತ್ತಾನೆ, ಅವನನ್ನು ತಿಳಿದವನು (आ᳚ज्ञा॒ता) ಮತ್ತು ದಾನ ಮಾಡುವವನು (दा॒ता) ಎಂದು ಅಂಗೀಕರಿಸುತ್ತಾನೆ. ಇದು ಜ್ಞಾನ ಮತ್ತು ಔದಾರ್ಯದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ; ನಿಜವಾದ ದಾನವು ಭಕ್ತನ ಅಗತ್ಯಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದರಿಂದ ಹುಟ್ಟುತ್ತದೆ. ಭಕ್ತನ ಆಸೆಯನ್ನು ನಿರಾಕರಿಸಬೇಡ (काम॒मिन्मे᳚) ಎಂಬ ಪ್ರಾರ್ಥನೆಯು ಇಂದ್ರನ ದಾನಶೀಲತೆ ಮತ್ತು ಆಕಾಂಕ್ಷೆಗಳನ್ನು ಪೂರೈಸುವ ಅವನ ಸಾಮರ್ಥ್ಯದಲ್ಲಿ ಆಳವಾದ ನಂಬಿಕೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ಒಬ್ಬರ ಆಸೆಗಳನ್ನು ದೈವಿಕ ಇಚ್ಛೆಗೆ ಒಪ್ಪಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಸರ್ವೋಚ್ಚ ಜೀವಿಗಳ ವಿವೇಕ ಮತ್ತು ಅನುಕಂಪದಲ್ಲಿ ನಿಜವಾಗಿಯೂ ಅಗತ್ಯವಿರುವದನ್ನು ಒದಗಿಸಲು ನಂಬಿಕೆ ಇಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S54_191-6_6",
+      "mandala": 10,
+      "sukta": 54,
+      "ric_index": 6,
+      "rig_lines": [
+        "यो, अद॑धा॒ज्ज्योति॑षि॒ ज्योति॑र॒न्तर्यो, असृ॑ज॒न्मधु॑ना॒ सं मधू᳚नि |",
+        "अध॑ प्रि॒यं शू॒षमिन्द्रा᳚य॒ मन्म॑ ब्रह्म॒कृतो᳚ बृ॒हदु॑क्थादवाचि ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "अद॑धात्",
+        "ज्योति॑षि",
+        "ज्योतिः॑",
+        "अ॒न्तः",
+        "यः",
+        "असृ॑जत्",
+        "मधु॑ना",
+        "स‌म्",
+        "मधू᳚नि",
+        "अध॑",
+        "प्रि॒य‌म्",
+        "शू॒ष‌म्",
+        "इन्द्रा᳚य",
+        "मन्म॑",
+        "ब्र॒ह्म॒ऽकृतः॑",
+        "बृ॒हत्।औ᳚क्थात्",
+        "अ॒वा॒चि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who / He who",
+          "meaning_kn": "ಯಾವನು / ಅವನು"
+        },
+        {
+          "pada_original": "अद॑धात्",
+          "pada_kn": "ಅದಧಾತ್",
+          "meaning_en": "placed / established",
+          "meaning_kn": "ಇರಿಸಿದನು / ಸ್ಥಾಪಿಸಿದನು"
+        },
+        {
+          "pada_original": "ज्योति॑षि",
+          "pada_kn": "ಜ್ಯೋತಿಷಿ",
+          "meaning_en": "in light / in the lights",
+          "meaning_kn": "ಬೆಳಕಿನಲ್ಲಿ / ಜ್ಯೋತಿಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ज्योतिः॑",
+          "pada_kn": "ಜ್ಯೋತಿಃ",
+          "meaning_en": "light / brilliance",
+          "meaning_kn": "ಬೆಳಕು / ತೇಜಸ್ಸು"
+        },
+        {
+          "pada_original": "अ॒न्तः",
+          "pada_kn": "ಅನ್ತಃ",
+          "meaning_en": "within / inside",
+          "meaning_kn": "ಒಳಗೆ / ಅಂತರ್ಯದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who / He who",
+          "meaning_kn": "ಯಾವನು / ಅವನು"
+        },
+        {
+          "pada_original": "असृ॑जत्",
+          "pada_kn": "ಅಸೃಜತ್",
+          "meaning_en": "created / produced",
+          "meaning_kn": "ಸೃಷ್ಟಿಸಿದನು / ಉಂಟುಮಾಡಿದನು"
+        },
+        {
+          "pada_original": "मधु॑ना",
+          "pada_kn": "ಮಧುನಾ",
+          "meaning_en": "with sweetness / with honey",
+          "meaning_kn": "ಮಧುರದಿಂದ / ಜೇನಿನಿಂದ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / completely (prefix)",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "मधू᳚नि",
+          "pada_kn": "ಮಧೂನಿ",
+          "meaning_en": "sweet things / honey",
+          "meaning_kn": "ಮಧುರ ವಸ್ತುಗಳನ್ನು / ಜೇನುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "then / moreover",
+          "meaning_kn": "ಆಗ / ಮತ್ತೂ"
+        },
+        {
+          "pada_original": "प्रि॒य‌म्",
+          "pada_kn": "ಪ್ರಿಯಮ್",
+          "meaning_en": "dear / beloved",
+          "meaning_kn": "ಪ್ರಿಯವಾದ / ಇಷ್ಟವಾದ"
+        },
+        {
+          "pada_original": "शू॒ष‌म्",
+          "pada_kn": "ಶೂಷಮ್",
+          "meaning_en": "strength / power / praise",
+          "meaning_kn": "ಶಕ್ತಿ / ಬಲ / ಸ್ತೋತ್ರ"
+        },
+        {
+          "pada_original": "इन्द्रा᳚य",
+          "pada_kn": "ಇಂದ್ರಾಯ",
+          "meaning_en": "for Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "मन्म॑",
+          "pada_kn": "ಮನ್ಮ",
+          "meaning_en": "thought / hymn / praise",
+          "meaning_kn": "ಚಿಂತನೆ / ಸ್ತೋತ್ರ / ಪ್ರಶಂಸೆ"
+        },
+        {
+          "pada_original": "ब्र॒ह्म॒ऽकृतः॑",
+          "pada_kn": "ಬ್ರಹ್ಮಕೃತಃ",
+          "meaning_en": "by the hymn-makers / by the creators of prayer",
+          "meaning_kn": "ಸ್ತೋತ್ರಕರ್ತರಿಂದ / ಪ್ರಾರ್ಥನೆಯನ್ನು ಮಾಡುವವರಿಂದ"
+        },
+        {
+          "pada_original": "बृ॒हत्।औ᳚क्थात्",
+          "pada_kn": "ಬೃಹದೌಕ್ಥಾತ್",
+          "meaning_en": "from the great hymn / from the great praise",
+          "meaning_kn": "ಮಹಾನ್ ಸ್ತೋತ್ರದಿಂದ / ದೊಡ್ಡ ಪ್ರಶಂಸೆಯಿಂದ"
+        },
+        {
+          "pada_original": "अ॒वा॒चि॒",
+          "pada_kn": "ಅವಾಚಿ",
+          "meaning_en": "was spoken / was uttered",
+          "meaning_kn": "ನುಡಿಯಲ್ಪಟ್ಟಿತು / ಉಚ್ಚರಿಸಲ್ಪಟ್ಟಿತು"
+        }
+      ],
+      "full_meaning_en": "He who placed light within the lights, who created sweetness along with the sweet things; then for Indra, the dear strengthening thought and prayer have been uttered from the composer of sacred hymns, from the great invocation.",
+      "full_meaning_kn": "ಜ್ಯೋತಿಗಳ ಒಳಗೆ ಬೆಳಕನ್ನು ಇರಿಸಿದವನು, ಸಿಹಿ ವಸ್ತುಗಳೊಂದಿಗೆ ಸಿಹಿಯನ್ನು ಸೃಷ್ಟಿಸಿದವನು; ನಂತರ ಇಂದ್ರನಿಗೆ, ಪ್ರಿಯವಾದ ಬಲಪಡಿಸುವ ಆಲೋಚನೆ ಮತ್ತು ಪ್ರಾರ್ಥನೆಯನ್ನು ಪವಿತ್ರ ಸ್ತೋತ್ರಗಳ ಸಂಯೋಜಕರಿಂದ, ದೊಡ್ಡ ಆಹ್ವಾನದಿಂದ ಉಚ್ಚರಿಸಲಾಗಿದೆ.",
+      "rig_time_s": 77.029,
+      "Insight_en": "This mantra speaks of the divine act of imbuing light (ज्योति) within all sources of light, symbolizing the pervasive presence of the divine. The creation of sweetness (मधु) signifies the manifestation of bliss and joy in conjunction with worldly pleasures. The offering of strengthened thoughts and prayers to Indra highlights the devotion and gratitude expressed by the hymn composers. The 'great invocation' refers to the profound utterances and sacred words through which the divine is invoked and realized. It signifies the ultimate goal of attaining spiritual wisdom and union with the divine through the power of Vedic hymns.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಬೆಳಕಿನ ಎಲ್ಲಾ ಮೂಲಗಳಲ್ಲಿ ಬೆಳಕನ್ನು (ಜ್ಯೋತಿ) ತುಂಬುವ ದೈವಿಕ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ, ಇದು ದೈವಿಕ ಸರ್ವತ್ರ ಉಪಸ್ಥಿತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸಿಹಿಯ ಸೃಷ್ಟಿ (ಮಧು) ಲೌಕಿಕ ಸಂತೋಷಗಳೊಂದಿಗೆ ಆನಂದ ಮತ್ತು ಸಂತೋಷದ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಬಲಪಡಿಸಿದ ಆಲೋಚನೆಗಳು ಮತ್ತು ಪ್ರಾರ್ಥನೆಗಳನ್ನು ಇಂದ್ರನಿಗೆ ಅರ್ಪಿಸುವುದು ಸ್ತೋತ್ರ ಸಂಯೋಜಕರು ವ್ಯಕ್ತಪಡಿಸಿದ ಭಕ್ತಿ ಮತ್ತು ಕೃತಜ್ಞತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. 'ದೊಡ್ಡ ಆಹ್ವಾನ' ಎಂದರೆ ಆಳವಾದ ಉಚ್ಚಾರಣೆಗಳು ಮತ್ತು ಪವಿತ್ರ ಪದಗಳ ಮೂಲಕ ದೈವಿಕವನ್ನು ಆಹ್ವಾನಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಅರಿತುಕೊಳ್ಳಲಾಗುತ್ತದೆ. ಇದು ವೈದಿಕ ಸ್ತೋತ್ರಗಳ ಶಕ್ತಿಯ ಮೂಲಕ ಆಧ್ಯಾತ್ಮಿಕ ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ದೈವಿಕತೆಯೊಂದಿಗೆ ಏಕತೆಯನ್ನು ಸಾಧಿಸುವ ಅಂತಿಮ ಗುರಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

@@ -1,0 +1,1273 @@
+{
+  "mandala": 4,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M4-S35_58-1_9",
+      "mandala": 4,
+      "sukta": 35,
+      "ric_index": 1,
+      "rig_lines": [
+        "इ॒होप॑ यात शवसो नपातः॒ सौध᳚न्वना, ऋभवो॒ माप॑ भूत |",
+        "अ॒स्मिन्‌ हि वः॒ सव॑ने रत्न॒धेयं॒ गम॒न्त्विन्द्र॒मनु॑ वो॒ मदा᳚सः ||"
+      ],
+      "pre_splits": [
+        "इ॒ह",
+        "उप॑",
+        "या॒त॒",
+        "श॒व॒सः॒",
+        "न॒पा॒तः॒",
+        "सौध᳚न्वनाः",
+        "ऋ॒भ॒वः॒",
+        "मा",
+        "अप॑",
+        "भू॒त॒",
+        "अ॒स्मिन्",
+        "हि",
+        "वः॒",
+        "सव॑ने",
+        "र॒त्न॒ऽधेय᳚‌म्",
+        "गम᳚न्तु",
+        "इन्द्र᳚‌म्",
+        "अनु॑",
+        "वः॒",
+        "मदा᳚सः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "Here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "Near / Towards",
+          "meaning_kn": "ಹತ್ತಿರ/ಸಮೀಪ"
+        },
+        {
+          "pada_original": "या॒त॒",
+          "pada_kn": "ಯಾತ",
+          "meaning_en": "Come (you all)",
+          "meaning_kn": "ಬನ್ನಿರಿ"
+        },
+        {
+          "pada_original": "श॒व॒सः॒",
+          "pada_kn": "ಶವಸಃ",
+          "meaning_en": "O powerful ones / Of strength",
+          "meaning_kn": "ಓ ಬಲಶಾಲಿಗಳೇ / ಶಕ್ತಿಯ"
+        },
+        {
+          "pada_original": "न॒पा॒तः॒",
+          "pada_kn": "ನಪಾತಃ",
+          "meaning_en": "O descendants / O sons",
+          "meaning_kn": "ಓ ಪುತ್ರರೇ/ವಂಶಜರೇ"
+        },
+        {
+          "pada_original": "सौध᳚न्वनाः",
+          "pada_kn": "ಸೌಧನ್ವನಾಃ",
+          "meaning_en": "O sons of Sudhanvan",
+          "meaning_kn": "ಓ ಸುಧನ್ವನ ಪುತ್ರರೇ"
+        },
+        {
+          "pada_original": "ऋ॒भ॒वः॒",
+          "pada_kn": "ಋಭವಃ",
+          "meaning_en": "O Ribhus",
+          "meaning_kn": "ಓ ಋಭುಗಳೇ"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "Not",
+          "meaning_kn": "ಬೇಡ"
+        },
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "Away / Off",
+          "meaning_kn": "ದೂರ"
+        },
+        {
+          "pada_original": "भू॒त॒",
+          "pada_kn": "ಭೂತ",
+          "meaning_en": "Be / Become (you all)",
+          "meaning_kn": "ಇರಿ/ಆಗಿರಿ"
+        },
+        {
+          "pada_original": "अ॒स्मिन्",
+          "pada_kn": "ಅಸ್ಮಿನ್",
+          "meaning_en": "In this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "Indeed / For",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ/ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "Your",
+          "meaning_kn": "ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "सव॑ने",
+          "pada_kn": "ಸವನೇ",
+          "meaning_en": "In the sacrifice / oblation",
+          "meaning_kn": "ಯಜ್ಞದಲ್ಲಿ/ಸೋಮಯಾಗದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "र॒त्न॒ऽधेय᳚‌म्",
+          "pada_kn": "ರತ್ನಧೇಯಮ್",
+          "meaning_en": "Bestowing of treasures/gifts",
+          "meaning_kn": "ರತ್ನಗಳನ್ನು/ಸಂಪತ್ತನ್ನು ನೀಡುವಿಕೆ"
+        },
+        {
+          "pada_original": "गम᳚न्तु",
+          "pada_kn": "ಗಮಂತು",
+          "meaning_en": "Let them go / reach",
+          "meaning_kn": "ಅವು ಹೋಗಲಿ/ಸೇರಲಿ"
+        },
+        {
+          "pada_original": "इन्द्र᳚‌म्",
+          "pada_kn": "ಇಂದ್ರಮ್",
+          "meaning_en": "To Indra",
+          "meaning_kn": "ಇಂದ್ರನನ್ನು"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "After / Following",
+          "meaning_kn": "ಹಿಂಬಾಲಿಸಿ/ಅನುಸರಿಸಿ"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "Your",
+          "meaning_kn": "ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "मदा᳚सः",
+          "pada_kn": "ಮದಾಸಃ",
+          "meaning_en": "Exhilarations / Joys",
+          "meaning_kn": "ಸಂತೋಷಗಳು/ಉಲ್ಲಾಸಗಳು"
+        }
+      ],
+      "full_meaning_en": "O mighty Ribhus, descendants of Sudhanvan, approach this sacred place. Do not remain distant. In this very Soma pressing, your power to bestow precious gifts is manifest. Let your joyous energies follow Indra.",
+      "full_meaning_kn": "ಓ ಶಕ್ತಿಯುತ ಋಭುಗಳೇ, ಸುಧನ್ವನ ವಂಶಸ್ಥರೇ, ಈ ಪವಿತ್ರ ಸ್ಥಳಕ್ಕೆ ಬನ್ನಿ. ದೂರ ಉಳಿಯಬೇಡಿ. ಈ ಸೋಮರಸ ಹಿಂಡುವಿಕೆಯಲ್ಲಿ, ನಿಮ್ಮ ಅಮೂಲ್ಯ ಕೊಡುಗೆಗಳನ್ನು ನೀಡುವ ಶಕ್ತಿಯು ವ್ಯಕ್ತವಾಗಿದೆ. ನಿಮ್ಮ ಆನಂದಮಯ ಶಕ್ತಿಗಳು ಇಂದ್ರನನ್ನು ಅನುಸರಿಸಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The Ribhus represent skillful action and transformation. Invoking them signifies a call for perfecting our inner faculties. The 'soma pressing' is the disciplined purification of the mind. Bestowing 'precious gifts' alludes to the resultant spiritual attainments.",
+      "Insight_kn": "ಋಭುಗಳು ಕೌಶಲ್ಯಪೂರ್ಣ ಕ್ರಿಯೆ ಮತ್ತು ರೂಪಾಂತರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಅವರನ್ನು ಆಹ್ವಾನಿಸುವುದು ನಮ್ಮ ಆಂತರಿಕ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಪರಿಪೂರ್ಣಗೊಳಿಸುವ ಕರೆಯಾಗಿದೆ. 'ಸೋಮರಸ ಹಿಂಡುವಿಕೆ' ಎಂದರೆ ಮನಸ್ಸಿನ ಶಿಸ್ತುಬದ್ಧ ಶುದ್ಧೀಕರಣ. 'ಅಮೂಲ್ಯ ಕೊಡುಗೆಗಳನ್ನು' ನೀಡುವುದು ಪರಿಣಾಮವಾಗಿ ಬರುವ ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S35_58-2_9",
+      "mandala": 4,
+      "sukta": 35,
+      "ric_index": 2,
+      "rig_lines": [
+        "आग᳚न्नृभू॒णामि॒ह र॑त्न॒धेय॒मभू॒त्‌ सोम॑स्य॒ सुषु॑तस्य पी॒तिः |",
+        "सु॒कृ॒त्यया॒ यत्‌ स्व॑प॒स्यया᳚ चँ॒, एकं᳚ विच॒क्र च॑म॒सं च॑तु॒र्धा ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "अ॒ग॒न्",
+        "ऋ॒भू॒णा‌म्",
+        "इ॒ह",
+        "र॒त्न॒ऽधेय᳚‌म्",
+        "अभू᳚त्",
+        "सोम॑स्य",
+        "सुऽसु॑तस्य",
+        "पी॒तिः",
+        "सु॒ऽकृ॒त्यया᳚",
+        "यत्",
+        "सु॒।आ॒प॒स्यया᳚",
+        "च॒",
+        "एक᳚‌म्",
+        "वि॒ऽच॒क्र",
+        "च॒म॒स‌म्",
+        "च॒तुः॒ऽधा"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix for verb 'came') / indeed",
+          "meaning_kn": "(ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ) / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अ॒ग॒न्",
+          "pada_kn": "ಅಗನ್",
+          "meaning_en": "came / arrived",
+          "meaning_kn": "ಬಂದಿತು / ಆಗಮಿಸಿತು"
+        },
+        {
+          "pada_original": "ऋ॒भू॒णा‌म्",
+          "pada_kn": "ಋಭೂಣಾಮ್",
+          "meaning_en": "of the Ribhus (divine artisans)",
+          "meaning_kn": "ಋಭುಗಳ / ಋಭು ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here / in this world",
+          "meaning_kn": "ಇಲ್ಲಿ / ಈ ಲೋಕದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "र॒त्न॒ऽधेय᳚‌म्",
+          "pada_kn": "ರತ್ನಧೇಯಮ್",
+          "meaning_en": "bestowing of treasures / wealth",
+          "meaning_kn": "ರತ್ನಗಳ ಪ್ರದಾನ / ಸಂಪತ್ತು"
+        },
+        {
+          "pada_original": "अभू᳚त्",
+          "pada_kn": "ಅಭೂತ್",
+          "meaning_en": "became / happened",
+          "meaning_kn": "ಆಯಿತು / ಸಂಭವಿಸಿತು"
+        },
+        {
+          "pada_original": "सोम॑स्य",
+          "pada_kn": "ಸೋಮಸ್ಯ",
+          "meaning_en": "of Soma (the divine drink)",
+          "meaning_kn": "ಸೋಮದ / ಸೋಮರಸದ"
+        },
+        {
+          "pada_original": "सुऽसु॑तस्य",
+          "pada_kn": "ಸುಸುತಸ್ಯ",
+          "meaning_en": "well-pressed / well-prepared",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ ಹಿಂಡಿದ / ಉತ್ತಮವಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ"
+        },
+        {
+          "pada_original": "पी॒तिः",
+          "pada_kn": "ಪೀತಿಃ",
+          "meaning_en": "drinking / draught",
+          "meaning_kn": "ಪಾನ / ಕುಡಿಯುವಿಕೆ"
+        },
+        {
+          "pada_original": "सु॒ऽकृ॒त्यया᳚",
+          "pada_kn": "ಸುಕೃತ್ಯಯಾ",
+          "meaning_en": "by good work / by excellent deed",
+          "meaning_kn": "ಉತ್ತಮ ಕಾರ್ಯದಿಂದ / ಶ್ರೇಷ್ಠ ಕೃತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "which / that / because",
+          "meaning_kn": "ಯಾವುದು / ಅದು / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "सु॒।आ॒प॒स्यया᳚",
+          "pada_kn": "ಸ್ವಾಪಸ್ಯಯಾ",
+          "meaning_en": "by skill / by excellent craftsmanship",
+          "meaning_kn": "ಕೌಶಲ್ಯದಿಂದ / ಉತ್ತಮ ಕರಕುಶಲತೆಯಿಂದ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "एक᳚‌म्",
+          "pada_kn": "ಏಕಮ್",
+          "meaning_en": "one",
+          "meaning_kn": "ಒಂದು"
+        },
+        {
+          "pada_original": "वि॒ऽच॒क्र",
+          "pada_kn": "ವಿಚಕ್ರ",
+          "meaning_en": "they made / they fashioned",
+          "meaning_kn": "ಅವರು ಮಾಡಿದರು / ಅವರು ರೂಪಿಸಿದರು"
+        },
+        {
+          "pada_original": "च॒म॒स‌म्",
+          "pada_kn": "ಚಮಸಮ್",
+          "meaning_en": "drinking cup / Soma vessel",
+          "meaning_kn": "ಪಾನಪಾತ್ರೆ / ಸೋಮಪಾತ್ರೆ"
+        },
+        {
+          "pada_original": "च॒तुः॒ऽधा",
+          "pada_kn": "ಚತುರ್ಧಾ",
+          "meaning_en": "into four parts / fourfold",
+          "meaning_kn": "ನಾಲ್ಕು ಭಾಗಗಳಾಗಿ / ನಾಲ್ಕು ಪಟ್ಟು"
+        }
+      ],
+      "full_meaning_en": "O Ribhus, the placement of treasures has occurred here for you, and the drinking of the well-extracted Soma has commenced. Through virtuous deeds and exceptional skill, you have divided one cup into four.",
+      "full_meaning_kn": "ಓ ಋಭುಗಳೇ, ನಿಮಗಾಗಿ ಇಲ್ಲಿ ರತ್ನಗಳ ಸ್ಥಾಪನೆಯು ನಡೆದಿದೆ, ಮತ್ತು ಹಿಂಡಿ ತೆಗೆದ ಸೋಮರಸದ ಪಾನವು ಪ್ರಾರಂಭವಾಗಿದೆ. ಸದ್ಗುಣದ ಕಾರ್ಯಗಳು ಮತ್ತು ಅಸಾಧಾರಣ ಕೌಶಲ್ಯದಿಂದ, ನೀವು ಒಂದು ಪಾತ್ರೆಯನ್ನು ನಾಲ್ಕು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಿದ್ದೀರಿ.",
+      "rig_time_s": 14.499,
+      "Insight_en": "The Ribhus exemplify the transformative power of skillful action (सु॒कृ॒त्यया) and dedication (स्व॑प॒स्यया). The single cup divided into four represents the expansion of consciousness and the multiplication of blessings through selfless service and perfected abilities. It signifies the integration of individual effort into a collective harmony, where one becomes many through virtuous action. The Soma (सोम॑स्य) imbibed symbolizes the nectar of divine experience attained through such transformation. The treasures (रत्न॒धेय॒म) bestowed are the inner riches and spiritual attainments that arise from this process.",
+      "Insight_kn": "ಋಭುಗಳು ಕೌಶಲ್ಯಪೂರ್ಣ ಕ್ರಿಯೆ (ಸುಕೃತ್ಯಯಾ) ಮತ್ತು ಸಮರ್ಪಣೆಯ (ಸ್ವಪಸ್ಯಯಾ) ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ತೋರಿಸುತ್ತಾರೆ. ನಾಲ್ಕು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾದ ಒಂದೇ ಕಪ್ ಪ್ರಜ್ಞೆಯ ವಿಸ್ತರಣೆ ಮತ್ತು ನಿಸ್ವಾರ್ಥ ಸೇವೆಯ ಮೂಲಕ ಆಶೀರ್ವಾದಗಳ ಗುಣಾಕಾರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇದು ವೈಯಕ್ತಿಕ ಪ್ರಯತ್ನವನ್ನು ಸಾಮೂಹಿಕ ಸಾಮರಸ್ಯಕ್ಕೆ ಸಂಯೋಜಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಸದ್ಗುಣದ ಕ್ರಿಯೆಯ ಮೂಲಕ ಒಂದು ಅನೇಕವಾಗುತ್ತದೆ. ಹೀಗೆ ಪರಿವರ್ತನೆಯಿಂದ ಪಡೆದ ದೈವಿಕ ಅನುಭವದ ಅಮೃತವನ್ನು ಸೋಮವು (ಸೋಮಸ್ಯ) ಸಂಕೇತಿಸುತ್ತದೆ. ರತ್ನಗಳು (ರತ್ನಧೇಯಂ) ಈ ಪ್ರಕ್ರಿಯೆಯಿಂದ ಉಂಟಾಗುವ ಆಂತರಿಕ ಸಂಪತ್ತು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಗಳಾಗಿವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S35_58-3_9",
+      "mandala": 4,
+      "sukta": 35,
+      "ric_index": 3,
+      "rig_lines": [
+        "व्य॑कृणोत चम॒सं च॑तु॒र्धा सखे॒ वि शि॒क्षेत्य॑ब्रवीत |",
+        "अथै᳚त वाजा, अ॒मृत॑स्य॒ पन्थां᳚ ग॒णं दे॒वाना᳚मृभवः सुहस्ताः ||"
+      ],
+      "pre_splits": [
+        "वि",
+        "अ॒कृ॒णो॒त॒",
+        "च॒म॒स‌म्",
+        "च॒तुः॒ऽधा",
+        "सखे᳚",
+        "वि",
+        "शि॒क्ष॒",
+        "इति॑",
+        "अ॒ब्र॒वी॒त॒",
+        "अथ॑",
+        "ऐ॒त॒",
+        "वा॒जाः॒",
+        "अ॒मृत॑स्य",
+        "पन्था᳚‌म्",
+        "ग॒ण‌म्",
+        "दे॒वाना᳚‌म्",
+        "ऋ॒भ॒वः॒",
+        "सु॒ऽह॒स्ताः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart / separately",
+          "meaning_kn": "ಪ್ರತ್ಯೇಕವಾಗಿ / ಬೇರೆಬೇರೆಯಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒कृ॒णो॒त॒",
+          "pada_kn": "ಅಕೃಣೋತ",
+          "meaning_en": "(you all) made / fashioned",
+          "meaning_kn": "(ನೀವು) ಮಾಡಿದಿರಿ / ರೂಪಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "च॒म॒स‌म्",
+          "pada_kn": "ಚಮಸಮ್",
+          "meaning_en": "the sacrificial cup / bowl",
+          "meaning_kn": "ಯಜ್ಞಪಾತ್ರೆಯನ್ನು / ಚಮಸವನ್ನು"
+        },
+        {
+          "pada_original": "च॒तुः॒ऽधा",
+          "pada_kn": "ಚತುರ್ಧಾ",
+          "meaning_en": "in four parts / fourfold",
+          "meaning_kn": "ನಾಲ್ಕು ಭಾಗಗಳಾಗಿ / ನಾಲ್ಕು ವಿಧವಾಗಿ"
+        },
+        {
+          "pada_original": "सखे᳚",
+          "pada_kn": "ಸಖೇ",
+          "meaning_en": "O friend",
+          "meaning_kn": "ಓ ಗೆಳೆಯನೇ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "(particle, intensifier)",
+          "meaning_kn": "(ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "शि॒क्ष॒",
+          "pada_kn": "ಶಿಕ್ಷ",
+          "meaning_en": "learn / teach",
+          "meaning_kn": "ಕಲಿ / ಕಲಿಸು"
+        },
+        {
+          "pada_original": "इति॑",
+          "pada_kn": "ಇತಿ",
+          "meaning_en": "thus / so",
+          "meaning_kn": "ಹೀಗೆಂದು / ಎಂದು"
+        },
+        {
+          "pada_original": "अ॒ब्र॒वी॒त॒",
+          "pada_kn": "ಅಬ್ರವೀತ",
+          "meaning_en": "he said",
+          "meaning_kn": "ಅವನು ಹೇಳಿದನು"
+        },
+        {
+          "pada_original": "अथ॑",
+          "pada_kn": "ಅಥ",
+          "meaning_en": "then / now",
+          "meaning_kn": "ಆಮೇಲೆ / ಈಗ"
+        },
+        {
+          "pada_original": "ऐ॒त॒",
+          "pada_kn": "ಐತ",
+          "meaning_en": "(you all) go / proceed",
+          "meaning_kn": "(ನೀವು) ಹೋಗಿರಿ / ಮುಂದುವರೆಯಿರಿ"
+        },
+        {
+          "pada_original": "वा॒जाः॒",
+          "pada_kn": "ವಾಜಾಃ",
+          "meaning_en": "O Vajas (a class of Ribhus) / O strong ones",
+          "meaning_kn": "ಓ ವಾಜರೇ (ಋಭುಗಳ ಒಂದು ವರ್ಗ) / ಓ ಬಲಶಾಲಿಗಳೇ"
+        },
+        {
+          "pada_original": "अ॒मृत॑स्य",
+          "pada_kn": "ಅಮೃತಸ್ಯ",
+          "meaning_en": "of immortality / of nectar",
+          "meaning_kn": "ಅಮೃತದ / ಅಮರತ್ವದ"
+        },
+        {
+          "pada_original": "पन्था᳚‌म्",
+          "pada_kn": "ಪಂಥಾಮ್",
+          "meaning_en": "the path / way",
+          "meaning_kn": "ಮಾರ್ಗವನ್ನು / ಹಾದಿಯನ್ನು"
+        },
+        {
+          "pada_original": "ग॒ण‌म्",
+          "pada_kn": "ಗಣಮ್",
+          "meaning_en": "the host / multitude",
+          "meaning_kn": "ಸಮೂಹವನ್ನು / ಗುಂಪನ್ನು"
+        },
+        {
+          "pada_original": "दे॒वाना᳚‌म्",
+          "pada_kn": "ದೇವಾನಾಮ್",
+          "meaning_en": "of the gods",
+          "meaning_kn": "ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "ऋ॒भ॒वः॒",
+          "pada_kn": "ಋಭವಃ",
+          "meaning_en": "O Ribhus",
+          "meaning_kn": "ಓ ಋಭುಗಳೇ"
+        },
+        {
+          "pada_original": "सु॒ऽह॒स्ताः॒",
+          "pada_kn": "ಸುಹಸ್ತಾಃ",
+          "meaning_en": "O skillful-handed ones / O dexterous ones",
+          "meaning_kn": "ಓ ಉತ್ತಮ ಕೈಗಳಿರುವವರೇ / ಓ ನಿಪುಣರೇ"
+        }
+      ],
+      "full_meaning_en": "O Ribhus, skilled artisans, you transformed the single sacrificial cup into four! 'Learn this skill,' Tvaṣṭṛ declared. O Vajas, now journey on the path of immortality, joining the assembly of the gods, your hands ever deft and divine.",
+      "full_meaning_kn": "ಓ ಕುಶಲ ಕರ್ಮಿಗಳಾದ ಋಭುಗಳೇ, ನೀವು ಒಂದೇ ಯಜ್ಞ ಪಾತ್ರೆಯನ್ನು ನಾಲ್ಕಾಗಿ ಪರಿವರ್ತಿಸಿದಿರಿ! 'ಈ ಕೌಶಲ್ಯವನ್ನು ಕಲಿಯಿರಿ' ಎಂದು ತ್ವಷ್ಟೃ ಘೋಷಿಸಿದನು. ಓ ವಾಜರೇ, ಈಗ ಅಮರತ್ವದ ಮಾರ್ಗದಲ್ಲಿ ಪ್ರಯಾಣಿಸಿ, ದೇವತೆಗಳ ಸಭೆಯನ್ನು ಸೇರಿಕೊಳ್ಳಿ, ನಿಮ್ಮ ಕೈಗಳು ಸದಾ ಚುರುಕಾಗಿ ಮತ್ತು ದೈವಿಕವಾಗಿರಲಿ.",
+      "rig_time_s": 29.673,
+      "Insight_en": "The transformation of one into many symbolizes the expansion of consciousness and the multiplication of divine qualities within the individual. The path to immortality is achieved through skillful action (karma) performed with devotion and offered to the divine. The Ribhus represent the human potential to attain divine status through perfected skill and selfless service, ultimately merging with the collective consciousness of the gods (devas) – representing higher states of awareness.",
+      "Insight_kn": "ಒಂದನ್ನು ಅನೇಕವಾಗಿ ಪರಿವರ್ತಿಸುವುದು ಪ್ರಜ್ಞೆಯ ವಿಸ್ತರಣೆ ಮತ್ತು ವ್ಯಕ್ತಿಯೊಳಗಿನ ದೈವಿಕ ಗುಣಗಳ ಗುಣಾಕಾರವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಭಕ್ತಿಯಿಂದ ಮಾಡಿದ ಮತ್ತು ದೇವರಿಗೆ ಅರ್ಪಿಸಿದ ಕುಶಲ ಕ್ರಿಯೆಯ (ಕರ್ಮ) ಮೂಲಕ ಅಮರತ್ವದ ಮಾರ್ಗವನ್ನು ಸಾಧಿಸಲಾಗುತ್ತದೆ. ಋಭುಗಳು ಪರಿಪೂರ್ಣ ಕೌಶಲ್ಯ ಮತ್ತು ನಿಸ್ವಾರ್ಥ ಸೇವೆಯ ಮೂಲಕ ದೈವಿಕ ಸ್ಥಾನಮಾನವನ್ನು ಪಡೆಯುವ ಮಾನವ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಅಂತಿಮವಾಗಿ ದೇವತೆಗಳ (ದೇವತೆಗಳು) ಸಾಮೂಹಿಕ ಪ್ರಜ್ಞೆಯೊಂದಿಗೆ ವಿಲೀನಗೊಳ್ಳುತ್ತಾರೆ - ಇದು ಉನ್ನತ ಮಟ್ಟದ ಜಾಗೃತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S35_58-4_9",
+      "mandala": 4,
+      "sukta": 35,
+      "ric_index": 4,
+      "rig_lines": [
+        "कि॒म्मयः॑ स्विच्चम॒स ए॒ष आ᳚स॒ यं काव्ये᳚न च॒तुरो᳚ विच॒क्र |",
+        "अथा᳚ सुनुध्वं॒ सव॑नं॒ मदा᳚य पा॒त ऋ॑भवो॒ मधु॑नः सो॒म्यस्य॑ ||"
+      ],
+      "pre_splits": [
+        "कि॒‌म्ऽमयः॑",
+        "स्वि॒त्",
+        "च॒म॒सः",
+        "ए॒षः",
+        "आ॒स॒",
+        "य‌म्",
+        "काव्ये᳚न",
+        "च॒तुरः॑",
+        "वि॒ऽच॒क्र",
+        "अथ॑",
+        "सु॒नु॒ध्व॒‌म्",
+        "सव॑न‌म्",
+        "मदा᳚य",
+        "पा॒त",
+        "ऋ॒भ॒वः॒",
+        "मधु॑नः",
+        "सो॒म्यस्य॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "कि॒‌म्ऽमयः॑",
+          "pada_kn": "ಕಿಮ್ಮಯಃ",
+          "meaning_en": "Of what material?",
+          "meaning_kn": "ಯಾವ ವಸ್ತುವಿನಿಂದ?"
+        },
+        {
+          "pada_original": "स्वि॒त्",
+          "pada_kn": "ಸ್ವಿತ್",
+          "meaning_en": "Indeed / truly",
+          "meaning_kn": "ನಿಶ್ಚಯವಾಗಿ / ನಿಜವಾಗಿ"
+        },
+        {
+          "pada_original": "च॒म॒सः",
+          "pada_kn": "ಚಮಸಃ",
+          "meaning_en": "The cup / vessel",
+          "meaning_kn": "ಚಮಸ ಪಾತ್ರೆ / ಪಾತ್ರೆ"
+        },
+        {
+          "pada_original": "ए॒षः",
+          "pada_kn": "ಏಷಃ",
+          "meaning_en": "This",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "आ॒स॒",
+          "pada_kn": "ಆಸ",
+          "meaning_en": "Was",
+          "meaning_kn": "ಇತ್ತು"
+        },
+        {
+          "pada_original": "य‌म्",
+          "pada_kn": "ಯಮ್",
+          "meaning_en": "Which",
+          "meaning_kn": "ಯಾವುದನ್ನು"
+        },
+        {
+          "pada_original": "काव्ये᳚न",
+          "pada_kn": "ಕಾವ್ಯೇನ",
+          "meaning_en": "By wisdom / by skill",
+          "meaning_kn": "ನಿಮ್ಮ ಕೌಶಲ್ಯದಿಂದ / ಜ್ಞಾನದಿಂದ"
+        },
+        {
+          "pada_original": "च॒तुरः॑",
+          "pada_kn": "ಚತುರಃ",
+          "meaning_en": "Four (cups)",
+          "meaning_kn": "ನಾಲ್ಕು (ಪಾತ್ರೆಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "वि॒ऽच॒क्र",
+          "pada_kn": "ವಿಚಕ್ರ",
+          "meaning_en": "You fashioned / made",
+          "meaning_kn": "ನೀವು ನಿರ್ಮಿಸಿದಿರಿ / ಮಾಡಿದಿರಿ"
+        },
+        {
+          "pada_original": "अथ॑",
+          "pada_kn": "ಅಥ",
+          "meaning_en": "Now / therefore",
+          "meaning_kn": "ಈಗ / ಆದ್ದರಿಂದ"
+        },
+        {
+          "pada_original": "सु॒नु॒ध्व॒‌म्",
+          "pada_kn": "ಸುನುಧ್ವಮ್",
+          "meaning_en": "Press (the Soma)",
+          "meaning_kn": "(ಸೋಮವನ್ನು) ಹಿಂಡಿರಿ"
+        },
+        {
+          "pada_original": "सव॑न‌म्",
+          "pada_kn": "ಸವನಮ್",
+          "meaning_en": "The pressing / libation",
+          "meaning_kn": "ಸೋಮರಸವನ್ನು ಹಿಂಡುವುದು / ಯಜ್ಞ"
+        },
+        {
+          "pada_original": "मदा᳚य",
+          "pada_kn": "ಮದಾಯ",
+          "meaning_en": "For exhilaration / for joy",
+          "meaning_kn": "ಆನಂದಕ್ಕಾಗಿ / ಸಂತೋಷಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "पा॒त",
+          "pada_kn": "ಪಾತ",
+          "meaning_en": "Drink",
+          "meaning_kn": "ಕುಡಿಯಿರಿ"
+        },
+        {
+          "pada_original": "ऋ॒भ॒वः॒",
+          "pada_kn": "ಋಭವಃ",
+          "meaning_en": "O Rbhus!",
+          "meaning_kn": "ಓ ಋಭುಗಳೇ!"
+        },
+        {
+          "pada_original": "मधु॑नः",
+          "pada_kn": "ಮಧುನಃ",
+          "meaning_en": "Of the sweet (Soma)",
+          "meaning_kn": "ಮಧುರವಾದ (ಸೋಮದ)"
+        },
+        {
+          "pada_original": "सो॒म्यस्य॑",
+          "pada_kn": "ಸೋಮ್ಯಸ್ಯ",
+          "meaning_en": "Of the Soma-juice",
+          "meaning_kn": "ಸೋಮರಸದ"
+        }
+      ],
+      "full_meaning_en": "Of what substance, pray, was this chalice from which you, O Ribhus, through your artistry, crafted four? Now, therefore, extract the Soma essence for joy, and partake of the delectable Soma's nectar.",
+      "full_meaning_kn": "ಎಂತಹ ವಸ್ತುವಿನಿಂದ ಈ ಪಾತ್ರೆಯನ್ನು, ಎಲೈ ಋಭುಗಳೇ, ನಿಮ್ಮ ಕುಶಲತೆಯಿಂದ ನಾಲ್ಕಾಗಿ ರೂಪಿಸಿದಿರಿ? ಆದ್ದರಿಂದ, ಈಗ ಆನಂದಕ್ಕಾಗಿ ಸೋಮವನ್ನು ಹಿಂಡಿರಿ, ಮತ್ತು ಸಿಹಿಯಾದ ಸೋಮರಸದ ಮಧುವನ್ನು ಸೇವಿಸಿ.",
+      "rig_time_s": 44.324,
+      "Insight_en": "The chalice represents the individual consciousness transformed into multiple facets of enlightened awareness through skillful action (karma). The Soma represents the bliss of divine union; its extraction symbolizes the process of inner purification and the subsequent experience of spiritual ecstasy. Drinking the Soma signifies assimilation of divine wisdom.",
+      "Insight_kn": "ಪಾತ್ರೆಯು ವೈಯಕ್ತಿಕ ಪ್ರಜ್ಞೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಕೌಶಲ್ಯಪೂರ್ಣ ಕ್ರಿಯೆ (ಕರ್ಮ) ಮೂಲಕ ಜ್ಞಾನೋದಯದ ಅರಿವಿನ ಬಹುಮುಖಿ ಅಂಶಗಳಾಗಿ ರೂಪಾಂತರಗೊಳ್ಳುತ್ತದೆ. ಸೋಮವು ದೈವಿಕ ಒಕ್ಕೂಟದ ಆನಂದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ; ಅದರ ಹೊರತೆಗೆಯುವಿಕೆ ಆಂತರಿಕ ಶುದ್ಧೀಕರಣದ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ನಂತರದ ಆಧ್ಯಾತ್ಮಿಕ ಆನಂದದ ಅನುಭವವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸೋಮವನ್ನು ಕುಡಿಯುವುದು ದೈವಿಕ ಜ್ಞಾನದ ಸಮೀಕರಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S35_58-5_9",
+      "mandala": 4,
+      "sukta": 35,
+      "ric_index": 5,
+      "rig_lines": [
+        "शच्या᳚कर्त पि॒तरा॒ युवा᳚ना॒ शच्या᳚कर्त चम॒सं दे᳚व॒पान᳚म् |",
+        "शच्या॒ हरी॒ धनु॑तरावतष्टेन्द्र॒वाहा᳚वृभवो वाजरत्नाः ||"
+      ],
+      "pre_splits": [
+        "शच्या᳚",
+        "अ॒क॒र्त॒",
+        "पि॒तरा᳚",
+        "युवा᳚ना",
+        "शच्या᳚",
+        "अ॒क॒र्त॒",
+        "च॒म॒स‌म्",
+        "दे॒व॒ऽपान᳚‌म्",
+        "शच्या᳚",
+        "हरी॒ इति॑",
+        "धनु॑ऽतरौ",
+        "अ॒त॒ष्ट॒",
+        "इ॒न्द्र॒ऽवाहौ᳚",
+        "ऋ॒भ॒वः॒",
+        "वा॒ज॒ऽर॒त्नाः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "शच्या᳚",
+          "pada_kn": "ಶಚ್ಯಾ",
+          "meaning_en": "By skill/power",
+          "meaning_kn": "ಕೌಶಲ್ಯದಿಂದ/ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "अ॒क॒र्त॒",
+          "pada_kn": "ಅಕರ್ತ",
+          "meaning_en": "you fashioned/made",
+          "meaning_kn": "ನೀವು ರೂಪಿಸಿದಿರಿ/ಮಾಡಿದಿರಿ"
+        },
+        {
+          "pada_original": "पि॒तरा᳚",
+          "pada_kn": "ಪಿತರಾ",
+          "meaning_en": "the two parents",
+          "meaning_kn": "ಇಬ್ಬರು ಪೋಷಕರನ್ನು"
+        },
+        {
+          "pada_original": "युवा᳚ना",
+          "pada_kn": "ಯುವಾನಾ",
+          "meaning_en": "young",
+          "meaning_kn": "ಯುವಕರಾದ"
+        },
+        {
+          "pada_original": "शच्या᳚",
+          "pada_kn": "ಶಚ್ಯಾ",
+          "meaning_en": "By skill/power",
+          "meaning_kn": "ಕೌಶಲ್ಯದಿಂದ/ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "अ॒क॒र्त॒",
+          "pada_kn": "ಅಕರ್ತ",
+          "meaning_en": "you fashioned/made",
+          "meaning_kn": "ನೀವು ರೂಪಿಸಿದಿರಿ/ಮಾಡಿದಿರಿ"
+        },
+        {
+          "pada_original": "च॒म॒स‌म्",
+          "pada_kn": "ಚಮಸಮ್",
+          "meaning_en": "the sacrificial cup",
+          "meaning_kn": "ಯಜ್ಞದ ಪಾತ್ರೆಯನ್ನು"
+        },
+        {
+          "pada_original": "दे॒व॒ऽपान᳚‌म्",
+          "pada_kn": "ದೇವಪಾನಮ್",
+          "meaning_en": "for gods to drink from",
+          "meaning_kn": "ದೇವತೆಗಳು ಕುಡಿಯಲು"
+        },
+        {
+          "pada_original": "शच्या᳚",
+          "pada_kn": "ಶಚ್ಯಾ",
+          "meaning_en": "By skill/power",
+          "meaning_kn": "ಕೌಶಲ್ಯದಿಂದ/ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "हरी॒ इति॑",
+          "pada_kn": "ಹರೀ ಇತಿ",
+          "meaning_en": "the two bay horses",
+          "meaning_kn": "ಎರಡು ಕೆಂಪು-ಕಂದು ಬಣ್ಣದ ಕುದುರೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "धनु॑ऽतरौ",
+          "pada_kn": "ಧನುತರೌ",
+          "meaning_en": "swift/strong",
+          "meaning_kn": "ವೇಗವಾದ/ಬಲಶಾಲಿಯಾದ"
+        },
+        {
+          "pada_original": "अ॒त॒ष्ट॒",
+          "pada_kn": "ಅತಷ್ಟ",
+          "meaning_en": "you carved/fashioned",
+          "meaning_kn": "ನೀವು ಕೆತ್ತಿದಿರಿ/ರೂಪಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒ऽवाहौ᳚",
+          "pada_kn": "ಇಂದ್ರವಾಹೌ",
+          "meaning_en": "Indra-bearing",
+          "meaning_kn": "ಇಂದ್ರನನ್ನು ಹೊರುವ"
+        },
+        {
+          "pada_original": "ऋ॒भ॒वः॒",
+          "pada_kn": "ಋಭವಃ",
+          "meaning_en": "O Ribhus!",
+          "meaning_kn": "ಓ ಋಭುಗಳೇ!"
+        },
+        {
+          "pada_original": "वा॒ज॒ऽर॒त्नाः॒",
+          "pada_kn": "ವಾಜರತ್ನಾಃ",
+          "meaning_en": "possessing treasures of strength/food",
+          "meaning_kn": "ಶಕ್ತಿ/ಅನ್ನದ ನಿಧಿಗಳನ್ನು ಹೊಂದಿರುವವರೇ"
+        }
+      ],
+      "full_meaning_en": "O Ribhus, possessors of strength's treasures, through your skill, you fashioned the youthful parents, Dyaus and Prithvi. Through your skill, you crafted the sacrificial cup for the gods' divine drink. Through your skill, you sculpted the two swift bay horses that carry Indra.",
+      "full_meaning_kn": "ಓ ರಿಭುಗಳೇ, ಶಕ್ತಿಯ ಸಂಪತ್ತನ್ನು ಹೊಂದಿರುವವರೇ, ನಿಮ್ಮ ಕೌಶಲ್ಯದಿಂದ ಯುವ ಪಿತೃಗಳಾದ ದ್ಯಾವಾ ಮತ್ತು ಪೃಥ್ವಿಯನ್ನು ರೂಪಿಸಿದಿರಿ. ನಿಮ್ಮ ಕೌಶಲ್ಯದಿಂದ ದೇವತೆಗಳ ಪಾನೀಯಕ್ಕಾಗಿ ಯಜ್ಞದ ಕಪ್ ಅನ್ನು ರಚಿಸಿದಿರಿ. ನಿಮ್ಮ ಕೌಶಲ್ಯದಿಂದ ಇಂದ್ರನನ್ನು ಹೊತ್ತೊಯ್ಯುವ ಎರಡು ವೇಗದ ಕೆಂಪು ಕುದುರೆಗಳನ್ನು ಕೆತ್ತಿದಿರಿ.",
+      "rig_time_s": 59.531,
+      "Insight_en": "The Ṛbhus represent transformative power – the capacity to reshape reality through skillful action and devotion. Fashioning Dyaus and Prithvi signifies the manifestation of consciousness and matter from the primordial state. Crafting the Soma cup represents the refinement of perception for divine communion. Sculpting Indra's horses symbolizes the harnessing of vital energies for spiritual progress. The mantra speaks to the alchemical ability to transmute the mundane into the divine through focused intention and unwavering effort.",
+      "Insight_kn": "ಋಭುಗಳು ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ – ಕೌಶಲ್ಯಪೂರ್ಣ ಕ್ರಿಯೆ ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ ವಾಸ್ತವವನ್ನು ಮರುರೂಪಿಸುವ ಸಾಮರ್ಥ್ಯ. ದ್ಯಾವಾ ಮತ್ತು ಪೃಥ್ವಿಯನ್ನು ರೂಪಿಸುವುದು ಪ್ರಾಚೀನ ಸ್ಥಿತಿಯಿಂದ ಪ್ರಜ್ಞೆ ಮತ್ತು ವಸ್ತುವಿನ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸೋಮ ಕಪ್ ಅನ್ನು ರಚಿಸುವುದು ದೈವಿಕ ಸಂವಹನಕ್ಕಾಗಿ ಗ್ರಹಿಕೆಯ ಪರಿಷ್ಕರಣೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇಂದ್ರನ ಕುದುರೆಗಳನ್ನು ಕೆತ್ತನೆ ಮಾಡುವುದು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗಾಗಿ ಪ್ರಮುಖ ಶಕ್ತಿಗಳ ಸದ್ಬಳಕೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಈ ಮಂತ್ರವು ಕೇಂದ್ರೀಕೃತ ಉದ್ದೇಶ ಮತ್ತು ಅಚಲ ಪ್ರಯತ್ನದಿಂದ ಲೌಕಿಕವನ್ನು ದೈವಿಕವಾಗಿ ಪರಿವರ್ತಿಸುವ ರಸವಿದ್ಯೆಯ ಸಾಮರ್ಥ್ಯದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S35_58-6_9",
+      "mandala": 4,
+      "sukta": 35,
+      "ric_index": 6,
+      "rig_lines": [
+        "यो वः॑ सु॒नोत्य॑भिपि॒त्वे, अह्नां᳚ ती॒व्रं वा᳚जासः॒ सव॑नं॒ मदा᳚य |",
+        "तस्मै᳚ र॒यिमृ॑भवः॒ सर्व॑वीर॒मा त॑क्षत वृषणो मन्दसा॒नाः ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "वः॒",
+        "सु॒नोति॑",
+        "अ॒भि॒ऽपि॒त्वे",
+        "अह्ना᳚‌म्",
+        "ती॒व्र‌म्",
+        "वा॒जा॒सः॒",
+        "सव॑न‌म्",
+        "मदा᳚य",
+        "तस्मै᳚",
+        "र॒यि‌म्",
+        "ऋ॒भ॒वः॒",
+        "सर्व॑ऽवीर‌म्",
+        "आ",
+        "त॒क्ष॒त॒",
+        "वृ॒ष॒णः॒",
+        "म॒न्द॒सा॒नाः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who",
+          "meaning_kn": "ಯಾವನು"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "to you (Ribhus)",
+          "meaning_kn": "ನಿಮಗೆ"
+        },
+        {
+          "pada_original": "सु॒नोति॑",
+          "pada_kn": "ಸುನೋತಿ",
+          "meaning_en": "presses (Soma)",
+          "meaning_kn": "ಸೋಮವನ್ನು ಹಿಂಡುತ್ತಾನೋ"
+        },
+        {
+          "pada_original": "अ॒भि॒ऽपि॒त्वे",
+          "pada_kn": "ಅಭಿಪಿತ್ವೇ",
+          "meaning_en": "at the approach / at evening",
+          "meaning_kn": "ಸಾಯಂಕಾಲದಲ್ಲಿ / ಸಮೀಪದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अह्ना᳚‌म्",
+          "pada_kn": "ಅಹ್ನಾಮ್",
+          "meaning_en": "of the days",
+          "meaning_kn": "ದಿನಗಳ"
+        },
+        {
+          "pada_original": "ती॒व्र‌म्",
+          "pada_kn": "ತೀವ್ರಮ್",
+          "meaning_en": "strong / potent",
+          "meaning_kn": "ತೀಕ್ಷ್ಣವಾದ / ಪ್ರಬಲವಾದ"
+        },
+        {
+          "pada_original": "वा॒जा॒सः॒",
+          "pada_kn": "ವಾಜಾಸಃ",
+          "meaning_en": "O Vajas (a name for Ribhus)",
+          "meaning_kn": "ಓ ವಾಜರುಗಳೇ (ಋಭುಗಳೇ)"
+        },
+        {
+          "pada_original": "सव॑न‌म्",
+          "pada_kn": "ಸವನಮ್",
+          "meaning_en": "the pressing (of Soma)",
+          "meaning_kn": "ಸೋಮರಸದ ಹಿಂಡುವಿಕೆ / ಅಭಿಷವ"
+        },
+        {
+          "pada_original": "मदा᳚य",
+          "pada_kn": "ಮದಾಯ",
+          "meaning_en": "for exhilaration / for intoxication",
+          "meaning_kn": "ಆನಂದಕ್ಕಾಗಿ / ಮದಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "तस्मै᳚",
+          "pada_kn": "ತಸ್ಮೈ",
+          "meaning_en": "To him",
+          "meaning_kn": "ಅವನಿಗೆ"
+        },
+        {
+          "pada_original": "र॒यि‌म्",
+          "pada_kn": "ರಯಿಮ್",
+          "meaning_en": "wealth / riches",
+          "meaning_kn": "ಸಂಪತ್ತು / ಧನ"
+        },
+        {
+          "pada_original": "ऋ॒भ॒वः॒",
+          "pada_kn": "ಋಭವಃ",
+          "meaning_en": "O Ribhus",
+          "meaning_kn": "ಓ ಋಭುಗಳೇ"
+        },
+        {
+          "pada_original": "सर्व॑ऽवीर‌म्",
+          "pada_kn": "ಸರ್ವವೀರಮ್",
+          "meaning_en": "all-heroic / full of all heroes",
+          "meaning_kn": "ಎಲ್ಲಾ ವೀರರಿಂದ ಕೂಡಿದ / ಎಲ್ಲಾ ಶೂರರನ್ನು ಹೊಂದಿದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / towards (prefix to verb)",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "त॒क्ष॒त॒",
+          "pada_kn": "ತಕ್ಷತ",
+          "meaning_en": "fashion / create / grant",
+          "meaning_kn": "ನಿರ್ಮಿಸಿರಿ / ನೀಡಿರಿ"
+        },
+        {
+          "pada_original": "वृ॒ष॒णः॒",
+          "pada_kn": "ವೃಷಣಃ",
+          "meaning_en": "O strong ones / O showerers (of blessings)",
+          "meaning_kn": "ಓ ಶಕ್ತಿಶಾಲಿಗಳೇ / ಓ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ಸುರಿಸುವವರೇ"
+        },
+        {
+          "pada_original": "म॒न्द॒सा॒नाः",
+          "pada_kn": "ಮಂದಸಾನಾಃ",
+          "meaning_en": "rejoicing / gladdened",
+          "meaning_kn": "ಆನಂದಿಸುತ್ತಿರುವವರೇ / ಹರ್ಷಿತರಾದವರೇ"
+        }
+      ],
+      "full_meaning_en": "O ye Ribhus, possessors of strength and granters of abundance, those who extract the potent Soma at the twilight of day for your delight, bestow upon them riches abounding in valor and progeny, fashioning prosperity with joyous hearts.",
+      "full_meaning_kn": "ಓ ಶಕ್ತಿಶಾಲಿಗಳೂ, ಸಮೃದ್ಧಿಯ ದಾತೃಗಳೂ ಆದ ಋಭುಗಳೇ, ಯಾರು ಸಾಯಂಕಾಲದ ಮುಸ್ಸಂಜೆಯಲ್ಲಿ ನಿಮ್ಮ ಆನಂದಕ್ಕಾಗಿ ಬಲವಾದ ಸೋಮವನ್ನು ಹಿಂಡುತ್ತಾರೋ, ಅವರಿಗೆ ಶೌರ್ಯ ಮತ್ತು ಸಂತತಿಯಿಂದ ತುಂಬಿರುವ ಸಂಪತ್ತನ್ನು ದಯಪಾಲಿಸಿ, ಸಂತೋಷದ ಹೃದಯದಿಂದ ಸಮೃದ್ಧಿಯನ್ನು ರೂಪಿಸಿ.",
+      "rig_time_s": 75.444,
+      "Insight_en": "The pressing of Soma represents the purification of the mind through disciplined action and devotion. The Ribhus, divine artisans, symbolize the refined faculties of perception and skillful action. When the individual offers their purified awareness (Soma) with devotion, they are graced with the abundance of inner strength (বীর / vīra) and spiritual progeny (riches), leading to holistic well-being and self-realization. The act of 'fashioning prosperity with joyous hearts' alludes to creating one's reality through positive intention and unwavering faith.",
+      "Insight_kn": "ಸೋಮವನ್ನು ಹಿಂಡುವುದು ಶಿಸ್ತುಬದ್ಧ ಕ್ರಿಯೆ ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ ಮನಸ್ಸಿನ ಶುದ್ಧೀಕರಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ದೈವಿಕ ಕುಶಲಕರ್ಮಿಗಳಾದ ಋಭುಗಳು ಗ್ರಹಿಕೆಯ ಮತ್ತು ಕೌಶಲ್ಯಪೂರ್ಣ ಕ್ರಿಯೆಯ ಸಂಸ್ಕರಿಸಿದ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ. ಯಾವಾಗ ವ್ಯಕ್ತಿಯು ತನ್ನ ಶುದ್ಧೀಕರಿಸಿದ ಅರಿವನ್ನು (ಸೋಮ) ಭಕ್ತಿಯಿಂದ ಅರ್ಪಿಸುತ್ತಾನೋ, ಆಗ ಅವನು ಆಂತರಿಕ ಶಕ್ತಿ (ವೀರ) ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಂತತಿಯ (ಸಂಪತ್ತು) ಸಮೃದ್ಧಿಯಿಂದ ಕೃಪೆಗೆ ಪಾತ್ರನಾಗುತ್ತಾನೆ, ಇದು ಸಮಗ್ರ ಯೋಗಕ್ಷೇಮ ಮತ್ತು ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. 'ಸಂತೋಷದ ಹೃದಯದಿಂದ ಸಮೃದ್ಧಿಯನ್ನು ರೂಪಿಸುವುದು' ಸಕಾರಾತ್ಮಕ ಉದ್ದೇಶ ಮತ್ತು ಅಚಲವಾದ ನಂಬಿಕೆಯ ಮೂಲಕ ಒಬ್ಬರ ವಾಸ್ತವತೆಯನ್ನು ಸೃಷ್ಟಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S35_58-7_9",
+      "mandala": 4,
+      "sukta": 35,
+      "ric_index": 7,
+      "rig_lines": [
+        "प्रा॒तः सु॒तम॑पिबो हर्यश्व॒ माध्यं᳚दिनं॒ सव॑नं॒ केव॑लं ते |",
+        "समृ॒भुभिः॑ पिबस्व रत्न॒धेभिः॒ सखीँ॒र्याँ, इ᳚न्द्र चकृ॒षे सु॑कृ॒त्या ||"
+      ],
+      "pre_splits": [
+        "प्रा॒तरिति॑",
+        "सु॒त‌म्",
+        "अ॒पि॒बः॒",
+        "ह॒रि॒।आ॒श्व॒",
+        "माध्यं᳚दिन‌म्",
+        "सव॑न‌म्",
+        "केव॑ल‌म्",
+        "ते॒",
+        "स‌म्",
+        "ऋ॒भुऽभिः॑",
+        "पि॒ब॒स्व॒",
+        "र॒त्न॒ऽधेभिः॑",
+        "सखी᳚न्",
+        "यान्",
+        "इ॒न्द्र॒",
+        "च॒कृ॒षे",
+        "सु॒ऽकृ॒त्या"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्रा॒तरिति॑",
+          "pada_kn": "ಪ್ರಾತರಿತಿ",
+          "meaning_en": "In the morning / At dawn",
+          "meaning_kn": "ಬೆಳಿಗ್ಗೆ / ಪ್ರಾತಃಕಾಲದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "सु॒त‌म्",
+          "pada_kn": "ಸುತಮ್",
+          "meaning_en": "(Soma) pressed / extracted",
+          "meaning_kn": "ಹಿಂಡಿದ / ಸಿದ್ಧಪಡಿಸಿದ (ಸೋಮ)"
+        },
+        {
+          "pada_original": "अ॒पि॒बः॒",
+          "pada_kn": "ಅಪಿಬಃ",
+          "meaning_en": "You drank",
+          "meaning_kn": "ನೀನು ಕುಡಿದಿ"
+        },
+        {
+          "pada_original": "ह॒रि॒।आ॒श्व॒",
+          "pada_kn": "ಹರಿಆಶ್ವ",
+          "meaning_en": "O Hari-ashva (Indra, 'having bay horses')",
+          "meaning_kn": "ಓ ಹರಿಯಶ್ವನೇ / ಹಸಿರು ಕುದುರೆಗಳಿರುವವನೇ"
+        },
+        {
+          "pada_original": "माध्यं᳚दिन‌म्",
+          "pada_kn": "ಮಾಧ್ಯಂದಿನಮ್",
+          "meaning_en": "Midday / of noon",
+          "meaning_kn": "ಮಧ್ಯಾಹ್ನದ"
+        },
+        {
+          "pada_original": "सव॑न‌म्",
+          "pada_kn": "ಸವನಮ್",
+          "meaning_en": "Pressing / libation (of Soma)",
+          "meaning_kn": "ಸೋಮರಸ ಹಿಂಡುವಿಕೆ / ಯಜ್ಞ"
+        },
+        {
+          "pada_original": "केव॑ल‌म्",
+          "pada_kn": "ಕೇವಲಮ್",
+          "meaning_en": "Alone / exclusively",
+          "meaning_kn": "ಏಕಾಂಗಿಯಾಗಿ / ಕೇವಲವಾಗಿ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "For you / yours",
+          "meaning_kn": "ನಿನಗಾಗಿ / ನಿನ್ನ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "Together with / along with",
+          "meaning_kn": "ಜೊತೆಗೂಡಿ / ಸಹ"
+        },
+        {
+          "pada_original": "ऋ॒भुऽभिः॑",
+          "pada_kn": "ಋಭುಭಿಃ",
+          "meaning_en": "With the Ribhus (divine artisans)",
+          "meaning_kn": "ಋಭುಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "पि॒ब॒स्व॒",
+          "pada_kn": "ಪಿಬಸ್ವ",
+          "meaning_en": "Drink (imperative)",
+          "meaning_kn": "ಕುಡಿ / ಪಾನಮಾಡು"
+        },
+        {
+          "pada_original": "र॒त्न॒ऽधेभिः॑",
+          "pada_kn": "ರತ್ನಧೇಭಿಃ",
+          "meaning_en": "Who bestow treasures / treasure-givers",
+          "meaning_kn": "ರತ್ನಗಳನ್ನು ನೀಡುವವರೊಂದಿಗೆ / ಸಂಪತ್ತು ಕೊಡುವವರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "सखी᳚न्",
+          "pada_kn": "ಸಖೀನ್",
+          "meaning_en": "Friends",
+          "meaning_kn": "ಸ್ನೇಹಿತರನ್ನು"
+        },
+        {
+          "pada_original": "यान्",
+          "pada_kn": "ಯಾನ್",
+          "meaning_en": "Whom / those whom",
+          "meaning_kn": "ಯಾರನ್ನು / ಯಾವವರನ್ನು"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "च॒कृ॒षे",
+          "pada_kn": "ಚಕೃಷೇ",
+          "meaning_en": "You made / you have made",
+          "meaning_kn": "ನೀನು ಮಾಡಿಕೊಂಡೆ / ಸೃಷ್ಟಿಸಿದೆ"
+        },
+        {
+          "pada_original": "सु॒ऽकृ॒त्या",
+          "pada_kn": "ಸುಕೃತ್ಯಾ",
+          "meaning_en": "By good deeds / by meritorious acts",
+          "meaning_kn": "ಉತ್ತಮ ಕಾರ್ಯಗಳಿಂದ / ಸತ್ಕರ್ಮಗಳಿಂದ"
+        }
+      ],
+      "full_meaning_en": "O Indra, Lord of bay horses, you have imbibed the Soma pressed in the morning, and the midday libation belonged to you alone. Now, O Indra, drink with the Ribhus, who bestow treasures, those companions whom you have made through noble deeds.",
+      "full_meaning_kn": "ಓ ಹರ್ಯಶ್ವ ಇಂದ್ರ, ಬೆಳಗಿನ ಜಾವದಲ್ಲಿ ಹಿಂಡಿದ ಸೋಮವನ್ನು ನೀನು ಕುಡಿದಿರುವೆ, ಮತ್ತು ಮಧ್ಯಾಹ್ನದ ಅಭಿಷೇಕವು ನಿನಗೆ ಮಾತ್ರ ಸೇರಿದ್ದು. ಈಗ, ಓ ಇಂದ್ರ, ರತ್ನಗಳನ್ನು ನೀಡುವ ಋಭುಗಳೊಂದಿಗೆ ಕುಡಿಯಿರಿ, ಸತ್ಕರ್ಮದಿಂದ ನೀನು ಮಾಡಿದ ಆ ಸ್ನೇಹಿತರೊಂದಿಗೆ.",
+      "rig_time_s": 91.581,
+      "Insight_en": "The mantra speaks to the integration of divine grace (Indra) with skillful action and friendship (Ribhus). Drinking the Soma represents an inner transformation, a merging of the individual consciousness with the cosmic. The Ribhus symbolize perfected skills and selfless actions, emphasizing that spiritual progress is not solitary but enriched by virtuous companionship. Indra's friendship with the Ribhus signifies that true divinity acknowledges and integrates human excellence. The morning and midday libations represent different phases of spiritual practice, culminating in a complete absorption into the divine. This illustrates the journey from initial aspiration to complete realization, fostered by both divine grace and virtuous deeds.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ಅನುಗ್ರಹ (ಇಂದ್ರ) ವನ್ನು ಕೌಶಲ್ಯಪೂರ್ಣ ಕ್ರಿಯೆ ಮತ್ತು ಸ್ನೇಹದೊಂದಿಗೆ (ಋಭುಗಳು) ಸಂಯೋಜಿಸುವುದರ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ. ಸೋಮವನ್ನು ಕುಡಿಯುವುದು ಒಂದು ಆಂತರಿಕ ರೂಪಾಂತರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ವೈಯಕ್ತಿಕ ಪ್ರಜ್ಞೆಯನ್ನು ಕಾಸ್ಮಿಕ್‌ನೊಂದಿಗೆ ವಿಲೀನಗೊಳಿಸುತ್ತದೆ. ಋಭುಗಳು ಪರಿಪೂರ್ಣ ಕೌಶಲ್ಯ ಮತ್ತು ನಿಸ್ವಾರ್ಥ ಕ್ರಿಯೆಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ, ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಯು ಏಕಾಂಗಿಯಲ್ಲ ಆದರೆ ಸದ್ಗುಣ ಸಹವಾಸದಿಂದ ಸಮೃದ್ಧವಾಗಿದೆ ಎಂದು ಒತ್ತಿಹೇಳುತ್ತಾರೆ. ಋಭುಗಳೊಂದಿಗೆ ಇಂದ್ರನ ಸ್ನೇಹವು ನಿಜವಾದ ದೈವತ್ವವು ಮಾನವ ಶ್ರೇಷ್ಠತೆಯನ್ನು ಗುರುತಿಸುತ್ತದೆ ಮತ್ತು ಸಂಯೋಜಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಬೆಳಗಿನ ಮತ್ತು ಮಧ್ಯಾಹ್ನದ ಅಭಿಷೇಕಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ವಿವಿಧ ಹಂತಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಇದು ದೈವಿಕದಲ್ಲಿ ಸಂಪೂರ್ಣ ಹೀರಿಕೊಳ್ಳುವಿಕೆಯಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ. ದೈವಿಕ ಅನುಗ್ರಹ ಮತ್ತು ಸದ್ಗುಣ ಕ್ರಿಯೆಗಳಿಂದ ಬೆಳೆಸಲ್ಪಟ್ಟ ಆರಂಭಿಕ ಆಕಾಂಕ್ಷೆಯಿಂದ ಸಂಪೂರ್ಣ ಸಾಕ್ಷಾತ್ಕಾರದವರೆಗೆ ಪ್ರಯಾಣವನ್ನು ಇದು ವಿವರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S35_58-8_9",
+      "mandala": 4,
+      "sukta": 35,
+      "ric_index": 8,
+      "rig_lines": [
+        "ये दे॒वासो॒, अभ॑वता सुकृ॒त्या श्ये॒ना, इ॒वेदधि॑ दि॒वि नि॑षे॒द |",
+        "ते रत्नं᳚ धात शवसो नपातः॒ सौध᳚न्वना॒, अभ॑वता॒मृता᳚सः ||"
+      ],
+      "pre_splits": [
+        "ये",
+        "दे॒वासः॑",
+        "अभ॑वत",
+        "सु॒ऽकृ॒त्या",
+        "श्ये॒नाःऽ‌इ᳚व",
+        "इत्",
+        "अधि॑",
+        "दि॒वि",
+        "नि॒ऽसे॒द",
+        "ते",
+        "रत्न᳚‌म्",
+        "धा॒त॒",
+        "श॒व॒सः॒",
+        "न॒पा॒तः॒",
+        "सौध᳚न्वनाः",
+        "अभ॑वत",
+        "अ॒मृता᳚सः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "Those who",
+          "meaning_kn": "ಯಾವವರು"
+        },
+        {
+          "pada_original": "दे॒वासः॑",
+          "pada_kn": "ದೇವಾಸಃ",
+          "meaning_en": "O gods",
+          "meaning_kn": "ಓ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "अभ॑वत",
+          "pada_kn": "ಅಭವತ",
+          "meaning_en": "became",
+          "meaning_kn": "ಆದಿರಿ"
+        },
+        {
+          "pada_original": "सु॒ऽकृ॒त्या",
+          "pada_kn": "ಸುಕೃತ್ಯಾ",
+          "meaning_en": "by good deeds / by skillful work",
+          "meaning_kn": "ಉತ್ತಮ ಕಾರ್ಯಗಳಿಂದ / ಕೌಶಲ್ಯಪೂರ್ಣ ಕೆಲಸದಿಂದ"
+        },
+        {
+          "pada_original": "श्ये॒नाःऽ‌इ᳚व",
+          "pada_kn": "ಶ್ಯೇನಾಃಇವ",
+          "meaning_en": "like falcons",
+          "meaning_kn": "ಗಿಡುಗಗಳಂತೆ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon / over",
+          "meaning_kn": "ಮೇಲೆ"
+        },
+        {
+          "pada_original": "दि॒वि",
+          "pada_kn": "ದಿವಿ",
+          "meaning_en": "in heaven",
+          "meaning_kn": "ಸ್ವರ್ಗದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "नि॒ऽसे॒द",
+          "pada_kn": "ನಿಸೇದ",
+          "meaning_en": "sat down / established yourselves",
+          "meaning_kn": "ಕುಳಿತರು / ನೆಲೆಸಿದರು"
+        },
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "You (plural)",
+          "meaning_kn": "ನೀವು"
+        },
+        {
+          "pada_original": "रत्न᳚‌म्",
+          "pada_kn": "ರತ್ನಮ್",
+          "meaning_en": "treasure / wealth",
+          "meaning_kn": "ರತ್ನ / ಸಂಪತ್ತು"
+        },
+        {
+          "pada_original": "धा॒त॒",
+          "pada_kn": "ಧಾತ",
+          "meaning_en": "bestow / grant",
+          "meaning_kn": "ಪ್ರದಾನ ಮಾಡಿರಿ / ನೀಡಿರಿ"
+        },
+        {
+          "pada_original": "श॒व॒सः॒",
+          "pada_kn": "ಶವಸಃ",
+          "meaning_en": "O sons of strength",
+          "meaning_kn": "ಓ ಶಕ್ತಿಯ ಪುತ್ರರೇ"
+        },
+        {
+          "pada_original": "न॒पा॒तः॒",
+          "pada_kn": "ನಪಾತಃ",
+          "meaning_en": "O descendants",
+          "meaning_kn": "ಓ ವಂಶಸ್ಥರೇ"
+        },
+        {
+          "pada_original": "सौध᳚न्वनाः",
+          "pada_kn": "ಸೌಧನ್ವನಾಃ",
+          "meaning_en": "O Sudhanvanas (referring to the Rbhus)",
+          "meaning_kn": "ಓ ಸುಧನ್ವನರೇ (ಋಭುಗಳನ್ನು ಕುರಿತು)"
+        },
+        {
+          "pada_original": "अभ॑वत",
+          "pada_kn": "ಅಭವತ",
+          "meaning_en": "became",
+          "meaning_kn": "ಆದಿರಿ"
+        },
+        {
+          "pada_original": "अ॒मृता᳚सः",
+          "pada_kn": "ಅಮೃತಾಸಃ",
+          "meaning_en": "immortal",
+          "meaning_kn": "ಅಮರರು"
+        }
+      ],
+      "full_meaning_en": "O radiant gods, through virtuous actions, you ascended like falcons to the celestial realms and established yourselves in the heavens. O progeny of strength, descendants of Sudhanvan, having attained immortality, bestow upon us divine treasures!",
+      "full_meaning_kn": "ಓ ಪ್ರಕಾಶಮಾನ ದೇವತೆಗಳೇ, ಸದ್ಗುಣದ ಕಾರ್ಯಗಳಿಂದ ಗಿಡುಗಗಳಂತೆ ಸ್ವರ್ಗದ ಸಾಮ್ರಾಜ್ಯಕ್ಕೆ ಏರಿ ಸ್ವರ್ಗದಲ್ಲಿ ನಿಮ್ಮನ್ನು ಸ್ಥಾಪಿಸಿಕೊಂಡಿರಿ. ಓ ಶಕ್ತಿಯ ಸಂತತಿಯೇ, ಸುಧನ್ವನ ವಂಶಸ್ಥರೇ, ನೀವು ಅಮರತ್ವವನ್ನು ಪಡೆದು ದೈವಿಕ ಸಂಪತ್ತನ್ನು ನಮಗೆ ದಯಪಾಲಿಸಿರಿ!",
+      "rig_time_s": 107.283,
+      "Insight_en": "The mantra unveils the potential for spiritual ascension through righteous conduct. The gods, likened to falcons (श्येनाः), symbolize the soaring spirit that transcends earthly limitations. By embodying virtues and performing सुकृत्या (virtuous actions), one can attain a state of immortality (अमृतासः), accessing the divine treasures (रत्नं) that reside within the self. This is not mere physical elevation but a transformation of consciousness.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸತ್ಕಾರ್ಯಗಳ ಮೂಲಕ ಆಧ್ಯಾತ್ಮಿಕ ಏರಿಕೆಯ ಸಾಮರ್ಥ್ಯವನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತದೆ. ಗಿಡುಗಗಳಿಗೆ (ಶ್ಯೇನಾಃ) ಹೋಲುವ ದೇವರುಗಳು, ಲೌಕಿಕ ಮಿತಿಗಳನ್ನು ಮೀರಿದ ಉತ್ಕೃಷ್ಟ ಮನೋಭಾವವನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ. ಸದ್ಗುಣಗಳನ್ನು ಸಾಕಾರಗೊಳಿಸುವ ಮೂಲಕ ಮತ್ತು ಸುಕೃತ್ಯಗಳನ್ನು (ಸದ್ಗುಣದ ಕಾರ್ಯಗಳು) ನಿರ್ವಹಿಸುವ ಮೂಲಕ, ಒಬ್ಬರು ಅಮರತ್ವದ ಸ್ಥಿತಿಯನ್ನು (ಅಮೃತಾಃ) ಪಡೆಯಬಹುದು, ಸ್ವಯಂನಲ್ಲಿ ನೆಲೆಸಿರುವ ದೈವಿಕ ಸಂಪತ್ತನ್ನು (ರತ್ನಂ) ಪ್ರವೇಶಿಸಬಹುದು. ಇದು ಕೇವಲ ಭೌತಿಕ ಉನ್ನತಿಯಲ್ಲ, ಬದಲಿಗೆ ಪ್ರಜ್ಞೆಯ ರೂಪಾಂತರವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S35_58-9_9",
+      "mandala": 4,
+      "sukta": 35,
+      "ric_index": 9,
+      "rig_lines": [
+        "यत्‌ तृ॒तीयं॒ सव॑नं रत्न॒धेय॒मकृ॑णुध्वं स्वप॒स्या सु॑हस्ताः |",
+        "तदृ॑भवः॒ परि॑षिक्तं व ए॒तत् सं मदे᳚भिरिन्द्रि॒येभिः॑ पिबध्वम् ||"
+      ],
+      "pre_splits": [
+        "यत्",
+        "तृ॒तीय᳚‌म्",
+        "सव॑न‌म्",
+        "र॒त्न॒ऽधेय᳚‌म्",
+        "अकृ॑णुध्व‌म्",
+        "सु॒।आ॒प॒स्या",
+        "सु॒ऽह॒स्ताः॒",
+        "तत्",
+        "ऋ॒भ॒वः॒",
+        "परि॑ऽसिक्त‌म्",
+        "वः॒",
+        "ए॒तत्",
+        "स‌म्",
+        "मदे᳚भिः",
+        "इ॒न्द्रि॒येभिः॑",
+        "पि॒ब॒ध्व॒‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "which / that",
+          "meaning_kn": "ಯಾವುದು / ಯಾವ"
+        },
+        {
+          "pada_original": "तृ॒तीय᳚‌म्",
+          "pada_kn": "ತೃತೀಯಮ್",
+          "meaning_en": "third",
+          "meaning_kn": "ಮೂರನೆಯ"
+        },
+        {
+          "pada_original": "सव॑न‌म्",
+          "pada_kn": "ಸವನಮ್",
+          "meaning_en": "libation / pressing (of Soma)",
+          "meaning_kn": "ಸೋಮರಸ ಹಿಂಡುವಿಕೆ / ಯಜ್ಞ"
+        },
+        {
+          "pada_original": "र॒त्न॒ऽधेय᳚‌म्",
+          "pada_kn": "ರತ್ನಧೇಯಮ್",
+          "meaning_en": "bestowing of treasures / wealth-giving",
+          "meaning_kn": "ರತ್ನಗಳನ್ನು ಕೊಡುವ / ಸಂಪತ್ತು ನೀಡುವ"
+        },
+        {
+          "pada_original": "अकृ॑णुध्व‌म्",
+          "pada_kn": "ಅಕೃಣುಧ್ವಮ್",
+          "meaning_en": "you (plural) made / performed",
+          "meaning_kn": "ನೀವು ಮಾಡಿದಿರಿ / ನೆರವೇರಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "सु॒।आ॒प॒स्या",
+          "pada_kn": "ಸ್ವಾಪಸ್ಯಾ",
+          "meaning_en": "with good deeds / skillful work",
+          "meaning_kn": "ಉತ್ತಮ ಕಾರ್ಯಗಳಿಂದ / ಕುಶಲ ಕೆಲಸದಿಂದ"
+        },
+        {
+          "pada_original": "सु॒ऽह॒स्ताः॒",
+          "pada_kn": "ಸುಹಸ್ತಾಃ",
+          "meaning_en": "O skillful-handed ones / O dexterous ones",
+          "meaning_kn": "ಓ ಉತ್ತಮ ಕೈಗಳಿರುವವರೇ / ಓ ಕುಶಲ ಹಸ್ತವುಳ್ಳವರೇ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that",
+          "meaning_kn": "ಆ / ಅದನ್ನು"
+        },
+        {
+          "pada_original": "ऋ॒भ॒वः॒",
+          "pada_kn": "ಋಭವಃ",
+          "meaning_en": "O Ribhus",
+          "meaning_kn": "ಓ ಋಭುಗಳೇ"
+        },
+        {
+          "pada_original": "परि॑ऽसिक्त‌म्",
+          "pada_kn": "ಪರಿಸಕ್ತಮ್",
+          "meaning_en": "poured around / consecrated",
+          "meaning_kn": "ಸುತ್ತಲೂ ಸುರಿದ / ಪವಿತ್ರಗೊಳಿಸಿದ"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "for you / your",
+          "meaning_kn": "ನಿಮಗೆ / ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "ए॒तत्",
+          "pada_kn": "ಏತತ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಇದು / ಇದನ್ನು"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / with",
+          "meaning_kn": "ಜೊತೆಗೂಡಿ / ಸಹಿತ"
+        },
+        {
+          "pada_original": "मदे᳚भिः",
+          "pada_kn": "ಮದೇಭಿಃ",
+          "meaning_en": "with exhilarations / with joys",
+          "meaning_kn": "ಆನಂದಗಳಿಂದ / ಸಂತೋಷಗಳಿಂದ"
+        },
+        {
+          "pada_original": "इ॒न्द्रि॒येभिः॑",
+          "pada_kn": "ಇಂದ್ರಿಯೇಭಿಃ",
+          "meaning_en": "with powers / with vital energies",
+          "meaning_kn": "ಶಕ್ತಿಗಳಿಂದ / ಇಂದ್ರಿಯ ಸಾಮರ್ಥ್ಯಗಳಿಂದ"
+        },
+        {
+          "pada_original": "पि॒ब॒ध्व॒‌म्",
+          "pada_kn": "ಪಿಬಧ್ವಮ್",
+          "meaning_en": "(you plural) drink",
+          "meaning_kn": "(ನೀವು) ಕುಡಿಯಿರಿ"
+        }
+      ],
+      "full_meaning_en": "O Ribhus, skilled with your hands and possessing great craftsmanship, when you have prepared the third Soma pressing, which is the bestower of precious things, then partake of this Soma libation poured out for you, together with your joyous exhilarations and vital energies.",
+      "full_meaning_kn": "ಓ ಕೌಶಲ್ಯಪೂರ್ಣ ಹಸ್ತವುಳ್ಳ ಮತ್ತು ಶ್ರೇಷ್ಠ ಕುಶಲಕರ್ಮಿಗಳಾದ ಋಭುಗಳೇ, ನೀವು ರತ್ನಗಳನ್ನು ನೀಡುವ ಮೂರನೆಯ ಸೋಮಯಾಗವನ್ನು ಸಿದ್ಧಪಡಿಸಿದಾಗ, ಆ ಸೋಮರಸವನ್ನು ಆನಂದಮಯವಾದ ಉತ್ಸಾಹ ಮತ್ತು ಪ್ರಾಣಶಕ್ತಿಯೊಂದಿಗೆ ಪാനം ಮಾಡಿರಿ.",
+      "rig_time_s": 122.181,
+      "Insight_en": "The mantra unveils the process of inner transformation. The Ribhus, representing skillful actions and refined senses, prepare the 'third Soma pressing'— a state of heightened awareness. This signifies the purification of thoughts and emotions, leading to the attainment of inner treasures. The Soma, symbolizing divine nectar, is then consumed with joyous exhilaration (mada) and vital energies (indriya), indicating the integration of spiritual insight into one's being, strengthening the connection with the inner self. The ultimate goal is to internalize the external rituals, transforming everyday actions into sacred offerings to the divine within.",
+      "Insight_kn": "ಮಂತ್ರವು ಆಂತರಿಕ ರೂಪಾಂತರದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತದೆ. ಋಭುಗಳು, ಕೌಶಲ್ಯಪೂರ್ಣ ಕ್ರಿಯೆಗಳು ಮತ್ತು ಸಂಸ್ಕರಿಸಿದ ಇಂದ್ರಿಯಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, 'ಮೂರನೆಯ ಸೋಮ ಹಿಂಡುವಿಕೆ' ಯನ್ನು ಸಿದ್ಧಪಡಿಸುತ್ತಾರೆ - ಇದು ಉನ್ನತ ಜಾಗೃತಿಯ ಸ್ಥಿತಿ. ಇದು ಆಲೋಚನೆಗಳು ಮತ್ತು ಭಾವನೆಗಳ ಶುದ್ಧೀಕರಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಆಂತರಿಕ ನಿಧಿಗಳ ಸಾಧನೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಸೋಮವು ದೈವಿಕ ಅಮೃತವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ನಂತರ ಅದನ್ನು ಸಂತೋಷದ ಉಲ್ಲಾಸ (ಮದ) ಮತ್ತು ಪ್ರಾಣಶಕ್ತಿಯೊಂದಿಗೆ (ಇಂದ್ರಿಯ) ಸೇವಿಸಲಾಗುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟವನ್ನು ಒಬ್ಬರ ಅಸ್ತಿತ್ವಕ್ಕೆ ಸಂಯೋಜಿಸುತ್ತದೆ, ಆಂತರಿಕ ಸ್ವಯಂನೊಂದಿಗೆ ಸಂಪರ್ಕವನ್ನು ಬಲಪಡಿಸುತ್ತದೆ. ಅಂತಿಮ ಗುರಿಯೆಂದರೆ ಬಾಹ್ಯ ಆಚರಣೆಗಳನ್ನು ಆಂತರಿಕಗೊಳಿಸುವುದು, ದೈನಂದಿನ ಕ್ರಿಯೆಗಳನ್ನು ಒಳಗಿನ ದೈವಕ್ಕೆ ಪವಿತ್ರ ಅರ್ಪಣೆಗಳಾಗಿ ಪರಿವರ್ತಿಸುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

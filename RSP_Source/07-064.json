@@ -1,0 +1,762 @@
+{
+  "mandala": 7,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M7-S64_104-1_5",
+      "mandala": 7,
+      "sukta": 64,
+      "ric_index": 1,
+      "rig_lines": [
+        "दि॒वि क्षय᳚न्ता॒ रज॑सः पृथि॒व्यां प्र वां᳚ घृ॒तस्य॑ नि॒र्णिजो᳚ ददीरन् |",
+        "ह॒व्यं नो᳚ मि॒त्रो, अ᳚र्य॒मा सुजा᳚तो॒ राजा᳚ सुक्ष॒त्रो वरु॑णो जुषन्त ||"
+      ],
+      "pre_splits": [
+        "दि॒वि",
+        "क्षय᳚न्ता",
+        "रज॑सः",
+        "पृ॒थि॒व्या‌म्",
+        "प्र",
+        "वा॒‌म्",
+        "घृ॒तस्य॑",
+        "निः॒ऽनिजः॑",
+        "द॒दी॒र॒न्",
+        "ह॒व्य‌म्",
+        "नः॒",
+        "मि॒त्रः",
+        "अ॒र्य॒मा",
+        "सुऽजा᳚तः",
+        "राजा᳚",
+        "सु॒ऽक्ष॒त्रः",
+        "वरु॑णः",
+        "जु॒ष॒न्त॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "दि॒वि",
+          "pada_kn": "ದಿವಿ",
+          "meaning_en": "in heaven / in the celestial region",
+          "meaning_kn": "ದ್ಯುಲೋಕದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "क्षय᳚न्ता",
+          "pada_kn": "ಕ್ಷಯಂತಾ",
+          "meaning_en": "ruling / dwelling (dual)",
+          "meaning_kn": "ಆಳುವ / ವಾಸಿಸುವ (ಇಬ್ಬರು)"
+        },
+        {
+          "pada_original": "रज॑सः",
+          "pada_kn": "ರಜಸಃ",
+          "meaning_en": "of the mid-region / of the atmosphere",
+          "meaning_kn": "ಅಂತರಿಕ್ಷದ"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्या‌म्",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಮ್",
+          "meaning_en": "on the earth",
+          "meaning_kn": "ಪೃಥ್ವಿಯ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಪ್ರಕರ್ಷವಾಗಿ / ಮುಂದೆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "for you two (Mitra and Varuna)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗೆ"
+        },
+        {
+          "pada_original": "घृ॒तस्य॑",
+          "pada_kn": "ಘೃತಸ್ಯ",
+          "meaning_en": "of ghee / of the bright offering",
+          "meaning_kn": "ತುಪ್ಪದ / ಹವಿಸ್ಸಿನ"
+        },
+        {
+          "pada_original": "निः॒ऽनिजः॑",
+          "pada_kn": "ನಿಃನಿಜಃ",
+          "meaning_en": "splendours / forms / streams",
+          "meaning_kn": "ಕಾಂತಿಗಳು / ರೂಪಗಳು / ಪ್ರವಾಹಗಳು"
+        },
+        {
+          "pada_original": "द॒दी॒र॒न्",
+          "pada_kn": "ದದೀರನ್",
+          "meaning_en": "they shine forth / they burst forth",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತವೆ / ಹೊರಹೊಮ್ಮುತ್ತವೆ"
+        },
+        {
+          "pada_original": "ह॒व्य‌म्",
+          "pada_kn": "ಹವ್ಯಮ್",
+          "meaning_en": "the oblation / the offering",
+          "meaning_kn": "ಹವಿಸ್ಸನ್ನು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "our / of us",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "मि॒त्रः",
+          "pada_kn": "ಮಿತ್ರಃ",
+          "meaning_en": "Mitra",
+          "meaning_kn": "ಮಿತ್ರನು"
+        },
+        {
+          "pada_original": "अ॒र्य॒मा",
+          "pada_kn": "ಅರ್ಯಮಾ",
+          "meaning_en": "Aryaman",
+          "meaning_kn": "ಅರ್ಯಮನು"
+        },
+        {
+          "pada_original": "सुऽजा᳚तः",
+          "pada_kn": "ಸುಜಾತಃ",
+          "meaning_en": "well-born / of noble birth",
+          "meaning_kn": "ಶ್ರೇಷ್ಠ ಕುಲದಲ್ಲಿ ಜನಿಸಿದ"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "the king",
+          "meaning_kn": "ರಾಜನು"
+        },
+        {
+          "pada_original": "सु॒ऽक्ष॒त्रः",
+          "pada_kn": "ಸುಕ್ಷತ್ರಃ",
+          "meaning_en": "of good dominion / possessing excellent power",
+          "meaning_kn": "ಉತ್ತಮ ಬಲವುಳ್ಳ"
+        },
+        {
+          "pada_original": "वरु॑णः",
+          "pada_kn": "ವರುಣಃ",
+          "meaning_en": "Varuna",
+          "meaning_kn": "ವರುಣನು"
+        },
+        {
+          "pada_original": "जु॒ष॒न्त॒",
+          "pada_kn": "ಜುಷಂತ",
+          "meaning_en": "may they accept / may they enjoy",
+          "meaning_kn": "ಸ್ವೀಕರಿಸಲಿ / ಸೇವಿಸಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Mitra and Varuna, who hold sway in the celestial realms, the mid-region, and upon the earth, may the radiant currents of clarified butter be offered unto you. May Mitra, Aryaman of noble birth, and Varuna, the sovereign of surpassing dominion, partake of our sacred oblation.",
+      "full_meaning_kn": "ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ, ಸ್ವರ್ಗೀಯ ಲೋಕಗಳಲ್ಲಿ, ಮಧ್ಯ ಪ್ರದೇಶದಲ್ಲಿ ಮತ್ತು ಭೂಮಿಯ ಮೇಲೆ ಆಳ್ವಿಕೆ ನಡೆಸುವವರೇ, ನಿಮಗೆ ಸ್ಪಷ್ಟಪಡಿಸಿದ ಬೆಣ್ಣೆಯ ಪ್ರಕಾಶಮಾನವಾದ ಪ್ರವಾಹಗಳನ್ನು ಅರ್ಪಿಸಲಿ. ಮಿತ್ರ, ಕುಲೀನ ಆರ್ಯಮಾನ್ ಮತ್ತು ಶ್ರೇಷ್ಠಾಧಿಪತ್ಯದ ರಾಜ ವರುಣನು ನಮ್ಮ ಪವಿತ್ರ ಅರ್ಪಣೆಯನ್ನು ಸ್ವೀಕರಿಸಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The external ritual of offering ghee symbolizes the internal purification of thoughts and emotions. Mitra represents friendship and harmony, Aryaman embodies nobility and righteous conduct, and Varuna signifies moral order and cosmic law (ṛta). Offering oblations to these deities reflects an aspiration to cultivate these qualities within oneself, aligning with the cosmic order and fostering inner peace and integrity. The clarified butter (ghee) represents the clarified intellect, free from impurities.",
+      "Insight_kn": "ತುಪ್ಪದ ಬಾಹ್ಯ ಆಚರಣೆಯು ಆಲೋಚನೆಗಳು ಮತ್ತು ಭಾವನೆಗಳ ಆಂತರಿಕ ಶುದ್ಧೀಕರಣವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಮಿತ್ರನು ಸ್ನೇಹ ಮತ್ತು ಸಾಮರಸ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಆರ್ಯಮಾನ್ ಕುಲೀನತೆ ಮತ್ತು ಧರ್ಮನಿಷ್ಠ ನಡವಳಿಕೆಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ ಮತ್ತು ವರುಣನು ನೈತಿಕ ಕ್ರಮ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಕಾನೂನನ್ನು (ಋತ) ಸೂಚಿಸುತ್ತಾನೆ. ಈ ದೇವತೆಗಳಿಗೆ ಅರ್ಪಣೆಗಳನ್ನು ಅರ್ಪಿಸುವುದು ಒಬ್ಬರೊಳಗಿನ ಈ ಗುಣಗಳನ್ನು ಬೆಳೆಸುವ, ಕಾಸ್ಮಿಕ್ ಕ್ರಮಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಮತ್ತು ಆಂತರಿಕ ಶಾಂತಿ ಮತ್ತು ಸಮಗ್ರತೆಯನ್ನು ಉತ್ತೇಜಿಸುವ ಬಯಕೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಸ್ಪಷ್ಟಪಡಿಸಿದ ಬೆಣ್ಣೆಯು (ತುಪ್ಪ) ಶುದ್ಧೀಕರಿಸಿದ ಬುದ್ಧಿಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S64_104-2_5",
+      "mandala": 7,
+      "sukta": 64,
+      "ric_index": 2,
+      "rig_lines": [
+        "आ रा᳚जाना मह ऋतस्य गोपा॒ सिन्धु॑पती क्षत्रिया यातम॒र्वाक् |",
+        "इळां᳚ नो मित्रावरुणो॒त वृ॒ष्टिमव॑ दि॒व इ᳚न्वतं जीरदानू ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "रा॒जा॒ना॒",
+        "म॒हः॒",
+        "ऋ॒त॒स्य॒",
+        "गो॒पा॒",
+        "सिन्धु॑पती॒ इति॒ सिन्धु॑ऽपती",
+        "क्ष॒त्रि॒या॒",
+        "या॒त॒‌म्",
+        "अ॒र्वाक्",
+        "इळा᳚‌म्",
+        "नः॒",
+        "मि॒त्रा॒व॒रु॒णा॒",
+        "उ॒त",
+        "वृ॒ष्टि‌म्",
+        "अव॑",
+        "दि॒वः",
+        "इ॒न्व॒त॒‌म्",
+        "जी॒र॒दा॒नू॒ इति॑ जीरऽदानू"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither, towards",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ, ಈ ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "रा॒जा॒ना॒",
+          "pada_kn": "ರಾಜಾನಾ",
+          "meaning_en": "O two kings",
+          "meaning_kn": "ಓ ಇಬ್ಬರು ರಾಜರೇ"
+        },
+        {
+          "pada_original": "म॒हः॒",
+          "pada_kn": "ಮಹಃ",
+          "meaning_en": "of the great",
+          "meaning_kn": "ಮಹತ್ತಾದ"
+        },
+        {
+          "pada_original": "ऋ॒त॒स्य॒",
+          "pada_kn": "ಋತಸ್ಯ",
+          "meaning_en": "of the cosmic law",
+          "meaning_kn": "ಋತದ / ವಿಶ್ವನಿಯಮದ"
+        },
+        {
+          "pada_original": "गो॒पा॒",
+          "pada_kn": "ಗೋಪಾ",
+          "meaning_en": "O two protectors",
+          "meaning_kn": "ಓ ಇಬ್ಬರು ರಕ್ಷಕರೇ"
+        },
+        {
+          "pada_original": "सिन्धु॑पती॒ इति॒ सिन्धु॑ऽपती",
+          "pada_kn": "ಸಿಂಧುಪತೀ",
+          "meaning_en": "O two lords of the waters",
+          "meaning_kn": "ಓ ಜಲಗಳ ಅಧಿಪತಿಗಳೇ"
+        },
+        {
+          "pada_original": "क्ष॒त्रि॒या॒",
+          "pada_kn": "ಕ್ಷತ್ರಿಯಾ",
+          "meaning_en": "O two rulers / possessors of power",
+          "meaning_kn": "ಓ ಇಬ್ಬರು ಕ್ಷತ್ರಿಯರೇ / ಶಕ್ತಿಶಾಲಿಗಳೇ"
+        },
+        {
+          "pada_original": "या॒त॒‌म्",
+          "pada_kn": "ಯಾತಮ್",
+          "meaning_en": "you two, come",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಬನ್ನಿರಿ"
+        },
+        {
+          "pada_original": "अ॒र्वाक्",
+          "pada_kn": "ಅರ್ವಾಕ್",
+          "meaning_en": "hither, towards us",
+          "meaning_kn": "ಈ ಕಡೆಗೆ / ನಮ್ಮೆಡೆಗೆ"
+        },
+        {
+          "pada_original": "इळा᳚‌म्",
+          "pada_kn": "ಇಳಾಮ್",
+          "meaning_en": "food / nourishment",
+          "meaning_kn": "ಆಹಾರವನ್ನು / ಪೋಷಣೆಯನ್ನು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "मि॒त्रा॒व॒रु॒णा॒",
+          "pada_kn": "ಮಿತ್ರಾವರುಣಾ",
+          "meaning_en": "O Mitra and Varuna",
+          "meaning_kn": "ಓ ಮಿತ್ರಾವರುಣರೇ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and, also",
+          "meaning_kn": "ಮತ್ತು / ಹಾಗೂ"
+        },
+        {
+          "pada_original": "वृ॒ष्टि‌म्",
+          "pada_kn": "ವೃಷ್ಟಿಮ್",
+          "meaning_en": "rain",
+          "meaning_kn": "ಮಳೆಯನ್ನು"
+        },
+        {
+          "pada_original": "अव॑",
+          "pada_kn": "ಅವ",
+          "meaning_en": "down from",
+          "meaning_kn": "ಇಂದ / ಕೆಳಗೆ"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "from heaven / from the sky",
+          "meaning_kn": "ದ್ಯುಲೋಕದಿಂದ / ಆಕಾಶದಿಂದ"
+        },
+        {
+          "pada_original": "इ॒न्व॒त॒‌म्",
+          "pada_kn": "ಇನ್ವತಮ್",
+          "meaning_en": "you two, bestow / send",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ನೀಡಿರಿ / ಕಳುಹಿಸಿರಿ"
+        },
+        {
+          "pada_original": "जी॒र॒दा॒नू॒ इति॑ जीरऽदानू",
+          "pada_kn": "ಜೀರದಾನೂ",
+          "meaning_en": "O two swift givers",
+          "meaning_kn": "ಓ ಶೀಘ್ರವಾಗಿ ದಾನಮಾಡುವವರೇ"
+        }
+      ],
+      "full_meaning_en": "O Mitra and Varuna, mighty kings, guardians of the vast cosmic order (Rta), lords of the rivers, and noble protectors, approach us. Bestow upon us nourishment (Ila) and rain, pouring them down from the heavens, O swift and generous givers.",
+      "full_meaning_kn": "ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ, ಮಹಾನ್ ರಾಜರೇ, ವಿಶಾಲವಾದ ಋತದ ರಕ್ಷಕರೇ, ನದಿಗಳ ಒಡೆಯರೇ ಮತ್ತು ಶ್ರೇಷ್ಠ ರಕ್ಷಕರೇ, ನಮ್ಮ ಕಡೆಗೆ ಬನ್ನಿ. ನಮಗೆ ಇಳೆಯನ್ನು (ಆಹಾರ) ಮತ್ತು ಮಳೆಯನ್ನು ದಯಪಾಲಿಸಿ, ಅವುಗಳನ್ನು ಸ್ವರ್ಗದಿಂದ ಸುರಿಯಿರಿ, ಓ ಶೀಘ್ರ ಮತ್ತು ಉದಾರ ಕೊಡುಗೆ ನೀಡುವವರೇ.",
+      "rig_time_s": 16.72,
+      "Insight_en": "Mitra and Varuna, representing light and cosmic order, symbolize the balance within the individual. Invoking them is to seek harmony between intellect and intuition. The 'rain from heaven' represents divine grace, a descent of spiritual energy into the seeker's being. Nourishment (इळा) signifies not just physical sustenance but the deeper fulfillment of the soul through spiritual practice.",
+      "Insight_kn": "ಮಿತ್ರ ಮತ್ತು ವರುಣರು, ಬೆಳಕು ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ವ್ಯಕ್ತಿಯೊಳಗಿನ ಸಮತೋಲನವನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ. ಅವರನ್ನು ಆಹ್ವಾನಿಸುವುದು ಎಂದರೆ ಬುದ್ಧಿ ಮತ್ತು ಅಂತಃಪ್ರಜ್ಞೆಯ ನಡುವಿನ ಸಾಮರಸ್ಯವನ್ನು ಹುಡುಕುವುದು. 'ಸ್ವರ್ಗದಿಂದ ಮಳೆ' ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯು ಸಾಧಕನ ಅಸ್ತಿತ್ವಕ್ಕೆ ಇಳಿಯುತ್ತದೆ. ಇಳೆ (ಆಹಾರ) ಕೇವಲ ದೈಹಿಕ ಪೋಷಣೆಯನ್ನು ಮಾತ್ರವಲ್ಲದೆ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಮೂಲಕ ಆತ್ಮದ ಆಳವಾದ ನೆರವೇರಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S64_104-3_5",
+      "mandala": 7,
+      "sukta": 64,
+      "ric_index": 3,
+      "rig_lines": [
+        "मि॒त्रस्तन्नो॒ वरु॑णो दे॒वो, अ॒र्यः प्र साधि॑ष्ठेभिः प॒थिभि᳚र्नयन्तु |",
+        "ब्रव॒द्यथा᳚ न॒ आद॒रिः सु॒दास॑ इ॒षा म॑देम स॒ह दे॒वगो᳚पाः ||"
+      ],
+      "pre_splits": [
+        "मि॒त्रः",
+        "तत्",
+        "नः॒",
+        "वरु॑णः",
+        "दे॒वः",
+        "अ॒र्यः",
+        "प्र",
+        "साधि॑ष्ठेभिः",
+        "प॒थिऽभिः॑",
+        "न॒य॒न्तु॒",
+        "ब्रव॑त्",
+        "यथा᳚",
+        "नः॒",
+        "आत्",
+        "अ॒रिः",
+        "सु॒ऽदासे᳚",
+        "इ॒षा",
+        "म॒दे॒म॒",
+        "स॒ह",
+        "दे॒वऽगो᳚पाः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "मि॒त्रः",
+          "pada_kn": "ಮಿತ್ರಃ",
+          "meaning_en": "Mitra",
+          "meaning_kn": "ಮಿತ್ರನು"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "That (goal)",
+          "meaning_kn": "ಆ (ಗುರಿಯನ್ನು)"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "वरु॑णः",
+          "pada_kn": "ವರುಣಃ",
+          "meaning_en": "Varuna",
+          "meaning_kn": "ವರುಣನು"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "The god",
+          "meaning_kn": "ದೇವನಾದ"
+        },
+        {
+          "pada_original": "अ॒र्यः",
+          "pada_kn": "ಅರ್ಯಃ",
+          "meaning_en": "Aryaman",
+          "meaning_kn": "ಅರ್ಯಮನು"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "Forth, forward",
+          "meaning_kn": "ಮುಂದೆ"
+        },
+        {
+          "pada_original": "साधि॑ष्ठेभिः",
+          "pada_kn": "ಸಾಧಿಷ್ಠೇಭಿಃ",
+          "meaning_en": "By the most effective / straightest",
+          "meaning_kn": "ಅತ್ಯಂತ ಸಫಲವಾದ / ನೇರವಾದ"
+        },
+        {
+          "pada_original": "प॒थिऽभिः॑",
+          "pada_kn": "ಪಥಿಭಿಃ",
+          "meaning_en": "By paths",
+          "meaning_kn": "ಮಾರ್ಗಗಳಿಂದ"
+        },
+        {
+          "pada_original": "न॒य॒न्तु॒",
+          "pada_kn": "ನಯಂತು",
+          "meaning_en": "May they lead",
+          "meaning_kn": "ಅವರು ಮುನ್ನಡೆಸಲಿ"
+        },
+        {
+          "pada_original": "ब्रव॑त्",
+          "pada_kn": "ಬ್ರವತ್",
+          "meaning_en": "May (he) speak",
+          "meaning_kn": "(ಅವನು) ಮಾತನಾಡಲಿ"
+        },
+        {
+          "pada_original": "यथा᳚",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "So that ... not / Lest",
+          "meaning_kn": "...ಆಗದ ಹಾಗೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Against us",
+          "meaning_kn": "ನಮಗೆ ವಿರೋಧವಾಗಿ"
+        },
+        {
+          "pada_original": "आत्",
+          "pada_kn": "ಆತ್",
+          "meaning_en": "Indeed",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अ॒रिः",
+          "pada_kn": "ಅರಿಃ",
+          "meaning_en": "The enemy / non-giver",
+          "meaning_kn": "ಶತ್ರುವು / ದಾನಮಾಡದವನು"
+        },
+        {
+          "pada_original": "सु॒ऽदासे᳚",
+          "pada_kn": "ಸುದಾಸೇ",
+          "meaning_en": "To Sudas / for Sudas",
+          "meaning_kn": "ಸುದಾಸನಿಗೆ"
+        },
+        {
+          "pada_original": "इ॒षा",
+          "pada_kn": "ಇಷಾ",
+          "meaning_en": "With nourishment / food",
+          "meaning_kn": "ಅನ್ನದೊಂದಿಗೆ / ಪೋಷಣೆಯೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "म॒दे॒म॒",
+          "pada_kn": "ಮದೇಮ",
+          "meaning_en": "May we rejoice",
+          "meaning_kn": "ನಾವು ಹರ್ಷಿಸೋಣ"
+        },
+        {
+          "pada_original": "स॒ह",
+          "pada_kn": "ಸಹ",
+          "meaning_en": "Together",
+          "meaning_kn": "ಜೊತೆಯಾಗಿ"
+        },
+        {
+          "pada_original": "दे॒वऽगो᳚पाः",
+          "pada_kn": "ದೇವಗೋಪಾಃ",
+          "meaning_en": "Protected by the gods",
+          "meaning_kn": "ದೇವತೆಗಳಿಂದ ರಕ್ಷಿಸಲ್ಪಟ್ಟವರಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "May Mitra, Varuna, and the divine Aryaman guide us on the most direct and auspicious paths. May they ensure that no adversary or miser speaks ill of Sudas, our benefactor. Protected by the gods, may we rejoice together, partaking of the nourishment he provides.",
+      "full_meaning_kn": "ಮಿತ್ರ, ವರುಣ, ಮತ್ತು ದೈವಿಕ ಆರ್ಯಮನ್ ನಮ್ಮನ್ನು ಅತ್ಯಂತ ನೇರ ಮತ್ತು ಮಂಗಳಕರ ಮಾರ್ಗಗಳಲ್ಲಿ ನಡೆಸಲಿ. ನಮ್ಮ ದಾನಿ ಸುದಾಸನ ಬಗ್ಗೆ ಯಾವ ವಿರೋಧಿ ಅಥವಾ ಕಂಜೂಸರು ಕೆಟ್ಟದಾಗಿ ಮಾತನಾಡದಂತೆ ಅವರು ನೋಡಿಕೊಳ್ಳಲಿ. ದೇವರುಗಳಿಂದ ರಕ್ಷಿಸಲ್ಪಟ್ಟ ನಾವು ಒಟ್ಟಿಗೆ ಸಂತೋಷಪಡೋಣ, ಅವನು ಒದಗಿಸುವ ಪೋಷಣೆಯಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳೋಣ.",
+      "rig_time_s": 31.919,
+      "Insight_en": "The journey to inner realization is guided by the divine principles of Mitra (friendship and harmony), Varuna (cosmic order and truth), and Aryaman (noble conduct and duty). Negative energies and miserly attitudes obstruct this path. Divine grace and the generosity of spirit, exemplified by Sudas, provide the necessary nourishment for spiritual growth. The ultimate goal is to rejoice in the collective consciousness, protected by divine forces.",
+      "Insight_kn": "ಆಂತರಿಕ ಸಾಕ್ಷಾತ್ಕಾರದ ಪ್ರಯಾಣವು ಮಿತ್ರ (ಸ್ನೇಹ ಮತ್ತು ಸಾಮರಸ್ಯ), ವರುಣ (ಕಾಸ್ಮಿಕ್ ಕ್ರಮ ಮತ್ತು ಸತ್ಯ) ಮತ್ತು ಆರ್ಯಮನ್ (ಉದಾತ್ತ ನಡತೆ ಮತ್ತು ಕರ್ತವ್ಯ) ದೈವಿಕ ತತ್ವಗಳಿಂದ ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಡುತ್ತದೆ. ಋಣಾತ್ಮಕ ಶಕ್ತಿಗಳು ಮತ್ತು ಕಂಜೂಸಿ ಮನೋಭಾವಗಳು ಈ ಮಾರ್ಗವನ್ನು ತಡೆಯುತ್ತವೆ. ದೈವಿಕ ಅನುಗ್ರಹ ಮತ್ತು ಉದಾರತೆಯ ಮನೋಭಾವವು, ಸುದಾಸನಿಂದ ಉದಾಹರಿಸಲ್ಪಟ್ಟಿದೆ, ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಅಗತ್ಯವಾದ ಪೋಷಣೆಯನ್ನು ಒದಗಿಸುತ್ತದೆ. ದೈವಿಕ ಶಕ್ತಿಗಳಿಂದ ರಕ್ಷಿಸಲ್ಪಟ್ಟ ಸಾಮೂಹಿಕ ಪ್ರಜ್ಞೆಯಲ್ಲಿ ಸಂತೋಷಿಸುವುದು ಅಂತಿಮ ಗುರಿಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S64_104-4_5",
+      "mandala": 7,
+      "sukta": 64,
+      "ric_index": 4,
+      "rig_lines": [
+        "यो वां॒ गर्तं॒ मन॑सा॒ तक्ष॑दे॒तमू॒र्ध्वां धी॒तिं कृ॒णव॑द्धा॒रय॑च्च |",
+        "उ॒क्षेथां᳚ मित्रावरुणा घृ॒तेन॒ ता रा᳚जाना सुक्षि॒तीस्त॑र्पयेथाम् ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "वा॒‌म्",
+        "गर्त᳚‌म्",
+        "मन॑सा",
+        "तक्ष॑त्",
+        "ए॒त‌म्",
+        "ऊ॒र्ध्वा‌म्",
+        "धी॒ति‌म्",
+        "कृ॒णव॑त्",
+        "धा॒रय॑त्",
+        "च॒",
+        "उ॒क्षेथा᳚‌म्",
+        "मि॒त्रा॒व॒रु॒णा॒",
+        "घृ॒तेन॑",
+        "ता",
+        "रा॒जा॒ना॒",
+        "सु॒ऽक्षि॒तीः",
+        "त॒र्प॒ये॒था॒‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "he who",
+          "meaning_kn": "ಯಾವನು"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "for you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "गर्त᳚‌म्",
+          "pada_kn": "ಗರ್ತಮ್",
+          "meaning_en": "a seat / a chariot (of praise)",
+          "meaning_kn": "ಆಸನವನ್ನು / ರಥವನ್ನು"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "with the mind",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "तक्ष॑त्",
+          "pada_kn": "ತಕ್ಷತ್",
+          "meaning_en": "fashions / constructs",
+          "meaning_kn": "ನಿರ್ಮಿಸುತ್ತಾನೋ / ರೂಪಿಸುತ್ತಾನೋ"
+        },
+        {
+          "pada_original": "ए॒त‌म्",
+          "pada_kn": "ಏತಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "ऊ॒र्ध्वा‌म्",
+          "pada_kn": "ಊರ್ಧ್ವಾಮ್",
+          "meaning_en": "lofty / elevated",
+          "meaning_kn": "ಉನ್ನತವಾದ"
+        },
+        {
+          "pada_original": "धी॒ति‌म्",
+          "pada_kn": "ಧೀತಿಮ್",
+          "meaning_en": "prayer / hymn",
+          "meaning_kn": "ಸ್ತುತಿಯನ್ನು / ಪ್ರಾರ್ಥನೆಯನ್ನು"
+        },
+        {
+          "pada_original": "कृ॒णव॑त्",
+          "pada_kn": "ಕೃಣವತ್",
+          "meaning_en": "makes / performs",
+          "meaning_kn": "ಮಾಡುತ್ತಾನೋ"
+        },
+        {
+          "pada_original": "धा॒रय॑त्",
+          "pada_kn": "ಧಾರಯತ್",
+          "meaning_en": "and holds / maintains",
+          "meaning_kn": "ಮತ್ತು ಧರಿಸುತ್ತಾನೋ / ನಿರ್ವಹಿಸುತ್ತಾನೋ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "उ॒क्षेथा᳚‌म्",
+          "pada_kn": "ಉಕ್ಷೇಥಾಮ್",
+          "meaning_en": "you two, sprinkle / anoint",
+          "meaning_kn": "ನೀವಿಬ್ಬರು ಸಿಂಪಡಿಸಿರಿ / ಪ್ರೋಕ್ಷಿಸಿರಿ"
+        },
+        {
+          "pada_original": "मि॒त्रा॒व॒रु॒णा॒",
+          "pada_kn": "ಮಿತ್ರಾವರುಣಾ",
+          "meaning_en": "O Mitra and Varuna",
+          "meaning_kn": "ಓ ಮಿತ್ರಾವರುಣರೇ"
+        },
+        {
+          "pada_original": "घृ॒तेन॑",
+          "pada_kn": "ಘೃತೇನ",
+          "meaning_en": "with ghee (clarified butter)",
+          "meaning_kn": "ತುಪ್ಪದಿಂದ"
+        },
+        {
+          "pada_original": "ता",
+          "pada_kn": "ತಾ",
+          "meaning_en": "those",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "रा॒जा॒ना॒",
+          "pada_kn": "ರಾಜಾನಾ",
+          "meaning_en": "O you two Kings",
+          "meaning_kn": "ಓ ರಾಜರೇ"
+        },
+        {
+          "pada_original": "सु॒ऽक्षि॒तीः",
+          "pada_kn": "ಸುಕ್ಷಿತೀಃ",
+          "meaning_en": "good dwellings / secure abodes",
+          "meaning_kn": "ಉತ್ತಮ ನಿವಾಸಗಳನ್ನು"
+        },
+        {
+          "pada_original": "त॒र्प॒ये॒था॒‌म्",
+          "pada_kn": "ತರ್ಪಯೇಥಾಮ್",
+          "meaning_en": "you two, satisfy / grant abundantly",
+          "meaning_kn": "ನೀವಿಬ್ಬರು ತೃಪ್ತಿಪಡಿಸಿರಿ / ಸಮೃದ್ಧವಾಗಿ ನೀಡಿರಿ"
+        }
+      ],
+      "full_meaning_en": "O Mitra and Varuna, he who skillfully crafts this hymn for you in his mind, who establishes and upholds a sublime prayer, may you two anoint that oblation with clarified butter. O you two Kings, may you gratify the worshipper with secure and prosperous abodes.",
+      "full_meaning_kn": "ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ, ಯಾರು ತಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ನಿಮಗಾಗಿ ಈ ಸ್ತೋತ್ರವನ್ನು ಕುಶಲತೆಯಿಂದ ರಚಿಸುತ್ತಾರೋ, ಯಾರು ಉನ್ನತ ಪ್ರಾರ್ಥನೆಯನ್ನು ಸ್ಥಾಪಿಸಿ ಎತ್ತಿಹಿಡಿಯುತ್ತಾರೋ, ನೀವು ಆ ಅರ್ಪಣೆಯನ್ನು ತುಪ್ಪದಿಂದ ಅಭಿಷೇಕಿಸಿರಿ. ಓ ರಾಜರೇ, ನೀವು ಭಕ್ತರನ್ನು ಸುರಕ್ಷಿತ ಮತ್ತು ಸಮೃದ್ಧ ವಾಸಸ್ಥಾನಗಳಿಂದ ತೃಪ್ತಿಪಡಿಸಿರಿ.",
+      "rig_time_s": 46.461,
+      "Insight_en": "The inner chariot is the purified mind. The oblation of ghee represents the refined essence of awareness. Mitra and Varuna, representing cosmic order and moral governance, are invoked to dwell within, transforming consciousness into a secure and prosperous abode of spiritual fulfillment. The hymn becomes a dwelling when consciousness resonates in it.",
+      "Insight_kn": "ಆಂತರಿಕ ರಥವು ಶುದ್ಧ ಮನಸ್ಸು. ತುಪ್ಪದ ಅರ್ಪಣೆಯು ಜಾಗರೂಕತೆಯ ಸಾರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಮಿತ್ರ ಮತ್ತು ವರುಣರು, ಕಾಸ್ಮಿಕ್ ಕ್ರಮ ಮತ್ತು ನೈತಿಕ ಆಡಳಿತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಅವರು ಆಧ್ಯಾತ್ಮಿಕ ನೆರವೇರಿಕೆಯ ಸುರಕ್ಷಿತ ಮತ್ತು ಸಮೃದ್ಧ ವಾಸಸ್ಥಾನವಾಗಿ ಪ್ರಜ್ಞೆಯನ್ನು ಪರಿವರ್ತಿಸಲು ಒಳಗೆ ವಾಸಿಸಲು ಪ್ರಾರ್ಥಿಸಲಾಗುತ್ತದೆ. ಪ್ರಜ್ಞೆಯು ಅದರಲ್ಲಿ ಪ್ರತಿಧ್ವನಿಸಿದಾಗ ಸ್ತೋತ್ರವು ವಾಸಸ್ಥಾನವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S64_104-5_5",
+      "mandala": 7,
+      "sukta": 64,
+      "ric_index": 5,
+      "rig_lines": [
+        "ए॒ष स्तोमो᳚ वरुण मित्र॒ तुभ्यं॒ सोमः॑ शु॒क्रो न वा॒यवे᳚ऽयामि |",
+        "अ॒वि॒ष्टं धियो᳚ जिगृ॒तं पुरं᳚धीर्यू॒यं पा᳚त स्व॒स्तिभिः॒ सदा᳚ नः ||"
+      ],
+      "pre_splits": [
+        "ए॒षः",
+        "स्तोमः॑",
+        "व॒रु॒ण॒",
+        "मि॒त्र॒",
+        "तुभ्य᳚‌म्",
+        "सोमः॑",
+        "शु॒क्रः",
+        "न",
+        "वा॒यवे᳚",
+        "अ॒या॒मि॒",
+        "अ॒वि॒ष्ट‌म्",
+        "धियः॑",
+        "जि॒गृ॒त‌म्",
+        "पुर᳚‌म्ऽधीः",
+        "यू॒य‌म्",
+        "पा॒त॒",
+        "स्व॒स्तिऽभिः॑",
+        "सदा᳚",
+        "नः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ए॒षः",
+          "pada_kn": "ಏಷಃ",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "स्तोमः॑",
+          "pada_kn": "ಸ್ತೋಮಃ",
+          "meaning_en": "hymn of praise",
+          "meaning_kn": "ಸ್ತುತಿಯು"
+        },
+        {
+          "pada_original": "व॒रु॒ण॒",
+          "pada_kn": "ವರುಣ",
+          "meaning_en": "O Varuna",
+          "meaning_kn": "ಓ ವರುಣ"
+        },
+        {
+          "pada_original": "मि॒त्र॒",
+          "pada_kn": "ಮಿತ್ರ",
+          "meaning_en": "O Mitra",
+          "meaning_kn": "ಓ ಮಿತ್ರ"
+        },
+        {
+          "pada_original": "तुभ्य᳚‌म्",
+          "pada_kn": "ತುಭ್ಯಮ್",
+          "meaning_en": "to you (both)",
+          "meaning_kn": "ನಿಮಗೆ (ನಿಮ್ಮಿಬ್ಬರಿಗೆ)"
+        },
+        {
+          "pada_original": "सोमः॑",
+          "pada_kn": "ಸೋಮಃ",
+          "meaning_en": "Soma juice",
+          "meaning_kn": "ಸೋಮರಸವು"
+        },
+        {
+          "pada_original": "शु॒क्रः",
+          "pada_kn": "ಶುಕ್ರಃ",
+          "meaning_en": "pure / bright",
+          "meaning_kn": "ಶುಭ್ರವಾದ / ಶುದ್ಧವಾದ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "वा॒यवे᳚",
+          "pada_kn": "ವಾಯವೇ",
+          "meaning_en": "for Vayu",
+          "meaning_kn": "ವಾಯುವಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒या॒मि॒",
+          "pada_kn": "ಅಯಾಮಿ",
+          "meaning_en": "I offer / I extend",
+          "meaning_kn": "ಅರ್ಪಿಸುತ್ತೇನೆ / ನೀಡುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "अ॒वि॒ष्ट‌म्",
+          "pada_kn": "ಅವಿಷ್ಟಮ್",
+          "meaning_en": "protect / favor",
+          "meaning_kn": "ರಕ್ಷಿಸಿರಿ / ಅನುಗ್ರಹಿಸಿರಿ"
+        },
+        {
+          "pada_original": "धियः॑",
+          "pada_kn": "ಧಿಯಃ",
+          "meaning_en": "our prayers / thoughts",
+          "meaning_kn": "ನಮ್ಮ ಪ್ರಾರ್ಥನೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "जि॒गृ॒त‌म्",
+          "pada_kn": "ಜಿಗೃತಮ್",
+          "meaning_en": "accept / awaken",
+          "meaning_kn": "ಸ್ವೀಕರಿಸಿ / ಜಾಗೃತಗೊಳಿಸಿ"
+        },
+        {
+          "pada_original": "पुर᳚‌म्ऽधीः",
+          "pada_kn": "ಪುರಂಧೀಃ",
+          "meaning_en": "our intelligence / wisdom",
+          "meaning_kn": "ನಮ್ಮ ಬುದ್ಧಿಶಕ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "यू॒य‌म्",
+          "pada_kn": "ಯೂಯಮ್",
+          "meaning_en": "you (all)",
+          "meaning_kn": "ನೀವೆಲ್ಲರೂ"
+        },
+        {
+          "pada_original": "पा॒त॒",
+          "pada_kn": "ಪಾತ",
+          "meaning_en": "protect",
+          "meaning_kn": "ರಕ್ಷಿಸಿರಿ"
+        },
+        {
+          "pada_original": "स्व॒स्तिऽभिः॑",
+          "pada_kn": "ಸ್ವಸ್ತಿಭಿಃ",
+          "meaning_en": "with blessings / well-being",
+          "meaning_kn": "ಮಂಗಳಗಳಿಂದ / ಕಲ್ಯಾಣಗಳಿಂದ"
+        },
+        {
+          "pada_original": "सदा᳚",
+          "pada_kn": "ಸದಾ",
+          "meaning_en": "always",
+          "meaning_kn": "ಯಾವಾಗಲೂ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Varuna and Mitra, this hymn of praise rises to you, even as the bright Soma ascends to Vayu. Attend to our thoughts, awaken our intellect. May you ever protect us with blessings and prosperity.",
+      "full_meaning_kn": "ಓ ವರುಣ ಮತ್ತು ಮಿತ್ರರೇ, ಈ ಸ್ತೋತ್ರವು ನಿಮಗೆ ಏರುತ್ತದೆ, ಪ್ರಕಾಶಮಾನವಾದ ಸೋಮವು ವಾಯುವಿಗೆ ಏರುವಂತೆ. ನಮ್ಮ ಆಲೋಚನೆಗಳಿಗೆ ಗಮನ ಕೊಡಿ, ನಮ್ಮ ಬುದ್ಧಿಯನ್ನು ಜಾಗೃತಗೊಳಿಸಿ. ನೀವು ಸದಾಕಾಲವೂ ಆಶೀರ್ವಾದಗಳು ಮತ್ತು ಸಮೃದ್ಧಿಯಿಂದ ನಮ್ಮನ್ನು ರಕ್ಷಿಸಲಿ.",
+      "rig_time_s": 63.215,
+      "Insight_en": "The hymn signifies the aspirant's yearning for divine grace. वरुण and मित्र represent the cosmic order and friendship, while सोम embodies the purified consciousness. The awakening of intellect (धियो जिगृ॒तं) is the key to transcending limitations, seeking constant protection from the divine forces within.",
+      "Insight_kn": "ಈ ಸ್ತೋತ್ರವು ದೈವಿಕ ಕೃಪೆಗಾಗಿ ಆಕಾಂಕ್ಷಿಯ ಹಂಬಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವರುಣ ಮತ್ತು ಮಿತ್ರರು ಕಾಸ್ಮಿಕ್ ಕ್ರಮ ಮತ್ತು ಸ್ನೇಹವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಸೋಮವು ಶುದ್ಧೀಕರಿಸಿದ ಪ್ರಜ್ಞೆಯನ್ನು ಮೂರ್ತಿೀಕರಿಸುತ್ತದೆ. ಬುದ್ಧಿಶಕ್ತಿಯ ಜಾಗೃತಿ (ಧಿಯೋ ಜಿಗ್ರಿತಂ) ಮಿತಿಗಳನ್ನು ಮೀರುವ ಪ್ರಮುಖವಾಗಿದೆ, ಒಳಗಿನ ದೈವಿಕ ಶಕ್ತಿಗಳಿಂದ ನಿರಂತರ ರಕ್ಷಣೆ ಪಡೆಯಲು ಬಯಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

@@ -1,0 +1,867 @@
+{
+  "mandala": 7,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M7-S63_104-1_6",
+      "mandala": 7,
+      "sukta": 63,
+      "ric_index": 1,
+      "rig_lines": [
+        "उद्वे᳚ति सु॒भगो᳚ वि॒श्वच॑क्षाः॒ साधा᳚रणः॒ सूर्यो॒ मानु॑षाणाम् |",
+        "चक्षु᳚र्मि॒त्रस्य॒ वरु॑णस्य दे॒वश्चर्मे᳚व॒ यः स॒मवि᳚व्य॒क्‌ तमां᳚सि ||"
+      ],
+      "pre_splits": [
+        "उत्",
+        "ऊँ॒ इति॑",
+        "ए॒ति॒",
+        "सु॒ऽभगः॑",
+        "वि॒श्वऽच॑क्षाः",
+        "साधा᳚रणः",
+        "सूर्यः॑",
+        "मानु॑षाणा‌म्",
+        "चक्षुः॑",
+        "मि॒त्रस्य॑",
+        "वरु॑णस्य",
+        "दे॒वः",
+        "चर्म॑ऽ‌इव",
+        "यः",
+        "स॒‌म्।आवि᳚व्यक्",
+        "तमां᳚सि"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "upwards, up",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "indeed (particle 'u')",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿ (ಉ ಎಂಬ ನಿಪಾತ)"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "he goes / rises",
+          "meaning_kn": "ಹೋಗುತ್ತಾನೆ / ಉದಯಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "सु॒ऽभगः॑",
+          "pada_kn": "ಸುಭಗಃ",
+          "meaning_en": "the fortunate one / dispenser of good fortune",
+          "meaning_kn": "ಸೌಭಾಗ್ಯಶಾಲಿ / ಮಂಗಳಕರನು"
+        },
+        {
+          "pada_original": "वि॒श्वऽच॑क्षाः",
+          "pada_kn": "ವಿಶ್ವಚಕ್ಷಾಃ",
+          "meaning_en": "all-seeing / who beholds all",
+          "meaning_kn": "ಸರ್ವದರ್ಶಕ / ಎಲ್ಲವನ್ನೂ ನೋಡುವವನು"
+        },
+        {
+          "pada_original": "साधा᳚रणः",
+          "pada_kn": "ಸಾಧಾರಣಃ",
+          "meaning_en": "common to all / belonging to all",
+          "meaning_kn": "ಎಲ್ಲರಿಗೂ ಸಾಧಾರಣನಾದ / ಸರ್ವರಿಗೂ ಸೇರಿದವನು"
+        },
+        {
+          "pada_original": "सूर्यः॑",
+          "pada_kn": "ಸೂರ್ಯಃ",
+          "meaning_en": "Surya, the Sun",
+          "meaning_kn": "ಸೂರ್ಯನು"
+        },
+        {
+          "pada_original": "मानु॑षाणा‌म्",
+          "pada_kn": "ಮಾನುಷಾಣಾಮ್",
+          "meaning_en": "of mankind / of mortals",
+          "meaning_kn": "ಮನುಷ್ಯರ"
+        },
+        {
+          "pada_original": "चक्षुः॑",
+          "pada_kn": "ಚಕ್ಷುಃ",
+          "meaning_en": "the eye",
+          "meaning_kn": "ಕಣ್ಣು"
+        },
+        {
+          "pada_original": "मि॒त्रस्य॑",
+          "pada_kn": "ಮಿತ್ರಸ್ಯ",
+          "meaning_en": "of Mitra",
+          "meaning_kn": "ಮಿತ್ರನ"
+        },
+        {
+          "pada_original": "वरु॑णस्य",
+          "pada_kn": "ವರುಣಸ್ಯ",
+          "meaning_en": "of Varuna",
+          "meaning_kn": "ವರುಣನ"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "the god / the divine one",
+          "meaning_kn": "ದೇವನು"
+        },
+        {
+          "pada_original": "चर्म॑ऽ‌इव",
+          "pada_kn": "ಚರ್ಮ ಇವ",
+          "meaning_en": "like a skin / like a hide",
+          "meaning_kn": "ಚರ್ಮದಂತೆ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who / he who",
+          "meaning_kn": "ಯಾವನೋ ಅವನು"
+        },
+        {
+          "pada_original": "स॒‌म्।आवि᳚व्यक्",
+          "pada_kn": "ಸಮ್ ಆವಿವ್ಯಕ್",
+          "meaning_en": "has rolled up / has gathered away",
+          "meaning_kn": "ಸುತ್ತಿಟ್ಟಿದ್ದಾನೆ / ಸಂಪೂರ್ಣವಾಗಿ ನಿವಾರಿಸಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "तमां᳚सि",
+          "pada_kn": "ತಮಾಂಸಿ",
+          "meaning_en": "the darknesses",
+          "meaning_kn": "ಕತ್ತಲೆಗಳನ್ನು"
+        }
+      ],
+      "full_meaning_en": "The fortunate and all-seeing Sun ascends, a common light for all of humankind. He is the eye of Mitra and Varuna, the divine one who rolls up darkness like a hide.",
+      "full_meaning_kn": "ಮಂಗಳಕರನೂ ಸರ್ವಜ್ಞನೂ ಆದ ಸೂರ್ಯನು ಉದಯಿಸುತ್ತಾನೆ, ಅವನು ಮಾನವ ಕುಲಕ್ಕೆಲ್ಲಾ ಸಾಮಾನ್ಯವಾದ ಬೆಳಕು. ಮಿತ್ರ ಮತ್ತು ವರುಣರ ದೈವೀ ಕಣ್ಣಾಗಿರುವ ಅವನು, ಚರ್ಮವನ್ನು ಸುತ್ತುವಂತೆ ಕತ್ತಲೆಯನ್ನು ದೂರ ಮಾಡುತ್ತಾನೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The rising Sun symbolizes the awakening of consciousness, dispelling the darkness of ignorance (अविद्या). Just as the Sun is the eye of Mitra (friendship) and Varuna (cosmic order), inner vision aligns with universal harmony. The act of rolling up darkness suggests a complete and decisive removal of illusion (माया).",
+      "Insight_kn": "ಉದಯಿಸುವ ಸೂರ್ಯನು ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಯ ಸಂಕೇತವಾಗಿದ್ದು, ಅಜ್ಞಾನದ (ಅವಿದ್ಯಾ) ಕತ್ತಲೆಯನ್ನು ದೂರಮಾಡುತ್ತಾನೆ. ಸೂರ್ಯನು ಮಿತ್ರ (ಸ್ನೇಹ) ಮತ್ತು ವರುಣರ (ಕಾಸ್ಮಿಕ್ ಕ್ರಮ) ಕಣ್ಣಾಗಿರುವಂತೆ, ಆಂತರಿಕ ದೃಷ್ಟಿಯು ಸಾರ್ವತ್ರಿಕ ಸಾಮರಸ್ಯದೊಂದಿಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ. ಕತ್ತಲೆಯನ್ನು ಸುತ್ತುವ ಕ್ರಿಯೆಯು ಭ್ರಮೆಯ ಸಂಪೂರ್ಣ ಮತ್ತು ನಿರ್ಣಾಯಕ ತೆಗೆದುಹಾಕುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ (ಮಾಯಾ).",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S63_104-2_6",
+      "mandala": 7,
+      "sukta": 63,
+      "ric_index": 2,
+      "rig_lines": [
+        "उद्वे᳚ति प्रसवी॒ता जना᳚नां म॒हान्‌ के॒तुर᳚र्ण॒वः सूर्य॑स्य |",
+        "स॒मा॒नं च॒क्रं प᳚र्या॒विवृ॑त्स॒न् यदे᳚त॒शो वह॑ति धू॒र्षु यु॒क्तः ||"
+      ],
+      "pre_splits": [
+        "उत्",
+        "ऊँ॒ इति॑",
+        "ए॒ति॒",
+        "प्र॒ऽस॒वि॒ता",
+        "जना᳚ना‌म्",
+        "म॒हान्",
+        "के॒तुः",
+        "अ॒र्ण॒वः",
+        "सूर्य॑स्य",
+        "स॒मा॒न‌म्",
+        "च॒क्र‌म्",
+        "प॒रि॒ऽआ॒विवृ॑त्सन्",
+        "यत्",
+        "ए॒त॒शः",
+        "वह॑ति",
+        "धूः॒ऽसु",
+        "यु॒क्तः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up, upwards",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "indeed (emphatic particle)",
+          "meaning_kn": "ನಿಶ್ಚಯವಾಗಿ / ಎಂಬಂತೆ"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "he goes / rises",
+          "meaning_kn": "ಹೋಗುತ್ತಾನೆ / ಏರುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "प्र॒ऽस॒वि॒ता",
+          "pada_kn": "ಪ್ರಸವಿತಾ",
+          "meaning_en": "the impeller, the vivifier",
+          "meaning_kn": "ಪ್ರೇರಕನು / ಚೈತನ್ಯದಾಯಕನು"
+        },
+        {
+          "pada_original": "जना᳚ना‌म्",
+          "pada_kn": "ಜನಾನಾಮ್",
+          "meaning_en": "of all people",
+          "meaning_kn": "ಜನಗಳ"
+        },
+        {
+          "pada_original": "म॒हान्",
+          "pada_kn": "ಮಹಾನ್",
+          "meaning_en": "the great",
+          "meaning_kn": "ಮಹತ್ತಾದ / ದೊಡ್ಡ"
+        },
+        {
+          "pada_original": "के॒तुः",
+          "pada_kn": "ಕೇತುಃ",
+          "meaning_en": "banner, sign, ray of light",
+          "meaning_kn": "ಧ್ವಜವು / ಚಿಹ್ನೆಯು"
+        },
+        {
+          "pada_original": "अ॒र्ण॒वः",
+          "pada_kn": "ಅರ್ಣವಃ",
+          "meaning_en": "ocean (of light)",
+          "meaning_kn": "ಸಾಗರವು (ಬೆಳಕಿನ)"
+        },
+        {
+          "pada_original": "सूर्य॑स्य",
+          "pada_kn": "ಸೂರ್ಯಸ್ಯ",
+          "meaning_en": "of Surya, the Sun",
+          "meaning_kn": "ಸೂರ್ಯನ"
+        },
+        {
+          "pada_original": "स॒मा॒न‌म्",
+          "pada_kn": "ಸಮಾನಮ್",
+          "meaning_en": "the same",
+          "meaning_kn": "ಅದೇ / ಒಂದೇ ಆದ"
+        },
+        {
+          "pada_original": "च॒क्र‌म्",
+          "pada_kn": "ಚಕ್ರಮ್",
+          "meaning_en": "wheel",
+          "meaning_kn": "ಚಕ್ರವನ್ನು"
+        },
+        {
+          "pada_original": "प॒रि॒ऽआ॒विवृ॑त्सन्",
+          "pada_kn": "ಪರಿಆವಿವೃತ್ಸನ್",
+          "meaning_en": "wishing to turn around repeatedly",
+          "meaning_kn": "ಸುತ್ತಲೂ ತಿರುಗಿಸಲು ಇಚ್ಛಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "ए॒त॒शः",
+          "pada_kn": "ಏತಶಃ",
+          "meaning_en": "Etaśa (the steed of Surya)",
+          "meaning_kn": "ಏತಶನೆಂಬ ಅಶ್ವವು"
+        },
+        {
+          "pada_original": "वह॑ति",
+          "pada_kn": "ವಹತಿ",
+          "meaning_en": "carries, draws",
+          "meaning_kn": "ಸಾಗಿಸುತ್ತದೆ / ಎಳೆಯುತ್ತದೆ"
+        },
+        {
+          "pada_original": "धूः॒ऽसु",
+          "pada_kn": "ಧೂರ್ಷು",
+          "meaning_en": "in the yokes / on the poles",
+          "meaning_kn": "ನೊಗಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "यु॒क्तः",
+          "pada_kn": "ಯುಕ್ತಃ",
+          "meaning_en": "yoked, joined",
+          "meaning_kn": "ಹೂಡಲ್ಪಟ್ಟು / ಕಟ್ಟಲ್ಪಟ್ಟು"
+        }
+      ],
+      "full_meaning_en": "The impeller of all beings, the grand beacon, the ocean of radiance of Surya, ascends. He ascends as Etaśa, his swift steed, yoked to the chariot's poles, pulls the chariot, ever desiring to turn the singular wheel of time again and again.",
+      "full_meaning_kn": "ಎಲ್ಲಾ ಜೀವಿಗಳ ಪ್ರೇರಕ, ಮಹಾನ್ ದೀಪಸ್ತಂಭ, ಸೂರ್ಯನ ಪ್ರಕಾಶದ ಸಾಗರವು ಏರುತ್ತದೆ. ಅವನು ಏತಶನಾಗಿ ಏರುತ್ತಾನೆ, ಅವನ ವೇಗದ ಕುದುರೆಯು ರಥದ ಕಂಬಗಳಿಗೆ ಜೋಡಿಸಲ್ಪಟ್ಟು ರಥವನ್ನು ಎಳೆಯುತ್ತಾನೆ, ಕಾಲದ ಏಕೈಕ ಚಕ್ರವನ್ನು ಮತ್ತೆ ಮತ್ತೆ ತಿರುಗಿಸಲು ಸದಾ ಬಯಸುತ್ತಾನೆ.",
+      "rig_time_s": 16.729,
+      "Insight_en": "The rising of Sūrya represents the awakening of consciousness (चेतना). Etaśa, the swift steed, symbolizes the focused and disciplined mind which drives the chariot of our lives. The constant turning of the wheel signifies the cyclical nature of existence and the eternal flow of time (काल). This mantra urges us to harness our mental energies to navigate this cycle with awareness and purpose, ultimately realizing the divine within.",
+      "Insight_kn": "ಸೂರ್ಯನ ಉದಯವು ಚೇತನದ ಜಾಗೃತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಏತಶ, ವೇಗದ ಕುದುರೆ, ನಮ್ಮ ಜೀವನದ ರಥವನ್ನು ಚಲಿಸುವ ಕೇಂದ್ರೀಕೃತ ಮತ್ತು ಶಿಸ್ತುಬದ್ಧ ಮನಸ್ಸನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಚಕ್ರದ ನಿರಂತರ ತಿರುಗುವಿಕೆಯು ಅಸ್ತಿತ್ವದ ಚಕ್ರೀಯ ಸ್ವರೂಪ ಮತ್ತು ಕಾಲದ ಶಾಶ್ವತ ಹರಿವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಜಾಗೃತಿ ಮತ್ತು ಉದ್ದೇಶದಿಂದ ಈ ಚಕ್ರವನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು ನಮ್ಮ ಮಾನಸಿಕ ಶಕ್ತಿಯನ್ನು ಬಳಸಿಕೊಳ್ಳಲು ಈ ಮಂತ್ರವು ನಮ್ಮನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ, ಅಂತಿಮವಾಗಿ ನಮ್ಮೊಳಗಿನ ದೈವಿಕತೆಯನ್ನು ಅರಿತುಕೊಳ್ಳುತ್ತೇವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S63_104-3_6",
+      "mandala": 7,
+      "sukta": 63,
+      "ric_index": 3,
+      "rig_lines": [
+        "वि॒भ्राज॑मान उ॒षसा᳚मु॒पस्था᳚द् रे॒भैरुदे᳚त्यनुम॒द्यमा᳚नः |",
+        "ए॒ष मे᳚ दे॒वः स॑वि॒ता च॑च्छन्द॒ यः स॑मा॒नं न प्र॑मि॒नाति॒ धाम॑ ||"
+      ],
+      "pre_splits": [
+        "वि॒ऽभ्राज॑मानः",
+        "उ॒षसा᳚‌म्",
+        "उ॒पऽस्था᳚त्",
+        "रे॒भैः",
+        "उत्",
+        "ए॒ति॒",
+        "अ॒नु॒ऽम॒द्यमा᳚नः",
+        "ए॒षः",
+        "मे॒",
+        "दे॒वः",
+        "स॒वि॒ता",
+        "च॒च्छ॒न्द॒",
+        "यः",
+        "स॒मा॒न‌म्",
+        "न",
+        "प्र॒ऽमि॒नाति॑",
+        "धाम॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वि॒ऽभ्राज॑मानः",
+          "pada_kn": "ವಿಭ್ರಾಜಮಾನಃ",
+          "meaning_en": "shining brightly",
+          "meaning_kn": "ವಿಶೇಷವಾಗಿ ಪ್ರಕಾಶಿಸುತ್ತಿರುವವನು"
+        },
+        {
+          "pada_original": "उ॒षसा᳚‌म्",
+          "pada_kn": "ಉಷಸಾಂ",
+          "meaning_en": "of the dawns",
+          "meaning_kn": "ಉಷಸ್ಸುಗಳ"
+        },
+        {
+          "pada_original": "उ॒पऽस्था᳚त्",
+          "pada_kn": "ಉಪಸ್ಥಾತ್",
+          "meaning_en": "from the lap",
+          "meaning_kn": "ಮಡಿಲಿನಿಂದ"
+        },
+        {
+          "pada_original": "रे॒भैः",
+          "pada_kn": "ರೇಭೈಃ",
+          "meaning_en": "by the praisers/singers",
+          "meaning_kn": "ಸ್ತುತಿಕಾರರಿಂದ"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "he comes/goes",
+          "meaning_kn": "ಬರುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "अ॒नु॒ऽम॒द्यमा᳚नः",
+          "pada_kn": "ಅನುಮದ್ಯಮಾನಃ",
+          "meaning_en": "being praised/celebrated",
+          "meaning_kn": "ಶ್ಲಾಘಿಸಲ್ಪಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "ए॒षः",
+          "pada_kn": "ಏಷಃ",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "मे॒",
+          "pada_kn": "ಮೇ",
+          "meaning_en": "my / for me",
+          "meaning_kn": "ನನ್ನ / ನನಗೆ"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "god",
+          "meaning_kn": "ದೇವನು"
+        },
+        {
+          "pada_original": "स॒वि॒ता",
+          "pada_kn": "ಸವಿತಾ",
+          "meaning_en": "Savitṛ",
+          "meaning_kn": "ಸವಿತೃವು"
+        },
+        {
+          "pada_original": "च॒च्छ॒न्द॒",
+          "pada_kn": "ಚಚ್ಛಂದ",
+          "meaning_en": "has pleased / is pleasing",
+          "meaning_kn": "ಸಂತೋಷಪಡಿಸಿದ್ದಾನೆ / ಇಷ್ಟವಾಗಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "स॒मा॒न‌म्",
+          "pada_kn": "ಸಮಾನಂ",
+          "meaning_en": "the same / common",
+          "meaning_kn": "ಒಂದೇ ಆದ / ಸಮಾನವಾದ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ"
+        },
+        {
+          "pada_original": "प्र॒ऽमि॒नाति॑",
+          "pada_kn": "ಪ್ರಮಿನಾತಿ",
+          "meaning_en": "violates / diminishes",
+          "meaning_kn": "ಉಲ್ಲಂಘಿಸುವುದಿಲ್ಲ"
+        },
+        {
+          "pada_original": "धाम॑",
+          "pada_kn": "ಧಾಮ",
+          "meaning_en": "law / station",
+          "meaning_kn": "ನಿಯಮವನ್ನು / ಸ್ಥಾನವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "Shining radiantly, arising from the embrace of the dawns, celebrated by the chanters; this is my divine Savitṛ, who is pleasing to me, and who never deviates from the common, established law.",
+      "full_meaning_kn": "ಪ್ರಕಾಶಮಾನನಾಗಿ, ಉಷೆಗಳ ತೊಡೆಯಿಂದ ಉದಯಿಸುತ್ತಾ, ಸ್ತೋತ್ರಕಾರರಿಂದ ಕೊಂಡಾಡಲ್ಪಡುವ ಈ ಸವಿತೃ ದೇವನು ನನಗೆ ಇಷ್ಟವಾಗುವನು. ಅವನು ಎಂದಿಗೂ ಸಾಮಾನ್ಯವಾದ, ಸ್ಥಾಪಿತವಾದ ನಿಯಮವನ್ನು ಉಲ್ಲಂಘಿಸುವುದಿಲ್ಲ.",
+      "rig_time_s": 31.828,
+      "Insight_en": "The radiant Savitṛ represents the inner light of consciousness emerging from the depths of the unconscious. This divine principle, Savitṛ, symbolizes the unwavering adherence to dharma (धर्म), the cosmic law that governs both the external world and the inner self. The singers celebrating Savitṛ symbolize the aspirant's devotion and the awakening of intuitive wisdom.",
+      "Insight_kn": "ಪ್ರಕಾಶಮಾನನಾದ ಸವಿತೃವು ಸುಪ್ತಾವಸ್ಥೆಯ ಆಳದಿಂದ ಹೊರಹೊಮ್ಮುವ ಪ್ರಜ್ಞೆಯ ಆಂತರಿಕ ಬೆಳಕನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಈ ದೈವಿಕ ತತ್ವ, ಸವಿತೃ, ಧರ್ಮಕ್ಕೆ ಅಚಲವಾದ ಬದ್ಧತೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಬಾಹ್ಯ ಪ್ರಪಂಚ ಮತ್ತು ಆಂತರಿಕ ಆತ್ಮ ಎರಡನ್ನೂ ನಿಯಂತ್ರಿಸುವ ಕಾಸ್ಮಿಕ್ ನಿಯಮವಾಗಿದೆ. ಸವಿತೃವನ್ನು ಆಚರಿಸುವ ಗಾಯಕರು ಸಾಧಕನ ಭಕ್ತಿ ಮತ್ತು ಅಂತಃಪ್ರಜ್ಞೆಯ ಜ್ಞಾನದ ಜಾಗೃತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S63_104-4_6",
+      "mandala": 7,
+      "sukta": 63,
+      "ric_index": 4,
+      "rig_lines": [
+        "दि॒वो रु॒क्म उ॑रु॒चक्षा॒, उदे᳚ति दू॒रे,अ॑र्थस्त॒रणि॒र्भ्राज॑मानः |",
+        "नू॒नं जनाः॒ सूर्ये᳚ण॒ प्रसू᳚ता॒, अय॒न्नर्था᳚नि कृ॒णव॒न्नपां᳚सि ||"
+      ],
+      "pre_splits": [
+        "दि॒वः",
+        "रु॒क्मः",
+        "उ॒रु॒ऽचक्षाः᳚",
+        "उत्",
+        "ए॒ति॒",
+        "दू॒रे।आ॑र्थः",
+        "त॒रणिः॑",
+        "भ्राज॑मानः",
+        "नू॒न‌म्",
+        "जनाः᳚",
+        "सूर्ये᳚ण",
+        "प्रऽसू᳚ताः",
+        "अय॑न्",
+        "अर्था᳚नि",
+        "कृ॒णव॑न्",
+        "अपां᳚सि"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "Of the sky / of heaven",
+          "meaning_kn": "ಆಕಾಶದ / ದ್ಯುಲೋಕದ"
+        },
+        {
+          "pada_original": "रु॒क्मः",
+          "pada_kn": "ರುಕ್ಮಃ",
+          "meaning_en": "The brilliant ornament / the golden disc",
+          "meaning_kn": "ಹೊಳೆಯುವ ಆಭರಣ"
+        },
+        {
+          "pada_original": "उ॒रु॒ऽचक्षाः᳚",
+          "pada_kn": "ಉರುಚಕ್ಷಾಃ",
+          "meaning_en": "The far-seeing one / wide of vision",
+          "meaning_kn": "ವಿಶಾಲ ದೃಷ್ಟಿಯುಳ್ಳವನು"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "Up / arises",
+          "meaning_kn": "ಮೇಲೆ / ಉದಯಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "He goes",
+          "meaning_kn": "ಹೋಗುತ್ತಾನೆ / ಚಲಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "दू॒रे।आ॑र्थः",
+          "pada_kn": "ದೂರೇಅರ್ಥಃ",
+          "meaning_en": "Whose goal is far-reaching",
+          "meaning_kn": "ದೂರದ ಗುರಿಯುಳ್ಳವನು"
+        },
+        {
+          "pada_original": "त॒रणिः॑",
+          "pada_kn": "ತರಣಿಃ",
+          "meaning_en": "The swift one / who helps to cross over",
+          "meaning_kn": "ವೇಗವಾಗಿ ಚಲಿಸುವವನು / ದಾಟಿಸುವವನು"
+        },
+        {
+          "pada_original": "भ्राज॑मानः",
+          "pada_kn": "ಭ್ರಾಜಮಾನಃ",
+          "meaning_en": "Shining / resplendent",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತಿರುವ / ಹೊಳೆಯುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "नू॒न‌म्",
+          "pada_kn": "ನೂನಮ್",
+          "meaning_en": "Now / certainly",
+          "meaning_kn": "ಈಗ / ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "जनाः᳚",
+          "pada_kn": "ಜನಾಃ",
+          "meaning_en": "People / men",
+          "meaning_kn": "ಜನರು"
+        },
+        {
+          "pada_original": "सूर्ये᳚ण",
+          "pada_kn": "ಸೂರ್ಯೇಣ",
+          "meaning_en": "By the Sun",
+          "meaning_kn": "ಸೂರ್ಯನಿಂದ"
+        },
+        {
+          "pada_original": "प्रऽसू᳚ताः",
+          "pada_kn": "ಪ್ರಸೂತಾಃ",
+          "meaning_en": "Impelled / set in motion",
+          "meaning_kn": "ಪ್ರೇರಿತರಾದ / ಚಲಿಸುವಂತೆ ಮಾಡಲ್ಪಟ್ಟ"
+        },
+        {
+          "pada_original": "अय॑न्",
+          "pada_kn": "ಅಯನ್",
+          "meaning_en": "They go / they move towards",
+          "meaning_kn": "ಹೋಗುತ್ತಾರೆ / ಸಾಗುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "अर्था᳚नि",
+          "pada_kn": "ಅರ್ಥಾನಿ",
+          "meaning_en": "Their goals / their purposes",
+          "meaning_kn": "ತಮ್ಮ ಉದ್ದೇಶಗಳನ್ನು / ಗುರಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "कृ॒णव॑न्",
+          "pada_kn": "ಕೃಣವನ್",
+          "meaning_en": "They perform / they do",
+          "meaning_kn": "ಮಾಡುತ್ತಾರೆ / ನಿರ್ವಹಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "अपां᳚सि",
+          "pada_kn": "ಅಪಾಂಸಿ",
+          "meaning_en": "Their works / their actions",
+          "meaning_kn": "ತಮ್ಮ ಕೆಲಸಗಳನ್ನು / ಕರ್ಮಗಳನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O radiant Sun, the golden ornament of the sky, with your far-reaching vision, you ascend from afar, swift and shining, fulfilling your purpose. Indeed, inspired by you, all beings proceed to accomplish their tasks and duties, creating works and dispelling darkness.",
+      "full_meaning_kn": "ಓ ಪ್ರಕಾಶಮಾನವಾದ ಸೂರ್ಯನೇ, ಆಕಾಶದ ಸುವರ್ಣ ಆಭರಣವೇ, ದೂರಗಾಮಿ ದೃಷ್ಟಿಯೊಂದಿಗೆ, ದೂರದಿಂದ ಮೇಲೇರುತ್ತೀರಿ, ತ್ವರಿತವಾಗಿ ಮತ್ತು ಪ್ರಕಾಶಿಸುತ್ತಾ, ನಿಮ್ಮ ಉದ್ದೇಶವನ್ನು ಪೂರೈಸುತ್ತೀರಿ. ಖಂಡಿತವಾಗಿಯೂ, ನೀವು ಸ್ಫೂರ್ತಿ ನೀಡಿದಂತೆ, ಎಲ್ಲಾ ಜೀವಿಗಳು ತಮ್ಮ ಕಾರ್ಯಗಳನ್ನು ಮತ್ತು ಕರ್ತವ್ಯಗಳನ್ನು ಸಾಧಿಸಲು ಮುಂದುವರಿಯುತ್ತವೆ, ಕೆಲಸಗಳನ್ನು ಸೃಷ್ಟಿಸುತ್ತವೆ ಮತ್ತು ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುತ್ತವೆ.",
+      "rig_time_s": 47.069,
+      "Insight_en": "The Sun (सूर्य) represents the inner light of consciousness. Its rising signifies the awakening of spiritual awareness, dispelling the darkness of ignorance (अविद्या). All actions performed with this awakened awareness become purposeful and aligned with dharma. Inspired by the inner sun, one fulfills their true potential.",
+      "Insight_kn": "ಸೂರ್ಯನು (ಸೂರ್ಯ) ಪ್ರಜ್ಞೆಯ ಆಂತರಿಕ ಬೆಳಕನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಅವನ ಏರಿಕೆಯು ಆಧ್ಯಾತ್ಮಿಕ ಜಾಗೃತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಅಜ್ಞಾನದ ಕತ್ತಲೆಯನ್ನು (ಅವಿದ್ಯಾ) ಹೋಗಲಾಡಿಸುತ್ತದೆ. ಈ ಜಾಗೃತ ಪ್ರಜ್ಞೆಯೊಂದಿಗೆ ಮಾಡಿದ ಎಲ್ಲಾ ಕಾರ್ಯಗಳು ಅರ್ಥಪೂರ್ಣವಾಗುತ್ತವೆ ಮತ್ತು ಧರ್ಮಕ್ಕೆ ಅನುಗುಣವಾಗಿರುತ್ತವೆ. ಆಂತರಿಕ ಸೂರ್ಯನಿಂದ ಪ್ರೇರಿತರಾಗಿ, ಒಬ್ಬರು ತಮ್ಮ ನಿಜವಾದ ಸಾಮರ್ಥ್ಯವನ್ನು ಪೂರೈಸುತ್ತಾರೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S63_104-5_6",
+      "mandala": 7,
+      "sukta": 63,
+      "ric_index": 5,
+      "rig_lines": [
+        "यत्रा᳚ च॒क्रुर॒मृता᳚ गा॒तुम॑स्मै श्ये॒नो न दीय॒न्नन्वे᳚ति॒ पाथः॑ |",
+        "प्रति॑ वां॒ सूर॒ उदि॑ते विधेम॒ नमो᳚भिर्मित्रावरुणो॒त ह॒व्यैः ||"
+      ],
+      "pre_splits": [
+        "यत्र॑",
+        "च॒क्रुः",
+        "अ॒मृताः᳚",
+        "गा॒तु‌म्",
+        "अ॒स्मै॒",
+        "श्ये॒नः",
+        "न",
+        "दीय॑न्",
+        "अनु॑",
+        "ए॒ति॒",
+        "पाथः॑",
+        "प्रति॑",
+        "वा॒‌म्",
+        "सूरे᳚",
+        "उत्ऽ‌इ᳚ते",
+        "वि॒धे॒म॒",
+        "नमः॑ऽभिः",
+        "मि॒त्रा॒व॒रु॒णा॒",
+        "उ॒त",
+        "ह॒व्यैः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यत्र॑",
+          "pada_kn": "ಯತ್ರ",
+          "meaning_en": "where",
+          "meaning_kn": "ಎಲ್ಲಿ"
+        },
+        {
+          "pada_original": "च॒क्रुः",
+          "pada_kn": "ಚಕ್ರುಃ",
+          "meaning_en": "they made / prepared",
+          "meaning_kn": "ಅವರು ಮಾಡಿದರು / ಸಿದ್ಧಪಡಿಸಿದರು"
+        },
+        {
+          "pada_original": "अ॒मृताः᳚",
+          "pada_kn": "ಅಮೃತಾಃ",
+          "meaning_en": "the immortal ones (gods)",
+          "meaning_kn": "ಅಮರರಾದವರು (ದೇವತೆಗಳು)"
+        },
+        {
+          "pada_original": "गा॒तु‌म्",
+          "pada_kn": "ಗಾತುಮ್",
+          "meaning_en": "a path / a course",
+          "meaning_kn": "ಮಾರ್ಗವನ್ನು / ಪಥವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒स्मै॒",
+          "pada_kn": "ಅಸ್ಮೈ",
+          "meaning_en": "for him (for the Sun)",
+          "meaning_kn": "ಅವನಿಗಾಗಿ (ಸೂರ್ಯನಿಗಾಗಿ)"
+        },
+        {
+          "pada_original": "श्ये॒नः",
+          "pada_kn": "ಶ್ಯೇನಃ",
+          "meaning_en": "a falcon / an eagle",
+          "meaning_kn": "ಗಿಡುಗ / ಶ್ಯೇನಪಕ್ಷಿ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "दीय॑न्",
+          "pada_kn": "ದೀಯನ್",
+          "meaning_en": "flying / soaring",
+          "meaning_kn": "ಹಾರುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "after / along",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಹಿಂಬಾಲಿಸಿ"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "he goes / follows",
+          "meaning_kn": "ಅವನು ಹೋಗುತ್ತಾನೆ / ಅನುಸರಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "पाथः॑",
+          "pada_kn": "ಪಾಥಃ",
+          "meaning_en": "the path / the course",
+          "meaning_kn": "ಪಥವನ್ನು / ಮಾರ್ಗವನ್ನು"
+        },
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / to",
+          "meaning_kn": "(ನಿಮ್ಮ) ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು"
+        },
+        {
+          "pada_original": "सूरे᳚",
+          "pada_kn": "ಸೂರೆ",
+          "meaning_en": "when the sun",
+          "meaning_kn": "ಸೂರ್ಯನು"
+        },
+        {
+          "pada_original": "उत्ऽ‌इ᳚ते",
+          "pada_kn": "ಉದಿತೇ",
+          "meaning_en": "has risen",
+          "meaning_kn": "ಉದಯಿಸಿದಾಗ"
+        },
+        {
+          "pada_original": "वि॒धे॒म॒",
+          "pada_kn": "ವಿಧೇಮ",
+          "meaning_en": "we shall serve / worship",
+          "meaning_kn": "ನಾವು ಸೇವೆ ಮಾಡುತ್ತೇವೆ / ಪೂಜಿಸುತ್ತೇವೆ"
+        },
+        {
+          "pada_original": "नमः॑ऽभिः",
+          "pada_kn": "ನಮೋಭಿಃ",
+          "meaning_en": "with prostrations / homage",
+          "meaning_kn": "ನಮಸ್ಕಾರಗಳಿಂದ"
+        },
+        {
+          "pada_original": "मि॒त्रा॒व॒रु॒णा॒",
+          "pada_kn": "ಮಿತ್ರಾವರುಣಾ",
+          "meaning_en": "O Mitra and Varuna",
+          "meaning_kn": "ಓ ಮಿತ್ರಾವರುಣರೇ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and also",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "ह॒व्यैः",
+          "pada_kn": "ಹವ್ಯೈಃ",
+          "meaning_en": "with oblations / offerings",
+          "meaning_kn": "ಹವಿಸ್ಸುಗಳಿಂದ / ಅರ್ಪಣೆಗಳಿಂದ"
+        }
+      ],
+      "full_meaning_en": "Where the immortals created a path for him (the Sun), he follows it like a falcon descending swiftly. O Mitra and Varuna, at the rising of the sun, we devoutly worship you with reverence and with offerings.",
+      "full_meaning_kn": "ಯಾವಲ್ಲಿ ಅಮರರು ಆತನಿಗೆ (ಸೂರ್ಯ) ಮಾರ್ಗವನ್ನು ನಿರ್ಮಿಸಿದರೋ, ಆತನು ವೇಗವಾಗಿ ಇಳಿಯುವ ಗಿಡುಗದಂತೆ ಅದನ್ನು ಅನುಸರಿಸುತ್ತಾನೆ. ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ, ಸೂರ್ಯೋದಯದಲ್ಲಿ ನಾವು ಭಕ್ತಿಯಿಂದ ನಮಸ್ಕಾರಗಳೊಂದಿಗೆ ಮತ್ತು ಪವಿತ್ರ ಅರ್ಪಣೆಗಳೊಂದಿಗೆ ನಿಮ್ಮನ್ನು ಪೂಜಿಸುತ್ತೇವೆ.",
+      "rig_time_s": 62.932,
+      "Insight_en": "The path of the sun symbolizes the journey of the soul towards enlightenment. Like the sun, the individual atman follows the divine path laid out by the immortals (devas), transcending limitations. Mitra and Varuna represent cosmic order and ethical principles; worshipping them with reverence signifies aligning oneself with dharma and cosmic harmony. The rising sun symbolizes the dawn of wisdom within.",
+      "Insight_kn": "ಸೂರ್ಯನ ಮಾರ್ಗವು ಆತ್ಮವು ಜ್ಞಾನೋದಯದ ಕಡೆಗೆ ಮಾಡುವ ಪ್ರಯಾಣವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸೂರ್ಯನಂತೆ, ವೈಯಕ್ತಿಕ ಆತ್ಮವು ಅಮರರು (ದೇವತೆಗಳು) ಹಾಕಿಕೊಟ್ಟ ದೈವಿಕ ಮಾರ್ಗವನ್ನು ಅನುಸರಿಸುತ್ತದೆ, ಮಿತಿಗಳನ್ನು ಮೀರುತ್ತದೆ. ಮಿತ್ರ ಮತ್ತು ವರುಣರು ಕಾಸ್ಮಿಕ್ ಸುವ್ಯವಸ್ಥೆ ಮತ್ತು ನೈತಿಕ ತತ್ವಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ; ಗೌರವದಿಂದ ಅವರನ್ನು ಪೂಜಿಸುವುದು ಧರ್ಮ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಸಾಮರಸ್ಯದೊಂದಿಗೆ ತಮ್ಮನ್ನು ತಾವು ಜೋಡಿಸಿಕೊಳ್ಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಉದಯಿಸುವ ಸೂರ್ಯನು ಒಳಗಿನ ಜ್ಞಾನದ ಉದಯವನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S63_104-6_6",
+      "mandala": 7,
+      "sukta": 63,
+      "ric_index": 6,
+      "rig_lines": [
+        "नू मि॒त्रो वरु॑णो, अर्य॒मा न॒स्त्मने᳚ तो॒काय॒ वरि॑वो दधन्तु |",
+        "सु॒गा नो॒ विश्वा᳚ सु॒पथा᳚नि सन्तु यू॒यं पा᳚त स्व॒स्तिभिः॒ सदा᳚ नः ||"
+      ],
+      "pre_splits": [
+        "नु",
+        "मि॒त्रः",
+        "वरु॑णः",
+        "अ॒र्य॒मा",
+        "नः॒",
+        "त्मने᳚",
+        "तो॒काय॑",
+        "वरि॑वः",
+        "द॒ध॒न्तु॒",
+        "सु॒ऽगा",
+        "नः॒",
+        "विश्वा᳚",
+        "सु॒ऽपथा᳚नि",
+        "स॒न्तु॒",
+        "यू॒य‌म्",
+        "पा॒त॒",
+        "स्व॒स्तिऽभिः॑",
+        "सदा᳚",
+        "नः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "now / indeed",
+          "meaning_kn": "ಈಗ / ಖಂಡಿತವಾಗಿ"
+        },
+        {
+          "pada_original": "मि॒त्रः",
+          "pada_kn": "ಮಿತ್ರಃ",
+          "meaning_en": "Mitra",
+          "meaning_kn": "ಮಿತ್ರನು"
+        },
+        {
+          "pada_original": "वरु॑णः",
+          "pada_kn": "ವರುಣಃ",
+          "meaning_en": "Varuna",
+          "meaning_kn": "ವರುಣನು"
+        },
+        {
+          "pada_original": "अ॒र्य॒मा",
+          "pada_kn": "ಅರ್ಯಮಾ",
+          "meaning_en": "Aryaman",
+          "meaning_kn": "ಅರ್ಯಮನು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "त्मने᳚",
+          "pada_kn": "ತ್ಮನೇ",
+          "meaning_en": "for our own self",
+          "meaning_kn": "ನಮಗಾಗಿ / ನಮ್ಮ ಶರೀರಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "तो॒काय॑",
+          "pada_kn": "ತೋಕಾಯ",
+          "meaning_en": "for our offspring",
+          "meaning_kn": "ನಮ್ಮ ಸಂತತಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "वरि॑वः",
+          "pada_kn": "ವರಿವಃ",
+          "meaning_en": "wealth / comfort",
+          "meaning_kn": "ಸಂಪತ್ತನ್ನು / ಸುಖವನ್ನು"
+        },
+        {
+          "pada_original": "द॒ध॒न्तु॒",
+          "pada_kn": "ದಧಂತು",
+          "meaning_en": "may they grant",
+          "meaning_kn": "ಅವರು ನೀಡಲಿ"
+        },
+        {
+          "pada_original": "सु॒ऽगा",
+          "pada_kn": "ಸುಗಾ",
+          "meaning_en": "easy to traverse",
+          "meaning_kn": "ಸುಗಮವಾದ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "सु॒ऽपथा᳚नि",
+          "pada_kn": "ಸುಪಥಾನಿ",
+          "meaning_en": "good paths",
+          "meaning_kn": "ಉತ್ತಮ ಮಾರ್ಗಗಳು"
+        },
+        {
+          "pada_original": "स॒न्तु॒",
+          "pada_kn": "ಸಂತು",
+          "meaning_en": "may they be",
+          "meaning_kn": "ಆಗಿರಲಿ"
+        },
+        {
+          "pada_original": "यू॒य‌म्",
+          "pada_kn": "ಯೂಯಂ",
+          "meaning_en": "you (all)",
+          "meaning_kn": "ನೀವು (ಎಲ್ಲರೂ)"
+        },
+        {
+          "pada_original": "पा॒त॒",
+          "pada_kn": "ಪಾತ",
+          "meaning_en": "protect",
+          "meaning_kn": "ರಕ್ಷಿಸಿರಿ"
+        },
+        {
+          "pada_original": "स्व॒स्तिऽभिः॑",
+          "pada_kn": "ಸ್ವಸ್ತಿಭಿಃ",
+          "meaning_en": "with blessings / well-being",
+          "meaning_kn": "ಕಲ್ಯಾಣಗಳಿಂದ / ಮಂಗಳಗಳಿಂದ"
+        },
+        {
+          "pada_original": "सदा᳚",
+          "pada_kn": "ಸದಾ",
+          "meaning_en": "always",
+          "meaning_kn": "ಯಾವಾಗಲೂ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Mitra, Varuna, and Aryaman, grant us abundant ease and prosperity for ourselves and our descendants. May all paths be pleasant and easily traversed. Ever protect us with your blessings and benedictions.",
+      "full_meaning_kn": "ಓ ಮಿತ್ರ, ವರುಣ, ಮತ್ತು ಅರ್ಯಮನ್, ನಮಗೆ ಮತ್ತು ನಮ್ಮ ಸಂತತಿಗೆ ಸಮೃದ್ಧಿಯನ್ನೂ ಸೌಖ್ಯವನ್ನೂ ದಯಪಾಲಿಸಿ. ನಮ್ಮ ಎಲ್ಲಾ ಮಾರ್ಗಗಳೂ ಸುಗಮವೂ ಸುಲಭಸಾಧ್ಯವೂ ಆಗಿರಲಿ. ನಿಮ್ಮ ಆಶೀರ್ವಾದಗಳೊಂದಿಗೆ ಸದಾ ನಮ್ಮನ್ನು ರಕ್ಷಿಸಿ.",
+      "rig_time_s": 79.155,
+      "Insight_en": "Mitra represents the principle of harmony and friendship, both within ourselves and in our relationships with others. Varuna embodies cosmic order (Rta) and ethical responsibility. Aryaman signifies the noble path of aspiration and community. By invoking these deities, we seek to align ourselves with these principles, creating ease and well-being in our lives and for future generations. The auspicious paths symbolize the clarity and right direction gained through inner alignment with dharma.",
+      "Insight_kn": "ಮಿತ್ರನು ನಮ್ಮೊಳಗೆ ಮತ್ತು ಇತರರೊಂದಿಗಿನ ನಮ್ಮ ಸಂಬಂಧಗಳಲ್ಲಿ ಸಾಮರಸ್ಯ ಮತ್ತು ಸ್ನೇಹದ ತತ್ವವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ವರುಣನು ಕಾಸ್ಮಿಕ್ ಕ್ರಮ (ಋತ) ಮತ್ತು ನೈತಿಕ ಜವಾಬ್ದಾರಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ಅರ್ಯಮನ್ ಆಕಾಂಕ್ಷೆ ಮತ್ತು ಸಮುದಾಯದ ಉದಾತ್ತ ಮಾರ್ಗವನ್ನು ಸೂಚಿಸುತ್ತಾನೆ. ಈ ದೇವತೆಗಳನ್ನು ಆಹ್ವಾನಿಸುವ ಮೂಲಕ, ನಾವು ನಮ್ಮನ್ನು ಈ ತತ್ವಗಳೊಂದಿಗೆ ಜೋಡಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತೇವೆ, ನಮ್ಮ ಜೀವನದಲ್ಲಿ ಮತ್ತು ಭವಿಷ್ಯದ ಪೀಳಿಗೆಗೆ ಸುಲಭ ಮತ್ತು ಯೋಗಕ್ಷೇಮವನ್ನು ಸೃಷ್ಟಿಸುತ್ತೇವೆ. ಮಂಗಳಕರ ಮಾರ್ಗಗಳು ಧರ್ಮದೊಂದಿಗೆ ಆಂತರಿಕ ಹೊಂದಾಣಿಕೆಯಿಂದ ಪಡೆದ ಸ್ಪಷ್ಟತೆ ಮತ್ತು ಸರಿಯಾದ ದಿಕ್ಕನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

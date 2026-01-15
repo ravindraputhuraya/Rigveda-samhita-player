@@ -1,0 +1,699 @@
+{
+  "mandala": 6,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M6-S72_75-1_5",
+      "mandala": 6,
+      "sukta": 72,
+      "ric_index": 1,
+      "rig_lines": [
+        "इन्द्रा᳚सोमा॒ महि॒ तद्‌ वां᳚ महि॒त्वं यु॒वं म॒हानि॑ प्रथ॒मानि॑ चक्रथुः |",
+        "यु॒वं सूर्यं᳚ विवि॒दथु᳚र्यु॒वं स्व१॑(अ॒)र्विश्वा॒ तमां᳚स्यहतं नि॒दश्च॑ ||"
+      ],
+      "pre_splits": [
+        "इन्द्रा᳚सोमा",
+        "महि॑",
+        "तत्",
+        "वा॒‌म्",
+        "म॒हि॒ऽत्व‌म्",
+        "यु॒व‌म्",
+        "म॒हानि॑",
+        "प्र॒थ॒मानि॑",
+        "च॒क्र॒थुः॒",
+        "यु॒व‌म्",
+        "सूर्य᳚‌म्",
+        "वि॒वि॒दथुः॑",
+        "यु॒व‌म्",
+        "स्वः॑",
+        "विश्वा᳚",
+        "तमां᳚सि",
+        "अ॒ह॒त॒‌म्",
+        "नि॒दः",
+        "च॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इन्द्रा᳚सोमा",
+          "pada_kn": "ಇಂದ್ರಾಸೋಮಾ",
+          "meaning_en": "O Indra and Soma",
+          "meaning_kn": "ಓ ಇಂದ್ರ-ಸೋಮರೇ"
+        },
+        {
+          "pada_original": "महि॑",
+          "pada_kn": "ಮಹಿ",
+          "meaning_en": "great",
+          "meaning_kn": "ಮಹತ್ತಾದ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "of you two",
+          "meaning_kn": "ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "म॒हि॒ऽत्व‌म्",
+          "pada_kn": "ಮಹಿತ್ವಮ್",
+          "meaning_en": "greatness / might",
+          "meaning_kn": "ಮಹಿಮೆಯು"
+        },
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನೀವಿಬ್ಬರು"
+        },
+        {
+          "pada_original": "म॒हानि॑",
+          "pada_kn": "ಮಹಾನಿ",
+          "meaning_en": "great (deeds)",
+          "meaning_kn": "ಮಹತ್ತಾದ (ಕಾರ್ಯಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "प्र॒थ॒मानि॑",
+          "pada_kn": "ಪ್ರಥಮಾನಿ",
+          "meaning_en": "first / foremost",
+          "meaning_kn": "ಪ್ರಮುಖವಾದ"
+        },
+        {
+          "pada_original": "च॒क्र॒थुः॒",
+          "pada_kn": "ಚಕ್ರಥುಃ",
+          "meaning_en": "you two have performed",
+          "meaning_kn": "ಮಾಡಿದ್ದೀರಿ"
+        },
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನೀವಿಬ್ಬರು"
+        },
+        {
+          "pada_original": "सूर्य᳚‌म्",
+          "pada_kn": "ಸೂರ್ಯಮ್",
+          "meaning_en": "the Sun",
+          "meaning_kn": "ಸೂರ್ಯನನ್ನು"
+        },
+        {
+          "pada_original": "वि॒वि॒दथुः॑",
+          "pada_kn": "ವಿವಿದಥುಃ",
+          "meaning_en": "you two found",
+          "meaning_kn": "ಕಂಡುಕೊಂಡಿರಿ"
+        },
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನೀವಿಬ್ಬರು"
+        },
+        {
+          "pada_original": "स्वः॑",
+          "pada_kn": "ಸ್ವಃ",
+          "meaning_en": "heaven / celestial light",
+          "meaning_kn": "ಸ್ವರ್ಲೋಕವನ್ನು / ದಿವ್ಯಜ್ಯೋತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all",
+          "meaning_kn": "ಸಕಲ / ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "तमां᳚सि",
+          "pada_kn": "ತಮಾಂಸಿ",
+          "meaning_en": "darknesses",
+          "meaning_kn": "ಅಂಧಕಾರಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अ॒ह॒त॒‌म्",
+          "pada_kn": "ಅಹತಮ್",
+          "meaning_en": "you two destroyed",
+          "meaning_kn": "ನಾಶಮಾಡಿದಿರಿ"
+        },
+        {
+          "pada_original": "नि॒दः",
+          "pada_kn": "ನಿದಃ",
+          "meaning_en": "scorners / revilers",
+          "meaning_kn": "ನಿಂದಕರನ್ನು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        }
+      ],
+      "full_meaning_en": "O Indra and Soma, great is that power of yours; you two have accomplished great and foremost deeds. You two discovered the Sun and the celestial light (Swar), and you have vanquished all darknesses and the scorners.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ ಮತ್ತು ಸೋಮ, ನಿಮ್ಮ ಆ ಶಕ್ತಿಯು ಮಹತ್ತಾದುದು; ನೀವು ಇಬ್ಬರೂ ಮಹಾನ್ ಮತ್ತು ಅಗ್ರಗಣ್ಯ ಕಾರ್ಯಗಳನ್ನು ಸಾಧಿಸಿದ್ದೀರಿ. ನೀವು ಇಬ್ಬರೂ ಸೂರ್ಯ ಮತ್ತು ಸ್ವರ್ಗೀಯ ಬೆಳಕನ್ನು (ಸ್ವರ್) ಕಂಡುಹಿಡಿದಿದ್ದೀರಿ, ಮತ್ತು ನೀವು ಎಲ್ಲಾ ಕತ್ತಲೆಗಳನ್ನು ಮತ್ತು ನಿಂದಕರನ್ನು ಸೋಲಿಸಿದ್ದೀರಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The discovery of the Sun and Swar symbolizes the revelation of inner light and knowledge, dispelling ignorance and negativity (tamas). Indra and Soma, representing divine will and ecstatic experience respectively, act as catalysts for this transformative process, annihilating inner darkness and overcoming the voices of doubt and self-criticism.",
+      "Insight_kn": "ಸೂರ್ಯ ಮತ್ತು ಸ್ವರ್‌ನ ಆವಿಷ್ಕಾರವು ಆಂತರಿಕ ಬೆಳಕು ಮತ್ತು ಜ್ಞಾನದ ಬಹಿರಂಗಪಡಿಸುವಿಕೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಅಜ್ಞಾನ ಮತ್ತು ನಕಾರಾತ್ಮಕತೆಯನ್ನು (ತಮಸ್) ಹೋಗಲಾಡಿಸುತ್ತದೆ. ದೈವಿಕ ಇಚ್ಛೆ ಮತ್ತು ಪರಮಾನಂದದ ಅನುಭವವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಇಂದ್ರ ಮತ್ತು ಸೋಮ, ಈ ಪರಿವರ್ತಕ ಪ್ರಕ್ರಿಯೆಗೆ ವೇಗವರ್ಧಕವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಾರೆ, ಆಂತರಿಕ ಕತ್ತಲೆಯನ್ನು ನಿರ್ನಾಮ ಮಾಡುತ್ತಾರೆ ಮತ್ತು ಅನುಮಾನ ಮತ್ತು ಸ್ವಯಂ ಟೀಕೆಯ ಧ್ವನಿಗಳನ್ನು ಮೀರಿಸುತ್ತಾರೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S72_75-2_5",
+      "mandala": 6,
+      "sukta": 72,
+      "ric_index": 2,
+      "rig_lines": [
+        "इन्द्रा᳚सोमा वा॒सय॑थ उ॒षास॒मुत्‌ सूर्यं᳚ नयथो॒ ज्योति॑षा स॒ह |",
+        "उप॒ द्यां स्क॒म्भथुः॒ स्कम्भ॑ने॒नाप्र॑थतं पृथि॒वीं मा॒तरं॒ वि ||"
+      ],
+      "pre_splits": [
+        "इन्द्रा᳚सोमा",
+        "वा॒सय॑थः",
+        "उ॒षस᳚‌म्",
+        "उत्",
+        "सूर्य᳚‌म्",
+        "न॒य॒थः॒",
+        "ज्योति॑षा",
+        "स॒ह",
+        "उप॑",
+        "द्या‌म्",
+        "स्क॒म्भथुः॑",
+        "स्कम्भ॑नेन",
+        "अप्र॑थत‌म्",
+        "पृ॒थि॒वी‌म्",
+        "मा॒तर᳚‌म्",
+        "वि"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इन्द्रा᳚सोमा",
+          "pada_kn": "ಇಂದ್ರಾಸೋಮಾ",
+          "meaning_en": "O Indra and Soma",
+          "meaning_kn": "ಓ ಇಂದ್ರ ಮತ್ತು ಸೋಮ"
+        },
+        {
+          "pada_original": "वा॒सय॑थः",
+          "pada_kn": "ವಾಸಯಥಃ",
+          "meaning_en": "you two cause to appear / to shine",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರು ಹೊಳೆಯುವಂತೆ ಮಾಡುತ್ತೀರಿ"
+        },
+        {
+          "pada_original": "उ॒षस᳚‌म्",
+          "pada_kn": "ಉಷಸಮ್",
+          "meaning_en": "the Dawn",
+          "meaning_kn": "ಉಷೆಯನ್ನು / ಮುಂಜಾನೆಯನ್ನು"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / upwards",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ"
+        },
+        {
+          "pada_original": "सूर्य᳚‌म्",
+          "pada_kn": "ಸೂರ್ಯಮ್",
+          "meaning_en": "the Sun",
+          "meaning_kn": "ಸೂರ್ಯನನ್ನು"
+        },
+        {
+          "pada_original": "न॒य॒थः॒",
+          "pada_kn": "ನಯಥಃ",
+          "meaning_en": "you two lead",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರು ಕರೆತರುತ್ತೀರಿ"
+        },
+        {
+          "pada_original": "ज्योति॑षा",
+          "pada_kn": "ಜ್ಯೋತಿಷಾ",
+          "meaning_en": "with light",
+          "meaning_kn": "ಬೆಳಕಿನಿಂದ"
+        },
+        {
+          "pada_original": "स॒ह",
+          "pada_kn": "ಸಹ",
+          "meaning_en": "together with",
+          "meaning_kn": "ಜೊತೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "up / as a support",
+          "meaning_kn": "ಆಧಾರವಾಗಿ"
+        },
+        {
+          "pada_original": "द्या‌म्",
+          "pada_kn": "ದ್ಯಾಮ್",
+          "meaning_en": "the heaven / the sky",
+          "meaning_kn": "ದ್ಯುಲೋಕವನ್ನು / ಆಕಾಶವನ್ನು"
+        },
+        {
+          "pada_original": "स्क॒म्भथुः॑",
+          "pada_kn": "ಸ್ಕಂಭಥುಃ",
+          "meaning_en": "you two support / prop up",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರು ಸ್ಥಿರಗೊಳಿಸುತ್ತೀರಿ"
+        },
+        {
+          "pada_original": "स्कम्भ॑नेन",
+          "pada_kn": "ಸ್ಕಂಭನೇನ",
+          "meaning_en": "with a support / by a pillar",
+          "meaning_kn": "ಆಧಾರದಿಂದ / ಸ್ತಂಭದಿಂದ"
+        },
+        {
+          "pada_original": "अप्र॑थत‌म्",
+          "pada_kn": "ಅಪ್ರಥತಮ್",
+          "meaning_en": "you two spread out",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರು ವಿಸ್ತರಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "पृ॒थि॒वी‌म्",
+          "pada_kn": "ಪೃಥಿವೀಮ್",
+          "meaning_en": "the Earth",
+          "meaning_kn": "ಪೃಥ್ವಿಯನ್ನು / ಭೂಮಿಯನ್ನು"
+        },
+        {
+          "pada_original": "मा॒तर᳚‌म्",
+          "pada_kn": "ಮಾತರಮ್",
+          "meaning_en": "the Mother",
+          "meaning_kn": "ಮಾತೆಯನ್ನು / ತಾಯಿಯನ್ನು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "wide / apart",
+          "meaning_kn": "ವಿಸ್ತಾರವಾಗಿ / ಅಗಲವಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O Indra and Soma, you cause the Dawn to appear, and lead the Sun upwards together with its light. You two support the heavens with a pillar and have spread out the Mother Earth wide.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ ಮತ್ತು ಸೋಮರೇ, ನೀವು ಉಷಾ ದೇವಿಯನ್ನು ಪ್ರಕಟಿಸುವಂತೆ ಮಾಡುತ್ತೀರಿ, ಮತ್ತು ಸೂರ್ಯನನ್ನು ಅವನ ಬೆಳಕಿನೊಂದಿಗೆ ಮೇಲಕ್ಕೆ ಕರೆದೊಯ್ಯುತ್ತೀರಿ. ನೀವು ಇಬ್ಬರೂ ಆಕಾಶವನ್ನು ಒಂದು ಸ್ತಂಭದಿಂದ ಬೆಂಬಲಿಸುತ್ತೀರಿ ಮತ್ತು ತಾಯಿ ಭೂಮಿಯನ್ನು ವಿಸ್ತಾರವಾಗಿ ಹರಡಿದ್ದೀರಿ.",
+      "rig_time_s": 15.835,
+      "Insight_en": "Indra and Soma represent the divine will and ecstatic consciousness that propel creation. The appearance of Dawn symbolizes the awakening of inner illumination, while raising the Sun signifies the ascent of consciousness. Supporting the heavens indicates the upholding of dharma, and spreading the Earth represents the manifestation of potentiality.",
+      "Insight_kn": "ಇಂದ್ರ ಮತ್ತು ಸೋಮರು ದೈವಿಕ ಇಚ್ಛಾಶಕ್ತಿ ಮತ್ತು ಆನಂದಮಯ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಅದು ಸೃಷ್ಟಿಯನ್ನು ಮುನ್ನಡೆಸುತ್ತದೆ. ಉಷಾ ದೇವಿಯ ನೋಟವು ಆಂತರಿಕ ಪ್ರಕಾಶದ ಜಾಗೃತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಸೂರ್ಯನನ್ನು ಎತ್ತುವುದು ಪ್ರಜ್ಞೆಯ ಏರಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸ್ವರ್ಗವನ್ನು ಬೆಂಬಲಿಸುವುದು ಧರ್ಮವನ್ನು ಎತ್ತಿಹಿಡಿಯುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಮತ್ತು ಭೂಮಿಯನ್ನು ಹರಡುವುದು ಸಂಭಾವ್ಯತೆಯ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S72_75-3_5",
+      "mandala": 6,
+      "sukta": 72,
+      "ric_index": 3,
+      "rig_lines": [
+        "इन्द्रा᳚सोमा॒वहि॑म॒पः प॑रि॒ष्ठां ह॒थो वृ॒त्रमनु॑ वां॒ द्यौर॑मन्यत |",
+        "प्रार्णां᳚स्यैरयतं न॒दीना॒मा स॑मु॒द्राणि॑ पप्रथुः पु॒रूणि॑ ||"
+      ],
+      "pre_splits": [
+        "इन्द्रा᳚सोमौ",
+        "अहि᳚‌म्",
+        "अ॒पः",
+        "प॒रि॒ऽस्था‌म्",
+        "ह॒थः",
+        "वृ॒त्र‌म्",
+        "अनु॑",
+        "वा॒‌म्",
+        "द्यौः",
+        "अ॒म॒न्य॒त॒",
+        "प्र",
+        "अर्णां᳚सि",
+        "ऐ॒र॒य॒त॒‌म्",
+        "न॒दीना᳚‌म्",
+        "आ",
+        "स॒मु॒द्राणि॑",
+        "प॒प्र॒थुः॒",
+        "पु॒रूणि॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इन्द्रा᳚सोमौ",
+          "pada_kn": "ಇಂದ್ರಾಸೋಮೌ",
+          "meaning_en": "O Indra and Soma",
+          "meaning_kn": "ಓ ಇಂದ್ರ ಮತ್ತು ಸೋಮ"
+        },
+        {
+          "pada_original": "अहि᳚‌म्",
+          "pada_kn": "ಅಹಿಮ್",
+          "meaning_en": "the serpent (Vritra)",
+          "meaning_kn": "ಸರ್ಪವನ್ನು (ವೃತ್ರನನ್ನು)"
+        },
+        {
+          "pada_original": "अ॒पः",
+          "pada_kn": "ಅಪಃ",
+          "meaning_en": "the waters",
+          "meaning_kn": "ನೀರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "प॒रि॒ऽस्था‌म्",
+          "pada_kn": "ಪರಿಷ್ಠಾಮ್",
+          "meaning_en": "obstructing / encompassing",
+          "meaning_kn": "ತಡೆಹಿಡಿದಿದ್ದ / ಸುತ್ತುವರಿದಿದ್ದ"
+        },
+        {
+          "pada_original": "ह॒थः",
+          "pada_kn": "ಹಥಃ",
+          "meaning_en": "you two killed",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರೂ ಕೊಂದಿರಿ"
+        },
+        {
+          "pada_original": "वृ॒त्र‌म्",
+          "pada_kn": "ವೃತ್ರಮ್",
+          "meaning_en": "Vritra (the obstructor)",
+          "meaning_kn": "ವೃತ್ರನನ್ನು (ತಡೆಯುವವನನ್ನು)"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "following / in approval of",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಅನುಮೋದಿಸಿ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು"
+        },
+        {
+          "pada_original": "द्यौः",
+          "pada_kn": "ದ್ಯೌಃ",
+          "meaning_en": "Heaven / the Sky",
+          "meaning_kn": "ದ್ಯುಲೋಕವು / ಆಕಾಶವು"
+        },
+        {
+          "pada_original": "अ॒म॒न्य॒त॒",
+          "pada_kn": "ಅಮನ್ಯತ",
+          "meaning_en": "approved / consented",
+          "meaning_kn": "ಅನುಮೋದಿಸಿತು / ಒಪ್ಪಿಕೊಂಡಿತು"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಮುಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "अर्णां᳚सि",
+          "pada_kn": "ಅರ್ಣಾಂಸಿ",
+          "meaning_en": "the floods / waters",
+          "meaning_kn": "ಪ್ರವಾಹಗಳನ್ನು / ಜಲರಾಶಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "ऐ॒र॒य॒त॒‌म्",
+          "pada_kn": "ಐರಯತಮ್",
+          "meaning_en": "you two caused to flow",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರೂ ಹರಿಯುವಂತೆ ಮಾಡಿದಿರಿ"
+        },
+        {
+          "pada_original": "न॒दीना᳚‌म्",
+          "pada_kn": "ನದೀನಾಮ್",
+          "meaning_en": "of the rivers",
+          "meaning_kn": "ನದಿಗಳ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(preverb) spread out / filled",
+          "meaning_kn": "(ಉಪಸರ್ಗ) ವಿಸ್ತರಿಸಿದಿರಿ / ತುಂಬಿದಿರಿ"
+        },
+        {
+          "pada_original": "स॒मु॒द्राणि॑",
+          "pada_kn": "ಸಮುದ್ರಾಣಿ",
+          "meaning_en": "the oceans",
+          "meaning_kn": "ಸಮುದ್ರಗಳನ್ನು"
+        },
+        {
+          "pada_original": "प॒प्र॒थुः॒",
+          "pada_kn": "ಪಪ್ರಥುಃ",
+          "meaning_en": "you two spread out / widened",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರೂ ವಿಸ್ತರಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "पु॒रूणि॑",
+          "pada_kn": "ಪುರೂಣಿ",
+          "meaning_en": "many / vast",
+          "meaning_kn": "ಅನೇಕ / ವಿಶಾಲವಾದ"
+        }
+      ],
+      "full_meaning_en": "O Indra and Soma, you two slew the serpent Vritra, who had confined the waters. The heavens themselves rejoiced in your victory. You unleashed the currents of the rivers, and spread forth the vast oceans across the lands.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ ಮತ್ತು ಸೋಮರೇ, ನೀವು ವೃತ್ರನೆಂಬ ಸರ್ಪವನ್ನು ಕೊಂದಿರಿ, ಅವನು ನೀರನ್ನು ಬಂಧಿಸಿದ್ದನು. ನಿಮ್ಮ ವಿಜಯವನ್ನು ಸ್ವರ್ಗವೇ ಕೊಂಡಾಡಿತು. ನೀವು ನದಿಗಳ ಪ್ರವಾಹವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದಿರಿ, ಮತ್ತು ವಿಶಾಲವಾದ ಸಾಗರಗಳನ್ನು ಭೂಮಿಯ ಮೇಲೆ ಹರಡಿದಿರಿ.",
+      "rig_time_s": 31.142,
+      "Insight_en": "The slaying of Vritra represents the removal of inner obstacles that block the flow of consciousness (चित्त). Indra and Soma, representing intellect (बुद्धि) and divine bliss (आनन्द), respectively, work together to liberate the waters of intuition and expansive awareness, symbolized by the unleashed rivers and oceans within.",
+      "Insight_kn": "ವೃತ್ರನ ವಧವು ಅರಿವಿನ ಹರಿವನ್ನು (ಚಿತ್ತ) ತಡೆಯುವ ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇಂದ್ರ ಮತ್ತು ಸೋಮರು, ಕ್ರಮವಾಗಿ ಬುದ್ಧಿ ಮತ್ತು ದೈವಿಕ ಆನಂದವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡಿ ಅಂತಃಪ್ರಜ್ಞೆ ಮತ್ತು ವಿಸ್ತಾರವಾದ ಅರಿವಿನ ನೀರನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತಾರೆ, ಇದು ನದಿಗಳು ಮತ್ತು ಸಾಗರಗಳಿಂದ ಸಂಕೇತಿಸಲ್ಪಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S72_75-4_5",
+      "mandala": 6,
+      "sukta": 72,
+      "ric_index": 4,
+      "rig_lines": [
+        "इन्द्रा᳚सोमा प॒क्वमा॒मास्व॒न्तर्नि गवा॒मिद्‌ द॑धथुर्व॒क्षणा᳚सु |",
+        "ज॒गृ॒भथु॒रन॑पिनद्धमासु॒ रुश॑च्चि॒त्रासु॒ जग॑तीष्व॒न्तः ||"
+      ],
+      "pre_splits": [
+        "इन्द्रा᳚सोमा",
+        "प॒क्व‌म्",
+        "आ॒मासु॑",
+        "अ॒न्तः",
+        "नि",
+        "गवा᳚‌म्",
+        "इत्",
+        "द॒ध॒थुः॒",
+        "व॒क्षणा᳚सु",
+        "ज॒गृ॒भथुः॑",
+        "अन॑पिऽनद्ध‌म्",
+        "आ॒सु॒",
+        "रुश॑त्",
+        "चि॒त्रासु॑",
+        "जग॑तीषु",
+        "अ॒न्तरिति॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इन्द्रा᳚सोमा",
+          "pada_kn": "ಇಂದ್ರಾಸೋಮಾ",
+          "meaning_en": "O Indra-Soma",
+          "meaning_kn": "ಓ ಇಂದ್ರ-ಸೋಮರೇ"
+        },
+        {
+          "pada_original": "प॒क्व‌म्",
+          "pada_kn": "ಪಕ್ವಮ್",
+          "meaning_en": "the cooked (milk)",
+          "meaning_kn": "ಪಕ್ವವಾದ (ಹಾಲನ್ನು)"
+        },
+        {
+          "pada_original": "आ॒मासु॑",
+          "pada_kn": "ಆಮಾಸು",
+          "meaning_en": "in the raw (cows)",
+          "meaning_kn": "ಅಪಕ್ವವಾದ (ಹಸುಗಳಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "अ॒न्तः",
+          "pada_kn": "ಅಂತಃ",
+          "meaning_en": "within",
+          "meaning_kn": "ಒಳಗೆ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / into (preverb)",
+          "meaning_kn": "(ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "गवा᳚‌म्",
+          "pada_kn": "ಗವಾಮ್",
+          "meaning_en": "of the cows",
+          "meaning_kn": "ಗೋವುಗಳ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed",
+          "meaning_kn": "ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "द॒ध॒थुः॒",
+          "pada_kn": "ದಧಥುಃ",
+          "meaning_en": "you two placed",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಇರಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "व॒क्षणा᳚सु",
+          "pada_kn": "ವಕ್ಷಣಾಸು",
+          "meaning_en": "in the udders",
+          "meaning_kn": "ಕೆಚ್ಚಲುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ज॒गृ॒भथुः॑",
+          "pada_kn": "ಜಗೃಭಥುಃ",
+          "meaning_en": "you two seized",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಗ್ರಹಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "अन॑पिऽनद्ध‌म्",
+          "pada_kn": "ಅನಪಿನದ್ಧಮ್",
+          "meaning_en": "the unconcealed / uncovered",
+          "meaning_kn": "ಮುಚ್ಚಲ್ಪಡದ / ಅಡಗಿಸಲ್ಪಡದ"
+        },
+        {
+          "pada_original": "आ॒सु॒",
+          "pada_kn": "ಆಸು",
+          "meaning_en": "in these",
+          "meaning_kn": "ಇವುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "रुश॑त्",
+          "pada_kn": "ರುಶತ್",
+          "meaning_en": "the shining / brilliant",
+          "meaning_kn": "ಹೊಳೆಯುವ / ಪ್ರಕಾಶಮಾನವಾದ"
+        },
+        {
+          "pada_original": "चि॒त्रासु॑",
+          "pada_kn": "ಚಿತ್ರಾಸು",
+          "meaning_en": "in the variegated (cows)",
+          "meaning_kn": "ವಿವಿಧ ಬಣ್ಣಗಳ (ಹಸುಗಳಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "जग॑तीषु",
+          "pada_kn": "ಜಗತೀಷು",
+          "meaning_en": "in the moving ones (cows)",
+          "meaning_kn": "ಚಲಿಸುವ (ಹಸುಗಳಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "अ॒न्तरिति॑",
+          "pada_kn": "ಅಂತರಿತಿ",
+          "meaning_en": "within",
+          "meaning_kn": "ಒಳಗೆ"
+        }
+      ],
+      "full_meaning_en": "O Indra and Soma, within the raw (cows), you have placed the ripened (milk); verily, in the udders of the cows. You have seized the shining, unconcealed (milk) within these bright and moving beings.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ ಮತ್ತು ಸೋಮ, ನೀವು ಹಸಿ ಹಸುಗಳಲ್ಲಿ, ಹಣ್ಣಾದ (ಹಾಲನ್ನು) ಇರಿಸಿದ್ದೀರಿ; ಖಂಡಿತವಾಗಿಯೂ ಹಸುಗಳ ಕೆಚ್ಚಲುಗಳಲ್ಲಿ. ನೀವು ಪ್ರಕಾಶಮಾನವಾದ, ಮರೆಯಾಗಿರದ (ಹಾಲನ್ನು) ಈ ಪ್ರಕಾಶಮಾನವಾದ ಮತ್ತು ಚಲಿಸುವ ಜೀವಿಗಳಲ್ಲಿ ಹಿಡಿದಿದ್ದೀರಿ.",
+      "rig_time_s": 46.58,
+      "Insight_en": "The raw (अमा) signifies the unmanifested potential within. The cooked (पक्व) represents the realized, manifest state. Indra and Soma embody the divine forces that transform potential into actuality within creation, drawing forth illumination (रुशत्) from the depths of existence. This process occurs within the ever-changing (जगतीषु) fabric of reality.",
+      "Insight_kn": "ಹಸಿ (ಅಮಾ) ಒಳಗಿರುವ ವ್ಯಕ್ತವಾಗದ ಸಾಮರ್ಥ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಬೇಯಿಸಿದ (ಪಕ್ವ) ಸಾಕ್ಷಾತ್ಕಾರಗೊಂಡ, ವ್ಯಕ್ತ ಸ್ಥಿತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇಂದ್ರ ಮತ್ತು ಸೋಮರು ಸೃಷ್ಟಿಯಲ್ಲಿನ ಸಾಮರ್ಥ್ಯವನ್ನು ವಾಸ್ತವಕ್ಕೆ ಪರಿವರ್ತಿಸುವ ದೈವಿಕ ಶಕ್ತಿಗಳನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾರೆ, ಅಸ್ತಿತ್ವದ ಆಳದಿಂದ ಪ್ರಕಾಶವನ್ನು (ರುಶತ್) ಹೊರತೆಗೆಯುತ್ತಾರೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಸದಾ ಬದಲಾಗುತ್ತಿರುವ (ಜಗತೀಷು) ವಾಸ್ತವದ ಬಟ್ಟೆಯೊಳಗೆ ನಡೆಯುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S72_75-5_5",
+      "mandala": 6,
+      "sukta": 72,
+      "ric_index": 5,
+      "rig_lines": [
+        "इन्द्रा᳚सोमा यु॒वम॒ङ्ग तरु॑त्रमपत्य॒साचं॒ श्रुत्यं᳚ रराथे |",
+        "यु॒वं शुष्मं॒ नर्यं᳚ चर्ष॒णिभ्यः॒ सं वि᳚व्यथुः पृतना॒षाह॑मुग्रा ||"
+      ],
+      "pre_splits": [
+        "इन्द्रा᳚सोमा",
+        "यु॒व‌म्",
+        "अ॒ङ्ग",
+        "तरु॑त्र‌म्",
+        "अ॒प॒त्य॒ऽसाच᳚‌म्",
+        "श्रुत्य᳚‌म्",
+        "र॒रा॒थे॒ इति॑",
+        "यु॒व‌म्",
+        "शुष्म᳚‌म्",
+        "नर्य᳚‌म्",
+        "च॒र्ष॒णिऽभ्यः॑",
+        "स‌म्",
+        "वि॒व्य॒थुः॒",
+        "पृ॒त॒ना॒ऽसह᳚‌म्",
+        "उ॒ग्रा॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इन्द्रा᳚सोमा",
+          "pada_kn": "ಇಂದ್ರಾಸೋಮಾ",
+          "meaning_en": "O Indra-Soma",
+          "meaning_kn": "ಓ ಇಂದ್ರ-ಸೋಮರೇ"
+        },
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನೀವಿಬ್ಬರು"
+        },
+        {
+          "pada_original": "अ॒ङ्ग",
+          "pada_kn": "ಅಂಗ",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "तरु॑त्र‌म्",
+          "pada_kn": "ತರುತ್ರಮ್",
+          "meaning_en": "saving / protecting (wealth)",
+          "meaning_kn": "ರಕ್ಷಿಸುವ / ಪಾರುಮಾಡುವ (ಧನವನ್ನು)"
+        },
+        {
+          "pada_original": "अ॒प॒त्य॒ऽसाच᳚‌म्",
+          "pada_kn": "ಅಪತ್ಯಸಾಚಮ್",
+          "meaning_en": "accompanied by offspring",
+          "meaning_kn": "ಸಂತಾನ ಸಹಿತವಾದ"
+        },
+        {
+          "pada_original": "श्रुत्य᳚‌म्",
+          "pada_kn": "ಶ್ರುತ್ಯಮ್",
+          "meaning_en": "renowned / famous",
+          "meaning_kn": "ಪ್ರಸಿದ್ಧವಾದ"
+        },
+        {
+          "pada_original": "र॒रा॒थे॒ इति॑",
+          "pada_kn": "ರರಾಥೇ ಇತಿ",
+          "meaning_en": "you two have granted",
+          "meaning_kn": "ನೀವಿಬ್ಬರು ದಯಪಾಲಿಸಿದ್ದೀರಿ"
+        },
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನೀವಿಬ್ಬರು"
+        },
+        {
+          "pada_original": "शुष्म᳚‌म्",
+          "pada_kn": "ಶುಷ್ಮಮ್",
+          "meaning_en": "strength / power",
+          "meaning_kn": "ಬಲವನ್ನು / ಶಕ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "नर्य᳚‌म्",
+          "pada_kn": "ನರ್ಯಮ್",
+          "meaning_en": "manly / heroic",
+          "meaning_kn": "ವೀರಯೋಗ್ಯವಾದ / ಪೌರುಷಯುಕ್ತವಾದ"
+        },
+        {
+          "pada_original": "च॒र्ष॒णिऽभ्यः॑",
+          "pada_kn": "ಚರ್ಷಣಿಭ್ಯಃ",
+          "meaning_en": "for the people / for men",
+          "meaning_kn": "ಜನರಿಗಾಗಿ / ಮನುಷ್ಯರಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / completely",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "वि॒व्य॒थुः॒",
+          "pada_kn": "ವಿವ್ಯಥುಃ",
+          "meaning_en": "you two have distributed / arranged",
+          "meaning_kn": "ನೀವಿಬ್ಬರು ಹಂಚಿದ್ದೀರಿ / ವ್ಯವಸ್ಥೆ ಮಾಡಿದ್ದೀರಿ"
+        },
+        {
+          "pada_original": "पृ॒त॒ना॒ऽसह᳚‌म्",
+          "pada_kn": "ಪೃತನಾಸಹಮ್",
+          "meaning_en": "army-conquering / battle-winning",
+          "meaning_kn": "ಸೇನೆಗಳನ್ನು ಜಯಿಸುವ"
+        },
+        {
+          "pada_original": "उ॒ग्रा॒",
+          "pada_kn": "ಉಗ್ರಾ",
+          "meaning_en": "O mighty ones / O fierce ones",
+          "meaning_kn": "ಓ ಉಗ್ರರಾದವರೇ / ಓ ಶಕ್ತಿಶಾಲಿಗಳೇ"
+        }
+      ],
+      "full_meaning_en": "O Indra and Soma, you two have verily granted us saving wealth, blessed with progeny, and celebrated in song. O mighty ones, you have distributed to the people virile strength, conquering in battles, and inspiring dread in foes.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ ಮತ್ತು ಸೋಮರೇ, ನೀವು ಖಂಡಿತವಾಗಿಯೂ ರಕ್ಷಿಸುವ ಸಂಪತ್ತನ್ನು ದಯಪಾಲಿಸಿದ್ದೀರಿ, ಸಂತತಿಯಿಂದ ಆಶೀರ್ವದಿಸಲ್ಪಟ್ಟಿದೆ ಮತ್ತು ಹಾಡಿನಲ್ಲಿ ಆಚರಿಸಲ್ಪಡುತ್ತದೆ. ಓ ಪರಾಕ್ರಮಶಾಲಿಗಳೇ, ನೀವು ಜನರಿಗೆ ಪುರುಷತ್ವದ ಬಲವನ್ನು ಹಂಚಿದ್ದೀರಿ, ಯುದ್ಧಗಳಲ್ಲಿ ಜಯಿಸುತ್ತೀರಿ ಮತ್ತು ಶತ್ರುಗಳಲ್ಲಿ ಭಯವನ್ನುಂಟುಮಾಡುತ್ತೀರಿ.",
+      "rig_time_s": 60.635,
+      "Insight_en": "Indra and Soma represent the divine will (इच्छाशक्ति) and divine knowledge (ज्ञानशक्ति). The 'saving wealth' is not merely material but the inner treasure of spiritual wisdom and strength. The progeny symbolizes the continuous unfolding of creative potential, while the 'virile strength' signifies the power to overcome inner obstacles and external adversaries on the spiritual path. This mantra suggests that true victory lies not just in conquering battles but in mastering one's inner self.",
+      "Insight_kn": "ಇಂದ್ರ ಮತ್ತು ಸೋಮರು ದೈವಿಕ ಇಚ್ಛಾಶಕ್ತಿ (ಇಚ್ಛಾಶಕ್ತಿ) ಮತ್ತು ದೈವಿಕ ಜ್ಞಾನವನ್ನು (ಜ್ಞಾನಶಕ್ತಿ) ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. 'ಉಳಿಸುವ ಸಂಪತ್ತು' ಕೇವಲ ಭೌತಿಕವಾದುದಲ್ಲ, ಆದರೆ ಆಧ್ಯಾತ್ಮಿಕ ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ಶಕ್ತಿಯ ಆಂತರಿಕ ನಿಧಿಯಾಗಿದೆ. ಸಂತತಿಯು ಸೃಜನಶೀಲ ಸಾಮರ್ಥ್ಯದ ನಿರಂತರ ತೆರೆದುಕೊಳ್ಳುವಿಕೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಆದರೆ 'ಪುರುಷತ್ವದ ಬಲ' ಆಧ್ಯಾತ್ಮಿಕ ಮಾರ್ಗದಲ್ಲಿ ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು ಮತ್ತು ಬಾಹ್ಯ ವಿರೋಧಿಗಳನ್ನು ಜಯಿಸುವ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ನಿಜವಾದ ವಿಜಯವು ಕೇವಲ ಯುದ್ಧಗಳನ್ನು ಗೆಲ್ಲುವುದರಲ್ಲಿಲ್ಲ, ಆದರೆ ಒಬ್ಬರ ಒಳಗಿನ ಆತ್ಮವನ್ನು ಮಾಸ್ಟರಿಂಗ್ ಮಾಡುವುದರಲ್ಲಿದೆ ಎಂದು ಈ ಮಂತ್ರವು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

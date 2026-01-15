@@ -1,0 +1,986 @@
+{
+  "mandala": 3,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M3-S61_62-1_7",
+      "mandala": 3,
+      "sukta": 61,
+      "ric_index": 1,
+      "rig_lines": [
+        "उषो॒ वाजे᳚न वाजिनि॒ प्रचे᳚ताः॒ स्तोमं᳚ जुषस्व गृण॒तो म॑घोनि |",
+        "पु॒रा॒णी दे᳚वि युव॒तिः पुरं᳚धि॒रनु᳚ व्र॒तं च॑रसि विश्ववारे ||"
+      ],
+      "pre_splits": [
+        "उषः॑",
+        "वाजे᳚न",
+        "वा॒जि॒नि॒",
+        "प्रऽचे᳚ताः",
+        "स्तोम᳚‌म्",
+        "जु॒ष॒स्व॒",
+        "गृ॒ण॒तः",
+        "म॒घो॒नि॒",
+        "पु॒रा॒णी",
+        "दे॒वि॒",
+        "यु॒व॒तिः",
+        "पुर᳚‌म्ऽधिः",
+        "अनु॑",
+        "व्र॒त‌म्",
+        "च॒र॒सि॒",
+        "वि॒श्व॒ऽवा॒रे॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उषः॑",
+          "pada_kn": "ಉಷಃ",
+          "meaning_en": "O Dawn",
+          "meaning_kn": "ಎಲೆ ಉಷಸ್ಸು"
+        },
+        {
+          "pada_original": "वाजे᳚न",
+          "pada_kn": "ವಾಜೇನ",
+          "meaning_en": "with strength / with bounty",
+          "meaning_kn": "ಬಲದಿಂದ / ಸಂಪತ್ತಿನಿಂದ"
+        },
+        {
+          "pada_original": "वा॒जि॒नि॒",
+          "pada_kn": "ವಾಜಿನಿ",
+          "meaning_en": "O powerful one / O rich in bounty",
+          "meaning_kn": "ಎಲೆ ಬಲಶಾಲಿಯೇ / ಸಂಪತ್ತಿಯುಳ್ಳವಳೇ"
+        },
+        {
+          "pada_original": "प्रऽचे᳚ताः",
+          "pada_kn": "ಪ್ರಚೇತಾಃ",
+          "meaning_en": "O discerning one / O wise one",
+          "meaning_kn": "ಎಲೆ ವಿವೇಕಿಯೇ / ಉತ್ತಮ ಜ್ಞಾನವುಳ್ಳವಳೇ"
+        },
+        {
+          "pada_original": "स्तोम᳚‌म्",
+          "pada_kn": "ಸ್ತೋಮಮ್",
+          "meaning_en": "the hymn / praise",
+          "meaning_kn": "ಸ್ತೋತ್ರವನ್ನು / ಸ್ತುತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "जु॒ष॒स्व॒",
+          "pada_kn": "ಜುಷಸ್ವ",
+          "meaning_en": "accept / delight in",
+          "meaning_kn": "ಸ್ವೀಕರಿಸು / ಸಂತೋಷಿಸು"
+        },
+        {
+          "pada_original": "गृ॒ण॒तः",
+          "pada_kn": "ಗೃಣತಃ",
+          "meaning_en": "of the praiser / of the singer",
+          "meaning_kn": "ಸ್ತುತಿಸುವವನ / ಹಾಡುವವನ"
+        },
+        {
+          "pada_original": "म॒घो॒नि॒",
+          "pada_kn": "ಮಘೋನಿ",
+          "meaning_en": "O bountiful one / O wealthy one",
+          "meaning_kn": "ಎಲೆ ಸಂಪತ್ಭರಿತಳೇ / ಧನವಂತಳೇ"
+        },
+        {
+          "pada_original": "पु॒रा॒णी",
+          "pada_kn": "ಪುರಾಣೀ",
+          "meaning_en": "ancient / primeval",
+          "meaning_kn": "ಪುರಾತನಳಾದ / ಪ್ರಾಚೀನಳಾದ"
+        },
+        {
+          "pada_original": "दे॒वि॒",
+          "pada_kn": "ದೇವಿ",
+          "meaning_en": "O goddess",
+          "meaning_kn": "ಎಲೆ ದೇವಿಯೇ"
+        },
+        {
+          "pada_original": "यु॒व॒तिः",
+          "pada_kn": "ಯುವತಿಃ",
+          "meaning_en": "ever-young / youthful",
+          "meaning_kn": "ನಿತ್ಯಯುವತಿಯಾದ / ತರುಣಿಯಾದ"
+        },
+        {
+          "pada_original": "पुर᳚‌म्ऽधिः",
+          "pada_kn": "ಪುರಂಧಿಃ",
+          "meaning_en": "wise / intelligent / bountiful",
+          "meaning_kn": "ಬುದ್ಧಿವಂತಳಾದ / ಪ್ರಜ್ಞಾವಂತಳಾದ"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "according to / following",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಪ್ರಕಾರ"
+        },
+        {
+          "pada_original": "व्र॒त‌म्",
+          "pada_kn": "ವ್ರತಮ್",
+          "meaning_en": "the law / sacred duty",
+          "meaning_kn": "ನಿಯಮವನ್ನು / ವ್ರತವನ್ನು"
+        },
+        {
+          "pada_original": "च॒र॒सि॒",
+          "pada_kn": "ಚರಸಿ",
+          "meaning_en": "you move / you perform",
+          "meaning_kn": "ನೀನು ಚಲಿಸುತ್ತೀಯೆ / ನೀನು ನಿರ್ವಹಿಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "वि॒श्व॒ऽवा॒रे॒",
+          "pada_kn": "ವಿಶ್ವವಾರೇ",
+          "meaning_en": "O desired by all / O desired by everyone",
+          "meaning_kn": "ಎಲೆ ಎಲ್ಲರಿಂದಲೂ ಅಪೇಕ್ಷಿತಳೇ / ಎಲ್ಲರಿಂದಲೂ ವರಿಸಲ್ಪಟ್ಟವಳೇ"
+        }
+      ],
+      "full_meaning_en": "O Dawn, possessor of abundance and keen discernment, accept with power the hymn of your worshiper, O generous one. O ancient goddess, ever youthful, full of wisdom, and desired by all, you move according to your cosmic law.",
+      "full_meaning_kn": "ಓ ಉಷೆಯೇ, ಸಮೃದ್ಧಿಯ ಒಡತಿಯೇ ಮತ್ತು ತೀಕ್ಷ್ಣ ವಿವೇಚನೆಯುಳ್ಳವಳೇ, ನಿನ್ನನ್ನು ಪೂಜಿಸುವವನ ಸ್ತೋತ್ರವನ್ನು ಶಕ್ತಿಯಿಂದ ಸ್ವೀಕರಿಸು, ಓ ದಾನಿಯೇ. ಓ ಪುರಾತನ ದೇವಿಯೇ, ಸದಾ ಯೌವನಭರಿತಳೂ, ಬುದ್ಧಿವಂತಿಕೆಯುಳ್ಳವಳೂ, ಎಲ್ಲರಿಂದಲೂ ಅಪೇಕ್ಷಿಸಲ್ಪಡುವವಳೂ, ನೀನು ನಿನ್ನ ಕಾಸ್ಮಿಕ್ ನಿಯಮದ ಪ್ರಕಾರ ಚಲಿಸುತ್ತಿರುವೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The dawn (उषस्) represents the awakening of consciousness. It signifies the dispelling of ignorance and the arising of wisdom. The eternal youth of the goddess symbolizes the ever-renewing potential within us, urging us to continuously evolve and align with the cosmic order (व्रत). The hymn invites us to tap into this inner light and abundance.",
+      "Insight_kn": "ಉಷಸ್ (ಉಷಸ್) ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಾವಸ್ಥೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇದು ಅಜ್ಞಾನದ ನಿವಾರಣೆ ಮತ್ತು ಜ್ಞಾನೋದಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ದೇವಿಯ ಶಾಶ್ವತ ಯೌವನವು ನಮ್ಮೊಳಗಿನ ಸದಾ ನವೀಕರಿಸಲ್ಪಡುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ನಿರಂತರವಾಗಿ ವಿಕಸನಗೊಳ್ಳಲು ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಕ್ರಮದೊಂದಿಗೆ (ವ್ರತ) ಹೊಂದಾಣಿಕೆ ಮಾಡಲು ನಮ್ಮನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ಈ ಆಂತರಿಕ ಬೆಳಕು ಮತ್ತು ಸಮೃದ್ಧಿಯನ್ನು ಸ್ಪರ್ಶಿಸಲು ಸ್ತೋತ್ರವು ನಮ್ಮನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S61_62-2_7",
+      "mandala": 3,
+      "sukta": 61,
+      "ric_index": 2,
+      "rig_lines": [
+        "उषो᳚ दे॒व्यम॑र्त्या॒ वि भा᳚हि च॒न्द्रर॑था सू॒नृता᳚, ई॒रय᳚न्ती |",
+        "आ त्वा᳚ वहन्तु सु॒यमा᳚सो॒, अश्वा॒ हिर᳚ण्यवर्णां पृथु॒पाज॑सो॒ ये ||"
+      ],
+      "pre_splits": [
+        "उषः॑",
+        "दे॒वि॒",
+        "अम॑र्त्या",
+        "वि",
+        "भा॒हि॒",
+        "च॒न्द्रऽर॑था",
+        "सू॒नृताः᳚",
+        "ई॒रय᳚न्ती",
+        "आ",
+        "त्वा॒",
+        "व॒ह॒न्तु॒",
+        "सु॒ऽयमा᳚सः",
+        "अश्वाः᳚",
+        "हिर᳚ण्यऽवर्णा‌म्",
+        "पृ॒थु॒ऽपाज॑सः",
+        "ये"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उषः॑",
+          "pada_kn": "ಉಷಃ",
+          "meaning_en": "O Dawn",
+          "meaning_kn": "ಓ ಉಷಸ್ಸೇ / ಪ್ರಭಾತವೇ"
+        },
+        {
+          "pada_original": "दे॒वि॒",
+          "pada_kn": "ದೇವಿ",
+          "meaning_en": "O divine one / O goddess",
+          "meaning_kn": "ದೇವಿಯೇ / ದಿವ್ಯಳೇ"
+        },
+        {
+          "pada_original": "अम॑र्त्या",
+          "pada_kn": "ಅಮರ್ತ್ಯಾ",
+          "meaning_en": "O immortal one",
+          "meaning_kn": "ಅಮರಳೇ / ಸಾವಿಲ್ಲದವಳೇ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "forth / widely",
+          "meaning_kn": "ಹೊರಗೆ / ವಿಶಾಲವಾಗಿ"
+        },
+        {
+          "pada_original": "भा॒हि॒",
+          "pada_kn": "ಭಾಹಿ",
+          "meaning_en": "shine",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸು / ಹೊಳೆ"
+        },
+        {
+          "pada_original": "च॒न्द्रऽर॑था",
+          "pada_kn": "ಚಂದ್ರರಥಾ",
+          "meaning_en": "having a brilliant chariot",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ ರಥವುಳ್ಳವಳೇ / ಬೆಳ್ಳಿಯ ರಥವುಳ್ಳವಳೇ"
+        },
+        {
+          "pada_original": "सू॒नृताः᳚",
+          "pada_kn": "ಸೂನೃತಾಃ",
+          "meaning_en": "bringing truth and pleasantness",
+          "meaning_kn": "ಸತ್ಯ ಮತ್ತು ಪ್ರಿಯವಾದುದನ್ನು ತರುವವಳೇ / ಸುಂದರವಾಕ್ಯವುಳ್ಳವಳೇ"
+        },
+        {
+          "pada_original": "ई॒रय᳚न्ती",
+          "pada_kn": "ಈರಯಂತೀ",
+          "meaning_en": "awakening / rousing (all beings)",
+          "meaning_kn": "ಜಾಗೃತಗೊಳಿಸುತ್ತಾ / ಪ್ರಚೋದಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / towards",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "व॒ह॒न्तु॒",
+          "pada_kn": "ವಹಂತು",
+          "meaning_en": "may carry",
+          "meaning_kn": "ಹೊತ್ತು ತರಲಿ / ಸಾಗಿಸಲಿ"
+        },
+        {
+          "pada_original": "सु॒ऽयमा᳚सः",
+          "pada_kn": "ಸುಯಮಾಸಃ",
+          "meaning_en": "well-controlled / easily guided",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ ನಿಯಂತ್ರಿಸಲ್ಪಟ್ಟ / ಸುಲಭವಾಗಿ ನಡೆಸಲ್ಪಡುವ"
+        },
+        {
+          "pada_original": "अश्वाः᳚",
+          "pada_kn": "ಅಶ್ವಾಃ",
+          "meaning_en": "horses",
+          "meaning_kn": "ಕುದುರೆಗಳು"
+        },
+        {
+          "pada_original": "हिर᳚ण्यऽवर्णा‌म्",
+          "pada_kn": "ಹಿರಣ್ಯವರ್ಣಾಮ್",
+          "meaning_en": "golden-hued (you)",
+          "meaning_kn": "ಸುವರ್ಣವರ್ಣದವಳಾದ (ನಿನ್ನನ್ನು) / ಚಿನ್ನದ ಬಣ್ಣದವಳಾದ (ನಿನ್ನನ್ನು)"
+        },
+        {
+          "pada_original": "पृ॒थु॒ऽपाज॑सः",
+          "pada_kn": "ಪೃಥುಪಾಜಸಃ",
+          "meaning_en": "having wide strength / mighty",
+          "meaning_kn": "ವಿಶಾಲವಾದ ಶಕ್ತಿಯುಳ್ಳ / ಮಹಾಬಲಶಾಲಿಗಳಾದ"
+        },
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾವ"
+        }
+      ],
+      "full_meaning_en": "O divine and immortal Ushas, dawn, shine forth widely with your radiant chariot, awakening truth and joy. May the well-guided, golden-hued, and powerful horses bring you here.",
+      "full_meaning_kn": "ಓ ದಿವ್ಯ ಮತ್ತು ಅಮರ ಉಷಾ, ಪ್ರಭಾತ, ನಿನ್ನ ತೇಜೋಮಯ ರಥದೊಂದಿಗೆ ಪ್ರಕಾಶಿಸು, ಸತ್ಯ ಮತ್ತು ಆನಂದವನ್ನು ಜಾಗೃತಗೊಳಿಸು. ಸುವ್ಯವಸ್ಥಿತ, ಸುವರ್ಣ ವರ್ಣದ, ಮತ್ತು ಶಕ್ತಿಯುತ ಅಶ್ವಗಳು ನಿನ್ನನ್ನು ಇಲ್ಲಿಗೆ ತರಲಿ.",
+      "rig_time_s": 14.21,
+      "Insight_en": "Ushas represents the dawn of consciousness. The golden horses symbolize the vital energies that carry us towards enlightenment. The chariot signifies the vehicle of our awareness, bringing forth truth and joy from the depths of ignorance. The 'well-guided' horses mean a disciplined mind.",
+      "Insight_kn": "ಉಷಾ ಪ್ರಜ್ಞೆಯ ಉದಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾಳೆ. ಸುವರ್ಣ ಅಶ್ವಗಳು ಜ್ಞಾನೋದಯದ ಕಡೆಗೆ ನಮ್ಮನ್ನು ಕೊಂಡೊಯ್ಯುವ ಪ್ರಮುಖ ಶಕ್ತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ರಥವು ನಮ್ಮ ಅರಿವಿನ ವಾಹನವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಜ್ಞಾನದ ಆಳದಿಂದ ಸತ್ಯ ಮತ್ತು ಆನಂದವನ್ನು ತರುತ್ತದೆ. 'ಸುವ್ಯವಸ್ಥಿತ' ಅಶ್ವಗಳು ಶಿಸ್ತುಬದ್ಧ ಮನಸ್ಸನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S61_62-3_7",
+      "mandala": 3,
+      "sukta": 61,
+      "ric_index": 3,
+      "rig_lines": [
+        "उषः॑ प्रती॒ची भुव॑नानि॒ विश्वो॒र्ध्वा ति॑ष्ठस्य॒मृत॑स्य के॒तुः |",
+        "स॒मा॒नमर्थं᳚ चरणी॒यमा᳚ना च॒क्रमि॑व नव्य॒स्या व॑वृत्स्व ||"
+      ],
+      "pre_splits": [
+        "उषः॑",
+        "प्र॒ती॒ची",
+        "भुव॑नानि",
+        "विश्वा᳚",
+        "ऊ॒र्ध्वा",
+        "ति॒ष्ठ॒सि॒",
+        "अ॒मृत॑स्य",
+        "के॒तुः",
+        "स॒मा॒न‌म्",
+        "अर्थ᳚‌म्",
+        "च॒र॒णी॒यमा᳚ना",
+        "च॒क्र‌म्ऽ‌इ᳚व",
+        "न॒व्य॒सि॒",
+        "आ",
+        "व॒वृ॒त्स्व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उषः॑",
+          "pada_kn": "ಉಷಃ",
+          "meaning_en": "O Dawn!",
+          "meaning_kn": "ಓ ಉಷಸ್ಸೇ!"
+        },
+        {
+          "pada_original": "प्र॒ती॒ची",
+          "pada_kn": "ಪ್ರತೀಚೀ",
+          "meaning_en": "facing towards",
+          "meaning_kn": "ಅಭಿಮುಖವಾಗಿ"
+        },
+        {
+          "pada_original": "भुव॑नानि",
+          "pada_kn": "ಭುವನಾನಿ",
+          "meaning_en": "worlds / beings",
+          "meaning_kn": "ಲೋಕಗಳನ್ನು / ಪ್ರಾಣಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "ऊ॒र्ध्वा",
+          "pada_kn": "ಊರ್ಧ್ವಾ",
+          "meaning_en": "uplifted / high",
+          "meaning_kn": "ಉನ್ನತವಾಗಿ / ಮೇಲಕ್ಕೆ"
+        },
+        {
+          "pada_original": "ति॒ष्ठ॒सि॒",
+          "pada_kn": "ತಿಷ್ಠಸಿ",
+          "meaning_en": "you stand / you remain",
+          "meaning_kn": "ನೀನು ನಿಲ್ಲುತ್ತೀಯೆ / ಇರುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "अ॒मृत॑स्य",
+          "pada_kn": "ಅಮೃತಸ್ಯ",
+          "meaning_en": "of immortality / of the immortal (gods)",
+          "meaning_kn": "ಅಮೃತತ್ವದ / ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "के॒तुः",
+          "pada_kn": "ಕೇತುಃ",
+          "meaning_en": "banner / sign",
+          "meaning_kn": "ಧ್ವಜ / ಸಂಕೇತ"
+        },
+        {
+          "pada_original": "स॒मा॒न‌म्",
+          "pada_kn": "ಸಮಾನಮ್",
+          "meaning_en": "common / same",
+          "meaning_kn": "ಸಾಮಾನ್ಯವಾದ / ಒಂದೇ ಆದ"
+        },
+        {
+          "pada_original": "अर्थ᳚‌म्",
+          "pada_kn": "ಅರ್ಥಮ್",
+          "meaning_en": "purpose / goal",
+          "meaning_kn": "ಪ್ರಯೋಜನವನ್ನು / ಗುರಿಯನ್ನು"
+        },
+        {
+          "pada_original": "च॒र॒णी॒यमा᳚ना",
+          "pada_kn": "ಚರಣೀಯಮಾನಾ",
+          "meaning_en": "being traversed / being moved (by all)",
+          "meaning_kn": "ಸಂಚರಿಸಲ್ಪಡುತ್ತಾ / ಚಲಿಸಲ್ಪಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "च॒क्र‌म्ऽ‌इ᳚व",
+          "pada_kn": "ಚಕ್ರಮಿವ",
+          "meaning_en": "like a wheel",
+          "meaning_kn": "ಚಕ್ರದಂತೆ"
+        },
+        {
+          "pada_original": "न॒व्य॒सि॒",
+          "pada_kn": "ನವ್ಯಸಿ",
+          "meaning_en": "O youngest / O ever-new",
+          "meaning_kn": "ಓ ನವೀನಳೇ / ಅತ್ಯಂತ ಹೊಸಬಳೇ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix for verb 'turn')",
+          "meaning_kn": "(ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "व॒वृ॒त्स्व॒",
+          "pada_kn": "ವವೃತ್ಸ್ವ",
+          "meaning_en": "turn / revolve / come back",
+          "meaning_kn": "ತಿರುಗು / ಮರಳಿ ಬಾ"
+        }
+      ],
+      "full_meaning_en": "O Dawn, facing all the worlds, you stand uplifted, the banner of immortality. Being traversed by all for a common purpose, O ever-new one, turn like a wheel and return again.",
+      "full_meaning_kn": "ಓ ಉಷೆಯೇ, ಸಕಲ ಲೋಕಗಳನ್ನು ಎದುರಿಸುತ್ತಾ, ನೀನು ಮೇಲಕ್ಕೆತ್ತಲ್ಪಟ್ಟಿದ್ದೀಯೆ, ಅಮರತ್ವದ ಧ್ವಜದಂತೆ. ಎಲ್ಲರಿಂದಲೂ ಸಾಮಾನ್ಯ ಉದ್ದೇಶಕ್ಕಾಗಿ ಸಂಚರಿಸಲ್ಪಡುತ್ತಾ, ಓ ನಿತ್ಯನೂತನಳೇ, ಚಕ್ರದಂತೆ ತಿರುಗಿ ಮತ್ತೆ ಬಾ.",
+      "rig_time_s": 30.109,
+      "Insight_en": "The mantra speaks of the eternal cycle of renewal inherent in existence. Usha (dawn) represents the ever-recurring promise of new beginnings, standing as a beacon of hope and immortality. The image of the turning wheel (chakra) symbolizes the continuous, cyclical nature of time and consciousness, urging us to embrace change and transformation as integral parts of our spiritual journey. Just as the dawn returns each day, so too does the opportunity for spiritual awakening and self-realization.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಸ್ತಿತ್ವದಲ್ಲಿ ಅಂತರ್ಗತವಾಗಿರುವ ನವೀಕರಣದ ಶಾಶ್ವತ ಚಕ್ರದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಉಷಾ (ಬೆಳಗು) ಹೊಸ ಆರಂಭಗಳ ಸದಾ ಮರುಕಳಿಸುವ ಭರವಸೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಆಶಯ ಮತ್ತು ಅಮರತ್ವದ ಸಂಕೇತವಾಗಿ ನಿಂತಿದೆ. ತಿರುಗುವ ಚಕ್ರದ (ಚಕ್ರ) ಚಿತ್ರವು ಸಮಯ ಮತ್ತು ಪ್ರಜ್ಞೆಯ ನಿರಂತರ, ಆವರ್ತಕ ಸ್ವರೂಪವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯಾಣದ ಅವಿಭಾಜ್ಯ ಅಂಗಗಳಾಗಿ ಬದಲಾವಣೆ ಮತ್ತು ಪರಿವರ್ತನೆಯನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳಲು ನಮ್ಮನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ಪ್ರತಿದಿನವೂ ಬೆಳಗು ಮರಳುವಂತೆಯೇ, ಆಧ್ಯಾತ್ಮಿಕ ಜಾಗೃತಿ ಮತ್ತು ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ಅವಕಾಶವೂ ಮರಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S61_62-4_7",
+      "mandala": 3,
+      "sukta": 61,
+      "ric_index": 4,
+      "rig_lines": [
+        "अव॒ स्यूमे᳚व चिन्व॒ती म॒घोन्यु॒षा या᳚ति॒ स्वस॑रस्य॒ पत्नी᳚ |",
+        "स्व१॑(अ॒)र्जन᳚न्ती सु॒भगा᳚ सु॒दंसा॒, आन्ता᳚द्दि॒वः प॑प्रथ॒ आ पृ॑थि॒व्याः ||"
+      ],
+      "pre_splits": [
+        "अव॑",
+        "स्यूम॑ऽ‌इव",
+        "चि॒न्व॒ती",
+        "म॒घोनी᳚",
+        "उ॒षाः",
+        "या॒ति॒",
+        "स्वस॑रस्य",
+        "पत्नी᳚",
+        "स्वः॑",
+        "जन᳚न्ती",
+        "सु॒ऽभगा᳚",
+        "सु॒ऽदंसाः᳚",
+        "आ",
+        "अन्ता᳚त्",
+        "दि॒वः",
+        "प॒प्र॒थे॒",
+        "आ",
+        "पृ॒थि॒व्याः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अव॑",
+          "pada_kn": "ಅವ",
+          "meaning_en": "down / away",
+          "meaning_kn": "ಕೆಳಗೆ / ದೂರ"
+        },
+        {
+          "pada_original": "स्यूम॑ऽ‌इव",
+          "pada_kn": "ಸ್ಯೂಮ ಇವ",
+          "meaning_en": "like a needle/thread",
+          "meaning_kn": "ಸೂಜಿಯಂತೆ / ದಾರದಂತೆ"
+        },
+        {
+          "pada_original": "चि॒न्व॒ती",
+          "pada_kn": "ಚಿನ್ವತೀ",
+          "meaning_en": "gathering / collecting",
+          "meaning_kn": "ಸಂಗ್ರಹಿಸುತ್ತಾ / ಹೆಕ್ಕುತ್ತಾ"
+        },
+        {
+          "pada_original": "म॒घोनी᳚",
+          "pada_kn": "ಮಘೋನೀ",
+          "meaning_en": "wealthy / bountiful",
+          "meaning_kn": "ಸಂಪದ್ಭರಿತಳು / ಧನವಂತೆ"
+        },
+        {
+          "pada_original": "उ॒षाः",
+          "pada_kn": "ಉಷಾಃ",
+          "meaning_en": "Usha (Dawn)",
+          "meaning_kn": "ಉಷಸ್ಸು / ಪ್ರಭಾತ"
+        },
+        {
+          "pada_original": "या॒ति॒",
+          "pada_kn": "ಯಾತಿ",
+          "meaning_en": "goes / proceeds",
+          "meaning_kn": "ಹೋಗುತ್ತಾಳೆ / ಸಾಗುತ್ತಾಳೆ"
+        },
+        {
+          "pada_original": "स्वस॑रस्य",
+          "pada_kn": "ಸ್ವಸರಸ್ಯ",
+          "meaning_en": "of the day",
+          "meaning_kn": "ಹಗಲಿನ / ದಿನದ"
+        },
+        {
+          "pada_original": "पत्नी᳚",
+          "pada_kn": "ಪತ್ನೀ",
+          "meaning_en": "wife / mistress",
+          "meaning_kn": "ಪತ್ನಿ / ಒಡತಿ"
+        },
+        {
+          "pada_original": "स्वः॑",
+          "pada_kn": "ಸ್ವಃ",
+          "meaning_en": "light / heaven",
+          "meaning_kn": "ಬೆಳಕು / ಸ್ವರ್ಗ"
+        },
+        {
+          "pada_original": "जन᳚न्ती",
+          "pada_kn": "ಜನನ್ತೀ",
+          "meaning_en": "generating / producing",
+          "meaning_kn": "ಉತ್ಪಾದಿಸುತ್ತಾ / ಸೃಷ್ಟಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "सु॒ऽभगा᳚",
+          "pada_kn": "ಸುಭಗಾ",
+          "meaning_en": "fortunate / auspicious",
+          "meaning_kn": "ಶುಭದಾಯಿನಿ / ಭಾಗ್ಯವಂತೆ"
+        },
+        {
+          "pada_original": "सु॒ऽदंसाः᳚",
+          "pada_kn": "ಸುದಂಸಾಃ",
+          "meaning_en": "performing good deeds",
+          "meaning_kn": "ಉತ್ತಮ ಕಾರ್ಯಗಳನ್ನು ಮಾಡುವವಳು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "up to / until",
+          "meaning_kn": "ವರೆಗೆ"
+        },
+        {
+          "pada_original": "अन्ता᳚त्",
+          "pada_kn": "ಅನ್ತಾತ್",
+          "meaning_en": "from the end",
+          "meaning_kn": "ಕೊನೆಯಿಂದ"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "of heaven / sky",
+          "meaning_kn": "ದ್ಯುಲೋಕದ / ಆಕಾಶದ"
+        },
+        {
+          "pada_original": "प॒प्र॒थे॒",
+          "pada_kn": "ಪಪ್ರಥೇ",
+          "meaning_en": "has spread",
+          "meaning_kn": "ಹರಡಿಕೊಂಡಿದ್ದಾಳೆ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "up to / until",
+          "meaning_kn": "ವರೆಗೆ"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्याः",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಃ",
+          "meaning_en": "of the earth",
+          "meaning_kn": "ಭೂಮಿಯ / ನೆಲದ"
+        }
+      ],
+      "full_meaning_en": "O Usha, possessor of abundance, consort of the Sun, you advance, meticulously gathering the darkness as though sewing with a needle. Radiating light, auspicious and of noble deeds, you expand from the farthest realms of heaven to the expanse of the earth.",
+      "full_meaning_kn": "ಓ ಉಷಾ, ಸಮೃದ್ಧಿಯ ಒಡತಿಯೇ, ಸೂರ್ಯನ ಪತ್ನಿಯೇ, ಸೂಜಿಯಿಂದ ಹೊಲಿಗೆ ಹಾಕುವಂತೆ ಕತ್ತಲೆಯನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಸಂಗ್ರಹಿಸುತ್ತಾ ಮುನ್ನಡೆಯುತ್ತಿರುವೆ. ಬೆಳಕನ್ನು ಹೊರಸೂಸುತ್ತಾ, ಮಂಗಳಕರ ಮತ್ತು ಉದಾತ್ತ ಕಾರ್ಯಗಳನ್ನು ಮಾಡುತ್ತಾ, ಸ್ವರ್ಗದ ಅತ್ಯಂತ ದೂರದ ಕ್ಷೇತ್ರಗಳಿಂದ ಭೂಮಿಯ ವಿಸ್ತಾರದವರೆಗೆ ವಿಸ್ತರಿಸುತ್ತಿರುವೆ.",
+      "rig_time_s": 43.398,
+      "Insight_en": "Usha's arrival symbolizes the dawn of consciousness, meticulously dispelling the darkness of ignorance. She represents the inner light (ज्योति) that illuminates the path of righteousness (धर्म). Her auspicious nature and noble deeds reflect the spiritual seeker's journey towards self-realization (आत्म-साक्षात्कार), expanding from the highest spiritual realms to the practical realities of earthly existence. The needle represents precision, focus, and careful discernment in our spiritual practice.",
+      "Insight_kn": "ಉಷೆಯ ಆಗಮನವು ಪ್ರಜ್ಞೆಯ ಉದಯವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಅಜ್ಞಾನದ ಕತ್ತಲೆಯನ್ನು ಬಹಳ ಜಾಗರೂಕತೆಯಿಂದ ಹೋಗಲಾಡಿಸುತ್ತದೆ. ಅವಳು ಧರ್ಮದ ಮಾರ್ಗವನ್ನು ಬೆಳಗಿಸುವ ಆಂತರಿಕ ಬೆಳಕನ್ನು (ಜ್ಯೋತಿ) ಪ್ರತಿನಿಧಿಸುತ್ತಾಳೆ. ಅವಳ ಮಂಗಳಕರ ಸ್ವಭಾವ ಮತ್ತು ಉದಾತ್ತ ಕಾರ್ಯಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧಕನು ಆತ್ಮ-ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ಮಾಡುವ ಪ್ರಯಾಣವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ, ಅತ್ಯುನ್ನತ ಆಧ್ಯಾತ್ಮಿಕ ಕ್ಷೇತ್ರಗಳಿಂದ ಭೂಮಿಯ ಅಸ್ತಿತ್ವದ ಪ್ರಾಯೋಗಿಕ ವಾಸ್ತವತೆಗಳವರೆಗೆ ವಿಸ್ತರಿಸುತ್ತವೆ. ಸೂಜಿಯು ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದಲ್ಲಿ ನಿಖರತೆ, ಗಮನ ಮತ್ತು ಎಚ್ಚರಿಕೆಯ ವಿವೇಚನೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S61_62-5_7",
+      "mandala": 3,
+      "sukta": 61,
+      "ric_index": 5,
+      "rig_lines": [
+        "अच्छा᳚ वो दे॒वीमु॒षसं᳚ विभा॒तीं प्र वो᳚ भरध्वं॒ नम॑सा सुवृ॒क्तिम् |",
+        "ऊ॒र्ध्वं म॑धु॒धा दि॒वि पाजो᳚, अश्रे॒त् प्र रो᳚च॒ना रु॑रुचे र॒ण्वसं᳚दृक् ||"
+      ],
+      "pre_splits": [
+        "अच्छ॑",
+        "वः॒",
+        "दे॒वी‌म्",
+        "उ॒षस᳚‌म्",
+        "वि॒ऽभा॒ती‌म्",
+        "प्र",
+        "वः॒",
+        "भ॒र॒ध्व॒‌म्",
+        "नम॑सा",
+        "सु॒ऽवृ॒क्ति‌म्",
+        "ऊ॒र्ध्व‌म्",
+        "म॒धु॒धा",
+        "दि॒वि",
+        "पाजः॑",
+        "अ॒श्रे॒त्",
+        "प्र",
+        "रो॒च॒ना",
+        "रु॒रु॒चे॒",
+        "र॒ण्वऽसं᳚दृक्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अच्छ॑",
+          "pada_kn": "ಅಚ್ಛ",
+          "meaning_en": "towards / unto",
+          "meaning_kn": "ಕಡೆಗೆ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "to you (worshippers) / for you",
+          "meaning_kn": "ನಿಮಗೆ / ನಿಮಗಾಗಿ"
+        },
+        {
+          "pada_original": "दे॒वी‌म्",
+          "pada_kn": "ದೇವೀಮ್",
+          "meaning_en": "divine goddess",
+          "meaning_kn": "ದಿವ್ಯ ದೇವತೆ"
+        },
+        {
+          "pada_original": "उ॒षस᳚‌म्",
+          "pada_kn": "ಉಷಸಮ್",
+          "meaning_en": "Dawn",
+          "meaning_kn": "ಉಷಸ್ಸು / ಪ್ರಭಾತ"
+        },
+        {
+          "pada_original": "वि॒ऽभा॒ती‌म्",
+          "pada_kn": "ವಿಭಾತೀಮ್",
+          "meaning_en": "shining forth / brilliant",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುವ / ಹೊಳೆಯುವ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದಕ್ಕೆ / ತೀವ್ರವಾಗಿ"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "to her (Dawn) / for her",
+          "meaning_kn": "ಅವಳಿಗೆ / ಅವಳಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "भ॒र॒ध्व॒‌म्",
+          "pada_kn": "ಭರಧ್ವಮ್",
+          "meaning_en": "offer / bring",
+          "meaning_kn": "ಅರ್ಪಿಸಿರಿ / ತಂದುಕೊಡಿ"
+        },
+        {
+          "pada_original": "नम॑सा",
+          "pada_kn": "ನಮಸಾ",
+          "meaning_en": "with reverence / with homage",
+          "meaning_kn": "ಭಕ್ತಿಯಿಂದ / ನಮಸ್ಕಾರದಿಂದ"
+        },
+        {
+          "pada_original": "सु॒ऽवृ॒क्ति‌म्",
+          "pada_kn": "ಸುವೃಕ್ತಿಮ್",
+          "meaning_en": "excellent praise / good hymn",
+          "meaning_kn": "ಶ್ರೇಷ್ಠ ಸ್ತೋತ್ರ / ಉತ್ತಮ ಸ್ತುತಿ"
+        },
+        {
+          "pada_original": "ऊ॒र्ध्व‌म्",
+          "pada_kn": "ಊರ್ಧ್ವಮ್",
+          "meaning_en": "upwards / high",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ / ಎತ್ತರಕ್ಕೆ"
+        },
+        {
+          "pada_original": "म॒धु॒धा",
+          "pada_kn": "ಮಧುಧಾ",
+          "meaning_en": "honey-bestowing / sweet-giving",
+          "meaning_kn": "ಮಧುಪ್ರದವಾದ / ಸಿಹಿಯನ್ನು ನೀಡುವ"
+        },
+        {
+          "pada_original": "दि॒वि",
+          "pada_kn": "ದಿವಿ",
+          "meaning_en": "in the sky / in heaven",
+          "meaning_kn": "ಆಕಾಶದಲ್ಲಿ / ಸ್ವರ್ಗದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "पाजः॑",
+          "pada_kn": "ಪಾಜಃ",
+          "meaning_en": "brilliance / strength / light",
+          "meaning_kn": "ತೇಜಸ್ಸು / ಶಕ್ತಿ / ಪ್ರಕಾಶ"
+        },
+        {
+          "pada_original": "अ॒श्रे॒त्",
+          "pada_kn": "ಅಶ್ರೇತ್",
+          "meaning_en": "reached / extended",
+          "meaning_kn": "ತಲುಪಿತು / ವ್ಯಾಪಿಸಿತು"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / intensely",
+          "meaning_kn": "ಮುಂದಕ್ಕೆ / ತೀವ್ರವಾಗಿ"
+        },
+        {
+          "pada_original": "रो॒च॒ना",
+          "pada_kn": "ರೋಚನಾ",
+          "meaning_en": "bright spaces / luminaries",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ ಲೋಕಗಳು / ಜ್ಯೋತಿಗಳು"
+        },
+        {
+          "pada_original": "रु॒रु॒चे॒",
+          "pada_kn": "ರುರುಚೇ",
+          "meaning_en": "shone / gleamed",
+          "meaning_kn": "ಹೊಳೆಯಿತು / ಪ್ರಜ್ವಲಿಸಿತು"
+        },
+        {
+          "pada_original": "र॒ण्वऽसं᳚दृक्",
+          "pada_kn": "ರಣ್ವಸಂದೃಕ್",
+          "meaning_en": "lovely to behold / delightful in appearance",
+          "meaning_kn": "ನೋಡಲು ಮನೋಹರವಾದ / ಆಹ್ಲಾದಕರ ದೃಶ್ಯವುಳ್ಳ"
+        }
+      ],
+      "full_meaning_en": "O adorers, offer forth to the radiant, divine Dawn with reverence a well-crafted hymn. The honey-bearing (light of Dawn) has spread its splendor high in the heavens; the luminous realms have shone forth, delightful to behold.",
+      "full_meaning_kn": "ಓ ಆರಾಧಕರೆ, ಪ್ರಕಾಶಮಾನವಾದ, ದೈವಿಕ ಉಷೆಗೆ ಭಕ್ತಿಯಿಂದ ಉತ್ತಮ ಸ್ತೋತ್ರವನ್ನು ಅರ್ಪಿಸಿ. ಮಧುವನ್ನು ಹೊತ್ತ (ಉಷೆಯ ಬೆಳಕು) ತನ್ನ ತೇಜಸ್ಸನ್ನು ಆಕಾಶದಲ್ಲಿ ಎತ್ತರಕ್ಕೆ ಹರಡಿದೆ; ಪ್ರಕಾಶಮಾನವಾದ ಪ್ರದೇಶಗಳು ಹೊಳೆಯುತ್ತವೆ, ನೋಡಲು ಆಹ್ಲಾದಕರವಾಗಿವೆ.",
+      "rig_time_s": 60.27,
+      "Insight_en": "The rising Dawn (उषस्) symbolizes the awakening of consciousness from the darkness of ignorance. Just as the physical dawn illuminates the world, spiritual awakening illuminates the inner landscape, revealing the inherent sweetness (मधु) and beauty. This inner radiance transforms our perception, making everything 'delightful to behold,' reflecting the ṛta (ऋत) or cosmic order within.",
+      "Insight_kn": "ಉದಯಿಸುವ ಉಷಸ್ಸು (ಉಷಸ್) ಅಜ್ಞಾನದ ಕತ್ತಲೆಯಿಂದ ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಭೌತಿಕ ಉದಯವು ಜಗತ್ತನ್ನು ಬೆಳಗಿಸುವಂತೆಯೇ, ಆಧ್ಯಾತ್ಮಿಕ ಜಾಗೃತಿಯು ಆಂತರಿಕ ಭೂದೃಶ್ಯವನ್ನು ಬೆಳಗಿಸುತ್ತದೆ, ಸಹಜವಾದ ಮಾಧುರ್ಯ (ಮಧು) ಮತ್ತು ಸೌಂದರ್ಯವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಈ ಆಂತರಿಕ ಪ್ರಕಾಶವು ನಮ್ಮ ಗ್ರಹಿಕೆಯನ್ನು ಪರಿವರ್ತಿಸುತ್ತದೆ, ಎಲ್ಲವನ್ನೂ 'ನೋಡಲು ಆಹ್ಲಾದಕರವಾಗಿಸುತ್ತದೆ', ಋತವನ್ನು (ಋತ) ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ಅಂದರೆ ಒಳಗಿನ ಕಾಸ್ಮಿಕ್ ಕ್ರಮ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S61_62-6_7",
+      "mandala": 3,
+      "sukta": 61,
+      "ric_index": 6,
+      "rig_lines": [
+        "ऋ॒ताव॑री दि॒वो, अ॒र्कैर॑बो॒ध्या रे॒वती॒ रोद॑सी चि॒त्रम॑स्थात् |",
+        "आ॒य॒तीम॑ग्न उ॒षसं᳚ विभा॒तीं वा॒ममे᳚षि॒ द्रवि॑णं॒ भिक्ष॑माणः ||"
+      ],
+      "pre_splits": [
+        "ऋ॒तऽव॑री",
+        "दि॒वः",
+        "अ॒र्कैः",
+        "अ॒बो॒धि॒",
+        "आ",
+        "रे॒वती᳚",
+        "रोद॑सी॒ इति॑",
+        "चि॒त्र‌म्",
+        "आ॒स्था॒त्",
+        "आ॒ऽय॒ती‌म्",
+        "अ॒ग्ने॒",
+        "उ॒षस᳚‌म्",
+        "वि॒ऽभा॒ती‌म्",
+        "वा॒म‌म्",
+        "ए॒षि॒",
+        "द्रवि॑ण‌म्",
+        "भिक्ष॑माणः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ऋ॒तऽव॑री",
+          "pada_kn": "ಋತವರೀ",
+          "meaning_en": "possessor of truth/order; righteous",
+          "meaning_kn": "ಸತ್ಯವನ್ನುಳ್ಳವಳು / ಋತವನ್ನುಳ್ಳವಳು"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "of heaven / sky",
+          "meaning_kn": "ದ್ಯುಲೋಕದ / ಆಕಾಶದ"
+        },
+        {
+          "pada_original": "अ॒र्कैः",
+          "pada_kn": "ಅರ್ಕೈಃ",
+          "meaning_en": "by rays / praises",
+          "meaning_kn": "ಕಿರಣಗಳಿಂದ / ಸ್ತೋತ್ರಗಳಿಂದ"
+        },
+        {
+          "pada_original": "अ॒बो॒धि॒",
+          "pada_kn": "ಅಬೋಧಿ",
+          "meaning_en": "was awakened / became known",
+          "meaning_kn": "ಎಚ್ಚರಗೊಂಡಳು / ಪ್ರಕಟಗೊಂಡಳು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "indeed / fully (particle)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "रे॒वती᳚",
+          "pada_kn": "ರೇವತೀ",
+          "meaning_en": "wealthy / rich",
+          "meaning_kn": "ಧನವಂತಳು / ಸಮೃದ್ಧಿಯುಳ್ಳವಳು"
+        },
+        {
+          "pada_original": "रोद॑सी॒ इति॑",
+          "pada_kn": "ರೋದಸೀ ಇತಿ",
+          "meaning_en": "heaven and earth (dual)",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥಿವಿಗಳು / ಆಕಾಶ ಮತ್ತು ಭೂಮಿ"
+        },
+        {
+          "pada_original": "चि॒त्र‌म्",
+          "pada_kn": "ಚಿತ್ರಮ್",
+          "meaning_en": "wonderfully / splendidly",
+          "meaning_kn": "ಅದ್ಭುತವಾಗಿ / ವೈವಿಧ್ಯಮಯವಾಗಿ"
+        },
+        {
+          "pada_original": "आ॒स्था॒त्",
+          "pada_kn": "ಆಸ್ಥಾತ್",
+          "meaning_en": "stood / appeared",
+          "meaning_kn": "ನಿಂತಳು / ಕಾಣಿಸಿಕೊಂಡಳು"
+        },
+        {
+          "pada_original": "आ॒ऽय॒ती‌म्",
+          "pada_kn": "ಆಯತೀಮ್",
+          "meaning_en": "approaching / coming",
+          "meaning_kn": "ಬರುತ್ತಿರುವ / ಸಮೀಪಿಸುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "अ॒ग्ने॒",
+          "pada_kn": "ಅಗ್ನೇ",
+          "meaning_en": "O Agni",
+          "meaning_kn": "ಅಗ್ನಿಯೇ"
+        },
+        {
+          "pada_original": "उ॒षस᳚‌म्",
+          "pada_kn": "ಉಷಸಮ್",
+          "meaning_en": "Dawn",
+          "meaning_kn": "ಉಷಸ್ಸನ್ನು / ಪ್ರಾತಃಕಾಲವನ್ನು"
+        },
+        {
+          "pada_original": "वि॒ऽभा॒ती‌म्",
+          "pada_kn": "ವಿಭಾತೀಮ್",
+          "meaning_en": "shining brightly / illuminating",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತಿರುವ / ಬೆಳಗುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "वा॒म‌म्",
+          "pada_kn": "ವಾಮಮ್",
+          "meaning_en": "desirable / excellent (wealth)",
+          "meaning_kn": "ಇಷ್ಟವಾದುದನ್ನು / ಶ್ರೇಷ್ಠವಾದುದನ್ನು"
+        },
+        {
+          "pada_original": "ए॒षि॒",
+          "pada_kn": "ಏಷಿ",
+          "meaning_en": "you go / you desire",
+          "meaning_kn": "ನೀನು ಹೋಗುತ್ತೀಯೆ / ನೀನು ಬಯಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "द्रवि॑ण‌म्",
+          "pada_kn": "ದ್ರವಿಣಮ್",
+          "meaning_en": "wealth / riches",
+          "meaning_kn": "ಧನವನ್ನು / ಸಂಪತ್ತನ್ನು"
+        },
+        {
+          "pada_original": "भिक्ष॑माणः",
+          "pada_kn": "ಭಿಕ್ಷಮಾಣಃ",
+          "meaning_en": "begging / seeking",
+          "meaning_kn": "ಬೇಡುತ್ತಾ / ಯಾಚಿಸುತ್ತಾ"
+        }
+      ],
+      "full_meaning_en": "O Righteous Dawn, abundant with treasures, awakened by the celestial rays; Resplendent one, you have firmly established yourself in both heaven and earth. O Agni, approaching this radiant, unfolding Dawn, you seek the desired wealth.",
+      "full_meaning_kn": "ಓ ಸತ್ಯವಂತಳಾದ ಉಷೆಯೇ, ಸಂಪತ್ತುಗಳಿಂದ ಸಮೃದ್ಧಳಾದವಳೇ, ದ್ಯುಲೋಕದ ಕಿರಣಗಳಿಂದ ಜಾಗೃತಳಾದವಳೇ; ಪ್ರಕಾಶಮಾನಳೇ, ನೀನು ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ ಎರಡರಲ್ಲೂ ದೃಢವಾಗಿ ನೆಲೆಸಿದ್ದೀಯೆ. ಓ ಅಗ್ನಿಯೇ, ಪ್ರಕಾಶಿಸುತ್ತಿರುವ, ತೆರೆದುಕೊಳ್ಳುತ್ತಿರುವ ಈ ಉಷೆಯನ್ನು ಸಮೀಪಿಸುತ್ತಾ, ಅಪೇಕ್ಷಿತ ಸಂಪತ್ತನ್ನು ಬೇಡುತ್ತೀಯೆ.",
+      "rig_time_s": 76.608,
+      "Insight_en": "The approaching dawn represents the awakening of inner consciousness. Agni, the inner fire, seeks the wealth of spiritual wisdom from this awakened state. The 'desired wealth' is not material, but the treasure of self-realization that arises with the dispelling of inner darkness. The mantra signifies the constant striving for enlightenment and the purification of consciousness through the fire of knowledge, igniting the divine potential within.",
+      "Insight_kn": "ಉದಯಿಸುತ್ತಿರುವ ಉಷೆಯು ಆಂತರಿಕ ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಾವಸ್ಥೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅಗ್ನಿಯು, ಆಂತರಿಕ ಅಗ್ನಿಯು, ಈ ಜಾಗೃತ ಸ್ಥಿತಿಯಿಂದ ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನದ ಸಂಪತ್ತನ್ನು ಬಯಸುತ್ತಾನೆ. 'ಅಪೇಕ್ಷಿತ ಸಂಪತ್ತು' ಭೌತಿಕವಾದುದಲ್ಲ, ಆದರೆ ಆಂತರಿಕ ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುವ ಮೂಲಕ ಉಂಟಾಗುವ ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ನಿಧಿಯಾಗಿದೆ. ಮಂತ್ರವು ಜ್ಞಾನದ ಅಗ್ನಿಯ ಮೂಲಕ ಜ್ಞಾನೋದಯಕ್ಕಾಗಿ ನಿರಂತರ ಪ್ರಯತ್ನ ಮತ್ತು ಪ್ರಜ್ಞೆಯ ಶುದ್ಧೀಕರಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಒಳಗಿನ ದೈವಿಕ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊತ್ತಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S61_62-7_7",
+      "mandala": 3,
+      "sukta": 61,
+      "ric_index": 7,
+      "rig_lines": [
+        "ऋ॒तस्य॑ बु॒ध्न उ॒षसा᳚मिष॒ण्यन् वृषा᳚ म॒ही रोद॑सी॒, आ वि॑वेश |",
+        "म॒ही मि॒त्रस्य॒ वरु॑णस्य मा॒या च॒न्द्रेव॑ भा॒नुं वि द॑धे पुरु॒त्रा ||"
+      ],
+      "pre_splits": [
+        "ऋ॒तस्य॑",
+        "बु॒ध्ने",
+        "उ॒षसा᳚‌म्",
+        "इ॒ष॒ण्यन्",
+        "वृषा᳚",
+        "म॒ही इति॑",
+        "रोद॑सी॒ इति॑",
+        "आ",
+        "वि॒वे॒श॒",
+        "म॒ही",
+        "मि॒त्रस्य॑",
+        "वरु॑णस्य",
+        "मा॒या",
+        "च॒न्द्राऽ‌इ᳚व",
+        "भा॒नु‌म्",
+        "वि",
+        "द॒धे॒",
+        "पु॒रु॒ऽत्रा"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ऋ॒तस्य॑",
+          "pada_kn": "ಋತಸ್ಯ",
+          "meaning_en": "of the cosmic order/truth",
+          "meaning_kn": "ಋತದ/ಸತ್ಯದ"
+        },
+        {
+          "pada_original": "बु॒ध्ने",
+          "pada_kn": "ಬುಧ್ನೇ",
+          "meaning_en": "in the foundation/depth",
+          "meaning_kn": "ತಳದಲ್ಲಿ/ಮೂಲದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "उ॒षसा᳚‌म्",
+          "pada_kn": "ಉಷಸಾಮ್",
+          "meaning_en": "of the dawns",
+          "meaning_kn": "ಉಷೆಗಳ/ಪ್ರಭಾತಗಳ"
+        },
+        {
+          "pada_original": "इ॒ष॒ण्यन्",
+          "pada_kn": "ಇಷಣ್ಯನ್",
+          "meaning_en": "desiring (strength/nourishment)",
+          "meaning_kn": "ಶಕ್ತಿಯನ್ನು/ಆಹಾರವನ್ನು ಬಯಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "वृषा᳚",
+          "pada_kn": "ವೃಷಾ",
+          "meaning_en": "the powerful one/showerer (e.g., Sun)",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿ/ವೃಷ್ಟಿಕರ್ತ"
+        },
+        {
+          "pada_original": "म॒ही इति॑",
+          "pada_kn": "ಮಹೀ ಇತಿ",
+          "meaning_en": "the great/vast",
+          "meaning_kn": "ಮಹತ್ತಾದ/ವಿಸ್ತಾರವಾದ"
+        },
+        {
+          "pada_original": "रोद॑सी॒ इति॑",
+          "pada_kn": "ರೋದಸೀ ಇತಿ",
+          "meaning_en": "heaven and earth (dual)",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥ್ವಿಗಳು/ಆಕಾಶಭೂಮಿಗಳು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "into/towards",
+          "meaning_kn": "ಒಳಗೆ/ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "वि॒वे॒श॒",
+          "pada_kn": "ವಿವೇಶ",
+          "meaning_en": "entered",
+          "meaning_kn": "ಪ್ರವೇಶಿಸಿತು/ಹೊಕ್ಕಿತು"
+        },
+        {
+          "pada_original": "म॒ही",
+          "pada_kn": "ಮಹೀ",
+          "meaning_en": "great/vast",
+          "meaning_kn": "ಮಹತ್ತಾದ/ವಿಸ್ತಾರವಾದ"
+        },
+        {
+          "pada_original": "मि॒त्रस्य॑",
+          "pada_kn": "ಮಿತ್ರಸ್ಯ",
+          "meaning_en": "of Mitra",
+          "meaning_kn": "ಮಿತ್ರನ"
+        },
+        {
+          "pada_original": "वरु॑णस्य",
+          "pada_kn": "ವರುಣಸ್ಯ",
+          "meaning_en": "of Varuna",
+          "meaning_kn": "ವರುಣನ"
+        },
+        {
+          "pada_original": "मा॒या",
+          "pada_kn": "ಮಾಯಾ",
+          "meaning_en": "creative power/divine wisdom",
+          "meaning_kn": "ಮಾಯೆ/ಸೃಷ್ಟಿಶಕ್ತಿ/ದಿವ್ಯಜ್ಞಾನ"
+        },
+        {
+          "pada_original": "च॒न्द्राऽ‌इ᳚व",
+          "pada_kn": "ಚಂದ್ರೈವ",
+          "meaning_en": "like the moon",
+          "meaning_kn": "ಚಂದ್ರನಂತೆ"
+        },
+        {
+          "pada_original": "भा॒नु‌म्",
+          "pada_kn": "ಭಾನುಮ್",
+          "meaning_en": "light/radiance",
+          "meaning_kn": "ಪ್ರಕಾಶ/ಕಾಂತಿ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart/forth",
+          "meaning_kn": "ಬೇರೆಬೇರೆಯಾಗಿ/ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "द॒धे॒",
+          "pada_kn": "ದಧೇ",
+          "meaning_en": "placed/spread/established",
+          "meaning_kn": "ಇರಿಸಿತು/ಹರಡಿತು/ಸ್ಥಾಪಿಸಿತು"
+        },
+        {
+          "pada_original": "पु॒रु॒ऽत्रा",
+          "pada_kn": "ಪುರುತ್ರಾ",
+          "meaning_en": "in many places/manifoldly",
+          "meaning_kn": "ಅನೇಕ ಸ್ಥಳಗಳಲ್ಲಿ/ಬಹುರೂಪವಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O powerful one, at the base of cosmic order, seeking vigor with the coming of dawns, you have pervaded the vast heaven and earth. The grand, wondrous power (māyā) of Mitra and Varuna, like the moon, diffuses its light (bhānu) extensively and in diverse ways.",
+      "full_meaning_kn": "ಓ ಶಕ್ತಿಯುತನೇ, ಋತದ ಬುಡದಲ್ಲಿ, ಉಷೆಗಳ ಆಗಮನದಲ್ಲಿ ಶಕ್ತಿಯನ್ನು ಬಯಸುತ್ತಾ, ನೀನು ವಿಶಾಲವಾದ ದ್ಯಾವಾ ಪೃಥಿವಿಗಳನ್ನು ವ್ಯಾಪಿಸಿರುವೆ. ಮಿತ್ರ ಮತ್ತು ವರುಣರ ಮಹಾನ್, ಅದ್ಭುತ ಶಕ್ತಿ (ಮಾಯಾ), ಚಂದ್ರನಂತೆ, ತನ್ನ ಬೆಳಕನ್ನು (ಭಾನು) ವಿಸ್ತಾರವಾಗಿ ಮತ್ತು ವಿವಿಧ ರೀತಿಯಲ್ಲಿ ಹರಡುತ್ತದೆ.",
+      "rig_time_s": 91.93,
+      "Insight_en": "The mantra speaks to the inherent power within the individual (represented by वृषा – the powerful one) to access the cosmic order (ऋत). This power is awakened at dawn (symbolizing enlightenment) and allows one to pervade and understand the dualities of existence (heaven and earth). The māyā of Mitra and Varuna refers to the divine wisdom that illuminates the world, revealing itself in diverse ways, much like the moon reflects the sun's light.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ವ್ಯಕ್ತಿಯಲ್ಲಿರುವ ಅಂತರ್ಗತ ಶಕ್ತಿಯನ್ನು (ವೃಷಾ - ಶಕ್ತಿಯುತ ಎಂಬ ಸಂಕೇತ) ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು (ಋತ) ಪ್ರವೇಶಿಸಲು ಮಾತನಾಡುತ್ತದೆ. ಈ ಶಕ್ತಿಯು ಮುಂಜಾನೆ ಜಾಗೃತವಾಗುತ್ತದೆ (ಜ್ಞಾನೋದಯವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ) ಮತ್ತು ಅಸ್ತಿತ್ವದ ದ್ವಂದ್ವಗಳನ್ನು (ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ) ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಮಿತ್ರ ಮತ್ತು ವರುಣರ ಮಾಯಾವು ಜಗತ್ತನ್ನು ಬೆಳಗಿಸುವ ದೈವಿಕ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಚಂದ್ರನು ಪ್ರತಿಬಿಂಬಿಸುವಂತೆ ವಿವಿಧ ರೀತಿಯಲ್ಲಿ ಸ್ವತಃ ಪ್ರಕಟವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

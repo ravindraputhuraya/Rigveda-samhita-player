@@ -1,0 +1,769 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S173_191-1_6",
+      "mandala": 10,
+      "sukta": 173,
+      "ric_index": 1,
+      "rig_lines": [
+        "आ त्वा᳚हार्षम॒न्तरे᳚धि ध्रु॒वस्ति॒ष्ठावि॑चाचलिः |",
+        "विश॑स्त्वा॒ सर्वा᳚ वाञ्छन्तु॒ मा त्वद्रा॒ष्ट्रमधि॑ भ्रशत् ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "त्वा॒",
+        "अ॒हा॒र्ष॒‌म्",
+        "अ॒न्तः",
+        "ए॒धि॒",
+        "ध्रु॒वः",
+        "ति॒ष्ठ॒",
+        "अवि॑ऽचाचलिः",
+        "विशः॑",
+        "त्वा॒",
+        "सर्वाः᳚",
+        "वां॒छ॒न्तु॒",
+        "मा",
+        "त्वत्",
+        "रा॒ष्ट्र‌म्",
+        "अधि॑",
+        "भ्र॒श॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "here / towards",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you (accusative)",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒हा॒र्ष॒‌म्",
+          "pada_kn": "ಅಹಾರ್ಷಮ್",
+          "meaning_en": "I have brought / led",
+          "meaning_kn": "ನಾನು ಕರೆತಂದಿದ್ದೇನೆ / ಮುನ್ನಡೆಸಿದ್ದೇನೆ"
+        },
+        {
+          "pada_original": "अ॒न्तः",
+          "pada_kn": "ಅನ್ತಃ",
+          "meaning_en": "within / inside",
+          "meaning_kn": "ಒಳಗೆ / ಮಧ್ಯದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ए॒धि॒",
+          "pada_kn": "ಏಧಿ",
+          "meaning_en": "be / become",
+          "meaning_kn": "ಆಗಿರು"
+        },
+        {
+          "pada_original": "ध्रु॒वः",
+          "pada_kn": "ಧ್ರುವಃ",
+          "meaning_en": "firm / steady",
+          "meaning_kn": "ದೃಢವಾದ / ಸ್ಥಿರವಾದ"
+        },
+        {
+          "pada_original": "ति॒ष्ठ॒",
+          "pada_kn": "ತಿಷ್ಠ",
+          "meaning_en": "stand",
+          "meaning_kn": "ನಿಲ್ಲು"
+        },
+        {
+          "pada_original": "अवि॑ऽचाचलिः",
+          "pada_kn": "ಅವಿಚಾಚಲಿಃ",
+          "meaning_en": "unswerving / unshaken",
+          "meaning_kn": "ಅಚಲನಾದ / ಅಲುಗಾಡದ"
+        },
+        {
+          "pada_original": "विशः॑",
+          "pada_kn": "ವಿಶಃ",
+          "meaning_en": "the people / subjects",
+          "meaning_kn": "ಪ್ರಜೆಗಳು / ಜನರು"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you (accusative)",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "सर्वाः᳚",
+          "pada_kn": "ಸರ್ವಾಃ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲರೂ"
+        },
+        {
+          "pada_original": "वां॒छ॒न्तु॒",
+          "pada_kn": "ವಾಂಛನ್ತು",
+          "meaning_en": "may they desire / choose",
+          "meaning_kn": "ಅವರು ಬಯಸಲಿ / ಇಷ್ಟಪಡಲಿ"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "not / let not",
+          "meaning_kn": "ಬೇಡ / ಆಗದಿರಲಿ"
+        },
+        {
+          "pada_original": "त्वत्",
+          "pada_kn": "ತ್ವತ್",
+          "meaning_en": "from you",
+          "meaning_kn": "ನಿನ್ನಿಂದ"
+        },
+        {
+          "pada_original": "रा॒ष्ट्र‌म्",
+          "pada_kn": "ರಾಷ್ಟ್ರಮ್",
+          "meaning_en": "the kingdom / realm",
+          "meaning_kn": "ರಾಜ್ಯ / ದೇಶ"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "over / upon (here, away from)",
+          "meaning_kn": "ಮೇಲೆ / (ಇಲ್ಲಿ, ದೂರವಾಗುವುದು)"
+        },
+        {
+          "pada_original": "भ्र॒श॒त्",
+          "pada_kn": "ಭ್ರಶತ್",
+          "meaning_en": "may it fall / slip away",
+          "meaning_kn": "ಅದು ಕುಸಿಯದಿರಲಿ / ದೂರವಾಗದಿರಲಿ"
+        }
+      ],
+      "full_meaning_en": "O leader, I have brought you here; be firm, stand steadfast, unmoving. May all the people desire you; may your kingdom not fall away from you.",
+      "full_meaning_kn": "ಓ ನಾಯಕ, ನಾನು ನಿಮ್ಮನ್ನು ಇಲ್ಲಿಗೆ ಕರೆತಂದಿದ್ದೇನೆ; ದೃಢವಾಗಿರಿ, ಸ್ಥಿರವಾಗಿರಿ, ಅಚಲವಾಗಿರಿ. ಎಲ್ಲಾ ಜನರು ನಿಮ್ಮನ್ನು ಬಯಸಲಿ; ನಿಮ್ಮ ರಾಜ್ಯವು ನಿಮ್ಮಿಂದ ದೂರವಾಗದಿರಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra speaks to the establishment of a steadfast and righteous leader. The phrase ध्रु॒वस्ति॒ष्ठावि॑चाचलिः (dhruvastiṣṭhāvicācaliḥ) emphasizes the importance of unwavering resolve and stability in leadership. It reflects the aspiration for a leader deeply rooted in dharma, capable of guiding and protecting the community. The desire of the people, विश॑स्त्वा॒ सर्वा᳚ वाञ्छन्तु (viśastvā sarvā vāñchantu), highlights the essential bond between the ruler and the ruled, where mutual respect and affection ensure the kingdom's prosperity. Ultimately, the mantra invokes a state of sustained harmony and spiritual well-being for both the leader and the people, preventing the kingdom's fall from righteousness (राष्ट्रमधि भ्रशत्).",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸ್ಥಿರ ಮತ್ತು ಧರ್ಮನಿಷ್ಠ ನಾಯಕನ ಸ್ಥಾಪನೆಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಧ್ರುವಸ್ತಿಷ್ಠಾವಿಚಾಚಲಿಃ ಎಂಬ ಪದವು ನಾಯಕತ್ವದಲ್ಲಿ ಅಚಲವಾದ ದೃಢತೆ ಮತ್ತು ಸ್ಥಿರತೆಯ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಇದು ಧರ್ಮದಲ್ಲಿ ಆಳವಾಗಿ ಬೇರೂರಿರುವ, ಸಮುದಾಯವನ್ನು ಮುನ್ನಡೆಸಲು ಮತ್ತು ರಕ್ಷಿಸಲು ಸಮರ್ಥನಾದ ನಾಯಕನ ಆಕಾಂಕ್ಷೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ವಿಶಸ್ತ್ವಾ ಸರ್ವಾ ವಾಂಛಂತು ಎಂಬುದು ಆಡಳಿತಗಾರ ಮತ್ತು ಆಡಳಿತದಲ್ಲಿರುವವರ ನಡುವಿನ ಅಗತ್ಯ ಬಂಧವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಪರಸ್ಪರ ಗೌರವ ಮತ್ತು ಪ್ರೀತಿ ರಾಜ್ಯದ ಸಮೃದ್ಧಿಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಮಂತ್ರವು ನಾಯಕ ಮತ್ತು ಜನರಿಗೆ ನಿರಂತರ ಸಾಮರಸ್ಯ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಯೋಗಕ್ಷೇಮದ ಸ್ಥಿತಿಯನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ, ರಾಜ್ಯವು ಧರ್ಮದಿಂದ ಬೀಳದಂತೆ ತಡೆಯುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S173_191-2_6",
+      "mandala": 10,
+      "sukta": 173,
+      "ric_index": 2,
+      "rig_lines": [
+        "इ॒हैवैधि॒ माप॑ च्योष्ठाः॒ पर्व॑त इ॒वावि॑चाचलिः |",
+        "इन्द्र॑ इवे॒ह ध्रु॒वस्ति॑ष्ठे॒ह रा॒ष्ट्रमु॑ धारय ||"
+      ],
+      "pre_splits": [
+        "इ॒ह",
+        "ए॒व",
+        "ए॒धि॒",
+        "मा",
+        "अप॑",
+        "च्यो॒ष्ठाः॒",
+        "पर्व॑तःऽ‌इव",
+        "अवि॑ऽचाचलिः",
+        "इन्द्र॑ऽ‌इव",
+        "इ॒ह",
+        "ध्रु॒वः",
+        "ति॒ष्ठ॒",
+        "इ॒ह",
+        "रा॒ष्ट्र‌म्",
+        "ऊँ॒ इति॑",
+        "धा॒र॒य॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ए॒व",
+          "pada_kn": "ಏವ",
+          "meaning_en": "indeed / only",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "ए॒धि॒",
+          "pada_kn": "ಏಧಿ",
+          "meaning_en": "be / remain",
+          "meaning_kn": "ಇರು / ಆಗು"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "not",
+          "meaning_kn": "ಬೇಡ"
+        },
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "away / off",
+          "meaning_kn": "ದೂರ"
+        },
+        {
+          "pada_original": "च्यो॒ष्ठाः॒",
+          "pada_kn": "ಚ್ಯೋಷ್ಠಾಃ",
+          "meaning_en": "may you be moved / may you fall",
+          "meaning_kn": "ನೀನು ಕದಲದಿರು / ನೀನು ಬೀಳದಿರು"
+        },
+        {
+          "pada_original": "पर्व॑तःऽ‌इव",
+          "pada_kn": "ಪರ್ವತಃ ಇವ",
+          "meaning_en": "like a mountain",
+          "meaning_kn": "ಪರ್ವತದಂತೆ"
+        },
+        {
+          "pada_original": "अवि॑ऽचाचलिः",
+          "pada_kn": "ಅವಿಚಾಚಲಿಃ",
+          "meaning_en": "unmoving / unshakable",
+          "meaning_kn": "ಅಲುಗಾಡದವನಾಗಿ / ಚಲಿಸದವನಾಗಿ"
+        },
+        {
+          "pada_original": "इन्द्र॑ऽ‌इव",
+          "pada_kn": "ಇಂದ್ರ ಇವ",
+          "meaning_en": "like Indra",
+          "meaning_kn": "ಇಂದ್ರನಂತೆ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ध्रु॒वः",
+          "pada_kn": "ಧ್ರುವಃ",
+          "meaning_en": "firm / constant / stable",
+          "meaning_kn": "ಸ್ಥಿರವಾಗಿ / ದೃಢವಾಗಿ"
+        },
+        {
+          "pada_original": "ति॒ष्ठ॒",
+          "pada_kn": "ತಿಷ್ಠ",
+          "meaning_en": "stand / remain",
+          "meaning_kn": "ನಿಲ್ಲು / ಇರು"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "रा॒ष्ट्र‌म्",
+          "pada_kn": "ರಾಷ್ಟ್ರಮ್",
+          "meaning_en": "the kingdom / the nation",
+          "meaning_kn": "ರಾಷ್ಟ್ರವನ್ನು / ರಾಜ್ಯವನ್ನು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "(emphasis particle)",
+          "meaning_kn": "(ಒತ್ತು ನೀಡುವ ಪದ)"
+        },
+        {
+          "pada_original": "धा॒र॒य॒",
+          "pada_kn": "ಧಾರಯ",
+          "meaning_en": "hold / sustain / maintain",
+          "meaning_kn": "ಧಾರಣೆ ಮಾಡು / ಕಾಪಾಡು"
+        }
+      ],
+      "full_meaning_en": "O (newly wedded) one, remain right here, do not depart, unmoving like a mountain. Like Indra here, remain steadfast; here, support the kingdom.",
+      "full_meaning_kn": "ಓ (ಹೊಸದಾಗಿ ವಿವಾಹವಾದವರೇ), ಇಲ್ಲಿಯೇ ಇರಿ, ಹೊರಡಬೇಡಿ, ಪರ್ವತದಂತೆ ಅಚಲವಾಗಿರಿ. ಇಲ್ಲಿ ಇಂದ್ರನಂತೆ ದೃಢವಾಗಿರಿ; ಇಲ್ಲಿ ರಾಜ್ಯವನ್ನು ಬೆಂಬಲಿಸಿ.",
+      "rig_time_s": 12.936,
+      "Insight_en": "This mantra, recited during a wedding ceremony, invokes stability and steadfastness in the newly married couple. It urges them to remain firm like a mountain (पर्वत), unwavering in their commitment to each other. By comparing the groom to Indra (इन्द्र), the king of gods, the mantra emphasizes the responsibility of supporting and upholding the family (राष्ट्र). The mantra encourages the couple to cultivate ध्रुव, a state of unwavering resolve and loyalty, essential for a harmonious and enduring union. It's a prayer for a relationship rooted in stability and mutual support.",
+      "Insight_kn": "ಈ ಮಂತ್ರವನ್ನು ವಿವಾಹ ಸಮಾರಂಭದಲ್ಲಿ ಪಠಿಸಲಾಗುತ್ತದೆ. ಇದು ಹೊಸದಾಗಿ ವಿವಾಹವಾದ ದಂಪತಿಗಳಲ್ಲಿ ಸ್ಥಿರತೆ ಮತ್ತು ದೃಢತೆಯನ್ನು ಮೂಡಿಸುತ್ತದೆ. ಪರ್ವತದಂತೆ ಅಚಲವಾಗಿರಲು, ಪರಸ್ಪರ ಬದ್ಧತೆಯಲ್ಲಿ ಅಚಲವಾಗಿರಲು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ವರನನ್ನು ದೇವರುಗಳ ರಾಜನಾದ ಇಂದ್ರನಿಗೆ ಹೋಲಿಸುವ ಮೂಲಕ, ಕುಟುಂಬವನ್ನು ಬೆಂಬಲಿಸುವ ಮತ್ತು ಎತ್ತಿಹಿಡಿಯುವ ಜವಾಬ್ದಾರಿಯನ್ನು ಮಂತ್ರವು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಸಾಮರಸ್ಯ ಮತ್ತು ಶಾಶ್ವತ ಒಕ್ಕೂಟಕ್ಕೆ ಅತ್ಯಗತ್ಯವಾದ ಅಚಲವಾದ ನಿರ್ಣಯ ಮತ್ತು ನಿಷ್ಠೆಯ ಸ್ಥಿತಿಯಾದ ಧ್ರುವವನ್ನು ಬೆಳೆಸಲು ಮಂತ್ರವು ದಂಪತಿಗಳನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ. ಇದು ಸ್ಥಿರತೆ ಮತ್ತು ಪರಸ್ಪರ ಬೆಂಬಲದಲ್ಲಿ ಬೇರೂರಿರುವ ಸಂಬಂಧಕ್ಕಾಗಿ ಪ್ರಾರ್ಥನೆಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S173_191-3_6",
+      "mandala": 10,
+      "sukta": 173,
+      "ric_index": 3,
+      "rig_lines": [
+        "इ॒ममिन्द्रो᳚, अदीधरद्ध्रु॒वं ध्रु॒वेण॑ ह॒विषा᳚ |",
+        "तस्मै॒ सोमो॒, अधि॑ ब्रव॒त्तस्मा᳚, उ॒ ब्रह्म॑ण॒स्पतिः॑ ||"
+      ],
+      "pre_splits": [
+        "इ॒म‌म्",
+        "इन्द्रः॑",
+        "अ॒दी॒ध॒र॒त्",
+        "ध्रु॒व‌म्",
+        "ध्रु॒वेण॑",
+        "ह॒विषा᳚",
+        "तस्मै᳚",
+        "सोमः॑",
+        "अधि॑",
+        "ब्र॒व॒त्",
+        "तस्मै᳚",
+        "ऊँ॒ इति॑",
+        "ब्रह्म॑णः",
+        "पतिः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इ॒म‌म्",
+          "pada_kn": "ಇಮಮ್",
+          "meaning_en": "This (king/person)",
+          "meaning_kn": "ಈ (ರಾಜನನ್ನು/ವ್ಯಕ್ತಿಯನ್ನು)"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "अ॒दी॒ध॒र॒त्",
+          "pada_kn": "ಅದೀಧರತ್",
+          "meaning_en": "established / sustained / made firm",
+          "meaning_kn": "ಸ್ಥಾಪಿಸಿದನು / ದೃಢಪಡಿಸಿದನು"
+        },
+        {
+          "pada_original": "ध्रु॒व‌म्",
+          "pada_kn": "ಧ್ರುವಮ್",
+          "meaning_en": "firm / stable / constant",
+          "meaning_kn": "ಸ್ಥಿರವಾಗಿ / ದೃಢವಾಗಿ"
+        },
+        {
+          "pada_original": "ध्रु॒वेण॑",
+          "pada_kn": "ಧ್ರುವೇಣ",
+          "meaning_en": "with a firm / stable (offering)",
+          "meaning_kn": "ಸ್ಥಿರವಾದ / ದೃಢವಾದ (ಹವಿಸ್ಸಿನಿಂದ)"
+        },
+        {
+          "pada_original": "ह॒विषा᳚",
+          "pada_kn": "ಹವಿಷಾ",
+          "meaning_en": "with an offering / oblation",
+          "meaning_kn": "ಹವಿಸ್ಸಿನಿಂದ / ಆಹುತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "तस्मै᳚",
+          "pada_kn": "ತಸ್ಮೈ",
+          "meaning_en": "to him (the king)",
+          "meaning_kn": "ಆತನಿಗೆ / ಆ ರಾಜನಿಗೆ"
+        },
+        {
+          "pada_original": "सोमः॑",
+          "pada_kn": "ಸೋಮಃ",
+          "meaning_en": "Soma (the Moon-god / deity)",
+          "meaning_kn": "ಸೋಮನು (ಚಂದ್ರದೇವನು)"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "in favor of / concerning",
+          "meaning_kn": "ಪರವಾಗಿ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "ब्र॒व॒त्",
+          "pada_kn": "ಬ್ರವತ್",
+          "meaning_en": "may speak / may declare",
+          "meaning_kn": "ಮಾತನಾಡಲಿ / ಹೇಳಲಿ"
+        },
+        {
+          "pada_original": "तस्मै᳚",
+          "pada_kn": "ತಸ್ಮೈ",
+          "meaning_en": "to him (the king)",
+          "meaning_kn": "ಆತನಿಗೆ / ಆ ರಾಜನಿಗೆ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "and / indeed",
+          "meaning_kn": "ಮತ್ತು / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "ब्रह्म॑णः",
+          "pada_kn": "ಬ್ರಹ್ಮಣಃ",
+          "meaning_en": "of Brahman (prayer / sacred word / priest)",
+          "meaning_kn": "ಬ್ರಹ್ಮನ / ಪ್ರಾರ್ಥನೆಯ / ಪುರೋಹಿತನ"
+        },
+        {
+          "pada_original": "पतिः॑",
+          "pada_kn": "ಪತಿಃ",
+          "meaning_en": "lord / master / protector",
+          "meaning_kn": "ಒಡೆಯನು / ರಕ್ಷಕನು"
+        }
+      ],
+      "full_meaning_en": "Indra has firmly established this (sacrifice) with constant offerings for the steadfast (gods). Soma spoke further to him (Indra), and Brahmanaspati (also spoke) to him.",
+      "full_meaning_kn": "ಇಂದ್ರನು ಸ್ಥಿರವಾದ (ದೇವತೆಗಳಿಗಾಗಿ) ನಿರಂತರ ಅರ್ಪಣೆಗಳೊಂದಿಗೆ ಇದನ್ನು (ಯಜ್ಞವನ್ನು) ದೃಢವಾಗಿ ಸ್ಥಾಪಿಸಿದ್ದಾನೆ. ಸೋಮನು ಅವನಿಗೆ (ಇಂದ್ರನಿಗೆ) ಮತ್ತಷ್ಟು ಮಾತನಾಡಿದನು, ಮತ್ತು ಬ್ರಹ್ಮಣಸ್ಪತಿಯೂ ಅವನಿಗೆ (ಹೇಳಿದನು).",
+      "rig_time_s": 23.923,
+      "Insight_en": "This mantra speaks to the establishment of sacrifice (यज्ञ) and the roles of various deities in it. Indra, the king of gods, is central, with the sacrifice made steadfast through constant offerings (हविस्). The involvement of Soma, representing the divine drink and exhilaration, and Brahmanaspati, the lord of prayer and wisdom, highlights the multifaceted nature of the Vedic ritual. The mantra emphasizes the interconnectedness of the deities in the performance and success of the sacrifice, symbolizing a harmony between power (Indra), delight (Soma), and wisdom (Brahmanaspati). Ultimately, it reflects the Vedic understanding of cosmic order maintained through ritual action.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಯಜ್ಞದ ಸ್ಥಾಪನೆ ಮತ್ತು ಅದರಲ್ಲಿ ವಿವಿಧ ದೇವತೆಗಳ ಪಾತ್ರಗಳ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ದೇವತೆಗಳ ರಾಜನಾದ ಇಂದ್ರನು ಕೇಂದ್ರನಾಗಿದ್ದಾನೆ, ನಿರಂತರ ಅರ್ಪಣೆಗಳ ಮೂಲಕ ಯಜ್ಞವು ಸ್ಥಿರವಾಗಿದೆ. ದೈವಿಕ ಪಾನೀಯ ಮತ್ತು ಉಲ್ಲಾಸವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಸೋಮ ಮತ್ತು ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯ ಅಧಿಪತಿಯಾದ ಬ್ರಹ್ಮಣಸ್ಪತಿಯವರ ಒಳಗೊಳ್ಳುವಿಕೆಯು ವೈದಿಕ ಆಚರಣೆಯ ಬಹುಮುಖಿ ಸ್ವರೂಪವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಮಂತ್ರವು ಯಜ್ಞದ ಕಾರ್ಯಕ್ಷಮತೆ ಮತ್ತು ಯಶಸ್ಸಿನಲ್ಲಿ ದೇವತೆಗಳ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಇದು ಶಕ್ತಿ, ಆನಂದ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯ ನಡುವಿನ ಸಾಮರಸ್ಯವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಇದು ಆಚರಣೆಯ ಕ್ರಿಯೆಯ ಮೂಲಕ ಕಾಪಾಡಲ್ಪಡುವ ಕಾಸ್ಮಿಕ್ ಕ್ರಮದ ವೈದಿಕ ತಿಳುವಳಿಕೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S173_191-4_6",
+      "mandala": 10,
+      "sukta": 173,
+      "ric_index": 4,
+      "rig_lines": [
+        "ध्रु॒वा द्यौर्ध्रु॒वा पृ॑थि॒वी ध्रु॒वासः॒ पर्व॑ता, इ॒मे |",
+        "ध्रु॒वं विश्व॑मि॒दं जग॑द् ध्रु॒वो राजा᳚ वि॒शाम॒यम् ||"
+      ],
+      "pre_splits": [
+        "ध्रु॒वा",
+        "द्यौः",
+        "ध्रु॒वा",
+        "पृ॒थि॒वी",
+        "ध्रु॒वासः॑",
+        "पर्व॑ताः",
+        "इ॒मे",
+        "ध्रु॒व‌म्",
+        "विश्व᳚‌म्",
+        "इ॒द‌म्",
+        "जग॑त्",
+        "ध्रु॒वः",
+        "राजा᳚",
+        "वि॒शा‌म्",
+        "अ॒य‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ध्रु॒वा",
+          "pada_kn": "ಧ್ರುವಾ",
+          "meaning_en": "firm / stable",
+          "meaning_kn": "ಸ್ಥಿರವಾದ / ಅಚಲವಾದ"
+        },
+        {
+          "pada_original": "द्यौः",
+          "pada_kn": "ದ್ಯೌಃ",
+          "meaning_en": "sky / heaven",
+          "meaning_kn": "ಆಕಾಶ / ದ್ಯುಲೋಕ"
+        },
+        {
+          "pada_original": "ध्रु॒वा",
+          "pada_kn": "ಧ್ರುವಾ",
+          "meaning_en": "firm / stable",
+          "meaning_kn": "ಸ್ಥಿರವಾದ / ಅಚಲವಾದ"
+        },
+        {
+          "pada_original": "पृ॒थि॒वी",
+          "pada_kn": "ಪೃಥಿವೀ",
+          "meaning_en": "earth",
+          "meaning_kn": "ಭೂಮಿ"
+        },
+        {
+          "pada_original": "ध्रु॒वासः॑",
+          "pada_kn": "ಧ್ರುವಾಸಃ",
+          "meaning_en": "firm / stable (plural)",
+          "meaning_kn": "ಸ್ಥಿರವಾದವುಗಳು / ಅಚಲವಾದವುಗಳು"
+        },
+        {
+          "pada_original": "पर्व॑ताः",
+          "pada_kn": "ಪರ್ವತಾಃ",
+          "meaning_en": "mountains",
+          "meaning_kn": "ಪರ್ವತಗಳು"
+        },
+        {
+          "pada_original": "इ॒मे",
+          "pada_kn": "ಇಮೇ",
+          "meaning_en": "these",
+          "meaning_kn": "ಇವು"
+        },
+        {
+          "pada_original": "ध्रु॒व‌म्",
+          "pada_kn": "ಧ್ರುವಮ್",
+          "meaning_en": "firm / stable",
+          "meaning_kn": "ಸ್ಥಿರವಾದ / ಅಚಲವಾದ"
+        },
+        {
+          "pada_original": "विश्व᳚‌म्",
+          "pada_kn": "ವಿಶ್ವಮ್",
+          "meaning_en": "all / entire",
+          "meaning_kn": "ಸಮಸ್ತ / ಇಡೀ"
+        },
+        {
+          "pada_original": "इ॒द‌म्",
+          "pada_kn": "ಇದಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "जग॑त्",
+          "pada_kn": "ಜಗತ್",
+          "meaning_en": "world / universe",
+          "meaning_kn": "ಜಗತ್ತು / ಲೋಕ"
+        },
+        {
+          "pada_original": "ध्रु॒वः",
+          "pada_kn": "ಧ್ರುವಃ",
+          "meaning_en": "firm / stable",
+          "meaning_kn": "ಸ್ಥಿರವಾದ / ಅಚಲವಾದ"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "king",
+          "meaning_kn": "ರಾಜ"
+        },
+        {
+          "pada_original": "वि॒शा‌म्",
+          "pada_kn": "ವಿಶಾಮ್",
+          "meaning_en": "of the people / of the subjects",
+          "meaning_kn": "ಪ್ರಜೆಗಳ / ಜನರ"
+        },
+        {
+          "pada_original": "अ॒य‌म्",
+          "pada_kn": "ಅಯಮ್",
+          "meaning_en": "this (one)",
+          "meaning_kn": "ಇವನು"
+        }
+      ],
+      "full_meaning_en": "The sky is stable, the earth is stable, these mountains are stable. All this universe is stable, and this king of all people is stable.",
+      "full_meaning_kn": "ದ್ಯೌ ಸ್ಥಿರವಾಗಿದೆ, ಪೃಥ್ವಿ ಸ್ಥಿರವಾಗಿದೆ, ಈ ಪರ್ವತಗಳು ಸ್ಥಿರವಾಗಿವೆ. ಈ ವಿಶ್ವವೆಲ್ಲವೂ ಸ್ಥಿರವಾಗಿದೆ ಮತ್ತು ಈ ಎಲ್ಲ ಜನರ ರಾಜನು ಸ್ಥಿರನಾಗಿದ್ದಾನೆ.",
+      "rig_time_s": 35.018,
+      "Insight_en": "This mantra speaks of the stability and permanence of the cosmos. It highlights the unchanging nature of the sky (द्यौ), the earth (पृथिवी), and the mountains. This stability extends to the entire universe (विश्व) and the king (राजा) who governs the people. The underlying spiritual insight is that amidst the ever-changing world, there are fundamental, unchanging principles that provide a foundation for existence. This emphasizes the importance of recognizing the eternal truth (सत्य) within the transient reality.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ವಿಶ್ವದ ಸ್ಥಿರತೆ ಮತ್ತು ಶಾಶ್ವತತೆಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಇದು ಆಕಾಶ (ದ್ಯೌ), ಭೂಮಿ (ಪೃಥिवी), ಮತ್ತು ಪರ್ವತಗಳ ಬದಲಾಗದ ಸ್ವರೂಪವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಈ ಸ್ಥಿರತೆಯು ಇಡೀ ವಿಶ್ವ (ವಿಶ್ವ) ಮತ್ತು ಜನರನ್ನು ಆಳುವ ರಾಜನಿಗೆ (ರಾಜ) ವಿಸ್ತರಿಸುತ್ತದೆ. ಆಧಾರವಾಗಿರುವ ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟವೆಂದರೆ, ಸದಾ ಬದಲಾಗುತ್ತಿರುವ ಜಗತ್ತಿನಲ್ಲಿ, ಅಸ್ತಿತ್ವಕ್ಕೆ ಅಡಿಪಾಯವನ್ನು ಒದಗಿಸುವ ಮೂಲಭೂತ, ಬದಲಾಗದ ತತ್ವಗಳಿವೆ. ಇದು ಕ್ಷಣಿಕ ವಾಸ್ತವದಲ್ಲಿ ಶಾಶ್ವತ ಸತ್ಯವನ್ನು (ಸತ್ಯ) ಗುರುತಿಸುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S173_191-5_6",
+      "mandala": 10,
+      "sukta": 173,
+      "ric_index": 5,
+      "rig_lines": [
+        "ध्रु॒वं ते॒ राजा॒ वरु॑णो ध्रु॒वं दे॒वो बृह॒स्पतिः॑ |",
+        "ध्रु॒वं त॒ इन्द्र॑श्चा॒ग्निश्च॑ रा॒ष्ट्रं धा᳚रयतां ध्रु॒वम् ||"
+      ],
+      "pre_splits": [
+        "ध्रु॒व‌म्",
+        "ते॒",
+        "राजा᳚",
+        "वरु॑णः",
+        "ध्रु॒व‌म्",
+        "दे॒वः",
+        "बृह॒स्पतिः॑",
+        "ध्रु॒व‌म्",
+        "ते॒",
+        "इन्द्रः॑",
+        "च॒",
+        "अ॒ग्निः",
+        "च॒",
+        "रा॒ष्ट्र‌म्",
+        "धा॒र॒य॒ता॒‌म्",
+        "ध्रु॒व‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ध्रु॒व‌म्",
+          "pada_kn": "ಧ್ರುವಮ್",
+          "meaning_en": "firmly / stably",
+          "meaning_kn": "ಸ್ಥಿರವಾಗಿ / ದೃಢವಾಗಿ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "for you / your",
+          "meaning_kn": "ನಿನಗೆ / ನಿನ್ನ"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "King",
+          "meaning_kn": "ರಾಜನು"
+        },
+        {
+          "pada_original": "वरु॑णः",
+          "pada_kn": "ವರುಣಃ",
+          "meaning_en": "Varuna",
+          "meaning_kn": "ವರುಣನು"
+        },
+        {
+          "pada_original": "ध्रु॒व‌म्",
+          "pada_kn": "ಧ್ರುವಮ್",
+          "meaning_en": "firmly / stably",
+          "meaning_kn": "ಸ್ಥಿರವಾಗಿ / ದೃಢವಾಗಿ"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "god",
+          "meaning_kn": "ದೇವನು"
+        },
+        {
+          "pada_original": "बृह॒स्पतिः॑",
+          "pada_kn": "ಬೃಹಸ್ಪತಿಃ",
+          "meaning_en": "Brihaspati",
+          "meaning_kn": "ಬೃಹಸ್ಪತಿಯು"
+        },
+        {
+          "pada_original": "ध्रु॒व‌म्",
+          "pada_kn": "ಧ್ರುವಮ್",
+          "meaning_en": "firmly / stably",
+          "meaning_kn": "ಸ್ಥಿರವಾಗಿ / ದೃಢವಾಗಿ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "for you / your",
+          "meaning_kn": "ನಿನಗೆ / ನಿನ್ನ"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni",
+          "meaning_kn": "ಅಗ್ನಿಯು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "रा॒ष्ट्र‌म्",
+          "pada_kn": "ರಾಷ್ಟ್ರಮ್",
+          "meaning_en": "kingdom / dominion",
+          "meaning_kn": "ರಾಷ್ಟ್ರವನ್ನು / ರಾಜ್ಯವನ್ನು"
+        },
+        {
+          "pada_original": "धा॒र॒य॒ता॒‌म्",
+          "pada_kn": "ಧಾರಯತಾಮ್",
+          "meaning_en": "may they sustain / hold",
+          "meaning_kn": "ಅವರು ಧರಿಸಲಿ / ಅವರು ಸ್ಥಿರವಾಗಿರಿಸಲಿ"
+        },
+        {
+          "pada_original": "ध्रु॒व‌म्",
+          "pada_kn": "ಧ್ರುವಮ್",
+          "meaning_en": "firmly / stably",
+          "meaning_kn": "ಸ್ಥಿರವಾಗಿ / ದೃಢವಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "May the steadfast king Varuna, may the steadfast divine Brihaspati, may the steadfast Indra and Agni uphold your kingdom firmly.",
+      "full_meaning_kn": "ಸ್ಥಿರವಾದ ರಾಜ ವರುಣನು, ಸ್ಥಿರವಾದ ದೈವ ಬೃಹಸ್ಪತಿಯು, ಸ್ಥಿರವಾದ ಇಂದ್ರ ಮತ್ತು ಅಗ್ನಿಯು ನಿಮ್ಮ ರಾಜ್ಯವನ್ನು ದೃಢವಾಗಿ ಬೆಂಬಲಿಸಲಿ.",
+      "rig_time_s": 46.41,
+      "Insight_en": "This mantra emphasizes stability and divine support for the kingdom. It invokes Varuna, representing cosmic order (ṛta), Brihaspati, the lord of wisdom and prayer, and Indra and अग्नि (Agni), symbolizing power and transformative energy respectively. By invoking these deities, the mantra seeks to establish a firm foundation for righteous governance. The repetition of \"dhruvam\" (steadfast) reinforces the desire for permanence and unwavering divine assistance. Spiritually, it reflects the need for inner stability and seeking divine grace to uphold dharma within oneself.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ರಾಜ್ಯಕ್ಕೆ ಸ್ಥಿರತೆ ಮತ್ತು ದೈವಿಕ ಬೆಂಬಲವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಇದು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ವರುಣ, ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ಪ್ರಾರ್ಥನೆಯ ಅಧಿಪತಿಯಾದ ಬೃಹಸ್ಪತಿ, ಮತ್ತು ಶಕ್ತಿ ಮತ್ತು ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುವ ಇಂದ್ರ ಮತ್ತು ಅಗ್ನಿಯನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ. ಈ ದೇವತೆಗಳನ್ನು ಆಹ್ವಾನಿಸುವ ಮೂಲಕ, ಮಂತ್ರವು ಧರ್ಮನಿಷ್ಠ ಆಡಳಿತಕ್ಕೆ ದೃಢವಾದ ಅಡಿಪಾಯವನ್ನು ಸ್ಥಾಪಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ. 'ಧ್ರುವಂ' (ಸ್ಥಿರ) ಎಂಬ ಪದದ ಪುನರಾವರ್ತನೆಯು ಶಾಶ್ವತತೆ ಮತ್ತು ಅಚಲವಾದ ದೈವಿಕ ಸಹಾಯದ ಬಯಕೆಯನ್ನು ಬಲಪಡಿಸುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ಆಂತರಿಕ ಸ್ಥಿರತೆಯ ಅಗತ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ ಮತ್ತು ಒಬ್ಬರೊಳಗೆ ಧರ್ಮವನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು ಹುಡುಕುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S173_191-6_6",
+      "mandala": 10,
+      "sukta": 173,
+      "ric_index": 6,
+      "rig_lines": [
+        "ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॒ऽभि सोमं᳚ मृशामसि |",
+        "अथो᳚ त॒ इन्द्रः॒ केव॑ली॒र्विशो᳚ बलि॒हृत॑स्करत् ||"
+      ],
+      "pre_splits": [
+        "ध्रु॒व‌म्",
+        "ध्रु॒वेण॑",
+        "ह॒विषा᳚",
+        "अ॒भि",
+        "सोम᳚‌म्",
+        "मृ॒शा॒म॒सि॒",
+        "अथो॒ इति॑",
+        "ते॒",
+        "इन्द्रः॑",
+        "केव॑लीः",
+        "विशः॑",
+        "ब॒लि॒ऽहृतः॑",
+        "क॒र॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ध्रु॒व‌म्",
+          "pada_kn": "ಧ್ರುವಮ್",
+          "meaning_en": "firm / stable",
+          "meaning_kn": "ಸ್ಥಿರವಾದ / ದೃಢವಾದ"
+        },
+        {
+          "pada_original": "ध्रु॒वेण॑",
+          "pada_kn": "ಧ್ರುವೇಣ",
+          "meaning_en": "by a firm (means/offering)",
+          "meaning_kn": "ದೃಢವಾದ (ಸಾಧನದಿಂದ/ಹವಿಸ್ಸಿನಿಂದ)"
+        },
+        {
+          "pada_original": "ह॒विषा᳚",
+          "pada_kn": "ಹವಿಷಾ",
+          "meaning_en": "by an oblation / offering",
+          "meaning_kn": "ಹವಿಸ್ಸಿನಿಂದ / ಅರ್ಪಣೆಯಿಂದ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards / unto",
+          "meaning_kn": "ಕಡೆಗೆ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma (the deity/juice)",
+          "meaning_kn": "ಸೋಮವನ್ನು (ದೇವತೆ/ರಸ)"
+        },
+        {
+          "pada_original": "मृ॒शा॒म॒सि॒",
+          "pada_kn": "ಮೃಶಾಮಸಿ",
+          "meaning_en": "we touch / we attain",
+          "meaning_kn": "ನಾವು ಸ್ಪರ್ಶಿಸುತ್ತೇವೆ / ನಾವು ಪಡೆಯುತ್ತೇವೆ"
+        },
+        {
+          "pada_original": "अथो॒ इति॑",
+          "pada_kn": "ಅಥೋ ಇತಿ",
+          "meaning_en": "and then / moreover",
+          "meaning_kn": "ಮತ್ತು ನಂತರ / ಇದಲ್ಲದೆ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "for you (O King)",
+          "meaning_kn": "ನಿನಗಾಗಿ (ಓ ರಾಜನೇ)"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra (the deity)",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "केव॑लीः",
+          "pada_kn": "ಕೇವಲೀಃ",
+          "meaning_en": "exclusively devoted / solely yours",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ ನಿನ್ನದೇ ಆದ / ನಿಷ್ಠಾವಂತ"
+        },
+        {
+          "pada_original": "विशः॑",
+          "pada_kn": "ವಿಶಃ",
+          "meaning_en": "people / subjects",
+          "meaning_kn": "ಪ್ರಜೆಗಳು / ಜನರು"
+        },
+        {
+          "pada_original": "ब॒लि॒ऽहृतः॑",
+          "pada_kn": "ಬಲಿಹೃತಃ",
+          "meaning_en": "tribute-bearing / bringing offerings",
+          "meaning_kn": "ಕಾಣಿಕೆ ತರುವ / ಕಪ್ಪ ಕಾಣಿಕೆ ಸಲ್ಲಿಸುವ"
+        },
+        {
+          "pada_original": "क॒र॒त्",
+          "pada_kn": "ಕರತ್",
+          "meaning_en": "may he make / may he cause",
+          "meaning_kn": "ಅವನು ಮಾಡಲಿ / ಅವನು ಉಂಟುಮಾಡಲಿ"
+        }
+      ],
+      "full_meaning_en": "With steadfast offerings, let us touch the Soma. Then may Indra alone make the people tributary to you, O Agni.",
+      "full_meaning_kn": "ಸ್ಥಿರವಾದ ಅರ್ಪಣೆಗಳೊಂದಿಗೆ, ನಾವು ಸೋಮವನ್ನು ಸ್ಪರ್ಶಿಸೋಣ. ನಂತರ ಇಂದ್ರನು ಮಾತ್ರ ಜನರನ್ನು ನಿಮಗೆ ಕಪ್ಪಕಟ್ಟುವಂತೆ ಮಾಡಲಿ, ಓ ಅಗ್ನಿ.",
+      "rig_time_s": 58.522,
+      "Insight_en": "This mantra highlights the intertwined relationship between अग्नि (Agni), सोम (Soma), and इंद्र (Indra). By offering steadfast oblations, the devotee seeks to connect with the divine. The touching of Soma signifies an attempt to invoke the invigorating and transformative essence within. Indra, empowered by अग्नि, is then petitioned to make all people tributary, implying the establishment of spiritual sovereignty and the ultimate realization of unity through devotion.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿ, ಸೋಮ ಮತ್ತು ಇಂದ್ರರ ನಡುವಿನ ಪರಸ್ಪರ ಸಂಬಂಧವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಸ್ಥಿರವಾದ ಅರ್ಪಣೆಗಳನ್ನು ನೀಡುವ ಮೂಲಕ, ಭಕ್ತನು ದೈವಿಕದೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಬಯಸುತ್ತಾನೆ. ಸೋಮವನ್ನು ಸ್ಪರ್ಶಿಸುವುದು ಒಳಗಿನ ಚೈತನ್ಯ ಮತ್ತು ಪರಿವರ್ತಕ ಸಾರವನ್ನು ಆಹ್ವಾನಿಸುವ ಪ್ರಯತ್ನವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಗ್ನಿಯಿಂದ ಸಶಕ್ತನಾದ ಇಂದ್ರನು ಎಲ್ಲಾ ಜನರನ್ನು ಕಪ್ಪಕಟ್ಟುವಂತೆ ಮಾಡಲು ಪ್ರಾರ್ಥಿಸುತ್ತಾನೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಸಾರ್ವಭೌಮತ್ವದ ಸ್ಥಾಪನೆ ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ ಏಕತೆಯ ಅಂತಿಮ ಸಾಕ್ಷಾತ್ಕಾರವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

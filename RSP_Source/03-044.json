@@ -1,0 +1,636 @@
+{
+  "mandala": 3,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M3-S44_62-1_5",
+      "mandala": 3,
+      "sukta": 44,
+      "ric_index": 1,
+      "rig_lines": [
+        "अ॒यं ते᳚, अस्तु हर्य॒तः सोम॒ आ हरि॑भिः सु॒तः |",
+        "जु॒षा॒ण इ᳚न्द्र॒ हरि॑भिर्न॒ आ ग॒ह्या ति॑ष्ठ॒ हरि॑तं॒ रथ᳚म् ||"
+      ],
+      "pre_splits": [
+        "अ॒य‌म्",
+        "ते॒",
+        "अ॒स्तु॒",
+        "ह॒र्य॒तः",
+        "सोमः॑",
+        "आ",
+        "हरि॑ऽभिः",
+        "सु॒तः",
+        "जु॒षा॒णः",
+        "इ॒न्द्र॒",
+        "हरि॑ऽभिः",
+        "नः॒",
+        "आ",
+        "ग॒हि॒",
+        "आ",
+        "ति॒ष्ठ॒",
+        "हरि॑त‌म्",
+        "रथ᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒य‌म्",
+          "pada_kn": "ಅಯಮ್",
+          "meaning_en": "This (Soma)",
+          "meaning_kn": "ಈ (ಸೋಮ)"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "For you / Yours",
+          "meaning_kn": "ನಿನಗಾಗಿ / ನಿನ್ನದು"
+        },
+        {
+          "pada_original": "अ॒स्तु॒",
+          "pada_kn": "ಅಸ್ತು",
+          "meaning_en": "Let it be",
+          "meaning_kn": "ಇರಲಿ"
+        },
+        {
+          "pada_original": "ह॒र्य॒तः",
+          "pada_kn": "ಹರ್ಯತಃ",
+          "meaning_en": "Desirable / delightful",
+          "meaning_kn": "ಇಷ್ಟವಾದ / ಆನಂದಕರವಾದ"
+        },
+        {
+          "pada_original": "सोमः॑",
+          "pada_kn": "ಸೋಮಃ",
+          "meaning_en": "Soma (juice)",
+          "meaning_kn": "ಸೋಮ (ರಸ)"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle, indicating completion)",
+          "meaning_kn": "(ಪೂರ್ಣತೆಯನ್ನು ಸೂಚಿಸುವ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "हरि॑ऽभिः",
+          "pada_kn": "ಹರಿಭಿಃ",
+          "meaning_en": "By the tawny (press-stones/horses)",
+          "meaning_kn": "ಹರಿ (ಅಶ್ವಗಳು/ಕಲ್ಲುಗಳು)ಗಳಿಂದ"
+        },
+        {
+          "pada_original": "सु॒तः",
+          "pada_kn": "ಸುತಃ",
+          "meaning_en": "Pressed / extracted",
+          "meaning_kn": "ಹಿಂಡಲ್ಪಟ್ಟ / ತೆಗೆದ"
+        },
+        {
+          "pada_original": "जु॒षा॒णः",
+          "pada_kn": "ಜುಷಾಣಃ",
+          "meaning_en": "Delighting in / accepting",
+          "meaning_kn": "ಸ್ವೀಕರಿಸುತ್ತಾ / ಸಂತೋಷಪಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "हरि॑ऽभिः",
+          "pada_kn": "ಹರಿಭಿಃ",
+          "meaning_en": "With the tawny (horses)",
+          "meaning_kn": "ಹರಿ (ಅಶ್ವ)ಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "To us / for us",
+          "meaning_kn": "ನಮಗೆ / ನಮಗಾಗಿ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Come (particle)",
+          "meaning_kn": "ಬಾ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "ग॒हि॒",
+          "pada_kn": "ಗಹಿ",
+          "meaning_en": "Come (imperative)",
+          "meaning_kn": "ಬಾ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle, with तिष्ठ)",
+          "meaning_kn": "(ತಿಷ್ಠ ಜೊತೆಗಿನ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "ति॒ष्ठ॒",
+          "pada_kn": "ತಿಷ್ಠ",
+          "meaning_en": "Stand / mount",
+          "meaning_kn": "ಏರು / ನಿಲ್ಲು"
+        },
+        {
+          "pada_original": "हरि॑त‌म्",
+          "pada_kn": "ಹರಿತಮ್",
+          "meaning_en": "Greenish / tawny / golden",
+          "meaning_kn": "ಹಸಿರು / ಹಳದಿ / ಸುವರ್ಣಮಯ"
+        },
+        {
+          "pada_original": "रथ᳚‌म्",
+          "pada_kn": "ರಥಮ್",
+          "meaning_en": "Chariot",
+          "meaning_kn": "ರಥ"
+        }
+      ],
+      "full_meaning_en": "O Indra, may this Soma, delightful and extracted by golden stones, be offered to you. Rejoicing in it, come to us with your golden horses, and ascend your verdant chariot.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರನೆ, ಸುವರ್ಣ ಶಿಲೆಗಳಿಂದ ಹಿಂಡಲ್ಪಟ್ಟ, ಆಹ್ಲಾದಕರವಾದ ಈ ಸೋಮವು ನಿನಗಾಗಿರಲಿ. ಅದರಲ್ಲಿ ಆನಂದಿಸುತ್ತ, ನಿನ್ನ ಸುವರ್ಣ ಕುದುರೆಗಳೊಂದಿಗೆ ನಮ್ಮ ಬಳಿಗೆ ಬಾ ಮತ್ತು ನಿನ್ನ ಹಸಿರು ಬಣ್ಣದ ರಥವನ್ನು ಏರು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The pressing of Soma represents the extraction of essence from experience. The golden stones symbolize discernment (viveka). Indra, representing the awakened intellect, delights in this essence. The green chariot signifies the field of action, guided by wisdom.",
+      "Insight_kn": "ಸೋಮವನ್ನು ಹಿಂಡುವುದು ಅನುಭವದಿಂದ ಸಾರವನ್ನು ಹೊರತೆಗೆಯುವುದನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಸುವರ್ಣ ಶಿಲೆಗಳು ವಿವೇಕವನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಇಂದ್ರನು ಜಾಗೃತ ಬುದ್ಧಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಅವನು ಈ ಸಾರದಲ್ಲಿ ಆನಂದಿಸುತ್ತಾನೆ. ಹಸಿರು ರಥವು ಜ್ಞಾನದಿಂದ ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಟ್ಟ ಕ್ರಿಯೆಯ ಕ್ಷೇತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S44_62-2_5",
+      "mandala": 3,
+      "sukta": 44,
+      "ric_index": 2,
+      "rig_lines": [
+        "ह॒र्यन्नु॒षस॑मर्चयः॒ सूर्यं᳚ ह॒र्यन्न॑रोचयः |",
+        "वि॒द्वाँश्चि॑कि॒त्वान्‌ ह᳚र्यश्व वर्धस॒ इन्द्र॒ विश्वा᳚, अ॒भि श्रियः॑ ||"
+      ],
+      "pre_splits": [
+        "ह॒र्यन्",
+        "उ॒षस᳚‌म्",
+        "अ॒र्च॒यः॒",
+        "सूर्य᳚‌म्",
+        "ह॒र्यन्",
+        "अ॒रो॒च॒यः॒",
+        "वि॒द्वान्",
+        "चि॒कि॒त्वान्",
+        "ह॒रि॒।आ॒श्व॒",
+        "व॒र्ध॒से॒",
+        "इन्द्र॑",
+        "विश्वाः᳚",
+        "अ॒भि",
+        "श्रियः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ह॒र्यन्",
+          "pada_kn": "ಹರ್ಯನ್",
+          "meaning_en": "desiring / wishing",
+          "meaning_kn": "ಇಚ್ಛಿಸುವ / ಬಯಸುವ"
+        },
+        {
+          "pada_original": "उ॒षस᳚‌म्",
+          "pada_kn": "ಉಷಸಮ್",
+          "meaning_en": "the Dawn",
+          "meaning_kn": "ಉಷಸ್ಸನ್ನು / ಪ್ರಭಾತವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒र्च॒यः॒",
+          "pada_kn": "ಅರ್ಚಯಃ",
+          "meaning_en": "you caused to shine / you glorified",
+          "meaning_kn": "ನೀನು ಪ್ರಕಾಶಗೊಳಿಸಿದೆ / ಹೊಳೆಯುವಂತೆ ಮಾಡಿದೆ"
+        },
+        {
+          "pada_original": "सूर्य᳚‌म्",
+          "pada_kn": "ಸೂರ್ಯಮ್",
+          "meaning_en": "the Sun",
+          "meaning_kn": "ಸೂರ್ಯನನ್ನು"
+        },
+        {
+          "pada_original": "ह॒र्यन्",
+          "pada_kn": "ಹರ್ಯನ್",
+          "meaning_en": "desiring / wishing",
+          "meaning_kn": "ಇಚ್ಛಿಸುವ / ಬಯಸುವ"
+        },
+        {
+          "pada_original": "अ॒रो॒च॒यः॒",
+          "pada_kn": "ಅರೋಚಯಃ",
+          "meaning_en": "you caused to shine / you illuminated",
+          "meaning_kn": "ನೀನು ಪ್ರಕಾಶಗೊಳಿಸಿದೆ / ಬೆಳಗಿಸಿದೆ"
+        },
+        {
+          "pada_original": "वि॒द्वान्",
+          "pada_kn": "ವಿದ್ವಾನ್",
+          "meaning_en": "knowing / wise",
+          "meaning_kn": "ತಿಳಿದವನೇ / ಜ್ಞಾನಿಯೇ"
+        },
+        {
+          "pada_original": "चि॒कि॒त्वान्",
+          "pada_kn": "ಚಿಕಿತ್ವಾನ್",
+          "meaning_en": "discerning / intelligent",
+          "meaning_kn": "ವಿವೇಕಿಯೇ / ಅರಿತವನೇ"
+        },
+        {
+          "pada_original": "ह॒रि॒।आ॒श्व॒",
+          "pada_kn": "ಹರಿಆಶ್ವ",
+          "meaning_en": "O Hari-ashva (Indra, whose horses are tawny)",
+          "meaning_kn": "ಓ ಹರಿಅಶ್ವನೇ (ಇಂದ್ರನ ವಿಶೇಷಣ)"
+        },
+        {
+          "pada_original": "व॒र्ध॒से॒",
+          "pada_kn": "ವರ್ಧಸೇ",
+          "meaning_en": "you increase / you prosper",
+          "meaning_kn": "ನೀನು ಹೆಚ್ಚಿಸುತ್ತೀಯೆ / ವೃದ್ಧಿಪಡಿಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "इन्द्र॑",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "विश्वाः᳚",
+          "pada_kn": "ವಿಶ್ವಾಃ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards / over / upon",
+          "meaning_kn": "ಕಡೆಗೆ / ಕುರಿತು / ಮೇಲೆ"
+        },
+        {
+          "pada_original": "श्रियः॑",
+          "pada_kn": "ಶ्रियಃ",
+          "meaning_en": "glories / splendors / fortunes",
+          "meaning_kn": "ಸಂಪತ್ತುಗಳನ್ನು / ಶ್ರೇಯಸ್ಸುಗಳನ್ನು / ವೈಭವಗಳನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Indra, desiring the Soma, you made the Dawn radiant, and desiring the Soma, you illuminated the Sun. O wise, discerning, and possessing golden steeds, Indra, you augment all glories and splendors.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಸೋಮವನ್ನು ಅಪೇಕ್ಷಿಸುತ್ತಾ, ಉಷೆಯನ್ನು ಬೆಳಗುವಂತೆ ಮಾಡಿದೆ, ಮತ್ತು ಸೋಮವನ್ನು ಅಪೇಕ್ಷಿಸುತ್ತಾ, ಸೂರ್ಯನನ್ನು ಪ್ರಕಾಶಿಸುವಂತೆ ಮಾಡಿದೆ. ಓ ಜ್ಞಾನವುಳ್ಳ, ವಿವೇಚನೆಯುಳ್ಳ, ಮತ್ತು ಸ್ವರ್ಣದ ಕುದುರೆಗಳನ್ನು ಹೊಂದಿರುವ ಇಂದ್ರ, ನೀನು ಎಲ್ಲಾ ವೈಭವ ಮತ್ತು ತೇಜಸ್ಸನ್ನು ಹೆಚ್ಚಿಸುತ್ತಿರುವೆ.",
+      "rig_time_s": 11.359,
+      "Insight_en": "The desire (हरि) for the divine nectar (Soma) fuels both inner illumination (Dawn) and outer manifestation (Sun). Wisdom (विद्वान्) and discernment (चिकित्वान्) are the horses (हरि-अश्व) that carry Indra, the inner ruler, to amplify all aspects of glory (श्री).",
+      "Insight_kn": "ದೈವಿಕ ಅಮೃತದ (ಸೋಮ) ಬಯಕೆ (ಹರಿ) ಆಂತರಿಕ ಪ್ರಕಾಶ (ಉಷಾ) ಮತ್ತು ಬಾಹ್ಯ ಅಭಿವ್ಯಕ್ತಿ (ಸೂರ್ಯ) ಎರಡನ್ನೂ ಉತ್ತೇಜಿಸುತ್ತದೆ. ಜ್ಞಾನ (ವಿದ್ವಾನ್) ಮತ್ತು ವಿವೇಚನೆ (ಚಿಕಿತ್ವಾನ್) ಇಂದ್ರನನ್ನು ಹೊತ್ತೊಯ್ಯುವ ಕುದುರೆಗಳು (ಹರಿ-ಅಶ್ವ), ಆಂತರಿಕ ಆಡಳಿತಗಾರ, ಎಲ್ಲಾ ವೈಭವದ ಅಂಶಗಳನ್ನು (ಶ್ರೀ) ಹೆಚ್ಚಿಸಲು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S44_62-3_5",
+      "mandala": 3,
+      "sukta": 44,
+      "ric_index": 3,
+      "rig_lines": [
+        "द्यामिन्द्रो॒ हरि॑धायसं पृथि॒वीं हरि॑वर्पसम् |",
+        "अधा᳚रयद्ध॒रितो॒र्भूरि॒ भोज॑नं॒ ययो᳚र॒न्तर्हरि॒श्चर॑त् ||"
+      ],
+      "pre_splits": [
+        "द्या‌म्",
+        "इन्द्रः॑",
+        "हरि॑ऽधायस‌म्",
+        "पृ॒थि॒वी‌म्",
+        "हरि॑ऽवर्पस‌म्",
+        "अधा᳚रयत्",
+        "ह॒रितोः᳚",
+        "भूरि॑",
+        "भोज॑न‌म्",
+        "ययोः᳚",
+        "अ॒न्तः",
+        "हरिः॒",
+        "चर॑त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "द्या‌म्",
+          "pada_kn": "ದ್ಯಾಮ್",
+          "meaning_en": "Heaven / Sky",
+          "meaning_kn": "ಆಕಾಶವನ್ನು / ದ್ಯುಲೋಕವನ್ನು"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "हरि॑ऽधायस‌म्",
+          "pada_kn": "ಹರಿದಾಯಸಮ್",
+          "meaning_en": "having golden/tawny foundation/support",
+          "meaning_kn": "ಸುವರ್ಣಮಯವಾದ/ಹಳದಿ ಬಣ್ಣದ ಆಧಾರವುಳ್ಳ"
+        },
+        {
+          "pada_original": "पृ॒थि॒वी‌म्",
+          "pada_kn": "ಪೃಥಿವೀಮ್",
+          "meaning_en": "Earth",
+          "meaning_kn": "ಭೂಮಿಯನ್ನು"
+        },
+        {
+          "pada_original": "हरि॑ऽवर्पस‌म्",
+          "pada_kn": "ಹರಿವರ್ಪಸಮ್",
+          "meaning_en": "having golden/tawny form/appearance",
+          "meaning_kn": "ಸುವರ್ಣಮಯವಾದ/ಹಳದಿ ಬಣ್ಣದ ರೂಪವುಳ್ಳ"
+        },
+        {
+          "pada_original": "अधा᳚रयत्",
+          "pada_kn": "ಅಧಾರಯತ್",
+          "meaning_en": "sustained / supported / held",
+          "meaning_kn": "ಧಾರಣೆ ಮಾಡಿದನು / ಹಿಡಿದಿಟ್ಟನು"
+        },
+        {
+          "pada_original": "ह॒रितोः᳚",
+          "pada_kn": "ಹರಿತೋಃ",
+          "meaning_en": "of the two golden/tawny ones (heaven and earth)",
+          "meaning_kn": "ಆ ಎರಡು ಸುವರ್ಣಮಯವಾದವುಗಳಿಗೆ (ದ್ಯುಲೋಕ ಮತ್ತು ಭೂಮಿಗೆ)"
+        },
+        {
+          "pada_original": "भूरि॑",
+          "pada_kn": "ಭೂರಿ",
+          "meaning_en": "abundant / much",
+          "meaning_kn": "ಅಧಿಕವಾದ / ಬಹಳ"
+        },
+        {
+          "pada_original": "भोज॑न‌म्",
+          "pada_kn": "ಭೋಜನಮ್",
+          "meaning_en": "nourishment / enjoyment",
+          "meaning_kn": "ಪೋಷಣೆಯನ್ನು / ಭೋಗವನ್ನು"
+        },
+        {
+          "pada_original": "ययोः᳚",
+          "pada_kn": "ಯಯೋಃ",
+          "meaning_en": "between which two (heaven and earth)",
+          "meaning_kn": "ಯಾವೆರಡರ ನಡುವೆ"
+        },
+        {
+          "pada_original": "अ॒न्तः",
+          "pada_kn": "ಅಂತಃ",
+          "meaning_en": "within / between",
+          "meaning_kn": "ಒಳಗೆ / ನಡುವೆ"
+        },
+        {
+          "pada_original": "हरिः॒",
+          "pada_kn": "ಹರಿಃ",
+          "meaning_en": "the golden one / Indra's horse / Indra",
+          "meaning_kn": "ಸುವರ್ಣಮಯನು / ಇಂದ್ರನ ಕುದುರೆ / ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "चर॑त्",
+          "pada_kn": "ಚರತ್",
+          "meaning_en": "moves / roams",
+          "meaning_kn": "ಸಂಚರಿಸುತ್ತಾನೆ / ಚಲಿಸುತ್ತಾನೆ"
+        }
+      ],
+      "full_meaning_en": "O Indra, you sustained the heavens with its base of gold and the earth adorned with golden form. You provided abundant sustenance for both, within which a golden presence moves.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಸುವರ್ಣಮಯವಾದ ತಳಹದಿಯುಳ್ಳ ಸ್ವರ್ಗವನ್ನೂ ಸುವರ್ಣ ರೂಪದಿಂದ ಅಲಂಕೃತವಾದ ಭೂಮಿಯನ್ನೂ ನೀನು ಧರಿಸಿದ್ದಿ. ಆ ಇಬ್ಬರಿಗೂ ಸಮೃದ್ಧವಾದ ಪೋಷಣೆಯನ್ನು ಒದಗಿಸಿದೆ, ಅವರ ನಡುವೆ ಸುವರ್ಣಮಯ ಅಸ್ತಿತ್ವವು ಚಲಿಸುತ್ತದೆ.",
+      "rig_time_s": 24.427,
+      "Insight_en": "The golden foundation (हरिधायसम्) and form (हरिवर्पसम्) of heaven and earth represent the inherent divinity and purity within all existence. Indra's act of sustaining them symbolizes the divine support and nourishment that maintains cosmic order. The golden presence (हरिः) moving between heaven and earth suggests the continuous flow of divine consciousness, the animating principle that pervades and connects all things. This movement embodies the dynamic interplay of spirit and matter, reflecting the ever-present potential for spiritual awakening within the mundane.",
+      "Insight_kn": "ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯ ಸುವರ್ಣ ತಳಹದಿ (ಹರಿದಾಯಸಂ) ಮತ್ತು ರೂಪ (ಹರಿವರ್ಪಸಂ) ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ದೈವತ್ವ ಮತ್ತು ಶುದ್ಧತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇಂದ್ರನು ಅವುಗಳನ್ನು ಧರಿಸುವುದು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಕಾಪಾಡುವ ದೈವಿಕ ಬೆಂಬಲ ಮತ್ತು ಪೋಷಣೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯ ನಡುವೆ ಚಲಿಸುವ ಸುವರ್ಣ ಅಸ್ತಿತ್ವ (ಹರಿಃ) ದೈವಿಕ ಪ್ರಜ್ಞೆಯ ನಿರಂತರ ಹರಿವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಚಲನೆಯು ಆತ್ಮ ಮತ್ತು ವಸ್ತುವಿನ ಕ್ರಿಯಾತ್ಮಕ ಪರಸ್ಪರ ಕ್ರಿಯೆಯನ್ನು ಒಳಗೊಂಡಿದೆ, ಲೌಕಿಕದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಜಾಗೃತಿಯ ನಿರಂತರ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S44_62-4_5",
+      "mandala": 3,
+      "sukta": 44,
+      "ric_index": 4,
+      "rig_lines": [
+        "ज॒ज्ञा॒नो हरि॑तो॒ वृषा॒ विश्व॒मा भा᳚ति रोच॒नम् |",
+        "हर्य॑श्वो॒ हरि॑तं धत्त॒ आयु॑ध॒मा वज्रं᳚ बा॒ह्वोर्हरि᳚म् ||"
+      ],
+      "pre_splits": [
+        "ज॒ज्ञा॒नः",
+        "हरि॑तः",
+        "वृषा᳚",
+        "विश्व᳚‌म्",
+        "आ",
+        "भा॒ति॒",
+        "रो॒च॒न‌म्",
+        "हरि॑।आश्वः",
+        "हरि॑त‌म्",
+        "ध॒त्ते॒",
+        "आयु॑ध‌म्",
+        "आ",
+        "वज्र᳚‌म्",
+        "बा॒ह्वोः",
+        "हरि᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ज॒ज्ञा॒नः",
+          "pada_kn": "ಜಜ್ಞಾನಃ",
+          "meaning_en": "Born / Manifested",
+          "meaning_kn": "ಹುಟ್ಟಿದವನು / ಪ್ರಕಟವಾದವನು"
+        },
+        {
+          "pada_original": "हरि॑तः",
+          "pada_kn": "ಹರಿತಃ",
+          "meaning_en": "Golden-hued / Tawny",
+          "meaning_kn": "ಸುವರ್ಣ ವರ್ಣದ / ಹಳದಿ-ಹಸಿರು ಬಣ್ಣದ"
+        },
+        {
+          "pada_original": "वृषा᳚",
+          "pada_kn": "ವೃಷಾ",
+          "meaning_en": "The strong one / Showerer (of blessings)",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿ / ಸುರಿಸುವವನು"
+        },
+        {
+          "pada_original": "विश्व᳚‌म्",
+          "pada_kn": "ವಿಶ್ವಮ್",
+          "meaning_en": "All / Entire",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(intensifying prefix)",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "भा॒ति॒",
+          "pada_kn": "ಭಾತಿ",
+          "meaning_en": "Shines",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "रो॒च॒न‌म्",
+          "pada_kn": "ರೋಚನಮ್",
+          "meaning_en": "Luminous space / Sky",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ ಲೋಕ / ಆಕಾಶ"
+        },
+        {
+          "pada_original": "हरि॑।आश्वः",
+          "pada_kn": "ಹರಿಆಶ್ವಃ",
+          "meaning_en": "He whose horses are tawny",
+          "meaning_kn": "ಹಳದಿ-ಹಸಿರು ಕುದುರೆಗಳನ್ನು ಹೊಂದಿರುವವನು"
+        },
+        {
+          "pada_original": "हरि॑त‌म्",
+          "pada_kn": "ಹರಿತಮ್",
+          "meaning_en": "Golden-hued / Tawny",
+          "meaning_kn": "ಸುವರ್ಣ ವರ್ಣದ / ಹಳದಿ-ಹಸಿರು ಬಣ್ಣದ"
+        },
+        {
+          "pada_original": "ध॒त्ते॒",
+          "pada_kn": "ಧತ್ತೇ",
+          "meaning_en": "Holds / Bears",
+          "meaning_kn": "ಧರಿಸುತ್ತಾನೆ / ಹಿಡಿದಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "आयु॑ध‌म्",
+          "pada_kn": "ಆಯುಧಮ್",
+          "meaning_en": "Weapon",
+          "meaning_kn": "ಆಯುಧ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(intensifying prefix)",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "वज्र᳚‌म्",
+          "pada_kn": "ವಜ್ರಮ್",
+          "meaning_en": "Thunderbolt",
+          "meaning_kn": "ವಜ್ರಾಯುಧ"
+        },
+        {
+          "pada_original": "बा॒ह्वोः",
+          "pada_kn": "ಬಾಹ್ವೋಃ",
+          "meaning_en": "In his two arms",
+          "meaning_kn": "ಎರಡೂ ತೋಳುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "हरि᳚‌म्",
+          "pada_kn": "ಹರಿಮ್",
+          "meaning_en": "Golden-hued / Tawny",
+          "meaning_kn": "ಸುವರ್ಣ ವರ್ಣದ / ಹಳದಿ-ಹಸಿರು ಬಣ್ಣದ"
+        }
+      ],
+      "full_meaning_en": "Born, the golden-hued and mighty Indra shines forth, illuminating the entire luminous space. He, whose horses are tawny, holds his golden-hued weapon, the tawny thunderbolt, firmly in his two arms.",
+      "full_meaning_kn": "ಹುಟ್ಟಿದ, ಸುವರ್ಣವರ್ಣದ ಮತ್ತು ಬಲಿಷ್ಠನಾದ ಇಂದ್ರನು ಪ್ರಕಾಶಿಸುತ್ತಾನೆ, ಬೆಳಗುವ ಸಂಪೂರ್ಣ ಜಾಗವನ್ನು ಬೆಳಗಿಸುತ್ತಾನೆ. ಅವನು, ಯಾರ ಕುದುರೆಗಳು ಕಂದು ಬಣ್ಣದಲ್ಲಿವೆಯೋ, ತನ್ನ ಸುವರ್ಣವರ್ಣದ ಆಯುಧವನ್ನು, ಕಂದು ಸಿಡಿಲನ್ನು, ತನ್ನ ಎರಡು ಭುಜಗಳಲ್ಲಿ ದೃಢವಾಗಿ ಹಿಡಿದಿದ್ದಾನೆ.",
+      "rig_time_s": 36.649,
+      "Insight_en": "Indra represents the awakened consciousness, the golden light (हरित) of illumination that arises from within. The thunderbolt (वज्रं) held firmly in his arms symbolizes the power of discernment and will, crushing ignorance and negativity to reveal the resplendent truth. The tawny horses are the senses, disciplined and directed by the enlightened intellect.",
+      "Insight_kn": "ಇಂದ್ರನು ಜಾಗೃತ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಒಳಗಿನಿಂದ ಉಂಟಾಗುವ ಪ್ರಕಾಶದ ಸುವರ್ಣ ಬೆಳಕು (ಹರಿತ). ಅವನ ತೋಳುಗಳಲ್ಲಿ ದೃಢವಾಗಿ ಹಿಡಿದಿರುವ ವಜ್ರಾಯುಧವು (ವಜ್ರಂ) ವಿವೇಚನೆ ಮತ್ತು ಇಚ್ಛಾಶಕ್ತಿಯ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಅಜ್ಞಾನ ಮತ್ತು ನಕಾರಾತ್ಮಕತೆಯನ್ನು ಪುಡಿಮಾಡಿ ತೇಜಸ್ಸಿನ ಸತ್ಯವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಕಂದು ಕುದುರೆಗಳು ಇಂದ್ರಿಯಗಳಾಗಿವೆ, ಪ್ರಬುದ್ಧ ಬುದ್ಧಿಶಕ್ತಿಯಿಂದ ಶಿಸ್ತುಬದ್ಧವಾಗಿ ನಿರ್ದೇಶಿಸಲ್ಪಡುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S44_62-5_5",
+      "mandala": 3,
+      "sukta": 44,
+      "ric_index": 5,
+      "rig_lines": [
+        "इन्द्रो᳚ ह॒र्यन्त॒मर्जु॑नं॒ वज्रं᳚ शु॒क्रैर॒भीवृ॑तम् |",
+        "अपा᳚वृणो॒द्धरि॑भि॒रद्रि॑भिः सु॒तमुद्‌ गा हरि॑भिराजत ||"
+      ],
+      "pre_splits": [
+        "इन्द्रः॑",
+        "ह॒र्यन्त᳚‌म्",
+        "अर्जु॑न‌म्",
+        "वज्र᳚‌म्",
+        "शु॒क्रैः",
+        "अ॒भिऽवृ॑त‌म्",
+        "अप॑",
+        "अ॒वृ॒णो॒त्",
+        "हरि॑ऽभिः",
+        "अद्रि॑ऽभिः",
+        "सु॒त‌म्",
+        "उत्",
+        "गाः",
+        "हरि॑ऽभिः",
+        "आ॒ज॒त॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರ"
+        },
+        {
+          "pada_original": "ह॒र्यन्त᳚‌म्",
+          "pada_kn": "ಹರ್ಯಂತಮ್",
+          "meaning_en": "golden-yellow / desirable (describing Vajra)",
+          "meaning_kn": "ಸುವರ್ಣವರ್ಣದ / ಇಚ್ಛಿಸುವ (ವಜ್ರವನ್ನು ವರ್ಣಿಸುತ್ತದೆ)"
+        },
+        {
+          "pada_original": "अर्जु॑न‌म्",
+          "pada_kn": "ಅರ್ಜುನಮ್",
+          "meaning_en": "bright / shining (describing Vajra)",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ / ಬೆಳಗುವ (ವಜ್ರವನ್ನು ವರ್ಣಿಸುತ್ತದೆ)"
+        },
+        {
+          "pada_original": "वज्र᳚‌म्",
+          "pada_kn": "ವಜ್ರಮ್",
+          "meaning_en": "thunderbolt",
+          "meaning_kn": "ವಜ್ರಾಯುಧ"
+        },
+        {
+          "pada_original": "शु॒क्रैः",
+          "pada_kn": "ಶುಕ್ರೈಃ",
+          "meaning_en": "with bright ones (Soma streams/rays)",
+          "meaning_kn": "ಶುಭ್ರವಾದವುಗಳಿಂದ (ಸೋಮದ ಹರಿವುಗಳು/ಕಿರಣಗಳು)"
+        },
+        {
+          "pada_original": "अ॒भिऽवृ॑त‌म्",
+          "pada_kn": "ಅಭಿವೃತಮ್",
+          "meaning_en": "surrounded / enveloped",
+          "meaning_kn": "ಆವರಿಸಲ್ಪಟ್ಟ / ಸುತ್ತುವರಿಯಲ್ಪಟ್ಟ"
+        },
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "away / off",
+          "meaning_kn": "ದೂರ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "अ॒वृ॒णो॒त्",
+          "pada_kn": "ಅವೃಣೋತ್",
+          "meaning_en": "he uncovered / he opened",
+          "meaning_kn": "ಅವನು ತೆರೆದನು / ಅನಾವರಣಗೊಳಿಸಿದನು"
+        },
+        {
+          "pada_original": "हरि॑ऽभिः",
+          "pada_kn": "ಹರಿಭಿಃ",
+          "meaning_en": "with Soma juices",
+          "meaning_kn": "ಸೋಮರಸಗಳಿಂದ"
+        },
+        {
+          "pada_original": "अद्रि॑ऽभिः",
+          "pada_kn": "ಅದ್ರಿಭಿಃ",
+          "meaning_en": "with pressing stones",
+          "meaning_kn": "ಒತ್ತುವ ಕಲ್ಲುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "सु॒त‌म्",
+          "pada_kn": "ಸುತಮ್",
+          "meaning_en": "pressed (Soma)",
+          "meaning_kn": "ಹಿಂಡಿದ (ಸೋಮ)"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / forth",
+          "meaning_kn": "ಮೇಲೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "गाः",
+          "pada_kn": "ಗಾಃ",
+          "meaning_en": "waters / cows",
+          "meaning_kn": "ನೀರುಗಳು / ಹಸುಗಳು"
+        },
+        {
+          "pada_original": "हरि॑ऽभिः",
+          "pada_kn": "ಹರಿಭಿಃ",
+          "meaning_en": "with tawny horses",
+          "meaning_kn": "ಹಳದಿ ಬಣ್ಣದ ಕುದುರೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "आ॒ज॒त॒",
+          "pada_kn": "ಆಜತ",
+          "meaning_en": "he drove / he impelled",
+          "meaning_kn": "ಅವನು ಓಡಿಸಿದನು / ಪ್ರೇರೇಪಿಸಿದನು"
+        }
+      ],
+      "full_meaning_en": "O Indra, wielding the golden and radiant Vajra, encompassed by brilliant Soma flows, you have revealed the pressed Soma with your Soma-hued energies and pressing stones. With your tawny steeds, you have unleashed the waters.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಸುವರ್ಣಮಯವೂ ತೇಜೋಮಯವೂ ಆದ ವಜ್ರವನ್ನು ಹಿಡಿದವನೇ, ಪ್ರಕಾಶಮಾನವಾದ ಸೋಮರಸಗಳಿಂದ ಸುತ್ತುವರಿಯಲ್ಪಟ್ಟವನೇ, ನಿನ್ನ ಸೋಮವರ್ಣದ ಶಕ್ತಿ ಮತ್ತು ಕಲ್ಲುಗಳಿಂದ ಹಿಂಡಿದ ಸೋಮವನ್ನು ನೀನು ಬಹಿರಂಗಪಡಿಸಿದ್ದಿ. ನಿನ್ನ ಕಂದು ಕುದುರೆಗಳೊಂದಿಗೆ, ನೀನು ನೀರನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದ್ದಿ.",
+      "rig_time_s": 48.989,
+      "Insight_en": "Indra represents the illuminating power of consciousness that pierces through ignorance (the mountain, Adri). The golden Vajra is the discriminating intellect fueled by Soma (inner nectar), revealing the liberated flow of consciousness. The tawny steeds symbolize the senses, guided by intuition, unleashing the potential for divine experience.",
+      "Insight_kn": "ಇಂದ್ರನು ಅಜ್ಞಾನವನ್ನು ಭೇದಿಸುವ ಪ್ರಜ್ಞೆಯ ಪ್ರಕಾಶಿಸುವ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ (ಪರ್ವತ, ಅದ್ರಿ). ಸುವರ್ಣ ವಜ್ರವು ಸೋಮದಿಂದ (ಆಂತರಿಕ ಅಮೃತ) ಉತ್ತೇಜಿತವಾದ ವಿವೇಚನಾತ್ಮಕ ಬುದ್ಧಿಯಾಗಿದೆ, ಇದು ಪ್ರಜ್ಞೆಯ ಬಿಡುಗಡೆಯಾದ ಹರಿವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಕಂದು ಕುದುರೆಗಳು ಇಂದ್ರಿಯಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ, ಇದು ದೈವಿಕ ಅನುಭವದ ಸಾಮರ್ಥ್ಯವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವ ಅಂತಃಪ್ರಜ್ಞೆಯಿಂದ ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

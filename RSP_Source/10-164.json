@@ -1,0 +1,643 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S164_191-1_5",
+      "mandala": 10,
+      "sukta": 164,
+      "ric_index": 1,
+      "rig_lines": [
+        "अपे᳚हि मनसस्प॒तेऽप॑ क्राम प॒रश्च॑र |",
+        "प॒रो निरृ॑त्या॒, आ च॑क्ष्व बहु॒धा जीव॑तो॒ मनः॑ ||"
+      ],
+      "pre_splits": [
+        "अप॑",
+        "इ॒हि॒",
+        "म॒न॒सः॒",
+        "प॒ते॒",
+        "अप॑",
+        "क्रा॒म॒",
+        "प॒रः",
+        "च॒र॒",
+        "प॒रः",
+        "निःऽऋ॑त्यै",
+        "आ",
+        "च॒क्ष्व॒",
+        "ब॒हु॒धा",
+        "जीव॑तः",
+        "मनः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "away",
+          "meaning_kn": "ದೂರ"
+        },
+        {
+          "pada_original": "इ॒हि॒",
+          "pada_kn": "ಇಹಿ",
+          "meaning_en": "go",
+          "meaning_kn": "ಹೋಗು"
+        },
+        {
+          "pada_original": "म॒न॒सः॒",
+          "pada_kn": "ಮನಸಃ",
+          "meaning_en": "O mind's (of the mind)",
+          "meaning_kn": "ಓ ಮನಸ್ಸಿನ"
+        },
+        {
+          "pada_original": "प॒ते॒",
+          "pada_kn": "ಪತೇ",
+          "meaning_en": "O lord / master",
+          "meaning_kn": "ಓ ಒಡೆಯನೇ / ಓ ಸ್ವಾಮಿಯೇ"
+        },
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "away",
+          "meaning_kn": "ದೂರ"
+        },
+        {
+          "pada_original": "क्रा॒म॒",
+          "pada_kn": "ಕ್ರಾಮ",
+          "meaning_en": "step / move",
+          "meaning_kn": "ಹೆಜ್ಜೆ ಹಾಕು / ಚಲಿಸು"
+        },
+        {
+          "pada_original": "प॒रः",
+          "pada_kn": "ಪರಃ",
+          "meaning_en": "far / beyond",
+          "meaning_kn": "ದೂರ / ಆಚೆಗೆ"
+        },
+        {
+          "pada_original": "च॒र॒",
+          "pada_kn": "ಚರ",
+          "meaning_en": "move / wander",
+          "meaning_kn": "ಚಲಿಸು / ಸಂಚರಿಸು"
+        },
+        {
+          "pada_original": "प॒रः",
+          "pada_kn": "ಪರಃ",
+          "meaning_en": "far / beyond",
+          "meaning_kn": "ದೂರ / ಆಚೆಗೆ"
+        },
+        {
+          "pada_original": "निःऽऋ॑त्यै",
+          "pada_kn": "ನಿಃಽಋತ್ಯೈ",
+          "meaning_en": "from Nirṛti (destruction/calamity)",
+          "meaning_kn": "ನಿರೃತಿಯಿಂದ (ವಿನಾಶ/ದುರಂತದಿಂದ)"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "observe (prefix for cakṣva)",
+          "meaning_kn": "ವೀಕ್ಷಿಸು (ಚಕ್ಷ್ವ ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "च॒क्ष्व॒",
+          "pada_kn": "ಚಕ್ಷ್ವ",
+          "meaning_en": "observe / perceive",
+          "meaning_kn": "ವೀಕ್ಷಿಸು / ಗ್ರಹಿಸು"
+        },
+        {
+          "pada_original": "ब॒हु॒धा",
+          "pada_kn": "ಬಹುಧಾ",
+          "meaning_en": "in many ways / diversely",
+          "meaning_kn": "ಅನೇಕ ವಿಧಗಳಲ್ಲಿ / ವಿವಿಧವಾಗಿ"
+        },
+        {
+          "pada_original": "जीव॑तः",
+          "pada_kn": "ಜೀವತಃ",
+          "meaning_en": "of the living (one)",
+          "meaning_kn": "ಜೀವಂತನಾದವನ / ಜೀವಿಯ"
+        },
+        {
+          "pada_original": "मनः॑",
+          "pada_kn": "ಮನಃ",
+          "meaning_en": "mind",
+          "meaning_kn": "ಮನಸ್ಸು"
+        }
+      ],
+      "full_meaning_en": "O Lord of the mind, depart! Go away, move further! Go beyond Nirriti (destruction), and direct the mind of the living in many ways.",
+      "full_meaning_kn": "ಓ ಮನಸ್ಸಿನ ಒಡೆಯನೇ, ತೊಲಗು! ದೂರ ಸರಿಯು, ಮತ್ತಷ್ಟು ಮುಂದೆ ಸಾಗು! ನಿರೃತಿಯನ್ನು (ನಾಶ) ಮೀರಿದವನಾಗಿ, ಜೀವಂತವಾಗಿರುವವರ ಮನಸ್ಸನ್ನು ಅನೇಕ ವಿಧಗಳಲ್ಲಿ ನಿರ್ದೇಶಿಸು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra is a prayer for mental clarity and liberation from negative influences. मनसस्पते (manasaspate), the Lord of the mind, is asked to depart, signifying the removal of mental obstacles and distractions. Going beyond निरृति (nirriti) signifies transcending the realm of negativity, death, and destruction. The final line urges the direction of the living mind in बहुधा (bahudha), in manifold ways, indicating the vast potential and opportunities available when the mind is free and focused on spiritual growth. This emphasizes the importance of a purified and directed mind for realizing the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಮಾನಸಿಕ ಸ್ಪಷ್ಟತೆ ಮತ್ತು ನಕಾರಾತ್ಮಕ ಪ್ರಭಾವಗಳಿಂದ ಬಿಡುಗಡೆಗಾಗಿ ಪ್ರಾರ್ಥನೆಯಾಗಿದೆ. ಮನಸ್ಸಿನ ಒಡೆಯನಾದ ಮನಸಸ್ಪತೇ ದೂರ ಸರಿಯಲು ಕೇಳಿಕೊಳ್ಳಲಾಗುತ್ತದೆ, ಇದು ಮಾನಸಿಕ ಅಡೆತಡೆಗಳು ಮತ್ತು ಗೊಂದಲಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ನಿರೃತಿಯನ್ನು ಮೀರಿ ಹೋಗುವುದು ನಕಾರಾತ್ಮಕತೆ, ಸಾವು ಮತ್ತು ವಿನಾಶದ ಕ್ಷೇತ್ರವನ್ನು ಮೀರುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಕೊನೆಯ ಸಾಲು ಜೀವಂತ ಮನಸ್ಸನ್ನು ಬಹುಧಾ ಅಂದರೆ ಅನೇಕ ರೀತಿಯಲ್ಲಿ ನಿರ್ದೇಶಿಸಲು ಒತ್ತಾಯಿಸುತ್ತದೆ, ಇದು ಮನಸ್ಸು ಮುಕ್ತವಾಗಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸಿದಾಗ ಲಭ್ಯವಿರುವ ಅಪಾರ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಅವಕಾಶಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ. ದೈವವನ್ನು ಅರಿಯಲು ಶುದ್ಧೀಕರಿಸಿದ ಮತ್ತು ನಿರ್ದೇಶಿಸಲ್ಪಟ್ಟ ಮನಸ್ಸಿನ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S164_191-2_5",
+      "mandala": 10,
+      "sukta": 164,
+      "ric_index": 2,
+      "rig_lines": [
+        "भ॒द्रं वै वरं᳚ वृणते भ॒द्रं यु᳚ञ्जन्ति॒ दक्षि॑णम् |",
+        "भ॒द्रं वै᳚वस्व॒ते चक्षु॑र्बहु॒त्रा जीव॑तो॒ मनः॑ ||"
+      ],
+      "pre_splits": [
+        "भ॒द्र‌म्",
+        "वै",
+        "वर᳚‌म्",
+        "वृ॒ण॒ते॒",
+        "भ॒द्र‌म्",
+        "युं॒ज॒न्ति॒",
+        "दक्षि॑ण‌म्",
+        "भ॒द्र‌म्",
+        "वै॒व॒स्व॒ते",
+        "चक्षुः॑",
+        "ब॒हु॒ऽत्रा",
+        "जीव॑तः",
+        "मनः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "auspicious / good",
+          "meaning_kn": "ಶುಭ / ಮಂಗಳಕರ"
+        },
+        {
+          "pada_original": "वै",
+          "pada_kn": "ವೈ",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "वर᳚‌म्",
+          "pada_kn": "ವರಮ್",
+          "meaning_en": "boon / blessing / choice",
+          "meaning_kn": "ವರ / ಆಶೀರ್ವಾದ / ಆಯ್ಕೆ"
+        },
+        {
+          "pada_original": "वृ॒ण॒ते॒",
+          "pada_kn": "ವೃಣತೇ",
+          "meaning_en": "they choose / they select",
+          "meaning_kn": "ಅವರು ಆರಿಸಿಕೊಳ್ಳುತ್ತಾರೆ / ಅವರು ಆಯ್ಕೆ ಮಾಡುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "auspicious / good",
+          "meaning_kn": "ಶುಭ / ಮಂಗಳಕರ"
+        },
+        {
+          "pada_original": "युं॒ज॒न्ति॒",
+          "pada_kn": "ಯುಂಜಂತಿ",
+          "meaning_en": "they apply / they yoke",
+          "meaning_kn": "ಅವರು ಉಪಯೋಗಿಸುತ್ತಾರೆ / ಅವರು ಜೋಡಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "दक्षि॑ण‌म्",
+          "pada_kn": "ದಕ್ಷಿಣಮ್",
+          "meaning_en": "skillful / appropriate",
+          "meaning_kn": "ದಕ್ಷ / ಸಮರ್ಥ / ಸೂಕ್ತ"
+        },
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "auspicious / good",
+          "meaning_kn": "ಶುಭ / ಮಂಗಳಕರ"
+        },
+        {
+          "pada_original": "वै॒व॒स्व॒ते",
+          "pada_kn": "ವೈವಸ್ವತೇ",
+          "meaning_en": "to Vivasvat's (son, Yama) / relating to Vivasvat",
+          "meaning_kn": "ವೈವಸ್ವತನಿಗೆ (ಯಮನಿಗೆ) / ವೈವಸ್ವತನಿಗೆ ಸಂಬಂಧಿಸಿದ"
+        },
+        {
+          "pada_original": "चक्षुः॑",
+          "pada_kn": "ಚಕ್ಷುಃ",
+          "meaning_en": "eye / sight",
+          "meaning_kn": "ಕಣ್ಣು / ದೃಷ್ಟಿ"
+        },
+        {
+          "pada_original": "ब॒हु॒ऽत्रा",
+          "pada_kn": "ಬಹುತ್ರಾ",
+          "meaning_en": "in many ways / manifold",
+          "meaning_kn": "ಅನೇಕ ರೀತಿಯಲ್ಲಿ / ಬಹುಮುಖವಾಗಿ"
+        },
+        {
+          "pada_original": "जीव॑तः",
+          "pada_kn": "ಜೀವತಃ",
+          "meaning_en": "of the living (one) / while living",
+          "meaning_kn": "ಜೀವಂತವಾಗಿರುವವನ / ಬದುಕಿರುವಾಗ"
+        },
+        {
+          "pada_original": "मनः॑",
+          "pada_kn": "ಮನಃ",
+          "meaning_en": "mind / thought",
+          "meaning_kn": "ಮನಸ್ಸು / ಚಿಂತನೆ"
+        }
+      ],
+      "full_meaning_en": "Indeed, one chooses auspiciousness; they engage the auspicious right hand (of sacrifice). Indeed, Vivasvat’s eye is auspicious, and the mind of the living moves in many places.",
+      "full_meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ, ಒಬ್ಬನು ಶುಭವನ್ನು ಆರಿಸುತ್ತಾನೆ; ಅವರು ಮಂಗಳಕರವಾದ ಬಲಗೈಯನ್ನು (ಯಜ್ಞದ) ತೊಡಗಿಸಿಕೊಳ್ಳುತ್ತಾರೆ. ಖಂಡಿತವಾಗಿಯೂ, ವಿವಸ್ವಂತನ ಕಣ್ಣು ಮಂಗಳಕರವಾಗಿದೆ, ಮತ್ತು ಜೀವಂತವಾಗಿರುವ ಮನಸ್ಸು ಅನೇಕ ಸ್ಥಳಗಳಲ್ಲಿ ಚಲಿಸುತ್ತದೆ.",
+      "rig_time_s": 10.937,
+      "Insight_en": "This mantra speaks to the pursuit of auspiciousness (भद्रं) through righteous action and sacrifice. Engaging the 'auspicious right hand' symbolizes employing skillful and virtuous means. The eye of Vivasvat, representing the sun, embodies divine awareness and illumination. The mantra acknowledges the restless nature of the mind (मनः) which wanders, yet emphasizes the importance of directing it towards auspiciousness and higher consciousness. It highlights the potential for inner transformation and the attainment of благочестие through conscious effort and spiritual insight.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಧರ್ಮನಿಷ್ಠ ಕ್ರಿಯೆ ಮತ್ತು ತ್ಯಾಗದ ಮೂಲಕ ಶುಭವನ್ನು (भद्रं) ಅನುಸರಿಸುವುದರ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. 'ಮಂಗಳಕರವಾದ ಬಲಗೈ' ಅನ್ನು ತೊಡಗಿಸಿಕೊಳ್ಳುವುದು ಕೌಶಲ್ಯಪೂರ್ಣ ಮತ್ತು ಸದ್ಗುಣಶೀಲ ಮಾರ್ಗಗಳನ್ನು ಬಳಸುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸೂರ್ಯನನ್ನು ಪ್ರತಿನಿಧಿಸುವ ವಿವಸ್ವಂತನ ಕಣ್ಣು ದೈವಿಕ ಅರಿವು ಮತ್ತು ಪ್ರಕಾಶವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತದೆ. ಮಂತ್ರವು ಮನಸ್ಸಿನ (मनः) ಪ್ರಕ್ಷುಬ್ಧ ಸ್ವರೂಪವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತದೆ, ಅದು ಅಲೆದಾಡುತ್ತದೆ, ಆದರೆ ಅದನ್ನು ಶುಭ ಮತ್ತು ಉನ್ನತ ಪ್ರಜ್ಞೆಯ ಕಡೆಗೆ ನಿರ್ದೇಶಿಸುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಇದು ಆಂತರಿಕ ರೂಪಾಂತರದ ಸಾಮರ್ಥ್ಯವನ್ನು ಮತ್ತು ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಪ್ರಯತ್ನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟದ ಮೂಲಕ ಮಂಗಳವನ್ನು ಸಾಧಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S164_191-3_5",
+      "mandala": 10,
+      "sukta": 164,
+      "ric_index": 3,
+      "rig_lines": [
+        "यदा॒शसा᳚ निः॒शसा᳚भि॒शसो᳚पारि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑ |",
+        "अ॒ग्निर्विश्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे, अ॒स्मद्द॑धातु ||"
+      ],
+      "pre_splits": [
+        "यत्",
+        "आ॒ऽशसा᳚",
+        "निः॒ऽशसा᳚",
+        "अ॒भि॒ऽशसा᳚",
+        "उ॒प॒ऽआ॒रि॒म",
+        "जाग्र॑तः",
+        "यत्",
+        "स्व॒पन्तः॑",
+        "अ॒ग्निः",
+        "विश्वा᳚नि",
+        "अप॑",
+        "दुः॒ऽकृ॒तानि॑",
+        "अजु॑ष्टानि",
+        "आ॒रे",
+        "अ॒स्मत्",
+        "दा॒धा॒तु॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "whatever",
+          "meaning_kn": "ಯಾವುದನ್ನು"
+        },
+        {
+          "pada_original": "आ॒ऽशसा᳚",
+          "pada_kn": "ಆಶಸಾ",
+          "meaning_en": "by imprecation / by curse",
+          "meaning_kn": "ಶಾಪದಿಂದ / ಅಭಿಶಾಪದಿಂದ"
+        },
+        {
+          "pada_original": "निः॒ऽशसा᳚",
+          "pada_kn": "ನಿಃಶಸಾ",
+          "meaning_en": "by malediction / by curse",
+          "meaning_kn": "ಶಾಪದಿಂದ / ನಿಂದೆಯಿಂದ"
+        },
+        {
+          "pada_original": "अ॒भि॒ऽशसा᳚",
+          "pada_kn": "ಅಭಿಶಸಾ",
+          "meaning_en": "by execration / by curse",
+          "meaning_kn": "ಅಭಿಶಾಪದಿಂದ / ಶಾಪದಿಂದ"
+        },
+        {
+          "pada_original": "उ॒प॒ऽआ॒रि॒म",
+          "pada_kn": "ಉಪಾರಿಮ",
+          "meaning_en": "we have incurred / we have committed",
+          "meaning_kn": "ನಾವು ಮಾಡಿದ್ದೇವೆ / ನಾವು ಗಳಿಸಿದ್ದೇವೆ"
+        },
+        {
+          "pada_original": "जाग्र॑तः",
+          "pada_kn": "ಜಾಗ್ರತಃ",
+          "meaning_en": "while awake / of one awake",
+          "meaning_kn": "ಎಚ್ಚರವಾಗಿರುವಾಗ / ಜಾಗೃತರಾಗಿ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "whatever",
+          "meaning_kn": "ಯಾವುದನ್ನು"
+        },
+        {
+          "pada_original": "स्व॒पन्तः॑",
+          "pada_kn": "ಸ್ವಪಂತಃ",
+          "meaning_en": "while sleeping / of those sleeping",
+          "meaning_kn": "ನಿದ್ರಿಸುವಾಗ / ಮಲಗಿರುವಾಗ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni / the Fire God",
+          "meaning_kn": "ಅಗ್ನಿ / ಅಗ್ನಿದೇವ"
+        },
+        {
+          "pada_original": "विश्वा᳚नि",
+          "pada_kn": "ವಿಶ್ವಾನಿ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "away / off",
+          "meaning_kn": "ದೂರ / ಕಳೆದು"
+        },
+        {
+          "pada_original": "दुः॒ऽकृ॒तानि॑",
+          "pada_kn": "ದುಷ್ಕೃತಾನಿ",
+          "meaning_en": "evil deeds / sins",
+          "meaning_kn": "ದುಷ್ಕೃತ್ಯಗಳು / ಪಾಪಗಳು"
+        },
+        {
+          "pada_original": "अजु॑ष्टानि",
+          "pada_kn": "ಅಜುಷ್ಟಾನಿ",
+          "meaning_en": "displeasing / unacceptable",
+          "meaning_kn": "ಅಪ್ರಿಯವಾದವು / ಅಸಮ್ಮತವಾದವು"
+        },
+        {
+          "pada_original": "आ॒रे",
+          "pada_kn": "ಆರೇ",
+          "meaning_en": "far away / at a distance",
+          "meaning_kn": "ದೂರದಲ್ಲಿ / ಅತಿ ದೂರ"
+        },
+        {
+          "pada_original": "अ॒स्मत्",
+          "pada_kn": "ಅಸ್ಮತ್",
+          "meaning_en": "from us",
+          "meaning_kn": "ನಮ್ಮಿಂದ"
+        },
+        {
+          "pada_original": "दा॒धा॒तु॒",
+          "pada_kn": "ದಧಾತು",
+          "meaning_en": "may he place / may he remove",
+          "meaning_kn": "ಅವನು ಇಡಲಿ / ಅವನು ದೂರ ಮಾಡಲಿ"
+        }
+      ],
+      "full_meaning_en": "When, through longing, or through negligence, or through error, we have committed any offense, waking or sleeping, may Agni remove from us all sins and unwelcome evils and keep them far away.",
+      "full_meaning_kn": "ಯಾವಾಗ, ಹಂಬಲದಿಂದಾಗಲಿ, ನಿರ್ಲಕ್ಷ್ಯದಿಂದಾಗಲಿ ಅಥವಾ ತಪ್ಪಿನಿಂದಾಗಲಿ, ನಾವು ಎಚ್ಚರವಾಗಿದ್ದಾಗ ಅಥವಾ ಮಲಗಿದ್ದಾಗ ಯಾವುದೇ ಅಪರಾಧವನ್ನು ಮಾಡಿದ್ದೇವೆಯೋ, ಆಗ ಅಗ್ನಿಯು ನಮ್ಮಿಂದ ಎಲ್ಲಾ ಪಾಪಗಳು ಮತ್ತು ಅನಪೇಕ್ಷಿತ ದುಷ್ಟತನಗಳನ್ನು ದೂರ ಮಾಡಲಿ ಮತ್ತು ಅವುಗಳನ್ನು ದೂರವಿರಿಸಲಿ.",
+      "rig_time_s": 23.402,
+      "Insight_en": "This mantra acknowledges human fallibility. It speaks to the reality that we, in our waking and sleeping states, are prone to error (अभिशसः). The plea to अग्नि (Agni) is a request for purification and absolution. Agni, the divine fire, symbolizes the transformative power that can burn away our negative karma (दुष्कृतानि) and cleanse us of impurities. By invoking Agni, we seek to be distanced from unwelcome evils and drawn closer to dharma.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಮಾನವ ದೌರ್ಬಲ್ಯವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತದೆ. ನಾವು ಎಚ್ಚರ ಮತ್ತು ನಿದ್ರೆಯ ಸ್ಥಿತಿಯಲ್ಲಿ ತಪ್ಪು ಮಾಡಲು ಒಳಗಾಗುತ್ತೇವೆ ಎಂಬುದನ್ನು ಇದು ಹೇಳುತ್ತದೆ. ಅಗ್ನಿಗೆ ಮಾಡುವ ಪ್ರಾರ್ಥನೆಯು ಶುದ್ಧೀಕರಣ ಮತ್ತು ಕ್ಷಮೆಗಾಗಿ ವಿನಂತಿಯಾಗಿದೆ. ಅಗ್ನಿ, ದೈವಿಕ ಬೆಂಕಿ, ನಮ್ಮ ಋಣಾತ್ಮಕ ಕರ್ಮವನ್ನು ಸುಡುವ ಮತ್ತು ನಮ್ಮನ್ನು ಕಲ್ಮಶಗಳಿಂದ ಶುದ್ಧೀಕರಿಸುವ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಅಗ್ನಿಯನ್ನು ಆವಾಹಿಸುವುದರ ಮೂಲಕ, ನಾವು ಅನಪೇಕ್ಷಿತ ದುಷ್ಟತನಗಳಿಂದ ದೂರವಿರಲು ಮತ್ತು ಧರ್ಮಕ್ಕೆ ಹತ್ತಿರವಾಗಲು ಬಯಸುತ್ತೇವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S164_191-4_5",
+      "mandala": 10,
+      "sukta": 164,
+      "ric_index": 4,
+      "rig_lines": [
+        "यदि᳚न्द्र ब्रह्मणस्पतेऽभिद्रो॒हं चरा᳚मसि |",
+        "प्रचे᳚ता न आङ्गिर॒सो द्वि॑ष॒तां पा॒त्वंह॑सः ||"
+      ],
+      "pre_splits": [
+        "यत्",
+        "इ॒न्द्र॒",
+        "ब्र॒ह्म॒णः॒",
+        "प॒ते॒",
+        "अ॒भि॒ऽद्रो॒ह‌म्",
+        "चरा᳚मसि",
+        "प्रऽचे᳚ताः",
+        "नः॒",
+        "आ॒ङ्गि॒र॒सः",
+        "द्वि॒ष॒ता‌म्",
+        "पा॒तु॒",
+        "अंह॑सः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "If / Whatsoever",
+          "meaning_kn": "ಒಂದು ವೇಳೆ / ಯಾವುದೇ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರ"
+        },
+        {
+          "pada_original": "ब्र॒ह्म॒णः॒",
+          "pada_kn": "ಬ್ರಹ್ಮಣಃ",
+          "meaning_en": "Of prayer / Of sacred word",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆಯ / ಪವಿತ್ರ ಶಬ್ದದ"
+        },
+        {
+          "pada_original": "प॒ते॒",
+          "pada_kn": "ಪತೇ",
+          "meaning_en": "O Lord",
+          "meaning_kn": "ಓ ಪ್ರಭು"
+        },
+        {
+          "pada_original": "अ॒भि॒ऽद्रो॒ह‌म्",
+          "pada_kn": "ಅಭಿದ್ರೋಹಮ್",
+          "meaning_en": "Offense / hostility",
+          "meaning_kn": "ದ್ರೋಹ / ಅಪರಾಧ"
+        },
+        {
+          "pada_original": "चरा᳚मसि",
+          "pada_kn": "ಚರಾಮಸಿ",
+          "meaning_en": "We commit / we do",
+          "meaning_kn": "ನಾವು ಮಾಡುತ್ತೇವೆ / ಆಚರಿಸುತ್ತೇವೆ"
+        },
+        {
+          "pada_original": "प्रऽचे᳚ताः",
+          "pada_kn": "ಪ್ರಚೇತಾಃ",
+          "meaning_en": "The wise / discerning one",
+          "meaning_kn": "ಜ್ಞಾನಿ / ವಿವೇಕಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Us / for us",
+          "meaning_kn": "ನಮಗೆ / ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "आ॒ङ्गि॒र॒सः",
+          "pada_kn": "ಆಂಗಿರಸಃ",
+          "meaning_en": "Angiras (descendant of Angiras, referring to Brahmanaspati)",
+          "meaning_kn": "ಅಂಗಿರಸನು / ಅಂಗಿರಸನ ವಂಶಸ್ಥನು"
+        },
+        {
+          "pada_original": "द्वि॒ष॒ता‌म्",
+          "pada_kn": "ದ್ವಿಷತಾಮ್",
+          "meaning_en": "From those who hate / from enemies",
+          "meaning_kn": "ದ್ವೇಷಿಸುವವರಿಂದ / ಶತ್ರುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "पा॒तु॒",
+          "pada_kn": "ಪಾತು",
+          "meaning_en": "May he protect",
+          "meaning_kn": "ಅವನು ರಕ್ಷಿಸಲಿ"
+        },
+        {
+          "pada_original": "अंह॑सः",
+          "pada_kn": "ಅಂಹಸಃ",
+          "meaning_en": "From distress / from evil",
+          "meaning_kn": "ಸಂಕಟದಿಂದ / ದುಷ್ಟತನದಿಂದ"
+        }
+      ],
+      "full_meaning_en": "O Indra, O Brahmanaspati, if we commit any offense against you, may the wise Angiras protect us from the affliction of the haters.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಓ ಬ್ರಹ್ಮಣಸ್ಪತಿ, ನಾವು ನಿಮಗೆ ವಿರುದ್ಧವಾಗಿ ಯಾವುದೇ ಅಪರಾಧ ಮಾಡಿದರೆ, ವಿವೇಕಿಯಾದ ಅಂಗಿರಸನು ದ್ವೇಷಿಸುವವರ ಸಂಕಟದಿಂದ ನಮ್ಮನ್ನು ರಕ್ಷಿಸಲಿ.",
+      "rig_time_s": 39.022,
+      "Insight_en": "This mantra acknowledges the possibility of transgressions against divine forces (Indra, Brahmanaspati). It seeks forgiveness and protection through the intercession of the wise Angiras (a lineage of sages often associated with अग्नि). The verse highlights the importance of seeking refuge from negativity and the harmful intentions of others, emphasizing the role of divine grace in mitigating suffering. The acknowledgement of potential faults underscores the human condition, while the appeal for protection shows a longing for spiritual safety and well-being. Ultimately, it's a prayer for guidance and shielding from the consequences of both intentional and unintentional misdeeds, reinforcing the Vedic emphasis on dharma and spiritual rectitude. It implies that even with best intentions, errors can occur, and divine assistance is crucial for overcoming adversity.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ಶಕ್ತಿಗಳ (ಇಂದ್ರ, ಬ್ರಹ್ಮಣಸ್ಪತಿ) ವಿರುದ್ಧದ ಉಲ್ಲಂಘನೆಗಳ ಸಾಧ್ಯತೆಯನ್ನು ಅಂಗೀಕರಿಸುತ್ತದೆ. ವಿವೇಕಿಯಾದ ಅಂಗಿರಸನ ಮಧ್ಯಸ್ಥಿಕೆಯ ಮೂಲಕ ಕ್ಷಮೆ ಮತ್ತು ರಕ್ಷಣೆಯನ್ನು ಇದು ಬಯಸುತ್ತದೆ. ಋಣಾತ್ಮಕತೆ ಮತ್ತು ಇತರರ ಹಾನಿಕಾರಕ ಉದ್ದೇಶಗಳಿಂದ ಆಶ್ರಯ ಪಡೆಯುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಈ ಪದ್ಯವು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಬಳಲುವಿಕೆಯನ್ನು ತಗ್ಗಿಸುವಲ್ಲಿ ದೈವಿಕ ಕೃಪೆಯ ಪಾತ್ರವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಸಂಭಾವ್ಯ ತಪ್ಪುಗಳ ಅಂಗೀಕಾರವು ಮಾನವ ಸ್ಥಿತಿಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ರಕ್ಷಣೆಗಾಗಿ ಮನವಿ ಆಧ್ಯಾತ್ಮಿಕ ಸುರಕ್ಷತೆ ಮತ್ತು ಯೋಗಕ್ಷೇಮಕ್ಕಾಗಿ ಹಾತೊರೆಯುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಇದು ಉದ್ದೇಶಪೂರ್ವಕ ಮತ್ತು ಉದ್ದೇಶಪೂರ್ವಕವಲ್ಲದ ದುಷ್ಕೃತ್ಯಗಳ ಪರಿಣಾಮಗಳಿಂದ ಮಾರ್ಗದರ್ಶನ ಮತ್ತು ರಕ್ಷಣೆಗಾಗಿ ಪ್ರಾರ್ಥನೆಯಾಗಿದೆ, ಧರ್ಮ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸನ್ನಡತೆಯ ಮೇಲೆ ವೈದಿಕ ಒತ್ತು ನೀಡುತ್ತದೆ. ಅತ್ಯುತ್ತಮ ಉದ್ದೇಶಗಳೊಂದಿಗೆ ಸಹ, ತಪ್ಪುಗಳು ಸಂಭವಿಸಬಹುದು ಮತ್ತು ಪ್ರತಿಕೂಲತೆಯನ್ನು ಜಯಿಸಲು ದೈವಿಕ ಸಹಾಯವು ನಿರ್ಣಾಯಕವಾಗಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S164_191-5_5",
+      "mandala": 10,
+      "sukta": 164,
+      "ric_index": 5,
+      "rig_lines": [
+        "अजै᳚ष्मा॒द्यास॑नाम॒ चाभू॒माना᳚गसो व॒यम् |",
+        "जा॒ग्र॒त्स्व॒प्नः सं᳚क॒ल्पः पा॒पो यं द्वि॒ष्मस्तं स ऋ॑च्छतु॒ यो नो॒ द्वेष्टि॒ तमृ॑च्छतु ||"
+      ],
+      "pre_splits": [
+        "अजै᳚ष्म",
+        "अ॒द्य",
+        "अस॑नाम",
+        "च॒",
+        "अभू᳚म",
+        "अना᳚गसः",
+        "व॒य‌म्",
+        "जा॒ग्र॒त्ऽस्व॒प्नः",
+        "स॒‌म्ऽक॒ल्पः",
+        "पा॒पः",
+        "य‌म्",
+        "द्वि॒ष्मः",
+        "त‌म्",
+        "सः",
+        "ऋ॒च्छ॒तु॒",
+        "यः",
+        "नः॒",
+        "द्वे॒ष्टि॒",
+        "त‌म्",
+        "ऋ॒च्छ॒तु॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अजै᳚ष्म",
+          "pada_kn": "ಅಜೈಷ್ಮ",
+          "meaning_en": "We have conquered",
+          "meaning_kn": "ನಾವು ಜಯಿಸಿದೆವು"
+        },
+        {
+          "pada_original": "अ॒द्य",
+          "pada_kn": "ಅದ್ಯ",
+          "meaning_en": "today",
+          "meaning_kn": "ಇಂದು"
+        },
+        {
+          "pada_original": "अस॑नाम",
+          "pada_kn": "ಅಸನಾಮ",
+          "meaning_en": "we have been/become",
+          "meaning_kn": "ನಾವು ಆದೆವು/ಆಗಿದ್ದೇವೆ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "अभू᳚म",
+          "pada_kn": "ಅಭೂಮ",
+          "meaning_en": "we have become",
+          "meaning_kn": "ನಾವು ಆದೆವು/ಆಗಿದ್ದೇವೆ"
+        },
+        {
+          "pada_original": "अना᳚गसः",
+          "pada_kn": "ಅನಾಗಸಃ",
+          "meaning_en": "sinless/blameless",
+          "meaning_kn": "ಪಾಪರಹಿತರು/ನಿರಪರಾಧಿಗಳು"
+        },
+        {
+          "pada_original": "व॒य‌म्",
+          "pada_kn": "ವಯಮ್",
+          "meaning_en": "we",
+          "meaning_kn": "ನಾವು"
+        },
+        {
+          "pada_original": "जा॒ग्र॒त्ऽस्व॒प्नः",
+          "pada_kn": "ಜಾಗ್ರತ್ಸ್ವಪ್ನಃ",
+          "meaning_en": "waking-dream (like thought)",
+          "meaning_kn": "ಜಾಗೃತಾವಸ್ಥೆಯ ಕನಸು/ಹಗಲುಗನಸು"
+        },
+        {
+          "pada_original": "स॒‌म्ऽक॒ल्पः",
+          "pada_kn": "ಸಂಕಲ್ಪಃ",
+          "meaning_en": "resolve/intention",
+          "meaning_kn": "ಸಂಕಲ್ಪ/ನಿರ್ಧಾರ"
+        },
+        {
+          "pada_original": "पा॒पः",
+          "pada_kn": "ಪಾಪಃ",
+          "meaning_en": "evil/sinful",
+          "meaning_kn": "ಪಾಪದ/ದುಷ್ಟ"
+        },
+        {
+          "pada_original": "य‌म्",
+          "pada_kn": "ಯಮ್",
+          "meaning_en": "whom/which",
+          "meaning_kn": "ಯಾರನ್ನು/ಯಾವುದನ್ನು"
+        },
+        {
+          "pada_original": "द्वि॒ष्मः",
+          "pada_kn": "ದ್ವಿಷ್ಮಃ",
+          "meaning_en": "we hate",
+          "meaning_kn": "ನಾವು ದ್ವೇಷಿಸುತ್ತೇವೆಯೋ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him/that",
+          "meaning_kn": "ಅವನನ್ನು/ಅದನ್ನು"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he/that",
+          "meaning_kn": "ಅವನು/ಅದು"
+        },
+        {
+          "pada_original": "ऋ॒च्छ॒तु॒",
+          "pada_kn": "ಋಚ್ಛತು",
+          "meaning_en": "may he reach/befall",
+          "meaning_kn": "ಅವನು ತಲುಪಲಿ/ಅವನಿಗೆ ಪ್ರಾಪ್ತವಾಗಲಿ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us/our",
+          "meaning_kn": "ನಮ್ಮನ್ನು/ನಮಗೆ"
+        },
+        {
+          "pada_original": "द्वे॒ष्टि॒",
+          "pada_kn": "ದ್ವೇಷ್ಟಿ",
+          "meaning_en": "hates",
+          "meaning_kn": "ದ್ವೇಷಿಸುತ್ತಾನೆಯೋ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "ऋ॒च्छ॒तु॒",
+          "pada_kn": "ಋಚ್ಛತು",
+          "meaning_en": "may he reach/befall",
+          "meaning_kn": "ಅವನು ತಲುಪಲಿ/ಅವನಿಗೆ ಪ್ರಾಪ್ತವಾಗಲಿ"
+        }
+      ],
+      "full_meaning_en": "Today we have conquered, and we have obtained; may we become sinless. May the evil, waking or sleeping, the evil thought which we hate, reach him whom we hate; may it reach him who hates us.",
+      "full_meaning_kn": "ಇಂದು ನಾವು ಜಯಿಸಿದ್ದೇವೆ, ಮತ್ತು ನಾವು ಪಡೆದುಕೊಂಡಿದ್ದೇವೆ; ನಾವು ಪಾಪರಹಿತರಾಗೋಣ. ಕೆಟ್ಟದ್ದು, ಎಚ್ಚರವಾಗಿದ್ದರೂ ಮಲಗಿದ್ದರೂ, ನಾವು ದ್ವೇಷಿಸುವ ಕೆಟ್ಟ ಆಲೋಚನೆ ಯಾರನ್ನು ನಾವು ದ್ವೇಷಿಸುತ್ತೇವೋ ಅವನನ್ನು ತಲುಪಲಿ; ನಮ್ಮನ್ನು ದ್ವೇಷಿಸುವವನನ್ನೂ ಅದು ತಲುಪಲಿ.",
+      "rig_time_s": 51.178,
+      "Insight_en": "This mantra speaks of conquering negativity and attaining purity. It highlights the importance of being free from sin (अनागसः) and the impact of negative thoughts (संकल्पः), whether conscious (जाग्रत्) or unconscious (स्वप्नः). The verse suggests a retributive justice, where the ill-will returns to its source, emphasizing the karmic principle that negativity ultimately harms the originator. Spiritually, it underlines the need to purify the mind and heart, fostering a state of innocence and freedom from harmful intentions. By transcending hatred and malice, one can achieve inner peace and spiritual growth. It's a call to self-reflection and the purification of intentions.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ನಕಾರಾತ್ಮಕತೆಯನ್ನು ಜಯಿಸುವುದು ಮತ್ತು ಶುದ್ಧತೆಯನ್ನು ಪಡೆಯುವುದರ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಪಾಪದಿಂದ ಮುಕ್ತರಾಗಿರುವುದರ ಮಹತ್ವವನ್ನು (ಅನಾಗಸಃ) ಮತ್ತು ಋಣಾತ್ಮಕ ಆಲೋಚನೆಗಳ ಪ್ರಭಾವವನ್ನು (ಸಂಕಲ್ಪಃ) ಇದು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಅದು ಎಚ್ಚರವಾಗಿರಲಿ (ಜಾಗ್ರತ್) ಅಥವಾ ಸುಪ್ತವಾಗಿರಲಿ (ಸ್ವಪ್ನಃ). ಈ ಪದ್ಯವು ಪ್ರತೀಕಾರದ ನ್ಯಾಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಲ್ಲಿ ದುಷ್ಟತನವು ಅದರ ಮೂಲಕ್ಕೆ ಮರಳುತ್ತದೆ, ನಕಾರಾತ್ಮಕತೆಯು ಅಂತಿಮವಾಗಿ ಸೃಷ್ಟಿಕರ್ತನಿಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ ಎಂಬ ಕರ್ಮದ ತತ್ವವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ಮನಸ್ಸು ಮತ್ತು ಹೃದಯವನ್ನು ಶುದ್ಧೀಕರಿಸುವ ಅಗತ್ಯವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಮುಗ್ಧತೆ ಮತ್ತು ಹಾನಿಕಾರಕ ಉದ್ದೇಶಗಳಿಂದ ಮುಕ್ತವಾದ ಸ್ಥಿತಿಯನ್ನು ಬೆಳೆಸುತ್ತದೆ. ದ್ವೇಷ ಮತ್ತು ದುರುದ್ದೇಶವನ್ನು ಮೀರುವ ಮೂಲಕ, ಒಬ್ಬರು ಆಂತರಿಕ ಶಾಂತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ಸಾಧಿಸಬಹುದು. ಇದು ಆತ್ಮಾವಲೋಕನ ಮತ್ತು ಉದ್ದೇಶಗಳ ಶುದ್ಧೀಕರಣಕ್ಕೆ ಕರೆ ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

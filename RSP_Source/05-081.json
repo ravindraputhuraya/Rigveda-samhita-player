@@ -1,0 +1,811 @@
+{
+  "mandala": 5,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M5-S81_87-1_5",
+      "mandala": 5,
+      "sukta": 81,
+      "ric_index": 1,
+      "rig_lines": [
+        "यु॒ञ्जते॒ मन॑ उ॒त यु᳚ञ्जते॒ धियो॒ विप्रा॒ विप्र॑स्य बृह॒तो वि॑प॒श्चितः॑ |",
+        "वि होत्रा᳚ दधे वयुना॒विदेक॒ इन्म॒ही दे॒वस्य॑ सवि॒तुः परि॑ष्टुतिः ||"
+      ],
+      "pre_splits": [
+        "युं॒जते᳚",
+        "मनः॑",
+        "उ॒त",
+        "युं॒जते᳚",
+        "धियः॑",
+        "विप्राः᳚",
+        "विप्र॑स्य",
+        "बृ॒ह॒तः",
+        "वि॒पः॒ऽचितः॑",
+        "वि",
+        "होत्राः᳚",
+        "द॒धे॒",
+        "व॒यु॒न॒ऽवित्",
+        "एकः॑",
+        "इत्",
+        "म॒ही",
+        "दे॒वस्य॑",
+        "स॒वि॒तुः",
+        "परि॑ऽस्तुतिः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "युं॒जते᳚",
+          "pada_kn": "ಯುಂಜತೇ",
+          "meaning_en": "They yoke / they harness",
+          "meaning_kn": "ಅವರು ಜೋಡಿಸುತ್ತಾರೆ / ಕೇಂದ್ರೀಕರಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "मनः॑",
+          "pada_kn": "ಮನಃ",
+          "meaning_en": "mind",
+          "meaning_kn": "ಮನಸ್ಸು"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "युं॒जते᳚",
+          "pada_kn": "ಯುಂಜತೇ",
+          "meaning_en": "they yoke / they harness",
+          "meaning_kn": "ಅವರು ಜೋಡಿಸುತ್ತಾರೆ / ಕೇಂದ್ರೀಕರಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "धियः॑",
+          "pada_kn": "ಧಿಯಃ",
+          "meaning_en": "thoughts / intellects",
+          "meaning_kn": "ಆಲೋಚನೆಗಳು / ಬುದ್ಧಿಗಳು"
+        },
+        {
+          "pada_original": "विप्राः᳚",
+          "pada_kn": "ವಿಪ್ರಾಃ",
+          "meaning_en": "the wise ones / inspired ones (priests)",
+          "meaning_kn": "ವಿವೇಕಿಗಳು / ಪ್ರೇರಿತರು (ಋತ್ವಿಜರು)"
+        },
+        {
+          "pada_original": "विप्र॑स्य",
+          "pada_kn": "ವಿಪ್ರಸ್ಯ",
+          "meaning_en": "of the wise one",
+          "meaning_kn": "ವಿವೇಕಿಯ / ಪ್ರೇರಿತನ"
+        },
+        {
+          "pada_original": "बृ॒ह॒तः",
+          "pada_kn": "ಬೃಹತಃ",
+          "meaning_en": "of the great / of the vast",
+          "meaning_kn": "ಮಹಾನ್ / ವಿಶಾಲನಾದ"
+        },
+        {
+          "pada_original": "वि॒पः॒ऽचितः॑",
+          "pada_kn": "ವಿಪಶ್ಚಿತಃ",
+          "meaning_en": "of the all-knowing / of the discerning",
+          "meaning_kn": "ಸರ್ವಜ್ಞನ / ವಿವೇಚನಶೀಲನ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "distinctly / apart",
+          "meaning_kn": "ಪ್ರತ್ಯೇಕವಾಗಿ / ವಿಶಿಷ್ಟವಾಗಿ"
+        },
+        {
+          "pada_original": "होत्राः᳚",
+          "pada_kn": "ಹೋತ್ರಾಃ",
+          "meaning_en": "oblations / invocations",
+          "meaning_kn": "ಆಹುತಿಗಳು / ಆಹ್ವಾನಗಳು"
+        },
+        {
+          "pada_original": "द॒धे॒",
+          "pada_kn": "ದಧೇ",
+          "meaning_en": "(he) places / (he) performs",
+          "meaning_kn": "(ಅವನು) ಇಡುತ್ತಾನೆ / (ಅವನು) ನಿರ್ವಹಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "व॒यु॒न॒ऽवित्",
+          "pada_kn": "ವಯುನವಿತ್",
+          "meaning_en": "the knower of paths / ordinances",
+          "meaning_kn": "ಮಾರ್ಗಗಳನ್ನು ಬಲ್ಲವನು / ನಿಯಮಗಳನ್ನು ಬಲ್ಲವನು"
+        },
+        {
+          "pada_original": "एकः॑",
+          "pada_kn": "ಏಕಃ",
+          "meaning_en": "one / alone",
+          "meaning_kn": "ಒಬ್ಬನೇ / ಏಕೈಕ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / only",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಮಾತ್ರ"
+        },
+        {
+          "pada_original": "म॒ही",
+          "pada_kn": "ಮಹೀ",
+          "meaning_en": "great / vast",
+          "meaning_kn": "ಮಹಾನ್ / ವಿಶಾಲವಾದ"
+        },
+        {
+          "pada_original": "दे॒वस्य॑",
+          "pada_kn": "ದೇವಸ್ಯ",
+          "meaning_en": "of the god",
+          "meaning_kn": "ದೇವರ"
+        },
+        {
+          "pada_original": "स॒वि॒तुः",
+          "pada_kn": "ಸವಿತುಃ",
+          "meaning_en": "of Savitar (the stimulator)",
+          "meaning_kn": "ಸವಿತೃವಿನ (ಪ್ರೇರಕನ)"
+        },
+        {
+          "pada_original": "परि॑ऽस्तुतिः",
+          "pada_kn": "ಪರಿಸ್ತುತಿಃ",
+          "meaning_en": "praise / eulogy",
+          "meaning_kn": "ಸ್ತುತಿ / ಪ್ರಶಂಸೆ"
+        }
+      ],
+      "full_meaning_en": "The insightful priests focus their minds and thoughts on Savitar, the wise, the great, the far-seeing. He alone, knowing all ways and ordinances, arranges the offerings. Immense is the praise of the radiant Savitar.",
+      "full_meaning_kn": "ವಿವೇಕಯುಕ್ತ ಪುರೋಹಿತರು ತಮ್ಮ ಮನಸ್ಸು ಮತ್ತು ಆಲೋಚನೆಗಳನ್ನು ಜ್ಞಾನಿಯಾದ, ಮಹಾನ್, ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ಸವಿತಾರನ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತಾರೆ. ಅವನು ಮಾತ್ರ, ಎಲ್ಲಾ ಮಾರ್ಗಗಳು ಮತ್ತು ನಿಯಮಗಳನ್ನು ತಿಳಿದಿರುವವನಾಗಿ, ಅರ್ಪಣೆಗಳನ್ನು ವ್ಯವಸ್ಥೆಗೊಳಿಸುತ್ತಾನೆ. ಪ್ರಕಾಶಮಾನವಾದ ಸವಿತಾರನ ಸ್ತುತಿಯು ಅಪಾರವಾಗಿದೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "Savitar, the impeller, represents the divine light that awakens the intellect (धी). By uniting the mind (मन) and intellect, one aligns with the cosmic intelligence. The true offering (होत्रा) is the dedication of one's actions to the divine will, guided by inner wisdom (विपश्चितः). Savitar's praise (परिस्तुतिः) is not mere adoration but the recognition of the self within the universal consciousness.",
+      "Insight_kn": "ಸವಿತಾರನು, ಪ್ರೇರಕನು, ಬುದ್ಧಿಯನ್ನು (धी) ಜಾಗೃತಗೊಳಿಸುವ ದೈವಿಕ ಬೆಳಕನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಮನಸ್ಸನ್ನು (मन) ಮತ್ತು ಬುದ್ಧಿಯನ್ನು ಒಗ್ಗೂಡಿಸುವುದರ ಮೂಲಕ, ಒಬ್ಬನು ಕಾಸ್ಮಿಕ್ ಬುದ್ಧಿವಂತಿಕೆಯೊಂದಿಗೆ ಹೊಂದಾಣಿಕೆ ಮಾಡುತ್ತಾನೆ. ನಿಜವಾದ ಅರ್ಪಣೆಯೆಂದರೆ (होत्रा) ಒಬ್ಬರ ಕಾರ್ಯಗಳನ್ನು ದೈವಿಕ ಇಚ್ಛೆಗೆ ಅರ್ಪಿಸುವುದು, ಆಂತರಿಕ ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ (विपश्चितः) ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಡುವುದು. ಸವಿತಾರನ ಸ್ತುತಿ (परिस्तुतिः) ಕೇವಲ ಆರಾಧನೆಯಲ್ಲ, ಆದರೆ ಸಾರ್ವತ್ರಿಕ ಪ್ರಜ್ಞೆಯಲ್ಲಿನ ಆತ್ಮವನ್ನು ಗುರುತಿಸುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S81_87-2_5",
+      "mandala": 5,
+      "sukta": 81,
+      "ric_index": 2,
+      "rig_lines": [
+        "विश्वा᳚ रू॒पाणि॒ प्रति॑ मुञ्चते क॒विः प्रासा᳚वीद्‌ भ॒द्रं द्वि॒पदे॒ चतु॑ष्पदे |",
+        "वि नाक॑मख्यत्‌ सवि॒ता वरे॒ण्योऽनु॑ प्र॒याण॑मु॒षसो॒ वि रा᳚जति ||"
+      ],
+      "pre_splits": [
+        "विश्वा᳚",
+        "रू॒पाणि॑",
+        "प्रति॑",
+        "मुं॒च॒ते॒",
+        "क॒विः",
+        "प्र",
+        "अ॒सा॒वी॒त्",
+        "भ॒द्र‌म्",
+        "द्वि॒ऽपदे᳚",
+        "चतुः॑ऽपदे",
+        "वि",
+        "नाक᳚‌म्",
+        "अ॒ख्य॒त्",
+        "स॒वि॒ता",
+        "वरे᳚ण्यः",
+        "अनु॑",
+        "प्र॒ऽयान᳚‌म्",
+        "उ॒षसः॑",
+        "वि",
+        "रा॒ज॒ति॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "रू॒पाणि॑",
+          "pada_kn": "ರೂಪಾಣಿ",
+          "meaning_en": "forms",
+          "meaning_kn": "ರೂಪಗಳನ್ನು"
+        },
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / on",
+          "meaning_kn": "ಕಡೆಗೆ / ಮೇಲೆ"
+        },
+        {
+          "pada_original": "मुं॒च॒ते॒",
+          "pada_kn": "ಮುಂಚತೇ",
+          "meaning_en": "puts on / assumes",
+          "meaning_kn": "ಧರಿಸುತ್ತಾನೆ / ಸ್ವೀಕರಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "क॒विः",
+          "pada_kn": "ಕವಿಃ",
+          "meaning_en": "the seer (Savitar)",
+          "meaning_kn": "ಕವಿ / ಜ್ಞಾನಿ (ಸವಿತೃ)"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth",
+          "meaning_kn": "ಮುಂದೆ"
+        },
+        {
+          "pada_original": "अ॒सा॒वी॒त्",
+          "pada_kn": "ಅಸಾವೀತ್",
+          "meaning_en": "impelled / produced",
+          "meaning_kn": "ಪ್ರೇರಿಸಿದನು / ಉತ್ಪಾದಿಸಿದನು"
+        },
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "good / auspiciousness",
+          "meaning_kn": "ಶುಭವನ್ನು / ಕಲ್ಯಾಣವನ್ನು"
+        },
+        {
+          "pada_original": "द्वि॒ऽपदे᳚",
+          "pada_kn": "ದ್ವಿಪದೇ",
+          "meaning_en": "for two-footed beings (humans)",
+          "meaning_kn": "ದ್ವಿಪದಿಗಳಿಗೆ (ಮನುಷ್ಯರಿಗೆ)"
+        },
+        {
+          "pada_original": "चतुः॑ऽपदे",
+          "pada_kn": "ಚತುಷ್ಪದೇ",
+          "meaning_en": "for four-footed beings (animals)",
+          "meaning_kn": "ಚತುಷ್ಪದಿಗಳಿಗೆ (ಪ್ರಾಣಿಗಳಿಗೆ)"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart / distinctly",
+          "meaning_kn": "ವಿಶೇಷವಾಗಿ / ಪ್ರತ್ಯೇಕವಾಗಿ"
+        },
+        {
+          "pada_original": "नाक᳚‌म्",
+          "pada_kn": "ನಾಕಮ್",
+          "meaning_en": "heaven / sky",
+          "meaning_kn": "ಸ್ವರ್ಗವನ್ನು / ಆಕಾಶವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒ख्य॒त्",
+          "pada_kn": "ಅಖ್ಯತ್",
+          "meaning_en": "illumined / revealed",
+          "meaning_kn": "ಪ್ರಕಾಶಪಡಿಸಿದನು / ತೋರಿಸಿದನು"
+        },
+        {
+          "pada_original": "स॒वि॒ता",
+          "pada_kn": "ಸವಿತಾ",
+          "meaning_en": "Savitar (the stimulator)",
+          "meaning_kn": "ಸವಿತೃ (ಪ್ರೇರಕ)"
+        },
+        {
+          "pada_original": "वरे᳚ण्यः",
+          "pada_kn": "ವರೇಣ್ಯಃ",
+          "meaning_en": "adorable / excellent",
+          "meaning_kn": "ಪೂಜ್ಯನೀಯನು / ಶ್ರೇಷ್ಠನು"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "after / following",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ನಂತರ"
+        },
+        {
+          "pada_original": "प्र॒ऽयान᳚‌म्",
+          "pada_kn": "ಪ್ರಯಾಣಮ್",
+          "meaning_en": "the departure",
+          "meaning_kn": "ಪ್ರಯಾಣವನ್ನು / ನಿರ್ಗಮನವನ್ನು"
+        },
+        {
+          "pada_original": "उ॒षसः॑",
+          "pada_kn": "ಉಷಸಃ",
+          "meaning_en": "of Uṣas (dawn)",
+          "meaning_kn": "ಉಷಸ್ಸಿನ / ಪ್ರಭಾತದ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "forth / brightly",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾಗಿ"
+        },
+        {
+          "pada_original": "रा॒ज॒ति॒",
+          "pada_kn": "ರಾಜತಿ",
+          "meaning_en": "shines",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತಾನೆ"
+        }
+      ],
+      "full_meaning_en": "O, the seer Savitar, you manifest in all forms imaginable! You have bestowed prosperity upon both two-legged and four-legged beings. The esteemed Savitar has illuminated the heavens; he shines brilliantly following the departure of the dawn, Uṣas.",
+      "full_meaning_kn": "ಓ ದ್ರಷ್ಟಾರ ಸವಿತೃ, ನೀನು ಕಲ್ಪಿಸಬಹುದಾದ ಎಲ್ಲಾ ರೂಪಗಳಲ್ಲಿಯೂ ವ್ಯಕ್ತನಾಗುತ್ತೀ! ನೀನು ಎರಡು ಕಾಲುಗಳ ಮತ್ತು ನಾಲ್ಕು ಕಾಲುಗಳ ಜೀವಿಗಳೆರಡಕ್ಕೂ ಸಮೃದ್ಧಿಯನ್ನು ದಯಪಾಲಿಸಿದ್ದಿ. ಗೌರವಾನ್ವಿತ ಸವಿತೃ ಸ್ವರ್ಗವನ್ನು ಬೆಳಗಿಸಿದ್ದಾನೆ; ಉಷಾ (ಬೆಳಗಿನ ಜಾವ) ಹೊರಟ ನಂತರ ಅವನು ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತಾನೆ.",
+      "rig_time_s": 14.395,
+      "Insight_en": "The mantra reveals the all-encompassing nature of Savitar (सवितृ), the impeller. The forms that Savitar assumes are indicative of the diverse expressions of consciousness within creation. Auspiciousness for bipeds and quadrupeds highlights the harmony and balance Savitar brings to all life. Illuminating the heavens speaks of the dispelling of ignorance, and shining after Uṣas signifies the eternal, unwavering light that remains even after transient experiences.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಪ್ರೇರಕನಾದ ಸವಿತೃ (ಸವಿತೃ)ನ ಸರ್ವವ್ಯಾಪಿ ಸ್ವರೂಪವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಸವಿತೃ ಧರಿಸುವ ರೂಪಗಳು ಸೃಷ್ಟಿಯಲ್ಲಿನ ಪ್ರಜ್ಞೆಯ ವಿವಿಧ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ. ದ್ವಿಪದಿಗಳು ಮತ್ತು ಚತುಷ್ಪದಿಗಳಿಗೆ ಶುಭವನ್ನುಂಟುಮಾಡುವುದು ಸವಿತೃ ಎಲ್ಲಾ ಜೀವಿಗಳಿಗೆ ತರುವ ಸಾಮರಸ್ಯ ಮತ್ತು ಸಮತೋಲನವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಸ್ವರ್ಗವನ್ನು ಬೆಳಗಿಸುವುದು ಅಜ್ಞಾನವನ್ನು ಹೋಗಲಾಡಿಸುವುದರ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ, ಮತ್ತು ಉಷಾ ನಂತರ ಹೊಳೆಯುವುದು ಶಾಶ್ವತವಾದ, ಅಚಲವಾದ ಬೆಳಕನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅದು ಕ್ಷಣಿಕ ಅನುಭವಗಳ ನಂತರವೂ ಉಳಿಯುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S81_87-3_5",
+      "mandala": 5,
+      "sukta": 81,
+      "ric_index": 3,
+      "rig_lines": [
+        "यस्य॑ प्र॒याण॒मन्व॒न्य इद्‌ य॒युर्दे॒वा दे॒वस्य॑ महि॒मान॒मोज॑सा |",
+        "यः पार्थि॑वानि विम॒मे स एत॑शो॒ रजां᳚सि दे॒वः स॑वि॒ता म॑हित्व॒ना ||"
+      ],
+      "pre_splits": [
+        "यस्य॑",
+        "प्र॒ऽयान᳚‌म्",
+        "अनु॑",
+        "अ॒न्ये",
+        "इत्",
+        "य॒युः",
+        "दे॒वाः",
+        "दे॒वस्य॑",
+        "म॒हि॒मान᳚‌म्",
+        "ओज॑सा",
+        "यः",
+        "पार्थि॑वानि",
+        "वि॒ऽम॒मे",
+        "सः",
+        "एत॑शः",
+        "रजां᳚सि",
+        "दे॒वः",
+        "स॒वि॒ता",
+        "म॒हि॒ऽत्व॒ना"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "Whose / Of whom",
+          "meaning_kn": "ಯಾರ / ಯಾವ ದೇವನ"
+        },
+        {
+          "pada_original": "प्र॒ऽयान᳚‌म्",
+          "pada_kn": "ಪ್ರಯಾಣಮ್",
+          "meaning_en": "departure / journey",
+          "meaning_kn": "ಪ್ರಯಾಣವನ್ನು / ಹೊರಡುವುದನ್ನು"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "after / following",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಹಿಂಬಾಲಿಸಿ"
+        },
+        {
+          "pada_original": "अ॒न्ये",
+          "pada_kn": "ಅನ್ಯೇ",
+          "meaning_en": "others",
+          "meaning_kn": "ಇತರರು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "य॒युः",
+          "pada_kn": "ಯಯುಃ",
+          "meaning_en": "went / followed",
+          "meaning_kn": "ಹೋದರು / ಹಿಂಬಾಲಿಸಿದರು"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "दे॒वस्य॑",
+          "pada_kn": "ದೇವಸ್ಯ",
+          "meaning_en": "of the god",
+          "meaning_kn": "ದೇವನ / ಸವಿತೃವಿನ"
+        },
+        {
+          "pada_original": "म॒हि॒मान᳚‌म्",
+          "pada_kn": "ಮಹಿಮಾನಮ್",
+          "meaning_en": "greatness / glory",
+          "meaning_kn": "ಮಹಿಮೆಯನ್ನು / ಶ್ರೇಷ್ಠತೆಯನ್ನು"
+        },
+        {
+          "pada_original": "ओज॑सा",
+          "pada_kn": "ಓಜಸಾ",
+          "meaning_en": "with might / by power",
+          "meaning_kn": "ತಮ್ಮ ಶಕ್ತಿಯಿಂದ / ಬಲದಿಂದ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾವನು"
+        },
+        {
+          "pada_original": "पार्थि॑वानि",
+          "pada_kn": "ಪಾರ್ಥಿವಾನಿ",
+          "meaning_en": "earthly (regions/spaces)",
+          "meaning_kn": "ಭೂಮಿಯ / ಪಾರ್ಥಿವ ಲೋಕಗಳನ್ನು"
+        },
+        {
+          "pada_original": "वि॒ऽम॒मे",
+          "pada_kn": "ವಿಮಮೇ",
+          "meaning_en": "measured out / created",
+          "meaning_kn": "ಅಳತೆ ಮಾಡಿದನು / ಸೃಷ್ಟಿಸಿದನು"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he",
+          "meaning_kn": "ಆತನು"
+        },
+        {
+          "pada_original": "एत॑शः",
+          "pada_kn": "ಏತಶಃ",
+          "meaning_en": "swift / shining (one)",
+          "meaning_kn": "ವೇಗವಾಗಿ ಚಲಿಸುವ / ಪ್ರಕಾಶಮಾನವಾದ (ಸವಿತೃ)"
+        },
+        {
+          "pada_original": "रजां᳚सि",
+          "pada_kn": "ರಜಾಂಸಿ",
+          "meaning_en": "regions / worlds",
+          "meaning_kn": "ಲೋಕಗಳನ್ನು / ಪ್ರದೇಶಗಳನ್ನು"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "god",
+          "meaning_kn": "ದೇವನು"
+        },
+        {
+          "pada_original": "स॒वि॒ता",
+          "pada_kn": "ಸವಿತಾ",
+          "meaning_en": "Savitar",
+          "meaning_kn": "ಸವಿತೃವು"
+        },
+        {
+          "pada_original": "म॒हि॒ऽत्व॒ना",
+          "pada_kn": "ಮಹಿತ್ವನಾ",
+          "meaning_en": "by his greatness / with his majesty",
+          "meaning_kn": "ತನ್ನ ಮಹಿಮೆಯಿಂದ / ಶ್ರೇಷ್ಠತೆಯಿಂದ"
+        }
+      ],
+      "full_meaning_en": "O Savitar, divine inspirer, after your going forth, other gods follow, acknowledging your greatness with their might. You, the swift and shining one, measured out the earthly regions and the worlds by your vast power.",
+      "full_meaning_kn": "ಓ ಸವಿತೃ, ದೈವೀ ಪ್ರೇರಕನೇ, ನಿನ್ನ ಹೊರಡುವಿಕೆಯ ನಂತರ, ಇತರ ದೇವತೆಗಳು ನಿನ್ನನ್ನು ಹಿಂಬಾಲಿಸುತ್ತಾರೆ, ನಿನ್ನ ಮಹಿಮೆಯನ್ನು ತಮ್ಮ ಶಕ್ತಿಯಿಂದ ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ. ನೀನು, ಶೀಘ್ರ ಮತ್ತು ಪ್ರಕಾಶಮಾನವಾದವನೇ, ನಿನ್ನ ವಿಶಾಲವಾದ ಶಕ್ತಿಯಿಂದ ಭೂಮಿಯ ಪ್ರದೇಶಗಳನ್ನು ಮತ್ತು ಲೋಕಗಳನ್ನು ಅಳೆದಿದ್ದಿ.",
+      "rig_time_s": 29.447,
+      "Insight_en": "Savitar (सविता) represents the inner illuminating power that inspires all beings to realize their potential. The following of other gods signifies the integration of various divine energies under the guidance of this supreme light. Measuring the earthly regions symbolizes the structuring of inner consciousness and the manifestation of divine will in the material world.",
+      "Insight_kn": "ಸವಿತೃ (ಸವಿತೃ) ಎಲ್ಲಾ ಜೀವಿಗಳು ತಮ್ಮ ಸಾಮರ್ಥ್ಯವನ್ನು ಅರಿತುಕೊಳ್ಳಲು ಪ್ರೇರೇಪಿಸುವ ಆಂತರಿಕ ಪ್ರಕಾಶಮಾನ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಇತರ ದೇವತೆಗಳ ಅನುಸರಣೆಯು ಈ ಪರಮ ಬೆಳಕಿನ ಮಾರ್ಗದರ್ಶನದಲ್ಲಿ ವಿವಿಧ ದೈವಿಕ ಶಕ್ತಿಗಳ ಸಮನ್ವಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಭೂಮಿಯ ಪ್ರದೇಶಗಳನ್ನು ಅಳೆಯುವುದು ಆಂತರಿಕ ಪ್ರಜ್ಞೆಯ ರಚನೆಯನ್ನು ಮತ್ತು ಭೌತಿಕ ಜಗತ್ತಿನಲ್ಲಿ ದೈವಿಕ ಇಚ್ಛೆಯ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S81_87-4_5",
+      "mandala": 5,
+      "sukta": 81,
+      "ric_index": 4,
+      "rig_lines": [
+        "उ॒त या᳚सि सवित॒स्त्रीणि॑ रोच॒नोत सूर्य॑स्य र॒श्मिभिः॒ समु॑च्यसि |",
+        "उ॒त रात्री᳚मुभ॒यतः॒ परी᳚यस उ॒त मि॒त्रो भ॑वसि देव॒ धर्म॑भिः ||"
+      ],
+      "pre_splits": [
+        "उ॒त",
+        "या॒सि॒",
+        "स॒वि॒त॒रिति॑",
+        "त्रीणि॑",
+        "रो॒च॒ना",
+        "उ॒त",
+        "सूर्य॑स्य",
+        "र॒श्मिऽभिः॑",
+        "स‌म्",
+        "उ॒च्य॒सि॒",
+        "उ॒त",
+        "रात्री᳚‌म्",
+        "उ॒भ॒यतः॑",
+        "परि॑",
+        "ई॒य॒से॒",
+        "उ॒त",
+        "मि॒त्रः",
+        "भ॒व॒सि॒",
+        "दे॒व॒",
+        "धर्म॑ऽभिः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹಾ"
+        },
+        {
+          "pada_original": "या॒सि॒",
+          "pada_kn": "ಯಾಸಿ",
+          "meaning_en": "you go / you travel",
+          "meaning_kn": "ನೀನು ಹೋಗುತ್ತೀಯೆ / ಸಂಚರಿಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "स॒वि॒त॒रिति॑",
+          "pada_kn": "ಸವಿತರಿತಿ",
+          "meaning_en": "O Savitar",
+          "meaning_kn": "ಓ ಸವಿತಾರನೇ"
+        },
+        {
+          "pada_original": "त्रीणि॑",
+          "pada_kn": "ತ್ರೀಣಿ",
+          "meaning_en": "three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "रो॒च॒ना",
+          "pada_kn": "ರೋಚನಾ",
+          "meaning_en": "luminous realms / bright regions",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ ಲೋಕಗಳನ್ನು / ಪ್ರದೇಶಗಳನ್ನು"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹಾ"
+        },
+        {
+          "pada_original": "सूर्य॑स्य",
+          "pada_kn": "ಸೂರ್ಯಸ್ಯ",
+          "meaning_en": "of the sun",
+          "meaning_kn": "ಸೂರ್ಯನ"
+        },
+        {
+          "pada_original": "र॒श्मिऽभिः॑",
+          "pada_kn": "ರಶ್ಮಿಭಿಃ",
+          "meaning_en": "with rays",
+          "meaning_kn": "ಕಿರಣಗಳಿಂದ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / completely",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "उ॒च्य॒सि॒",
+          "pada_kn": "ಉಚ್ಯಸಿ",
+          "meaning_en": "you are united / you are called",
+          "meaning_kn": "ನೀನು ಸೇರಿಕೊಳ್ಳುತ್ತೀಯೆ / ಕರೆಯಲ್ಪಡುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹಾ"
+        },
+        {
+          "pada_original": "रात्री᳚‌म्",
+          "pada_kn": "ರಾತ್ರೀಮ್",
+          "meaning_en": "night",
+          "meaning_kn": "ರಾತ್ರಿಯನ್ನು"
+        },
+        {
+          "pada_original": "उ॒भ॒यतः॑",
+          "pada_kn": "ಉಭಯತಃ",
+          "meaning_en": "on both sides / from both sides",
+          "meaning_kn": "ಎರಡೂ ಕಡೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / completely",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "ई॒य॒से॒",
+          "pada_kn": "ಈಯಸೇ",
+          "meaning_en": "you go / you move",
+          "meaning_kn": "ನೀನು ಹೋಗುತ್ತೀಯೆ / ಚಲಿಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹಾ"
+        },
+        {
+          "pada_original": "मि॒त्रः",
+          "pada_kn": "ಮಿತ್ರಃ",
+          "meaning_en": "Mitra (the god) / a friend",
+          "meaning_kn": "ಮಿತ್ರ (ದೇವತೆ) / ಸ್ನೇಹಿತ"
+        },
+        {
+          "pada_original": "भ॒व॒सि॒",
+          "pada_kn": "ಭವಸಿ",
+          "meaning_en": "you become / you are",
+          "meaning_kn": "ನೀನು ಆಗುತ್ತೀಯೆ / ಇರುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "दे॒व॒",
+          "pada_kn": "ದೇವ",
+          "meaning_en": "O god",
+          "meaning_kn": "ಓ ದೇವನೇ"
+        },
+        {
+          "pada_original": "धर्म॑ऽभिः",
+          "pada_kn": "ಧರ್ಮಭಿಃ",
+          "meaning_en": "with your laws / functions",
+          "meaning_kn": "ನಿನ್ನ ನಿಯಮಗಳಿಂದ / ಕಾರ್ಯಗಳಿಂದ"
+        }
+      ],
+      "full_meaning_en": "O Savitar, thou traversest the three realms of light; thou art mingled with the rays of the Sun. Thou encompassest Night on both sides, and thou, O divine one, becomest Mitra through thine established ordinances.",
+      "full_meaning_kn": "ಓ ಸವಿತೃ, ನೀನು ಬೆಳಕಿನ ಮೂರು ಲೋಕಗಳನ್ನು ದಾಟಿ ಹೋಗುತ್ತಿ; ಸೂರ್ಯನ ಕಿರಣಗಳೊಂದಿಗೆ ಬೆರೆಯುತ್ತಿ. ನೀನು ರಾತ್ರಿಯನ್ನು ಎರಡೂ ಕಡೆಗಳಲ್ಲಿ ಆವರಿಸುತ್ತಿ, ಮತ್ತು ನೀನು, ಓ ದೈವೀ, ಸ್ಥಾಪಿತ ನಿಯಮಗಳ ಮೂಲಕ ಮಿತ್ರನಾಗುತ್ತಿ.",
+      "rig_time_s": 44.554,
+      "Insight_en": "Savitar's journey through the three realms represents the individual's ascent through the physical, mental, and spiritual planes. Union with the Sun's rays signifies the merging of individual consciousness with universal consciousness. Encompassing the night suggests mastery over darkness and ignorance. Becoming Mitra through established ordinances reflects the manifestation of divine friendship and harmony through adherence to dharma (धर्म).",
+      "Insight_kn": "ಸವಿತೃವು ಮೂರು ಲೋಕಗಳಲ್ಲಿ ಮಾಡುವ ಪಯಣವು ವ್ಯಕ್ತಿಯು ದೈಹಿಕ, ಮಾನಸಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಹಂತಗಳಲ್ಲಿ ಏರುವಿಕೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಸೂರ್ಯನ ಕಿರಣಗಳೊಂದಿಗಿನ ಮಿಲನವು ವೈಯಕ್ತಿಕ ಪ್ರಜ್ಞೆಯು ಸಾರ್ವತ್ರಿಕ ಪ್ರಜ್ಞೆಯೊಂದಿಗೆ ಬೆರೆಯುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ರಾತ್ರಿಯನ್ನು ಆವರಿಸುವುದು ಕತ್ತಲೆ ಮತ್ತು ಅಜ್ಞಾನದ ಮೇಲೆ ಪ್ರಭುತ್ವವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸ್ಥಾಪಿತ ನಿಯಮಗಳ ಮೂಲಕ ಮಿತ್ರನಾಗುವುದು ಧರ್ಮಕ್ಕೆ (ಧರ್ಮ) ಅನುಗುಣವಾಗಿ ದೈವಿಕ ಸ್ನೇಹ ಮತ್ತು ಸಾಮರಸ್ಯದ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M5-S81_87-5_5",
+      "mandala": 5,
+      "sukta": 81,
+      "ric_index": 5,
+      "rig_lines": [
+        "उ॒तेशि॑षे प्रस॒वस्य॒ त्वमेक॒ इदु॒त पू॒षा भ॑वसि देव॒ याम॑भिः |",
+        "उ॒तेदं विश्वं॒ भुव॑नं॒ वि रा᳚जसि श्या॒वाश्व॑स्ते सवितः॒ स्तोम॑मानशे ||"
+      ],
+      "pre_splits": [
+        "उ॒त",
+        "ई॒शि॒षे॒",
+        "प्र॒ऽस॒वस्य॑",
+        "त्व‌म्",
+        "एकः॑",
+        "इत्",
+        "उ॒त",
+        "पू॒षा",
+        "भ॒व॒सि॒",
+        "दे॒व॒",
+        "याम॑ऽभिः",
+        "उ॒त",
+        "इ॒द‌म्",
+        "विश्व᳚‌म्",
+        "भुव॑न‌म्",
+        "वि",
+        "रा॒ज॒सि॒",
+        "श्या॒व।आ॑श्वः",
+        "ते॒",
+        "स॒वि॒त॒रिति॑",
+        "स्तोम᳚‌म्",
+        "आ॒न॒शे॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "ई॒शि॒षे॒",
+          "pada_kn": "ಈಶಿಷೇ",
+          "meaning_en": "you rule / you control",
+          "meaning_kn": "ನೀನು ಆಳುತ್ತೀಯೆ / ನೀನು ನಿಯಂತ್ರಿಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "प्र॒ऽस॒वस्य॑",
+          "pada_kn": "ಪ್ರಸವಸ್ಯ",
+          "meaning_en": "of creation / of impulsion",
+          "meaning_kn": "ಸೃಷ್ಟಿಯ / ಪ್ರೇರಣೆಯ"
+        },
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "you",
+          "meaning_kn": "ನೀನು"
+        },
+        {
+          "pada_original": "एकः॑",
+          "pada_kn": "ಏಕಃ",
+          "meaning_en": "alone / one",
+          "meaning_kn": "ಒಬ್ಬನೇ / ಒಂದು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / only",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಮಾತ್ರ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "पू॒षा",
+          "pada_kn": "ಪೂಷಾ",
+          "meaning_en": "Pūṣan (the nourisher)",
+          "meaning_kn": "ಪೂಷಾ (ಪೋಷಕ ದೇವತೆ)"
+        },
+        {
+          "pada_original": "भ॒व॒सि॒",
+          "pada_kn": "ಭವಸಿ",
+          "meaning_en": "you become",
+          "meaning_kn": "ನೀನು ಆಗುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "दे॒व॒",
+          "pada_kn": "ದೇವ",
+          "meaning_en": "O god",
+          "meaning_kn": "ಓ ದೇವನೇ"
+        },
+        {
+          "pada_original": "याम॑ऽभिः",
+          "pada_kn": "ಯಾಮಾಭಿಃ",
+          "meaning_en": "with journeys / with courses",
+          "meaning_kn": "ಪ್ರಯಾಣಗಳಿಂದ / ಮಾರ್ಗಗಳಿಂದ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "इ॒द‌म्",
+          "pada_kn": "ಇದಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "विश्व᳚‌म्",
+          "pada_kn": "ವಿಶ್ವಮ್",
+          "meaning_en": "entire / all",
+          "meaning_kn": "ಸಮಸ್ತ / ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "भुव॑न‌म्",
+          "pada_kn": "ಭುವನಮ್",
+          "meaning_en": "world / existence",
+          "meaning_kn": "ಲೋಕ / ಅಸ್ತಿತ್ವ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "widely / distinctly",
+          "meaning_kn": "ವ್ಯಾಪಕವಾಗಿ / ವಿಶಿಷ್ಟವಾಗಿ"
+        },
+        {
+          "pada_original": "रा॒ज॒सि॒",
+          "pada_kn": "ರಾಜಸಿ",
+          "meaning_en": "you shine / you rule",
+          "meaning_kn": "ನೀನು ಪ್ರಕಾಶಿಸುತ್ತೀಯೆ / ನೀನು ಆಳುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "श्या॒व।आ॑श्वः",
+          "pada_kn": "ಶ್ಯಾವಾಶ್ವಃ",
+          "meaning_en": "Shyāvāśva (the Rishi)",
+          "meaning_kn": "ಶ್ಯಾವಾಶ್ವ (ಋಷಿ)"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "स॒वि॒त॒रिति॑",
+          "pada_kn": "ಸವಿತರ್",
+          "meaning_en": "O Savitar",
+          "meaning_kn": "ಓ ಸವಿತಾರನೇ"
+        },
+        {
+          "pada_original": "स्तोम᳚‌म्",
+          "pada_kn": "ಸ್ತೋಮಮ್",
+          "meaning_en": "hymn of praise / eulogy",
+          "meaning_kn": "ಸ್ತುತಿಗೀತೆ / ಸ್ತೋತ್ರ"
+        },
+        {
+          "pada_original": "आ॒न॒शे॒",
+          "pada_kn": "ಆನಶೇ",
+          "meaning_en": "has reached / has attained",
+          "meaning_kn": "ತಲುಪಿದೆ / ಪಡೆದಿದೆ"
+        }
+      ],
+      "full_meaning_en": "O radiant Savitar, you alone are sovereign over the impulse and generative power of creation. Verily, you become Pūṣan, the nourisher, through your divine journeys. You shine forth, illuminating this entire universe. O Savitar, Shyāvāśva has attained your praise through this hymn.",
+      "full_meaning_kn": "ಓ ಪ್ರಕಾಶಮಾನನಾದ ಸವಿತೃ, ಸೃಷ್ಟಿಯ ಪ್ರೇರಣೆ ಮತ್ತು ಉತ್ಪಾದಕ ಶಕ್ತಿಯ ಮೇಲೆ ನೀನೊಬ್ಬನೇ ಸಾರ್ವಭೌಮನು. ವಾಸ್ತವವಾಗಿ, ನೀನು ನಿನ್ನ ದೈವಿಕ ಪಯಣಗಳ ಮೂಲಕ ಪೂಷನ್ ಆಗುತ್ತೀಯ, ಪೋಷಕನಾಗುತ್ತೀಯ. ನೀನು ಪ್ರಕಾಶಿಸುತ್ತಾ, ಈ ಇಡೀ ವಿಶ್ವವನ್ನು ಬೆಳಗುತ್ತೀಯ. ಓ ಸವಿತೃ, ಶ್ಯಾವಾಶ್ವನು ಈ ಸ್ತೋತ್ರದ ಮೂಲಕ ನಿನ್ನ ಸ್ತುತಿಯನ್ನು ಪಡೆದಿದ್ದಾನೆ.",
+      "rig_time_s": 58.608,
+      "Insight_en": "The mantra reveals that the creative force (Savitar) inherently possesses the power of sustenance (Pūṣan). Realization dawns when the individual (Shyāvāśva) aligns his inner vibrations with the divine rhythm through devotion. This unison unveils the all-pervading brilliance of the Self, illuminating the entire cosmos within.",
+      "Insight_kn": "ಮಂತ್ರವು ಸೃಷ್ಟಿಯ ಶಕ್ತಿಯು (ಸವಿತೃ) ಅಂತರ್ಗತವಾಗಿ ಪೋಷಣೆಯ ಶಕ್ತಿಯನ್ನು (ಪೂಷನ್) ಹೊಂದಿದೆ ಎಂದು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ವ್ಯಕ್ತಿಯು (ಶ್ಯಾವಾಶ್ವ) ಭಕ್ತಿಯ ಮೂಲಕ ತನ್ನ ಆಂತರಿಕ ಕಂಪನಗಳನ್ನು ದೈವಿಕ ಲಯದೊಂದಿಗೆ ಜೋಡಿಸಿದಾಗ ಸಾಕ್ಷಾತ್ಕಾರ ಉಂಟಾಗುತ್ತದೆ. ಈ ಏಕತೆಯು ಸ್ವಯಂನ ಸರ್ವತ್ರ ಪ್ರಕಾಶವನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತದೆ, ಒಳಗಿನ ಇಡೀ ಬ್ರಹ್ಮಾಂಡವನ್ನು ಬೆಳಗಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

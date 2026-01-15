@@ -1,0 +1,825 @@
+{
+  "mandala": 8,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M8-S86_103-1_5",
+      "mandala": 8,
+      "sukta": 86,
+      "ric_index": 1,
+      "rig_lines": [
+        "उ॒भा हि द॒स्रा भि॒षजा᳚ मयो॒भुवो॒भा दक्ष॑स्य॒ वच॑सो बभू॒वथुः॑ |",
+        "ता वां॒ विश्व॑को हवते तनूकृ॒थे मा नो॒ वि यौ᳚ष्टं स॒ख्या मु॒मोच॑तम् ||"
+      ],
+      "pre_splits": [
+        "उ॒भा",
+        "हि",
+        "द॒स्रा",
+        "भि॒षजा᳚",
+        "म॒यः॒ऽभुवा᳚",
+        "उ॒भा",
+        "दक्ष॑स्य",
+        "वच॑सः",
+        "ब॒भू॒वथुः॑",
+        "ता",
+        "वा॒‌म्",
+        "विश्व॑कः",
+        "ह॒व॒ते॒",
+        "त॒नू॒ऽकृ॒थे",
+        "मा",
+        "नः॒",
+        "वि",
+        "यौ॒ष्ट॒‌म्",
+        "स॒ख्या",
+        "मु॒मोच॑त‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒भा",
+          "pada_kn": "ಉಭಾ",
+          "meaning_en": "both",
+          "meaning_kn": "ಇಬ್ಬರೂ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "द॒स्रा",
+          "pada_kn": "ದಸ್ರಾ",
+          "meaning_en": "O wondrous ones (Ashvins)",
+          "meaning_kn": "ಓ ಅದ್ಭುತ ಅಶ್ವಿನಿಗಳೇ"
+        },
+        {
+          "pada_original": "भि॒षजा᳚",
+          "pada_kn": "ಭಿಷಜಾ",
+          "meaning_en": "physicians",
+          "meaning_kn": "ವೈದ್ಯರು"
+        },
+        {
+          "pada_original": "म॒यः॒ऽभुवा᳚",
+          "pada_kn": "ಮಯೋಭುವಾ",
+          "meaning_en": "givers of happiness / bestowers of joy",
+          "meaning_kn": "ಸುಖವನ್ನು ನೀಡುವವರು / ಸಂತೋಷವನ್ನು ಕೊಡುವವರು"
+        },
+        {
+          "pada_original": "उ॒भा",
+          "pada_kn": "ಉಭಾ",
+          "meaning_en": "both",
+          "meaning_kn": "ಇಬ್ಬರೂ"
+        },
+        {
+          "pada_original": "दक्ष॑स्य",
+          "pada_kn": "ದಕ್ಷಸ್ಯ",
+          "meaning_en": "of strength / of skill / of wisdom",
+          "meaning_kn": "ಶಕ್ತಿಯ / ಸಾಮರ್ಥ್ಯದ / ಜ್ಞಾನದ"
+        },
+        {
+          "pada_original": "वच॑सः",
+          "pada_kn": "ವಚಸಃ",
+          "meaning_en": "of speech / of praise",
+          "meaning_kn": "ಮಾತಿನ / ಸ್ತುತಿಯ"
+        },
+        {
+          "pada_original": "ब॒भू॒वथुः॑",
+          "pada_kn": "ಬಭೂವಥುಃ",
+          "meaning_en": "you two have become / you two are",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಆಗಿದ್ದೀರಿ"
+        },
+        {
+          "pada_original": "ता",
+          "pada_kn": "ತಾ",
+          "meaning_en": "those two (Ashvins)",
+          "meaning_kn": "ಆ ಇಬ್ಬರೂ (ಅಶ್ವಿನಿಗಳು)"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "you two (accusative)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು"
+        },
+        {
+          "pada_original": "विश्व॑कः",
+          "pada_kn": "ವಿಶ್ವಕಃ",
+          "meaning_en": "Vishvaka (the Rishi)",
+          "meaning_kn": "ವಿಶ್ವಕನು (ಋಷಿ)"
+        },
+        {
+          "pada_original": "ह॒व॒ते॒",
+          "pada_kn": "ಹವತೇ",
+          "meaning_en": "invokes / calls",
+          "meaning_kn": "ಆಹ್ವಾನಿಸುತ್ತಾನೆ / ಕರೆಯುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "त॒नू॒ऽकृ॒थे",
+          "pada_kn": "ತನೂಕೃತೇ",
+          "meaning_en": "for the body's well-being / for making the body sound",
+          "meaning_kn": "ದೇಹದ ಕ್ಷೇಮಕ್ಕಾಗಿ / ದೇಹವನ್ನು ಸುಸ್ಥಿತಿಯಲ್ಲಿಡಲು"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "not",
+          "meaning_kn": "ಬೇಡ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart",
+          "meaning_kn": "ಬೇರೆ"
+        },
+        {
+          "pada_original": "यौ॒ष्ट॒‌म्",
+          "pada_kn": "ಯೌಷ್ಟಮ್",
+          "meaning_en": "separate / divide (injunctive)",
+          "meaning_kn": "ಬೇರ್ಪಡಿಸಿರಿ / ವಿಭಜಿಸಿರಿ"
+        },
+        {
+          "pada_original": "स॒ख्या",
+          "pada_kn": "ಸಖ್ಯಾ",
+          "meaning_en": "from friendship / from companionship",
+          "meaning_kn": "ಸ್ನೇಹದಿಂದ / ಗೆಳೆತನದಿಂದ"
+        },
+        {
+          "pada_original": "मु॒मोच॑त‌म्",
+          "pada_kn": "ಮುಮೋಚತಮ್",
+          "meaning_en": "abandon / release (injunctive)",
+          "meaning_kn": "ತ್ಯಜಿಸಿರಿ / ಬಿಟ್ಟುಬಿಡಿರಿ"
+        }
+      ],
+      "full_meaning_en": "O radiant Ashvins, healers and bringers of joy, you both are born of strength and sacred speech. Vishvaka calls upon you for the welfare of his body. Do not sever our bond of friendship, release us from affliction.",
+      "full_meaning_kn": "ಓ ತೇಜಸ್ವೀ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ವೈದ್ಯರೂ ಆನಂದದಾಯಕರೂ ಆಗಿರುವ ನೀವು, ಶಕ್ತಿ ಮತ್ತು ಪವಿತ್ರ ವಾಕ್ಕಿನಿಂದ ಜನಿಸಿದ್ದೀರಿ. ವಿಶ್ವಕನು ತನ್ನ ದೇಹದ ಕ್ಷೇಮಕ್ಕಾಗಿ ನಿಮ್ಮನ್ನು ಕರೆಯುತ್ತಾನೆ. ನಮ್ಮ ಸ್ನೇಹದ ಬಂಧವನ್ನು ಕಡಿದು ಹಾಕಬೇಡಿ, ನಮ್ಮನ್ನು ಸಂಕಟದಿಂದ ಬಿಡುಗಡೆಗೊಳಿಸಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The Ashvins represent the dual aspects of healing and vitality. They embody the power of пра̄ṇa (प्राण) and vāk (वाक्), signifying the union of breath and sound in the healing process. Invoking them is an appeal to the inner healers, to restore wholeness and release from suffering by strengthening the connection to one's own vital essence and the power of mantra. True friendship arises from shared spiritual aspirations and mutual support in the journey towards self-realization.",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು ಚಿಕಿತ್ಸೆ ಮತ್ತು ಚೈತನ್ಯದ ದ್ವಂದ್ವ ಅಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಅವರು ಪ್ರಾಣ ಮತ್ತು ವಾಕ್‌ನ ಶಕ್ತಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾರೆ, ಇದು ಚಿಕಿತ್ಸಕ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಉಸಿರು ಮತ್ತು ಧ್ವನಿಯ ಒಕ್ಕೂಟವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅವರನ್ನು ಆವಾಹಿಸುವುದು ಆಂತರಿಕ ವೈದ್ಯರನ್ನು ಕರೆಯುವಂತೆ, ಸ್ವಂತ ಪ್ರಮುಖ ಸಾರ ಮತ್ತು ಮಂತ್ರದ ಶಕ್ತಿಗೆ ಸಂಪರ್ಕವನ್ನು ಬಲಪಡಿಸುವ ಮೂಲಕ ಸಂಪೂರ್ಣತೆಯನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲು ಮತ್ತು ದುಃಖದಿಂದ ಬಿಡುಗಡೆ ಮಾಡಲು ಪ್ರಾರ್ಥಿಸುತ್ತದೆ. ನಿಜವಾದ ಸ್ನೇಹವು ಹಂಚಿಕೆಯ ಆಧ್ಯಾತ್ಮಿಕ ಆಕಾಂಕ್ಷೆಗಳು ಮತ್ತು ಸ್ವಯಂ-ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ಪ್ರಯಾಣದಲ್ಲಿ ಪರಸ್ಪರ ಬೆಂಬಲದಿಂದ ಉಂಟಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M8-S86_103-2_5",
+      "mandala": 8,
+      "sukta": 86,
+      "ric_index": 2,
+      "rig_lines": [
+        "क॒था नू॒नं वां॒ विम॑ना॒, उप॑ स्तवद्यु॒वं धियं᳚ ददथु॒र्वस्य॑इष्टये |",
+        "ता वां॒ विश्व॑को हवते तनूकृ॒थे मा नो॒ वि यौ᳚ष्टं स॒ख्या मु॒मोच॑तम् ||"
+      ],
+      "pre_splits": [
+        "क॒था",
+        "नू॒न‌म्",
+        "वा॒‌म्",
+        "विऽम॑नाः",
+        "उप॑",
+        "स्त॒व॒त्",
+        "यु॒व‌म्",
+        "धिय᳚‌म्",
+        "द॒द॒थुः॒",
+        "वस्यः॑ऽ‌इष्टये",
+        "ता",
+        "वा॒‌म्",
+        "विश्व॑कः",
+        "ह॒व॒ते॒",
+        "त॒नू॒ऽकृ॒थे",
+        "मा",
+        "नः॒",
+        "वि",
+        "यौ॒ष्ट॒‌म्",
+        "स॒ख्या",
+        "मु॒मोच॑त‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "क॒था",
+          "pada_kn": "ಕಥಾ",
+          "meaning_en": "How / In what manner?",
+          "meaning_kn": "ಹೇಗೆ?"
+        },
+        {
+          "pada_original": "नू॒न‌म्",
+          "pada_kn": "ನೂನಮ್",
+          "meaning_en": "Indeed / Now",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಈಗ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "Of you two / To you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗೆ / ನಿಮ್ಮಿಬ್ಬರನ್ನು"
+        },
+        {
+          "pada_original": "विऽम॑नाः",
+          "pada_kn": "ವಿಮನಾಃ",
+          "meaning_en": "Distracted / With a disturbed mind",
+          "meaning_kn": "ವಿಚಲಿತ ಮನಸ್ಸಿನಿಂದ / ವಿಚಲಿತ ಮನಸ್ಸಿನವನು"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "Near / Towards",
+          "meaning_kn": "ಹತ್ತಿರ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "स्त॒व॒त्",
+          "pada_kn": "ಸ್ತವತ್",
+          "meaning_en": "(He) praises",
+          "meaning_kn": "ಸ್ತುತಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "You two",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ"
+        },
+        {
+          "pada_original": "धिय᳚‌म्",
+          "pada_kn": "ಧಿಯಮ್",
+          "meaning_en": "Thought / Prayer / Wisdom",
+          "meaning_kn": "ಧ್ಯಾನ / ಪ್ರಾರ್ಥನೆ / ಬುದ್ಧಿ"
+        },
+        {
+          "pada_original": "द॒द॒थुः॒",
+          "pada_kn": "ದದಥುಃ",
+          "meaning_en": "You two give",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ಕೊಡುತ್ತೀರಿ"
+        },
+        {
+          "pada_original": "वस्यः॑ऽ‌इष्टये",
+          "pada_kn": "ವಸ್ಯಃಇಷ್ಟಯೇ",
+          "meaning_en": "For the desire of wealth / For the acquisition of greater good",
+          "meaning_kn": "ಸಂಪತ್ತಿನ ಆಸೆಗಾಗಿ / ಉತ್ತಮ ಸಂಪಾದನೆಗಾಗಿ"
+        },
+        {
+          "pada_original": "ता",
+          "pada_kn": "ತಾ",
+          "meaning_en": "Those (two) / Them (dual)",
+          "meaning_kn": "ಅವರನ್ನು (ಅವರಿಬ್ಬರನ್ನು)"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "You two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು"
+        },
+        {
+          "pada_original": "विश्व॑कः",
+          "pada_kn": "ವಿಶ್ವಕಃ",
+          "meaning_en": "Vishvaka (name of the Rishi)",
+          "meaning_kn": "ವಿಶ್ವಕ (ಋಷಿಯ ಹೆಸರು)"
+        },
+        {
+          "pada_original": "ह॒व॒ते॒",
+          "pada_kn": "ಹವತೇ",
+          "meaning_en": "Invokes",
+          "meaning_kn": "ಕರೆಯುತ್ತಾನೆ / ಆಹ್ವಾನಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "त॒नू॒ऽकृ॒थे",
+          "pada_kn": "ತನೂಕೃಥೇ",
+          "meaning_en": "For the making of the body / For the well-being of the body",
+          "meaning_kn": "ಶರೀರದ ನಿರ್ಮಾಣಕ್ಕಾಗಿ / ಶರೀರದ ಸುಸ್ಥಿತಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "Do not",
+          "meaning_kn": "ಬೇಡ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "Apart",
+          "meaning_kn": "ಪ್ರತ್ಯೇಕವಾಗಿ"
+        },
+        {
+          "pada_original": "यौ॒ष्ट॒‌म्",
+          "pada_kn": "ಯೌಷ್ಟಮ್",
+          "meaning_en": "Separate",
+          "meaning_kn": "ಬೇರ್ಪಡಿಸಿರಿ"
+        },
+        {
+          "pada_original": "स॒ख्या",
+          "pada_kn": "ಸಖ್ಯಾ",
+          "meaning_en": "From friendship",
+          "meaning_kn": "ಗೆಳೆತನದಿಂದ"
+        },
+        {
+          "pada_original": "मु॒मोच॑त‌म्",
+          "pada_kn": "ಮುಮೋಚತಮ್",
+          "meaning_en": "Release",
+          "meaning_kn": "ಬಿಡುಗಡೆ ಮಾಡಿರಿ"
+        }
+      ],
+      "full_meaning_en": "How indeed shall a person with a wavering mind praise you, O Ashvins? You bestow wisdom for the attainment of abundant prosperity. Vishvaka invokes you for the well-being of his body. Do not sever our friendship, nor release us from this bond, O Divine Healers.",
+      "full_meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಚಂಚಲ ಮನಸ್ಸಿನಿಂದ ನಿಮ್ಮನ್ನು ಹೇಗೆ ಸ್ತುತಿಸಲಿ? ನೀವು ಸಮೃದ್ಧಿಯ ಸಾಧನೆಗಾಗಿ ಜ್ಞಾನವನ್ನು ದಯಪಾಲಿಸುತ್ತೀರಿ. ವಿಶ್ವಕನು ತನ್ನ ದೇಹದ ಯೋಗಕ್ಷೇಮಕ್ಕಾಗಿ ನಿಮ್ಮನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತಾನೆ. ದಯವಿಟ್ಟು ನಮ್ಮ ಸ್ನೇಹವನ್ನು ಕಡಿದು ಹಾಕಬೇಡಿ, ಮತ್ತು ಈ ಬಂಧದಿಂದ ನಮ್ಮನ್ನು ಮುಕ್ತಗೊಳಿಸಬೇಡಿ.",
+      "rig_time_s": 16.001,
+      "Insight_en": "The wavering mind (विमना:) is the greatest obstacle to spiritual progress. True praise and devotion arise from a stable, focused intellect. The attainment of prosperity (वस्य:) is not merely material; it encompasses inner well-being and wisdom. The bond (सख्या) with the divine is a source of strength and should be cherished, not severed.",
+      "Insight_kn": "ಚಂಚಲ ಮನಸ್ಸು (ವಿಮನಾ:) ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅತಿದೊಡ್ಡ ಅಡಚಣೆಯಾಗಿದೆ. ನಿಜವಾದ ಸ್ತುತಿ ಮತ್ತು ಭಕ್ತಿಯು ಸ್ಥಿರವಾದ, ಕೇಂದ್ರೀಕೃತ ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಸಮೃದ್ಧಿಯ ಸಾಧನೆ (ವಸ್ಯ:) ಕೇವಲ ಭೌತಿಕವಲ್ಲ; ಅದು ಆಂತರಿಕ ಯೋಗಕ್ಷೇಮ ಮತ್ತು ಜ್ಞಾನವನ್ನು ಒಳಗೊಂಡಿದೆ. ದೈವಿಕೊಂದಿಗಿನ ಬಾಂಧವ್ಯವು (ಸಖ್ಯಾ) ಶಕ್ತಿಯ ಮೂಲವಾಗಿದೆ ಮತ್ತು ಅದನ್ನು ಪ್ರೀತಿಸಬೇಕು, ಕಡಿದುಕೊಳ್ಳಬಾರದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M8-S86_103-3_5",
+      "mandala": 8,
+      "sukta": 86,
+      "ric_index": 3,
+      "rig_lines": [
+        "यु॒वं हि ष्मा᳚ पुरुभुजे॒ममे᳚ध॒तुं वि॑ष्णा॒प्वे᳚ द॒दथु॒र्वस्य॑इष्टये |",
+        "ता वां॒ विश्व॑को हवते तनूकृ॒थे मा नो॒ वि यौ᳚ष्टं स॒ख्या मु॒मोच॑तम् ||"
+      ],
+      "pre_splits": [
+        "यु॒व‌म्",
+        "हि",
+        "स्म॒",
+        "पु॒रु॒ऽभु॒जा॒",
+        "इ॒म‌म्",
+        "ए॒ध॒तु‌म्",
+        "वि॒ष्णा॒प्वे᳚",
+        "द॒दथुः॑",
+        "वस्यः॑ऽ‌इष्टये",
+        "ता",
+        "वा॒‌म्",
+        "विश्व॑कः",
+        "ह॒व॒ते॒",
+        "त॒नू॒ऽकृ॒थे",
+        "मा",
+        "नः॒",
+        "वि",
+        "यौ॒ष्ट॒‌म्",
+        "स॒ख्या",
+        "मु॒मोच॑त‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "You two",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರೂ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "स्म॒",
+          "pada_kn": "ಸ್ಮ",
+          "meaning_en": "(particle for emphasis/past)",
+          "meaning_kn": "(ಒತ್ತು ಅಥವಾ ಭೂತಕಾಲ ಸೂಚಕ)"
+        },
+        {
+          "pada_original": "पु॒रु॒ऽभु॒जा॒",
+          "pada_kn": "ಪುರುಭುಜಾ",
+          "meaning_en": "O you of many enjoyments / O you who grant much bounty",
+          "meaning_kn": "ಓ ಅನೇಕ ಭೋಗಗಳನ್ನುಳ್ಳವರೇ / ಓ ಅನೇಕ ಸಂಪತ್ತನ್ನು ನೀಡುವವರೇ"
+        },
+        {
+          "pada_original": "इ॒म‌म्",
+          "pada_kn": "ಇಮಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "ए॒ध॒तु‌म्",
+          "pada_kn": "ಏಧತುಮ್",
+          "meaning_en": "prosperity / growth",
+          "meaning_kn": "ಸಮೃದ್ಧಿ / ಅಭಿವೃದ್ಧಿ"
+        },
+        {
+          "pada_original": "वि॒ष्णा॒प्वे᳚",
+          "pada_kn": "ವಿಷ್ಣಾಪ್ಯೇ",
+          "meaning_en": "for Vishnapyu (a person/lineage)",
+          "meaning_kn": "ವಿಷ್ಣಾಪ್ಯುವಿಗಾಗಿ (ಒಬ್ಬ ವ್ಯಕ್ತಿ/ವಂಶ)"
+        },
+        {
+          "pada_original": "द॒दथुः॑",
+          "pada_kn": "ದದಥುಃ",
+          "meaning_en": "you two granted / gave",
+          "meaning_kn": "ನೀವು ಇಬ್ಬರೂ ನೀಡಿದಿರಿ / ಅನುಗ್ರಹಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "वस्यः॑ऽ‌इष्टये",
+          "pada_kn": "ವಸ್ಯಃಇಷ್ಟಯೇ",
+          "meaning_en": "for the desire of wealth / for better acquisition",
+          "meaning_kn": "ಸಂಪತ್ತಿನ ಆಸೆಗಾಗಿ / ಉತ್ತಮ ಪ್ರಾಪ್ತಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "ता",
+          "pada_kn": "ತಾ",
+          "meaning_en": "those two (Ashvins)",
+          "meaning_kn": "ಆ ಇಬ್ಬರನ್ನು (ಅಶ್ವಿನಿ ದೇವತೆಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು / ನಿಮ್ಮಿಬ್ಬರ"
+        },
+        {
+          "pada_original": "विश्व॑कः",
+          "pada_kn": "ವಿಶ್ವಕಃ",
+          "meaning_en": "Vishvaka (the worshipper)",
+          "meaning_kn": "ವಿಶ್ವಕನು (ಪೂಜಿಸುವವನು)"
+        },
+        {
+          "pada_original": "ह॒व॒ते॒",
+          "pada_kn": "ಹವತೇ",
+          "meaning_en": "invokes / calls",
+          "meaning_kn": "ಕರೆಯುತ್ತಾನೆ / ಆಹ್ವಾನಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "त॒नू॒ऽकृ॒थे",
+          "pada_kn": "ತನೂಕೃಥೇ",
+          "meaning_en": "for the well-being of the body / for self-preservation",
+          "meaning_kn": "ಶರೀರದ ಕ್ಷೇಮಕ್ಕಾಗಿ / ತನ್ನ ರಕ್ಷಣೆಗಾಗಿ"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "do not",
+          "meaning_kn": "ಬೇಡ / ಮಾಡಬೇಡಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart / asunder",
+          "meaning_kn": "ಬೇರ್ಪಡಿಸಿ / ದೂರ"
+        },
+        {
+          "pada_original": "यौ॒ष्ट॒‌म्",
+          "pada_kn": "ಯೌಷ್ಟಮ್",
+          "meaning_en": "(may you two) separate",
+          "meaning_kn": "(ನೀವಿಬ್ಬರೂ) ಬೇರ್ಪಡಿಸಬೇಡಿ"
+        },
+        {
+          "pada_original": "स॒ख्या",
+          "pada_kn": "ಸಖ್ಯಾ",
+          "meaning_en": "from friendship / from companionship",
+          "meaning_kn": "ಸ್ನೇಹದಿಂದ / ಸಹವಾಸದಿಂದ"
+        },
+        {
+          "pada_original": "मु॒मोच॑त‌म्",
+          "pada_kn": "ಮುಮೋಚತಮ್",
+          "meaning_en": "(may you two) abandon / release",
+          "meaning_kn": "(ನೀವಿಬ್ಬರೂ) ತ್ಯಜಿಸಬೇಡಿ / ಬಿಡಬೇಡಿ"
+        }
+      ],
+      "full_meaning_en": "O you two Ashvins, bestowers of ample joys, you indeed granted this abundance to Vishnapyu for the sake of wealth. Vishvaka now calls upon you both for the health of his body. Do not sever us from your friendship; do not release us from your bond.",
+      "full_meaning_kn": "ಓ ಹೇ ಅಶ್ವಿನೀ ದೇವತೆಗಳೇ, ಹೇರಳವಾದ ಆನಂದವನ್ನು ಕೊಡುವವರೇ, ನೀವು ಸಂಪತ್ತಿನ ಆಸೆಗಾಗಿ ವಿಷ್ಣ್ವಪ್ಯುವಿಗೆ ಈ ಸಮೃದ್ಧಿಯನ್ನು ದಯಪಾಲಿಸಿದ್ದೀರಿ. ವಿಶ್ವಕನು ತನ್ನ ದೇಹದ ಆರೋಗ್ಯಕ್ಕಾಗಿ ನಿಮ್ಮಿಬ್ಬರನ್ನು ಕರೆಯುತ್ತಾನೆ. ನಿಮ್ಮ ಸ್ನೇಹದಿಂದ ನಮ್ಮನ್ನು ಬೇರ್ಪಡಿಸಬೇಡಿ; ನಮ್ಮನ್ನು ನಿಮ್ಮ ಬಂಧದಿಂದ ಬಿಡುಗಡೆ ಮಾಡಬೇಡಿ.",
+      "rig_time_s": 32.683,
+      "Insight_en": "The mantra emphasizes the importance of divine friendship and the seeking of both material prosperity and physical well-being. The Ashvins represent the dual aspects of divine grace, bestowing abundance and healing. True wealth is not merely material but also encompasses health and unbroken spiritual connection. The plea for unbroken friendship highlights the necessity of maintaining a constant relationship with the divine to avoid spiritual abandonment and suffering.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ಸ್ನೇಹದ ಮಹತ್ವ ಮತ್ತು ಭೌತಿಕ ಸಮೃದ್ಧಿ ಮತ್ತು ದೈಹಿಕ ಯೋಗಕ್ಷೇಮವನ್ನು ಪಡೆಯುವ ಬಗ್ಗೆ ಒತ್ತಿಹೇಳುತ್ತದೆ. ಅಶ್ವಿನಿ ದೇವತೆಗಳು ದೈವಿಕ ಅನುಗ್ರಹದ ದ್ವಂದ್ವ ಅಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಸಮೃದ್ಧಿ ಮತ್ತು ಗುಣಪಡಿಸುವಿಕೆಯನ್ನು ನೀಡುತ್ತಾರೆ. ನಿಜವಾದ ಸಂಪತ್ತು ಕೇವಲ ಭೌತಿಕವಲ್ಲ ಆದರೆ ಆರೋಗ್ಯ ಮತ್ತು ಮುರಿಯದ ಆಧ್ಯಾತ್ಮಿಕ ಸಂಪರ್ಕವನ್ನು ಒಳಗೊಂಡಿದೆ. ಮುರಿಯದ ಸ್ನೇಹಕ್ಕಾಗಿ ಮಾಡಿದ ಪ್ರಾರ್ಥನೆಯು ಆಧ್ಯಾತ್ಮಿಕ ಪರಿತ್ಯಾಗ ಮತ್ತು ಸಂಕಟವನ್ನು ತಪ್ಪಿಸಲು ದೈವಿಕತೆಯೊಂದಿಗೆ ನಿರಂತರ ಸಂಬಂಧವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಅಗತ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M8-S86_103-4_5",
+      "mandala": 8,
+      "sukta": 86,
+      "ric_index": 4,
+      "rig_lines": [
+        "उ॒त त्यं वी॒रं ध॑न॒सामृ॑जी॒षिणं᳚ दू॒रे चि॒त्सन्त॒मव॑से हवामहे |",
+        "यस्य॒ स्वादि॑ष्ठा सुम॒तिः पि॒तुर्य॑था॒ मा नो॒ वि यौ᳚ष्टं स॒ख्या मु॒मोच॑तम् ||"
+      ],
+      "pre_splits": [
+        "उ॒त",
+        "त्य‌म्",
+        "वी॒र‌म्",
+        "ध॒न॒ऽसा‌म्",
+        "ऋ॒जी॒षिण᳚‌म्",
+        "दू॒रे",
+        "चि॒त्",
+        "सन्त᳚‌म्",
+        "अव॑से",
+        "ह॒वा॒म॒हे॒",
+        "यस्य॑",
+        "स्वादि॑ष्ठा",
+        "सु॒ऽम॒तिः",
+        "पि॒तुः",
+        "य॒था॒",
+        "मा",
+        "नः॒",
+        "वि",
+        "यौ॒ष्ट॒‌म्",
+        "स॒ख्या",
+        "मु॒मोच॑त‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "त्य‌म्",
+          "pada_kn": "ತ್ಯಮ್",
+          "meaning_en": "that (one) / him",
+          "meaning_kn": "ಆ (ಒಬ್ಬನನ್ನು) / ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "वी॒र‌म्",
+          "pada_kn": "ವೀರಮ್",
+          "meaning_en": "hero / strong man",
+          "meaning_kn": "ವೀರನನ್ನು / ಶೂರನನ್ನು"
+        },
+        {
+          "pada_original": "ध॒न॒ऽसा‌म्",
+          "pada_kn": "ಧನಸಾಮ್",
+          "meaning_en": "wealth-winning / gaining riches",
+          "meaning_kn": "ಧನವನ್ನು ಗಳಿಸುವವನನ್ನು / ಸಂಪತ್ತು ಪಡೆಯುವವನನ್ನು"
+        },
+        {
+          "pada_original": "ऋ॒जी॒षिण᳚‌म्",
+          "pada_kn": "ಋಜೀಷಿಣಮ್",
+          "meaning_en": "having Soma-juice / righteous",
+          "meaning_kn": "ಸೋಮರಸವುಳ್ಳವನನ್ನು / ನೇರವಾದವನನ್ನು"
+        },
+        {
+          "pada_original": "दू॒रे",
+          "pada_kn": "ದೂರೇ",
+          "meaning_en": "far away / at a distance",
+          "meaning_kn": "ದೂರದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "even / indeed",
+          "meaning_kn": "ಸಹ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "सन्त᳚‌म्",
+          "pada_kn": "ಸಂತಮ್",
+          "meaning_en": "being / existing",
+          "meaning_kn": "ಇರುವವನನ್ನು"
+        },
+        {
+          "pada_original": "अव॑से",
+          "pada_kn": "ಅವಸೇ",
+          "meaning_en": "for help / for protection",
+          "meaning_kn": "ಸಹಾಯಕ್ಕಾಗಿ / ರಕ್ಷಣೆಗಾಗಿ"
+        },
+        {
+          "pada_original": "ह॒वा॒म॒हे॒",
+          "pada_kn": "ಹವಾಮಹೇ",
+          "meaning_en": "we invoke / we call",
+          "meaning_kn": "ನಾವು ಆಹ್ವಾನಿಸುತ್ತೇವೆ / ಕರೆಯುತ್ತೇವೆ"
+        },
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "whose",
+          "meaning_kn": "ಯಾರ"
+        },
+        {
+          "pada_original": "स्वादि॑ष्ठा",
+          "pada_kn": "ಸ್ವಾದಿಷ್ಠಾ",
+          "meaning_en": "most sweet / most pleasant",
+          "meaning_kn": "ಅತ್ಯಂತ ಮಧುರವಾದ / ಅತ್ಯಂತ ಪ್ರಿಯವಾದ"
+        },
+        {
+          "pada_original": "सु॒ऽम॒तिः",
+          "pada_kn": "ಸುಮತಿಃ",
+          "meaning_en": "good thought / favor / benevolence",
+          "meaning_kn": "ಒಳ್ಳೆಯ ಆಲೋಚನೆ / ಅನುಗ್ರಹ"
+        },
+        {
+          "pada_original": "पि॒तुः",
+          "pada_kn": "ಪಿತುಃ",
+          "meaning_en": "of a father",
+          "meaning_kn": "ತಂದೆಯ"
+        },
+        {
+          "pada_original": "य॒था॒",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "just as / like",
+          "meaning_kn": "ಹಾಗೆ / ರೀತಿಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "do not",
+          "meaning_kn": "ಬೇಡ / ಮಾಡಬೇಡಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us / our",
+          "meaning_kn": "ನಮ್ಮನ್ನು / ನಮಗೆ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart / away",
+          "meaning_kn": "ಬೇರ್ಪಡಿಸಿ / ದೂರ"
+        },
+        {
+          "pada_original": "यौ॒ष्ट॒‌म्",
+          "pada_kn": "ಯೌಷ್ಟಮ್",
+          "meaning_en": "(you two) separate / sever",
+          "meaning_kn": "(ನೀವಿಬ್ಬರೂ) ಬೇರ್ಪಡಿಸಬೇಡಿ / ಕಡಿದುಹಾಕಬೇಡಿ"
+        },
+        {
+          "pada_original": "स॒ख्या",
+          "pada_kn": "ಸಖ್ಯಾ",
+          "meaning_en": "from friendship / from companionship",
+          "meaning_kn": "ಸ್ನೇಹದಿಂದ / ಗೆಳೆತನದಿಂದ"
+        },
+        {
+          "pada_original": "मु॒मोच॑त‌म्",
+          "pada_kn": "ಮುಮೋಚತಮ್",
+          "meaning_en": "(you two) release / abandon",
+          "meaning_kn": "(ನೀವಿಬ್ಬರೂ) ಬಿಡುಗಡೆ ಮಾಡಬೇಡಿ / ತ್ಯಜಿಸಬೇಡಿ"
+        }
+      ],
+      "full_meaning_en": "And we invoke that hero, the winner of treasures, the possessor of Soma, even when he is far away, for aid. He, whose most delightful favor is like that of a father. O (Indra and associated deity), do not sever us from friendship, do not release us from bonds.",
+      "full_meaning_kn": "ದೂರದಲ್ಲಿದ್ದರೂ, ಸಂಪತ್ತನ್ನು ಗೆದ್ದ, ಸೋಮವನ್ನು ಹೊಂದಿರುವ ಆ ವೀರನನ್ನು ಸಹಾಯಕ್ಕಾಗಿ ನಾವು ಕರೆಯುತ್ತೇವೆ. ಯಾರ ಅತಿ ಆಹ್ಲಾದಕರವಾದ ಒಲವು ತಂದೆಯಂತಿದೆಯೋ, ಎಲೈ (ಇಂದ್ರ ಮತ್ತು ಸಂಬಂಧಿತ ದೇವತೆ), ನಮ್ಮನ್ನು ಸ್ನೇಹದಿಂದ ಬೇರ್ಪಡಿಸಬೇಡಿ, ನಮ್ಮನ್ನು ಬಂಧನಗಳಿಂದ ಬಿಡುಗಡೆಗೊಳಿಸಿ.",
+      "rig_time_s": 49.807,
+      "Insight_en": "The hero represents the inner warrior, the aspirant striving for spiritual wealth (धन). Soma, the sacred elixir, symbolizes the nectar of inner experiences. Invoking this inner hero even when seemingly distant signifies the constant potential for accessing higher consciousness. The father-like favor (पितुर्यथा) points to the divine grace that nurtures and guides the seeker. The plea to not be separated from friendship (सख्या) highlights the importance of spiritual companionship and the bonds formed through shared aspiration. The release from bonds (मुमोचतम्) signifies liberation from limiting attachments and ignorance.",
+      "Insight_kn": "ವೀರನು ಆಂತರಿಕ ಯೋಧನನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಆಧ್ಯಾತ್ಮಿಕ ಸಂಪತ್ತಿಗಾಗಿ ಶ್ರಮಿಸುವ ಆಕಾಂಕ್ಷಿ (ಧನ). ಸೋಮವು, ಪವಿತ್ರ ಅಮೃತ, ಆಂತರಿಕ ಅನುಭವಗಳ ಸಾರವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಈ ಆಂತರಿಕ ವೀರನನ್ನು ದೂರದಲ್ಲಿದ್ದರೂ ಆಹ್ವಾನಿಸುವುದು ಉನ್ನತ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರವೇಶಿಸುವ ನಿರಂತರ ಸಾಮರ್ಥ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ತಂದೆಯಂತಹ ಒಲವು (ಪಿತುರ್ಯಥಾ) ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅದು ಸಾಧಕನನ್ನು ಪೋಷಿಸುತ್ತದೆ ಮತ್ತು ಮಾರ್ಗದರ್ಶಿಸುತ್ತದೆ. ಸ್ನೇಹದಿಂದ (ಸಖ್ಯಾ) ಬೇರ್ಪಡಿಸದಂತೆ ಮನವಿ ಮಾಡುವುದು ಆಧ್ಯಾತ್ಮಿಕ ಒಡನಾಟದ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಮತ್ತು ಹಂಚಿಕೆಯ ಆಕಾಂಕ್ಷೆಯ ಮೂಲಕ ರೂಪುಗೊಂಡ ಬಂಧಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಬಂಧನಗಳಿಂದ ಬಿಡುಗಡೆ (ಮುಮೋಚತಂ) ಎಂದರೆ ಸೀಮಿತಗೊಳಿಸುವ ಲಗತ್ತುಗಳು ಮತ್ತು ಅಜ್ಞಾನದಿಂದ ವಿಮೋಚನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M8-S86_103-5_5",
+      "mandala": 8,
+      "sukta": 86,
+      "ric_index": 5,
+      "rig_lines": [
+        "ऋ॒तेन॑ दे॒वः स॑वि॒ता श॑मायत ऋ॒तस्य॒ शृङ्ग॑मुर्वि॒या वि प॑प्रथे |",
+        "ऋ॒तं सा᳚साह॒ महि॑ चित्‌ पृतन्य॒तो मा नो॒ वि यौ᳚ष्टं स॒ख्या मु॒मोच॑तम् ||"
+      ],
+      "pre_splits": [
+        "ऋ॒तेन॑",
+        "दे॒वः",
+        "स॒वि॒ता",
+        "श॒‌म्ऽआ॒य॒ते॒",
+        "ऋ॒तस्य॑",
+        "शृङ्ग᳚‌म्",
+        "उ॒र्वि॒या",
+        "वि",
+        "प॒प्र॒थे॒",
+        "ऋ॒त‌म्",
+        "स॒सा॒ह॒",
+        "महि॑",
+        "चि॒त्",
+        "पृ॒त॒न्य॒तः",
+        "मा",
+        "नः॒",
+        "वि",
+        "यौ॒ष्ट॒‌म्",
+        "स॒ख्या",
+        "मु॒मोच॑त‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ऋ॒तेन॑",
+          "pada_kn": "ಋತೇನ",
+          "meaning_en": "by truth / by cosmic order",
+          "meaning_kn": "ಸತ್ಯದಿಂದ / ಋತದಿಂದ"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "the god",
+          "meaning_kn": "ದೇವನು"
+        },
+        {
+          "pada_original": "स॒वि॒ता",
+          "pada_kn": "ಸವಿತಾ",
+          "meaning_en": "Savitar (the stimulator/inspirer)",
+          "meaning_kn": "ಸವಿತೃ (ಪ್ರೇರಕ ದೇವನು)"
+        },
+        {
+          "pada_original": "श॒‌म्ऽआ॒य॒ते॒",
+          "pada_kn": "ಶಮ್ ಆಯತೇ",
+          "meaning_en": "moves peacefully / proceeds happily",
+          "meaning_kn": "ಸುಖವಾಗಿ ಚಲಿಸುತ್ತಾನೆ / ಶಾಂತವಾಗಿ ಸಾಗುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "ऋ॒तस्य॑",
+          "pada_kn": "ಋತಸ್ಯ",
+          "meaning_en": "of truth / of cosmic order",
+          "meaning_kn": "ಸತ್ಯದ / ಋತದ"
+        },
+        {
+          "pada_original": "शृङ्ग᳚‌म्",
+          "pada_kn": "ಶೃಂಗಮ್",
+          "meaning_en": "horn / peak / power",
+          "meaning_kn": "ಕೊಂಬು / ಶಿಖರ / ಶಕ್ತಿ"
+        },
+        {
+          "pada_original": "उ॒र्वि॒या",
+          "pada_kn": "ಉರ್ವಿಯಾ",
+          "meaning_en": "widely / broadly",
+          "meaning_kn": "ವಿಸ್ತಾರವಾಗಿ / ಅಗಲವಾಗಿ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart / forth (prefix)",
+          "meaning_kn": "ದೂರ / ಹೊರಗೆ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "प॒प्र॒थे॒",
+          "pada_kn": "ಪಪ್ರಥೇ",
+          "meaning_en": "has spread / has extended",
+          "meaning_kn": "ಹರಡಿದೆ / ವಿಸ್ತರಿಸಿದೆ"
+        },
+        {
+          "pada_original": "ऋ॒त‌म्",
+          "pada_kn": "ಋತಮ್",
+          "meaning_en": "truth / cosmic order",
+          "meaning_kn": "ಸತ್ಯವನ್ನು / ಋತವನ್ನು"
+        },
+        {
+          "pada_original": "स॒सा॒ह॒",
+          "pada_kn": "ಸಸಾಹ",
+          "meaning_en": "has overcome / has conquered",
+          "meaning_kn": "ಜಯಿಸಿದೆ / ಗೆದ್ದಿದೆ"
+        },
+        {
+          "pada_original": "महि॑",
+          "pada_kn": "ಮಹಿ",
+          "meaning_en": "great / mighty",
+          "meaning_kn": "ಮಹಾನ್ / ದೊಡ್ಡ"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "even / indeed",
+          "meaning_kn": "ಸಹ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "पृ॒त॒न्य॒तः",
+          "pada_kn": "ಪೃತನ್ಯತಃ",
+          "meaning_en": "those who fight / enemies",
+          "meaning_kn": "ಹೋರಾಡುವವರನ್ನು / ಶತ್ರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "not",
+          "meaning_kn": "ಬೇಡ / ಇಲ್ಲ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart (prefix)",
+          "meaning_kn": "ದೂರ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "यौ॒ष्ट॒‌म्",
+          "pada_kn": "ಯೌಷ್ಟಮ್",
+          "meaning_en": "separate / disjoin (dual imperative)",
+          "meaning_kn": "ಬೇರ್ಪಡಿಸಬೇಡಿ / ದೂರ ಮಾಡಬೇಡಿ (ದ್ವಿವಚನ ಆಜ್ಞೆ)"
+        },
+        {
+          "pada_original": "स॒ख्या",
+          "pada_kn": "ಸಖ್ಯಾ",
+          "meaning_en": "from friendship / from companionship",
+          "meaning_kn": "ಸ್ನೇಹದಿಂದ / ಗೆಳೆತನದಿಂದ"
+        },
+        {
+          "pada_original": "मु॒मोच॑त‌म्",
+          "pada_kn": "ಮುಮೋಚತಮ್",
+          "meaning_en": "release / let go (dual imperative)",
+          "meaning_kn": "ಬಿಡುಗಡೆ ಮಾಡಿ / ಬಿಡಿ (ದ್ವಿವಚನ ಆಜ್ಞೆ)"
+        }
+      ],
+      "full_meaning_en": "By cosmic law, the radiant Savitar moves in tranquility. The summit of this cosmic order expands vastly. Truth conquers even the mightiest adversaries. O deities, may you never sever our bond of friendship, nor release us from its embrace.",
+      "full_meaning_kn": "ಋತದೊಳ್ ದೇವ ಸವಿತೃ ಶಾಂತನಾಗಿ ಚಲಿಸುವನು. ಋತದ ಶಿಖರವು ವಿಸ್ತಾರವಾಗಿ ಹರಡಿದೆ. ಸತ್ಯವು ಬಲಿಷ್ಠ ವೈರಿಗಳನ್ನೂ ಗೆಲ್ಲುತ್ತದೆ. ಓ ದೇವತೆಗಳೇ, ನಮ್ಮ ಸ್ನೇಹವನ್ನು ಎಂದಿಗೂ ಕಡಿಯಬೇಡಿ, ಮತ್ತು ಅದರ ಆಲಿಂಗನದಿಂದ ನಮ್ಮನ್ನು ಬಿಡುಗಡೆ ಮಾಡಬೇಡಿ.",
+      "rig_time_s": 66.509,
+      "Insight_en": "The inherent cosmic order (ऋत) governs all existence, influencing even the divine. Realization of this truth leads to inner peace and expansion of consciousness. Truth (सत्य) is the ultimate victor, overcoming all obstacles. The bond with the divine should be cherished and never forsaken, as it provides liberation.",
+      "Insight_kn": "ಋತವು ಸಕಲ ಅಸ್ತಿತ್ವವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ, ದೈವಿಕವನ್ನೂ ಪ್ರಭಾವಿಸುತ್ತದೆ. ಈ ಸತ್ಯದ ಅರಿವು ಆಂತರಿಕ ಶಾಂತಿಗೆ ಮತ್ತು ಪ್ರಜ್ಞೆಯ ವಿಸ್ತರಣೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಸತ್ಯವು ಅಂತಿಮ ವಿಜೇತ, ಎಲ್ಲಾ ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸುತ್ತದೆ. ದೈವಿಕೊಂದಿಗಿನ ಬಾಂಧವ್ಯವನ್ನು ಎಂದಿಗೂ ಕೈಬಿಡಬಾರದು, ಏಕೆಂದರೆ ಅದು ಮುಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

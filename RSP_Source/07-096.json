@@ -1,0 +1,601 @@
+{
+  "mandala": 7,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M7-S96_104-1_6",
+      "mandala": 7,
+      "sukta": 96,
+      "ric_index": 1,
+      "rig_lines": [
+        "बृ॒हदु॑ गायिषे॒ वचो᳚ऽसु॒र्या᳚ न॒दीना᳚म् |",
+        "सर॑स्वती॒मिन्म॑हया सुवृ॒क्तिभिः॒ स्तोमै᳚र्वसिष्ठ॒ रोद॑सी ||"
+      ],
+      "pre_splits": [
+        "बृ॒हत्",
+        "ऊँ॒ इति॑",
+        "गा॒यि॒षे॒",
+        "वचः॑",
+        "अ॒सु॒र्या᳚",
+        "न॒दीना᳚‌म्",
+        "सर॑स्वती‌म्",
+        "इत्",
+        "म॒ह॒य॒",
+        "सु॒वृ॒क्तिऽभिः॑",
+        "स्तोमैः᳚",
+        "व॒सि॒ष्ठ॒",
+        "रोद॑सी॒ इति॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "बृ॒हत्",
+          "pada_kn": "ಬೃಹತ್",
+          "meaning_en": "great / mighty",
+          "meaning_kn": "ದೊಡ್ಡ / ಮಹತ್ತಾದ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಓಂ ಇತಿ",
+          "meaning_en": "indeed / verily (particle)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ (ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "गा॒यि॒षे॒",
+          "pada_kn": "ಗಾಯಿಸೇ",
+          "meaning_en": "I will sing / I will chant",
+          "meaning_kn": "ನಾನು ಹಾಡುವೆನು / ನಾನು ಸ್ತುತಿಸುವೆನು"
+        },
+        {
+          "pada_original": "वचः॑",
+          "pada_kn": "ವಚಃ",
+          "meaning_en": "word / hymn / speech",
+          "meaning_kn": "ಮಾತು / ಸ್ತೋತ್ರ / ವಚನ"
+        },
+        {
+          "pada_original": "अ॒सु॒र्या᳚",
+          "pada_kn": "ಅಸುರ್ಯಾ",
+          "meaning_en": "of the divine power / of the might",
+          "meaning_kn": "ದೈವೀ ಶಕ್ತಿಯ / ಸಾಮರ್ಥ್ಯದ"
+        },
+        {
+          "pada_original": "न॒दीना᳚‌म्",
+          "pada_kn": "ನದೀನಾಮ್",
+          "meaning_en": "of the rivers",
+          "meaning_kn": "ನದಿಗಳ"
+        },
+        {
+          "pada_original": "सर॑स्वती‌म्",
+          "pada_kn": "ಸರಸ್ವತೀಮ್",
+          "meaning_en": "Sarasvati (the goddess/river)",
+          "meaning_kn": "ಸರಸ್ವತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / only (particle)",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಮಾತ್ರ (ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "म॒ह॒य॒",
+          "pada_kn": "ಮಹಯ",
+          "meaning_en": "glorify / extol (imperative)",
+          "meaning_kn": "ವೈಭವೀಕರಿಸು / ಮಹಿಮೆಪಡಿಸು"
+        },
+        {
+          "pada_original": "सु॒वृ॒क्तिऽभिः॑",
+          "pada_kn": "ಸುವೃಕ್ತಿಭಿಃ",
+          "meaning_en": "with good praises / with excellent hymns",
+          "meaning_kn": "ಉತ್ತಮ ಸ್ತುತಿಗಳಿಂದ / ಶ್ರೇಷ್ಠ ಸ್ತೋತ್ರಗಳಿಂದ"
+        },
+        {
+          "pada_original": "स्तोमैः᳚",
+          "pada_kn": "ಸ್ತೋಮೈಃ",
+          "meaning_en": "with hymns / with praises",
+          "meaning_kn": "ಸ್ತೋತ್ರಗಳಿಂದ / ಪ್ರಶಂಸೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "व॒सि॒ष्ठ॒",
+          "pada_kn": "ವಸಿಷ್ಠ",
+          "meaning_en": "O Vasishtha (vocative)",
+          "meaning_kn": "ಓ ವಸಿಷ್ಠನೇ"
+        },
+        {
+          "pada_original": "रोद॑सी॒ इति॑",
+          "pada_kn": "ರೋದಸೀ ಇತಿ",
+          "meaning_en": "heaven and earth (dual)",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥ್ವಿಗಳು / ಆಕಾಶ ಮತ್ತು ಭೂಮಿ"
+        }
+      ],
+      "full_meaning_en": "I shall utter a grand hymn, a speech born of the divine energy of the rivers. O Vasishtha, magnify Sarasvati with beautiful praises and hymns, and also Heaven and Earth.",
+      "full_meaning_kn": "ನಾನು ನದಿಗಳ ದೈವಿಕ ಶಕ್ತಿಯಿಂದ ಜನಿಸಿದ ಒಂದು ಭವ್ಯವಾದ ಸ್ತೋತ್ರವನ್ನು, ಮಾತನ್ನು ಉಚ್ಚರಿಸುವೆನು. ಓ ವಸಿಷ್ಠರೇ, ಉತ್ತಮ ಸ್ತುತಿಗಳು ಮತ್ತು ಸ್ತೋತ್ರಗಳಿಂದ ಸರಸ್ವತಿಯನ್ನು ಮತ್ತು ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯನ್ನು ಕೀರ್ತಿಸಿರಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The hymn invokes the power of speech originating from the divine flow of life-sustaining forces. Sarasvati, the goddess of wisdom, is magnified through pure intention and heartfelt expression, bridging the earthly and celestial realms. The act of praise becomes a conduit for divine grace, fostering inner harmony and cosmic connection.",
+      "Insight_kn": "ಸ್ತೋತ್ರವು ಜೀವನವನ್ನು ಉಳಿಸುವ ಶಕ್ತಿಗಳ ದೈವಿಕ ಹರಿವಿನಿಂದ ಹುಟ್ಟುವ ಮಾತಿನ ಶಕ್ತಿಯನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ. ಬುದ್ಧಿವಂತಿಕೆಯ ದೇವತೆಯಾದ ಸರಸ್ವತಿಯು ಶುದ್ಧ ಉದ್ದೇಶ ಮತ್ತು ಹೃದಯಪೂರ್ವಕ ಅಭಿವ್ಯಕ್ತಿಯ ಮೂಲಕ ವಿಸ್ತರಿಸಲ್ಪಡುತ್ತಾಳೆ, ಇದು ಭೂಮಿಯ ಮತ್ತು ಸ್ವರ್ಗೀಯ ಕ್ಷೇತ್ರಗಳನ್ನು ಬೆಸೆಯುತ್ತದೆ. ಸ್ತುತಿಯ ಕ್ರಿಯೆಯು ದೈವಿಕ ಅನುಗ್ರಹಕ್ಕೆ ಒಂದು ನಾಳವಾಗುತ್ತದೆ, ಆಂತರಿಕ ಸಾಮರಸ್ಯ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಸಂಪರ್ಕವನ್ನು ಬೆಳೆಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S96_104-2_6",
+      "mandala": 7,
+      "sukta": 96,
+      "ric_index": 2,
+      "rig_lines": [
+        "उ॒भे यत्ते᳚ महि॒ना शु॑भ्रे॒, अन्ध॑सी, अधिक्षि॒यन्ति॑ पू॒रवः॑ |",
+        "सा नो᳚ बोध्यवि॒त्री म॒रुत्स॑खा॒ चोद॒ राधो᳚ म॒घोना᳚म् ||"
+      ],
+      "pre_splits": [
+        "उ॒भे इति॑",
+        "यत्",
+        "ते॒",
+        "म॒हि॒ना",
+        "शु॒भ्रे॒",
+        "अन्ध॑सी॒ इति॑",
+        "अ॒धि॒ऽक्षि॒यन्ति॑",
+        "पू॒रवः॑",
+        "सा",
+        "नः॒",
+        "बो॒धि॒",
+        "अ॒वि॒त्री",
+        "म॒रुत्ऽस॑खा",
+        "चोद॑",
+        "राधः॑",
+        "म॒घोना᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒भे इति॑",
+          "pada_kn": "ಉಭೇ ಇತಿ",
+          "meaning_en": "both (heaven and earth)",
+          "meaning_kn": "ಎರಡೂ (ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ)"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "which / that",
+          "meaning_kn": "ಯಾವುದು / ಯಾವ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your (O Indra)",
+          "meaning_kn": "ನಿನ್ನ (ಓ ಇಂದ್ರ)"
+        },
+        {
+          "pada_original": "म॒हि॒ना",
+          "pada_kn": "ಮಹಿನಾ",
+          "meaning_en": "by greatness / by might",
+          "meaning_kn": "ಮಹಿಮೆಯಿಂದ / ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "शु॒भ्रे॒",
+          "pada_kn": "ಶುಭ್ರೇ",
+          "meaning_en": "bright / shining (dual)",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ / ಶುಭ್ರವಾದ (ಎರಡೂ)"
+        },
+        {
+          "pada_original": "अन्ध॑सी॒ इति॑",
+          "pada_kn": "ಅಂಧಸೀ ಇತಿ",
+          "meaning_en": "heaven and earth (dual)",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥ್ವಿ / ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ"
+        },
+        {
+          "pada_original": "अ॒धि॒ऽक्षि॒यन्ति॑",
+          "pada_kn": "ಅಧಿಕ್ಷಿಯಂತಿ",
+          "meaning_en": "dwell upon / rule over",
+          "meaning_kn": "ಆಳುತ್ತವೆ / ಆಶ್ರಯಿಸಿವೆ"
+        },
+        {
+          "pada_original": "पू॒रवः॑",
+          "pada_kn": "ಪೂರವಃ",
+          "meaning_en": "the Purus / many people",
+          "meaning_kn": "ಪೂರುಗಳು (ಒಂದು ಜನವರ್ಗ) / ಅನೇಕ ಜನರು"
+        },
+        {
+          "pada_original": "सा",
+          "pada_kn": "ಸಾ",
+          "meaning_en": "that (goddess Saraswati / prayer)",
+          "meaning_kn": "ಆ (ಸರಸ್ವತಿ ದೇವತೆ / ಪ್ರಾರ್ಥನೆ)"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "बो॒धि॒",
+          "pada_kn": "ಬೋಧಿ",
+          "meaning_en": "be aware / awaken",
+          "meaning_kn": "ಅರಿತುಕೋ / ಎಚ್ಚರಾಗು"
+        },
+        {
+          "pada_original": "अ॒वि॒त्री",
+          "pada_kn": "ಅವಿತ್ರೀ",
+          "meaning_en": "protectress / helper",
+          "meaning_kn": "ರಕ್ಷಕಿ / ಸಹಾಯಕಿ"
+        },
+        {
+          "pada_original": "म॒रुत्ऽस॑खा",
+          "pada_kn": "ಮರುತ್ಸಖಾ",
+          "meaning_en": "friend of the Maruts (O Indra)",
+          "meaning_kn": "ಮರುತ್ತುಗಳ ಸಖ (ಓ ಇಂದ್ರ)"
+        },
+        {
+          "pada_original": "चोद॑",
+          "pada_kn": "ಚೋದ",
+          "meaning_en": "impel / bestow / grant",
+          "meaning_kn": "ಪ್ರೇರೇಪಿಸು / ನೀಡು"
+        },
+        {
+          "pada_original": "राधः॑",
+          "pada_kn": "ರಾಧಃ",
+          "meaning_en": "wealth / bounty",
+          "meaning_kn": "ಸಂಪತ್ತು / ಐಶ್ವರ್ಯ"
+        },
+        {
+          "pada_original": "म॒घोना᳚‌म्",
+          "pada_kn": "ಮಘೋನಾಮ್",
+          "meaning_en": "of the generous / of the wealthy",
+          "meaning_kn": "ಉದಾರರ / ಧನಿಕರ"
+        }
+      ],
+      "full_meaning_en": "O Indra, through your divine greatness, the Purus (many people) find their abode in both radiant heaven and earth. May that vigilant protectress (Saraswati, or personified prayer) be mindful of us. O Indra, friend of the Maruts, inspire and grant us the abundance of the generous.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ನಿನ್ನ ದೈವಿಕ ಮಹಿಮೆಯಿಂದ, ಪುರುಷರು (ಅನೇಕ ಜನರು) ಪ್ರಕಾಶಮಾನವಾದ ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ ಎರಡರಲ್ಲೂ ತಮ್ಮ ನೆಲೆಯನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತಾರೆ. ಆ ಜಾಗರೂಕ ರಕ್ಷಕಿ (ಸರಸ್ವತಿ, ಅಥವಾ ವ್ಯಕ್ತಿತ್ವದ ಪ್ರಾರ್ಥನೆ) ನಮ್ಮ ಬಗ್ಗೆ ಗಮನಹರಿಸಲಿ. ಓ ಮರುತ್ಗಳ ಸ್ನೇಹಿತ ಇಂದ್ರ, ಪ್ರೇರೇಪಿಸು ಮತ್ತು ದಾನಿಗಳ ಸಮೃದ್ಧಿಯನ್ನು ನಮಗೆ ನೀಡು.",
+      "rig_time_s": 12.032,
+      "Insight_en": "The mantra reveals the pervasive influence of Indra, symbolizing the divine power that sustains both the celestial and terrestrial realms. The 'Purus,' representing humanity, find refuge and sustenance in this divine embrace. The protectress, often associated with Saraswati, embodies the power of prayer and wisdom, urging us to remain mindful and receptive to divine grace. Ultimately, the mantra invokes Indra, the friend of the Maruts, to bestow abundance, not merely material wealth, but the prosperity born of generosity and spiritual insight. This abundance is a manifestation of divine favor, a reward for a life lived in accordance with dharma and devotion to the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಇಂದ್ರನ ಸರ್ವವ್ಯಾಪಿ ಪ್ರಭಾವವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ, ಇದು ಸ್ವರ್ಗೀಯ ಮತ್ತು ಭೂಮಂಡಲದ ಕ್ಷೇತ್ರಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವ ದೈವಿಕ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. 'ಪುರುಷರು', ಮಾನವೀಯತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಈ ದೈವಿಕ ಆಲಿಂಗನದಲ್ಲಿ ಆಶ್ರಯ ಮತ್ತು ಪೋಷಣೆಯನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತಾರೆ. ರಕ್ಷಕಿ, ಸಾಮಾನ್ಯವಾಗಿ ಸರಸ್ವತಿಯೊಂದಿಗೆ ಸಂಬಂಧ ಹೊಂದಿದ್ದಾಳೆ, ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಜ್ಞಾನದ ಶಕ್ತಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾಳೆ, ದೈವಿಕ ಅನುಗ್ರಹಕ್ಕೆ ಮನಸ್ಸು ಮತ್ತು ಸ್ವೀಕಾರಾರ್ಹವಾಗಿರಲು ನಮ್ಮನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತಾಳೆ. ಅಂತಿಮವಾಗಿ, ಮಂತ್ರವು ಮರುತ್ಗಳ ಸ್ನೇಹಿತನಾದ ಇಂದ್ರನನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ, ಕೇವಲ ಭೌತಿಕ ಸಂಪತ್ತನ್ನು ಮಾತ್ರವಲ್ಲದೆ, ಔದಾರ್ಯ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟದಿಂದ ಜನಿಸಿದ ಸಮೃದ್ಧಿಯನ್ನು ನೀಡುತ್ತಾನೆ. ಈ ಸಮೃದ್ಧಿಯು ದೈವಿಕ ಒಲವಿನ ಅಭಿವ್ಯಕ್ತಿಯಾಗಿದೆ, ಧರ್ಮಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಮತ್ತು ದೈವಕ್ಕೆ ಭಕ್ತಿಯಿಂದ ಬದುಕಿದ ಜೀವನಕ್ಕೆ ಪ್ರತಿಫಲವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S96_104-3_6",
+      "mandala": 7,
+      "sukta": 96,
+      "ric_index": 3,
+      "rig_lines": [
+        "भ॒द्रमिद्‌ भ॒द्रा कृ॑णव॒त्‌ सर॑स्व॒त्यक॑वारी चेतति वा॒जिनी᳚वती |",
+        "गृ॒णा॒ना ज॑मदग्नि॒वत् स्तु॑वा॒ना च॑ वसिष्ठ॒वत् ||"
+      ],
+      "pre_splits": [
+        "भ॒द्र‌म्",
+        "इत्",
+        "भ॒द्रा",
+        "कृ॒ण॒व॒त्",
+        "सर॑स्वती",
+        "अक॑व।आरी",
+        "चे॒त॒ति॒",
+        "वा॒जिनी᳚ऽवती",
+        "गृ॒णा॒ना",
+        "ज॒म॒द॒ग्नि॒ऽवत्",
+        "स्तु॒वा॒ना",
+        "च॒",
+        "व॒सि॒ष्ठ॒ऽवत्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "auspicious / good",
+          "meaning_kn": "ಶುಭಕರವಾದ / ಒಳ್ಳೆಯದು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "भ॒द्रा",
+          "pada_kn": "ಭದ್ರಾ",
+          "meaning_en": "auspicious (feminine) / benevolent",
+          "meaning_kn": "ಶುಭವನ್ನುಂಟುಮಾಡುವ / ಮಂಗಳಕರವಾದ"
+        },
+        {
+          "pada_original": "कृ॒ण॒व॒त्",
+          "pada_kn": "ಕೃಣವತ್",
+          "meaning_en": "may she make / may she do",
+          "meaning_kn": "ಅವಳು ಮಾಡಲಿ / ಉಂಟುಮಾಡಲಿ"
+        },
+        {
+          "pada_original": "सर॑स्वती",
+          "pada_kn": "ಸರಸ್ವತೀ",
+          "meaning_en": "Sarasvati (the goddess)",
+          "meaning_kn": "ಸರಸ್ವತೀ (ದೇವತೆ)"
+        },
+        {
+          "pada_original": "अक॑व।आरी",
+          "pada_kn": "ಅಕವಾರೀ",
+          "meaning_en": "unobstructed / not stingy / liberal",
+          "meaning_kn": "ಅಡೆತಡೆಯಿಲ್ಲದ / ಉದಾರವಾದಿ"
+        },
+        {
+          "pada_original": "चे॒त॒ति॒",
+          "pada_kn": "ಚೇತತಿ",
+          "meaning_en": "she perceives / she understands / she shines",
+          "meaning_kn": "ಅವಳು ಅರಿಯುತ್ತಾಳೆ / ಪ್ರಕಾಶಿಸುತ್ತಾಳೆ"
+        },
+        {
+          "pada_original": "वा॒जिनी᳚ऽवती",
+          "pada_kn": "ವಾಜಿನೀವತೀ",
+          "meaning_en": "rich in food/strength/wealth / powerful",
+          "meaning_kn": "ಅನ್ನ/ಶಕ್ತಿ/ಸಂಪತ್ತಿನಿಂದ ಕೂಡಿದ / ಶಕ್ತಿಶಾಲಿ"
+        },
+        {
+          "pada_original": "गृ॒णा॒ना",
+          "pada_kn": "ಗೃಣಾನಾ",
+          "meaning_en": "being praised / being invoked",
+          "meaning_kn": "ಸ್ತುತಿಸಲ್ಪಡುತ್ತಾಳೆ / ಆಹ್ವಾನಿಸಲ್ಪಡುತ್ತಾಳೆ"
+        },
+        {
+          "pada_original": "ज॒म॒द॒ग्नि॒ऽवत्",
+          "pada_kn": "ಜಮದಗ್ನಿವತ್",
+          "meaning_en": "like Jamadagni (the sage)",
+          "meaning_kn": "ಜಮದಗ್ನಿ ಋಷಿಯಂತೆ"
+        },
+        {
+          "pada_original": "स्तु॒वा॒ना",
+          "pada_kn": "ಸ್ತುವಾನಾ",
+          "meaning_en": "being extolled / being glorified",
+          "meaning_kn": "ಕೊಂಡಾಡಲ್ಪಡುತ್ತಾಳೆ / ಪ್ರಶಂಸಿಸಲ್ಪಡುತ್ತಾಳೆ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "व॒सि॒ष्ठ॒ऽवत्",
+          "pada_kn": "ವಸಿಷ್ಠವತ್",
+          "meaning_en": "like Vasishtha (the sage)",
+          "meaning_kn": "ವಸಿಷ್ಠ ಋಷಿಯಂತೆ"
+        }
+      ],
+      "full_meaning_en": "May the auspicious Sarasvati verily bestow auspiciousness. Unobstructed, possessing strength and opulence, she is all-knowing. Praised like Jamadagni and lauded like Vasishtha.",
+      "full_meaning_kn": "ಶುಭಕರವಾದ ಸರಸ್ವತಿಯು ಶುಭವನ್ನುಂಟುಮಾಡಲಿ. ತಡೆಯಿಲ್ಲದ, ಶಕ್ತಿ ಮತ್ತು ಸಂಪತ್ತಿನಿಂದ ಕೂಡಿದ ಅವಳು ಎಲ್ಲವನ್ನೂ ಅರಿಯುತ್ತಾಳೆ. ಜಮದಗ್ನಿಯಂತೆ ಸ್ತುತಿಸಲ್ಪಟ್ಟವಳು, ವಸಿಷ್ಠನಂತೆ ಹೊಗಳಲ್ಪಡುತ್ತಾಳೆ.",
+      "rig_time_s": 26.289,
+      "Insight_en": "Sarasvati represents the unobstructed flow of consciousness (चित्), enriched with vitality (प्राण) and abundance (समृद्धि). Realizing her essence within allows one to perceive reality without distortion, attaining wisdom and auspiciousness. One must invoke her with the devotion of Jamadagni and the steadfastness of Vasishtha.",
+      "Insight_kn": "ಸರಸ್ವತಿಯು ತಡೆಯಿಲ್ಲದ ಪ್ರಜ್ಞೆಯ ಹರಿವನ್ನು (ಚಿತ್) ಪ್ರತಿನಿಧಿಸುತ್ತಾಳೆ, ಅದು ಚೈತನ್ಯ (ಪ್ರಾಣ) ಮತ್ತು ಸಮೃದ್ಧಿಯಿಂದ (ಸಮೃದ್ಧಿ) ಸಮೃದ್ಧವಾಗಿದೆ. ಅವಳ ಸಾರವನ್ನು ಅರಿತುಕೊಳ್ಳುವುದರಿಂದ ವಾಸ್ತವವನ್ನು ವಿಕೃತಿ ಇಲ್ಲದೆ ಗ್ರಹಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ, ಇದರಿಂದ ಜ್ಞಾನ ಮತ್ತು ಶುಭವನ್ನು ಪಡೆಯಬಹುದು. ಜಮದಗ್ನಿಯ ಭಕ್ತಿಯಿಂದ ಮತ್ತು ವಸಿಷ್ಠನ ಸ್ಥಿರತೆಯಿಂದ ಅವಳನ್ನು ಆಹ್ವಾನಿಸಬೇಕು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S96_104-4_6",
+      "mandala": 7,
+      "sukta": 96,
+      "ric_index": 4,
+      "rig_lines": [
+        "ज॒नी॒यन्तो॒ न्वग्र॑वः पुत्री॒यन्तः॑ सु॒दान॑वः |",
+        "सर॑स्वन्तं हवामहे ||"
+      ],
+      "pre_splits": [
+        "ज॒नि॒ऽयन्तः॑",
+        "नु",
+        "अग्र॑वः",
+        "पु॒त्रि॒ऽयन्तः॑",
+        "सु॒ऽदान॑वः",
+        "सर॑स्वन्त‌म्",
+        "ह॒वा॒म॒हे॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ज॒नि॒ऽयन्तः॑",
+          "pada_kn": "ಜನಿಯನ್ತಃ",
+          "meaning_en": "desiring wives / desiring offspring",
+          "meaning_kn": "ಹೆಂಡತಿಯರನ್ನು ಬಯಸುವವರು / ಸಂತಾನವನ್ನು ಬಯಸುವವರು"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "indeed / now",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಈಗ"
+        },
+        {
+          "pada_original": "अग्र॑वः",
+          "pada_kn": "ಅಗ್ರವಃ",
+          "meaning_en": "foremost ones / leaders",
+          "meaning_kn": "ಶ್ರೇಷ್ಠರು / ಮುಂದಾಳುಗಳು"
+        },
+        {
+          "pada_original": "पु॒त्रि॒ऽयन्तः॑",
+          "pada_kn": "ಪುತ್ರಿಯನ್ತಃ",
+          "meaning_en": "desiring sons / desiring children",
+          "meaning_kn": "ಪುತ್ರರನ್ನು ಬಯಸುವವರು / ಮಕ್ಕಳನ್ನು ಬಯಸುವವರು"
+        },
+        {
+          "pada_original": "सु॒ऽदान॑वः",
+          "pada_kn": "ಸುದಾನವಃ",
+          "meaning_en": "good givers / bountiful ones",
+          "meaning_kn": "ಉತ್ತಮ ದಾನಿಗಳು / ಉದಾರರು"
+        },
+        {
+          "pada_original": "सर॑स्वन्त‌म्",
+          "pada_kn": "ಸರಸ್ವನ್ತಮ್",
+          "meaning_en": "Sarasvatī (the deity) / one possessing Sarasvatī's qualities",
+          "meaning_kn": "ಸರಸ್ವತಿಯನ್ನು (ದೇವಿಯನ್ನು) / ಸರಸ್ವತಿಯ ಗುಣಗಳನ್ನು ಹೊಂದಿದವನನ್ನು"
+        },
+        {
+          "pada_original": "ह॒वा॒म॒हे॒",
+          "pada_kn": "ಹವಾಮಹೇ",
+          "meaning_en": "we invoke / we call upon",
+          "meaning_kn": "ನಾವು ಆಹ್ವಾನಿಸುತ್ತೇವೆ / ನಾವು ಕರೆಯುತ್ತೇವೆ"
+        }
+      ],
+      "full_meaning_en": "O Saraswati, we, the foremost, desiring wives and sons, and bountiful givers, invoke you.",
+      "full_meaning_kn": "ಓ ಸರಸ್ವತಿಯೇ, ನಾವು, ಅಗ್ರಗಣ್ಯರು, ಪತ್ನಿ ಮತ್ತು ಪುತ್ರರನ್ನು ಬಯಸುವವರು, ಮತ್ತು ಉದಾರವಾಗಿ ದಾನ ಮಾಡುವವರು, ನಿಮ್ಮನ್ನು ಆಹ್ವಾನಿಸುತ್ತೇವೆ.",
+      "rig_time_s": 39.445,
+      "Insight_en": "The desire for progeny and prosperity are external manifestations of an inner yearning for completeness. Saraswati represents the wisdom that guides these desires towards dharma, ensuring fulfillment arises from righteous action. She is the flow of consciousness that sanctifies worldly aspirations, turning them into stepping stones for spiritual growth. The invocation is a call to purify desires with knowledge.",
+      "Insight_kn": "ಸಂತಾನ ಮತ್ತು ಸಮೃದ್ಧಿಯ ಬಯಕೆಗಳು ಪರಿಪೂರ್ಣತೆಗಾಗಿ ಆಂತರಿಕ ಹಾತೊರೆಯುವಿಕೆಯ ಬಾಹ್ಯ ಅಭಿವ್ಯಕ್ತಿಗಳಾಗಿವೆ. ಸರಸ್ವತಿಯು ಈ ಆಸೆಗಳನ್ನು ಧರ್ಮದ ಕಡೆಗೆ ನಿರ್ದೇಶಿಸುವ ಜ್ಞಾನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾಳೆ, ಧರ್ಮಯುತ ಕ್ರಿಯೆಯಿಂದ ನೆರವೇರಿಕೆ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ಖಚಿತಪಡಿಸುತ್ತಾಳೆ. ಅವಳು ಲೌಕಿಕ ಆಕಾಂಕ್ಷೆಗಳನ್ನು ಪವಿತ್ರಗೊಳಿಸುವ ಪ್ರಜ್ಞೆಯ ಹರಿವು, ಅವುಗಳನ್ನು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಮೆಟ್ಟಿಲುಗಳನ್ನಾಗಿ ಪರಿವರ್ತಿಸುತ್ತಾಳೆ. ಆಹ್ವಾನವು ಜ್ಞಾನದಿಂದ ಆಸೆಗಳನ್ನು ಶುದ್ಧೀಕರಿಸುವ ಕರೆ ಆಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S96_104-5_6",
+      "mandala": 7,
+      "sukta": 96,
+      "ric_index": 5,
+      "rig_lines": [
+        "ये ते᳚ सरस्व ऊ॒र्मयो॒ मधु॑मन्तो घृत॒श्चुतः॑ |",
+        "तेभि᳚र्नोऽवि॒ता भ॑व ||"
+      ],
+      "pre_splits": [
+        "ये",
+        "ते॒",
+        "स॒र॒स्वः॒",
+        "ऊ॒र्मयः॑",
+        "मधु॑ऽमन्तः",
+        "घृ॒त॒ऽश्चुतः॑",
+        "तेभिः॑",
+        "नः॒",
+        "अ॒वि॒ता",
+        "भ॒व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "those",
+          "meaning_kn": "ಯಾವ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "स॒र॒स्वः॒",
+          "pada_kn": "ಸರಸ್ವಃ",
+          "meaning_en": "O Sarasvati!",
+          "meaning_kn": "ಓ ಸರಸ್ವತೀ!"
+        },
+        {
+          "pada_original": "ऊ॒र्मयः॑",
+          "pada_kn": "ಊರ್ಮಯಃ",
+          "meaning_en": "waves / currents",
+          "meaning_kn": "ಅಲೆಗಳು / ಪ್ರವಾಹಗಳು"
+        },
+        {
+          "pada_original": "मधु॑ऽमन्तः",
+          "pada_kn": "ಮಧುಮಂತಃ",
+          "meaning_en": "full of sweetness / sweet",
+          "meaning_kn": "ಮಧುರವಾದ / ಸಿಹಿಯಾದ"
+        },
+        {
+          "pada_original": "घृ॒त॒ऽश्चुतः॑",
+          "pada_kn": "ಘೃತಶ್ಚುತಃ",
+          "meaning_en": "dripping with ghee",
+          "meaning_kn": "ತುಪ್ಪ ಸುರಿಸುವ"
+        },
+        {
+          "pada_original": "तेभिः॑",
+          "pada_kn": "ತೇಭಿಃ",
+          "meaning_en": "with those",
+          "meaning_kn": "ಆ (ಅಲೆಗಳಿಂದ) / ಅವುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "अ॒वि॒ता",
+          "pada_kn": "ಅವಿತಾ",
+          "meaning_en": "protector",
+          "meaning_kn": "ರಕ್ಷಕ"
+        },
+        {
+          "pada_original": "भ॒व॒",
+          "pada_kn": "ಭವ",
+          "meaning_en": "be",
+          "meaning_kn": "ಆಗು"
+        }
+      ],
+      "full_meaning_en": "O Sarasvati, may you become our protector through those waves of yours that are full of sweetness and drip with ghee.",
+      "full_meaning_kn": "ಓ ಸರಸ್ವತಿ, ನಿನ್ನ ಮಾಧುರ್ಯಭರಿತ ಮತ್ತು ತುಪ್ಪದಿಂದ ಜಿನುಗುವ ತೆರೆಗಳಿಂದ ನೀನು ನಮ್ಮ ರಕ್ಷಕಿಯಾಗು.",
+      "rig_time_s": 48.268,
+      "Insight_en": "The waves of Sarasvati represent the flow of inspiration and divine grace. This mantra invokes her protective energy, symbolizing the safeguarding of spiritual knowledge and the nurturing of inner wisdom through the sweetness of devotion (मधु) and the purity of intention (घृत). It signifies the constant flow of divine consciousness that protects the seeker.",
+      "Insight_kn": "ಸರಸ್ವತಿಯ ತೆರೆಗಳು ಪ್ರೇರಣೆ ಮತ್ತು ದೈವಿಕ ಅನುಗ್ರಹದ ಹರಿವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಈ ಮಂತ್ರವು ಆ ದೇವಿಯ ರಕ್ಷಣಾತ್ಮಕ ಶಕ್ತಿಯನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನದ ರಕ್ಷಣೆ ಮತ್ತು ಭಕ್ತಿಯ ಮಾಧುರ್ಯ (ಮಧು) ಮತ್ತು ಉದ್ದೇಶದ ಶುದ್ಧತೆಯಿಂದ (ಘೃತ) ಆಂತರಿಕ ಬುದ್ಧಿವಂತಿಕೆಯ ಪೋಷಣೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಇದು ಸಾಧಕನನ್ನು ರಕ್ಷಿಸುವ ದೈವಿಕ ಪ್ರಜ್ಞೆಯ ನಿರಂತರ ಹರಿವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S96_104-6_6",
+      "mandala": 7,
+      "sukta": 96,
+      "ric_index": 6,
+      "rig_lines": [
+        "पी॒पि॒वांसं॒ सर॑स्वतः॒ स्तनं॒ यो वि॒श्वद॑र्शतः |",
+        "भ॒क्षी॒महि॑ प्र॒जामिष᳚म् ||"
+      ],
+      "pre_splits": [
+        "पी॒पि॒ऽवांस᳚‌म्",
+        "सर॑स्वतः",
+        "स्तन᳚‌म्",
+        "यः",
+        "वि॒श्वऽद॑र्शतः",
+        "भ॒क्षी॒महि॑",
+        "प्र॒ऽजा‌म्",
+        "इष᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "पी॒पि॒ऽवांस᳚‌म्",
+          "pada_kn": "ಪೀಪಿವಾಂಸಮ್",
+          "meaning_en": "who has drunk / who is full (of nourishment)",
+          "meaning_kn": "ಪಾನಮಾಡಿದವನು / ಪೋಷಿತನಾದವನು"
+        },
+        {
+          "pada_original": "सर॑स्वतः",
+          "pada_kn": "ಸರಸ್ವತಃ",
+          "meaning_en": "of Sarasvat (the deity)",
+          "meaning_kn": "ಸರಸ್ವತನ / ಸರಸ್ವತಿಗೆ ಸೇರಿದ"
+        },
+        {
+          "pada_original": "स्तन᳚‌म्",
+          "pada_kn": "ಸ್ತನಮ್",
+          "meaning_en": "breast / source of nourishment",
+          "meaning_kn": "ಸ್ತನವನ್ನು / ಪೋಷಣೆಯ ಮೂಲವನ್ನು"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who / which",
+          "meaning_kn": "ಯಾವನು / ಯಾವುದು"
+        },
+        {
+          "pada_original": "वि॒श्वऽद॑र्शतः",
+          "pada_kn": "ವಿಶ್ವದರ್ಶತಃ",
+          "meaning_en": "visible to all / universally manifest",
+          "meaning_kn": "ಎಲ್ಲರಿಗೂ ಕಾಣಿಸುವ / ಸರ್ವತ್ರ ಪ್ರಕಟವಾದ"
+        },
+        {
+          "pada_original": "भ॒क्षी॒महि॑",
+          "pada_kn": "ಭಕ್ಷೀಮಹಿ",
+          "meaning_en": "may we partake / enjoy",
+          "meaning_kn": "ನಾವು ಸೇವಿಸೋಣ / ಅನುಭವಿಸೋಣ"
+        },
+        {
+          "pada_original": "प्र॒ऽजा‌म्",
+          "pada_kn": "ಪ್ರಜಾಮ್",
+          "meaning_en": "offspring / progeny",
+          "meaning_kn": "ಸಂತತಿಯನ್ನು / ಪ್ರಜೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "इष᳚‌म्",
+          "pada_kn": "ಇಷಮ್",
+          "meaning_en": "food / nourishment / strength",
+          "meaning_kn": "ಆಹಾರವನ್ನು / ಪೋಷಣೆಯನ್ನು / ಶಕ್ತಿಯನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Sarasvati, whose breast is ever-full and universally visible, may we partake of its nourishment, that we may receive progeny and sustenance.",
+      "full_meaning_kn": "ಓ ಸರಸ್ವತಿಯೇ, ಯಾವಳ ಸ್ತನವು ಸದಾ ತುಂಬಿರುವ ಮತ್ತು ವಿಶ್ವಕ್ಕೆ ಕಾಣುವಂತಿರುವಳೋ, ಅವಳ ಪೋಷಣೆಯನ್ನು ನಾವು ಪಡೆಯೋಣ, ಇದರಿಂದ ನಾವು ಸಂತತಿ ಮತ್ತು ಪೋಷಣೆಯನ್ನು ಪಡೆಯಬಹುದು.",
+      "rig_time_s": 57.459,
+      "Insight_en": "Sarasvati represents the divine flow of consciousness and wisdom. The breast symbolizes the source of nourishment, both material and spiritual. Partaking of this nourishment implies imbibing knowledge and inspiration, leading to the manifestation of one's potential (progeny) and the sustenance of one's inner being. The ever-full breast indicates an inexhaustible source of creativity and understanding, always available to those who seek it with devotion. The viśvadarśataḥ (universally visible) aspect emphasizes the all-pervading nature of divine wisdom.",
+      "Insight_kn": "ಸರಸ್ವತಿಯು ಪ್ರಜ್ಞೆ ಮತ್ತು ಜ್ಞಾನದ ದೈವಿಕ ಹರಿವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾಳೆ. ಸ್ತನವು ಭೌತಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಪೋಷಣೆಯ ಮೂಲವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಈ ಪೋಷಣೆಯನ್ನು ಪಡೆಯುವುದು ಜ್ಞಾನ ಮತ್ತು ಪ್ರೇರಣೆಯನ್ನು ಹೀರಿಕೊಳ್ಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಒಬ್ಬರ ಸಾಮರ್ಥ್ಯದ ಅಭಿವ್ಯಕ್ತಿಗೆ (ಸಂತತಿ) ಮತ್ತು ಒಬ್ಬರ ಆಂತರಿಕ ಅಸ್ತಿತ್ವದ ಪೋಷಣೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಸದಾ ತುಂಬಿರುವ ಸ್ತನವು ಸೃಜನಶೀಲತೆ ಮತ್ತು ತಿಳುವಳಿಕೆಯ ಅಕ್ಷಯ ಮೂಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅದು ಭಕ್ತಿಯಿಂದ ಹುಡುಕುವವರಿಗೆ ಯಾವಾಗಲೂ ಲಭ್ಯವಿರುತ್ತದೆ. ವಿಶ್ವದರ್ಶತಃ (ವಿಶ್ವಕ್ಕೆ ಕಾಣುವಂತಿರುವ) ಅಂಶವು ದೈವಿಕ ಜ್ಞಾನದ ಸರ್ವವ್ಯಾಪಿ ಸ್ವರೂಪವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

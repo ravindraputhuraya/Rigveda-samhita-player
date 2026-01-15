@@ -1,0 +1,594 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S169_191-1_4",
+      "mandala": 10,
+      "sukta": 169,
+      "ric_index": 1,
+      "rig_lines": [
+        "म॒यो॒भूर्वातो᳚, अ॒भि वा᳚तू॒स्रा, ऊर्ज॑स्वती॒रोष॑धी॒रा रि॑शन्ताम् |",
+        "पीव॑स्वतीर्जी॒वध᳚न्याः पिबन्त्वव॒साय॑ प॒द्वते᳚ रुद्र मृळ ||"
+      ],
+      "pre_splits": [
+        "म॒यः॒ऽभूः",
+        "वातः॑",
+        "अ॒भि",
+        "वा॒तु॒",
+        "उ॒स्राः",
+        "ऊर्ज॑स्वतीः",
+        "ओष॑धीः",
+        "आ",
+        "रि॒श॒न्ता॒‌म्",
+        "पीव॑स्वतीः",
+        "जी॒वऽध᳚न्याः",
+        "पि॒ब॒न्तु॒",
+        "अ॒व॒साय॑",
+        "प॒त्ऽवते᳚",
+        "रु॒द्र॒",
+        "मृ॒ळ॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "म॒यः॒ऽभूः",
+          "pada_kn": "ಮಯಃಭೂಃ",
+          "meaning_en": "comfort-giving / happiness-causing",
+          "meaning_kn": "ಸುಖವನ್ನುಂಟುಮಾಡುವ / ಹಿತಕರವಾದ"
+        },
+        {
+          "pada_original": "वातः॑",
+          "pada_kn": "ವಾತಃ",
+          "meaning_en": "wind",
+          "meaning_kn": "ಗಾಳಿ / ವಾಯು"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "upon / towards",
+          "meaning_kn": "ಮೇಲೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "वा॒तु॒",
+          "pada_kn": "ವಾತು",
+          "meaning_en": "may it blow",
+          "meaning_kn": "ಬೀಸಲಿ"
+        },
+        {
+          "pada_original": "उ॒स्राः",
+          "pada_kn": "ಉಸ್ರಾಃ",
+          "meaning_en": "cows",
+          "meaning_kn": "ಗೋವುಗಳು"
+        },
+        {
+          "pada_original": "ऊर्ज॑स्वतीः",
+          "pada_kn": "ಊರ್ಜಸ್ವತೀಃ",
+          "meaning_en": "vigorous / full of strength",
+          "meaning_kn": "ಶಕ್ತಿಯುತವಾದ / ಪುಷ್ಟಿಕರವಾದ"
+        },
+        {
+          "pada_original": "ओष॑धीः",
+          "pada_kn": "ಓಷಧೀಃ",
+          "meaning_en": "herbs / plants",
+          "meaning_kn": "ಓಷಧಿಗಳು / ಸಸ್ಯಗಳು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "unto / towards",
+          "meaning_kn": "ಕಡೆಗೆ / ಸೇರಲಿ"
+        },
+        {
+          "pada_original": "रि॒श॒न्ता॒‌म्",
+          "pada_kn": "ರಿಶನ್ತಾಮ್",
+          "meaning_en": "may they reach / partake",
+          "meaning_kn": "ಅವುಗಳು ಸೇರಲಿ / ಸೇವಿಸಲಿ"
+        },
+        {
+          "pada_original": "पीव॑स्वतीः",
+          "pada_kn": "ಪೀವಸ್ವತೀಃ",
+          "meaning_en": "rich / nourishing (milk/water)",
+          "meaning_kn": "ಪುಷ್ಟಿಕರವಾದ / ಕೊಬ್ಬುಳ್ಳ"
+        },
+        {
+          "pada_original": "जी॒वऽध᳚न्याः",
+          "pada_kn": "ಜೀವಧನ್ಯಾಃ",
+          "meaning_en": "life-sustaining / rich in life",
+          "meaning_kn": "ಜೀವಧಾರಕವಾದ / ಜೀವವನ್ನು ಪೋಷಿಸುವ"
+        },
+        {
+          "pada_original": "पि॒ब॒न्तु॒",
+          "pada_kn": "ಪಿಬನ್ತು",
+          "meaning_en": "may they drink",
+          "meaning_kn": "ಅವುಗಳು ಕುಡಿಯಲಿ"
+        },
+        {
+          "pada_original": "अ॒व॒साय॑",
+          "pada_kn": "ಅವಸಾಯ",
+          "meaning_en": "for rest / for dwelling",
+          "meaning_kn": "ವಿಶ್ರಾಂತಿಗಾಗಿ / ವಾಸಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "प॒त्ऽवते᳚",
+          "pada_kn": "ಪತ್ऽವತೇ",
+          "meaning_en": "for the one with feet (i.e., cattle)",
+          "meaning_kn": "ಕಾಲುಗಳಿರುವ ಪ್ರಾಣಿಗೆ (ಗೋವುಗಳಿಗೆ)"
+        },
+        {
+          "pada_original": "रु॒द्र॒",
+          "pada_kn": "ರುದ್ರ",
+          "meaning_en": "O Rudra",
+          "meaning_kn": "ಓ ರುದ್ರನೇ"
+        },
+        {
+          "pada_original": "मृ॒ळ॒",
+          "pada_kn": "ಮೃಳ",
+          "meaning_en": "be gracious / have mercy",
+          "meaning_kn": "ಕರುಣೆ ತೋರು / ಅನುಗ್ರಹಿಸು"
+        }
+      ],
+      "full_meaning_en": "May the wind, the source of happiness, blow towards you; may the radiant and nourishing herbs reach you; may the plants full of sap and vitality drink (water) for the sake of strength; O Rudra, be gracious to the biped.",
+      "full_meaning_kn": "ಆನಂದದ ಮೂಲವಾದ ಗಾಳಿಯು ನಿಮ್ಮ ಕಡೆಗೆ ಬೀಸಲಿ; ಪ್ರಕಾಶಮಾನವಾದ ಮತ್ತು ಪೌಷ್ಟಿಕ ಸಸ್ಯಗಳು ನಿಮ್ಮನ್ನು ತಲುಪಲಿ; ರಸ ಮತ್ತು ಚೈತನ್ಯದಿಂದ ತುಂಬಿರುವ ಸಸ್ಯಗಳು ಶಕ್ತಿಗಾಗಿ (ನೀರನ್ನು) ಕುಡಿಯಲಿ; ಓ ರುದ್ರ, ದ್ವಿಪಾದಿಗೆ ಕರುಣಿಸು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra invokes the life-giving forces of nature – wind (वात), radiant herbs (ओषधी), and vitalizing plants – to bestow strength and well-being. It emphasizes the interconnectedness of all life and the role of natural elements in sustaining it. The prayer to Rudra (रुद्र) seeks grace and compassion for the biped, signifying humans and their dependence on these natural forces. The mantra's essence lies in recognizing nature as a source of both sustenance and spiritual upliftment, fostering a sense of reverence and harmony with the environment. The reference to plants drinking for strength highlights the subtle yet profound ways in which life supports life.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಜೀವ ನೀಡುವ ಪ್ರಕೃತಿಯ ಶಕ್ತಿಗಳನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ - ಗಾಳಿ, ಪ್ರಕಾಶಮಾನವಾದ ಗಿಡಮೂಲಿಕೆಗಳು ಮತ್ತು ಶಕ್ತಿಯುತ ಸಸ್ಯಗಳು - ಶಕ್ತಿ ಮತ್ತು ಯೋಗಕ್ಷೇಮವನ್ನು ನೀಡಲು. ಇದು ಎಲ್ಲಾ ಜೀವಗಳ ಅಂತರ್ಸಂಪರ್ಕವನ್ನು ಮತ್ತು ಅದನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವಲ್ಲಿ ನೈಸರ್ಗಿಕ ಅಂಶಗಳ ಪಾತ್ರವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ರುದ್ರನಿಗೆ ಪ್ರಾರ್ಥನೆಯು ದ್ವಿಪಾದಿಗೆ ಕರುಣೆ ಮತ್ತು ಸಹಾನುಭೂತಿಯನ್ನು ಬಯಸುತ್ತದೆ, ಇದು ಮಾನವರು ಮತ್ತು ಈ ನೈಸರ್ಗಿಕ ಶಕ್ತಿಗಳ ಮೇಲಿನ ಅವರ ಅವಲಂಬನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮಂತ್ರದ ಸಾರವು ಪ್ರಕೃತಿಯನ್ನು ಪೋಷಣೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಉನ್ನತಿಯ ಮೂಲವೆಂದು ಗುರುತಿಸುವುದರಲ್ಲಿದೆ, ಪರಿಸರದೊಂದಿಗೆ ಗೌರವ ಮತ್ತು ಸಾಮರಸ್ಯದ ಪ್ರಜ್ಞೆಯನ್ನು ಬೆಳೆಸುವುದು. ಸಸ್ಯಗಳು ಶಕ್ತಿಗಾಗಿ ಕುಡಿಯುವ ಉಲ್ಲೇಖವು ಜೀವನವು ಜೀವನವನ್ನು ಬೆಂಬಲಿಸುವ ಸೂಕ್ಷ್ಮ ಮತ್ತು ಆಳವಾದ ವಿಧಾನಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S169_191-2_4",
+      "mandala": 10,
+      "sukta": 169,
+      "ric_index": 2,
+      "rig_lines": [
+        "याः सरू᳚पा॒ विरू᳚पा॒, एक॑रूपा॒ यासा᳚म॒ग्निरिष्ट्या॒ नामा᳚नि॒ वेद॑ |",
+        "या, अङ्गि॑रस॒स्तप॑से॒ह च॒क्रुस्ताभ्यः॑ पर्जन्य॒ महि॒ शर्म॑ यच्छ ||"
+      ],
+      "pre_splits": [
+        "याः",
+        "सऽरू᳚पाः",
+        "विऽरू᳚पाः",
+        "एक॑ऽरूपाः",
+        "यासा᳚‌म्",
+        "अ॒ग्निः",
+        "इष्ट्या᳚",
+        "नामा᳚नि",
+        "वेद॑",
+        "याः",
+        "अङ्गि॑रसः",
+        "तप॑सा",
+        "इ॒ह",
+        "च॒क्रुः",
+        "ताभ्यः॑",
+        "प॒र्ज॒न्य॒",
+        "महि॑",
+        "शर्म॑",
+        "य॒च्छ॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "Which (those who/which)",
+          "meaning_kn": "ಯಾವ (ಯಾವವು)"
+        },
+        {
+          "pada_original": "सऽरू᳚पाः",
+          "pada_kn": "ಸರೂಪಾಃ",
+          "meaning_en": "of similar form",
+          "meaning_kn": "ಸಮಾನ ರೂಪದವುಗಳು"
+        },
+        {
+          "pada_original": "विऽरू᳚पाः",
+          "pada_kn": "ವಿರೂಪಾಃ",
+          "meaning_en": "of diverse/different form",
+          "meaning_kn": "ವಿವಿಧ ರೂಪದವುಗಳು"
+        },
+        {
+          "pada_original": "एक॑ऽरूपाः",
+          "pada_kn": "ಏಕರೂಪಾಃ",
+          "meaning_en": "of one form",
+          "meaning_kn": "ಏಕರೂಪದವುಗಳು"
+        },
+        {
+          "pada_original": "यासा᳚‌म्",
+          "pada_kn": "ಯಾಸಾಮ್",
+          "meaning_en": "of whom/which",
+          "meaning_kn": "ಯಾವವುಗಳ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ (ಅಗ್ನಿದೇವನು)"
+        },
+        {
+          "pada_original": "इष्ट्या᳚",
+          "pada_kn": "ಇಷ್ಟ್ಯಾ",
+          "meaning_en": "by sacrifice/worship",
+          "meaning_kn": "ಯಜ್ಞದಿಂದ / ಪೂಜೆಯಿಂದ"
+        },
+        {
+          "pada_original": "नामा᳚नि",
+          "pada_kn": "ನಾಮಾನಿ",
+          "meaning_en": "the names",
+          "meaning_kn": "ಹೆಸರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "वेद॑",
+          "pada_kn": "ವೇದ",
+          "meaning_en": "knows",
+          "meaning_kn": "ತಿಳಿಯುತ್ತಾನೆ / ಬಲ್ಲನು"
+        },
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "which (those who)",
+          "meaning_kn": "ಯಾವ (ಯಾವವು)"
+        },
+        {
+          "pada_original": "अङ्गि॑रसः",
+          "pada_kn": "ಅಂಗಿರಸಃ",
+          "meaning_en": "the Angirasas (ancient sages)",
+          "meaning_kn": "ಅಂಗಿರಸರು (ಅಂಗಿರಸ ಋಷಿಗಳು)"
+        },
+        {
+          "pada_original": "तप॑सा",
+          "pada_kn": "ತಪಸಾ",
+          "meaning_en": "by penance/austerity",
+          "meaning_kn": "ತಪಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here (in this world)",
+          "meaning_kn": "ಇಲ್ಲಿ / ಈ ಲೋಕದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "च॒क्रुः",
+          "pada_kn": "ಚಕ್ರುಃ",
+          "meaning_en": "performed/made",
+          "meaning_kn": "ಮಾಡಿದರು"
+        },
+        {
+          "pada_original": "ताभ्यः॑",
+          "pada_kn": "ತಾಭ್ಯಃ",
+          "meaning_en": "to them (for them)",
+          "meaning_kn": "ಆ (ಅವುಗಳಿಗೆ/ಅವರಿಗೆ)"
+        },
+        {
+          "pada_original": "प॒र्ज॒न्य॒",
+          "pada_kn": "ಪರ್ಜನ್ಯ",
+          "meaning_en": "O Parjanya (god of rain)",
+          "meaning_kn": "ಓ ಪರ್ಜನ್ಯ (ಮಳೆ ದೇವನೇ)"
+        },
+        {
+          "pada_original": "महि॑",
+          "pada_kn": "ಮಹಿ",
+          "meaning_en": "great/mighty",
+          "meaning_kn": "ಮಹತ್ತಾದ / ದೊಡ್ಡ"
+        },
+        {
+          "pada_original": "शर्म॑",
+          "pada_kn": "ಶರ್ಮ",
+          "meaning_en": "protection/happiness/shelter",
+          "meaning_kn": "ರಕ್ಷಣೆ / ಸುಖ / ಆಶ್ರಯ"
+        },
+        {
+          "pada_original": "य॒च्छ॒",
+          "pada_kn": "ಯಚ್ಛ",
+          "meaning_en": "grant/bestow",
+          "meaning_kn": "ನೀಡು / ಕೊಡು"
+        }
+      ],
+      "full_meaning_en": "O Agni, you know the names of those who are of the same form, of different forms, and of one form, those Angiras who performed austerities here. O Parjanya, grant great comfort to them.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿ, ಸಮಾನ ರೂಪದ, ವಿಭಿನ್ನ ರೂಪದ ಮತ್ತು ಏಕರೂಪದವರ ಹೆಸರುಗಳನ್ನು ನೀವು ಬಲ್ಲಿರಿ. ಯಾವ ಅಂಗಿರಸರು ಇಲ್ಲಿ ತಪಸ್ಸನ್ನು ಆಚರಿಸಿದರೋ, ಓ ಪರ್ಜನ್ಯ, ಅವರಿಗೆ ಮಹತ್ತಾದ ಸೌಖ್ಯವನ್ನು ದಯಪಾಲಿಸು.",
+      "rig_time_s": 16.691,
+      "Insight_en": "This mantra highlights the diverse manifestations of the divine (याः सरूपा विरूपा एकरूपा). अग्नि (Agni), as the knower of all names and forms, signifies the underlying unity in diversity. The Angiras, through their तपस् (tapas), represent the striving for spiritual realization. Parjanya, the rain god, symbolizes the grace that alleviates suffering and grants comfort, indicating the divine's compassionate response to sincere spiritual effort. The mantra emphasizes that spiritual endeavors, like the Angiras' austerities, are ultimately rewarded with divine grace and comfort. This signifies the interconnectedness of effort, divine knowledge, and compassionate grace.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕದ ವಿವಿಧ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಅಗ್ನಿಯು ಎಲ್ಲಾ ಹೆಸರುಗಳು ಮತ್ತು ರೂಪಗಳನ್ನು ತಿಳಿದವನಾಗಿ, ವೈವಿಧ್ಯದಲ್ಲಿನ ಆಧಾರವಾಗಿರುವ ಏಕತೆಯನ್ನು ಸೂಚಿಸುತ್ತಾನೆ. ಅಂಗಿರಸರು, ತಮ್ಮ ತಪಸ್ಸಿನ ಮೂಲಕ, ಆಧ್ಯಾತ್ಮಿಕ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕಾಗಿ ಶ್ರಮಿಸುವುದನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಪರ್ಜನ್ಯನು, ಮಳೆ ದೇವರು, ದುಃಖವನ್ನು ಕಡಿಮೆ ಮಾಡುವ ಮತ್ತು ಸೌಖ್ಯವನ್ನು ನೀಡುವ ಕರುಣೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ, ಇದು ಪ್ರಾಮಾಣಿಕ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯತ್ನಕ್ಕೆ ದೈವಿಕ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂಗಿರಸರ ತಪಸ್ಸಿನಂತಹ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯತ್ನಗಳು ದೈವಿಕ ಕೃಪೆ ಮತ್ತು ಸೌಖ್ಯದಿಂದ ಕೊನೆಗೆ ಪುರಸ್ಕರಿಸಲ್ಪಡುತ್ತವೆ ಎಂದು ಮಂತ್ರವು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಇದು ಪ್ರಯತ್ನ, ದೈವಿಕ ಜ್ಞಾನ ಮತ್ತು ಕರುಣಾಮಯಿ ಅನುಗ್ರಹದ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S169_191-3_4",
+      "mandala": 10,
+      "sukta": 169,
+      "ric_index": 3,
+      "rig_lines": [
+        "या दे॒वेषु॑ त॒न्व१॑(अ॒)मैर॑यन्त॒ यासां॒ सोमो॒ विश्वा᳚ रू॒पाणि॒ वेद॑ |",
+        "ता, अ॒स्मभ्यं॒ पय॑सा॒ पिन्व॑मानाः प्र॒जाव॑तीरिन्द्र गो॒ष्ठे रि॑रीहि ||"
+      ],
+      "pre_splits": [
+        "याः",
+        "दे॒वेषु॑",
+        "त॒न्व᳚‌म्",
+        "ऐर॑यन्त",
+        "यासा᳚‌म्",
+        "सोमः॑",
+        "विश्वा᳚",
+        "रू॒पाणि॑",
+        "वेद॑",
+        "ताः",
+        "अ॒स्मभ्य᳚‌म्",
+        "पय॑सा",
+        "पिन्व॑मानाः",
+        "प्र॒जाऽव॑तीः",
+        "इ॒न्द्र॒",
+        "गो॒ऽस्थे",
+        "रि॒री॒हि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "those (feminine plural)",
+          "meaning_kn": "ಯಾವ (ಹೆಣ್ಣು)"
+        },
+        {
+          "pada_original": "दे॒वेषु॑",
+          "pada_kn": "ದೇವೇಶು",
+          "meaning_en": "among the gods",
+          "meaning_kn": "ದೇವತೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "त॒न्व᳚‌म्",
+          "pada_kn": "ತನ್ವಮ್",
+          "meaning_en": "body / form",
+          "meaning_kn": "ಶರೀರ / ರೂಪ"
+        },
+        {
+          "pada_original": "ऐर॑यन्त",
+          "pada_kn": "ಐರಯಂತ",
+          "meaning_en": "they moved / they set in motion / they manifested",
+          "meaning_kn": "ಚಲಿಸುವಂತೆ ಮಾಡಿದರು / ಪ್ರಕಟಪಡಿಸಿದರು"
+        },
+        {
+          "pada_original": "यासा᳚‌म्",
+          "pada_kn": "ಯಾಸಾಮ್",
+          "meaning_en": "of whom / whose (feminine plural)",
+          "meaning_kn": "ಯಾರ"
+        },
+        {
+          "pada_original": "सोमः॑",
+          "pada_kn": "ಸೋಮಃ",
+          "meaning_en": "Soma (the divine drink/deity)",
+          "meaning_kn": "ಸೋಮ (ದೇವತೆ)"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "रू॒पाणि॑",
+          "pada_kn": "ರೂಪಾಣಿ",
+          "meaning_en": "forms / appearances",
+          "meaning_kn": "ರೂಪಗಳು"
+        },
+        {
+          "pada_original": "वेद॑",
+          "pada_kn": "ವೇದ",
+          "meaning_en": "knows",
+          "meaning_kn": "ತಿಳಿದಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "ताः",
+          "pada_kn": "ತಾಃ",
+          "meaning_en": "those (feminine plural)",
+          "meaning_kn": "ಆ (ಹೆಣ್ಣು)"
+        },
+        {
+          "pada_original": "अ॒स्मभ्य᳚‌म्",
+          "pada_kn": "ಅಸ್ಮಭ್ಯಮ್",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "पय॑सा",
+          "pada_kn": "ಪಯಸಾ",
+          "meaning_en": "with milk / with water / with nourishment",
+          "meaning_kn": "ಹಾಲಿನಿಂದ / ನೀರಿನಿಂದ / ಪೋಷಣೆಯಿಂದ"
+        },
+        {
+          "pada_original": "पिन्व॑मानाः",
+          "pada_kn": "ಪಿನ್ವಮಾನಾಃ",
+          "meaning_en": "swelling / flowing / nourishing",
+          "meaning_kn": "ತುಂಬಿ ಹರಿಯುವ / ಪೋಷಿಸುವ"
+        },
+        {
+          "pada_original": "प्र॒जाऽव॑तीः",
+          "pada_kn": "ಪ್ರಜಾವತೀಃ",
+          "meaning_en": "rich in offspring / having progeny",
+          "meaning_kn": "ಸಂತಾನವುಳ್ಳ / ಪ್ರಜೆಯುಳ್ಳ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರ"
+        },
+        {
+          "pada_original": "गो॒ऽस्थे",
+          "pada_kn": "ಗೋಸ್ಥೇ",
+          "meaning_en": "in the cow-pen / in the stable / in the abode of cattle",
+          "meaning_kn": "ಗೋಶಾಲೆಯಲ್ಲಿ / ದನಗಳಿರುವ ಸ್ಥಳದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "रि॒री॒हि॒",
+          "pada_kn": "ರಿರೀಹಿ",
+          "meaning_en": "release / grant / bestow",
+          "meaning_kn": "ಬಿಡುಗಡೆ ಮಾಡು / ನೀಡು / ದಯಪಾಲಿಸು"
+        }
+      ],
+      "full_meaning_en": "O Waters (आपः), you who have spread your essence among the gods, and of whom Soma knows all forms, may you, rich in milk and offspring, delight us in the fold of Indra.",
+      "full_meaning_kn": "ಓ ನೀರುಗಳೇ (आपः), ನೀವು ನಿಮ್ಮ ಸಾರವನ್ನು ದೇವತೆಗಳಲ್ಲಿ ಹರಡಿದ್ದೀರಿ, ಮತ್ತು ಯಾರಿಂದ ಸೋಮನು ಎಲ್ಲಾ ರೂಪಗಳನ್ನು ಬಲ್ಲನೋ, ನೀವು, ಹಾಲು ಮತ್ತು ಸಂತಾನದಿಂದ ಸಮೃದ್ಧರಾಗಿ, ಇಂದ್ರನ ಮಡಲಲ್ಲಿ ನಮ್ಮನ್ನು ಆನಂದಗೊಳಿಸಿ.",
+      "rig_time_s": 32.933,
+      "Insight_en": "This mantra invokes the divine waters (आपः) as the source of life and abundance. The reference to Soma knowing all forms suggests a profound connection between the waters, the divine elixir, and cosmic knowledge. By delighting in the fold of Indra, the waters provide nourishment and progeny, symbolizing spiritual growth and prosperity. The essence spread among the gods implies the pervasive nature of the divine within creation. Thus, the mantra encourages reverence for the life-giving waters as a pathway to spiritual fulfillment and material well-being under the grace of Indra.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ನೀರನ್ನು (आपः) ಜೀವನ ಮತ್ತು ಸಮೃದ್ಧಿಯ ಮೂಲವಾಗಿ ಆಹ್ವಾನಿಸುತ್ತದೆ. ಸೋಮನು ಎಲ್ಲಾ ರೂಪಗಳನ್ನು ಬಲ್ಲನೆಂಬ ಉಲ್ಲೇಖವು ನೀರು, ದೈವಿಕ ಅಮೃತ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಜ್ಞಾನದ ನಡುವಿನ ಆಳವಾದ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇಂದ್ರನ ಮಡಲಲ್ಲಿ ಆನಂದಿಸುವುದರ ಮೂಲಕ, ನೀರುಗಳು ಪೋಷಣೆ ಮತ್ತು ಸಂತತಿಯನ್ನು ನೀಡುತ್ತವೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ಸಮೃದ್ಧಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ದೇವತೆಗಳಲ್ಲಿ ಹರಡಿರುವ ಸಾರವು ಸೃಷ್ಟಿಯಲ್ಲಿ ದೈವತ್ವದ ವ್ಯಾಪಕ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಹೀಗಾಗಿ, ಈ ಮಂತ್ರವು ಇಂದ್ರನ ಕೃಪೆಯಿಂದ ಆಧ್ಯಾತ್ಮಿಕ ನೆರವೇರಿಕೆ ಮತ್ತು ಭೌತಿಕ ಯೋಗಕ್ಷೇಮಕ್ಕೆ ಮಾರ್ಗವಾಗಿ ಜೀವ ನೀಡುವ ನೀರನ್ನು ಗೌರವಿಸಲು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S169_191-4_4",
+      "mandala": 10,
+      "sukta": 169,
+      "ric_index": 4,
+      "rig_lines": [
+        "प्र॒जाप॑ति॒र्मह्य॑मे॒ता ररा᳚णो॒ विश्वै᳚र्दे॒वैः पि॒तृभिः॑ संविदा॒नः |",
+        "शि॒वाः स॒तीरुप॑ नो गो॒ष्ठमाक॒स्तासां᳚ व॒यं प्र॒जया॒ सं स॑देम ||"
+      ],
+      "pre_splits": [
+        "प्र॒जाऽप॑तिः",
+        "मह्य᳚‌म्",
+        "ए॒ताः",
+        "ररा᳚णः",
+        "विश्वैः᳚",
+        "दे॒वैः",
+        "पि॒तृऽभिः॑",
+        "स॒‌म्ऽवि॒दा॒नः",
+        "शि॒वाः",
+        "स॒तीः",
+        "उप॑",
+        "नः॒",
+        "गो॒ऽस्थ‌म्",
+        "आ",
+        "अ॒क॒रित्य॑कः",
+        "तासा᳚‌म्",
+        "व॒य‌म्",
+        "प्र॒ऽजया᳚",
+        "स‌म्",
+        "स॒दे॒म॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र॒जाऽप॑तिः",
+          "pada_kn": "ಪ್ರಜಾಪತಿಃ",
+          "meaning_en": "Prajapati (Lord of creation/progeny)",
+          "meaning_kn": "ಪ್ರಜಾಪತಿ (ಸೃಷ್ಟಿಕರ್ತ/ಪ್ರಜೆಗಳ ಒಡೆಯ)"
+        },
+        {
+          "pada_original": "मह्य᳚‌म्",
+          "pada_kn": "ಮಹ್ಯಮ್",
+          "meaning_en": "to me",
+          "meaning_kn": "ನನಗೆ"
+        },
+        {
+          "pada_original": "ए॒ताः",
+          "pada_kn": "ಏತಾಃ",
+          "meaning_en": "these (cows)",
+          "meaning_kn": "ಇವುಗಳನ್ನು (ಹಸುಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "ररा᳚णः",
+          "pada_kn": "ರರಾಣಃ",
+          "meaning_en": "having bestowed / granted",
+          "meaning_kn": "ದಯಪಾಲಿಸಿರುವ/ನೀಡಿರುವ"
+        },
+        {
+          "pada_original": "विश्वैः᳚",
+          "pada_kn": "ವಿಶ್ವೈಃ",
+          "meaning_en": "with all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "दे॒वैः",
+          "pada_kn": "ದೇವೈಃ",
+          "meaning_en": "gods",
+          "meaning_kn": "ದೇವತೆಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "पि॒तृऽभिः॑",
+          "pada_kn": "ಪಿತೃಭಿಃ",
+          "meaning_en": "with ancestors / fathers",
+          "meaning_kn": "ಪಿತೃಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "स॒‌म्ऽवि॒दा॒नः",
+          "pada_kn": "ಸಂವಿದಾನಃ",
+          "meaning_en": "having agreed / being in accord",
+          "meaning_kn": "ಒಪ್ಪಿಗೆಯಾಗಿ/ಸಮ್ಮತಿಸಿ"
+        },
+        {
+          "pada_original": "शि॒वाः",
+          "pada_kn": "ಶಿವಾಃ",
+          "meaning_en": "auspicious / benevolent",
+          "meaning_kn": "ಮಂಗಳಕರವಾದ/ಶುಭಕರವಾದ"
+        },
+        {
+          "pada_original": "स॒तीः",
+          "pada_kn": "ಸತೀಃ",
+          "meaning_en": "being (them)",
+          "meaning_kn": "ಇರುವ (ಅವುಗಳನ್ನು)"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "near / towards",
+          "meaning_kn": "ಹತ್ತಿರ/ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "our",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "गो॒ऽस्थ‌म्",
+          "pada_kn": "ಗೋಸ್ಥಮ್",
+          "meaning_en": "cow-pen / cattle-shed",
+          "meaning_kn": "ಗೋಶಾಲೆಗೆ/ದನದ ಕೊಟ್ಟಿಗೆಗೆ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix for 'akar')",
+          "meaning_kn": "(ಆಕರ್ ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अ॒क॒रित्य॑कः",
+          "pada_kn": "ಅಕರಿತಿ ಅಕಃ",
+          "meaning_en": "he has brought / made",
+          "meaning_kn": "ಅವನು ತಂದಿದ್ದಾನೆ/ಮಾಡಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "तासा᳚‌म्",
+          "pada_kn": "ತಾಸಾಮ್",
+          "meaning_en": "of them (the cows)",
+          "meaning_kn": "ಅವುಗಳ (ಹಸುಗಳ)"
+        },
+        {
+          "pada_original": "व॒य‌म्",
+          "pada_kn": "ವಯಮ್",
+          "meaning_en": "we",
+          "meaning_kn": "ನಾವು"
+        },
+        {
+          "pada_original": "प्र॒ऽजया᳚",
+          "pada_kn": "ಪ್ರಜಯಾ",
+          "meaning_en": "with progeny / offspring",
+          "meaning_kn": "ಸಂತತಿಯೊಂದಿಗೆ/ಮಕ್ಕಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / completely",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ/ಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "स॒दे॒म॒",
+          "pada_kn": "ಸದೇಮ",
+          "meaning_en": "may we sit / dwell / be united",
+          "meaning_kn": "ನಾವು ಇರೋಣ/ವಾಸಿಸೋಣ/ಒಟ್ಟಾಗಿರೋಣ"
+        }
+      ],
+      "full_meaning_en": "Prajapati, bestowing these blessings upon me, being in accord with all the gods and the fathers; may these auspicious cows come to our cow-pen; may we be united with them through progeny.",
+      "full_meaning_kn": "ಪ್ರಜಾಪತಿ, ನನಗೆ ಈ ಆಶೀರ್ವಾದಗಳನ್ನು ನೀಡುತ್ತಾ, ಎಲ್ಲಾ ದೇವರುಗಳು ಮತ್ತು ಪಿತೃಗಳೊಂದಿಗೆ ಒಪ್ಪಂದದಲ್ಲಿದ್ದು; ಈ ಮಂಗಳಕರ ಗೋವುಗಳು ನಮ್ಮ ಗೋಶಾಲೆಗೆ ಬರಲಿ; ನಾವು ಸಂತತಿಯ ಮೂಲಕ ಅವರೊಂದಿಗೆ ಒಂದಾಗೋಣ.",
+      "rig_time_s": 49.579,
+      "Insight_en": "This mantra invokes Prajapati, the lord of creation, seeking blessings and prosperity. It emphasizes harmony with the divine (विश्वैर्देवैः) and ancestral spirits (पितृभिः), highlighting the importance of familial and cosmic connections. The auspicious cows (शिवाः सतीः) symbolize abundance and nourishment. The desire to be united with them through progeny signifies the continuation of life and the preservation of values. The ultimate aim is to achieve a state of completeness and fulfillment through divine grace and ancestral blessings. This reflects the Vedic emphasis on progeny, prosperity, and connection with the divine.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸೃಷ್ಟಿಯ ಅಧಿಪತಿಯಾದ ಪ್ರಜಾಪತಿಯನ್ನು ಆಶೀರ್ವಾದ ಮತ್ತು ಸಮೃದ್ಧಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸುತ್ತದೆ. ಇದು ದೈವಿಕ (ವಿಶ್ವೈರ್ದೇವೈಃ) ಮತ್ತು ಪೂರ್ವಜರ ಆತ್ಮಗಳೊಂದಿಗೆ (ಪಿತೃಭಿಃ) ಸಾಮರಸ್ಯವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಇದು ಕುಟುಂಬ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಸಂಪರ್ಕಗಳ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಮಂಗಳಕರ ಗೋವುಗಳು (ಶಿವಾಃ ಸತೀಃ) ಸಮೃದ್ಧಿ ಮತ್ತು ಪೋಷಣೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಸಂತತಿಯ ಮೂಲಕ ಅವರೊಂದಿಗೆ ಒಂದಾಗುವ ಬಯಕೆಯು ಜೀವನದ ಮುಂದುವರಿಕೆ ಮತ್ತು ಮೌಲ್ಯಗಳ ಸಂರಕ್ಷಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ದೈವಿಕ ಅನುಗ್ರಹ ಮತ್ತು ಪೂರ್ವಜರ ಆಶೀರ್ವಾದದ ಮೂಲಕ ಸಂಪೂರ್ಣತೆ ಮತ್ತು ನೆರವೇರಿಕೆಯ ಸ್ಥಿತಿಯನ್ನು ಸಾಧಿಸುವುದು ಅಂತಿಮ ಗುರಿಯಾಗಿದೆ. ಇದು ಸಂತತಿ, ಸಮೃದ್ಧಿ ಮತ್ತು ದೈವಿಕ ಸಂಪರ್ಕಕ್ಕೆ ವೈದಿಕ ಒತ್ತು ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

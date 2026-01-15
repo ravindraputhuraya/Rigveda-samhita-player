@@ -1,0 +1,580 @@
+{
+  "mandala": 6,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M6-S58_75-1_4",
+      "mandala": 6,
+      "sukta": 58,
+      "ric_index": 1,
+      "rig_lines": [
+        "शु॒क्रं ते᳚, अ॒न्यद्‌ य॑ज॒तं ते᳚, अ॒न्यद् विषु॑रूपे॒, अह॑नी॒ द्यौरि॑वासि |",
+        "विश्वा॒ हि मा॒या, अव॑सि स्वधावो भ॒द्रा ते᳚ पूषन्नि॒ह रा॒तिर॑स्तु ||"
+      ],
+      "pre_splits": [
+        "शु॒क्र‌म्",
+        "ते॒",
+        "अ॒न्यत्",
+        "य॒ज॒त‌म्",
+        "ते॒",
+        "अ॒न्यत्",
+        "विषु॑रूपे॒ इति॒ विषु॑ऽरूपे",
+        "अह॑नी॒ इति॑",
+        "द्यौःऽ‌इ᳚व",
+        "अ॒सि॒",
+        "विश्वाः᳚",
+        "हि",
+        "मा॒याः",
+        "अव॑सि",
+        "स्व॒धा॒ऽवः॒",
+        "भ॒द्रा",
+        "ते॒",
+        "पू॒ष॒न्",
+        "इ॒ह",
+        "रा॒तिः",
+        "अ॒स्तु॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "शु॒क्र‌म्",
+          "pada_kn": "ಶುಕ್ರಮ್",
+          "meaning_en": "Bright / Radiant",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ / ಶುಭ್ರವಾದ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "Your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "अ॒न्यत्",
+          "pada_kn": "ಅನ್ಯತ್",
+          "meaning_en": "One (form)",
+          "meaning_kn": "ಒಂದು (ರೂಪ)"
+        },
+        {
+          "pada_original": "य॒ज॒त‌म्",
+          "pada_kn": "ಯಜತಮ್",
+          "meaning_en": "Worthy of worship",
+          "meaning_kn": "ಪೂಜಾರ್ಹವಾದ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "Your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "अ॒न्यत्",
+          "pada_kn": "ಅನ್ಯತ್",
+          "meaning_en": "Another (form)",
+          "meaning_kn": "ಇನ್ನೊಂದು (ರೂಪ)"
+        },
+        {
+          "pada_original": "विषु॑रूपे॒ इति॒ विषु॑ऽरूपे",
+          "pada_kn": "ವಿಷುರೂಪೇ",
+          "meaning_en": "In two different forms",
+          "meaning_kn": "ಎರಡು ವಿಭಿನ್ನ ರೂಪಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अह॑नी॒ इति॑",
+          "pada_kn": "ಅಹನೀ",
+          "meaning_en": "In the two days (day and night)",
+          "meaning_kn": "ಎರಡು ಹಗಲುಗಳಲ್ಲಿ (ಹಗಲು ಮತ್ತು ರಾತ್ರಿ)"
+        },
+        {
+          "pada_original": "द्यौःऽ‌इ᳚व",
+          "pada_kn": "ದ್ಯೌಃ-ಇವ",
+          "meaning_en": "Like heaven / the sky",
+          "meaning_kn": "ದ್ಯುಲೋಕದಂತೆ / ಆಕಾಶದಂತೆ"
+        },
+        {
+          "pada_original": "अ॒सि॒",
+          "pada_kn": "ಅಸಿ",
+          "meaning_en": "You are",
+          "meaning_kn": "ನೀನು ಆಗಿದ್ದೀಯೆ"
+        },
+        {
+          "pada_original": "विश्वाः᳚",
+          "pada_kn": "ವಿಶ್ವಾಃ",
+          "meaning_en": "All",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "Indeed / For",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "मा॒याः",
+          "pada_kn": "ಮಾಯಾಃ",
+          "meaning_en": "Wondrous powers / forms",
+          "meaning_kn": "ಮಾಯೆಗಳನ್ನು / ಅದ್ಭುತ ಶಕ್ತಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अव॑सि",
+          "pada_kn": "ಅವಸಿ",
+          "meaning_en": "You encompass / protect",
+          "meaning_kn": "ನೀನು ಒಳಗೊಂಡಿರುವೆ / ರಕ್ಷಿಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "स्व॒धा॒ऽवः॒",
+          "pada_kn": "ಸ್ವಧಾವಃ",
+          "meaning_en": "O self-dependent one",
+          "meaning_kn": "ಓ ಸ್ವಯಂಶಕ್ತಿಯುಳ್ಳವನೇ"
+        },
+        {
+          "pada_original": "भ॒द्रा",
+          "pada_kn": "ಭದ್ರಾ",
+          "meaning_en": "Auspicious / Good",
+          "meaning_kn": "ಮಂಗಳಕರವಾದ / ಶ್ರೇಷ್ಠವಾದ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "Your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "पू॒ष॒न्",
+          "pada_kn": "ಪೂಷನ್",
+          "meaning_en": "O Pushan (the nourisher)",
+          "meaning_kn": "ಓ ಪೂಷನೇ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "Here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "रा॒तिः",
+          "pada_kn": "ರಾತಿಃ",
+          "meaning_en": "Gift / Bounty",
+          "meaning_kn": "ಕೊಡುಗೆ / ದಾನ"
+        },
+        {
+          "pada_original": "अ॒स्तु॒",
+          "pada_kn": "ಅಸ್ತು",
+          "meaning_en": "Let it be / May it be",
+          "meaning_kn": "ಇರಲಿ / ಆಗಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Pushan, one form of yours is radiant, another fit for veneration. Like the heavens encompassing day and night, you pervade all. O self-sustained one, all wondrous powers are indeed yours. O Pushan, may your benevolent grace be bestowed upon us.",
+      "full_meaning_kn": "ಓ ಪೂಷನ್, ನಿಮ್ಮ ಒಂದು ರೂಪವು ಪ್ರಕಾಶಮಾನವಾಗಿದೆ, ಇನ್ನೊಂದು ಪೂಜೆಗೆ ಯೋಗ್ಯವಾಗಿದೆ. ಹಗಲು ಮತ್ತು ರಾತ್ರಿಯನ್ನು ಆವರಿಸಿರುವ ಸ್ವರ್ಗದಂತೆ, ನೀವು ಎಲ್ಲೆಡೆ ವ್ಯಾಪಿಸಿದ್ದೀರಿ. ಓ ಸ್ವಯಂ-ಸ್ಥಿರನಾದವನೇ, ಎಲ್ಲಾ ಅದ್ಭುತ ಶಕ್ತಿಗಳು ನಿಜಕ್ಕೂ ನಿಮ್ಮದಾಗಿವೆ. ಓ ಪೂಷನ್, ನಿಮ್ಮ ದಯಾಳು ಅನುಗ್ರಹವು ನಮ್ಮ ಮೇಲೆ ಇರಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The mantra unveils the dual nature of the divine—one of manifest radiance (शुक्रं) and another of inherent worthiness (यजतं). This duality mirrors the cosmic rhythm of day and night, encapsulating the entirety of existence within the divine embrace. The self-sustaining (स्वधावः) nature of the deity underscores the autonomy and completeness of the divine will, independent of external forces. Grace (रातिः) is not merely a gift but an intrinsic aspect of the divine presence, fostering auspiciousness.",
+      "Insight_kn": "ಮಂತ್ರವು ದೈವಿಕ ಸ್ವರೂಪದ ದ್ವಂದ್ವ ಸ್ವರೂಪವನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತದೆ - ಒಂದು ವ್ಯಕ್ತವಾದ ತೇಜಸ್ಸು (ಶುಕ್ರಂ) ಮತ್ತು ಇನ್ನೊಂದು ಅಂತರ್ಗತ ಯೋಗ್ಯತೆ (ಯಜತಂ). ಈ ದ್ವಂದ್ವವು ಹಗಲು ಮತ್ತು ರಾತ್ರಿಯ ಕಾಸ್ಮಿಕ್ ಲಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ದೈವಿಕ ಅಪ್ಪುಗೆಯಲ್ಲಿ ಅಸ್ತಿತ್ವದ ಸಂಪೂರ್ಣತೆಯನ್ನು ಒಳಗೊಂಡಿದೆ. ದೇವತೆಯ ಸ್ವಯಂ-ಸುಸ್ಥಿರ (ಸ್ವಧಾವಃ) ಸ್ವರೂಪವು ಬಾಹ್ಯ ಶಕ್ತಿಗಳಿಂದ ಸ್ವತಂತ್ರವಾದ ದೈವಿಕ ಇಚ್ಛೆಯ ಸ್ವಾಯತ್ತತೆ ಮತ್ತು ಸಂಪೂರ್ಣತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಕೃಪೆಯು (ರಾತಿಃ) ಕೇವಲ ಉಡುಗೊರೆಯಲ್ಲ ಆದರೆ ದೈವಿಕ ಉಪಸ್ಥಿತಿಯ ಅಂತರ್ಗತ ಅಂಶವಾಗಿದೆ, ಇದು ಶುಭವನ್ನು ಬೆಳೆಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S58_75-2_4",
+      "mandala": 6,
+      "sukta": 58,
+      "ric_index": 2,
+      "rig_lines": [
+        "अ॒जाश्वः॑ पशु॒पा वाज॑पस्त्यो धियंजि॒न्वो भुव॑ने॒ विश्वे॒, अर्पि॑तः |",
+        "अष्ट्रां᳚ पू॒षा शि॑थि॒रामु॒द्वरी᳚वृजत् सं॒चक्षा᳚णो॒ भुव॑ना दे॒व ई᳚यते ||"
+      ],
+      "pre_splits": [
+        "अ॒ज।आ॑श्वः",
+        "प॒शु॒ऽपाः",
+        "वाज॑ऽपस्त्यः",
+        "धि॒य॒‌म्ऽजि॒न्वः",
+        "भुव॑ने",
+        "विश्वे᳚",
+        "अर्पि॑तः",
+        "अष्ट्रा᳚‌म्",
+        "पू॒षा",
+        "शि॒थि॒रा‌म्",
+        "उ॒त्ऽवरी᳚वृजत्",
+        "स॒‌म्ऽचक्षा᳚णः",
+        "भुव॑ना",
+        "दे॒वः",
+        "ई॒य॒ते॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒ज।आ॑श्वः",
+          "pada_kn": "ಅಜ।ಆಶ್ವಃ",
+          "meaning_en": "He whose horses are goats",
+          "meaning_kn": "ಆಡುಗಳೇ ಕುದುರೆಗಳಾಗಿ ಉಳ್ಳವನು"
+        },
+        {
+          "pada_original": "प॒शु॒ऽपाः",
+          "pada_kn": "ಪಶುಪಾಃ",
+          "meaning_en": "Protector of cattle",
+          "meaning_kn": "ಪಶುಗಳ ಪಾಲಕನು"
+        },
+        {
+          "pada_original": "वाज॑ऽपस्त्यः",
+          "pada_kn": "ವಾಜಪಸ್ತ್ಯಃ",
+          "meaning_en": "Lord of nourishment",
+          "meaning_kn": "ಅನ್ನ/ಸಂಪತ್ತಿನ ಒಡೆಯನು"
+        },
+        {
+          "pada_original": "धि॒य॒‌म्ऽजि॒न्वः",
+          "pada_kn": "ಧಿಯಮ್ऽಜಿನ್ವಃ",
+          "meaning_en": "Inspirer of prayers/thoughts",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆಗಳನ್ನು ಪ್ರೇರಿಸುವವನು"
+        },
+        {
+          "pada_original": "भुव॑ने",
+          "pada_kn": "ಭುವನೇ",
+          "meaning_en": "In the world",
+          "meaning_kn": "ಲೋಕದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "विश्वे᳚",
+          "pada_kn": "ವಿಶ್ವೇ",
+          "meaning_en": "In all / in the entire",
+          "meaning_kn": "ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "अर्पि॑तः",
+          "pada_kn": "ಅರ್ಪಿತಃ",
+          "meaning_en": "Established / placed",
+          "meaning_kn": "ಸ್ಥಾಪಿಸಲ್ಪಟ್ಟವನು"
+        },
+        {
+          "pada_original": "अष्ट्रा᳚‌म्",
+          "pada_kn": "ಅಷ್ಟ್ರಾಮ್",
+          "meaning_en": "The goad",
+          "meaning_kn": "ಚಾಟಿಯನ್ನು / ಮುಳ್ಳುಗೋಲನ್ನು"
+        },
+        {
+          "pada_original": "पू॒षा",
+          "pada_kn": "ಪೂಷಾ",
+          "meaning_en": "Pūṣan (the nourisher)",
+          "meaning_kn": "ಪೂಷನು"
+        },
+        {
+          "pada_original": "शि॒थि॒रा‌म्",
+          "pada_kn": "ಶಿಥಿರಾಮ್",
+          "meaning_en": "The loose / slackened",
+          "meaning_kn": "ಶಿಥಿಲವಾದ / ಸಡಿಲವಾದ"
+        },
+        {
+          "pada_original": "उ॒त्ऽवरी᳚वृजत्",
+          "pada_kn": "ಉತ್ऽವರೀವೃಜತ್",
+          "meaning_en": "He brandishes upwards / repeatedly raises",
+          "meaning_kn": "ಮೇಲಕ್ಕೆತ್ತುತ್ತಾನೆ / ಪದೇ ಪದೇ ಬೀಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "स॒‌म्ऽचक्षा᳚णः",
+          "pada_kn": "ಸಮ್ऽಚಕ್ಷಾಣಃ",
+          "meaning_en": "Beholding / surveying",
+          "meaning_kn": "ನೋಡುತ್ತಾ / ಅವಲೋಕಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "भुव॑ना",
+          "pada_kn": "ಭುವನಾ",
+          "meaning_en": "The worlds / all beings",
+          "meaning_kn": "ಲೋಕಗಳನ್ನು"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "The god",
+          "meaning_kn": "ದೇವನು"
+        },
+        {
+          "pada_original": "ई॒य॒ते॒",
+          "pada_kn": "ಈಯತೇ",
+          "meaning_en": "He moves / goes",
+          "meaning_kn": "ಚಲಿಸುತ್ತಾನೆ / ಸಂಚರಿಸುತ್ತಾನೆ"
+        }
+      ],
+      "full_meaning_en": "O Pūṣan, whose steeds are goats, you are the protector of cattle, the master of sustenance, and the inspirer of devout thoughts in every world. Observing all realms, the divine Pūṣan advances, wielding his relaxed whip.",
+      "full_meaning_kn": "ಓ ಪೂಷನ್, ಮೇಕೆಗಳನ್ನು ಕುದುರೆಯಾಗುಳ್ಳವನೇ, ನೀನು ದನಗಳ ರಕ್ಷಕ, ಪೋಷಣೆಯ ಒಡೆಯ, ಮತ್ತು ಪ್ರತಿಯೊಂದು ಜಗತ್ತಿನಲ್ಲಿಯೂ ಭಕ್ತಿಯ ಆಲೋಚನೆಗಳನ್ನು ಪ್ರೇರೇಪಿಸುವವನು. ಸಕಲ ಲೋಕಗಳನ್ನು ವೀಕ್ಷಿಸುತ್ತಾ, ದೈವೀ ಪೂಷಣನು ಮುಂದೆ ಸಾಗುತ್ತಾನೆ, ತನ್ನ ಸಡಿಲಗೊಂಡ ಚಾಟಿಯನ್ನು ಬೀಸುತ್ತಾನೆ.",
+      "rig_time_s": 15.661,
+      "Insight_en": "Pūṣan represents the inner guide, the aspect of consciousness that leads and protects our inner resources (cattle). The goats signify agility and adaptability in navigating the inner landscape. The relaxed whip symbolizes compassionate guidance, using gentle persuasion rather than harsh control. The entire universe is seen through the eye of awareness (सं॒चक्षा᳚णो), emphasizing the immanence of the divine in all experiences. धियंजि॒न्वो indicates the invigoration of intellect through devotion.",
+      "Insight_kn": "ಪೂಷನ್ ಒಳಗಿನ ಮಾರ್ಗದರ್ಶಕನನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಇದು ನಮ್ಮ ಆಂತರಿಕ ಸಂಪನ್ಮೂಲಗಳನ್ನು (ದನಗಳು) ಮುನ್ನಡೆಸುವ ಮತ್ತು ರಕ್ಷಿಸುವ ಪ್ರಜ್ಞೆಯ ಅಂಶವಾಗಿದೆ. ಮೇಕೆಗಳು ಆಂತರಿಕ ಭೂದೃಶ್ಯವನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡುವಲ್ಲಿ ಚುರುಕುತನ ಮತ್ತು ಹೊಂದಿಕೊಳ್ಳುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಸಡಿಲಗೊಂಡ ಚಾಟಿ ಕರುಣಾಮಯಿ ಮಾರ್ಗದರ್ಶನವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಕಠಿಣ ನಿಯಂತ್ರಣಕ್ಕಿಂತ ಸೌಮ್ಯವಾದ ಮನವೊಲಿಕೆಯನ್ನು ಬಳಸುತ್ತದೆ. ಇಡೀ ಬ್ರಹ್ಮಾಂಡವನ್ನು ಅರಿವಿನ ಕಣ್ಣಿನಿಂದ ನೋಡಲಾಗುತ್ತದೆ (ಸಂಚಕ್ಷಾಣೋ), ಇದು ಎಲ್ಲಾ ಅನುಭವಗಳಲ್ಲಿ ದೈವತ್ವದ ವ್ಯಾಪಕತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಧಿಯಂಜಿನ್ವೋ ಭಕ್ತಿಯ ಮೂಲಕ ಬುದ್ಧಿಶಕ್ತಿಯ ಚೈತನ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S58_75-3_4",
+      "mandala": 6,
+      "sukta": 58,
+      "ric_index": 3,
+      "rig_lines": [
+        "यास्ते᳚ पूष॒न्नावो᳚, अ॒न्तः स॑मु॒द्रे हि॑र॒ण्ययी᳚र॒न्तरि॑क्षे॒ चर᳚न्ति |",
+        "ताभि᳚र्यासि दू॒त्यां सूर्य॑स्य॒ कामे᳚न कृत॒ श्रव॑ इ॒च्छमा᳚नः ||"
+      ],
+      "pre_splits": [
+        "याः",
+        "ते॒",
+        "पू॒ष॒न्",
+        "नावः॑",
+        "अ॒न्तरिति॑",
+        "स॒मु॒द्रे",
+        "हि॒र॒ण्ययीः᳚",
+        "अ॒न्तरि॑क्षे",
+        "चर᳚न्ति",
+        "ताभिः॑",
+        "या॒सि॒",
+        "दू॒त्या‌म्",
+        "सूर्य॑स्य",
+        "कामे᳚न",
+        "कृ॒त॒",
+        "श्रवः॑",
+        "इ॒च्छमा᳚नः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "याः",
+          "pada_kn": "ಯಾಃ",
+          "meaning_en": "which",
+          "meaning_kn": "ಯಾವುವೋ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "पू॒ष॒न्",
+          "pada_kn": "ಪೂಷನ್",
+          "meaning_en": "O Pushan",
+          "meaning_kn": "ಓ ಪೂಷದೇವನೇ"
+        },
+        {
+          "pada_original": "नावः॑",
+          "pada_kn": "ನಾವಃ",
+          "meaning_en": "boats",
+          "meaning_kn": "ನಾವೆಗಳು"
+        },
+        {
+          "pada_original": "अ॒न्तरिति॑",
+          "pada_kn": "ಅಂತರಿತಿ",
+          "meaning_en": "within",
+          "meaning_kn": "ಒಳಗೆ"
+        },
+        {
+          "pada_original": "स॒मु॒द्रे",
+          "pada_kn": "ಸಮುದ್ರೇ",
+          "meaning_en": "in the ocean",
+          "meaning_kn": "ಸಮುದ್ರದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "हि॒र॒ण्ययीः᳚",
+          "pada_kn": "ಹಿರಣ್ಯಯೀಃ",
+          "meaning_en": "golden",
+          "meaning_kn": "ಸುವರ್ಣಮಯವಾದ"
+        },
+        {
+          "pada_original": "अ॒न्तरि॑क्षे",
+          "pada_kn": "ಅಂತರಿಕ್ಷೇ",
+          "meaning_en": "in the mid-region / atmosphere",
+          "meaning_kn": "ಅಂತರಿಕ್ಷದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "चर᳚न्ति",
+          "pada_kn": "ಚರಂತಿ",
+          "meaning_en": "they move / travel",
+          "meaning_kn": "ಸಂಚರಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "ताभिः॑",
+          "pada_kn": "ತಾಭಿಃ",
+          "meaning_en": "with them / by them",
+          "meaning_kn": "ಅವುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "या॒सि॒",
+          "pada_kn": "ಯಾಸಿ",
+          "meaning_en": "you travel",
+          "meaning_kn": "ನೀನು ಪ್ರಯಾಣಿಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "दू॒त्या‌म्",
+          "pada_kn": "ದೂತ್ಯಾಮ್",
+          "meaning_en": "on a mission / as a messenger",
+          "meaning_kn": "ದೂತಕಾರ್ಯದಲ್ಲಿ / ದೂತನಾಗಿ"
+        },
+        {
+          "pada_original": "सूर्य॑स्य",
+          "pada_kn": "ಸೂರ್ಯಸ್ಯ",
+          "meaning_en": "of Surya (the Sun)",
+          "meaning_kn": "ಸೂರ್ಯನ"
+        },
+        {
+          "pada_original": "कामे᳚न",
+          "pada_kn": "ಕಾಮೇನ",
+          "meaning_en": "by desire / with love",
+          "meaning_kn": "ಪ್ರೀತಿಯಿಂದ / ಇಚ್ಛೆಯಿಂದ"
+        },
+        {
+          "pada_original": "कृ॒त॒",
+          "pada_kn": "ಕೃತ",
+          "meaning_en": "made / impelled",
+          "meaning_kn": "ಪ್ರೇರಿತನಾದ / ಮಾಡಲ್ಪಟ್ಟ"
+        },
+        {
+          "pada_original": "श्रवः॑",
+          "pada_kn": "ಶ್ರವಃ",
+          "meaning_en": "fame / renown",
+          "meaning_kn": "ಕೀರ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "इ॒च्छमा᳚नः",
+          "pada_kn": "ಇಚ್ಛಮಾನಃ",
+          "meaning_en": "desiring / wishing for",
+          "meaning_kn": "ಬಯಸುವವನಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O Pushan, with those golden boats of yours that travel within the celestial ocean and move through the mid-region, you journey as a messenger of the Sun, impelled by love and seeking renown.",
+      "full_meaning_kn": "ಓ ಪೂಷನ್, ಸಾಗರದ ಒಳಗೆ ಚಲಿಸುವ ಮತ್ತು ಅಂತರಿಕ್ಷದಲ್ಲಿ ಸಂಚರಿಸುವ ನಿನ್ನ ಸುವರ್ಣದ ದೋಣಿಗಳೊಂದಿಗೆ, ಸೂರ್ಯನ ಪ್ರೇಮದಿಂದ ಪ್ರೇರಿತನಾಗಿ ಮತ್ತು ಕೀರ್ತಿಯನ್ನು ಬಯಸುತ್ತಾ ದೂತನಾಗಿ ನೀನು ಪಯಣಿಸುತ್ತೀಯೆ.",
+      "rig_time_s": 32.265,
+      "Insight_en": "The golden boats represent the vehicles of consciousness that navigate the inner space (antariksha) of the mind. Pushan, as a solar deity, guides these boats, driven by love (kama) for the divine Sun, seeking to manifest spiritual realization (shravas). The celestial ocean (samudra) is the vast expanse of the subconscious, traversed to achieve enlightenment.",
+      "Insight_kn": "ಸುವರ್ಣದ ದೋಣಿಗಳು ಮನಸ್ಸಿನ ಆಂತರಿಕ ಆಕಾಶದಲ್ಲಿ (ಅಂತರಿಕ್ಷ) ಸಂಚರಿಸುವ ಪ್ರಜ್ಞೆಯ ವಾಹನಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಪೂಷನ್, ಸೌರ ದೇವತೆಯಾಗಿ, ದೈವಿಕ ಸೂರ್ಯನ ಪ್ರೀತಿಯಿಂದ (ಕಾಮ) ಪ್ರೇರಿತನಾಗಿ ಈ ದೋಣಿಗಳನ್ನು ನಡೆಸುತ್ತಾನೆ, ಆಧ್ಯಾತ್ಮಿಕ ಸಾಕ್ಷಾತ್ಕಾರವನ್ನು (ಶ್ರವಸ್) ವ್ಯಕ್ತಪಡಿಸಲು ಬಯಸುತ್ತಾನೆ. ಆಕಾಶ ಸಮುದ್ರ (ಸಮುದ್ರ)ವು ಜ್ಞಾನೋದಯವನ್ನು ಸಾಧಿಸಲು ಪ್ರಯಾಣಿಸುವ ಉಪಪ್ರಜ್ಞೆಯ ವಿಶಾಲ ವಿಸ್ತಾರವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S58_75-4_4",
+      "mandala": 6,
+      "sukta": 58,
+      "ric_index": 4,
+      "rig_lines": [
+        "पू॒षा सु॒बन्धु॑र्दि॒व आ पृ॑थि॒व्या, इ॒ळस्पति᳚र्म॒घवा᳚ द॒स्मव॑र्चाः |",
+        "यं दे॒वासो॒, अद॑दुः सू॒र्यायै॒ कामे᳚न कृ॒तं त॒वसं॒ स्वञ्च᳚म् ||"
+      ],
+      "pre_splits": [
+        "पू॒षा",
+        "सु॒ऽबन्धुः॑",
+        "दि॒वः",
+        "आ",
+        "पृ॒थि॒व्याः",
+        "इ॒ळः",
+        "पतिः॑",
+        "म॒घऽवा᳚",
+        "द॒स्मऽव॑र्चाः",
+        "य‌म्",
+        "दे॒वासः॑",
+        "अद॑दुः",
+        "सू॒र्यायै᳚",
+        "कामे᳚न",
+        "कृ॒त‌म्",
+        "त॒वस᳚‌म्",
+        "सु॒।आंच᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "पू॒षा",
+          "pada_kn": "ಪೂಷಾ",
+          "meaning_en": "Pushan (the nourisher)",
+          "meaning_kn": "ಪೂಷನು (ಪೋಷಕ ದೇವತೆ)"
+        },
+        {
+          "pada_original": "सु॒ऽबन्धुः॑",
+          "pada_kn": "ಸುಬಂಧುಃ",
+          "meaning_en": "a good kinsman / a true friend",
+          "meaning_kn": "ಉತ್ತಮ ಬಂಧು / ಒಳ್ಳೆಯ ಸ್ನೇಹಿತ"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "of heaven",
+          "meaning_kn": "ದ್ಯುಲೋಕದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्याः",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಃ",
+          "meaning_en": "of the earth",
+          "meaning_kn": "ಪೃಥ್ವಿಯ"
+        },
+        {
+          "pada_original": "इ॒ळः",
+          "pada_kn": "ಇಳಃ",
+          "meaning_en": "of nourishment / of the offering",
+          "meaning_kn": "ಅನ್ನದ / ಹವಿಸ್ಸಿನ"
+        },
+        {
+          "pada_original": "पतिः॑",
+          "pada_kn": "ಪತಿಃ",
+          "meaning_en": "lord / master",
+          "meaning_kn": "ಪತಿ / ಒಡೆಯ"
+        },
+        {
+          "pada_original": "म॒घऽवा᳚",
+          "pada_kn": "ಮಘವಾ",
+          "meaning_en": "the bountiful / the generous one",
+          "meaning_kn": "ಧನವಂತನು / ಉದಾರಿಯಾದವನು"
+        },
+        {
+          "pada_original": "द॒स्मऽव॑र्चाः",
+          "pada_kn": "ದಸ್ಮವರ್ಚಾಃ",
+          "meaning_en": "of wondrous radiance",
+          "meaning_kn": "ಅದ್ಭುತ ತೇಜಸ್ಸುಳ್ಳವನು"
+        },
+        {
+          "pada_original": "य‌म्",
+          "pada_kn": "ಯಮ್",
+          "meaning_en": "whom",
+          "meaning_kn": "ಯಾವನನ್ನು"
+        },
+        {
+          "pada_original": "दे॒वासः॑",
+          "pada_kn": "ದೇವಾಸಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "अद॑दुः",
+          "pada_kn": "ಅದದುಃ",
+          "meaning_en": "they gave",
+          "meaning_kn": "ಕೊಟ್ಟರು"
+        },
+        {
+          "pada_original": "सू॒र्यायै᳚",
+          "pada_kn": "ಸೂರ್ಯಾಯೈ",
+          "meaning_en": "to Surya (the Sun-goddess)",
+          "meaning_kn": "ಸೂರ್ಯಾದೇವಿಗೆ"
+        },
+        {
+          "pada_original": "कामे᳚न",
+          "pada_kn": "ಕಾಮೇನ",
+          "meaning_en": "through love / by desire",
+          "meaning_kn": "ಪ್ರೀತಿಯಿಂದ / ಕಾಮನೆಯಿಂದ"
+        },
+        {
+          "pada_original": "कृ॒त‌म्",
+          "pada_kn": "ಕೃತಮ್",
+          "meaning_en": "made / created",
+          "meaning_kn": "ಮಾಡಲ್ಪಟ್ಟವನನ್ನು / ಸೃಷ್ಟಿಸಲ್ಪಟ್ಟವನನ್ನು"
+        },
+        {
+          "pada_original": "त॒वस᳚‌म्",
+          "pada_kn": "ತವಸಮ್",
+          "meaning_en": "the strong / the powerful one",
+          "meaning_kn": "ಬಲಿಷ್ಠನಾದವನನ್ನು / ಶಕ್ತಿಶಾಲಿಯನ್ನು"
+        },
+        {
+          "pada_original": "सु॒।आंच᳚‌म्",
+          "pada_kn": "ಸ್ವಾಂಚಮ್",
+          "meaning_en": "the well-directing one",
+          "meaning_kn": "ಉತ್ತಮವಾಗಿ ಮುನ್ನಡೆಸುವವನನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Pushan, true friend of Heaven and Earth, Lord of sustenance, generous and of wondrous brilliance! The gods, impelled by love, bestowed upon Surya that mighty and self-sustaining strength which is you.",
+      "full_meaning_kn": "ಓ ಪೂಷನ್, ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯ ನಿಜವಾದ ಬಂಧುವೇ, ಪೋಷಣೆಯ ಒಡೆಯನೇ, ಉದಾರಿಯೂ ಅದ್ಭುತ ತೇಜಸ್ಸುಳ್ಳವನೇ! ದೇವತೆಗಳು ಪ್ರೀತಿಯಿಂದ ಸೂರ್ಯನಿಗೆ ನಿನ್ನನ್ನು ನೀಡಿದರು - ಆ ಬಲಶಾಲಿ ಮತ್ತು ಸ್ವಯಂ-ನಿರ್ದೇಶಿತ ಶಕ್ತಿಯೇ ನೀನು.",
+      "rig_time_s": 49.25,
+      "Insight_en": "The mantra unveils the inherent unity between the divine forces governing both the celestial and terrestrial realms. Pushan, as the embodiment of nourishment and guidance, bridges the gap between Heaven (दिव) and Earth (पृथिवी), symbolizing the interconnectedness of all existence. The gift bestowed upon Surya highlights the divine love and the transfer of spiritual power, indicating that true strength (तवसम्) arises from selfless devotion and the well-directed will (स्वञ्चम्).",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸ್ವರ್ಗೀಯ ಮತ್ತು ಭೂಮಂಡಲದ ಕ್ಷೇತ್ರಗಳನ್ನು ಆಳುವ ದೈವಿಕ ಶಕ್ತಿಗಳ ನಡುವಿನ ಅಂತರ್ಗತ ಏಕತೆಯನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತದೆ. ಪೋಷಣೆ ಮತ್ತು ಮಾರ್ಗದರ್ಶನದ ಸಾಕಾರ ಮೂರ್ತಿಯಾದ ಪೂಷನ್, ಸ್ವರ್ಗ (ದಿವ) ಮತ್ತು ಭೂಮಿ (ಪೃಥಿವಿ) ನಡುವಿನ ಅಂತರವನ್ನು ಬೆಸೆಯುತ್ತಾನೆ, ಇದು ಎಲ್ಲಾ ಅಸ್ತಿತ್ವದ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸೂರ್ಯನಿಗೆ ನೀಡಿದ ಉಡುಗೊರೆಯು ದೈವಿಕ ಪ್ರೀತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯ ವರ್ಗಾವಣೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ನಿಸ್ವಾರ್ಥ ಭಕ್ತಿ ಮತ್ತು ಉತ್ತಮ ನಿರ್ದೇಶನದ ಇಚ್ಛೆಯಿಂದ (ಸ್ವಂಚಮ್) ನಿಜವಾದ ಶಕ್ತಿ (ತವಸಂ) ಉಂಟಾಗುತ್ತದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

@@ -1,0 +1,734 @@
+{
+  "mandala": 4,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M4-S13_58-1_5",
+      "mandala": 4,
+      "sukta": 13,
+      "ric_index": 1,
+      "rig_lines": [
+        "प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्यद् विभाती॒नां सु॒मना᳚ रत्न॒धेय᳚म् |",
+        "या॒तम॑श्विना सु॒कृतो᳚ दुरो॒णमुत्सूर्यो॒ ज्योति॑षा दे॒व ए᳚ति ||"
+      ],
+      "pre_splits": [
+        "प्रति॑",
+        "अ॒ग्निः",
+        "उ॒षसा᳚‌म्",
+        "अग्र᳚‌म्",
+        "अ॒ख्य॒त्",
+        "वि॒ऽभा॒ती॒ना‌म्",
+        "सु॒ऽमनाः᳚",
+        "र॒त्न॒ऽधेय᳚‌म्",
+        "या॒त‌म्",
+        "अ॒श्वि॒ना॒",
+        "सु॒ऽकृतः॑",
+        "दु॒रो॒ण‌म्",
+        "उत्",
+        "सूर्यः॑",
+        "ज्योति॑षा",
+        "दे॒वः",
+        "ए॒ति॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / at",
+          "meaning_kn": "ಕಡೆಗೆ / ಎದುರಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni / Fire",
+          "meaning_kn": "ಅಗ್ನಿ / ಅಗ್ನಿದೇವ"
+        },
+        {
+          "pada_original": "उ॒षसा᳚‌म्",
+          "pada_kn": "ಉಷಸಾಮ್",
+          "meaning_en": "of the dawns",
+          "meaning_kn": "ಉಷೆಗಳ"
+        },
+        {
+          "pada_original": "अग्र᳚‌म्",
+          "pada_kn": "ಅಗ್ರಮ್",
+          "meaning_en": "the front / beginning",
+          "meaning_kn": "ಮುಂಭಾಗ / ಪ್ರಾರಂಭ"
+        },
+        {
+          "pada_original": "अ॒ख्य॒त्",
+          "pada_kn": "ಅಖ್ಯತ್",
+          "meaning_en": "appeared / shone",
+          "meaning_kn": "ಪ್ರಕಟವಾಯಿತು / ಪ್ರಕಾಶಿಸಿತು"
+        },
+        {
+          "pada_original": "वि॒ऽभा॒ती॒ना‌म्",
+          "pada_kn": "ವಿಭಾತೀನಾಮ್",
+          "meaning_en": "of the shining (dawns)",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುವ (ಉಷೆಗಳ)"
+        },
+        {
+          "pada_original": "सु॒ऽमनाः᳚",
+          "pada_kn": "ಸುಮನಾಃ",
+          "meaning_en": "benevolent / well-minded",
+          "meaning_kn": "ಶುಭ ಮನಸ್ಸಿನ / ಸದ್ಭಾವನೆಯುಳ್ಳ"
+        },
+        {
+          "pada_original": "र॒त्न॒ऽधेय᳚‌म्",
+          "pada_kn": "ರತ್ನಧೇಯಮ್",
+          "meaning_en": "for the bestowal of treasures / wealth-giving",
+          "meaning_kn": "ರತ್ನಗಳನ್ನು ನೀಡಲು / ಸಂಪತ್ತು ನೀಡುವಿಕೆಗಾಗಿ"
+        },
+        {
+          "pada_original": "या॒त‌म्",
+          "pada_kn": "ಯಾತಮ್",
+          "meaning_en": "come / proceed (dual)",
+          "meaning_kn": "ಬನ್ನಿ / ಹೋಗಿ (ದ್ವಿವಚನ)"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "सु॒ऽकृतः॑",
+          "pada_kn": "ಸುಕೃತಃ",
+          "meaning_en": "of the virtuous ones / well-doers",
+          "meaning_kn": "ಸತ್ಕರ್ಮಿಗಳ / ಪುಣ್ಯವಂತರ"
+        },
+        {
+          "pada_original": "दु॒रो॒ण‌म्",
+          "pada_kn": "ದುರೋಣಮ್",
+          "meaning_en": "to the dwelling / house",
+          "meaning_kn": "ನಿವಾಸಕ್ಕೆ / ಮನೆಗೆ"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / forth",
+          "meaning_kn": "ಮೇಲೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "सूर्यः॑",
+          "pada_kn": "ಸೂರ್ಯಃ",
+          "meaning_en": "Surya / the Sun",
+          "meaning_kn": "ಸೂರ್ಯ / ಸೂರ್ಯದೇವ"
+        },
+        {
+          "pada_original": "ज्योति॑षा",
+          "pada_kn": "ಜ್ಯೋತಿಷಾ",
+          "meaning_en": "with light / by radiance",
+          "meaning_kn": "ಪ್ರಕಾಶದಿಂದ / ತೇಜಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "the god / divine one",
+          "meaning_kn": "ದೇವನು / ದೈವಿಕನು"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "goes / rises",
+          "meaning_kn": "ಹೋಗುತ್ತಾನೆ / ಉದಯಿಸುತ್ತಾನೆ"
+        }
+      ],
+      "full_meaning_en": "O Agni, you have revealed yourself at the forefront of the shining dawns, full of grace, ready to bestow treasures. O Ashvins, come to the abode of those who perform virtuous deeds. The divine Sun rises with his radiant light.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ಪ್ರಕಾಶಮಾನವಾದ ಉಷೆಗಳ ಮುಂಭಾಗದಲ್ಲಿ ನೀನು ನಿನ್ನನ್ನು ಬಹಿರಂಗಪಡಿಸಿದ್ದಿ, ಅನುಗ್ರಹದಿಂದ ತುಂಬಿರುವೆ, ರತ್ನಗಳನ್ನು ನೀಡಲು ಸಿದ್ಧನಾಗಿರುವೆ. ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಸತ್ಕರ್ಮಗಳನ್ನು ಮಾಡುವವರ ನಿವಾಸಕ್ಕೆ ಬನ್ನಿ. ದೈವಿಕ ಸೂರ್ಯನು ತನ್ನ ಪ್ರಕಾಶಮಾನವಾದ ಬೆಳಕಿನೊಂದಿಗೆ ಉದಯಿಸುತ್ತಾನೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The appearing of अग्नि signifies the awakening of inner illumination at the dawn of consciousness. Just as the Ashvins bring healing and vitality, the साधक invites divine grace into their inner abode. The rising Sun represents the unfolding of inner light (ज्योति) that dispels the darkness of ignorance (अविद्या).",
+      "Insight_kn": "ಅಗ್ನಿಯ ಗೋಚರವು ಪ್ರಜ್ಞೆಯ ಉದಯದಲ್ಲಿ ಆಂತರಿಕ ಪ್ರಕಾಶದ ಜಾಗೃತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಶ್ವಿನಿ ದೇವತೆಗಳು ಚಿಕಿತ್ಸೆ ಮತ್ತು ಚೈತನ್ಯವನ್ನು ತರುವಂತೆಯೇ, ಸಾಧಕನು ತನ್ನ ಆಂತರಿಕ ನಿವಾಸಕ್ಕೆ ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು ಆಹ್ವಾನಿಸುತ್ತಾನೆ. ಉದಯಿಸುವ ಸೂರ್ಯನು ಅಜ್ಞಾನದ (ಅವಿದ್ಯಾ) ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುವ ಆಂತರಿಕ ಬೆಳಕಿನ (ಜ್ಯೋತಿ) ತೆರೆಯುವಿಕೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S13_58-2_5",
+      "mandala": 4,
+      "sukta": 13,
+      "ric_index": 2,
+      "rig_lines": [
+        "ऊ॒र्ध्वं भा॒नुं स॑वि॒ता दे॒वो, अ॑श्रेद् द्र॒प्सं दवि॑ध्वद्‌ गवि॒षो न सत्वा᳚ |",
+        "अनु᳚ व्र॒तं वरु॑णो यन्ति मि॒त्रो यत्सूर्यं᳚ दि॒व्या᳚रो॒हय᳚न्ति ||"
+      ],
+      "pre_splits": [
+        "ऊ॒र्ध्व‌म्",
+        "भा॒नु‌म्",
+        "स॒वि॒ता",
+        "दे॒वः",
+        "अ॒श्रे॒त्",
+        "द्र॒प्स‌म्",
+        "दवि॑ध्वत्",
+        "गो॒ऽ‌इ॒षः",
+        "न",
+        "सत्वा᳚",
+        "अनु॑",
+        "व्र॒त‌म्",
+        "वरु॑णः",
+        "य॒न्ति॒",
+        "मि॒त्रः",
+        "यत्",
+        "सूर्य᳚‌म्",
+        "दि॒वि",
+        "आ॒ऽरो॒हय᳚न्ति"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ऊ॒र्ध्व‌म्",
+          "pada_kn": "ಊರ್ಧ್ವಮ್",
+          "meaning_en": "upward / high",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ / ಎತ್ತರಕ್ಕೆ"
+        },
+        {
+          "pada_original": "भा॒नु‌म्",
+          "pada_kn": "ಭಾನುಮ್",
+          "meaning_en": "ray / light",
+          "meaning_kn": "ಕಿರಣ / ಬೆಳಕು"
+        },
+        {
+          "pada_original": "स॒वि॒ता",
+          "pada_kn": "ಸವಿತಾ",
+          "meaning_en": "Savitar (the stimulator)",
+          "meaning_kn": "ಸವಿತೃ (ಪ್ರೇರಕ ದೇವ)"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "divine god",
+          "meaning_kn": "ದೈವಿಕ ದೇವನು"
+        },
+        {
+          "pada_original": "अ॒श्रे॒त्",
+          "pada_kn": "ಅಶ್ರೇತ್",
+          "meaning_en": "he sends forth / extends",
+          "meaning_kn": "ಅವನು ಹೊರಸೂಸುತ್ತಾನೆ / ಹರಡುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "द्र॒प्स‌म्",
+          "pada_kn": "ದ್ರಪ್ಸಮ್",
+          "meaning_en": "drop (of light) / spark",
+          "meaning_kn": "(ಬೆಳಕಿನ) ಹನಿ / ಕಿಡಿ"
+        },
+        {
+          "pada_original": "दवि॑ध्वत्",
+          "pada_kn": "ದವಿಧ್ವತ್",
+          "meaning_en": "swiftly moving / darting",
+          "meaning_kn": "ವೇಗವಾಗಿ ಚಲಿಸುವ / ನುಗ್ಗುವ"
+        },
+        {
+          "pada_original": "गो॒ऽ‌इ॒षः",
+          "pada_kn": "ಗೋऽಇಷಃ",
+          "meaning_en": "seeking light/rays",
+          "meaning_kn": "ಬೆಳಕನ್ನು/ಕಿರಣಗಳನ್ನು ಬಯಸುವ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "सत्वा᳚",
+          "pada_kn": "ಸತ್ವಾ",
+          "meaning_en": "a strong being / warrior",
+          "meaning_kn": "ಬಲಶಾಲಿ / ಯೋಧ"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "following / according to",
+          "meaning_kn": "ಅನುಸರಿಸಿ / ಪ್ರಕಾರ"
+        },
+        {
+          "pada_original": "व्र॒त‌म्",
+          "pada_kn": "ವ್ರತಮ್",
+          "meaning_en": "law / sacred duty",
+          "meaning_kn": "ನಿಯಮ / ಪವಿತ್ರ ಕರ್ತವ್ಯ"
+        },
+        {
+          "pada_original": "वरु॑णः",
+          "pada_kn": "ವರುಣಃ",
+          "meaning_en": "Varuna (god of cosmic order)",
+          "meaning_kn": "ವರುಣ (ವಿಶ್ವದ ನಿಯಮದ ದೇವ)"
+        },
+        {
+          "pada_original": "य॒न्ति॒",
+          "pada_kn": "ಯಂತಿ",
+          "meaning_en": "they go / they follow",
+          "meaning_kn": "ಅವರು ಹೋಗುತ್ತಾರೆ / ಅನುಸರಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "मि॒त्रः",
+          "pada_kn": "ಮಿತ್ರಃ",
+          "meaning_en": "Mitra (god of alliances)",
+          "meaning_kn": "ಮಿತ್ರ (ಮೈತ್ರಿಯ ದೇವ)"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / that",
+          "meaning_kn": "ಯಾವಾಗ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "सूर्य᳚‌म्",
+          "pada_kn": "ಸೂರ್ಯಮ್",
+          "meaning_en": "the Sun",
+          "meaning_kn": "ಸೂರ್ಯನನ್ನು"
+        },
+        {
+          "pada_original": "दि॒वि",
+          "pada_kn": "ದಿವಿ",
+          "meaning_en": "in the sky / in heaven",
+          "meaning_kn": "ಆಕಾಶದಲ್ಲಿ / ಸ್ವರ್ಗದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "आ॒ऽरो॒हय᳚न्ति",
+          "pada_kn": "ಆऽರೋಹಯಂತಿ",
+          "meaning_en": "they cause to ascend / raise up",
+          "meaning_kn": "ಅವರು ಏರಿಸುತ್ತಾರೆ / ಮೇಲಕ್ಕೆತ್ತುತ್ತಾರೆ"
+        }
+      ],
+      "full_meaning_en": "O divine Savitar, you release your radiant, upward-climbing beam, like a swift warrior seeking cows and light. Varuna and Mitra follow your sacred path, as you raise the Sun into the celestial realm.",
+      "full_meaning_kn": "ಓ ದೈವೀ ಸವಿತೃ, ನೀವು ನಿಮ್ಮ ಪ್ರಕಾಶಮಾನವಾದ, ಮೇಲ್ಮುಖವಾಗಿ ಏರುವ ಕಿರಣವನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತೀರಿ, ಅದು ಹಸುಗಳು ಮತ್ತು ಬೆಳಕನ್ನು ಹುಡುಕುವ ತ್ವರಿತ ಯೋಧನಂತೆ. ವರುಣ ಮತ್ತು ಮಿತ್ರರು ನಿಮ್ಮ ಪವಿತ್ರ ಮಾರ್ಗವನ್ನು ಅನುಸರಿಸುತ್ತಾರೆ, ನೀವು ಸೂರ್ಯನನ್ನು ಆಕಾಶದ ಸಾಮ್ರಾಜ್ಯಕ್ಕೆ ಏರಿಸುತ್ತೀರಿ.",
+      "rig_time_s": 15.244,
+      "Insight_en": "The rising sun symbolizes the awakening of inner consciousness. Savitar, the impeller, ignites the upward journey of the soul, guided by divine principles (Varuna and Mitra). The 'cows' represent illuminations sought by the aspirant. This mantra speaks of the internal alchemical process of raising consciousness towards enlightenment, a divine ascent within.",
+      "Insight_kn": "ಉದಯಿಸುವ ಸೂರ್ಯನು ಆಂತರಿಕ ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ. ಸವಿತೃ, ಪ್ರೇರೇಪಕನು, ಆತ್ಮದ ಮೇಲ್ಮುಖ ಪ್ರಯಾಣವನ್ನು ಬೆಳಗಿಸುತ್ತಾನೆ, ದೈವಿಕ ತತ್ವಗಳಿಂದ (ವರುಣ ಮತ್ತು ಮಿತ್ರ) ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಡುತ್ತಾನೆ. 'ಹಸುಗಳು' ಆಕಾಂಕ್ಷಿಯು ಬಯಸುವ ಪ್ರಕಾಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಈ ಮಂತ್ರವು ಜ್ಞಾನೋದಯದ ಕಡೆಗೆ ಪ್ರಜ್ಞೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಆಂತರಿಕ ರಾಸಾಯನಿಕ ಪ್ರಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ, ಇದು ಒಳಗಿನ ದೈವಿಕ ಆರೋಹಣವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S13_58-3_5",
+      "mandala": 4,
+      "sukta": 13,
+      "ric_index": 3,
+      "rig_lines": [
+        "यं सी॒मकृ᳚ण्व॒न्‌ तम॑से वि॒पृचे᳚ ध्रु॒वक्षे᳚मा॒, अन॑वस्यन्तो॒, अर्थ᳚म् |",
+        "तं सूर्यं᳚ ह॒रितः॑ स॒प्त य॒ह्वीः स्पशं॒ विश्व॑स्य॒ जग॑तो वहन्ति ||"
+      ],
+      "pre_splits": [
+        "य‌म्",
+        "सी॒‌म्",
+        "अकृ᳚ण्वन्",
+        "तम॑से",
+        "वि॒ऽपृचे᳚",
+        "ध्रु॒वऽक्षे᳚माः",
+        "अन॑वऽस्यन्तः",
+        "अर्थ᳚‌म्",
+        "त‌म्",
+        "सूर्य᳚‌म्",
+        "ह॒रितः॑",
+        "स॒प्त",
+        "य॒ह्वीः",
+        "स्पश᳚‌म्",
+        "विश्व॑स्य",
+        "जग॑तः",
+        "व॒ह॒न्ति॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "य‌म्",
+          "pada_kn": "ಯಮ್",
+          "meaning_en": "Whom (the Sun)",
+          "meaning_kn": "ಯಾರನ್ನು (ಸೂರ್ಯನನ್ನು)"
+        },
+        {
+          "pada_original": "सी॒‌म्",
+          "pada_kn": "ಸೀಮ್",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "अकृ᳚ण्वन्",
+          "pada_kn": "ಅಕೃಣ್ವನ್",
+          "meaning_en": "(they) made / created",
+          "meaning_kn": "(ಅವರು) ಮಾಡಿದರು / ಸೃಷ್ಟಿಸಿದರು"
+        },
+        {
+          "pada_original": "तम॑से",
+          "pada_kn": "ತಮಸೇ",
+          "meaning_en": "for darkness",
+          "meaning_kn": "ಕತ್ತಲೆಗಾಗಿ"
+        },
+        {
+          "pada_original": "वि॒ऽपृचे᳚",
+          "pada_kn": "ವಿಪೃಚೇ",
+          "meaning_en": "for dispelling / for separation",
+          "meaning_kn": "ದೂರ ಮಾಡಲು / ಬೇರ್ಪಡಿಸಲು"
+        },
+        {
+          "pada_original": "ध्रु॒वऽक्षे᳚माः",
+          "pada_kn": "ಧ್ರುವಕ್ಷೇಮಾಃ",
+          "meaning_en": "having firm abodes / secure in their dwellings",
+          "meaning_kn": "ಸ್ಥಿರವಾದ ನೆಲೆಗಳುಳ್ಳವರು / ತಮ್ಮ ನೆಲೆಗಳಲ್ಲಿ ಸುರಕ್ಷಿತರು"
+        },
+        {
+          "pada_original": "अन॑वऽस्यन्तः",
+          "pada_kn": "ಅನವಸ್ಯನ್ತಃ",
+          "meaning_en": "not ceasing / without resting",
+          "meaning_kn": "ನಿಲ್ಲದೆ / ವಿಶ್ರಾಂತಿಯಿಲ್ಲದೆ"
+        },
+        {
+          "pada_original": "अर्थ᳚‌म्",
+          "pada_kn": "ಅರ್ಥಮ್",
+          "meaning_en": "for a purpose / goal",
+          "meaning_kn": "ಒಂದು ಉದ್ದೇಶಕ್ಕಾಗಿ / ಪ್ರಯೋಜನಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "Him / That (Sun)",
+          "meaning_kn": "ಅವನನ್ನು / ಆ (ಸೂರ್ಯನನ್ನು)"
+        },
+        {
+          "pada_original": "सूर्य᳚‌म्",
+          "pada_kn": "ಸೂರ್ಯಮ್",
+          "meaning_en": "the Sun",
+          "meaning_kn": "ಸೂರ್ಯನನ್ನು"
+        },
+        {
+          "pada_original": "ह॒रितः॑",
+          "pada_kn": "ಹರಿತಃ",
+          "meaning_en": "the tawny / golden horses",
+          "meaning_kn": "ಹಳದಿ / ಸುವರ್ಣ ವರ್ಣದ ಕುದುರೆಗಳು"
+        },
+        {
+          "pada_original": "स॒प्त",
+          "pada_kn": "ಸಪ್ತ",
+          "meaning_en": "seven",
+          "meaning_kn": "ಏಳು"
+        },
+        {
+          "pada_original": "य॒ह्वीः",
+          "pada_kn": "ಯಹ್ವೀಃ",
+          "meaning_en": "mighty / powerful",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿಗಳು / ಬಲಿಷ್ಠರು"
+        },
+        {
+          "pada_original": "स्पश᳚‌म्",
+          "pada_kn": "ಸ್ಪಶಮ್",
+          "meaning_en": "a spy / an observer",
+          "meaning_kn": "ಗೂಢಚಾರ / ಕಾವಲುಗಾರ"
+        },
+        {
+          "pada_original": "विश्व॑स्य",
+          "pada_kn": "ವಿಶ್ವಸ್ಯ",
+          "meaning_en": "of all / of the entire",
+          "meaning_kn": "ಎಲ್ಲದರ / ಸಮಸ್ತದ"
+        },
+        {
+          "pada_original": "जग॑तः",
+          "pada_kn": "ಜಗತಃ",
+          "meaning_en": "of the moving world / of the universe",
+          "meaning_kn": "ಚಲಿಸುವ ಜಗತ್ತಿನ / ವಿಶ್ವದ"
+        },
+        {
+          "pada_original": "व॒ह॒न्ति॒",
+          "pada_kn": "ವಹನ್ತಿ",
+          "meaning_en": "(they) carry / bear",
+          "meaning_kn": "(ಅವು) ಹೊತ್ತುಕೊಂಡು ಹೋಗುತ್ತವೆ / ಒಯ್ಯುತ್ತವೆ"
+        }
+      ],
+      "full_meaning_en": "That Sun, whom the divine beings fashioned to scatter the darkness, steadfast in their realms, tirelessly striving for a defined goal – that Sun, the seven powerful, radiant steeds bear as the eye surveying all that moves.",
+      "full_meaning_kn": "ಯಾವ ಸೂರ್ಯನನ್ನು ದೇವತೆಗಳು ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸಲು ಸೃಷ್ಟಿಸಿದರೋ, ತಮ್ಮ ಸ್ಥಾನಗಳಲ್ಲಿ ಸ್ಥಿರವಾಗಿ, ಒಂದು ನಿರ್ದಿಷ್ಟ ಗುರಿಗಾಗಿ ದಣಿವರಿಯದೆ ಶ್ರಮಿಸುತ್ತಾರೋ – ಆ ಸೂರ್ಯನನ್ನು, ಏಳು ಶಕ್ತಿಯುತವಾದ, ಪ್ರಕಾಶಮಾನವಾದ ಕುದುರೆಗಳು ಚಲಿಸುವ ಎಲ್ಲವನ್ನೂ ನೋಡುವ ಕಣ್ಣಾಗಿ ಹೊತ್ತೊಯ್ಯುತ್ತವೆ.",
+      "rig_time_s": 30.975,
+      "Insight_en": "The sun (सूर्य) represents the awakened consciousness. The seven horses symbolize the senses, constantly drawing the individual towards worldly experiences. The 'defined goal' is the aspiration for liberation (मोक्ष), urging one to transcend the darkness of ignorance (अविद्या) and perceive the true Self (आत्मन्).",
+      "Insight_kn": "ಸೂರ್ಯನು (ಸೂರ್ಯ) ಜಾಗೃತ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಏಳು ಕುದುರೆಗಳು ಇಂದ್ರಿಯಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ, ಇದು ವ್ಯಕ್ತಿಯನ್ನು ಲೌಕಿಕ ಅನುಭವಗಳ ಕಡೆಗೆ ನಿರಂತರವಾಗಿ ಸೆಳೆಯುತ್ತದೆ. 'ನಿರ್ದಿಷ್ಟ ಗುರಿ' ಎಂದರೆ ವಿಮೋಚನೆಯ ಆಕಾಂಕ್ಷೆ (ಮೋಕ್ಷ), ಇದು ಅಜ್ಞಾನದ (ಅವಿದ್ಯಾ) ಕತ್ತಲೆಯನ್ನು ಮೀರಿ ಆತ್ಮವನ್ನು (ಆತ್ಮನ್) ಗ್ರಹಿಸಲು ಪ್ರೇರೇಪಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S13_58-4_5",
+      "mandala": 4,
+      "sukta": 13,
+      "ric_index": 4,
+      "rig_lines": [
+        "वहि॑ष्ठेभिर्वि॒हर᳚न्यासि॒ तन्तु॑मव॒व्यय॒न्नसि॑तं देव॒ वस्म॑ |",
+        "दवि॑ध्वतो र॒श्मयः॒ सूर्य॑स्य॒ चर्मे॒वावा᳚धु॒स्तमो᳚, अ॒प्स्व१॑(अ॒)न्तः ||"
+      ],
+      "pre_splits": [
+        "वहि॑ष्ठेभिः",
+        "वि॒ऽहर॑न्",
+        "या॒सि॒",
+        "तन्तु᳚‌म्",
+        "अ॒व॒ऽव्यय॑न्",
+        "असि॑त‌म्",
+        "दे॒व॒",
+        "वस्म॑",
+        "दवि॑ध्वतः",
+        "र॒श्मयः॑",
+        "सूर्य॑स्य",
+        "चर्म॑ऽ‌इव",
+        "अव॑",
+        "अ॒धुः॒",
+        "तमः॑",
+        "अ॒प्ऽसु",
+        "अ॒न्तरिति॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वहि॑ष्ठेभिः",
+          "pada_kn": "ವಹಿಷ್ಠೇಭಿಃ",
+          "meaning_en": "with the swiftest (rays/means)",
+          "meaning_kn": "ಅತ್ಯಂತ ವೇಗವಾದವುಗಳಿಂದ / ಹೊತ್ತೊಯ್ಯುವವುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "वि॒ऽहर॑न्",
+          "pada_kn": "ವಿಹರನ್",
+          "meaning_en": "spreading / moving about",
+          "meaning_kn": "ಹರಡುತ್ತಾ / ಸಂಚರಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "या॒सि॒",
+          "pada_kn": "ಯಾಸಿ",
+          "meaning_en": "you go / you move",
+          "meaning_kn": "ನೀನು ಹೋಗುತ್ತೀಯೆ / ಸಂಚರಿಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "तन्तु᳚‌म्",
+          "pada_kn": "ತಂತುಮ್",
+          "meaning_en": "the thread / web (of light)",
+          "meaning_kn": "ದಾರವನ್ನು / ಜಾಲವನ್ನು (ಬೆಳಕಿನ)"
+        },
+        {
+          "pada_original": "अ॒व॒ऽव्यय॑न्",
+          "pada_kn": "ಅವವ್ಯಯನ್",
+          "meaning_en": "unweaving / spreading out",
+          "meaning_kn": "ಬಿಚ್ಚಿ ಹರಡುತ್ತಾ / ವಿಸ್ತರಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "असि॑त‌म्",
+          "pada_kn": "ಅಸಿತಮ್",
+          "meaning_en": "the dark / black",
+          "meaning_kn": "ಕಪ್ಪಾದ / ಕತ್ತಲೆಯನ್ನು"
+        },
+        {
+          "pada_original": "दे॒व॒",
+          "pada_kn": "ದೇವ",
+          "meaning_en": "O God / O divine one",
+          "meaning_kn": "ಓ ದೇವ / ಓ ದಿವ್ಯನೇ"
+        },
+        {
+          "pada_original": "वस्म॑",
+          "pada_kn": "ವಸ್ಮ",
+          "meaning_en": "the garment / covering",
+          "meaning_kn": "ವಸ್ತ್ರವನ್ನು / ಹೊದಿಕೆಯನ್ನು"
+        },
+        {
+          "pada_original": "दवि॑ध्वतः",
+          "pada_kn": "ದವಿಧ್ವತಃ",
+          "meaning_en": "intensely moving / quivering",
+          "meaning_kn": "ತೀವ್ರವಾಗಿ ಚಲಿಸುವ / ನಡುಗುವ"
+        },
+        {
+          "pada_original": "र॒श्मयः॑",
+          "pada_kn": "ರಶ್ಮಯಃ",
+          "meaning_en": "the rays",
+          "meaning_kn": "ಕಿರಣಗಳು"
+        },
+        {
+          "pada_original": "सूर्य॑स्य",
+          "pada_kn": "ಸೂರ್ಯಸ್ಯ",
+          "meaning_en": "of the Sun",
+          "meaning_kn": "ಸೂರ್ಯನ"
+        },
+        {
+          "pada_original": "चर्म॑ऽ‌इव",
+          "pada_kn": "ಚರ್ಮೈವ",
+          "meaning_en": "like a skin / hide",
+          "meaning_kn": "ಚರ್ಮದಂತೆ / ಪೊರೆಯಂತೆ"
+        },
+        {
+          "pada_original": "अव॑",
+          "pada_kn": "ಅವ",
+          "meaning_en": "down / away",
+          "meaning_kn": "ಕೆಳಗೆ / ದೂರ"
+        },
+        {
+          "pada_original": "अ॒धुः॒",
+          "pada_kn": "ಅಧುಃ",
+          "meaning_en": "they shook off / cast off",
+          "meaning_kn": "ಅವು ಅಲುಗಾಡಿಸಿದವು / ಕಳಚಿ ಹಾಕಿದವು"
+        },
+        {
+          "pada_original": "तमः॑",
+          "pada_kn": "ತಮಃ",
+          "meaning_en": "the darkness",
+          "meaning_kn": "ಕತ್ತಲೆಯನ್ನು"
+        },
+        {
+          "pada_original": "अ॒प्ऽसु",
+          "pada_kn": "ಅಪ್ಸು",
+          "meaning_en": "in the waters",
+          "meaning_kn": "ನೀರುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒न्तरिति॑",
+          "pada_kn": "ಅಂತರಿತಿ",
+          "meaning_en": "within / inside",
+          "meaning_kn": "ಒಳಗೆ / ಆಳಕ್ಕೆ"
+        }
+      ],
+      "full_meaning_en": "O radiant Savitar, with your most swift rays, you spread the thread of light, unraveling the dark garment. The intensely moving rays of the Sun dispel the darkness like a cast-off skin, plunging it into the waters within.",
+      "full_meaning_kn": "ಓ ಪ್ರಕಾಶಮಾನನಾದ ಸವಿತೃದೇವನೇ, ನಿನ್ನ ಅತಿ ವೇಗದ ಕಿರಣಗಳಿಂದ, ಬೆಳಕಿನ ದಾರವನ್ನು ನೀನು ಹರಡುತ್ತಿ, ಕತ್ತಲೆಯ ವಸ್ತ್ರವನ್ನು ಬಿಚ್ಚಿಡುವೆ. ಸೂರ್ಯನ ತೀವ್ರವಾಗಿ ಚಲಿಸುವ ಕಿರಣಗಳು ಚರ್ಮದಂತೆ ಕತ್ತಲೆಯನ್ನು ತೊಡೆದುಹಾಕಿ, ಒಳಗಿರುವ ನೀರಿಗೆ ತಳ್ಳುತ್ತವೆ.",
+      "rig_time_s": 46.393,
+      "Insight_en": "The mantra reveals the dawn of awareness. Just as Savitar, the Sun, dispels darkness, inner illumination dissolves ignorance. The 'waters within' symbolize the subconscious, the repository of latent potential. The shedding of darkness is the liberation from limiting beliefs, plunging them into the transformative depths of the unconscious, leading to self-realization (आत्मज्ञान).",
+      "Insight_kn": "ಮಂತ್ರವು ಅರಿವಿನ ಉದಯವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಸವಿತೃ, ಸೂರ್ಯನು ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುವಂತೆಯೇ, ಆಂತರಿಕ ಪ್ರಕಾಶವು ಅಜ್ಞಾನವನ್ನು ಕರಗಿಸುತ್ತದೆ. 'ಒಳಗಿನ ನೀರು' ಉಪಪ್ರಜ್ಞೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ಸುಪ್ತ ಸಾಮರ್ಥ್ಯದ ಭಂಡಾರವಾಗಿದೆ. ಕತ್ತಲೆಯ ವಿಸರ್ಜನೆಯು ಸೀಮಿತಗೊಳಿಸುವ ನಂಬಿಕೆಗಳಿಂದ ಬಿಡುಗಡೆಯಾಗಿದೆ, ಅವುಗಳನ್ನು ಅರಿವಿಲ್ಲದ ಪರಿವರ್ತಕ ಆಳಕ್ಕೆ ತಳ್ಳುವುದು, ಆತ್ಮಜ್ಞಾನಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M4-S13_58-5_5",
+      "mandala": 4,
+      "sukta": 13,
+      "ric_index": 5,
+      "rig_lines": [
+        "अना᳚यतो॒, अनि॑बद्धः क॒थायं न्य᳚ङ्ङुत्ता॒नोऽव॑ पद्यते॒ न |",
+        "कया᳚ याति स्व॒धया॒ को द॑दर्श दि॒वः स्क॒म्भः समृ॑तः पाति॒ नाक᳚म् ||"
+      ],
+      "pre_splits": [
+        "अना᳚यतः",
+        "अनि॑ऽबद्धः",
+        "क॒था",
+        "अ॒य‌म्",
+        "न्य᳚ङ्",
+        "उ॒त्ता॒नः",
+        "अव॑",
+        "प॒द्य॒ते॒",
+        "न",
+        "कया᳚",
+        "या॒ति॒",
+        "स्व॒धया᳚",
+        "कः",
+        "द॒द॒र्श॒",
+        "दि॒वः",
+        "स्क॒म्भः",
+        "स‌म्ऽऋ॑तः",
+        "पा॒ति॒",
+        "नाक᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अना᳚यतः",
+          "pada_kn": "ಅನಾಯತಃ",
+          "meaning_en": "unrestrained",
+          "meaning_kn": "ನಿಯಂತ್ರಣವಿಲ್ಲದ"
+        },
+        {
+          "pada_original": "अनि॑ऽबद्धः",
+          "pada_kn": "ಅನಿಬದ್ಧಃ",
+          "meaning_en": "unbound",
+          "meaning_kn": "ಬಂಧಿಸಲ್ಪಡದ"
+        },
+        {
+          "pada_original": "क॒था",
+          "pada_kn": "ಕಥಾ",
+          "meaning_en": "how?",
+          "meaning_kn": "ಹೇಗೆ?"
+        },
+        {
+          "pada_original": "अ॒य‌म्",
+          "pada_kn": "ಅಯಮ್",
+          "meaning_en": "this (one)",
+          "meaning_kn": "ಈ (ಒಂದು)"
+        },
+        {
+          "pada_original": "न्य᳚ङ्",
+          "pada_kn": "ನ್ಯಙ್",
+          "meaning_en": "downwards",
+          "meaning_kn": "ಕೆಳಮುಖವಾಗಿ"
+        },
+        {
+          "pada_original": "उ॒त्ता॒नः",
+          "pada_kn": "ಉತ್ತಾನಃ",
+          "meaning_en": "supine / upwards",
+          "meaning_kn": "ಮೇಲ್ಮುಖವಾಗಿ / ಮಲಗಿದಂತೆ"
+        },
+        {
+          "pada_original": "अव॑",
+          "pada_kn": "ಅವ",
+          "meaning_en": "down",
+          "meaning_kn": "ಕೆಳಗೆ"
+        },
+        {
+          "pada_original": "प॒द्य॒ते॒",
+          "pada_kn": "ಪದ್ಯತೇ",
+          "meaning_en": "falls",
+          "meaning_kn": "ಬೀಳುತ್ತದೆ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ / ಬೀಳುವುದಿಲ್ಲ"
+        },
+        {
+          "pada_original": "कया᳚",
+          "pada_kn": "ಕಯಾ",
+          "meaning_en": "by what (power)?",
+          "meaning_kn": "ಯಾವ (ಶಕ್ತಿಯಿಂದ)?"
+        },
+        {
+          "pada_original": "या॒ति॒",
+          "pada_kn": "ಯಾತಿ",
+          "meaning_en": "goes / moves",
+          "meaning_kn": "ಹೋಗುತ್ತದೆ / ಚಲಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "स्व॒धया᳚",
+          "pada_kn": "ಸ್ವಧಯಾ",
+          "meaning_en": "by its own nature/power",
+          "meaning_kn": "ತನ್ನ ಸ್ವಂತ ಶಕ್ತಿಯಿಂದ / ಸ್ವಭಾವದಿಂದ"
+        },
+        {
+          "pada_original": "कः",
+          "pada_kn": "ಕಃ",
+          "meaning_en": "who?",
+          "meaning_kn": "ಯಾರು?"
+        },
+        {
+          "pada_original": "द॒द॒र्श॒",
+          "pada_kn": "ದದರ್ಶ",
+          "meaning_en": "saw / perceived",
+          "meaning_kn": "ನೋಡಿದರು / ಕಂಡರು"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "of heaven",
+          "meaning_kn": "ದ್ಯುಲೋಕದ / ಆಕಾಶದ"
+        },
+        {
+          "pada_original": "स्क॒म्भः",
+          "pada_kn": "ಸ್ಕಂಭಃ",
+          "meaning_en": "pillar / support",
+          "meaning_kn": "ಕಂಬ / ಆಧಾರ"
+        },
+        {
+          "pada_original": "स‌म्ऽऋ॑तः",
+          "pada_kn": "ಸಮೃತಃ",
+          "meaning_en": "well-established / sustained",
+          "meaning_kn": "ಸುಸ್ಥಾಪಿತವಾದ / ಚೆನ್ನಾಗಿ ನಿಂತಿರುವ"
+        },
+        {
+          "pada_original": "पा॒ति॒",
+          "pada_kn": "ಪಾತಿ",
+          "meaning_en": "protects / sustains",
+          "meaning_kn": "ರಕ್ಷಿಸುತ್ತದೆ / ಪೋಷಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "नाक᳚‌म्",
+          "pada_kn": "ನಾಕಮ್",
+          "meaning_en": "heaven / firmament",
+          "meaning_kn": "ಸ್ವರ್ಗವನ್ನು / ದ್ಯುಲೋಕವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "How does this unrestrained, unbound entity not fall, whether prone or supine? By what inherent power does it move? Who has seen it? The established pillar of heaven guards and protects the celestial realm.",
+      "full_meaning_kn": "ನಿಯಂತ್ರಣವಿಲ್ಲದ, ಬಂಧನವಿಲ್ಲದ ಈ ಅಸ್ತಿತ್ವವು ಹೇಗೆ ಬೀಳುವುದಿಲ್ಲ, ಅದು ಮಲಗಿರಲಿ ಅಥವಾ ಬಿದ್ದಿರಲಿ? ಅದು ಯಾವ ಸಹಜ ಶಕ್ತಿಯಿಂದ ಚಲಿಸುತ್ತದೆ? ಅದನ್ನು ಯಾರು ನೋಡಿದ್ದಾರೆ? ಸ್ಥಾಪಿತವಾದ ಸ್ವರ್ಗದ ಸ್ತಂಭವು ಸ್ವರ್ಗೀಯ ಕ್ಷೇತ್ರವನ್ನು ಕಾಯುತ್ತದೆ ಮತ್ತು ರಕ್ಷಿಸುತ್ತದೆ.",
+      "rig_time_s": 61.54,
+      "Insight_en": "The mantra speaks to the fundamental mystery of existence. It questions the force that upholds the cosmos and prevents chaos. This force is not external but intrinsic, स्वधा (svadhā), the inherent power within all things. The true seeker understands that the support of the universe is the same support that upholds the individual self, the pillar of heaven mirroring the inner ātman (आत्मन्).",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಸ್ತಿತ್ವದ ಮೂಲಭೂತ ರಹಸ್ಯದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಇದು ವಿಶ್ವವನ್ನು ಎತ್ತಿಹಿಡಿಯುವ ಮತ್ತು ಅವ್ಯವಸ್ಥೆಯನ್ನು ತಡೆಯುವ ಶಕ್ತಿಯನ್ನು ಪ್ರಶ್ನಿಸುತ್ತದೆ. ಈ ಶಕ್ತಿಯು ಬಾಹ್ಯವಲ್ಲ ಆದರೆ ಆಂತರಿಕವಾಗಿದೆ, ಸ್ವಧಾ, ಎಲ್ಲ ವಿಷಯಗಳಲ್ಲಿ ಅಂತರ್ಗತವಾಗಿರುವ ಶಕ್ತಿ. ಬ್ರಹ್ಮಾಂಡದ ಬೆಂಬಲವು ವೈಯಕ್ತಿಕ ಆತ್ಮವನ್ನು ಎತ್ತಿಹಿಡಿಯುವ ಅದೇ ಬೆಂಬಲವಾಗಿದೆ ಎಂದು ನಿಜವಾದ ಸಾಧಕನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತಾನೆ, ಸ್ವರ್ಗದ ಸ್ತಂಭವು ಆಂತರಿಕ ಆತ್ಮವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

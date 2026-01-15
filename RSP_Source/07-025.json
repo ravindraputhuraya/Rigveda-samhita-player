@@ -1,0 +1,937 @@
+{
+  "mandala": 7,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M7-S25_104-1_6",
+      "mandala": 7,
+      "sukta": 25,
+      "ric_index": 1,
+      "rig_lines": [
+        "आ ते᳚ म॒ह इ᳚न्द्रो॒त्यु॑ग्र॒ सम᳚न्यवो॒ यत्स॒मर᳚न्त॒ सेनाः᳚ |",
+        "पता᳚ति दि॒द्युन्नर्य॑स्य बा॒ह्वोर्मा ते॒ मनो᳚ विष्व॒द्र्य१॑(अ॒)ग्वि चा᳚रीत् ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "ते॒",
+        "म॒हः",
+        "इ॒न्द्र॒",
+        "ऊ॒ती",
+        "उ॒ग्र॒",
+        "सऽम᳚न्यवः",
+        "यत्",
+        "स॒‌म्।आर᳚न्त",
+        "सेनाः᳚",
+        "पता᳚ति",
+        "दि॒द्युत्",
+        "नर्य॑स्य",
+        "बा॒ह्वोः",
+        "मा",
+        "ते॒",
+        "मनः॑",
+        "वि॒ष्व॒द्र्य॑क्",
+        "वि",
+        "चा॒री॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither, may it come",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ, ಬರಲಿ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "म॒हः",
+          "pada_kn": "ಮಹಃ",
+          "meaning_en": "great",
+          "meaning_kn": "ಮಹತ್ತಾದ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "ऊ॒ती",
+          "pada_kn": "ಊತೀ",
+          "meaning_en": "protection, aid",
+          "meaning_kn": "ರಕ್ಷಣೆ, ಸಹಾಯ"
+        },
+        {
+          "pada_original": "उ॒ग्र॒",
+          "pada_kn": "ಉಗ್ರ",
+          "meaning_en": "O fierce one",
+          "meaning_kn": "ಓ ಉಗ್ರನೇ"
+        },
+        {
+          "pada_original": "सऽम᳚न्यवः",
+          "pada_kn": "ಸಮನ್ಯವಃ",
+          "meaning_en": "with shared fury",
+          "meaning_kn": "ಸಮಾನವಾದ ಕೋಪವುಳ್ಳ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "स॒‌म्।आर᳚न्त",
+          "pada_kn": "ಸಮ್।ಆರಂತ",
+          "meaning_en": "they clashed / came together",
+          "meaning_kn": "ಸಂಘರ್ಷಿಸಿದವೋ / ಒಟ್ಟಾದವೋ"
+        },
+        {
+          "pada_original": "सेनाः᳚",
+          "pada_kn": "ಸೇನಾಃ",
+          "meaning_en": "the armies",
+          "meaning_kn": "ಸೇನೆಗಳು"
+        },
+        {
+          "pada_original": "पता᳚ति",
+          "pada_kn": "ಪತಾತಿ",
+          "meaning_en": "may it fall",
+          "meaning_kn": "ಬೀಳಲಿ"
+        },
+        {
+          "pada_original": "दि॒द्युत्",
+          "pada_kn": "ದಿದ್ಯುತ್",
+          "meaning_en": "the missile / lightning-bolt",
+          "meaning_kn": "ಆಯುಧ / ಸಿಡಿಲು"
+        },
+        {
+          "pada_original": "नर्य॑स्य",
+          "pada_kn": "ನರ್ಯಸ್ಯ",
+          "meaning_en": "of the hero",
+          "meaning_kn": "ವೀರನಾದವನ"
+        },
+        {
+          "pada_original": "बा॒ह्वोः",
+          "pada_kn": "ಬಾಹ್ವೋಃ",
+          "meaning_en": "from the two arms",
+          "meaning_kn": "ಎರಡು ಬಾಹುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "let not",
+          "meaning_kn": "ಬೇಡ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "मनः॑",
+          "pada_kn": "ಮನಃ",
+          "meaning_en": "mind",
+          "meaning_kn": "ಮನಸ್ಸು"
+        },
+        {
+          "pada_original": "वि॒ष्व॒द्र्य॑क्",
+          "pada_kn": "ವಿಷ್ವದ್ರ್ಯಕ್",
+          "meaning_en": "astray, in all directions",
+          "meaning_kn": "ಎಲ್ಲೆಡೆ, ಅತ್ತಿತ್ತ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "away, apart",
+          "meaning_kn": "ದೂರ, ಬೇರೆಯಾಗಿ"
+        },
+        {
+          "pada_original": "चा॒री॒त्",
+          "pada_kn": "ಚಾರೀತ್",
+          "meaning_en": "wander",
+          "meaning_kn": "ಅಲೆಯಲಿ"
+        }
+      ],
+      "full_meaning_en": "O mighty Indra, may your vast and fierce protection come to us when armies clash, driven by shared fury. May the thunderbolt fly from your heroic arms. Let not your mind wander elsewhere, away from us.",
+      "full_meaning_kn": "ಓ ಪರಾಕ್ರಮಿಯಾದ ಇಂದ್ರನೇ, ಸೈನ್ಯಗಳು ಒಟ್ಟಿಗೆ ಸೇರಿ ರೋಷದಿಂದ ಹೋರಾಡುವಾಗ ನಿನ್ನ ಮಹತ್ತಾದ ಮತ್ತು ಉಗ್ರವಾದ ರಕ್ಷಣೆಯು ನಮಗೆ ಲಭಿಸಲಿ. ನಿನ್ನ ಶೂರ ಭುಜಗಳಿಂದ ವಜ್ರಾಯುಧವು ಹಾರಲಿ. ನಿನ್ನ ಮನಸ್ಸು ಬೇರೆಡೆಗೆ ಹರಿಯದೆ ನಮ್ಮಲ್ಲಿ ನೆಲೆಗೊಳ್ಳಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The battlefield represents the inner turmoil of the mind. Indra, the lord of senses, must direct his power (the Vajra) to quell the senses that wander astray. Anchoring the mind to the divine ensures protection from internal conflicts and external distractions.",
+      "Insight_kn": "ಯುದ್ಧಭೂಮಿಯು ಮನಸ್ಸಿನ ಆಂತರಿಕ ಹೋರಾಟವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇಂದ್ರನು, ಇಂದ್ರಿಯಗಳ ಅಧಿಪತಿಯಾಗಿ, ತನ್ನ ಶಕ್ತಿಯನ್ನು (ವಜ್ರಾಯುಧ) ತಪ್ಪುದಾರಿಗೆಳೆಯುವ ಇಂದ್ರಿಯಗಳನ್ನು ನಿಗ್ರಹಿಸಲು ನಿರ್ದೇಶಿಸಬೇಕು. ಮನಸ್ಸನ್ನು ದೈವಿಕದಲ್ಲಿ ಸ್ಥಿರವಾಗಿರಿಸುವುದು ಆಂತರಿಕ ಸಂಘರ್ಷಗಳು ಮತ್ತು ಬಾಹ್ಯ ಗೊಂದಲಗಳಿಂದ ರಕ್ಷಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S25_104-2_6",
+      "mandala": 7,
+      "sukta": 25,
+      "ric_index": 2,
+      "rig_lines": [
+        "नि दु॒र्ग इ᳚न्द्र श्नथिह्य॒मित्राँ᳚, अ॒भि ये नो॒ मर्ता᳚सो, अ॒मन्ति॑ |",
+        "आ॒रे तं शंसं᳚ कृणुहि निनि॒त्सोरा नो᳚ भर स॒म्भर॑णं॒ वसू᳚नाम् ||"
+      ],
+      "pre_splits": [
+        "नि",
+        "दुः॒ऽगे",
+        "इ॒न्द्र॒",
+        "श्न॒थि॒हि॒",
+        "अ॒मित्रा᳚न्",
+        "अ॒भि",
+        "ये",
+        "नः॒",
+        "मर्ता᳚सः",
+        "अ॒मन्ति॑",
+        "आ॒रे",
+        "त‌म्",
+        "शंस᳚‌म्",
+        "कृ॒णु॒हि॒",
+        "नि॒नि॒त्सोः",
+        "आ",
+        "नः॒",
+        "भ॒र॒",
+        "स॒‌म्ऽभर॑ण‌म्",
+        "वसू᳚ना‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down",
+          "meaning_kn": "ಕೆಳಗೆ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "दुः॒ऽगे",
+          "pada_kn": "ದುರ್ಗೆ",
+          "meaning_en": "in hardship / in a difficult place",
+          "meaning_kn": "ಕಷ್ಟದಲ್ಲಿ / ದುರ್ಗಮವಾದ ಸ್ಥಳದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರ"
+        },
+        {
+          "pada_original": "श्न॒थि॒हि॒",
+          "pada_kn": "ಶ್ನಥಿಹಿ",
+          "meaning_en": "strike / destroy",
+          "meaning_kn": "ನಾಶಮಾಡು / ಹೊಡೆದುರುಳಿಸು"
+        },
+        {
+          "pada_original": "अ॒मित्रा᳚न्",
+          "pada_kn": "ಅಮಿತ್ರಾನ್",
+          "meaning_en": "the enemies",
+          "meaning_kn": "ಶತ್ರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "against",
+          "meaning_kn": "ವಿರುದ್ಧವಾಗಿ"
+        },
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "मर्ता᳚सः",
+          "pada_kn": "ಮರ್ತಾಸಃ",
+          "meaning_en": "mortals",
+          "meaning_kn": "ಮನುಷ್ಯರು / ಮರ್ತ್ಯರು"
+        },
+        {
+          "pada_original": "अ॒मन्ति॑",
+          "pada_kn": "ಅಮಂತಿ",
+          "meaning_en": "they attack / plot against",
+          "meaning_kn": "ಹಿಂಸಿಸುತ್ತಾರೆ / ಸಂಚು ಮಾಡುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "आ॒रे",
+          "pada_kn": "ಆರೇ",
+          "meaning_en": "far away",
+          "meaning_kn": "ದೂರದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "that",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "शंस᳚‌म्",
+          "pada_kn": "ಶಂಸಮ್",
+          "meaning_en": "calumny / curse",
+          "meaning_kn": "ನಿಂದನೆಯನ್ನು / ದೂಷಣೆಯನ್ನು"
+        },
+        {
+          "pada_original": "कृ॒णु॒हि॒",
+          "pada_kn": "ಕೃಣುಹಿ",
+          "meaning_en": "make / place",
+          "meaning_kn": "ಮಾಡು / ಇರಿಸು"
+        },
+        {
+          "pada_original": "नि॒नि॒त्सोः",
+          "pada_kn": "ನಿನಿತ್ಸೋಃ",
+          "meaning_en": "of the slanderer",
+          "meaning_kn": "ನಿಂದಿಸುವವನ / ದೂಷಿಸಲು ಇಚ್ಛಿಸುವವನ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / towards (us)",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ನಮ್ಮೆಡೆಗೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "भ॒र॒",
+          "pada_kn": "ಭರ",
+          "meaning_en": "bring",
+          "meaning_kn": "ತಂದುಕೊಡು"
+        },
+        {
+          "pada_original": "स॒‌म्ऽभर॑ण‌म्",
+          "pada_kn": "ಸಂಭರಣಮ್",
+          "meaning_en": "the collection / abundance",
+          "meaning_kn": "ಸಂಗ್ರಹವನ್ನು / ಸಮೃದ್ಧಿಯನ್ನು"
+        },
+        {
+          "pada_original": "वसू᳚ना‌म्",
+          "pada_kn": "ವಸೂನಾಮ್",
+          "meaning_en": "of treasures / of wealth",
+          "meaning_kn": "ಸಂಪತ್ತುಗಳ / ವಸುಗಳ"
+        }
+      ],
+      "full_meaning_en": "O Indra, shatter and destroy the enemies in distress, those mortals who plot against us. Keep far away the malice of the reviler. Bring to us a vast collection of treasures.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಕಷ್ಟಕಾಲದಲ್ಲಿ ಶತ್ರುಗಳನ್ನು ಪುಡಿಪುಡಿಮಾಡಿ ನಾಶಮಾಡು, ಯಾರು ನಮ್ಮ ವಿರುದ್ಧ ಪಿತೂರಿ ಮಾಡುತ್ತಾರೋ ಅಂಥ ಮರ್ತ್ಯರನ್ನು ನಾಶಮಾಡು. ನಿಂದಕನ ದುಷ್ಟತನವನ್ನು ದೂರವಿಡು. ನಮಗೆ ಅಪಾರವಾದ ಸಂಪತ್ತನ್ನು ತಂದುಕೊಡು.",
+      "rig_time_s": 17.357,
+      "Insight_en": "The enemies mentioned are not merely external foes but the internal obstacles that hinder spiritual progress: desires (कामना), attachments (राग), and ignorance (अविद्या). Indra represents the divine power that shatters these inner impediments, leading to the accumulation of spiritual wealth (अध्यात्मिक वसु).",
+      "Insight_kn": "ಹೇಳಲಾದ ಶತ್ರುಗಳು ಕೇವಲ ಬಾಹ್ಯ ವೈರಿಗಳಲ್ಲ, ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅಡ್ಡಿಯುಂಟುಮಾಡುವ ಆಂತರಿಕ ಅಡೆತಡೆಗಳು: ಬಯಕೆಗಳು (ಕಾಮನಾ), ಬಾಂಧವ್ಯಗಳು (ರಾಗ), ಮತ್ತು ಅಜ್ಞಾನ (ಅವಿದ್ಯಾ). ಇಂದ್ರನು ಈ ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು ಭೇದಿಸುವ ದೈವಿಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಸಂಪತ್ತಿನ (ಆಧ್ಯಾತ್ಮಿಕ ವಸು) ಸಂಗ್ರಹಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S25_104-3_6",
+      "mandala": 7,
+      "sukta": 25,
+      "ric_index": 3,
+      "rig_lines": [
+        "श॒तं ते᳚ शिप्रिन्नू॒तयः॑ सु॒दासे᳚ स॒हस्रं॒ शंसा᳚, उ॒त रा॒तिर॑स्तु |",
+        "ज॒हि वध᳚र्व॒नुषो॒ मर्त्य॑स्या॒स्मे द्यु॒म्नमधि॒ रत्नं᳚ च धेहि ||"
+      ],
+      "pre_splits": [
+        "श॒त‌म्",
+        "ते॒",
+        "शि॒प्रि॒न्",
+        "ऊ॒तयः॑",
+        "सु॒ऽदासे᳚",
+        "स॒हस्र᳚‌म्",
+        "शंसाः᳚",
+        "उ॒त",
+        "रा॒तिः",
+        "अ॒स्तु॒",
+        "ज॒हि",
+        "वधः॑",
+        "व॒नुषः॑",
+        "मर्त्य॑स्य",
+        "अ॒स्मे इति॑",
+        "द्यु॒म्न‌म्",
+        "अधि॑",
+        "रत्न᳚‌म्",
+        "च॒",
+        "धे॒हि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "श॒त‌म्",
+          "pada_kn": "ಶತಮ್",
+          "meaning_en": "a hundred",
+          "meaning_kn": "ನೂರು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "शि॒प्रि॒न्",
+          "pada_kn": "ಶಿಪ್ರಿನ್",
+          "meaning_en": "O one with fine jaws/helmet (Indra)",
+          "meaning_kn": "ಓ ಸುಂದರ ದವಡೆಯುಳ್ಳವನೇ (ಇಂದ್ರನೇ)"
+        },
+        {
+          "pada_original": "ऊ॒तयः॑",
+          "pada_kn": "ಊತಯಃ",
+          "meaning_en": "protections / aids",
+          "meaning_kn": "ರಕ್ಷಣೆಗಳು / ಸಹಾಯಗಳು"
+        },
+        {
+          "pada_original": "सु॒ऽदासे᳚",
+          "pada_kn": "ಸುದಾಸೇ",
+          "meaning_en": "for Sudās / for the good giver",
+          "meaning_kn": "ಸುದಾಸನಿಗೆ / ಉತ್ತಮ ದಾನಿಗೆ"
+        },
+        {
+          "pada_original": "स॒हस्र᳚‌म्",
+          "pada_kn": "ಸಹಸ್ರಮ್",
+          "meaning_en": "a thousand",
+          "meaning_kn": "ಸಾವಿರ"
+        },
+        {
+          "pada_original": "शंसाः᳚",
+          "pada_kn": "ಶಂಸಾಃ",
+          "meaning_en": "praises / laudations",
+          "meaning_kn": "ಸ್ತುತಿಗಳು / ಪ್ರಶಂಸೆಗಳು"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and also",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "रा॒तिः",
+          "pada_kn": "ರಾತಿಃ",
+          "meaning_en": "gift / bounty",
+          "meaning_kn": "ದಾನ / ಕೊಡುಗೆ"
+        },
+        {
+          "pada_original": "अ॒स्तु॒",
+          "pada_kn": "ಅಸ್ತು",
+          "meaning_en": "let it be",
+          "meaning_kn": "ಇರಲಿ / ಆಗಲಿ"
+        },
+        {
+          "pada_original": "ज॒हि",
+          "pada_kn": "ಜಹಿ",
+          "meaning_en": "slay / destroy",
+          "meaning_kn": "ಸಂಹರಿಸು / ನಾಶಮಾಡು"
+        },
+        {
+          "pada_original": "वधः॑",
+          "pada_kn": "ವಧಃ",
+          "meaning_en": "the weapon",
+          "meaning_kn": "ಆಯುಧವನ್ನು"
+        },
+        {
+          "pada_original": "व॒नुषः॑",
+          "pada_kn": "ವನುಷಃ",
+          "meaning_en": "of the attacking / hostile one",
+          "meaning_kn": "ಆಕ್ರಮಣ ಮಾಡುವವನ"
+        },
+        {
+          "pada_original": "मर्त्य॑स्य",
+          "pada_kn": "ಮರ್ತ್ಯಸ್ಯ",
+          "meaning_en": "of the mortal",
+          "meaning_kn": "ಮರ್ತ್ಯನ / ಮನುಷ್ಯನ"
+        },
+        {
+          "pada_original": "अ॒स्मे इति॑",
+          "pada_kn": "ಅಸ್ಮೇ ಇತಿ",
+          "meaning_en": "upon us",
+          "meaning_kn": "ನಮ್ಮಲ್ಲಿ / ನಮಗೆ"
+        },
+        {
+          "pada_original": "द्यु॒म्न‌म्",
+          "pada_kn": "ದ್ಯುಮ್ನಮ್",
+          "meaning_en": "splendor / glory",
+          "meaning_kn": "ತೇಜಸ್ಸನ್ನು / ವೈಭವವನ್ನು"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon / over",
+          "meaning_kn": "ಮೇಲೆ / ಅಧಿಕವಾಗಿ"
+        },
+        {
+          "pada_original": "रत्न᳚‌म्",
+          "pada_kn": "ರತ್ನಮ್",
+          "meaning_en": "treasure / wealth",
+          "meaning_kn": "ರತ್ನವನ್ನು / ಸಂಪತ್ತನ್ನು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "धे॒हि॒",
+          "pada_kn": "ಧೇಹಿ",
+          "meaning_en": "bestow / place",
+          "meaning_kn": "ನೀಡು / ಸ್ಥಾಪಿಸು"
+        }
+      ],
+      "full_meaning_en": "O Indra, adorned with strong jaws, may your hundred protections and a thousand praises be for the generous Sudās, and let your munificence be evident. Vanquish the weapon of the mortal foe, and grant us brilliance and precious treasures.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಬಲಿಷ್ಠ ದವಡೆಗಳಿಂದ ಅಲಂಕೃತನಾದವನೇ, ನಿನ್ನ ನೂರು ರಕ್ಷಣೆಗಳು ಮತ್ತು ಸಾವಿರ ಸ್ತುತಿಗಳು ಉದಾರಿಯಾದ ಸುದಾಸನಿಗೆ ಇರಲಿ, ಮತ್ತು ನಿನ್ನ ಔದಾರ್ಯವು ವ್ಯಕ್ತವಾಗಲಿ. ಮರ್ತ್ಯ ವೈರಿಯ ಆಯುಧವನ್ನು ನಾಶಮಾಡು, ಮತ್ತು ನಮಗೆ ತೇಜಸ್ಸು ಮತ್ತು ಅಮೂಲ್ಯ ನಿಧಿಗಳನ್ನು ದಯಪಾಲಿಸು.",
+      "rig_time_s": 32.16,
+      "Insight_en": "The mantra invokes Indra not just as a deity of power but as a guardian bestowing prosperity and protection. The 'hundred protections' and 'thousand praises' symbolize the infinite grace available to the devotee. Destroying the 'weapon of the mortal foe' is interpreted as removing internal obstacles and negativity, thus revealing the inherent brilliance (ദ്യुम्नम) and preciousness (रत्नं) within the self. It highlights the transformative power of divine grace in unveiling inner treasures.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಇಂದ್ರನನ್ನು ಕೇವಲ ಶಕ್ತಿಯ ದೇವತೆಯಾಗಿ ಮಾತ್ರವಲ್ಲದೆ ಸಮೃದ್ಧಿ ಮತ್ತು ರಕ್ಷಣೆಯನ್ನು ನೀಡುವ ರಕ್ಷಕನಾಗಿ ಆಹ್ವಾನಿಸುತ್ತದೆ. 'ನೂರು ರಕ್ಷಣೆಗಳು' ಮತ್ತು 'ಸಾವಿರ ಸ್ತುತಿಗಳು' ಭಕ್ತರಿಗೆ ಲಭ್ಯವಿರುವ ಅನಂತ ಕರುಣೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. 'ಮರ್ತ್ಯ ವೈರಿಯ ಆಯುಧವನ್ನು' ನಾಶಮಾಡುವುದು ಎಂದರೆ ಆಂತರಿಕ ಅಡೆತಡೆಗಳು ಮತ್ತು ನಕಾರಾತ್ಮಕತೆಯನ್ನು ತೆಗೆದುಹಾಕುವುದು, ಹೀಗಾಗಿ ಸ್ವಯಂನಲ್ಲಿರುವ ಅಂತರ್ಗತ ತೇಜಸ್ಸು (ದ್ಯುಮ್ನಂ) ಮತ್ತು ಅಮೂಲ್ಯತೆಯನ್ನು (ರತ್ನಂ) ಬಹಿರಂಗಪಡಿಸುವುದು. ಇದು ಆಂತರಿಕ ಸಂಪತ್ತನ್ನು ಅನಾವರಣಗೊಳಿಸುವಲ್ಲಿ ದೈವಿಕ ಕರುಣೆಯ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S25_104-4_6",
+      "mandala": 7,
+      "sukta": 25,
+      "ric_index": 4,
+      "rig_lines": [
+        "त्वाव॑तो॒ ही᳚न्द्र॒ क्रत्वे॒, अस्मि॒ त्वाव॑तोऽवि॒तुः शू᳚र रा॒तौ |",
+        "विश्वेदहा᳚नि तविषीव उग्रँ॒, ओकः॑ कृणुष्व हरिवो॒ न म॑र्धीः ||"
+      ],
+      "pre_splits": [
+        "त्वाऽव॑तः",
+        "हि",
+        "इ॒न्द्र॒",
+        "क्रत्वे᳚",
+        "अस्मि॑",
+        "त्वाऽव॑तः",
+        "अ॒वि॒तुः",
+        "शू॒र॒",
+        "रा॒तौ",
+        "विश्वा᳚",
+        "इत्",
+        "अहा᳚नि",
+        "त॒वि॒षी॒ऽवः॒",
+        "उ॒ग्र॒",
+        "ओकः॑",
+        "कृ॒णु॒ष्व॒",
+        "ह॒रि॒ऽवः॒",
+        "न",
+        "म॒र्धीः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त्वाऽव॑तः",
+          "pada_kn": "ತ್ವಾऽವತಃ",
+          "meaning_en": "of one protected by you",
+          "meaning_kn": "ನಿನ್ನಿಂದ ರಕ್ಷಿತನಾದವನ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "for / indeed",
+          "meaning_kn": "ಏಕೆಂದರೆ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "क्रत्वे᳚",
+          "pada_kn": "ಕ್ರತ್ವೇ",
+          "meaning_en": "for the rite / for the work",
+          "meaning_kn": "ಕರ್ಮಕ್ಕಾಗಿ / ಯಜ್ಞಕಾರ್ಯಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "अस्मि॑",
+          "pada_kn": "ಅಸ್ಮಿ",
+          "meaning_en": "I am",
+          "meaning_kn": "ನಾನು ಆಗಿದ್ದೇನೆ"
+        },
+        {
+          "pada_original": "त्वाऽव॑तः",
+          "pada_kn": "ತ್ವಾऽವತಃ",
+          "meaning_en": "of one protected by you",
+          "meaning_kn": "ನಿನ್ನಿಂದ ರಕ್ಷಿತನಾದವನ"
+        },
+        {
+          "pada_original": "अ॒वि॒तुः",
+          "pada_kn": "ಅವಿತುಃ",
+          "meaning_en": "of the protector",
+          "meaning_kn": "ರಕ್ಷಕನಾದ (ನಿನ್ನ)"
+        },
+        {
+          "pada_original": "शू॒र॒",
+          "pada_kn": "ಶೂರ",
+          "meaning_en": "O hero",
+          "meaning_kn": "ಓ ಶೂರನೇ"
+        },
+        {
+          "pada_original": "रा॒तौ",
+          "pada_kn": "ರಾತೌ",
+          "meaning_en": "in (the act of) giving",
+          "meaning_kn": "ದಾನದಲ್ಲಿ / ಕೊಡುಗೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / just",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अहा᳚नि",
+          "pada_kn": "ಅಹಾನಿ",
+          "meaning_en": "days",
+          "meaning_kn": "ದಿನಗಳು"
+        },
+        {
+          "pada_original": "त॒वि॒षी॒ऽवः॒",
+          "pada_kn": "ತವಿಷೀವಃ",
+          "meaning_en": "O powerful one",
+          "meaning_kn": "ಓ ಶಕ್ತಿಶಾಲಿಯೇ"
+        },
+        {
+          "pada_original": "उ॒ग्र॒",
+          "pada_kn": "ಉಗ್ರ",
+          "meaning_en": "O mighty one",
+          "meaning_kn": "ಓ ಉಗ್ರನೇ"
+        },
+        {
+          "pada_original": "ओकः॑",
+          "pada_kn": "ಓಕಃ",
+          "meaning_en": "a home / a refuge",
+          "meaning_kn": "ಆಶ್ರಯವನ್ನು / ಮನೆಯನ್ನು"
+        },
+        {
+          "pada_original": "कृ॒णु॒ष्व॒",
+          "pada_kn": "ಕೃಣುಷ್ಟ",
+          "meaning_en": "make (for us)",
+          "meaning_kn": "ಮಾಡು / ಕಲ್ಪಿಸು"
+        },
+        {
+          "pada_original": "ह॒रि॒ऽवः॒",
+          "pada_kn": "ಹರಿವಃ",
+          "meaning_en": "O Lord of bay horses",
+          "meaning_kn": "ಓ ಹರಿಸ್ತೋಮವುಳ್ಳವನೇ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "do not",
+          "meaning_kn": "ಬೇಡ / ಮಾಡಬೇಡ"
+        },
+        {
+          "pada_original": "म॒र्धीः॒",
+          "pada_kn": "ಮರ್ಧೀಃ",
+          "meaning_en": "neglect / forsake",
+          "meaning_kn": "ಉಪೇಕ್ಷಿಸಬೇಡ / ಕೈಬಿಡಬೇಡ"
+        }
+      ],
+      "full_meaning_en": "O Indra, I am indeed protected by you in the performance of sacred rituals; O Hero, I am protected by you, the great guardian, in acts of generosity. O mighty and powerful Lord of bay horses, create a refuge for us through all the days; do not abandon us.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಪವಿತ್ರ ವಿಧಿಗಳ ನಿರ್ವಹಣೆಯಲ್ಲಿ ನಾನು ನಿನ್ನಿಂದ ರಕ್ಷಿಸಲ್ಪಟ್ಟಿದ್ದೇನೆ; ಓ ವೀರ, ಉದಾರತೆಯ ಕಾರ್ಯಗಳಲ್ಲಿ ಮಹಾನ್ ರಕ್ಷಕನಾದ ನಿನ್ನಿಂದ ನಾನು ರಕ್ಷಿಸಲ್ಪಟ್ಟಿದ್ದೇನೆ. ಓ ಶಕ್ತಿಯುತ ಮತ್ತು ಬಲಶಾಲಿಯಾದ ಕೆಂಪು ಕುದುರೆಗಳ ಒಡೆಯನೇ, ಎಲ್ಲಾ ದಿನಗಳಲ್ಲೂ ನಮಗೆ ಆಶ್ರಯವನ್ನು ಸೃಷ್ಟಿಸು; ನಮ್ಮನ್ನು ತ್ಯಜಿಸಬೇಡ.",
+      "rig_time_s": 46.22,
+      "Insight_en": "The mantra emphasizes unwavering faith and refuge in the divine. Indra represents the power of inner strength and the capacity to overcome obstacles. Seeking refuge in Indra signifies aligning oneself with cosmic order (ऋत), ensuring protection and continued spiritual growth. The plea not to be forsaken highlights the importance of maintaining a constant connection with the divine, even amidst life's challenges. This connection fosters resilience and inner peace, guiding the seeker towards self-realization (आत्मज्ञान).",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವದಲ್ಲಿ ಅಚಲವಾದ ನಂಬಿಕೆ ಮತ್ತು ಆಶ್ರಯವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಇಂದ್ರನು ಆಂತರಿಕ ಶಕ್ತಿಯ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಇಂದ್ರನಲ್ಲಿ ಆಶ್ರಯ ಪಡೆಯುವುದು ಎಂದರೆ ಕಾಸ್ಮಿಕ್ ವ್ಯವಸ್ಥೆಯೊಂದಿಗೆ (ಋತ) ತನ್ನನ್ನು ತಾನು ಜೋಡಿಸಿಕೊಳ್ಳುವುದು, ರಕ್ಷಣೆ ಮತ್ತು ನಿರಂತರ ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ಖಚಿತಪಡಿಸುವುದು. ಕೈಬಿಡಬಾರದೆಂಬ ಪ್ರಾರ್ಥನೆಯು ಜೀವನದ ಸವಾಲುಗಳ ನಡುವೆಯೂ ದೈವಿಕ ಸಂಪರ್ಕವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಈ ಸಂಪರ್ಕವು ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ ಮತ್ತು ಆಂತರಿಕ ಶಾಂತಿಯನ್ನು ಬೆಳೆಸುತ್ತದೆ, ಇದು ಸಾಧಕನನ್ನು ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ (ಆತ್ಮಜ್ಞಾನ) ಮಾರ್ಗದರ್ಶಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S25_104-5_6",
+      "mandala": 7,
+      "sukta": 25,
+      "ric_index": 5,
+      "rig_lines": [
+        "कुत्सा᳚, ए॒ते हर्य॑श्वाय शू॒षमिन्द्रे॒ सहो᳚ दे॒वजू᳚तमिया॒नाः |",
+        "स॒त्रा कृ॑धि सु॒हना᳚ शूर वृ॒त्रा व॒यं तरु॑त्राः सनुयाम॒ वाज᳚म् ||"
+      ],
+      "pre_splits": [
+        "कुत्साः᳚",
+        "ए॒ते",
+        "हर्यि॑।आश्वाय",
+        "शू॒ष‌म्",
+        "इन्द्रे᳚",
+        "सहः॑",
+        "दे॒वऽजू᳚त‌म्",
+        "इ॒या॒नाः",
+        "स॒त्रा",
+        "कृ॒धि॒",
+        "सु॒ऽहना᳚",
+        "शू॒र॒",
+        "वृ॒त्रा",
+        "व॒य‌म्",
+        "तरु॑त्राः",
+        "स॒नु॒या॒म॒",
+        "वाज᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "कुत्साः᳚",
+          "pada_kn": "ಕುತ್ಸಾಃ",
+          "meaning_en": "The Kutsas (worshippers)",
+          "meaning_kn": "ಕುತ್ಸರು (ಪೂಜಕರು)"
+        },
+        {
+          "pada_original": "ए॒ते",
+          "pada_kn": "ಏತೇ",
+          "meaning_en": "these",
+          "meaning_kn": "ಇವರು"
+        },
+        {
+          "pada_original": "हर्यि॑।आश्वाय",
+          "pada_kn": "ಹರ್ಯಶ್वाय",
+          "meaning_en": "for the one with bay horses (Indra)",
+          "meaning_kn": "ಕಪಿಲವರ್ಣದ ಕುದುರೆಗಳುಳ್ಳವನಿಗೆ (ಇಂದ್ರನಿಗೆ)"
+        },
+        {
+          "pada_original": "शू॒ष‌म्",
+          "pada_kn": "ಶೂಷಮ್",
+          "meaning_en": "strength / vigor",
+          "meaning_kn": "ಬಲವನ್ನು / ಶಕ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "इन्द्रे᳚",
+          "pada_kn": "ಇಂದ್ರೇ",
+          "meaning_en": "in Indra",
+          "meaning_kn": "ಇಂದ್ರನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "सहः॑",
+          "pada_kn": "ಸಹಃ",
+          "meaning_en": "power / might",
+          "meaning_kn": "ಸಾಮರ್ಥ್ಯವನ್ನು / ಬಲವನ್ನು"
+        },
+        {
+          "pada_original": "दे॒वऽजू᳚त‌म्",
+          "pada_kn": "ದೇವಜೂತಮ್",
+          "meaning_en": "god-impelled / divinely sent",
+          "meaning_kn": "ದೇವತೆಗಳಿಂದ ಪ್ರೇರಿತವಾದ"
+        },
+        {
+          "pada_original": "इ॒या॒नाः",
+          "pada_kn": "ಇಯಾನಾಃ",
+          "meaning_en": "seeking / desiring",
+          "meaning_kn": "ಬಯಸುವ / ಯಾಚಿಸುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "स॒त्रा",
+          "pada_kn": "ಸತ್ರಾ",
+          "meaning_en": "truly / surely",
+          "meaning_kn": "ಸತ್ಯವಾಗಿ / ಖಂಡಿತವಾಗಿ"
+        },
+        {
+          "pada_original": "कृ॒धि॒",
+          "pada_kn": "ಕೃಧಿ",
+          "meaning_en": "make / do",
+          "meaning_kn": "ಮಾಡು"
+        },
+        {
+          "pada_original": "सु॒ऽहना᳚",
+          "pada_kn": "ಸುಹನಾ",
+          "meaning_en": "easy to smite",
+          "meaning_kn": "ಸುಲಭವಾಗಿ ನಾಶಮಾಡಲು ಯೋಗ್ಯವಾದವುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "शू॒र॒",
+          "pada_kn": "ಶೂರ",
+          "meaning_en": "O hero",
+          "meaning_kn": "ಓ ಶೂರನೇ"
+        },
+        {
+          "pada_original": "वृ॒त्रा",
+          "pada_kn": "ವೃತ್ರಾ",
+          "meaning_en": "the obstacles / the enemies",
+          "meaning_kn": "ಅಡೆತಡೆಗಳನ್ನು / ಶತ್ರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "व॒य‌म्",
+          "pada_kn": "ವಯಮ್",
+          "meaning_en": "we",
+          "meaning_kn": "ನಾವು"
+        },
+        {
+          "pada_original": "तरु॑त्राः",
+          "pada_kn": "ತರುತ್ರಾಃ",
+          "meaning_en": "as conquerors / being victorious",
+          "meaning_kn": "ಜಯಶಾಲಿಗಳಾಗಿ"
+        },
+        {
+          "pada_original": "स॒नु॒या॒म॒",
+          "pada_kn": "ಸನುಯಾಮ",
+          "meaning_en": "may we win / may we obtain",
+          "meaning_kn": "ನಾವು ಗಳಿಸೋಣ / ನಾವು ಪಡೆಯುವಂತಾಗಲಿ"
+        },
+        {
+          "pada_original": "वाज᳚‌म्",
+          "pada_kn": "ವಾಜಮ್",
+          "meaning_en": "the prize / wealth / food",
+          "meaning_kn": "ಜಯಧನವನ್ನು / ಸಂಪತ್ತನ್ನು / ಅನ್ನವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "These Kutsas, desiring strength and divine might in Indra of the bay horses, offer prayers: 'O valiant Indra, truly make all obstacles easy to overcome, so that we, as victors, may attain the prize of battle.'",
+      "full_meaning_kn": "ಈ ಕುತ್ಸರು, ಕೆಂಪು ಕುದುರೆಗಳ ಒಡೆಯನಾದ ಇಂದ್ರನಲ್ಲಿ ಶಕ್ತಿಯನ್ನೂ ದೈವೀಕ ಶಕ್ತಿಯನ್ನೂ ಅಪೇಕ್ಷಿಸಿ ಪ್ರಾರ್ಥನೆಗಳನ್ನು ಸಲ್ಲಿಸುತ್ತಾರೆ: 'ಎಲೈ ಶೂರ ಇಂದ್ರನೇ, ನಿಜವಾಗಿಯೂ ಎಲ್ಲಾ ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸಲು ಸುಲಭವಾಗಿಸು, ಇದರಿಂದ ನಾವು ವಿಜಯಶಾಲಿಗಳಾಗಿ ಯುದ್ಧದ ಬಹುಮಾನವನ್ನು ಪಡೆಯಬಹುದು.'",
+      "rig_time_s": 60.17,
+      "Insight_en": "The mantra reveals the aspirant's yearning for inner strength (सहः) and divine grace (देवजूत). The 'bay horses' symbolize the senses, which Indra, the inner ruler, must control. Overcoming 'obstacles' (वृत्रा) signifies the transcendence of inner impediments to achieve the 'prize' (वाज), which is the ultimate Self-realization.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸಾಧಕನ ಆಂತರಿಕ ಶಕ್ತಿ (ಸಹಃ) ಮತ್ತು ದೈವಿಕ ಅನುಗ್ರಹಕ್ಕಾಗಿ (ದೇವಜೂತ) ಹಂಬಲವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. 'ಕೆಂಪು ಕುದುರೆಗಳು' ಇಂದ್ರಿಯಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ, ಇವುಗಳನ್ನು ಆಂತರಿಕ ಆಡಳಿತಗಾರನಾದ ಇಂದ್ರನು ನಿಯಂತ್ರಿಸಬೇಕು. 'ಅಡೆತಡೆಗಳನ್ನು' (ವೃತ್ರ) ಜಯಿಸುವುದು 'ಬಹುಮಾನವನ್ನು' (ವಾಜ) ಸಾಧಿಸಲು ಆಂತರಿಕ ಅಡಚಣೆಗಳ ಉನ್ನತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅದು ಅಂತಿಮ ಆತ್ಮ-ಸಾಕ್ಷಾತ್ಕಾರವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S25_104-6_6",
+      "mandala": 7,
+      "sukta": 25,
+      "ric_index": 6,
+      "rig_lines": [
+        "ए॒वा न॑ इन्द्र॒ वार्य॑स्य पूर्धि॒ प्र ते᳚ म॒हीं सु॑म॒तिं वे᳚विदाम |",
+        "इषं᳚ पिन्व म॒घव॑द्भ्यः सु॒वीरां᳚ यू॒यं पा᳚त स्व॒स्तिभिः॒ सदा᳚ नः ||"
+      ],
+      "pre_splits": [
+        "ए॒व",
+        "नः॒",
+        "इ॒न्द्र॒",
+        "वार्य॑स्य",
+        "पू॒र्धि॒",
+        "प्र",
+        "ते॒",
+        "म॒ही‌म्",
+        "सु॒ऽम॒ति‌म्",
+        "वे॒वि॒दा॒म॒",
+        "इष᳚‌म्",
+        "पि॒न्व॒",
+        "म॒घव॑त्ऽभ्यः",
+        "सु॒ऽवीरा᳚‌म्",
+        "यू॒य‌म्",
+        "पा॒त॒",
+        "स्व॒स्तिऽभिः॑",
+        "सदा᳚",
+        "नः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ए॒व",
+          "pada_kn": "ಏವ",
+          "meaning_en": "thus, in this manner",
+          "meaning_kn": "ಹೀಗೆ, ಈ ಪ್ರಕಾರವಾಗಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "वार्य॑स्य",
+          "pada_kn": "ವಾರ್ಯಸ್ಯ",
+          "meaning_en": "of desirable wealth",
+          "meaning_kn": "ಅಪೇಕ್ಷಣೀಯವಾದ ಧನದ"
+        },
+        {
+          "pada_original": "पू॒र्धि॒",
+          "pada_kn": "ಪೂರ್ಧಿ",
+          "meaning_en": "fill, bestow",
+          "meaning_kn": "ತುಂಬು / ಪೂರ್ಣಗೊಳಿಸು"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth, greatly",
+          "meaning_kn": "ಪ್ರಕರ್ಷವಾಗಿ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "म॒ही‌म्",
+          "pada_kn": "ಮಹೀಮ್",
+          "meaning_en": "great",
+          "meaning_kn": "ಮಹತ್ತಾದ"
+        },
+        {
+          "pada_original": "सु॒ऽम॒ति‌म्",
+          "pada_kn": "ಸುಮತಿಮ್",
+          "meaning_en": "good thought, favour",
+          "meaning_kn": "ಒಳ್ಳೆಯ ಬುದ್ಧಿಯನ್ನು / ಅನುಗ್ರಹವನ್ನು"
+        },
+        {
+          "pada_original": "वे॒वि॒दा॒म॒",
+          "pada_kn": "ವೇವಿದಾಮ",
+          "meaning_en": "may we obtain / attain",
+          "meaning_kn": "ನಾವು ಪಡೆಯೋಣ / ತಿಳಿಯೋಣ"
+        },
+        {
+          "pada_original": "इष᳚‌म्",
+          "pada_kn": "ಇಷಮ್",
+          "meaning_en": "food, nourishment",
+          "meaning_kn": "ಅನ್ನವನ್ನು / ಶಕ್ತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "पि॒न्व॒",
+          "pada_kn": "ಪಿನ್ವ",
+          "meaning_en": "make swell, cause to abound",
+          "meaning_kn": "ವೃದ್ಧಿಯಾಗುವಂತೆ ಮಾಡು / ತುಂಬಿಸು"
+        },
+        {
+          "pada_original": "म॒घव॑त्ऽभ्यः",
+          "pada_kn": "ಮಘವದ್ಭ್ಯಃ",
+          "meaning_en": "for the patrons / wealthy offerers",
+          "meaning_kn": "ಹವಿಸ್ಸನ್ನು ಅರ್ಪಿಸುವ ಯಜಮಾನರಿಗೆ"
+        },
+        {
+          "pada_original": "सु॒ऽवीरा᳚‌म्",
+          "pada_kn": "ಸುವೀರಾಮ್",
+          "meaning_en": "rich in valiant men / good heroes",
+          "meaning_kn": "ಶೂರ ಪುತ್ರರಿಂದ ಕೂಡಿದ"
+        },
+        {
+          "pada_original": "यू॒य‌म्",
+          "pada_kn": "ಯೂಯಮ್",
+          "meaning_en": "you (plural)",
+          "meaning_kn": "ನೀವು (ದೇವತೆಗಳು)"
+        },
+        {
+          "pada_original": "पा॒त॒",
+          "pada_kn": "ಪಾತ",
+          "meaning_en": "protect",
+          "meaning_kn": "ರಕ್ಷಿಸಿರಿ"
+        },
+        {
+          "pada_original": "स्व॒स्तिऽभिः॑",
+          "pada_kn": "ಸ್ವಸ್ತಿಭಿಃ",
+          "meaning_en": "with blessings / well-being",
+          "meaning_kn": "ಕಲ್ಯಾಣಗಳಿಂದ / ಮಂಗಳಗಳಿಂದ"
+        },
+        {
+          "pada_original": "सदा᳚",
+          "pada_kn": "ಸದಾ",
+          "meaning_en": "always",
+          "meaning_kn": "ಯಾವಾಗಲೂ / ಸದಾ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Indra, in this way, grant us the desirable riches. May we attain your great benevolence and wisdom. Swell forth the nourishment abundant with brave heroes for the bountiful patrons. May you, deities, ever protect us with blessings.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಈ ರೀತಿಯಲ್ಲಿ, ನಮಗೆ ಅಪೇಕ್ಷಿತ ಸಂಪತ್ತನ್ನು ದಯಪಾಲಿಸು. ನಿಮ್ಮ ಮಹಾನ್ ಅನುಗ್ರಹ ಮತ್ತು ಜ್ಞಾನವನ್ನು ನಾವು ಪಡೆಯುವಂತಾಗಲಿ. ದಾನಿಗಳಿಗಾಗಿ ಶೂರ ವೀರರಿಂದ ಸಮೃದ್ಧವಾದ ಪೋಷಣೆಯನ್ನು ವಿಸ್ತರಿಸಿ. ಹೇ ದೇವತೆಗಳೇ, ನೀವು ಯಾವಾಗಲೂ ನಿಮ್ಮ ಆಶೀರ್ವಾದದಿಂದ ನಮ್ಮನ್ನು ರಕ್ಷಿಸಿ.",
+      "rig_time_s": 75.05799999999999,
+      "Insight_en": "Indra represents the illuminating power of consciousness. The 'desirable riches' are not merely material but the treasures of inner wisdom and spiritual strength. The heroes signify the potent energies within, disciplined and directed towards self-mastery. The blessings sought are the divine grace that shields us from ignorance and suffering, leading to ultimate liberation (moksha).",
+      "Insight_kn": "ಇಂದ್ರನು ಪ್ರಜ್ಞೆಯ ಪ್ರಕಾಶಿಸುವ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಅಪೇಕ್ಷಿತ ಸಂಪತ್ತು ಕೇವಲ ಭೌತಿಕವಲ್ಲ, ಆಂತರಿಕ ಜ್ಞಾನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯ ಸಂಪತ್ತು. ವೀರರು ಆತ್ಮ-ಪರಿಣತಿಯ ಕಡೆಗೆ ಶಿಸ್ತುಬದ್ಧವಾಗಿ ಮತ್ತು ನಿರ್ದೇಶಿಸಲ್ಪಟ್ಟ ಒಳಗಿನ ಪ್ರಬಲ ಶಕ್ತಿಗಳನ್ನು ಸೂಚಿಸುತ್ತಾರೆ. ನಾವು ಕೋರುವ ಆಶೀರ್ವಾದವು ದೈವಿಕ ಅನುಗ್ರಹವಾಗಿದ್ದು ಅದು ನಮ್ಮನ್ನು ಅಜ್ಞಾನ ಮತ್ತು ದುಃಖದಿಂದ ರಕ್ಷಿಸುತ್ತದೆ, ಅಂತಿಮ ವಿಮೋಚನೆಗೆ (ಮೋಕ್ಷ) ಕಾರಣವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

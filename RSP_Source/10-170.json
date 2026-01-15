@@ -1,0 +1,552 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S170_191-1_4",
+      "mandala": 10,
+      "sukta": 170,
+      "ric_index": 1,
+      "rig_lines": [
+        "वि॒भ्राड्‌ बृ॒हत्‌ पि॑बतु सो॒म्यं मध्वायु॒र्दध॑द्य॒ज्ञप॑ता॒ववि॑ह्रुतम् |",
+        "वात॑जूतो॒ यो, अ॑भि॒रक्ष॑ति॒ त्मना᳚ प्र॒जाः पु॑पोष पुरु॒धा वि रा᳚जति ||"
+      ],
+      "pre_splits": [
+        "वि॒ऽभ्राट्",
+        "बृ॒हत्",
+        "पि॒ब॒तु॒",
+        "सो॒म्य‌म्",
+        "मधु॑",
+        "आयुः॑",
+        "दध॑त्",
+        "य॒ज्ञऽप॑तौ",
+        "अवि॑ऽहुत‌म्",
+        "वात॑ऽजूतः",
+        "यः",
+        "अ॒भि॒ऽरक्ष॑ति",
+        "त्मना᳚",
+        "प्र॒ऽजाः",
+        "पु॒पो॒ष॒",
+        "पु॒रु॒धा",
+        "वि",
+        "रा॒ज॒ति॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वि॒ऽभ्राट्",
+          "pada_kn": "ವಿಭ್ರಾಟ್",
+          "meaning_en": "shining forth / resplendent",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನನಾದ / ಹೊಳೆಯುವ"
+        },
+        {
+          "pada_original": "बृ॒हत्",
+          "pada_kn": "ಬೃಹತ್",
+          "meaning_en": "great / vast",
+          "meaning_kn": "ಮಹಾನ್ / ದೊಡ್ಡ"
+        },
+        {
+          "pada_original": "पि॒ब॒तु॒",
+          "pada_kn": "ಪಿಬತು",
+          "meaning_en": "let him drink",
+          "meaning_kn": "ಅವನು ಕುಡಿಯಲಿ"
+        },
+        {
+          "pada_original": "सो॒म्य‌म्",
+          "pada_kn": "ಸೋಮ್ಯಮ್",
+          "meaning_en": "Soma-related / Soma juice",
+          "meaning_kn": "ಸೋಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದ / ಸೋಮರಸವನ್ನು"
+        },
+        {
+          "pada_original": "मधु॑",
+          "pada_kn": "ಮಧು",
+          "meaning_en": "sweet drink / honey (here, Soma)",
+          "meaning_kn": "ಮಧುರ ಪಾನೀಯ / ಜೇನು (ಇಲ್ಲಿ ಸೋಮ)"
+        },
+        {
+          "pada_original": "आयुः॑",
+          "pada_kn": "ಆಯುಃ",
+          "meaning_en": "life / longevity",
+          "meaning_kn": "ಆಯುಷ್ಯ / ದೀರ್ಘಾಯುಷ್ಯ"
+        },
+        {
+          "pada_original": "दध॑त्",
+          "pada_kn": "ದಧತ್",
+          "meaning_en": "bestowing / granting",
+          "meaning_kn": "ನೀಡುತ್ತಾ / ದಯಪಾಲಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "य॒ज्ञऽप॑तौ",
+          "pada_kn": "ಯಜ್ಞಪತೌ",
+          "meaning_en": "upon the lord of the sacrifice / on the sacrificer",
+          "meaning_kn": "ಯಜ್ಞದ ಯಜಮಾನನಿಗೆ / ಯಜ್ಞಕರ್ತನಿಗೆ"
+        },
+        {
+          "pada_original": "अवि॑ऽहुत‌म्",
+          "pada_kn": "ಅವಿಹುತಮ್",
+          "meaning_en": "undisturbed / unimpaired",
+          "meaning_kn": "ಅಖಂಡವಾದ / ಅಡ್ಡಿಯಿಲ್ಲದ"
+        },
+        {
+          "pada_original": "वात॑ऽजूतः",
+          "pada_kn": "ವಾತಜೂತಃ",
+          "meaning_en": "impelled by the wind / swift as wind",
+          "meaning_kn": "ವಾಯುವಿನಿಂದ ಪ್ರೇರಿತನಾದ / ಗಾಳಿಯಂತೆ ವೇಗವುಳ್ಳ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "अ॒भि॒ऽरक्ष॑ति",
+          "pada_kn": "ಅಭಿರಕ್ಷತಿ",
+          "meaning_en": "protects / guards",
+          "meaning_kn": "ರಕ್ಷಿಸುತ್ತಾನೆ / ಕಾಪಾಡುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "त्मना᳚",
+          "pada_kn": "ತ್ಮನಾ",
+          "meaning_en": "by himself / spontaneously",
+          "meaning_kn": "ತಾನಾಗಿಯೇ / ಸ್ವತಃ"
+        },
+        {
+          "pada_original": "प्र॒ऽजाः",
+          "pada_kn": "ಪ್ರಜಾಃ",
+          "meaning_en": "offspring / progeny / creatures",
+          "meaning_kn": "ಪ್ರಜೆಗಳನ್ನು / ಜೀವಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "पु॒पो॒ष॒",
+          "pada_kn": "ಪುಪೋಷ",
+          "meaning_en": "nourished / sustained",
+          "meaning_kn": "ಪೋಷಿಸಿದ್ದಾನೆ / ಬೆಳೆಸಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "पु॒रु॒धा",
+          "pada_kn": "ಪುರುಧಾ",
+          "meaning_en": "in many ways / manifoldly",
+          "meaning_kn": "ನಾನಾ ವಿಧವಾಗಿ / ಅನೇಕ ಪ್ರಕಾರವಾಗಿ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "widely / distinctively",
+          "meaning_kn": "ವ್ಯಾಪಕವಾಗಿ / ವಿಶೇಷವಾಗಿ"
+        },
+        {
+          "pada_original": "रा॒ज॒ति॒",
+          "pada_kn": "ರಾಜತಿ",
+          "meaning_en": "shines / rules",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತಾನೆ / ಆಳುತ್ತಾನೆ"
+        }
+      ],
+      "full_meaning_en": "May the radiant, vast one (Agni) drink the pleasant Soma, bestowing uninterrupted life upon the sacrificer. He, propelled by Vata (wind), protects with his own self, nourishes the people in many ways, and shines forth extensively.",
+      "full_meaning_kn": "ಪ್ರಕಾಶಮಾನನಾದ, ವಿಶಾಲವಾದವನು (ಅಗ್ನಿ) ಆಹ್ಲಾದಕರವಾದ ಸೋಮವನ್ನು ಕುಡಿಯಲಿ, ಯಜ್ಞಕರ್ತನಿಗೆ ಅಡಚಣೆಯಿಲ್ಲದ ಜೀವನವನ್ನು ನೀಡಲಿ. ಅವನು, ವಾತದಿಂದ (ಗಾಳಿಯಿಂದ) ಚಲಿಸಲ್ಪಟ್ಟವನಾಗಿ, ತನ್ನ ಸ್ವಂತದಿಂದ ರಕ್ಷಿಸುತ್ತಾನೆ, ಜನರನ್ನು ಅನೇಕ ವಿಧಗಳಲ್ಲಿ ಪೋಷಿಸುತ್ತಾನೆ ಮತ್ತು ವ್ಯಾಪಕವಾಗಿ ಬೆಳಗುತ್ತಾನೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra speaks to the expansive and protective nature of अग्नि (Agni). Agni, fueled by वायु (Vayu), not only consumes the सोम (Soma) offered in sacrifice but also bestows longevity upon the sacrificer. Spiritually, it represents the inner fire that, when kindled by пра̄ṇa, protects and nourishes our being. The imagery of अग्नि spreading in many ways signifies the multifaceted nature of divine grace, illuminating the path to self-realization. It emphasizes the importance of maintaining this inner fire through discipline and devotion to realize the full potential of our spiritual selves.  The all-pervading nature of Agni highlights the interconnectedness of all things.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯ ವಿಸ್ತಾರವಾದ ಮತ್ತು ರಕ್ಷಣಾತ್ಮಕ ಸ್ವಭಾವದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ವಾಯುವು ಉತ್ತೇಜಿಸಿದ ಅಗ್ನಿಯು, ಯಜ್ಞದಲ್ಲಿ ಅರ್ಪಿತವಾದ ಸೋಮವನ್ನು ಸೇವಿಸುವುದಲ್ಲದೆ, ಯಜ್ಞಕರ್ತನಿಗೆ ದೀರ್ಘಾಯುಷ್ಯವನ್ನು ನೀಡುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ಪ್ರಾಣದಿಂದ ಪ್ರಜ್ವಲಿಸಲ್ಪಟ್ಟಾಗ ನಮ್ಮ ಅಸ್ತಿತ್ವವನ್ನು ರಕ್ಷಿಸುವ ಮತ್ತು ಪೋಷಿಸುವ ಆಂತರಿಕ ಬೆಂಕಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅಗ್ನಿಯು ಅನೇಕ ರೀತಿಯಲ್ಲಿ ಹರಡುವ ಚಿತ್ರಣವು ದೈವಿಕ ಅನುಗ್ರಹದ ಬಹುಮುಖಿ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ ಮಾರ್ಗವನ್ನು ಬೆಳಗಿಸುತ್ತದೆ. ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಭಾವದ ಸಂಪೂರ್ಣ ಸಾಮರ್ಥ್ಯವನ್ನು ಅರಿತುಕೊಳ್ಳಲು ಶಿಸ್ತು ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ ಈ ಆಂತರಿಕ ಬೆಂಕಿಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಅಗ್ನಿಯ ಸರ್ವವ್ಯಾಪಕ ಸ್ವರೂಪವು ಎಲ್ಲ ವಸ್ತುಗಳ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S170_191-2_4",
+      "mandala": 10,
+      "sukta": 170,
+      "ric_index": 2,
+      "rig_lines": [
+        "वि॒भ्राड्‌ बृ॒हत्‌ सुभृ॑तं वाज॒सात॑मं॒ धर्म᳚न्‌ दि॒वो ध॒रुणे᳚ स॒त्यमर्पि॑तम् |",
+        "अ॒मि॒त्र॒हा वृ॑त्र॒हा द॑स्यु॒हन्त॑मं॒ ज्योति॑र्जज्ञे, असुर॒हा स॑पत्न॒हा ||"
+      ],
+      "pre_splits": [
+        "वि॒ऽभ्राट्",
+        "बृ॒हत्",
+        "सुऽभृ॑त‌म्",
+        "वा॒ज॒ऽसात॑म‌म्",
+        "धर्म᳚‌म्",
+        "दि॒वः",
+        "ध॒रुणे᳚",
+        "स॒त्य‌म्",
+        "अर्पि॑त‌म्",
+        "अ॒मि॒त्र॒ऽहा",
+        "वृ॒त्र॒ऽहा",
+        "द॒स्यु॒ह‌म्ऽत॑म‌म्",
+        "ज्योतिः॑",
+        "ज॒ज्ञे॒",
+        "अ॒सु॒र॒ऽहा",
+        "स॒प॒त्न॒ऽहा"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वि॒ऽभ्राट्",
+          "pada_kn": "ವಿಭ್ರಾಟ್",
+          "meaning_en": "Resplendent / Shining brightly",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ / ತೇಜಸ್ವಿಯಾದ"
+        },
+        {
+          "pada_original": "बृ॒हत्",
+          "pada_kn": "ಬೃಹತ್",
+          "meaning_en": "Great / Vast",
+          "meaning_kn": "ದೊಡ್ಡ / ಮಹತ್ತರವಾದ"
+        },
+        {
+          "pada_original": "सुऽभृ॑त‌म्",
+          "pada_kn": "ಸುಭೃತಮ್",
+          "meaning_en": "Well-sustained / Well-supported",
+          "meaning_kn": "ಉತ್ತಮವಾಗಿ ಪೋಷಿತವಾದ / ಸುಸ್ಥಾಪಿತವಾದ"
+        },
+        {
+          "pada_original": "वा॒ज॒ऽसात॑म‌म्",
+          "pada_kn": "ವಾಜಸಾತಮಮ್",
+          "meaning_en": "Most strength-bestowing / Most victorious in contests for wealth",
+          "meaning_kn": "ಅತ್ಯಂತ ಶಕ್ತಿಪ್ರದಾಯಕವಾದ / ಸಂಪತ್ತಿಗಾಗಿನ ಸ್ಪರ್ಧೆಗಳಲ್ಲಿ ಅತ್ಯಂತ ವಿಜಯಶಾಲಿಯಾದ"
+        },
+        {
+          "pada_original": "धर्म᳚‌म्",
+          "pada_kn": "ಧರ್ಮಮ್",
+          "meaning_en": "Foundation / Support",
+          "meaning_kn": "ಆಧಾರ / ಸ್ಥಾಪನೆ"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "Of heaven / Celestial",
+          "meaning_kn": "ಸ್ವರ್ಗದ / ದಿವ್ಯವಾದ"
+        },
+        {
+          "pada_original": "ध॒रुणे᳚",
+          "pada_kn": "ಧರುಣೇ",
+          "meaning_en": "In the support / In the foundation",
+          "meaning_kn": "ಆಧಾರದಲ್ಲಿ / ಸ್ಥಾಪನೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "स॒त्य‌म्",
+          "pada_kn": "ಸತ್ಯಮ್",
+          "meaning_en": "Truth / Reality",
+          "meaning_kn": "ಸತ್ಯ / ವಾಸ್ತವ"
+        },
+        {
+          "pada_original": "अर्पि॑त‌म्",
+          "pada_kn": "ಅರ್ಪಿತಮ್",
+          "meaning_en": "Placed / Established",
+          "meaning_kn": "ಇರಿಸಲ್ಪಟ್ಟ / ಸ್ಥಾಪಿತವಾದ"
+        },
+        {
+          "pada_original": "अ॒मि॒त्र॒ऽहा",
+          "pada_kn": "ಅಮಿತ್ರಹಾ",
+          "meaning_en": "Foe-slaying / Enemy-destroying",
+          "meaning_kn": "ಶತ್ರುನಾಶಕ / ವೈರಿಹಂತಕ"
+        },
+        {
+          "pada_original": "वृ॒त्र॒ऽहा",
+          "pada_kn": "ವೃತ್ರಹಾ",
+          "meaning_en": "Vritra-slaying / Obstacle-destroying",
+          "meaning_kn": "ವೃತ್ರನನ್ನು ಸಂಹರಿಸುವ / ಅಡೆತಡೆಗಳನ್ನು ನಾಶಮಾಡುವ"
+        },
+        {
+          "pada_original": "द॒स्यु॒ह‌म्ऽत॑म‌म्",
+          "pada_kn": "ದಸ್ಯುಹಂತಮಮ್",
+          "meaning_en": "Most Dasyu-slaying / Most destructive of hostile forces",
+          "meaning_kn": "ಅತ್ಯಂತ ದಸ್ಯುನಾಶಕ / ದುಷ್ಟಶಕ್ತಿಗಳನ್ನು ಅತ್ಯಂತ ನಾಶಮಾಡುವ"
+        },
+        {
+          "pada_original": "ज्योतिः॑",
+          "pada_kn": "ಜ್ಯೋತಿಃ",
+          "meaning_en": "Light",
+          "meaning_kn": "ಜ್ಯೋತಿ / ಬೆಳಕು"
+        },
+        {
+          "pada_original": "ज॒ज्ञे॒",
+          "pada_kn": "ಜಜ್ಞೇ",
+          "meaning_en": "Was born / Manifested",
+          "meaning_kn": "ಜನಿಸಿತು / ಪ್ರಕಟವಾಯಿತು"
+        },
+        {
+          "pada_original": "अ॒सु॒र॒ऽहा",
+          "pada_kn": "ಅಸುರಹಾ",
+          "meaning_en": "Asura-slaying / Destroyer of evil spirits",
+          "meaning_kn": "ಅಸುರರನ್ನು ಸಂಹರಿಸುವ / ದುಷ್ಟಾತ್ಮಗಳನ್ನು ನಾಶಮಾಡುವ"
+        },
+        {
+          "pada_original": "स॒प॒त्न॒ऽहा",
+          "pada_kn": "ಸಪತ್ನಹಾ",
+          "meaning_en": "Rival-slaying / Competitor-destroying",
+          "meaning_kn": "ಪ್ರತಿಸ್ಪರ್ಧಿಗಳನ್ನು ಸಂಹರಿಸುವ / ವೈರಿಗಳನ್ನು ನಾಶಮಾಡುವ"
+        }
+      ],
+      "full_meaning_en": "Shining brightly, vast, well-supported, the best winner of nourishment, established as law in the support of heaven, truth is placed in Him. The slayer of enemies, the slayer of Vritra, the greatest slayer of the Dasyus, the light is born, the slayer of Asuras, the slayer of rivals.",
+      "full_meaning_kn": "ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತಿರುವ, ವಿಸ್ತಾರವಾದ, ಚೆನ್ನಾಗಿ ಬೆಂಬಲಿತವಾದ, ಪೋಷಣೆಯ ಅತ್ಯುತ್ತಮ ವಿಜೇತ, ಸ್ವರ್ಗದ ಬೆಂಬಲದಲ್ಲಿ ಕಾನೂನಾಗಿ ಸ್ಥಾಪಿತವಾಗಿದೆ, ಸತ್ಯವು ಅವನಲ್ಲಿ ಇರಿಸಲ್ಪಟ್ಟಿದೆ. ಶತ್ರುಗಳನ್ನು ಕೊಲ್ಲುವವನು, ವೃತ್ರನನ್ನು ಕೊಲ್ಲುವವನು, ದಸ್ಯುಗಳನ್ನು ಕೊಲ್ಲುವವರಲ್ಲಿ ಶ್ರೇಷ್ಠನು, ಬೆಳಕು ಹುಟ್ಟಿದೆ, ಅಸುರರನ್ನು ಕೊಲ್ಲುವವನು, ಪ್ರತಿಸ್ಪರ್ಧಿಗಳನ್ನು ಕೊಲ್ಲುವವನು.",
+      "rig_time_s": 15.316,
+      "Insight_en": "This mantra speaks of the all-encompassing nature of the divine light, अग्नि (Agni), which is not only vast and supportive but also the ultimate source of nourishment. Agni is established as the law, धर्म (dharma), in the very foundation of heaven, implying its role in maintaining cosmic order. The mantra emphasizes Agni's power to overcome all forms of negativity – enemies, वृत्र (Vritra), the Dasyus, असुर (Asuras), and rivals. The birth of this light signifies the triumph of truth and righteousness over darkness and chaos. It highlights the transformative and purifying power of Agni, which leads to spiritual liberation and enlightenment. This illumination eradicates ignorance and fosters inner peace, guiding individuals towards self-realization.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ಬೆಳಕಿನ ಸರ್ವವ್ಯಾಪಿ ಸ್ವರೂಪವನ್ನು ಮಾತನಾಡುತ್ತದೆ, ಅಗ್ನಿ ಕೇವಲ ವಿಶಾಲ ಮತ್ತು ಬೆಂಬಲದಾಯಕನಲ್ಲ, ಆದರೆ ಪೋಷಣೆಯ ಅಂತಿಮ ಮೂಲವೂ ಆಗಿದೆ. ಸ್ವರ್ಗದ ಅಡಿಪಾಯದಲ್ಲಿ ಅಗ್ನಿ ಧರ್ಮವಾಗಿ ಸ್ಥಾಪಿತವಾಗಿದೆ, ಇದು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಕಾಪಾಡುವಲ್ಲಿ ಅದರ ಪಾತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಎಲ್ಲಾ ರೀತಿಯ ಋಣಾತ್ಮಕತೆಯನ್ನು ಜಯಿಸುವ ಅಗ್ನಿಯ ಶಕ್ತಿಯನ್ನು ಮಂತ್ರವು ಒತ್ತಿಹೇಳುತ್ತದೆ - ಶತ್ರುಗಳು, ವೃತ್ರ, ದಸ್ಯುಗಳು, ಅಸುರರು ಮತ್ತು ಪ್ರತಿಸ್ಪರ್ಧಿಗಳು. ಈ ಬೆಳಕಿನ ಜನನವು ಕತ್ತಲೆ ಮತ್ತು ಅವ್ಯವಸ್ಥೆಯ ಮೇಲೆ ಸತ್ಯ ಮತ್ತು ಸದಾಚಾರದ ವಿಜಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಅಗ್ನಿಯ ಪರಿವರ್ತಕ ಮತ್ತು ಶುದ್ಧೀಕರಣ ಶಕ್ತಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ವಿಮೋಚನೆ ಮತ್ತು ಜ್ಞಾನೋದಯಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಈ ಪ್ರಕಾಶವು ಅಜ್ಞಾನವನ್ನು ಹೋಗಲಾಡಿಸುತ್ತದೆ ಮತ್ತು ಆಂತರಿಕ ಶಾಂತಿಯನ್ನು ಬೆಳೆಸುತ್ತದೆ, ವ್ಯಕ್ತಿಗಳನ್ನು ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ಮಾರ್ಗದರ್ಶಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S170_191-3_4",
+      "mandala": 10,
+      "sukta": 170,
+      "ric_index": 3,
+      "rig_lines": [
+        "इ॒दं श्रेष्ठं॒ ज्योति॑षां॒ ज्योति॑रुत्त॒मं वि॑श्व॒जिद्ध॑न॒जिदु॑च्यते बृ॒हत् |",
+        "वि॒श्व॒भ्राड्‌ भ्रा॒जो महि॒ सूर्यो᳚ दृ॒श उ॒रु प॑प्रथे॒ सह॒ ओजो॒, अच्यु॑तम् ||"
+      ],
+      "pre_splits": [
+        "इ॒द‌म्",
+        "श्रेष्ठ᳚‌म्",
+        "ज्योति॑षा‌म्",
+        "ज्योतिः॑",
+        "उ॒त्ऽत॒म‌म्",
+        "वि॒श्व॒ऽजित्",
+        "ध॒न॒ऽजित्",
+        "उ॒च्य॒ते॒",
+        "बृ॒हत्",
+        "वि॒श्व॒ऽभ्राट्",
+        "भ्रा॒जः",
+        "महि॑",
+        "सूर्यः॑",
+        "दृ॒शे",
+        "उ॒रु",
+        "प॒प्र॒थे॒",
+        "सहः॑",
+        "ओजः॑",
+        "अच्यु॑त‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इ॒द‌म्",
+          "pada_kn": "ಇದಮ್",
+          "meaning_en": "This (light/sun)",
+          "meaning_kn": "ಈ (ಬೆಳಕು/ಸೂರ್ಯ)"
+        },
+        {
+          "pada_original": "श्रेष्ठ᳚‌म्",
+          "pada_kn": "ಶ್ರೇಷ್ಠಮ್",
+          "meaning_en": "most excellent / supreme",
+          "meaning_kn": "ಅತ್ಯುತ್ತಮವಾದ / ಶ್ರೇಷ್ಠವಾದ"
+        },
+        {
+          "pada_original": "ज्योति॑षा‌म्",
+          "pada_kn": "ಜ್ಯೋತಿಷಾಮ್",
+          "meaning_en": "of lights",
+          "meaning_kn": "ಜ್ಯೋತಿಗಳಲ್ಲಿ / ಬೆಳಕುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ज्योतिः॑",
+          "pada_kn": "ಜ್ಯೋತಿಃ",
+          "meaning_en": "the light",
+          "meaning_kn": "ಬೆಳಕು / ಜ್ಯೋತಿ"
+        },
+        {
+          "pada_original": "उ॒त्ऽत॒म‌म्",
+          "pada_kn": "ಉತ್ತಮಮ್",
+          "meaning_en": "highest / best",
+          "meaning_kn": "ಅತ್ಯುನ್ನತವಾದ / ಉತ್ತಮವಾದ"
+        },
+        {
+          "pada_original": "वि॒श्व॒ऽजित्",
+          "pada_kn": "ವಿಶ್ವಜಿತ್",
+          "meaning_en": "conqueror of all / all-conquering",
+          "meaning_kn": "ಎಲ್ಲವನ್ನೂ ಜಯಿಸುವ"
+        },
+        {
+          "pada_original": "ध॒न॒ऽजित्",
+          "pada_kn": "ಧನಜಿತ್",
+          "meaning_en": "conqueror of wealth / wealth-winning",
+          "meaning_kn": "ಧನವನ್ನು ಜಯಿಸುವ / ಸಂಪತ್ತು ಗಳಿಸುವ"
+        },
+        {
+          "pada_original": "उ॒च्य॒ते॒",
+          "pada_kn": "ಉಚ್ಯತೇ",
+          "meaning_en": "is called / is declared",
+          "meaning_kn": "ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ / ಎಂದು ಹೇಳಲ್ಪಡುತ್ತದೆ"
+        },
+        {
+          "pada_original": "बृ॒हत्",
+          "pada_kn": "ಬೃಹತ್",
+          "meaning_en": "great / vast",
+          "meaning_kn": "ದೊಡ್ಡದು / ಮಹತ್ತರವಾದ"
+        },
+        {
+          "pada_original": "वि॒श्व॒ऽभ्राट्",
+          "pada_kn": "ವಿಶ್ವಭ್ರಾಟ್",
+          "meaning_en": "all-shining / illuminating all",
+          "meaning_kn": "ಎಲ್ಲವನ್ನೂ ಬೆಳಗಿಸುವ"
+        },
+        {
+          "pada_original": "भ्रा॒जः",
+          "pada_kn": "ಭ್ರಾಜಃ",
+          "meaning_en": "splendor / radiance",
+          "meaning_kn": "ತೇಜಸ್ಸು / ಪ್ರಕಾಶ"
+        },
+        {
+          "pada_original": "महि॑",
+          "pada_kn": "ಮಹಿ",
+          "meaning_en": "great / mighty",
+          "meaning_kn": "ಮಹತ್ತರವಾದ / ದೊಡ್ಡ"
+        },
+        {
+          "pada_original": "सूर्यः॑",
+          "pada_kn": "ಸೂರ್ಯಃ",
+          "meaning_en": "the Sun",
+          "meaning_kn": "ಸೂರ್ಯ"
+        },
+        {
+          "pada_original": "दृ॒शे",
+          "pada_kn": "ದೃಶೇ",
+          "meaning_en": "for seeing / for sight",
+          "meaning_kn": "ನೋಡಲು / ದೃಷ್ಟಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "उ॒रु",
+          "pada_kn": "ಉರು",
+          "meaning_en": "wide / vast",
+          "meaning_kn": "ವಿಶಾಲವಾಗಿ / ವಿಸ್ತಾರವಾಗಿ"
+        },
+        {
+          "pada_original": "प॒प्र॒थे॒",
+          "pada_kn": "ಪಪ್ರಥೇ",
+          "meaning_en": "has spread / has extended",
+          "meaning_kn": "ಹರಡಿದೆ / ವಿಸ್ತರಿಸಿದೆ"
+        },
+        {
+          "pada_original": "सहः॑",
+          "pada_kn": "ಸಹಃ",
+          "meaning_en": "strength / power",
+          "meaning_kn": "ಶಕ್ತಿ / ಬಲ"
+        },
+        {
+          "pada_original": "ओजः॑",
+          "pada_kn": "ಓಜಃ",
+          "meaning_en": "vigor / energy",
+          "meaning_kn": "ಓಜಸ್ಸು / ತೇಜಸ್ಸು"
+        },
+        {
+          "pada_original": "अच्यु॑त‌म्",
+          "pada_kn": "ಅಚ್ಯುತಮ್",
+          "meaning_en": "unmoving / unwavering / imperishable",
+          "meaning_kn": "ಅಚಲವಾದ / ನಾಶರಹಿತವಾದ"
+        }
+      ],
+      "full_meaning_en": "This is the most excellent light of lights, the highest, called the all-conquering, wealth-winning, great. Shining universally, the great Sun has spread out wide for vision, with strength, power, and immutability.",
+      "full_meaning_kn": "ಇದು ಜ್ಯೋತಿಗಳಲ್ಲೆಲ್ಲಾ ಶ್ರೇಷ್ಠವಾದ ಜ್ಯೋತಿ, ಅತ್ಯುನ್ನತವಾದದ್ದು, ಸರ್ವವನ್ನೂ ಗೆಲ್ಲುವ, ಸಂಪತ್ತನ್ನು ಗಳಿಸುವ, ಮಹತ್ತಾದುದು ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ. ವಿಶ್ವವನ್ನು ಬೆಳಗುತ್ತಾ, ಮಹಾನ್ ಸೂರ್ಯನು ದೃಷ್ಟಿಗಾಗಿ ವಿಶಾಲವಾಗಿ ಹರಡಿಕೊಂಡಿದ್ದಾನೆ, ಶಕ್ತಿ, ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಅಚಲತೆಯೊಂದಿಗೆ.",
+      "rig_time_s": 31.102,
+      "Insight_en": "This mantra celebrates the Sun (सूर्य) as the ultimate source of light and power. It highlights the Sun's all-conquering and wealth-bestowing nature, emphasizing its role in illuminating the world and providing the energy for life. Spiritually, the Sun represents the divine consciousness, the self-luminous (स्वयं प्रकाश) reality that dispels the darkness of ignorance. The mantra calls upon us to recognize this inner light and to align ourselves with its radiant energy, achieving inner strength (ओजस्) and immutability (अच्युतम्). The expansion of the Sun's light signifies the expansion of consciousness.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸೂರ್ಯನನ್ನು ಬೆಳಕಿನ ಮತ್ತು ಶಕ್ತಿಯ ಅಂತಿಮ ಮೂಲವಾಗಿ ಆಚರಿಸುತ್ತದೆ. ಇದು ಸೂರ್ಯನ ಸರ್ವವನ್ನು ಗೆಲ್ಲುವ ಮತ್ತು ಸಂಪತ್ತನ್ನು ನೀಡುವ ಸ್ವಭಾವವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಪ್ರಪಂಚವನ್ನು ಬೆಳಗಿಸುವ ಮತ್ತು ಜೀವನಕ್ಕೆ ಶಕ್ತಿಯನ್ನು ಒದಗಿಸುವ ಅದರ ಪಾತ್ರವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಸೂರ್ಯನು ದೈವಿಕ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಸ್ವಯಂ ಪ್ರಕಾಶದ ವಾಸ್ತವತೆಯು ಅಜ್ಞಾನದ ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುತ್ತದೆ. ಈ ಆಂತರಿಕ ಬೆಳಕನ್ನು ಗುರುತಿಸಲು ಮತ್ತು ಅದರ ಪ್ರಕಾಶಮಾನವಾದ ಶಕ್ತಿಯೊಂದಿಗೆ ನಮ್ಮನ್ನು ಜೋಡಿಸಲು, ಆಂತರಿಕ ಶಕ್ತಿ ಮತ್ತು ಅಚಲತೆಯನ್ನು ಸಾಧಿಸಲು ಮಂತ್ರವು ನಮ್ಮನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ಸೂರ್ಯನ ಬೆಳಕಿನ ವಿಸ್ತರಣೆಯು ಪ್ರಜ್ಞೆಯ ವಿಸ್ತರಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S170_191-4_4",
+      "mandala": 10,
+      "sukta": 170,
+      "ric_index": 4,
+      "rig_lines": [
+        "वि॒भ्राज॒ञ्ज्योति॑षा॒ स्व१॑(अ॒)रग॑च्छो रोच॒नं दि॒वः |",
+        "येने॒मा विश्वा॒ भुव॑ना॒न्याभृ॑ता वि॒श्वक᳚र्मणा वि॒श्वदे᳚व्यावता ||"
+      ],
+      "pre_splits": [
+        "वि॒ऽभ्राज᳚‌म्",
+        "ज्योति॑षा",
+        "स्वः॑",
+        "अग॑च्छः",
+        "रो॒च॒न‌म्",
+        "दि॒वः",
+        "येन॑",
+        "इ॒मा",
+        "विश्वा᳚",
+        "भुव॑नानि",
+        "आऽभृ॑ता",
+        "वि॒श्वऽक᳚र्मणा",
+        "वि॒श्वदे᳚व्यऽवता"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वि॒ऽभ्राज᳚‌म्",
+          "pada_kn": "ವಿಭ್ರಾಜಮ್",
+          "meaning_en": "Shining brightly / Resplendent",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾಗಿ ಹೊಳೆಯುವ / ತೇಜಸ್ಸಿನಿಂದ ಕೂಡಿದ"
+        },
+        {
+          "pada_original": "ज्योति॑षा",
+          "pada_kn": "ಜ್ಯೋತಿಷಾ",
+          "meaning_en": "With light / By brilliance",
+          "meaning_kn": "ಬೆಳಕಿನಿಂದ / ತೇಜಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "स्वः॑",
+          "pada_kn": "ಸ್ವಃ",
+          "meaning_en": "Heaven / The luminous realm",
+          "meaning_kn": "ಸ್ವರ್ಗವನ್ನು / ಪ್ರಕಾಶಮಾನವಾದ ಲೋಕವನ್ನು"
+        },
+        {
+          "pada_original": "अग॑च्छः",
+          "pada_kn": "ಅಗಚ್ಛಃ",
+          "meaning_en": "You went / You attained",
+          "meaning_kn": "ನೀನು ತಲುಪಿದೆ / ನೀನು ಪಡೆದೆ"
+        },
+        {
+          "pada_original": "रो॒च॒न‌म्",
+          "pada_kn": "ರೋಚನಮ್",
+          "meaning_en": "The bright region / The luminous space",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ ಪ್ರದೇಶವನ್ನು / ತೇಜೋಮಯವಾದ ಸ್ಥಳವನ್ನು"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "Of heaven / Of the sky",
+          "meaning_kn": "ಸ್ವರ್ಗದ / ಆಕಾಶದ"
+        },
+        {
+          "pada_original": "येन॑",
+          "pada_kn": "ಯೇನ",
+          "meaning_en": "By whom / By which",
+          "meaning_kn": "ಯಾರಿಂದ / ಯಾವುದರಿಂದ"
+        },
+        {
+          "pada_original": "इ॒मा",
+          "pada_kn": "ಇಮಾ",
+          "meaning_en": "These",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "All / Entire",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "भुव॑नानि",
+          "pada_kn": "ಭುವನಾನಿ",
+          "meaning_en": "Worlds / Beings",
+          "meaning_kn": "ಲೋಕಗಳು / ಸೃಷ್ಟಿಗಳು"
+        },
+        {
+          "pada_original": "आऽभृ॑ता",
+          "pada_kn": "ಆಭೃತಾ",
+          "meaning_en": "Were sustained / Were brought forth",
+          "meaning_kn": "ಪೋಷಿಸಲ್ಪಟ್ಟಿವೆ / ಸೃಷ್ಟಿಸಲ್ಪಟ್ಟಿವೆ"
+        },
+        {
+          "pada_original": "वि॒श्वऽक᳚र्मणा",
+          "pada_kn": "ವಿಶ್ವಕರ್ಮಣಾ",
+          "meaning_en": "By Vishvakarman (the all-maker)",
+          "meaning_kn": "ವಿಶ್ವಕರ್ಮನಿಂದ (ಸಕಲವನ್ನೂ ನಿರ್ಮಿಸುವವನು)"
+        },
+        {
+          "pada_original": "वि॒श्वदे᳚व्यऽवता",
+          "pada_kn": "ವಿಶ್ವದೇವ್ಯವತಾ",
+          "meaning_en": "Possessing all divine powers / Endowed with universal divine qualities",
+          "meaning_kn": "ಸಕಲ ದೈವಿಕ ಶಕ್ತಿಗಳನ್ನು ಹೊಂದಿದವನು / ವಿಶ್ವವ್ಯಾಪಿ ದೈವಿಕ ಗುಣಗಳಿಂದ ಕೂಡಿದವನು"
+        }
+      ],
+      "full_meaning_en": "O Agni, shining with your light, you have attained the radiant realm of heaven. By whom all these worlds are sustained, by Viśvakarmā, aided by all the divine powers.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿ, ನಿಮ್ಮ ಬೆಳಕಿನಿಂದ ಪ್ರಕಾಶಿಸುತ್ತಾ, ನೀವು ಸ್ವರ್ಗದ ಪ್ರಕಾಶಮಾನವಾದ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಪಡೆದಿದ್ದೀರಿ. ಯಾರಿಂದ ಈ ಎಲ್ಲಾ ಲೋಕಗಳು ಸಮರ್ಥಿಸಲ್ಪಡುತ್ತವೆಯೋ, ವಿಶ್ವಕರ್ಮನಿಂದ, ಎಲ್ಲಾ ದೈವಿಕ ಶಕ್ತಿಗಳಿಂದ ಸಹಾಯ ಪಡೆದವನಾಗಿದ್ದಾನೆ.",
+      "rig_time_s": 47.067,
+      "Insight_en": "This mantra emphasizes the radiant nature of अग्नि (Agni) and its connection to the heavens. Agni's light enables him to reach the रोचनं दिवः (rochanam divah), the radiant realm of heaven. The mantra highlights that the entire universe is sustained by विश्वकर्मा (Viśvakarmā), the divine architect, with the assistance of all the देव (deva)s. This indicates a collaborative effort in maintaining cosmic order and the importance of divine support in the creative process. The mantra underscores the interconnectedness of अग्नि (Agni), heaven, विश्वकर्मा (Viśvakarmā), and the divine forces in upholding the universe.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯ ಪ್ರಕಾಶಮಾನ ಸ್ವರೂಪ ಮತ್ತು ಸ್ವರ್ಗದೊಂದಿಗಿನ ಅದರ ಸಂಪರ್ಕವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಅಗ್ನಿಯ ಬೆಳಕು ಸ್ವರ್ಗದ ಪ್ರಕಾಶಮಾನವಾದ ಸಾಮ್ರಾಜ್ಯವಾದ ರೋಚನಂ ದಿವಃ ಅನ್ನು ತಲುಪಲು ಅವನನ್ನು ಶಕ್ತನನ್ನಾಗಿ ಮಾಡುತ್ತದೆ. ಇಡೀ ಬ್ರಹ್ಮಾಂಡವನ್ನು ದೈವಿಕ ವಾಸ್ತುಶಿಲ್ಪಿಯಾದ ವಿಶ್ವಕರ್ಮನು ಎಲ್ಲಾ ದೇವತೆಗಳ ಸಹಾಯದಿಂದ ಸಮರ್ಥಿಸುತ್ತಾನೆ ಎಂದು ಮಂತ್ರವು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಇದು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಕಾಪಾಡುವಲ್ಲಿ ಸಹಯೋಗದ ಪ್ರಯತ್ನ ಮತ್ತು ಸೃಜನಶೀಲ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ದೈವಿಕ ಬೆಂಬಲದ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಗ್ನಿ, ಸ್ವರ್ಗ, ವಿಶ್ವಕರ್ಮ ಮತ್ತು ಬ್ರಹ್ಮಾಂಡವನ್ನು ಎತ್ತಿಹಿಡಿಯುವಲ್ಲಿ ದೈವಿಕ ಶಕ್ತಿಗಳ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಮಂತ್ರವು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

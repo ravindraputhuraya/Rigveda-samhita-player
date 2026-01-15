@@ -1,0 +1,895 @@
+{
+  "mandala": 6,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M6-S71_75-1_6",
+      "mandala": 6,
+      "sukta": 71,
+      "ric_index": 1,
+      "rig_lines": [
+        "उदु॒ ष्य दे॒वः स॑वि॒ता हि॑र॒ण्यया᳚ बा॒हू, अ॑यंस्त॒ सव॑नाय सु॒क्रतुः॑ |",
+        "घृ॒तेन॑ पा॒णी, अ॒भि प्रु॑ष्णुते म॒खो युवा᳚ सु॒दक्षो॒ रज॑सो॒ विध᳚र्मणि ||"
+      ],
+      "pre_splits": [
+        "उत्",
+        "ऊँ॒ इति॑",
+        "स्यः",
+        "दे॒वः",
+        "स॒वि॒ता",
+        "हि॒र॒ण्यया᳚",
+        "बा॒हू इति॑",
+        "अ॒यं॒स्त॒",
+        "सव॑नाय",
+        "सु॒ऽक्रतुः॑",
+        "घृ॒तेन॑",
+        "पा॒णी इति॑",
+        "अ॒भि",
+        "प्रु॒ष्णु॒ते॒",
+        "म॒खः",
+        "युवा᳚",
+        "सु॒ऽदक्षः॑",
+        "रज॑सः",
+        "विऽध᳚र्मणि"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up, upwards",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "indeed (emphatic particle)",
+          "meaning_kn": "ನಿಶ್ಚಯವಾಗಿ (ಒಂದು ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "स्यः",
+          "pada_kn": "ಸ್ಯಃ",
+          "meaning_en": "that (well-known)",
+          "meaning_kn": "ಆ (ಪ್ರಸಿದ್ಧನಾದ)"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "the divine / the god",
+          "meaning_kn": "ದೇವನು / ಪ್ರಕಾಶಮಾನನು"
+        },
+        {
+          "pada_original": "स॒वि॒ता",
+          "pada_kn": "ಸವಿತಾ",
+          "meaning_en": "Savitr (the Impeller)",
+          "meaning_kn": "ಸವಿತೃ (ಪ್ರೇರಕ ದೇವತೆ)"
+        },
+        {
+          "pada_original": "हि॒र॒ण्यया᳚",
+          "pada_kn": "ಹಿರಣ್ಯಯಾ",
+          "meaning_en": "golden",
+          "meaning_kn": "ಚಿನ್ನದ / ಹಿರಣ್ಮಯವಾದ"
+        },
+        {
+          "pada_original": "बा॒हू इति॑",
+          "pada_kn": "ಬಾಹೂ ಇತಿ",
+          "meaning_en": "two arms",
+          "meaning_kn": "ಎರಡು ಬಾಹುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अ॒यं॒स्त॒",
+          "pada_kn": "ಅಯಂಸ್ತ",
+          "meaning_en": "has raised / has extended",
+          "meaning_kn": "ಎತ್ತಿದ್ದಾನೆ / ಚಾಚಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "सव॑नाय",
+          "pada_kn": "ಸವನಾಯ",
+          "meaning_en": "for impelling / for sacrifice",
+          "meaning_kn": "ಪ್ರೇರಿಸುವುದಕ್ಕಾಗಿ / ಯಜ್ಞಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "सु॒ऽक्रतुः॑",
+          "pada_kn": "ಸುಕ್ರತುಃ",
+          "meaning_en": "of good deeds / wise",
+          "meaning_kn": "ಉತ್ತಮ ಕರ್ಮವುಳ್ಳವನು / ಪ್ರಜ್ಞಾವಂತನು"
+        },
+        {
+          "pada_original": "घृ॒तेन॑",
+          "pada_kn": "ಘೃತೇನ",
+          "meaning_en": "with ghee / with light",
+          "meaning_kn": "ತುಪ್ಪದಿಂದ / ಪ್ರಕಾಶದಿಂದ"
+        },
+        {
+          "pada_original": "पा॒णी इति॑",
+          "pada_kn": "ಪಾಣೀ ಇತಿ",
+          "meaning_en": "two hands",
+          "meaning_kn": "ಎರಡು ಕೈಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards, unto",
+          "meaning_kn": "ಕಡೆಗೆ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "प्रु॒ष्णु॒ते॒",
+          "pada_kn": "ಪ್ರುಷ್ಣುತೇ",
+          "meaning_en": "he sprinkles / bedews",
+          "meaning_kn": "ಸಿಂಪಡಿಸುತ್ತಾನೆ / ತೋಯಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "म॒खः",
+          "pada_kn": "ಮಖಃ",
+          "meaning_en": "the energetic / the bountiful",
+          "meaning_kn": "ಉತ್ಸಾಹಶಾಲಿಯಾದ / ಯಜ್ಞಶೀಲನಾದ"
+        },
+        {
+          "pada_original": "युवा᳚",
+          "pada_kn": "ಯುವಾ",
+          "meaning_en": "young / youthful",
+          "meaning_kn": "ಯುವಕನಾದ"
+        },
+        {
+          "pada_original": "सु॒ऽदक्षः॑",
+          "pada_kn": "ಸುದಕ್ಷಃ",
+          "meaning_en": "very skillful / dexterous",
+          "meaning_kn": "ಅತಿ ನಿಪುಣನಾದ / ದಕ್ಷನಾದ"
+        },
+        {
+          "pada_original": "रज॑सः",
+          "pada_kn": "ರಜಸಃ",
+          "meaning_en": "of the space / of the world",
+          "meaning_kn": "ಅಂತರಿಕ್ಷದ / ಲೋಕದ"
+        },
+        {
+          "pada_original": "विऽध᳚र्मणि",
+          "pada_kn": "ವಿಧರ್ಮಣಿ",
+          "meaning_en": "in the supporting law / in the interval",
+          "meaning_kn": "ಧಾರಕವಾದ ನಿಯಮದಲ್ಲಿ / ಮಧ್ಯಪ್ರದೇಶದಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "O divine Savitr, the skillful impeller, you have lifted your golden arms upwards to energize the world for its activities. Youthful, capable, and full of energy, you anoint your hands with light while established in the supporting order of the terrestrial space.",
+      "full_meaning_kn": "ಓ ದೈವೀ ಸವಿತೃ, ಕುಶಲ ಪ್ರೇರಕ, ಜಗತ್ತನ್ನು ಅದರ ಚಟುವಟಿಕೆಗಳಿಗೆ ಉತ್ತೇಜಿಸಲು ನಿಮ್ಮ ಸುವರ್ಣ ಬಾಹುಗಳನ್ನು ಮೇಲಕ್ಕೆತ್ತಿದ್ದೀರಿ. ಯುವಕ, ಸಮರ್ಥ ಮತ್ತು ಶಕ್ತಿಯಿಂದ ತುಂಬಿರುವ ನೀವು, ಭೂಮಿಯ ಆಧಾರ ಕ್ರಮದಲ್ಲಿ ಸ್ಥಾಪಿತರಾಗಿರುವಾಗ ನಿಮ್ಮ ಕೈಗಳನ್ನು ಬೆಳಕಿನಿಂದ ಅಭಿಷೇಕಿಸುತ್ತೀರಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The golden arms of Savitr symbolize the divine will actively shaping reality. The anointing of hands with light represents the purification of action through wisdom. Skill and energy are essential attributes for manifesting the divine will in the world, grounding it in the earthly realm.",
+      "Insight_kn": "ಸವಿತೃದೇವನ ಸುವರ್ಣ ಬಾಹುಗಳು ದೈವೀಚ್ಛೆಯು ಸತ್ಯವನ್ನು ಸಕ್ರಿಯವಾಗಿ ರೂಪಿಸುವ ಸಂಕೇತವಾಗಿದೆ. ಕೈಗಳನ್ನು ಬೆಳಕಿನಿಂದ ಅಭಿಷೇಕಿಸುವುದು ಎಂದರೆ ಜ್ಞಾನದ ಮೂಲಕ ಕ್ರಿಯೆಯನ್ನು ಶುದ್ಧೀಕರಿಸುವುದು. ಪ್ರಪಂಚದಲ್ಲಿ ದೈವೀಚ್ಛೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಕೌಶಲ್ಯ ಮತ್ತು ಶಕ್ತಿಯು ಅತ್ಯಗತ್ಯ ಗುಣಲಕ್ಷಣಗಳಾಗಿವೆ, ಅವುಗಳನ್ನು ಭೂಮಿಯ ಸಾಮ್ರಾಜ್ಯದಲ್ಲಿ ಸ್ಥಾಪಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S71_75-2_6",
+      "mandala": 6,
+      "sukta": 71,
+      "ric_index": 2,
+      "rig_lines": [
+        "दे॒वस्य॑ व॒यं स॑वि॒तुः सवी᳚मनि॒ श्रेष्ठे᳚ स्याम॒ वसु॑नश्च दा॒वने᳚ |",
+        "यो विश्व॑स्य द्वि॒पदो॒ यश्चतु॑ष्पदो नि॒वेश॑ने प्रस॒वे चासि॒ भूम॑नः ||"
+      ],
+      "pre_splits": [
+        "दे॒वस्य॑",
+        "व॒य‌म्",
+        "स॒वि॒तुः",
+        "सवी᳚मनि",
+        "श्रेष्ठे᳚",
+        "स्या॒म॒",
+        "वसु॑नः",
+        "च॒",
+        "दा॒वने᳚",
+        "यः",
+        "विश्व॑स्य",
+        "द्वि॒ऽपदः॑",
+        "यः",
+        "चतुः॑ऽपदः",
+        "नि॒ऽवेश॑ने",
+        "प्र॒ऽस॒वे",
+        "च॒",
+        "असि॑",
+        "भूम॑नः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "दे॒वस्य॑",
+          "pada_kn": "ದೇವಸ್ಯ",
+          "meaning_en": "of the divine",
+          "meaning_kn": "ದೇವನಾದ"
+        },
+        {
+          "pada_original": "व॒य‌म्",
+          "pada_kn": "ವಯಮ್",
+          "meaning_en": "we",
+          "meaning_kn": "ನಾವು"
+        },
+        {
+          "pada_original": "स॒वि॒तुः",
+          "pada_kn": "ಸವಿತುಃ",
+          "meaning_en": "of Savitr",
+          "meaning_kn": "ಸವಿತೃವಿನ"
+        },
+        {
+          "pada_original": "सवी᳚मनि",
+          "pada_kn": "ಸವೀಮನಿ",
+          "meaning_en": "in the impulse / in the command",
+          "meaning_kn": "ಪ್ರೇರಣೆಯಲ್ಲಿ / ಆಜ್ಞೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "श्रेष्ठे᳚",
+          "pada_kn": "ಶ್ರೇಷ್ಠೇ",
+          "meaning_en": "in the most excellent",
+          "meaning_kn": "ಅತ್ಯುತ್ತಮವಾದ"
+        },
+        {
+          "pada_original": "स्या॒म॒",
+          "pada_kn": "ಸ್ಯಾಮ",
+          "meaning_en": "may we be",
+          "meaning_kn": "ನಾವು ಇರೋಣ"
+        },
+        {
+          "pada_original": "वसु॑नः",
+          "pada_kn": "ವಸುನಃ",
+          "meaning_en": "of wealth",
+          "meaning_kn": "ಸಂಪತ್ತಿನ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "दा॒वने᳚",
+          "pada_kn": "ದಾವನೇ",
+          "meaning_en": "for the giving / for distribution",
+          "meaning_kn": "ದಾನಕ್ಕಾಗಿ / ಹಂಚುವುದಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "विश्व॑स्य",
+          "pada_kn": "ವಿಶ್ವಸ್ಯ",
+          "meaning_en": "of all",
+          "meaning_kn": "ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "द्वि॒ऽपदः॑",
+          "pada_kn": "ದ್ವಿಪದಃ",
+          "meaning_en": "of the two-footed",
+          "meaning_kn": "ಎರಡು ಕಾಲಿನ ಜೀವಿಗಳ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "and who",
+          "meaning_kn": "ಮತ್ತು ಯಾರು"
+        },
+        {
+          "pada_original": "चतुः॑ऽपदः",
+          "pada_kn": "ಚತುಃಪದಃ",
+          "meaning_en": "of the four-footed",
+          "meaning_kn": "ನಾಲ್ಕು ಕಾಲಿನ ಜೀವಿಗಳ"
+        },
+        {
+          "pada_original": "नि॒ऽवेश॑ने",
+          "pada_kn": "ನಿವೇಶನೇ",
+          "meaning_en": "in the resting / settling down",
+          "meaning_kn": "ವಿಶ್ರಾಂತಿಯ ಕಾಲದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "प्र॒ऽस॒वे",
+          "pada_kn": "ಪ್ರಸವೇ",
+          "meaning_en": "in the activity / impelling",
+          "meaning_kn": "ಚಟುವಟಿಕೆಯ ಕಾಲದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "असि॑",
+          "pada_kn": "ಅಸಿ",
+          "meaning_en": "you are",
+          "meaning_kn": "ನೀನು ಆಗಿದ್ದೀಯೆ"
+        },
+        {
+          "pada_original": "भूम॑नः",
+          "pada_kn": "ಭೂಮನಃ",
+          "meaning_en": "the master of abundance / of all beings",
+          "meaning_kn": "ಸಮೃದ್ಧಿಯ ಒಡೆಯ / ಸಕಲ ಜೀವಿಗಳ ಒಡೆಯ"
+        }
+      ],
+      "full_meaning_en": "May we attain the supreme inspiration of the divine Savitr, and excel in the bestowal of riches. O Savitr, thou art the source of abundance for all beings, bipedal and quadrupedal, in their repose and in their activity.",
+      "full_meaning_kn": "ದೇವ ಸವಿತೃವಿನ ಶ್ರೇಷ್ಠ ಪ್ರೇರಣೆಯಲ್ಲಿ ನಾವು ಇರಲಿ, ಮತ್ತು ಸಂಪತ್ತಿನ ದಾನದಲ್ಲಿ ನಾವು ಮುಂದಾಳುಗಳಾಗಲಿ. ಓ ಸವಿತೃ, ನೀನು ಎರಡು ಕಾಲು ಮತ್ತು ನಾಲ್ಕು ಕಾಲು ಜೀವಿಗಳಿಗೆ, ಅವರ ವಿಶ್ರಾಂತಿ ಮತ್ತು ಚಟುವಟಿಕೆಯ ಸಮಯದಲ್ಲಿ ಸಮೃದ್ಧಿಯ ಒಡೆಯನಾಗಿದ್ದಿ.",
+      "rig_time_s": 15.407,
+      "Insight_en": "Savitr represents the illuminating power of consciousness that inspires both inner stillness and outward action. True prosperity lies not merely in material wealth, but in the capacity to share and uplift all beings, understanding their inherent interconnectedness within the vastness of existence. The mantra calls for alignment with this divine impulse, seeking excellence in both contemplation and benevolent action.",
+      "Insight_kn": "ಸವಿತೃವು ಪ್ರಜ್ಞೆಯ ಪ್ರಕಾಶಮಾನ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಅದು ಆಂತರಿಕ ನಿಶ್ಚಲತೆ ಮತ್ತು ಬಾಹ್ಯ ಕ್ರಿಯೆಯನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ನಿಜವಾದ ಸಮೃದ್ಧಿ ಕೇವಲ ಭೌತಿಕ ಸಂಪತ್ತಿನಲ್ಲಿಲ್ಲ, ಆದರೆ ಎಲ್ಲ ಜೀವಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವ ಮತ್ತು ಉನ್ನತೀಕರಿಸುವ ಸಾಮರ್ಥ್ಯದಲ್ಲಿದೆ, ಅಸ್ತಿತ್ವದ ವಿಶಾಲತೆಯಲ್ಲಿ ಅವುಗಳ ಅಂತರ್ಗತ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು. ಈ ದೈವಿಕ ಪ್ರಚೋದನೆಯೊಂದಿಗೆ ಹೊಂದಾಣಿಕೆಗಾಗಿ ಮಂತ್ರವು ಕರೆ ನೀಡುತ್ತದೆ, ಚಿಂತನೆ ಮತ್ತು ದಾನಶೀಲ ಕ್ರಿಯೆ ಎರಡರಲ್ಲೂ ಶ್ರೇಷ್ಠತೆಯನ್ನು ಬಯಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S71_75-3_6",
+      "mandala": 6,
+      "sukta": 71,
+      "ric_index": 3,
+      "rig_lines": [
+        "अद॑ब्धेभिः सवितः पा॒युभि॒ष्ट्वं शि॒वेभि॑र॒द्य परि॑ पाहि नो॒ गय᳚म् |",
+        "हिर᳚ण्यजिह्वः सुवि॒ताय॒ नव्य॑से॒ रक्षा॒ माकि᳚र्नो, अ॒घशं᳚स ईशत ||"
+      ],
+      "pre_splits": [
+        "अद॑ब्धेभिः",
+        "स॒वि॒त॒रिति॑",
+        "पा॒युऽभिः॑",
+        "त्व‌म्",
+        "शि॒वेभिः॑",
+        "अ॒द्य",
+        "परि॑",
+        "पा॒हि॒",
+        "नः॒",
+        "गय᳚‌म्",
+        "हिर᳚ण्यऽजिह्वः",
+        "सु॒वि॒ताय॑",
+        "नव्य॑से",
+        "रक्ष॑",
+        "माकिः॑",
+        "नः॒",
+        "अ॒घऽशं᳚सः",
+        "ई॒श॒त॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अद॑ब्धेभिः",
+          "pada_kn": "ಅದಬ್ಧೇಭಿಃ",
+          "meaning_en": "with unharmable / inviolable (protections)",
+          "meaning_kn": "ಹಿಂಸಿಸಲಾಗದ / ಮೋಸಗೊಳಿಸಲಾಗದ"
+        },
+        {
+          "pada_original": "स॒वि॒त॒रिति॑",
+          "pada_kn": "ಸವಿತರಿತಿ",
+          "meaning_en": "O Savitr!",
+          "meaning_kn": "ಓ ಸವಿತೃವೇ!"
+        },
+        {
+          "pada_original": "पा॒युऽभिः॑",
+          "pada_kn": "ಪಾಯುಭಿಃ",
+          "meaning_en": "with protections / with guardians",
+          "meaning_kn": "ರಕ್ಷಣೆಗಳಿಂದ / ರಕ್ಷಕರಿಂದ"
+        },
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "you",
+          "meaning_kn": "ನೀನು"
+        },
+        {
+          "pada_original": "शि॒वेभिः॑",
+          "pada_kn": "ಶಿವೇಭಿಃ",
+          "meaning_en": "with auspicious (protections)",
+          "meaning_kn": "ಮಂಗಳಕರವಾದವುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "अ॒द्य",
+          "pada_kn": "ಅದ್ಯ",
+          "meaning_en": "today / now",
+          "meaning_kn": "ಇಂದು / ಈಗ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / completely",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "पा॒हि॒",
+          "pada_kn": "ಪಾಹಿ",
+          "meaning_en": "protect!",
+          "meaning_kn": "ರಕ್ಷಿಸು!"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us / our",
+          "meaning_kn": "ನಮ್ಮನ್ನು / ನಮ್ಮ"
+        },
+        {
+          "pada_original": "गय᳚‌म्",
+          "pada_kn": "ಗಯಮ್",
+          "meaning_en": "household / possessions",
+          "meaning_kn": "ಗೃಹವನ್ನು / ಸಂಪತ್ತನ್ನು"
+        },
+        {
+          "pada_original": "हिर᳚ण्यऽजिह्वः",
+          "pada_kn": "ಹಿರಣ್ಯಜಿಹ್ವಃ",
+          "meaning_en": "O golden-tongued one",
+          "meaning_kn": "ಓ ಸುವರ್ಣ-ಜಿಹ್ವೆಯುಳ್ಳವನೇ"
+        },
+        {
+          "pada_original": "सु॒वि॒ताय॑",
+          "pada_kn": "ಸುವಿತಾಯ",
+          "meaning_en": "for well-being / for prosperity",
+          "meaning_kn": "ಶ್ರೇಯಸ್ಸಿಗಾಗಿ / ಸೌಭಾಗ್ಯಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "नव्य॑से",
+          "pada_kn": "ನವ್ಯಸೇ",
+          "meaning_en": "for newer / excellent",
+          "meaning_kn": "ನೂತನವಾದ / ಶ್ರೇಷ್ಠವಾದ"
+        },
+        {
+          "pada_original": "रक्ष॑",
+          "pada_kn": "ರಕ್ಷ",
+          "meaning_en": "protect!",
+          "meaning_kn": "ರಕ್ಷಿಸು!"
+        },
+        {
+          "pada_original": "माकिः॑",
+          "pada_kn": "ಮಾಕಿಃ",
+          "meaning_en": "let no one / may not",
+          "meaning_kn": "ಯಾರೂ ... ಬೇಡ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us / over us",
+          "meaning_kn": "ನಮ್ಮನ್ನು / ನಮ್ಮ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "अ॒घऽशं᳚सः",
+          "pada_kn": "ಅಘಶಂಸಃ",
+          "meaning_en": "the one who wishes evil / the malevolent one",
+          "meaning_kn": "ಪಾಪವನ್ನು ಬಯಸುವವನು / ದುಷ್ಟ ಸಂಕಲ್ಪದವನು"
+        },
+        {
+          "pada_original": "ई॒श॒त॒",
+          "pada_kn": "ಈಶತ",
+          "meaning_en": "have power over / dominate",
+          "meaning_kn": "ಅಧಿಕಾರ ಚಲಾಯಿಸಲಿ / ಒಡೆಯನಾಗಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Savitr, with your invincible and auspicious protections, safeguard our home entirely today. O golden-tongued one, for a renewed and excellent prosperity, defend us. May no evil-intentioned one hold sway over us.",
+      "full_meaning_kn": "ಓ ಸವಿತೃ, ನಿನ್ನ ಅಜೇಯ ಮತ್ತು ಶುಭಕರ ರಕ್ಷಣೆಗಳಿಂದ, ಇಂದು ನಮ್ಮ ಮನೆಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ರಕ್ಷಿಸು. ಓ ಸುವರ್ಣ-ಜಿಹ್ವೆಯುಳ್ಳವನೇ, ನವೀಕೃತ ಮತ್ತು ಅತ್ಯುತ್ತಮ ಸಮೃದ್ಧಿಗಾಗಿ ನಮ್ಮನ್ನು ಕಾಪಾಡು. ಯಾವ ದುಷ್ಟ ಸಂಕಲ್ಪವುಳ್ಳವನೂ ನಮ್ಮ ಮೇಲೆ ಅಧಿಕಾರ ನಡೆಸದಿರಲಿ.",
+      "rig_time_s": 31.063,
+      "Insight_en": "The mantra invokes Savitr for protection against internal and external negativity. The home (गयम्) symbolizes the inner space of the individual, needing constant vigilance. The golden tongue (हिरण्यजिह्वः) represents the power of truthful and benevolent speech, essential for spiritual progress. The plea against the malevolent (अघशंस) is a call to fortify oneself against destructive thoughts and influences, both from within and from the external world.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಆಂತರಿಕ ಮತ್ತು ಬಾಹ್ಯ ಋಣಾತ್ಮಕತೆಯ ವಿರುದ್ಧ ರಕ್ಷಣೆಗಾಗಿ ಸವಿತೃವನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತದೆ. ಗೃಹವು (ಗಯಮ್) ವ್ಯಕ್ತಿಯ ಆಂತರಿಕ ಜಾಗವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದಕ್ಕೆ ನಿರಂತರ ಜಾಗರೂಕತೆ ಅಗತ್ಯ. ಸುವರ್ಣ ಜಿಹ್ವೆ (ಹಿರಣ್ಯಜಿಹ್ವಃ) ಸತ್ಯ ಮತ್ತು ದಯಾಳು ಮಾತಿನ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅತ್ಯಗತ್ಯ. ದುಷ್ಟ (ಅಘಶಂಸ) ವಿರುದ್ಧದ ಪ್ರಾರ್ಥನೆಯು ವಿನಾಶಕಾರಿ ಆಲೋಚನೆಗಳು ಮತ್ತು ಪ್ರಭಾವಗಳ ವಿರುದ್ಧ ತನ್ನನ್ನು ತಾನು ಬಲಪಡಿಸಿಕೊಳ್ಳುವ ಕರೆ, ಅದು ಆಂತರಿಕವಾಗಿರಲಿ ಅಥವಾ ಬಾಹ್ಯ ಜಗತ್ತಿನಿಂದ ಬರಲಿ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S71_75-4_6",
+      "mandala": 6,
+      "sukta": 71,
+      "ric_index": 4,
+      "rig_lines": [
+        "उदु॒ ष्य दे॒वः स॑वि॒ता दमू᳚ना॒ हिर᳚ण्यपाणिः प्रतिदो॒षम॑स्थात् |",
+        "अयो᳚हनुर्यज॒तो म॒न्द्रजि॑ह्व॒ आ दा॒शुषे᳚ सुवति॒ भूरि॑ वा॒मम् ||"
+      ],
+      "pre_splits": [
+        "उत्",
+        "ऊँ॒ इति॑",
+        "स्यः",
+        "दे॒वः",
+        "स॒वि॒ता",
+        "दमू᳚नाः",
+        "हिर᳚ण्यऽपाणिः",
+        "प्र॒ति॒ऽदो॒ष‌म्",
+        "अ॒स्था॒त्",
+        "अयः॑ऽहनुः",
+        "य॒ज॒तः",
+        "म॒न्द्रऽजि॑ह्वः",
+        "आ",
+        "दा॒शुषे᳚",
+        "सु॒व॒ति॒",
+        "भूरि॑",
+        "वा॒म‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up, upwards",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಓಂ ಇತಿ",
+          "meaning_en": "(particle `उ`) indeed, and",
+          "meaning_kn": "(ಉ ಎಂಬ ನಿಪಾತ) ಮತ್ತು, ಖಂಡಿತವಾಗಿ"
+        },
+        {
+          "pada_original": "स्यः",
+          "pada_kn": "ಸ್ಯಃ",
+          "meaning_en": "that",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "दे॒वः",
+          "pada_kn": "ದೇವಃ",
+          "meaning_en": "the divine one, the god",
+          "meaning_kn": "ದೇವನು"
+        },
+        {
+          "pada_original": "स॒वि॒ता",
+          "pada_kn": "ಸವಿತಾ",
+          "meaning_en": "Savitar, the impeller",
+          "meaning_kn": "ಸವಿತೃ ದೇವನು"
+        },
+        {
+          "pada_original": "दमू᳚नाः",
+          "pada_kn": "ದಮೂನಾಃ",
+          "meaning_en": "friend of the house, indwelling",
+          "meaning_kn": "ಗೃಹದಲ್ಲಿರುವವನು, ಯಜ್ಞಗೃಹದಲ್ಲಿರುವವನು"
+        },
+        {
+          "pada_original": "हिर᳚ण्यऽपाणिः",
+          "pada_kn": "ಹಿರಣ್ಯಪಾಣಿಃ",
+          "meaning_en": "golden-handed",
+          "meaning_kn": "ಚಿನ್ನದ ಕೈಗಳುಳ್ಳವನು"
+        },
+        {
+          "pada_original": "प्र॒ति॒ऽदो॒ष‌म्",
+          "pada_kn": "ಪ್ರತಿದೋಷಮ್",
+          "meaning_en": "towards the evening, every evening",
+          "meaning_kn": "ಪ್ರತಿ ಸಂಜೆಯ ಹೊತ್ತಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒स्था॒त्",
+          "pada_kn": "ಅಸ್ಥಾತ್",
+          "meaning_en": "has stood up, has arisen",
+          "meaning_kn": "ಎದ್ದು ನಿಂತಿದ್ದಾನೆ, ಉದಯಿಸಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "अयः॑ऽहनुः",
+          "pada_kn": "ಅಯೋಹನುಃ",
+          "meaning_en": "iron-jawed, strong-jawed",
+          "meaning_kn": "ಕಬ್ಬಿಣದ ದವಡೆಯುಳ್ಳವನು"
+        },
+        {
+          "pada_original": "य॒ज॒तः",
+          "pada_kn": "ಯಜತಃ",
+          "meaning_en": "worthy of worship",
+          "meaning_kn": "ಪೂಜಾರ್ಹನಾದ"
+        },
+        {
+          "pada_original": "म॒न्द्रऽजि॑ह्वः",
+          "pada_kn": "ಮಂದ್ರಜಿಹ್ವಃ",
+          "meaning_en": "with a pleasant/joyful tongue",
+          "meaning_kn": "ಇಂಪಾದ ನಾಲಿಗೆಯುಳ್ಳವನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix) towards, grants",
+          "meaning_kn": "(ಉಪಸರ್ಗ) ಕಡೆಗೆ, ನೀಡುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "दा॒शुषे᳚",
+          "pada_kn": "ದಾಶುಷೇ",
+          "meaning_en": "to the giver of oblations, to the worshipper",
+          "meaning_kn": "ಹವಿಸ್ಸನ್ನು ಅರ್ಪಿಸುವವನಿಗೆ"
+        },
+        {
+          "pada_original": "सु॒व॒ति॒",
+          "pada_kn": "ಸುವತಿ",
+          "meaning_en": "impels, grants, bestows",
+          "meaning_kn": "ಪ್ರೇರೇಪಿಸುತ್ತಾನೆ, ನೀಡುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "भूरि॑",
+          "pada_kn": "ಭೂರಿ",
+          "meaning_en": "abundant, much",
+          "meaning_kn": "ಅಪಾರವಾದ, ಬಹಳಷ್ಟು"
+        },
+        {
+          "pada_original": "वा॒म‌म्",
+          "pada_kn": "ವಾಮಮ್",
+          "meaning_en": "desirable wealth, lovely things",
+          "meaning_kn": "ಅಪೇಕ್ಷಣೀಯವಾದ ಸಂಪತ್ತನ್ನು"
+        }
+      ],
+      "full_meaning_en": "May that radiant and divine Savitar, golden-handed and the sustainer of the home, rise at the close of day. The possessor of mighty jaws, worthy of veneration, and with a delightful tongue, may He bestow abundant and cherished blessings upon the one who offers.",
+      "full_meaning_kn": "ಸುವರ್ಣ ಹಸ್ತವುಳ್ಳ, ಮನೆಯನ್ನು ಬೆಳಗುವ ದಿವ್ಯ ಸವಿತೃವು ಸಂಜೆಯ ಸಮೀಪದಲ್ಲಿ ಉದಯಿಸಲಿ. ಬಲಿಷ್ಠ ದವಡೆಗಳುಳ್ಳ, ಪೂಜ್ಯನೀಯನಾದ, ಆಹ್ಲಾದಕರ ನಾಲಿಗೆಯನ್ನು ಹೊಂದಿರುವ ಆತನು ಅರ್ಪಿಸುವವನಿಗೆ ಹೇರಳವಾದ ಮತ್ತು ಪ್ರಿಯವಾದ ವರಗಳನ್ನು ದಯಪಾಲಿಸಲಿ.",
+      "rig_time_s": 46.067,
+      "Insight_en": "The golden hands of Savitar represent the power of transformation. The ‘strong jaws’ signify the ability to overcome obstacles. The ‘delightful tongue’ embodies the sweetness of divine communication. True worship lies in offering one’s entire being, and through this surrender, abundant grace flows.",
+      "Insight_kn": "ಸವಿತೃವಿನ ಸುವರ್ಣ ಹಸ್ತಗಳು ಪರಿವರ್ತನೆಯ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. 'ಬಲಿಷ್ಠ ದವಡೆಗಳು' ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಸೂಚಿಸುತ್ತವೆ. 'ಆಹ್ಲಾದಕರ ನಾಲಿಗೆ' ದೈವಿಕ ಸಂವಹನದ ಮಾಧುರ್ಯವನ್ನು ಒಳಗೊಂಡಿದೆ. ನಿಜವಾದ ಆರಾಧನೆಯು ಒಬ್ಬರ ಇಡೀ ಅಸ್ತಿತ್ವವನ್ನು ಅರ್ಪಿಸುವುದರಲ್ಲಿ ಅಡಗಿದೆ, ಮತ್ತು ಈ ಶರಣಾಗತಿಯ ಮೂಲಕ, ಹೇರಳವಾದ ಅನುಗ್ರಹವು ಹರಿಯುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S71_75-5_6",
+      "mandala": 6,
+      "sukta": 71,
+      "ric_index": 5,
+      "rig_lines": [
+        "उदू᳚, अयाँ, उपव॒क्तेव॑ बा॒हू हि॑र॒ण्यया᳚ सवि॒ता सु॒प्रती᳚का |",
+        "दि॒वो रोहां᳚स्यरुहत्‌ पृथि॒व्या, अरी᳚रमत्‌ प॒तय॒त्‌ कच्चि॒दभ्व᳚म् ||"
+      ],
+      "pre_splits": [
+        "उत्",
+        "ऊँ॒ इति॑",
+        "अ॒या॒न्",
+        "उ॒प॒व॒क्ताऽ‌इ᳚व",
+        "बा॒हू इति॑",
+        "हि॒र॒न्यया᳚",
+        "स॒वि॒ता",
+        "सु॒ऽप्रती᳚का",
+        "दि॒वः",
+        "रोहां᳚सि",
+        "अ॒रु॒ह॒त्",
+        "पृ॒थि॒व्याः",
+        "अरी᳚रमत्",
+        "प॒तय॑त्",
+        "कत्",
+        "चि॒त्",
+        "अभ्व᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "Up, upwards",
+          "meaning_kn": "ಮೇಲೆ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "Indeed, verily",
+          "meaning_kn": "ನಿಶ್ಚಯವಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒या॒न्",
+          "pada_kn": "ಅಯಾನ್",
+          "meaning_en": "He has raised / gone",
+          "meaning_kn": "ಅವನು ಎತ್ತಿದನು / ಹೋದನು"
+        },
+        {
+          "pada_original": "उ॒प॒व॒क्ताऽ‌इ᳚व",
+          "pada_kn": "ಉಪವಕ್ತಾ ಇವ",
+          "meaning_en": "Like a reciter / invoker",
+          "meaning_kn": "ಸ್ತುತಿಕಾರನಂತೆ / ಆಹ್ವಾನಕನಂತೆ"
+        },
+        {
+          "pada_original": "बा॒हू इति॑",
+          "pada_kn": "ಬಾಹೂ ಇತಿ",
+          "meaning_en": "Two arms",
+          "meaning_kn": "ಎರಡು ಬಾಹುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "हि॒र॒न्यया᳚",
+          "pada_kn": "ಹಿರಣ್ಯಯಾ",
+          "meaning_en": "Golden",
+          "meaning_kn": "ಸುವರ್ಣಮಯವಾದ"
+        },
+        {
+          "pada_original": "स॒वि॒ता",
+          "pada_kn": "ಸವಿತಾ",
+          "meaning_en": "Savita (the Sun God)",
+          "meaning_kn": "ಸವಿತೃ (ಸೂರ್ಯದೇವ)"
+        },
+        {
+          "pada_original": "सु॒ऽप्रती᳚का",
+          "pada_kn": "ಸುಪ್ರತೀಕಾ",
+          "meaning_en": "Of beautiful form",
+          "meaning_kn": "ಸುಂದರ ರೂಪವುಳ್ಳವನು"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "Of heaven",
+          "meaning_kn": "ದ್ಯುಲೋಕದ"
+        },
+        {
+          "pada_original": "रोहां᳚सि",
+          "pada_kn": "ರೋಹಾಂಸಿ",
+          "meaning_en": "The heights / ascents",
+          "meaning_kn": "ಎತ್ತರದ ಸ್ಥಾನಗಳನ್ನು / ಶಿಖರಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अ॒रु॒ह॒त्",
+          "pada_kn": "ಅರುಹತ್",
+          "meaning_en": "He ascended",
+          "meaning_kn": "ಅವನು ಏರಿದನು"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्याः",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಃ",
+          "meaning_en": "Of the earth",
+          "meaning_kn": "ಪೃಥಿವಿಯ"
+        },
+        {
+          "pada_original": "अरी᳚रमत्",
+          "pada_kn": "ಅರೀರಮತ್",
+          "meaning_en": "He has caused to rest / stopped",
+          "meaning_kn": "ಅವನು ವಿಶ್ರಮಿಸುವಂತೆ ಮಾಡಿದನು / ನಿಲ್ಲಿಸಿದನು"
+        },
+        {
+          "pada_original": "प॒तय॑त्",
+          "pada_kn": "ಪತಯತ್",
+          "meaning_en": "That which flies / moves",
+          "meaning_kn": "ಹಾರಾಡುವ / ಚಲಿಸುವ"
+        },
+        {
+          "pada_original": "कत्",
+          "pada_kn": "ಕತ್",
+          "meaning_en": "What / which",
+          "meaning_kn": "ಯಾವುದು"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "Indeed / any (indefinite particle)",
+          "meaning_kn": "ಆದರೂ / ಯಾವುದೇ"
+        },
+        {
+          "pada_original": "अभ्व᳚‌म्",
+          "pada_kn": "ಅಭ್ವಮ್",
+          "meaning_en": "A great / vast thing",
+          "meaning_kn": "ದೊಡ್ಡ / ಬೃಹತ್ ವಸ್ತುವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Savita, beautiful of form, indeed you have raised your two golden arms upwards, like a praiser raising his hands. He has ascended the heights of heaven and earth and has brought to rest every great flying creature.",
+      "full_meaning_kn": "ಓ ಸವಿತಾ, ಸುಂದರ ರೂಪವುಳ್ಳವನೇ, ಸ್ತುತಿಸುವವನು ಕೈಗಳನ್ನು ಎತ್ತಿದಂತೆ, ನೀನು ನಿನ್ನ ಎರಡು ಸುವರ್ಣ ಬಾಹುಗಳನ್ನು ಮೇಲಕ್ಕೆತ್ತಿರುವೆ. ಅವನು ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯ ಎತ್ತರವನ್ನು ಏರಿದ್ದಾನೆ ಮತ್ತು ಪ್ರತಿಯೊಂದು ಹಾರುವ ಮಹಾನ್ ಜೀವಿಯನ್ನು ವಿಶ್ರಾಂತಿಗೆ ತಂದಿದ್ದಾನೆ.",
+      "rig_time_s": 60.482,
+      "Insight_en": "Savita (सवितृ) represents the illuminating power of consciousness. The golden arms symbolize the divine grace and creative energy extending into the manifest world. The ascent to the heights of heaven and earth signifies the integration of higher and lower realms within oneself. Bringing rest to flying creatures indicates the quieting of restless thoughts and the attainment of inner peace. It is the stilling of the 'अभ्वम्' (restless) mind.",
+      "Insight_kn": "ಸವಿತೃ ಎಂದರೆ ಪ್ರಜ್ಞೆಯ ಪ್ರಕಾಶಿಸುವ ಶಕ್ತಿ. ಸುವರ್ಣ ಬಾಹುಗಳು ದೈವಿಕ ಅನುಗ್ರಹ ಮತ್ತು ಸೃಷ್ಟಿ ಶಕ್ತಿಯನ್ನು ವ್ಯಕ್ತ ಜಗತ್ತಿಗೆ ವಿಸ್ತರಿಸುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯ ಎತ್ತರಕ್ಕೆ ಏರುವುದು ತನ್ನೊಳಗೆ ಉನ್ನತ ಮತ್ತು ಕೆಳ ಪ್ರಪಂಚಗಳ ಏಕೀಕರಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಹಾರುವ ಜೀವಿಗಳಿಗೆ ವಿಶ್ರಾಂತಿ ನೀಡುವುದು ಚಂಚಲ ಆಲೋಚನೆಗಳನ್ನು ಶಾಂತಗೊಳಿಸುವುದು ಮತ್ತು ಆಂತರಿಕ ಶಾಂತಿಯನ್ನು ಪಡೆಯುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು 'ಅಭ್ವಮ್' (ಚಂಚಲ) ಮನಸ್ಸನ್ನು ಸ್ಥಿರಗೊಳಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M6-S71_75-6_6",
+      "mandala": 6,
+      "sukta": 71,
+      "ric_index": 6,
+      "rig_lines": [
+        "वा॒मम॒द्य स॑वितर्वा॒ममु॒ श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यं᳚ सावीः |",
+        "वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे᳚र॒या धि॒या वा᳚म॒भाजः॑ स्याम ||"
+      ],
+      "pre_splits": [
+        "वा॒म‌म्",
+        "अ॒द्य",
+        "स॒वि॒तः॒",
+        "वा॒म‌म्",
+        "ऊँ॒ इति॑",
+        "श्वः",
+        "दि॒वेऽदि॑वे",
+        "वा॒म‌म्",
+        "अ॒स्मभ्य᳚‌म्",
+        "सा॒वीः॒",
+        "वा॒मस्य॑",
+        "हि",
+        "क्षय॑स्य",
+        "दे॒व॒",
+        "भूरेः᳚",
+        "अ॒या",
+        "धि॒या",
+        "वा॒म॒ऽभाजः॑",
+        "स्या॒म॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वा॒म‌म्",
+          "pada_kn": "ವಾಮಮ್",
+          "meaning_en": "desirable (wealth)",
+          "meaning_kn": "ಪ್ರಿಯವಾದ (ಸಂಪತ್ತು)"
+        },
+        {
+          "pada_original": "अ॒द्य",
+          "pada_kn": "ಅದ್ಯ",
+          "meaning_en": "today",
+          "meaning_kn": "ಇಂದು"
+        },
+        {
+          "pada_original": "स॒वि॒तः॒",
+          "pada_kn": "ಸವಿತಃ",
+          "meaning_en": "O Savitr",
+          "meaning_kn": "ಓ ಸವಿತೃವೇ"
+        },
+        {
+          "pada_original": "वा॒म‌म्",
+          "pada_kn": "ವಾಮಮ್",
+          "meaning_en": "desirable (wealth)",
+          "meaning_kn": "ಪ್ರಿಯವಾದ (ಸಂಪತ್ತು)"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "and also",
+          "meaning_kn": "ಮತ್ತು ಕೂಡ"
+        },
+        {
+          "pada_original": "श्वः",
+          "pada_kn": "ಶ್ವಃ",
+          "meaning_en": "tomorrow",
+          "meaning_kn": "ನಾಳೆ"
+        },
+        {
+          "pada_original": "दि॒वेऽदि॑वे",
+          "pada_kn": "ದಿವೇऽದಿವೇ",
+          "meaning_en": "day by day",
+          "meaning_kn": "ದಿನದಿನವೂ"
+        },
+        {
+          "pada_original": "वा॒म‌म्",
+          "pada_kn": "ವಾಮಮ್",
+          "meaning_en": "desirable (wealth)",
+          "meaning_kn": "ಪ್ರಿಯವಾದ (ಸಂಪತ್ತು)"
+        },
+        {
+          "pada_original": "अ॒स्मभ्य᳚‌म्",
+          "pada_kn": "ಅಸ್ಮಭ್ಯಮ್",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "सा॒वीः॒",
+          "pada_kn": "ಸಾವೀಃ",
+          "meaning_en": "you should grant / bestow",
+          "meaning_kn": "ನೀನು ದಯಪಾಲಿಸು"
+        },
+        {
+          "pada_original": "वा॒मस्य॑",
+          "pada_kn": "ವಾಮಸ್ಯ",
+          "meaning_en": "of the desirable",
+          "meaning_kn": "ಪ್ರಿಯವಾದದ್ದರ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "indeed / for",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿ"
+        },
+        {
+          "pada_original": "क्षय॑स्य",
+          "pada_kn": "ಕ್ಷಯಸ್ಯ",
+          "meaning_en": "of possession / dwelling",
+          "meaning_kn": "ಒಡೆತನದ / ನಿವಾಸದ"
+        },
+        {
+          "pada_original": "दे॒व॒",
+          "pada_kn": "ದೇವ",
+          "meaning_en": "O Deva (god)",
+          "meaning_kn": "ಓ ದೇವನೇ"
+        },
+        {
+          "pada_original": "भूरेः᳚",
+          "pada_kn": "ಭೂರೇಃ",
+          "meaning_en": "of the abundant",
+          "meaning_kn": "ಹೇರಳವಾದ"
+        },
+        {
+          "pada_original": "अ॒या",
+          "pada_kn": "ಅಯಾ",
+          "meaning_en": "by this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "धि॒या",
+          "pada_kn": "ಧಿಯಾ",
+          "meaning_en": "by prayer / thought",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆಯಿಂದ"
+        },
+        {
+          "pada_original": "वा॒म॒ऽभाजः॑",
+          "pada_kn": "ವಾಮऽಭಾಜಃ",
+          "meaning_en": "partakers of the desirable",
+          "meaning_kn": "ಪ್ರಿಯವಾದದ್ದರಲ್ಲಿ ಪಾಲುಗಾರರು"
+        },
+        {
+          "pada_original": "स्या॒म॒",
+          "pada_kn": "ಸ್ಯಾಮ",
+          "meaning_en": "may we be",
+          "meaning_kn": "ನಾವು ಆಗುವಂತಾಗಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Savitr, grant us desirable riches today, and grant us desirable riches tomorrow; day after day, bestow upon us what is desirable. O radiant Deva, through this prayer, may we become recipients and enjoyers of your vast and desirable treasures.",
+      "full_meaning_kn": "ಓ ಸವಿತೃ, ಇಂದು ನಮಗೆ ಅಪೇಕ್ಷಿತ ಸಂಪತ್ತನ್ನು ದಯಪಾಲಿಸು, ಮತ್ತು ನಾಳೆ ಅಪೇಕ್ಷಿತ ಸಂಪತ್ತನ್ನು ದಯಪಾಲಿಸು; ದಿನದ ನಂತರ ದಿನ, ನಮಗೆ ಅಪೇಕ್ಷಿತವಾದುದನ್ನು ಕರುಣಿಸು. ಓ ತೇಜಸ್ವಿ ದೇವ, ಈ ಪ್ರಾರ್ಥನೆಯ ಮೂಲಕ, ನಾವು ನಿಮ್ಮ ವಿಶಾಲವಾದ ಮತ್ತು ಅಪೇಕ್ಷಣೀಯ ನಿಧಿಗಳ ಸ್ವೀಕರಿಸುವವರು ಮತ್ತು ಅನುಭವಿಸುವವರಾಗೋಣ.",
+      "rig_time_s": 76.502,
+      "Insight_en": "The mantra seeks not just material wealth (वाम), but also spiritual abundance from Savitr, the impeller. It emphasizes the continuous, day-by-day effort (दिवे दिवे) required to partake in the divine gifts. True वाम is realized through sincere prayer (धिया) and devotion, transforming us into sharers (वामभाजः) of the divine prosperity, both internal and external. The repetition underscores the persistence needed to cultivate inner wealth.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಕೇವಲ ಭೌತಿಕ ಸಂಪತ್ತನ್ನು (ವಾಮ) ಮಾತ್ರವಲ್ಲ, ಸವಿತೃವಿನಿಂದ ಆಧ್ಯಾತ್ಮಿಕ ಸಮೃದ್ಧಿಯನ್ನು ಸಹ ಬಯಸುತ್ತದೆ. ದೈವಿಕ ಕೊಡುಗೆಗಳಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳಲು ನಿರಂತರವಾದ, ದಿನನಿತ್ಯದ ಪ್ರಯತ್ನದ (ದಿವೇ ದಿವೇ) ಅಗತ್ಯವನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ. ನಿಜವಾದ ವಾಮವು ಪ್ರಾಮಾಣಿಕ ಪ್ರಾರ್ಥನೆ (ಧಿಯಾ) ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ ಸಾಕ್ಷಾತ್ಕಾರಗೊಳ್ಳುತ್ತದೆ, ನಮ್ಮನ್ನು ಆಂತರಿಕ ಮತ್ತು ಬಾಹ್ಯ ದೈವಿಕ ಸಮೃದ್ಧಿಯ ಪಾಲುದಾರರನ್ನಾಗಿ (ವಾಮಭಾಜಃ) ಪರಿವರ್ತಿಸುತ್ತದೆ. ಪುನರಾವರ್ತನೆಯು ಆಂತರಿಕ ಸಂಪತ್ತನ್ನು ಬೆಳೆಸಲು ಬೇಕಾದ ನಿರಂತರತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

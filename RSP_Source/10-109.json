@@ -1,0 +1,930 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S109_191-1_7",
+      "mandala": 10,
+      "sukta": 109,
+      "ric_index": 1,
+      "rig_lines": [
+        "ते᳚ऽवदन्‌ प्रथ॒मा ब्र᳚ह्मकिल्बि॒षेऽकू᳚पारः सलि॒लो मा᳚त॒रिश्वा᳚ |",
+        "वी॒ळुह॑रा॒स्तप॑ उ॒ग्रो म॑यो॒भूरापो᳚ दे॒वीः प्र॑थम॒जा, ऋ॒तेन॑ ||"
+      ],
+      "pre_splits": [
+        "ते",
+        "अ॒व॒द॒न्",
+        "प्र॒थ॒माः",
+        "ब्र॒ह्म॒ऽकि॒ल्बि॒षे",
+        "अकू᳚पारः",
+        "स॒लि॒लः",
+        "मा॒त॒रिश्वा᳚",
+        "वी॒ळुऽह॑राः",
+        "तपः॑",
+        "उ॒ग्रः",
+        "म॒यः॒ऽभूः",
+        "आपः॑",
+        "दे॒वीः",
+        "प्र॒थ॒म॒ऽजाः",
+        "ऋ॒तेन॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "They",
+          "meaning_kn": "ಅವರು"
+        },
+        {
+          "pada_original": "अ॒व॒द॒न्",
+          "pada_kn": "ಅವದನ್",
+          "meaning_en": "spoke / said",
+          "meaning_kn": "ಮಾತನಾಡಿದರು / ಹೇಳಿದರು"
+        },
+        {
+          "pada_original": "प्र॒थ॒माः",
+          "pada_kn": "ಪ್ರಥಮಾಃ",
+          "meaning_en": "the first ones / primordial",
+          "meaning_kn": "ಮೊದಲಿಗರು / ಆದ್ಯರು"
+        },
+        {
+          "pada_original": "ब्र॒ह्म॒ऽकि॒ल्बि॒षे",
+          "pada_kn": "ಬ್ರಹ್ಮಕಿಲ್ಬಿಷೇ",
+          "meaning_en": "in the transgression against sacred law",
+          "meaning_kn": "ಬ್ರಹ್ಮದೋಷದಲ್ಲಿ / ಧರ್ಮದ ಉಲ್ಲಂಘನೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अकू᳚पारः",
+          "pada_kn": "ಅಕೂಪಾರಃ",
+          "meaning_en": "Akūpāra (a deity, often identified with the ocean)",
+          "meaning_kn": "ಅಕೂಪಾರನು (ಒಬ್ಬ ದೇವತೆ, ಸಾಗರಕ್ಕೆ ಸಮಾನ)"
+        },
+        {
+          "pada_original": "स॒लि॒लः",
+          "pada_kn": "ಸಲಿಲಃ",
+          "meaning_en": "Salila (a deity, primordial waters)",
+          "meaning_kn": "ಸಲಿಲನು (ಒಬ್ಬ ದೇವತೆ, ಆದಿಜಲ)"
+        },
+        {
+          "pada_original": "मा॒त॒रिश्वा᳚",
+          "pada_kn": "ಮಾತರಿಶ್ವಾ",
+          "meaning_en": "Mātariśvā (a deity, the wind-god)",
+          "meaning_kn": "ಮಾತರಿಶ್ವನು (ಒಬ್ಬ ದೇವತೆ, ವಾಯುದೇವ)"
+        },
+        {
+          "pada_original": "वी॒ळुऽह॑राः",
+          "pada_kn": "ವೀಳುಹರಾಃ",
+          "meaning_en": "the firm-willed / strong-minded ones",
+          "meaning_kn": "ದೃಢಸಂಕಲ್ಪವುಳ್ಳವರು / ಸ್ಥಿರಚಿತ್ತರು"
+        },
+        {
+          "pada_original": "तपः॑",
+          "pada_kn": "ತಪಃ",
+          "meaning_en": "Tapas (ascetic fervor/ardor, personified)",
+          "meaning_kn": "ತಪಸ್ಸು (ತಪೋಶಕ್ತಿ, ದೇವತೆಯಾಗಿ)"
+        },
+        {
+          "pada_original": "उ॒ग्रः",
+          "pada_kn": "ಉಗ್ರಃ",
+          "meaning_en": "Ugra (the mighty one, personified)",
+          "meaning_kn": "ಉಗ್ರನು (ಭಯಂಕರನು, ದೇವತೆಯಾಗಿ)"
+        },
+        {
+          "pada_original": "म॒यः॒ऽभूः",
+          "pada_kn": "ಮಯೋಭೂಃ",
+          "meaning_en": "Mayobhū (the source of happiness, personified)",
+          "meaning_kn": "ಮಯೋಭೂ (ಸುಖದ ಮೂಲ, ದೇವತೆಯಾಗಿ)"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "the Waters / divine waters",
+          "meaning_kn": "ಜಲಗಳು / ದಿವ್ಯಜಲಗಳು"
+        },
+        {
+          "pada_original": "दे॒वीः",
+          "pada_kn": "ದೇವೀಃ",
+          "meaning_en": "the divine ones / goddesses",
+          "meaning_kn": "ದೇವತೆಗಳು / ದಿವ್ಯವಾದವುಗಳು"
+        },
+        {
+          "pada_original": "प्र॒थ॒म॒ऽजाः",
+          "pada_kn": "ಪ್ರಥಮಜಾಃ",
+          "meaning_en": "the first-born",
+          "meaning_kn": "ಮೊದಲು ಹುಟ್ಟಿದವರು / ಆದಿಜರು"
+        },
+        {
+          "pada_original": "ऋ॒तेन॑",
+          "pada_kn": "ಋತೇನ",
+          "meaning_en": "by truth / by cosmic order",
+          "meaning_kn": "ಸತ್ಯದಿಂದ / ಋತದಿಂದ"
+        }
+      ],
+      "full_meaning_en": "They spoke first concerning the sin against Brahman: the boundless ocean, the wind, the mighty bearers, the fierce heat, the source of joy, the divine waters first born with truth.",
+      "full_meaning_kn": "ಅವರು ಬ್ರಹ್ಮದ ವಿರುದ್ಧದ ಪಾಪದ ಬಗ್ಗೆ ಮೊದಲು ಮಾತನಾಡಿದರು: ಮಿತಿಯಿಲ್ಲದ ಸಾಗರ, ವಾಯು, ಬಲಶಾಲಿ ವಾಹಕರು, ಉಗ್ರವಾದ ಶಾಖ, ಆನಂದದ ಮೂಲ, ದೈವೀ ಜಲಗಳು ಸತ್ಯದೊಂದಿಗೆ ಮೊದಲು ಜನಿಸಿದವು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra speaks of the primordial elements and forces that emerged in the cosmos, originating from the fundamental reality of Brahman. The 'sin against Brahman' refers to a deviation from the cosmic order. The elements mentioned—ocean (अकू᳚पारः सलि॒लो), wind (मा᳚त॒रिश्वा᳚), mighty bearers (वी॒ळुह॑राः), fierce heat (तप॑ उ॒ग्रो), source of joy (म॑यो॒भूः), and divine waters (आपो᳚ दे॒वीः)—represent various manifestations of cosmic energy. These elements, 'first born with truth' (ऋ॒तेन॑), highlight the inherent connection between the material universe and the divine order. Understanding these primordial elements helps us realize the interconnectedness of everything and our responsibility to maintain cosmic harmony.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಬ್ರಹ್ಮನ ಮೂಲಭೂತ ವಾಸ್ತವದಿಂದ ಹುಟ್ಟಿಕೊಂಡ ಕಾಸ್ಮೊಸ್‌ನಲ್ಲಿ ಹೊರಹೊಮ್ಮಿದ ಪ್ರಾಚೀನ ಅಂಶಗಳು ಮತ್ತು ಶಕ್ತಿಗಳ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. 'ಬ್ರಹ್ಮನ ವಿರುದ್ಧದ ಪಾಪ' ಎಂದರೆ ಕಾಸ್ಮಿಕ್ ಕ್ರಮದಿಂದ ವಿಚಲನ. ಉಲ್ಲೇಖಿಸಲಾದ ಅಂಶಗಳು—ಸಾಗರ, ವಾಯು, ಬಲಶಾಲಿ ವಾಹಕರು, ಉಗ್ರವಾದ ಶಾಖ, ಆನಂದದ ಮೂಲ ಮತ್ತು ದೈವೀ ಜಲಗಳು—ಕಾಸ್ಮಿಕ್ ಶಕ್ತಿಯ ವಿವಿಧ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಈ ಅಂಶಗಳು, 'ಸತ್ಯದೊಂದಿಗೆ ಮೊದಲು ಜನಿಸಿದವು', ಭೌತಿಕ ಬ್ರಹ್ಮಾಂಡ ಮತ್ತು ದೈವಿಕ ಕ್ರಮದ ನಡುವಿನ ಅಂತರ್ಗತ ಸಂಪರ್ಕವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತವೆ. ಈ ಪ್ರಾಚೀನ ಅಂಶಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಎಲ್ಲದರ ಪರಸ್ಪರ ಸಂಪರ್ಕ ಮತ್ತು ಕಾಸ್ಮಿಕ್ ಸಾಮರಸ್ಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ನಮ್ಮ ಜವಾಬ್ದಾರಿಯನ್ನು ಅರಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S109_191-2_7",
+      "mandala": 10,
+      "sukta": 109,
+      "ric_index": 2,
+      "rig_lines": [
+        "सोमो॒ राजा᳚ प्रथ॒मो ब्र᳚ह्मजा॒यां पुनः॒ प्राय॑च्छ॒दहृ॑णीयमानः |",
+        "अ॒न्व॒र्ति॒ता वरु॑णो मि॒त्र आ᳚सीद॒ग्निर्होता᳚ हस्त॒गृह्या नि॑नाय ||"
+      ],
+      "pre_splits": [
+        "सोमः॑",
+        "राजा᳚",
+        "प्र॒थ॒मः",
+        "ब्र॒ह्म॒ऽजा॒या‌म्",
+        "पुन॒रिति॑",
+        "प्र",
+        "अ॒य॒च्छ॒त्",
+        "अहृ॑णीयमानः",
+        "अ॒नु॒।आ॒र्ति॒ता",
+        "वरु॑णः",
+        "मि॒त्रः",
+        "आ॒सी॒त्",
+        "अ॒ग्निः",
+        "होता᳚",
+        "ह॒स्त॒ऽगृह्य॑",
+        "आ",
+        "नि॒ना॒य॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "सोमः॑",
+          "pada_kn": "ಸೋಮಃ",
+          "meaning_en": "Soma (the Moon-god / King Soma)",
+          "meaning_kn": "ಸೋಮ (ಚಂದ್ರದೇವ / ಸೋಮರಾಜ)"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "King",
+          "meaning_kn": "ರಾಜ"
+        },
+        {
+          "pada_original": "प्र॒थ॒मः",
+          "pada_kn": "ಪ್ರಥಮಃ",
+          "meaning_en": "the first / foremost",
+          "meaning_kn": "ಮೊದಲನೆಯವನು / ಪ್ರಮುಖನು"
+        },
+        {
+          "pada_original": "ब्र॒ह्म॒ऽजा॒या‌म्",
+          "pada_kn": "ಬ್ರಹ್ಮಜಾಯಾಮ್",
+          "meaning_en": "the wife of a Brahmana",
+          "meaning_kn": "ಬ್ರಾಹ್ಮಣನ ಪತ್ನಿ"
+        },
+        {
+          "pada_original": "पुन॒रिति॑",
+          "pada_kn": "ಪುನರಿತಿ",
+          "meaning_en": "again / back",
+          "meaning_kn": "ಮತ್ತೆ / ಹಿಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "(prefix for 'gave back')",
+          "meaning_kn": "(ಹಿಂದಿರುಗಿಸಲು ಪೂರ್ವಪ್ರತ್ಯಯ)"
+        },
+        {
+          "pada_original": "अ॒य॒च्छ॒त्",
+          "pada_kn": "ಅಯಚ್ಛತ್",
+          "meaning_en": "gave / restored",
+          "meaning_kn": "ಕೊಟ್ಟನು / ಹಿಂದಿರುಗಿಸಿದನು"
+        },
+        {
+          "pada_original": "अहृ॑णीयमानः",
+          "pada_kn": "ಅಹೃಣೀಯಮಾನಃ",
+          "meaning_en": "unashamed / without hesitation",
+          "meaning_kn": "ನಾಚಿಕೆಪಡದೆ / ಸಂಕೋಚವಿಲ್ಲದೆ"
+        },
+        {
+          "pada_original": "अ॒नु॒।आ॒र्ति॒ता",
+          "pada_kn": "ಅನುವಾರ್ತಿತಾ",
+          "meaning_en": "follower / attendant",
+          "meaning_kn": "ಅನುಸರಿಸುವವನು / ಸಹಾಯಕನು"
+        },
+        {
+          "pada_original": "वरु॑णः",
+          "pada_kn": "ವರುಣಃ",
+          "meaning_en": "Varuna (the god)",
+          "meaning_kn": "ವರುಣ (ದೇವನು)"
+        },
+        {
+          "pada_original": "मि॒त्रः",
+          "pada_kn": "ಮಿತ್ರಃ",
+          "meaning_en": "Mitra (the god)",
+          "meaning_kn": "ಮಿತ್ರ (ದೇವನು)"
+        },
+        {
+          "pada_original": "आ॒सी॒त्",
+          "pada_kn": "ಆಸೀತ್",
+          "meaning_en": "was / became",
+          "meaning_kn": "ಆಗಿದ್ದನು / ಆದನು"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ (ಅಗ್ನಿದೇವ)"
+        },
+        {
+          "pada_original": "होता᳚",
+          "pada_kn": "ಹೋತಾ",
+          "meaning_en": "the Hotar priest",
+          "meaning_kn": "ಹೋತೃ ಪುರೋಹಿತ"
+        },
+        {
+          "pada_original": "ह॒स्त॒ऽगृह्य॑",
+          "pada_kn": "ಹಸ್ತಗೃಹ್ಯ",
+          "meaning_en": "having taken by the hand",
+          "meaning_kn": "ಕೈ ಹಿಡಿದು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix for 'led')",
+          "meaning_kn": "(ಕರೆದುಕೊಂಡು ಹೋಗಲು ಪೂರ್ವಪ್ರತ್ಯಯ)"
+        },
+        {
+          "pada_original": "नि॒ना॒य॒",
+          "pada_kn": "ನಿನಾಯ",
+          "meaning_en": "led / conducted",
+          "meaning_kn": "ಕರೆದುಕೊಂಡು ಹೋದನು / ನಡೆಸಿದನು"
+        }
+      ],
+      "full_meaning_en": "King Soma, the first, returned the wife of the Brahman, without hesitation. Varuna followed, Mitra was seated nearby, and Agni, the offerer, led her by the hand.",
+      "full_meaning_kn": "ಸೋಮ ರಾಜನು ಮೊದಲಿಗನಾಗಿ ಬ್ರಾಹ್మణನ ಹೆಂಡತಿಯನ್ನು ಹಿಂಜರಿಕೆಯಿಲ್ಲದೆ ಹಿಂದಿರುಗಿಸಿದನು. ವರುಣನು ಹಿಂಬಾಲಿಸಿದನು, ಮಿತ್ರನು ಹತ್ತಿರದಲ್ಲಿ ಕುಳಿತಿದ್ದನು, ಮತ್ತು ಅಗ್ನಿ ಅರ್ಪಕನು ಅವಳನ್ನು ಕೈಯಿಂದ ಕರೆದೊಯ್ದನು.",
+      "rig_time_s": 16.035,
+      "Insight_en": "This mantra highlights the importance of righteousness and the consequences of violating dharma. Soma, representing the moon and the divine nectar, sets an example by returning the wife of the Brahman, emphasizing the sanctity of marriage and the sin of adultery. Varuna (वरुण), Mitra (मित्र), and Agni (अग्नि) witness and sanction this act, representing cosmic order, friendship, and sacrificial fire, respectively. The return signifies atonement and the restoration of balance in the universe. It exemplifies the power of repentance and the essential role of divine law in human affairs, teaching us to respect boundaries and uphold justice.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಧರ್ಮದ ಮಹತ್ವ ಮತ್ತು ಧರ್ಮವನ್ನು ಉಲ್ಲಂಘಿಸುವುದರ ಪರಿಣಾಮಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಚಂದ್ರ ಮತ್ತು ದೈವಿಕ ಅಮೃತವನ್ನು ಪ್ರತಿನಿಧಿಸುವ ಸೋಮನು ಬ್ರಾಹ್ಮಣನ ಹೆಂಡತಿಯನ್ನು ಹಿಂದಿರುಗಿಸುವ ಮೂಲಕ ಒಂದು ಉದಾಹರಣೆಯನ್ನು ನೀಡುತ್ತಾನೆ, ಇದು ವಿವಾಹದ ಪಾವಿತ್ರ್ಯತೆ ಮತ್ತು ವ್ಯಭಿಚಾರದ ಪಾಪವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ವರುಣ, ಮಿತ್ರ ಮತ್ತು ಅಗ್ನಿ ಈ ಕಾರ್ಯವನ್ನು ವೀಕ್ಷಿಸುತ್ತಾರೆ ಮತ್ತು ಅನುಮೋದಿಸುತ್ತಾರೆ, ಇದು ಕ್ರಮವಾಗಿ ಕಾಸ್ಮಿಕ್ ಕ್ರಮ, ಸ್ನೇಹ ಮತ್ತು ತ್ಯಾಗದ ಬೆಂಕಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಹಿಂತಿರುಗುವುದು ಪ್ರಾಯಶ್ಚಿತ್ತ ಮತ್ತು ಬ್ರಹ್ಮಾಂಡದಲ್ಲಿ ಸಮತೋಲನವನ್ನು ಪುನಃಸ್ಥಾಪಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಪಶ್ಚಾತ್ತಾಪದ ಶಕ್ತಿ ಮತ್ತು ಮಾನವ ವ್ಯವಹಾರಗಳಲ್ಲಿ ದೈವಿಕ ಕಾನೂನಿನ ಅಗತ್ಯ ಪಾತ್ರವನ್ನು ಉದಾಹರಿಸುತ್ತದೆ, ಇದು ಗಡಿಗಳನ್ನು ಗೌರವಿಸಲು ಮತ್ತು ನ್ಯಾಯವನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ನಮಗೆ ಕಲಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S109_191-3_7",
+      "mandala": 10,
+      "sukta": 109,
+      "ric_index": 3,
+      "rig_lines": [
+        "हस्ते᳚नै॒व ग्रा॒ह्य॑ आ॒धिर॑स्या ब्रह्मजा॒येयमिति॒ चेदवो᳚चन् |",
+        "न दू॒ताय॑ प्र॒ह्ये᳚ तस्थ ए॒षा तथा᳚ रा॒ष्ट्रं गु॑पि॒तं क्ष॒त्रिय॑स्य ||"
+      ],
+      "pre_splits": [
+        "हस्ते᳚न",
+        "ए॒व",
+        "ग्रा॒ह्यः॑",
+        "आ॒ऽधिः",
+        "अ॒स्याः॒",
+        "ब्र॒ह्म॒ऽजा॒या",
+        "इ॒य‌म्",
+        "इति॑",
+        "च॒",
+        "इत्",
+        "अवो᳚चन्",
+        "न",
+        "दू॒ताय॑",
+        "प्र॒ऽह्ये᳚",
+        "त॒स्थे॒",
+        "ए॒षा",
+        "तथा᳚",
+        "रा॒ष्ट्र‌म्",
+        "गु॒पि॒त‌म्",
+        "क्ष॒त्रिय॑स्य"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "हस्ते᳚न",
+          "pada_kn": "ಹಸ್ತೇನ",
+          "meaning_en": "by hand / by force",
+          "meaning_kn": "ಕೈಯಿಂದ / ಬಲದಿಂದ"
+        },
+        {
+          "pada_original": "ए॒व",
+          "pada_kn": "ಏವ",
+          "meaning_en": "indeed / only",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಮಾತ್ರ"
+        },
+        {
+          "pada_original": "ग्रा॒ह्यः॑",
+          "pada_kn": "ಗ್ರಾಹ್ಯಃ",
+          "meaning_en": "to be seized / to be taken",
+          "meaning_kn": "ವಶಪಡಿಸಿಕೊಳ್ಳಬೇಕಾದ / ತೆಗೆದುಕೊಳ್ಳಬೇಕಾದ"
+        },
+        {
+          "pada_original": "आ॒ऽधिः",
+          "pada_kn": "ಆಧಿಃ",
+          "meaning_en": "a pledge / a deposit",
+          "meaning_kn": "ಒಂದು ಪ್ರತಿಜ್ಞೆ / ಒಂದು ಠೇವಣಿ"
+        },
+        {
+          "pada_original": "अ॒स्याः॒",
+          "pada_kn": "ಅಸ್ಯಾಃ",
+          "meaning_en": "of her / of this (woman)",
+          "meaning_kn": "ಇವಳ / ಈ (ಸ್ತ್ರೀಯ)"
+        },
+        {
+          "pada_original": "ब्र॒ह्म॒ऽजा॒या",
+          "pada_kn": "ಬ್ರಹ್ಮಜಾಯಾ",
+          "meaning_en": "a Brahmana's wife",
+          "meaning_kn": "ಬ್ರಾಹ್ಮಣನ ಪತ್ನಿ"
+        },
+        {
+          "pada_original": "इ॒य‌म्",
+          "pada_kn": "ಇಯಮ್",
+          "meaning_en": "this (feminine)",
+          "meaning_kn": "ಇವಳು / ಇದು"
+        },
+        {
+          "pada_original": "इति॑",
+          "pada_kn": "ಇತಿ",
+          "meaning_en": "thus / saying",
+          "meaning_kn": "ಹೀಗೆಂದು / ಹೇಳುತ್ತಾ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿ"
+        },
+        {
+          "pada_original": "अवो᳚चन्",
+          "pada_kn": "ಅವೋಚನ್",
+          "meaning_en": "they said / they declared",
+          "meaning_kn": "ಅವರು ಹೇಳಿದರು / ಘೋಷಿಸಿದರು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "दू॒ताय॑",
+          "pada_kn": "ದೂತಾಯ",
+          "meaning_en": "to a messenger",
+          "meaning_kn": "ದೂತನಿಗಾಗಿ / ಸಂದೇಶವಾಹಕನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "प्र॒ऽह्ये᳚",
+          "pada_kn": "ಪ್ರಹ್ಯೇ",
+          "meaning_en": "to be sent / for sending",
+          "meaning_kn": "ಕಳುಹಿಸಲು / ಕಳುಹಿಸುವುದಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "त॒स्थे॒",
+          "pada_kn": "ತಸ್ಥೇ",
+          "meaning_en": "stood / remained / was given",
+          "meaning_kn": "ನಿಂತಿತು / ಉಳಿಯಿತು / ಕೊಡಲ್ಪಟ್ಟಿತು"
+        },
+        {
+          "pada_original": "ए॒षा",
+          "pada_kn": "ಏಷಾ",
+          "meaning_en": "this (feminine)",
+          "meaning_kn": "ಇವಳು / ಇದು"
+        },
+        {
+          "pada_original": "तथा᳚",
+          "pada_kn": "ತಥಾ",
+          "meaning_en": "thus / in that manner",
+          "meaning_kn": "ಹಾಗೆಯೇ / ಆ ರೀತಿಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "रा॒ष्ट्र‌म्",
+          "pada_kn": "ರಾಷ್ಟ್ರಮ್",
+          "meaning_en": "kingdom / realm",
+          "meaning_kn": "ರಾಜ್ಯ / ಸಾಮ್ರಾಜ್ಯ"
+        },
+        {
+          "pada_original": "गु॒पि॒त‌म्",
+          "pada_kn": "ಗುಪಿತಮ್",
+          "meaning_en": "protected / guarded",
+          "meaning_kn": "ರಕ್ಷಿಸಲ್ಪಟ್ಟ / ಕಾವಲು ಕಾಯಲ್ಪಟ್ಟ"
+        },
+        {
+          "pada_original": "क्ष॒त्रिय॑स्य",
+          "pada_kn": "ಕ್ಷತ್ರಿಯಸ್ಯ",
+          "meaning_en": "of the Kshatriya / of the ruler",
+          "meaning_kn": "ಕ್ಷತ್ರಿಯನ / ಆಡಳಿತಗಾರನ"
+        }
+      ],
+      "full_meaning_en": "Indeed, the pledge is to be taken with the hand, if one should say, 'This is the wife of a Brahmin.' She does not proceed to the messenger, she stands firm; thus, the kingdom of the warrior is protected.",
+      "full_meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ, ಪ್ರತಿಜ್ಞೆಯನ್ನು ಕೈಯಿಂದ ತೆಗೆದುಕೊಳ್ಳಬೇಕು, ಒಬ್ಬನು 'ಇದು ಬ್ರಾಹ್ಮಣನ ಹೆಂಡತಿ' ಎಂದು ಹೇಳಿದರೆ. ಅವಳು ರಾಯಭಾರಿಯ ಬಳಿಗೆ ಹೋಗುವುದಿಲ್ಲ, ಅವಳು ದೃಢವಾಗಿ ನಿಲ್ಲುತ್ತಾಳೆ; ಹೀಗೆ ಕ್ಷತ್ರಿಯನ ರಾಜ್ಯವು ರಕ್ಷಿಸಲ್ಪಡುತ್ತದೆ.",
+      "rig_time_s": 31.564,
+      "Insight_en": "This mantra highlights the sanctity of marriage and the unwavering commitment expected within it, particularly for the wife of a Brahmin. The 'pledge taken with the hand' signifies a solemn vow. The wife's steadfastness ('she stands firm') mirrors the strength and stability required to uphold dharma and protect the family lineage. Spiritually, it reflects the unwavering devotion (bhakti) and loyalty (shraddha) necessary for spiritual progress. Just as the wife protects the family’s dharma, the क्षत्रिय (Kshatriya) protects the nation's dharma, emphasizing the interconnectedness of individual and societal responsibilities in upholding cosmic order (ṛta). The unwavering stance of the wife, not yielding to a messenger, symbolizes inner resolve and adherence to truth (satya).",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ವಿವಾಹದ ಪಾವಿತ್ರ್ಯತೆ ಮತ್ತು ಅದರಲ್ಲಿ ನಿರೀಕ್ಷಿತವಾದ ಅಚಲ ಬದ್ಧತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ವಿಶೇಷವಾಗಿ ಬ್ರಾಹ್ಮಣನ ಹೆಂಡತಿಗೆ. 'ಕೈಯಿಂದ ತೆಗೆದುಕೊಂಡ ಪ್ರತಿಜ್ಞೆ' ಎಂದರೆ ಗಂಭೀರವಾದ ಪ್ರತಿಜ್ಞೆ. ಹೆಂಡತಿಯ ಸ್ಥಿರತೆ ('ಅವಳು ದೃಢವಾಗಿ ನಿಲ್ಲುತ್ತಾಳೆ') ಧರ್ಮವನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮತ್ತು ಕುಟುಂಬದ ವಂಶವನ್ನು ರಕ್ಷಿಸಲು ಅಗತ್ಯವಾದ ಶಕ್ತಿ ಮತ್ತು ಸ್ಥಿರತೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅಗತ್ಯವಾದ ಅಚಲ ಭಕ್ತಿ ಮತ್ತು ನಿಷ್ಠೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಹೆಂಡತಿಯು ಕುಟುಂಬದ ಧರ್ಮವನ್ನು ರಕ್ಷಿಸುವಂತೆಯೇ, ಕ್ಷತ್ರಿಯನು ರಾಷ್ಟ್ರದ ಧರ್ಮವನ್ನು ರಕ್ಷಿಸುತ್ತಾನೆ, ವೈಯಕ್ತಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಜವಾಬ್ದಾರಿಗಳ ಅಂತರ್ಸಂಪರ್ಕವನ್ನು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು (ಋತ) ಎತ್ತಿಹಿಡಿಯುವಲ್ಲಿ ಒತ್ತಿಹೇಳುತ್ತಾನೆ. ರಾಯಭಾರಿಗೆ വഴಗದ ಹೆಂಡತಿಯು ആಂತರಿಕ സമാധാനം ಮತ್ತು സത്യಕ್ಕೆ പ്രതിബദ്ധതೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S109_191-4_7",
+      "mandala": 10,
+      "sukta": 109,
+      "ric_index": 4,
+      "rig_lines": [
+        "दे॒वा, ए॒तस्या᳚मवदन्त॒ पूर्वे᳚ सप्तऋ॒षय॒स्तप॑से॒ ये नि॑षे॒दुः |",
+        "भी॒मा जा॒या ब्रा᳚ह्म॒णस्योप॑नीता दु॒र्धां द॑धाति पर॒मे व्यो᳚मन् ||"
+      ],
+      "pre_splits": [
+        "दे॒वाः",
+        "ए॒तस्या᳚‌म्",
+        "अ॒व॒द॒न्त॒",
+        "पूर्वे᳚",
+        "स॒प्त॒ऽऋ॒षयः॑",
+        "तप॑से",
+        "ये",
+        "नि॒ऽसे॒दुः",
+        "भी॒मा",
+        "जा॒या",
+        "ब्रा॒ह्म॒णस्य॑",
+        "उप॑ऽनीता",
+        "दुः॒ऽधा‌म्",
+        "द॒धा॒ति॒",
+        "प॒र॒मे",
+        "विऽओ᳚मन्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "Gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "ए॒तस्या᳚‌म्",
+          "pada_kn": "ಏತಸ್ಯಾಮ್",
+          "meaning_en": "In this (matter/woman)",
+          "meaning_kn": "ಈ (ವಿಷಯದಲ್ಲಿ/ಸ್ತ್ರೀಯಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "अ॒व॒द॒न्त॒",
+          "pada_kn": "ಅವದನ್ತ",
+          "meaning_en": "Spoke / declared",
+          "meaning_kn": "ನುಡಿದರು / ಹೇಳಿದರು"
+        },
+        {
+          "pada_original": "पूर्वे᳚",
+          "pada_kn": "ಪೂರ್ವೇ",
+          "meaning_en": "Ancient / formerly",
+          "meaning_kn": "ಪೂರ್ವದಲ್ಲಿ / ಹಿಂದಿನ"
+        },
+        {
+          "pada_original": "स॒प्त॒ऽऋ॒षयः॑",
+          "pada_kn": "ಸಪ್ತಋಷಯಃ",
+          "meaning_en": "Seven Sages",
+          "meaning_kn": "ಸಪ್ತರ್ಷಿಗಳು"
+        },
+        {
+          "pada_original": "तप॑से",
+          "pada_kn": "ತಪಸೇ",
+          "meaning_en": "For penance / for austerity",
+          "meaning_kn": "ತಪಸ್ಸಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "Who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "नि॒ऽसे॒दुः",
+          "pada_kn": "ನಿಸೇದುಃ",
+          "meaning_en": "Sat down / settled",
+          "meaning_kn": "ಕುಳಿತರು / ನೆಲೆಸಿದರು"
+        },
+        {
+          "pada_original": "भी॒मा",
+          "pada_kn": "ಭೀಮಾ",
+          "meaning_en": "Formidable / terrible",
+          "meaning_kn": "ಭಯಂಕರವಾದ / ಭೀಮೆಯಾದ"
+        },
+        {
+          "pada_original": "जा॒या",
+          "pada_kn": "ಜಾಯಾ",
+          "meaning_en": "Wife",
+          "meaning_kn": "ಪತ್ನಿ / ಹೆಂಡತಿ"
+        },
+        {
+          "pada_original": "ब्रा॒ह्म॒णस्य॑",
+          "pada_kn": "ಬ್ರಾಹ್ಮಣಸ್ಯ",
+          "meaning_en": "Of a Brahmana / priest",
+          "meaning_kn": "ಬ್ರಾಹ್ಮಣನ"
+        },
+        {
+          "pada_original": "उप॑ऽनीता",
+          "pada_kn": "ಉಪನೀತ",
+          "meaning_en": "Brought near / initiated (into marriage)",
+          "meaning_kn": "ಉಪನೀತಳಾದ / ಮದುವೆಯಾದ"
+        },
+        {
+          "pada_original": "दुः॒ऽधा‌म्",
+          "pada_kn": "ದುರ್ಧಾಮ್",
+          "meaning_en": "A difficult burden / hard to bear",
+          "meaning_kn": "ದುರ್ಧಾರವಾದ (ಭಾರ) / ಸಹಿಸಲಸಾಧ್ಯವಾದ"
+        },
+        {
+          "pada_original": "द॒धा॒ति॒",
+          "pada_kn": "ದಧಾತಿ",
+          "meaning_en": "Bears / holds / places",
+          "meaning_kn": "ಧರಿಸುತ್ತಾಳೆ / ಇಡುತ್ತಾಳೆ"
+        },
+        {
+          "pada_original": "प॒र॒मे",
+          "pada_kn": "ಪರಮೇ",
+          "meaning_en": "In the highest",
+          "meaning_kn": "ಅತ್ಯುನ್ನತವಾದ"
+        },
+        {
+          "pada_original": "विऽओ᳚मन्",
+          "pada_kn": "ವ್ಯೋಮನ್",
+          "meaning_en": "Heaven / expanse",
+          "meaning_kn": "ಆಕಾಶದಲ್ಲಿ / ಸ್ವರ್ಗದಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "The gods spoke in this (rite); the seven ancient sages who sat down for তপস্ (tapas) (also spoke). The terrible wife of the ब्राह्मण (brāhmaṇa) being brought near, places evil in the highest heaven.",
+      "full_meaning_kn": "ದೇವತೆಗಳು ಇದರಲ್ಲಿ ಮಾತನಾಡಿದರು; ತಪಸ್ಸಿಗಾಗಿ ಕುಳಿತ ಏಳು ಪ್ರಾಚೀನ ಋಷಿಗಳು ಸಹ ಮಾತನಾಡಿದರು. ಬ್ರಾಹ್ಮಣನ ಭಯಾನಕ ಪತ್ನಿಯನ್ನು ಸಮೀಪಕ್ಕೆ ಕರೆತಂದಾಗ, ಅವಳು ಪರಮ ಆಕಾಶದಲ್ಲಿ ಕೆಡುಕನ್ನು ಇಡುತ್ತಾಳೆ.",
+      "rig_time_s": 47.933,
+      "Insight_en": "This mantra speaks of a ritual context where both gods (देवाः) and ancient sages (सप्तऋषयः) participate through speech, indicating a sacred discourse. The mention of তপস্ (tapas) highlights the austerity and spiritual discipline involved. The 'terrible wife' symbolizes negative energies or ignorance. The act of 'placing evil in the highest heaven' suggests that even the purest realms are not immune to the influence of negativity, and vigilance is required to maintain spiritual purity. It serves as a reminder to purify our thoughts and actions to prevent negativity from taking root in our consciousness.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಒಂದು ಆಚರಣೆಯ ಸಂದರ್ಭವನ್ನು ಮಾತನಾಡುತ್ತದೆ, ಅಲ್ಲಿ ದೇವರುಗಳು ಮತ್ತು ಪ್ರಾಚೀನ ಋಷಿಗಳು ಇಬ್ಬರೂ ಭಾಷಣದ ಮೂಲಕ ಭಾಗವಹಿಸುತ್ತಾರೆ, ಇದು ಪವಿತ್ರ ಪ್ರವಚನವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ತಪಸ್ಸು ಒಳಗೊಂಡಿರುವ ತಪಸ್ಸು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಶಿಸ್ತನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. 'ಭಯಾನಕ ಹೆಂಡತಿ' ನಕಾರಾತ್ಮಕ ಶಕ್ತಿಗಳು ಅಥವಾ ಅಜ್ಞಾನವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. 'ಅತ್ಯುನ್ನತ ಸ್ವರ್ಗದಲ್ಲಿ ಕೆಟ್ಟದ್ದನ್ನು ಇಡುವುದು' ಎಂದರೆ ಶುದ್ಧ ಕ್ಷೇತ್ರಗಳು ಸಹ ನಕಾರಾತ್ಮಕತೆಯ ಪ್ರಭಾವದಿಂದ ವಿನಾಯಿತಿ ಹೊಂದಿಲ್ಲ, ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಶುದ್ಧತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಜಾಗರೂಕರಾಗಿರಬೇಕು. ನಮ್ಮ ಆಲೋಚನೆಗಳು ಮತ್ತು ಕ್ರಿಯೆಗಳನ್ನು ಶುದ್ಧೀಕರಿಸಲು ಇದು ಜ್ಞಾಪನೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ನಕಾರಾತ್ಮಕತೆಯು ನಮ್ಮ ಪ್ರಜ್ಞೆಯಲ್ಲಿ ಬೇರೂರದಂತೆ ತಡೆಯುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S109_191-5_7",
+      "mandala": 10,
+      "sukta": 109,
+      "ric_index": 5,
+      "rig_lines": [
+        "ब्र॒ह्म॒चा॒री च॑रति॒ वेवि॑ष॒द्विषः॒ स दे॒वानां᳚ भव॒त्येक॒मङ्ग᳚म् |",
+        "तेन॑ जा॒यामन्व॑विन्द॒द्बृह॒स्पतिः॒ सोमे᳚न नी॒तां जु॒ह्व१॑(अं॒) न दे᳚वाः ||"
+      ],
+      "pre_splits": [
+        "ब्र॒ह्म॒ऽचा॒री",
+        "च॒र॒ति॒",
+        "वेवि॑षत्",
+        "विषः॑",
+        "सः",
+        "दे॒वाना᳚‌म्",
+        "भ॒व॒ति॒",
+        "एक᳚‌म्",
+        "अङ्ग᳚‌म्",
+        "तेन॑",
+        "जा॒या‌म्",
+        "अनु॑",
+        "अ॒वि॒न्द॒त्",
+        "बृह॒स्पतिः॑",
+        "सोमे᳚न",
+        "नी॒ता‌म्",
+        "जु॒ह्व᳚‌म्",
+        "न",
+        "दे॒वाः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ब्र॒ह्म॒ऽचा॒री",
+          "pada_kn": "ಬ್ರಹ್ಮಚಾರಿ",
+          "meaning_en": "A celibate student / one who practices Brahmacharya",
+          "meaning_kn": "ಬ್ರಹ್ಮಚಾರಿ / ವೇದಾಧ್ಯಯನ ಮಾಡುವವನು"
+        },
+        {
+          "pada_original": "च॒र॒ति॒",
+          "pada_kn": "ಚರತಿ",
+          "meaning_en": "moves / performs (his duties)",
+          "meaning_kn": "ಸಂಚರಿಸುತ್ತಾನೆ / ಆಚರಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "वेवि॑षत्",
+          "pada_kn": "ವೇವಿಷತ್",
+          "meaning_en": "desiring / wishing (to acquire knowledge/power)",
+          "meaning_kn": "ಇಚ್ಛಿಸುತ್ತಾ / ಆಕಾಂಕ್ಷಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "विषः॑",
+          "pada_kn": "ವಿಷಃ",
+          "meaning_en": "(various) powers / strengths / people",
+          "meaning_kn": "ಶಕ್ತಿಗಳನ್ನು / ಜನರನ್ನು"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "दे॒वाना᳚‌म्",
+          "pada_kn": "ದೇವಾನಾಮ್",
+          "meaning_en": "of the gods",
+          "meaning_kn": "ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "भ॒व॒ति॒",
+          "pada_kn": "ಭವತಿ",
+          "meaning_en": "becomes",
+          "meaning_kn": "ಆಗುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "एक᳚‌म्",
+          "pada_kn": "ಏಕಮ್",
+          "meaning_en": "one",
+          "meaning_kn": "ಒಂದು"
+        },
+        {
+          "pada_original": "अङ्ग᳚‌म्",
+          "pada_kn": "ಅಂಗಮ್",
+          "meaning_en": "limb / part",
+          "meaning_kn": "ಅಂಗ / ಭಾಗ"
+        },
+        {
+          "pada_original": "तेन॑",
+          "pada_kn": "ತೇನ",
+          "meaning_en": "By him / through him",
+          "meaning_kn": "ಅವನಿಂದ / ಅವನ ಮೂಲಕ"
+        },
+        {
+          "pada_original": "जा॒या‌म्",
+          "pada_kn": "ಜಾಯಾಮ್",
+          "meaning_en": "wife",
+          "meaning_kn": "ಪತ್ನಿಯನ್ನು"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "after / subsequently",
+          "meaning_kn": "ನಂತರ / ಅನುಸರಿಸಿ"
+        },
+        {
+          "pada_original": "अ॒वि॒न्द॒त्",
+          "pada_kn": "ಅವಿಂದತ್",
+          "meaning_en": "found / obtained",
+          "meaning_kn": "ಕಂಡುಕೊಂಡನು / ಪಡೆದನು"
+        },
+        {
+          "pada_original": "बृह॒स्पतिः॑",
+          "pada_kn": "ಬೃಹಸ್ಪತಿಃ",
+          "meaning_en": "Brihaspati",
+          "meaning_kn": "ಬೃಹಸ್ಪತಿ"
+        },
+        {
+          "pada_original": "सोमे᳚न",
+          "pada_kn": "ಸೋಮೇನ",
+          "meaning_en": "by Soma (the moon god / the divine drink)",
+          "meaning_kn": "ಸೋಮನಿಂದ / ಸೋಮರಸದಿಂದ"
+        },
+        {
+          "pada_original": "नी॒ता‌म्",
+          "pada_kn": "ನೀತಾಮ್",
+          "meaning_en": "led away / taken away",
+          "meaning_kn": "ಕೊಂಡೊಯ್ಯಲ್ಪಟ್ಟಿದ್ದ / ಅಪಹರಿಸಲ್ಪಟ್ಟಿದ್ದ"
+        },
+        {
+          "pada_original": "जु॒ह्व᳚‌म्",
+          "pada_kn": "ಜುಹ್ವಮ್",
+          "meaning_en": "(the wife named) Juhū / (a cherished wife)",
+          "meaning_kn": "ಜುಹ್ವ (ಹೆಸರಿನ ಪತ್ನಿ) / (ಪ್ರೀತಿಯ ಪತ್ನಿ)"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ದಂತೆ"
+        },
+        {
+          "pada_original": "दे॒वाः॒",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        }
+      ],
+      "full_meaning_en": "The Brahmachari moves trembling against the enemies; he becomes a single limb of the gods. Through him, Brihaspati recovered his wife, who had been led away by Soma, as the gods recover the sacrificial ladle.",
+      "full_meaning_kn": "ಬ್ರಹ್ಮಚಾರಿಯು ಶತ್ರುಗಳ ವಿರುದ್ಧ ನಡುಗುತ್ತಾ ಚಲಿಸುತ್ತಾನೆ; ಅವನು ದೇವತೆಗಳ ಒಂದು ಅಂಗವಾಗುತ್ತಾನೆ. ಅವನ ಮೂಲಕ, ಬೃಹಸ್ಪತಿಯು ಸೋಮನಿಂದ ಅಪಹರಿಸಲ್ಪಟ್ಟ ತನ್ನ ಹೆಂಡತಿಯನ್ನು ಹಿಂದಿರುಗಿಸಿದನು, ದೇವತೆಗಳು ಯಜ್ಞದ ಸ್ರುವವನ್ನು (ಸೌಟು) ಮರಳಿ ಪಡೆದಂತೆ.",
+      "rig_time_s": 65.069,
+      "Insight_en": "This mantra speaks of the power and potency of the Brahmachari, the celibate student. By adhering to the rigorous discipline of Brahmacharya, one gains immense spiritual strength, becoming an integral part of the divine (देवानां एकम् अङ्गम्). The story of Brihaspati recovering his wife alludes to the restoration of Dharma and balance in the cosmos through the Brahmachari's efforts. Soma's abduction represents a disruption of cosmic order, and the Brahmachari's role is to restore that order, mirroring the gods' recovery of the sacrificial ladle (जुह्वा). This suggests the Brahmachari's actions are vital for maintaining cosmic harmony and overcoming negativity.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಬ್ರಹ್ಮಚಾರಿಯ ಶಕ್ತಿ ಮತ್ತು ಸಾಮರ್ಥ್ಯದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಬ್ರಹ್ಮചര്യದ ಕಠಿಣ ಶಿಸ್ತನ್ನು ಅನುಸರಿಸುವ ಮೂಲಕ, ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ಅಪಾರ ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯನ್ನು ಪಡೆಯುತ್ತಾನೆ, ದೈವಿಕದ ಒಂದು ಭಾಗವಾಗುತ್ತಾನೆ. ಬೃಹಸ್ಪತಿಯು ತನ್ನ ಹೆಂಡತಿಯನ್ನು ಮರಳಿ ಪಡೆದ ಕಥೆಯು ಬ್ರಹ್ಮಚಾರಿಯ ಪ್ರಯತ್ನಗಳ ಮೂಲಕ ಧರ್ಮ ಮತ್ತು ಸಮತೋಲನವನ್ನು ಪುನಃಸ್ಥಾಪಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸೋಮನ ಅಪಹರಣವು ಕಾಸ್ಮಿಕ್ ಕ್ರಮದ ಅಡಚಣೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ ಮತ್ತು ಬ್ರಹ್ಮಚಾರಿಯ ಪಾತ್ರವು ಆ ಕ್ರಮವನ್ನು ಪುನಃಸ್ಥಾಪಿಸುವುದು, ದೇವತೆಗಳು ಯಜ್ಞದ ಸ್ರುವವನ್ನು ಮರಳಿ ಪಡೆಯುವುದನ್ನು ಹೋಲುತ್ತದೆ. ಕಾಸ್ಮಿಕ್ ಸಾಮರಸ್ಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಮತ್ತು ನಕಾರಾತ್ಮಕತೆಯನ್ನು ಜಯಿಸಲು ಬ್ರಹ್ಮಚಾರಿಯ ಕಾರ್ಯಗಳು ಬಹಳ ಮುಖ್ಯವೆಂದು ಇದು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S109_191-6_7",
+      "mandala": 10,
+      "sukta": 109,
+      "ric_index": 6,
+      "rig_lines": [
+        "पुन॒र्वै दे॒वा, अ॑ददुः॒ पुन᳚र्मनु॒ष्या᳚, उ॒त |",
+        "राजा᳚नः स॒त्यं कृ᳚ण्वा॒ना ब्र᳚ह्मजा॒यां पुन॑र्ददुः ||"
+      ],
+      "pre_splits": [
+        "पुनः॑",
+        "वै",
+        "दे॒वाः",
+        "अ॒द॒दुः॒",
+        "पुनः॑",
+        "म॒नु॒ष्याः᳚",
+        "उ॒त",
+        "राजा᳚नः",
+        "स॒त्य‌म्",
+        "कृ॒ण्वा॒नाः",
+        "ब्र॒ह्म॒ऽजा॒या‌म्",
+        "पुनः॑",
+        "द॒दुः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "पुनः॑",
+          "pada_kn": "ಪುನಃ",
+          "meaning_en": "again / back",
+          "meaning_kn": "ಮತ್ತೆ / ಹಿಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "वै",
+          "pada_kn": "ವೈ",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ನಿಶ್ಚಯವಾಗಿ / ನಿಜಕ್ಕೂ"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವರುಗಳು"
+        },
+        {
+          "pada_original": "अ॒द॒दुः॒",
+          "pada_kn": "ಅದದುಃ",
+          "meaning_en": "gave / returned",
+          "meaning_kn": "ಕೊಟ್ಟರು / ಹಿಂದಿರುಗಿಸಿದರು"
+        },
+        {
+          "pada_original": "पुनः॑",
+          "pada_kn": "ಪುನಃ",
+          "meaning_en": "again / back",
+          "meaning_kn": "ಮತ್ತೆ / ಹಿಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "म॒नु॒ष्याः᳚",
+          "pada_kn": "ಮನುಷ್ಯಾಃ",
+          "meaning_en": "men / humans",
+          "meaning_kn": "ಮನುಷ್ಯರು"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "राजा᳚नः",
+          "pada_kn": "ರಾಜಾನಃ",
+          "meaning_en": "kings / rulers",
+          "meaning_kn": "ರಾಜರು / ಆಳುವವರು"
+        },
+        {
+          "pada_original": "स॒त्य‌म्",
+          "pada_kn": "ಸತ್ಯಮ್",
+          "meaning_en": "truth / righteousness",
+          "meaning_kn": "ಸತ್ಯವನ್ನು / ಧರ್ಮವನ್ನು"
+        },
+        {
+          "pada_original": "कृ॒ण्वा॒नाः",
+          "pada_kn": "ಕೃಣ್ವಾನಾಃ",
+          "meaning_en": "doing / performing / upholding",
+          "meaning_kn": "ಮಾಡುತ್ತಾ / ಆಚರಿಸುತ್ತಾ / ಪಾಲಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "ब्र॒ह्म॒ऽजा॒या‌म्",
+          "pada_kn": "ಬ್ರಹ್ಮಜಾಯಾಮ್",
+          "meaning_en": "the Brahmin's wife",
+          "meaning_kn": "ಬ್ರಾಹ್ಮಣನ ಪತ್ನಿಯನ್ನು"
+        },
+        {
+          "pada_original": "पुनः॑",
+          "pada_kn": "ಪುನಃ",
+          "meaning_en": "again / back",
+          "meaning_kn": "ಮತ್ತೆ / ಹಿಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "द॒दुः॒",
+          "pada_kn": "ದದುಃ",
+          "meaning_en": "gave / returned",
+          "meaning_kn": "ಕೊಟ್ಟರು / ಹಿಂದಿರುಗಿಸಿದರು"
+        }
+      ],
+      "full_meaning_en": "The gods have given back again; men, too, have given back again; these kings, making truth their own, have given back the wife whose husband was a Brahmin.",
+      "full_meaning_kn": "ದೇವತೆಗಳು ಮತ್ತೆ ಹಿಂದಿರುಗಿಸಿದ್ದಾರೆ; ಮನುಷ್ಯರು ಸಹ ಮತ್ತೆ ಹಿಂದಿರುಗಿಸಿದ್ದಾರೆ; ಈ ರಾಜರು ಸತ್ಯವನ್ನು ತಮ್ಮದಾಗಿಸಿಕೊಂಡು ಬ್ರಾಹ್ಮಣನ ಹೆಂಡತಿಯನ್ನು ಹಿಂದಿರುಗಿಸಿದ್ದಾರೆ.",
+      "rig_time_s": 82.354,
+      "Insight_en": "This mantra speaks of restitution and truthfulness. The return of the Brahmin's wife symbolizes the restoration of dharma and the upholding of sacred vows. It highlights the importance of truth (सत्यं) and righteous conduct in both divine and human realms. The act of giving back (पुनर्ददुः) signifies a return to a state of balance and harmony, emphasizing the cyclical nature of cosmic justice. This mantra encourages individuals to embody truth and integrity in their actions, thereby fostering a society grounded in dharma.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಪರಿಹಾರ ಮತ್ತು ಸತ್ಯದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಬ್ರಾಹ್ಮಣನ ಹೆಂಡತಿಯನ್ನು ಹಿಂದಿರುಗಿಸುವುದು ಧರ್ಮದ ಪುನಃಸ್ಥಾಪನೆ ಮತ್ತು ಪವಿತ್ರ ವ್ರತಗಳ ಎತ್ತಿಹಿಡಿಯುವಿಕೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಇದು ದೈವಿಕ ಮತ್ತು ಮಾನವ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಸತ್ಯ ಮತ್ತು ಧಾರ್ಮಿಕ ನಡವಳಿಕೆಯ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಹಿಂದಿರುಗಿಸುವ ಕ್ರಿಯೆ ಸಮತೋಲನ ಮತ್ತು ಸಾಮರಸ್ಯದ ಸ್ಥಿತಿಗೆ ಮರಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಕಾಸ್ಮಿಕ್ ನ್ಯಾಯದ ಚಕ್ರೀಯ ಸ್ವರೂಪವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಸತ್ಯವನ್ನು ಕಾರ್ಯರೂಪಕ್ಕೆ ತರಲು ಮತ್ತು ಸಮಗ್ರತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಈ ಮಂತ್ರವು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ, ಇದರಿಂದ ಧರ್ಮದಲ್ಲಿ ನೆಲೆಗೊಂಡ ಸಮಾಜವನ್ನು ಬೆಳೆಸಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S109_191-7_7",
+      "mandala": 10,
+      "sukta": 109,
+      "ric_index": 7,
+      "rig_lines": [
+        "पु॒न॒र्दाय॑ ब्रह्मजा॒यां कृ॒त्वी दे॒वैर्नि॑किल्बि॒षम् |",
+        "ऊर्जं᳚ पृथि॒व्या भ॒क्त्वायो᳚रुगा॒यमुपा᳚सते ||"
+      ],
+      "pre_splits": [
+        "पु॒नः॒ऽदाय॑",
+        "ब्र॒ह्म॒ऽजा॒या‌म्",
+        "कृ॒त्वी",
+        "दे॒वैः",
+        "नि॒ऽकि॒ल्बि॒ष‌म्",
+        "ऊर्ज᳚‌म्",
+        "पृ॒थि॒व्याः",
+        "भ॒क्त्वाय॑",
+        "उ॒रु॒ऽगा॒य‌म्",
+        "उप॑",
+        "आ॒स॒ते॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "पु॒नः॒ऽदाय॑",
+          "pada_kn": "ಪುನಃ-ದಾಯ",
+          "meaning_en": "having given back / after returning",
+          "meaning_kn": "ಹಿಂದಿರುಗಿಸಿ / ಮರಳಿ ಕೊಟ್ಟು"
+        },
+        {
+          "pada_original": "ब्र॒ह्म॒ऽजा॒या‌म्",
+          "pada_kn": "ಬ್ರಹ್ಮ-ಜಾಯಾಮ್",
+          "meaning_en": "the wife of a Brahmana (priest)",
+          "meaning_kn": "ಬ್ರಾಹ್ಮಣನ ಪತ್ನಿ / ಬ್ರಹ್ಮಪತ್ನಿ"
+        },
+        {
+          "pada_original": "कृ॒त्वी",
+          "pada_kn": "ಕೃತ್ವೀ",
+          "meaning_en": "having made / having rendered",
+          "meaning_kn": "ಮಾಡಿ / ಗೊಳಿಸಿ"
+        },
+        {
+          "pada_original": "दे॒वैः",
+          "pada_kn": "ದೇವೈಃ",
+          "meaning_en": "by the gods",
+          "meaning_kn": "ದೇವತೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "नि॒ऽकि॒ल्बि॒ष‌म्",
+          "pada_kn": "ನಿ-ಕಿಲ್ಬಿಷಮ್",
+          "meaning_en": "sinless / guiltless",
+          "meaning_kn": "ಪಾಪರಹಿತ / ನಿರ್ದೋಷಿ"
+        },
+        {
+          "pada_original": "ऊर्ज᳚‌म्",
+          "pada_kn": "ಊರ್ಜಮ್",
+          "meaning_en": "strength / sustenance / food",
+          "meaning_kn": "ಶಕ್ತಿ / ಸಾರ / ಅನ್ನ"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्याः",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಃ",
+          "meaning_en": "of the earth",
+          "meaning_kn": "ಭೂಮಿಯ"
+        },
+        {
+          "pada_original": "भ॒क्त्वाय॑",
+          "pada_kn": "ಭಕ್ತ್ವಾಯ",
+          "meaning_en": "having partaken / having enjoyed",
+          "meaning_kn": "ಅನುಭವಿಸಿ / ಭುಂಜಿಸಿ"
+        },
+        {
+          "pada_original": "उ॒रु॒ऽगा॒य‌म्",
+          "pada_kn": "ಉರು-ಗಾಯಮ್",
+          "meaning_en": "wide-striding (an epithet for Vishnu) / widely praised",
+          "meaning_kn": "ವಿಶಾಲವಾಗಿ ಹೆಜ್ಜೆ ಹಾಕುವವನು (ವಿಷ್ಣು) / ಬಹು ಪ್ರಶಂಸನೀಯ"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "near / towards",
+          "meaning_kn": "ಹತ್ತಿರ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "आ॒स॒ते॒",
+          "pada_kn": "ಆಸತೇ",
+          "meaning_en": "they sit / they worship",
+          "meaning_kn": "ಅವರು ಕುಳಿತುಕೊಳ್ಳುತ್ತಾರೆ / ಅವರು ಪೂಜಿಸುತ್ತಾರೆ"
+        }
+      ],
+      "full_meaning_en": "O Devas, having made the wife again belong to her husband (ब्रह्मजायां), free from sin, and having enjoyed the energy of the earth, they worship for wide expanse.",
+      "full_meaning_kn": "ಓ ದೇವತೆಗಳೇ, ಹೆಂಡತಿಯನ್ನು ಮತ್ತೆ ತನ್ನ ಗಂಡನಿಗೆ ಸೇರುವಂತೆ ಮಾಡಿ (ಬ್ರಹ್ಮಜಾಯಾಂ), ಪಾಪದಿಂದ ಮುಕ್ತರಾಗಿ, ಭೂಮಿಯ ಶಕ್ತಿಯನ್ನು ಅನುಭವಿಸಿ, ಅವರು ವಿಶಾಲ ವಿಸ್ತರಣೆಗಾಗಿ ಪೂಜಿಸುತ್ತಾರೆ.",
+      "rig_time_s": 94.904,
+      "Insight_en": "This mantra speaks of restoration and purification. The term ब्रह्मजायां (brahmajāyāṃ) signifies the wife who is to be reunited with her husband, implying a restoration of harmony and order. The release from sin (निःकिल्बिषम्) indicates a purification process enabled by the deities. By partaking in the Earth’s energy (ऊर्जं पृथिव्या), the devotees gain strength and vitality, enabling them to worship for expansive growth (उरुगायम्). Spiritually, it reflects the journey of purification, restoration, and seeking divine grace for comprehensive well-being and expansion of consciousness.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಪುನಃಸ್ಥಾಪನೆ ಮತ್ತು ಶುದ್ಧೀಕರಣದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಬ್ರಹ್ಮಜಾಯಾಂ ಎಂಬ ಪದವು ತನ್ನ ಗಂಡನೊಂದಿಗೆ ಮತ್ತೆ ಒಂದಾಗಬೇಕಾದ ಹೆಂಡತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಸಾಮರಸ್ಯ ಮತ್ತು ಸುವ್ಯವಸ್ಥೆಯ ಪುನಃಸ್ಥಾಪನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಪಾಪದಿಂದ ಬಿಡುಗಡೆ ದೇವತೆಗಳು ಅನುವು ಮಾಡಿಕೊಡುವ ಶುದ್ಧೀಕರಣ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಭೂಮಿಯ ಶಕ್ತಿಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ಮೂಲಕ, ಭಕ್ತರು ಶಕ್ತಿ ಮತ್ತು ಚೈತನ್ಯವನ್ನು ಪಡೆಯುತ್ತಾರೆ, ಇದು ವಿಸ್ತಾರವಾದ ಬೆಳವಣಿಗೆಗಾಗಿ ಪೂಜಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ಶುದ್ಧೀಕರಣ, ಪುನಃಸ್ಥಾಪನೆ ಮತ್ತು ಸಮಗ್ರ ಯೋಗಕ್ಷೇಮ ಮತ್ತು ಪ್ರಜ್ಞೆಯ ವಿಸ್ತರಣೆಗಾಗಿ ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು ಪಡೆಯುವ ಪ್ರಯಾಣವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

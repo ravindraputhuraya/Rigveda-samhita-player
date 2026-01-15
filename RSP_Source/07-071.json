@@ -1,0 +1,874 @@
+{
+  "mandala": 7,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M7-S71_104-1_6",
+      "mandala": 7,
+      "sukta": 71,
+      "ric_index": 1,
+      "rig_lines": [
+        "अप॒ स्वसु॑रु॒षसो॒ नग्जि॑हीते रि॒णक्ति॑ कृ॒ष्णीर॑रु॒षाय॒ पन्था᳚म् |",
+        "अश्वा᳚मघा॒ गोम॑घा वां हुवेम॒ दिवा॒ नक्तं॒ शरु॑म॒स्मद्यु॑योतम् ||"
+      ],
+      "pre_splits": [
+        "अप॑",
+        "स्वसुः॑",
+        "उ॒षसः॑",
+        "नक्",
+        "जि॒ही॒ते॒",
+        "रि॒णक्ति॑",
+        "कृ॒ष्णीः",
+        "अ॒रु॒षाय॑",
+        "पन्था᳚‌म्",
+        "अश्व॑ऽमघा",
+        "गोऽम॑घा",
+        "वा॒‌म्",
+        "हु॒वे॒म॒",
+        "दिवा᳚",
+        "नक्त᳚‌म्",
+        "शरु᳚‌म्",
+        "अ॒स्मत्",
+        "यु॒यो॒त॒‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अप॑",
+          "pada_kn": "ಅಪ",
+          "meaning_en": "away / off",
+          "meaning_kn": "ದೂರ / ಪಕ್ಕಕ್ಕೆ"
+        },
+        {
+          "pada_original": "स्वसुः॑",
+          "pada_kn": "ಸ್ವಸುಃ",
+          "meaning_en": "of the sister",
+          "meaning_kn": "ಸಹೋದರಿಯ"
+        },
+        {
+          "pada_original": "उ॒षसः॑",
+          "pada_kn": "ಉಷಸಃ",
+          "meaning_en": "of Dawn",
+          "meaning_kn": "ಉಷಸ್ಸಿನ"
+        },
+        {
+          "pada_original": "नक्",
+          "pada_kn": "ನಕ್",
+          "meaning_en": "Night",
+          "meaning_kn": "ರಾತ್ರಿ"
+        },
+        {
+          "pada_original": "जि॒ही॒ते॒",
+          "pada_kn": "ಜಿಹೀತೇ",
+          "meaning_en": "departs / goes away",
+          "meaning_kn": "ಹೊರಡುತ್ತದೆ / ದೂರವಾಗುತ್ತದೆ"
+        },
+        {
+          "pada_original": "रि॒णक्ति॑",
+          "pada_kn": "ರಿಣಕ್ತಿ",
+          "meaning_en": "she clears / she leaves",
+          "meaning_kn": "ಅವಳು ತೆರವುಗೊಳಿಸುತ್ತಾಳೆ / ಬಿಡುತ್ತಾಳೆ"
+        },
+        {
+          "pada_original": "कृ॒ष्णीः",
+          "pada_kn": "ಕೃಷ್ಣೀಃ",
+          "meaning_en": "the dark one (Night)",
+          "meaning_kn": "ಕಪ್ಪಾದವಳು (ರಾತ್ರಿ)"
+        },
+        {
+          "pada_original": "अ॒रु॒षाय॑",
+          "pada_kn": "ಅರುಷಾಯ",
+          "meaning_en": "for the ruddy one (Dawn)",
+          "meaning_kn": "ಕೆಂಪಾದವಳಿಗೆ (ಉಷಸ್ಸಿಗೆ)"
+        },
+        {
+          "pada_original": "पन्था᳚‌म्",
+          "pada_kn": "ಪಂಥಾಮ್",
+          "meaning_en": "the path",
+          "meaning_kn": "ಮಾರ್ಗವನ್ನು"
+        },
+        {
+          "pada_original": "अश्व॑ऽमघा",
+          "pada_kn": "ಅಶ್ವಮಘಾ",
+          "meaning_en": "O rich in horses",
+          "meaning_kn": "ಓ ಕುದುರೆಗಳಿಂದ ಸಮೃದ್ಧರಾದವರೇ"
+        },
+        {
+          "pada_original": "गोऽम॑घा",
+          "pada_kn": "ಗೋಮಘಾ",
+          "meaning_en": "O rich in cows",
+          "meaning_kn": "ಓ ಗೋವುಗಳಿಂದ ಸಮೃದ್ಧರಾದವರೇ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು"
+        },
+        {
+          "pada_original": "हु॒वे॒म॒",
+          "pada_kn": "ಹುವೇಮ",
+          "meaning_en": "we invoke / we call",
+          "meaning_kn": "ನಾವು ಆಹ್ವಾನಿಸುತ್ತೇವೆ / ಕರೆಯುತ್ತೇವೆ"
+        },
+        {
+          "pada_original": "दिवा᳚",
+          "pada_kn": "ದಿವಾ",
+          "meaning_en": "by day / during the day",
+          "meaning_kn": "ಹಗಲಿನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "नक्त᳚‌म्",
+          "pada_kn": "ನಕ್ತಮ್",
+          "meaning_en": "by night / during the night",
+          "meaning_kn": "ರಾತ್ರಿಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "शरु᳚‌म्",
+          "pada_kn": "ಶರುಮ್",
+          "meaning_en": "missile / harm / injury",
+          "meaning_kn": "ಹಾನಿಯನ್ನು / ಶತ್ರುವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒स्मत्",
+          "pada_kn": "ಅಸ್ಮತ್",
+          "meaning_en": "from us",
+          "meaning_kn": "ನಮ್ಮಿಂದ"
+        },
+        {
+          "pada_original": "यु॒यो॒त॒‌म्",
+          "pada_kn": "ಯುದ್ಯೋತಮ್",
+          "meaning_en": "ward off / keep away",
+          "meaning_kn": "ದೂರವಿಡಿ / ನಿವಾರಿಸಿ"
+        }
+      ],
+      "full_meaning_en": "Night, the sister of Dawn, withdraws, clearing the path for the radiant Dawn. O Ashvins, rich in horses and cattle, we invoke you. Day and night, drive away affliction from us.",
+      "full_meaning_kn": "ಉಷಸ್ಸಿನ ಸಹೋದರಿಯಾದ ರಾತ್ರಿಯು ಹಿಮ್ಮೆಟ್ಟುತ್ತಾಳೆ, ಹೊಳೆಯುವ ಉಷೆಗೆ ದಾರಿಯನ್ನು ತೆರವುಗೊಳಿಸುತ್ತಾಳೆ. ಹೇ ಅಶ್ವಿನೀ ದೇವತೆಗಳೇ, ಕುದುರೆಗಳು ಮತ್ತು ದನಗಳಿಂದ ಸಮೃದ್ಧರಾದವರೇ, ನಿಮ್ಮನ್ನು ನಾವು ಆಹ್ವಾನಿಸುತ್ತೇವೆ. ಹಗಲು ಮತ್ತು ರಾತ್ರಿ, ನಮ್ಮಿಂದ ದುಃಖವನ್ನು ದೂರವಿಡಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The inherent duality of existence, represented by Night and Dawn, illustrates the cyclical nature of consciousness. Removing darkness (अविद्या) allows the light of knowledge (विद्या) to shine forth. Invoking the Ashvins symbolizes a yearning for vitality and abundance in both the inner and outer worlds. Protection from affliction signifies the need to transcend suffering through spiritual practice.",
+      "Insight_kn": "ರಾತ್ರಿ ಮತ್ತು ಉಷೆಯ ಪ್ರತಿನಿಧಿಸುವ ಅಸ್ತಿತ್ವದ ಸಹಜ ದ್ವಂದ್ವವು ಪ್ರಜ್ಞೆಯ ಆವರ್ತಕ ಸ್ವರೂಪವನ್ನು ವಿವರಿಸುತ್ತದೆ. ಕತ್ತಲೆಯನ್ನು (ಅವಿದ್ಯೆ) ತೆಗೆದುಹಾಕುವುದು ಜ್ಞಾನದ (ವಿದ್ಯೆ) ಬೆಳಕನ್ನು ಹೊಳೆಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಅಶ್ವಿನಿ ದೇವತೆಗಳನ್ನು ಆಹ್ವಾನಿಸುವುದು ಆಂತರಿಕ ಮತ್ತು ಬಾಹ್ಯ ಪ್ರಪಂಚಗಳಲ್ಲಿನ ಚೈತನ್ಯ ಮತ್ತು ಸಮೃದ್ಧಿಗಾಗಿ ಹಾತೊರೆಯುವ ಸಂಕೇತವಾಗಿದೆ. ದುಃಖದಿಂದ ರಕ್ಷಣೆ ಎಂದರೆ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಮೂಲಕ ಬಳಲಿಕೆಯನ್ನು ಮೀರುವ ಅವಶ್ಯಕತೆಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S71_104-2_6",
+      "mandala": 7,
+      "sukta": 71,
+      "ric_index": 2,
+      "rig_lines": [
+        "उ॒पाया᳚तं दा॒शुषे॒ मर्त्या᳚य॒ रथे᳚न वा॒मम॑श्विना॒ वह᳚न्ता |",
+        "यु॒यु॒तम॒स्मदनि॑रा॒ममी᳚वां॒ दिवा॒ नक्तं᳚ माध्वी॒ त्रासी᳚थां नः ||"
+      ],
+      "pre_splits": [
+        "उ॒प॒ऽआया᳚त‌म्",
+        "दा॒शुषे᳚",
+        "मर्त्या᳚य",
+        "रथे᳚न",
+        "वा॒म‌म्",
+        "अ॒श्वि॒ना॒",
+        "वह᳚न्ता",
+        "यु॒यु॒त‌म्",
+        "अ॒स्मत्",
+        "अनि॑रा‌म्",
+        "अमी᳚वा‌म्",
+        "दिवा᳚",
+        "नक्त᳚‌म्",
+        "मा॒ध्वी॒ इति॑",
+        "त्रासी᳚था‌म्",
+        "नः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒प॒ऽआया᳚त‌म्",
+          "pada_kn": "ಉಪಾಯಾತಮ್",
+          "meaning_en": "approach / come near",
+          "meaning_kn": "ಸಮೀಪಿಸಿ / ಬನ್ನಿರಿ"
+        },
+        {
+          "pada_original": "दा॒शुषे᳚",
+          "pada_kn": "ದಾಶುಷೇ",
+          "meaning_en": "to the sacrificer",
+          "meaning_kn": "ಯಜ್ಞ ಮಾಡುವವನಿಗೆ / ಅರ್ಪಿಸುವವನಿಗೆ"
+        },
+        {
+          "pada_original": "मर्त्या᳚य",
+          "pada_kn": "ಮರ್ತ್ಯಾಯ",
+          "meaning_en": "to the mortal (man)",
+          "meaning_kn": "ಮನುಷ್ಯನಿಗೆ / ಮರ್ತ್ಯನಿಗೆ"
+        },
+        {
+          "pada_original": "रथे᳚न",
+          "pada_kn": "ರಥೇನ",
+          "meaning_en": "by (your) chariot",
+          "meaning_kn": "ರಥದಿಂದ"
+        },
+        {
+          "pada_original": "वा॒म‌म्",
+          "pada_kn": "ವಾಮಮ್",
+          "meaning_en": "desirable things / blessings",
+          "meaning_kn": "ಇಷ್ಟವಾದ ವಸ್ತುಗಳನ್ನು / ಶುಭವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "वह᳚न्ता",
+          "pada_kn": "ವಹನ್ತಾ",
+          "meaning_en": "carrying / bringing",
+          "meaning_kn": "ಹೊತ್ತುಕೊಂಡು / ತರುತ್ತಾ"
+        },
+        {
+          "pada_original": "यु॒यु॒त‌म्",
+          "pada_kn": "ಯುಯುತಮ್",
+          "meaning_en": "avert / keep away",
+          "meaning_kn": "ದೂರವಿಡಿ / ನಿವಾರಿಸಿ"
+        },
+        {
+          "pada_original": "अ॒स्मत्",
+          "pada_kn": "ಅಸ್ಮತ್",
+          "meaning_en": "from us",
+          "meaning_kn": "ನಮ್ಮಿಂದ"
+        },
+        {
+          "pada_original": "अनि॑रा‌म्",
+          "pada_kn": "ಅನಿರಾಮ್",
+          "meaning_en": "distress / trouble",
+          "meaning_kn": "ಕಷ್ಟವನ್ನು / ತೊಂದರೆಯನ್ನು"
+        },
+        {
+          "pada_original": "अमी᳚वा‌म्",
+          "pada_kn": "ಅಮೀವಾಮ್",
+          "meaning_en": "disease / sickness",
+          "meaning_kn": "ರೋಗವನ್ನು / ವ್ಯಾಧಿಯನ್ನು"
+        },
+        {
+          "pada_original": "दिवा᳚",
+          "pada_kn": "ದಿವಾ",
+          "meaning_en": "by day / during the day",
+          "meaning_kn": "ಹಗಲಿನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "नक्त᳚‌म्",
+          "pada_kn": "ನಕ್ತಮ್",
+          "meaning_en": "by night / during the night",
+          "meaning_kn": "ರಾತ್ರಿಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "मा॒ध्वी॒ इति॑",
+          "pada_kn": "ಮಾಧ್ವೀ ಇತಿ",
+          "meaning_en": "O sweet ones (Ashvins) / O honey-drinkers",
+          "meaning_kn": "ಓ ಮಧುಪಾನಿಗಳೇ (ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ) / ಓ ಮಧುರರೇ"
+        },
+        {
+          "pada_original": "त्रासी᳚था‌म्",
+          "pada_kn": "ತ್ರಾಸೀಥಾಮ್",
+          "meaning_en": "protect / save",
+          "meaning_kn": "ರಕ್ಷಿಸಿರಿ / ಕಾಪಾಡಿರಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, borne on your chariot conveying blessings, approach the mortal who offers sacrifice. O sweet ones, dispel affliction and illness far from us, and safeguard us by day and by night.",
+      "full_meaning_kn": "ಎಲೈ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ರಥದಲ್ಲಿ ಶುಭವನ್ನು ಹೊತ್ತು ತರುವವರಾಗಿ, ಯಜ್ಞ ಮಾಡುವ ಮನುಷ್ಯನನ್ನು ಸಮೀಪಿಸಿರಿ. ಓ ಸಿಹಿಯಾದವರೇ, ನಮ್ಮಿಂದ ದುಃಖ ಮತ್ತು ರೋಗವನ್ನು ದೂರವಿಡಿ, ಮತ್ತು ಹಗಲು ಮತ್ತು ರಾತ್ರಿಯಲ್ಲಿ ನಮ್ಮನ್ನು ಕಾಪಾಡಿರಿ.",
+      "rig_time_s": 15.282,
+      "Insight_en": "The Ashvins represent the dual forces of healing and rejuvenation. Invoking them signifies a yearning for wholeness and freedom from suffering. The 'chariot' symbolizes the vehicle of transformation, and the plea for protection 'day and night' is a call for constant vigilance against the forces of ignorance (अविद्या) and disease (रोग).",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು ಗುಣಪಡಿಸುವ ಮತ್ತು ಪುನಶ್ಚೇತನಗೊಳಿಸುವ ದ್ವಂದ್ವ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಅವರನ್ನು ಆಹ್ವಾನಿಸುವುದು ಎಂದರೆ ಸಮಗ್ರತೆ ಮತ್ತು ದುಃಖದಿಂದ ಮುಕ್ತಿಯನ್ನು ಪಡೆಯುವ ಹಂಬಲ. 'ರಥ'ವು ಪರಿವರ್ತನೆಯ ವಾಹನವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಮತ್ತು 'ಹಗಲು ಮತ್ತು ರಾತ್ರಿ' ರಕ್ಷಣೆಗಾಗಿ ಪ್ರಾರ್ಥನೆಯು ಅಜ್ಞಾನ (ಅವಿದ್ಯಾ) ಮತ್ತು ರೋಗ (ರೋಗ) ಶಕ್ತಿಗಳ ವಿರುದ್ಧ ನಿರಂತರ ಜಾಗರೂಕತೆಗಾಗಿ ಕರೆ ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S71_104-3_6",
+      "mandala": 7,
+      "sukta": 71,
+      "ric_index": 3,
+      "rig_lines": [
+        "आ वां॒ रथ॑मव॒मस्यां॒ व्यु॑ष्टौ सुम्ना॒यवो॒ वृष॑णो वर्तयन्तु |",
+        "स्यूम॑गभस्तिमृत॒युग्भि॒रश्वै॒राश्वि॑ना॒ वसु॑मन्तं वहेथाम् ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "वा॒‌म्",
+        "रथ᳚‌म्",
+        "अ॒व॒मस्या᳚‌म्",
+        "वि।औ᳚ष्टौ",
+        "सु॒म्न॒ऽयवः॑",
+        "वृष॑णः",
+        "व॒र्त॒य॒न्तु॒",
+        "स्यूम॑ऽगभस्ति‌म्",
+        "ऋ॒त॒युक्ऽभिः॑",
+        "अश्वैः᳚",
+        "आ",
+        "अ॒श्वि॒ना॒",
+        "वसु॑ऽमन्त‌म्",
+        "व॒हे॒था॒‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Hither / Towards",
+          "meaning_kn": "ಇತ್ತ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "To you two (Ashvins) / Your",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗೆ / ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "रथ᳚‌म्",
+          "pada_kn": "ರಥಮ್",
+          "meaning_en": "Chariot",
+          "meaning_kn": "ರಥವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒व॒मस्या᳚‌म्",
+          "pada_kn": "ಅವಮಸ್ಯಾಮ್",
+          "meaning_en": "In this latest / In this lowest",
+          "meaning_kn": "ಈ ಅತಿ ಇತ್ತೀಚಿನ / ಈ ಕನಿಷ್ಠವಾದ"
+        },
+        {
+          "pada_original": "वि।औ᳚ष्टौ",
+          "pada_kn": "ವಿ।ಔಷ್ಟೌ",
+          "meaning_en": "At the dawn / At the breaking of light",
+          "meaning_kn": "ಪ್ರಭಾತದಲ್ಲಿ / ಬೆಳಕು ಮೂಡುವಾಗ"
+        },
+        {
+          "pada_original": "सु॒म्न॒ऽयवः॑",
+          "pada_kn": "ಸುಮ್ನಯವಃ",
+          "meaning_en": "Desiring happiness / Seeking welfare",
+          "meaning_kn": "ಸುಖವನ್ನು ಬಯಸುವವರು / ಕಲ್ಯಾಣವನ್ನು ಅರಸುವವರು"
+        },
+        {
+          "pada_original": "वृष॑णः",
+          "pada_kn": "ವೃಷಣಃ",
+          "meaning_en": "Strong ones / Bestowers (of blessings)",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿಗಳು / ವರಗಳನ್ನು ನೀಡುವವರು"
+        },
+        {
+          "pada_original": "व॒र्त॒य॒न्तु॒",
+          "pada_kn": "ವರ್ತಯನ್ತು",
+          "meaning_en": "Let them turn / Let them bring",
+          "meaning_kn": "ಅವರು ತಿರುಗಿಸಲಿ / ಅವರು ತರಲಿ"
+        },
+        {
+          "pada_original": "स्यूम॑ऽगभस्ति‌म्",
+          "pada_kn": "ಸ್ಯೂಮಗಭಸ್ತಿಮ್",
+          "meaning_en": "Having reins of light / Whose rays are like reins",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ ಕಡಿವಾಣವುಳ್ಳ / ಕಿರಣಗಳೇ ಕಡಿವಾಣವಾಗಿ ಉಳ್ಳ"
+        },
+        {
+          "pada_original": "ऋ॒त॒युक्ऽभिः॑",
+          "pada_kn": "ಋತಯುಕ್ಭಿಃ",
+          "meaning_en": "Yoked to truth / Yoked to cosmic order",
+          "meaning_kn": "ಸತ್ಯಕ್ಕೆ ಜೋಡಿಸಲ್ಪಟ್ಟ / ಋತಕ್ಕೆ (ದೈವಿಕ ನಿಯಮಕ್ಕೆ) ಜೋಡಿಸಲ್ಪಟ್ಟ"
+        },
+        {
+          "pada_original": "अश्वैः᳚",
+          "pada_kn": "ಅಶ್ವೈಃ",
+          "meaning_en": "With horses",
+          "meaning_kn": "ಕುದುರೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Hither / Towards",
+          "meaning_kn": "ಇತ್ತ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins!",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ!"
+        },
+        {
+          "pada_original": "वसु॑ऽमन्त‌म्",
+          "pada_kn": "ವಸುಮನ್ತಮ್",
+          "meaning_en": "Wealthy / Rich in treasures",
+          "meaning_kn": "ಸಂಪದ್ಭರಿತವಾದ / ಧನವುಳ್ಳ"
+        },
+        {
+          "pada_original": "व॒हे॒था॒‌म्",
+          "pada_kn": "ವಹೇಥಾಮ್",
+          "meaning_en": "Do you two bring / Carry",
+          "meaning_kn": "ನೀವಿಬ್ಬರೂ ತರಲಿ / ಹೊತ್ತು ತರಲಿ"
+        }
+      ],
+      "full_meaning_en": "At this radiant dawn, may those strong souls seeking joy direct your chariot towards us. O Ashvins, with steeds yoked to truth and reins of light, convey that wealth-filled chariot here.",
+      "full_meaning_kn": "ಈ ಪ್ರಕಾಶಮಾನವಾದ ಮುಂಜಾನೆಯಲ್ಲಿ, ಆನಂದವನ್ನು ಬಯಸುವ ಬಲಶಾಲಿಗಳು ನಿಮ್ಮ ರಥವನ್ನು ನಮ್ಮ ಕಡೆಗೆ ತಿರುಗಿಸಲಿ. ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಸತ್ಯಕ್ಕೆ ಜೋಡಿಸಲಾದ ಕುದುರೆಗಳು ಮತ್ತು ಬೆಳಕಿನ ಲಗಾಮುಗಳೊಂದಿಗೆ, ಸಂಪತ್ತು ತುಂಬಿದ ರಥವನ್ನು ಇಲ್ಲಿಗೆ ತನ್ನಿ.",
+      "rig_time_s": 31.894,
+      "Insight_en": "The dawn represents the awakening of consciousness, wherein the chariot of the Ashvins, symbolic of divine healing and grace, is drawn forth by the seeker's yearning for bliss. The horses yoked to truth (ṛta) signify the alignment of thought, word, and deed, illuminating the path with the reins of light (jyoti). True wealth (vasu) lies in this harmonious integration.",
+      "Insight_kn": "ಉದಯವು ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದರಲ್ಲಿ ಅಶ್ವಿನಿ ದೇವತೆಗಳ ರಥವು ದೈವಿಕ ಗುಣಪಡಿಸುವಿಕೆ ಮತ್ತು ಅನುಗ್ರಹದ ಸಂಕೇತವಾಗಿದೆ, ಆನಂದಕ್ಕಾಗಿ ಹುಡುಕುವವನ ಹಂಬಲದಿಂದ ಹೊರಹೊಮ್ಮುತ್ತದೆ. ಸತ್ಯಕ್ಕೆ (ಋತ) ಜೋಡಿಸಲಾದ ಕುದುರೆಗಳು ಆಲೋಚನೆ, ಮಾತು ಮತ್ತು ಕ್ರಿಯೆಯ ಜೋಡಣೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ, ಬೆಳಕಿನ ಲಗಾಮಿನಿಂದ (ಜ್ಯೋತಿ) ಮಾರ್ಗವನ್ನು ಬೆಳಗಿಸುತ್ತವೆ. ನಿಜವಾದ ಸಂಪತ್ತು (ವಸು) ಈ ಸಾಮರಸ್ಯದ ಏಕೀಕರಣದಲ್ಲಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S71_104-4_6",
+      "mandala": 7,
+      "sukta": 71,
+      "ric_index": 4,
+      "rig_lines": [
+        "यो वां॒ रथो᳚ नृपती॒, अस्ति॑ वो॒ळ्हा त्रि॑वन्धु॒रो वसु॑माँ, उ॒स्रया᳚मा |",
+        "आ न॑ ए॒ना ना᳚स॒त्योप॑ यातम॒भि यद्वां᳚ वि॒श्वप्स्न्यो॒ जिगा᳚ति ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "वा॒‌म्",
+        "रथः॑",
+        "नृ॒प॒ती॒ इति॑ नृऽपती",
+        "अस्ति॑",
+        "वो॒ळ्हा",
+        "त्रि॒ऽव॒न्धु॒रः",
+        "वसु॑ऽमान्",
+        "उ॒स्रऽया᳚मा",
+        "आ",
+        "नः॒",
+        "ए॒ना",
+        "ना॒स॒त्या॒",
+        "उप॑",
+        "या॒त॒‌म्",
+        "अ॒भि",
+        "यत्",
+        "वा॒‌म्",
+        "वि॒श्वऽप्स्न्यः॑",
+        "जिगा᳚ति"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "which / who",
+          "meaning_kn": "ಯಾವ / ಯಾರು"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "your (dual, Ashvins')",
+          "meaning_kn": "ನಿಮ್ಮ (ಅಶ್ವಿನಿ ದೇವತೆಗಳ)"
+        },
+        {
+          "pada_original": "रथः॑",
+          "pada_kn": "ರಥಃ",
+          "meaning_en": "chariot",
+          "meaning_kn": "ರಥ"
+        },
+        {
+          "pada_original": "नृ॒प॒ती॒ इति॑ नृऽपती",
+          "pada_kn": "ನೃಪತೀ ಇತಿ ನೃಪತೀ",
+          "meaning_en": "O lords of men (Ashvins)",
+          "meaning_kn": "ಓ ಮನುಷ್ಯರ ಅಧಿಪತಿಗಳೇ (ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ)"
+        },
+        {
+          "pada_original": "अस्ति॑",
+          "pada_kn": "ಅಸ್ತಿ",
+          "meaning_en": "is",
+          "meaning_kn": "ಇದೆ"
+        },
+        {
+          "pada_original": "वो॒ळ्हा",
+          "pada_kn": "ವೋಳ್ಹಾ",
+          "meaning_en": "bearer / carrier",
+          "meaning_kn": "ಹೊರುವವನು / ವಾಹಕ"
+        },
+        {
+          "pada_original": "त्रि॒ऽव॒न्धु॒रः",
+          "pada_kn": "ತ್ರಿವಂಧುರಃ",
+          "meaning_en": "three-seated / having three yokes",
+          "meaning_kn": "ಮೂರು ಆಸನಗಳಿರುವ / ಮೂರು ನೊಗಗಳಿರುವ"
+        },
+        {
+          "pada_original": "वसु॑ऽमान्",
+          "pada_kn": "ವಸುಮಾನ್",
+          "meaning_en": "wealthy / rich in treasures",
+          "meaning_kn": "ಸಂಪದ್ಭರಿತ / ಧನಿಕ"
+        },
+        {
+          "pada_original": "उ॒स्रऽया᳚मा",
+          "pada_kn": "ಉಸ್ರಯಾಮಾ",
+          "meaning_en": "moving at dawn / having a swift course",
+          "meaning_kn": "ಉಷಃಕಾಲದಲ್ಲಿ ಸಂಚರಿಸುವ / ವೇಗವಾಗಿ ಚಲಿಸುವ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / come",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಬನ್ನಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "ए॒ना",
+          "pada_kn": "ಏನಾ",
+          "meaning_en": "with that (chariot)",
+          "meaning_kn": "ಆ (ರಥದ) ಮೂಲಕ"
+        },
+        {
+          "pada_original": "ना॒स॒त्या॒",
+          "pada_kn": "ನಾಸತ್ಯಾ",
+          "meaning_en": "O Nasatyas (Ashvins)",
+          "meaning_kn": "ಓ ನಾಸತ್ಯರೇ (ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ)"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "near / towards",
+          "meaning_kn": "ಸಮೀಪಕ್ಕೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "या॒त॒‌म्",
+          "pada_kn": "ಯಾತಮ್",
+          "meaning_en": "come / drive",
+          "meaning_kn": "ಬನ್ನಿರಿ / ಚಲಿಸಿರಿ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards / over",
+          "meaning_kn": "ಕಡೆಗೆ / ಮೇಲೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / because",
+          "meaning_kn": "ಯಾವಾಗ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "your (dual)",
+          "meaning_kn": "ನಿಮ್ಮ (ಅಶ್ವಿನಿ ದೇವತೆಗಳ)"
+        },
+        {
+          "pada_original": "वि॒श्वऽप्स्न्यः॑",
+          "pada_kn": "ವಿಶ್ವಪ್ಸ್ನ್ಯಃ",
+          "meaning_en": "all-desirable / all-beautiful",
+          "meaning_kn": "ಸರ್ವ-ಅಭಿಲಷಣೀಯ / ಸರ್ವ-ಸುಂದರ"
+        },
+        {
+          "pada_original": "जिगा᳚ति",
+          "pada_kn": "ಜಿಗಾತಿ",
+          "meaning_en": "goes / comes / moves",
+          "meaning_kn": "ಹೋಗುತ್ತದೆ / ಬರುತ್ತದೆ / ಚಲಿಸುತ್ತದೆ"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, lords of humankind, come to us with that chariot of yours, which is a bearer of strength, possesses three seats, is abundant in treasures, and travels swiftly at dawn. O Nasatyas, approach us when that which is desired by all (the chariot or its bounty) draws near to you.",
+      "full_meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಮನುಕುಲದ ಒಡೆಯರೇ, ಶಕ್ತಿಯನ್ನು ಹೊತ್ತ, ಮೂರು ಆಸನಗಳನ್ನು ಹೊಂದಿರುವ, ಸಂಪತ್ತಿನಿಂದ ಸಮೃದ್ಧವಾದ ಮತ್ತು ಮುಂಜಾನೆ ವೇಗವಾಗಿ ಚಲಿಸುವ ನಿಮ್ಮ ರಥದೊಂದಿಗೆ ನಮ್ಮ ಬಳಿಗೆ ಬನ್ನಿ. ಓ ನಾಸತ್ಯರೇ, ಎಲ್ಲರಿಗೂ ಅಪೇಕ್ಷಿತವಾದದ್ದು (ರಥ ಅಥವಾ ಅದರ ಕೊಡುಗೆ) ನಿಮ್ಮನ್ನು ಸಮೀಪಿಸಿದಾಗ ನಮ್ಮನ್ನು ಸಮೀಪಿಸಿ.",
+      "rig_time_s": 46.766,
+      "Insight_en": "The three-seated chariot represents the three states of consciousness: waking (जाग्रत), dreaming (स्वप्न), and deep sleep (सुषुप्ति). The treasures symbolize the inner riches and divine gifts attainable through self-realization. The swift dawn journey signifies the illumination that dispels the darkness of ignorance.",
+      "Insight_kn": "ಮೂರು ಆಸನಗಳ ರಥವು ಪ್ರಜ್ಞೆಯ ಮೂರು ಸ್ಥಿತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ: ಜಾಗೃತ, ಸ್ವಪ್ನ ಮತ್ತು ಸುಷುಪ್ತಿ. ನಿಧಿಗಳು ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ ಮೂಲಕ ಪಡೆಯಬಹುದಾದ ಆಂತರಿಕ ಸಂಪತ್ತು ಮತ್ತು ದೈವಿಕ ಕೊಡುಗೆಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಕ್ಷಿಪ್ರ ಮುಂಜಾನೆಯ ಪ್ರಯಾಣವು ಅಜ್ಞಾನದ ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುವ ಪ್ರಕಾಶವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S71_104-5_6",
+      "mandala": 7,
+      "sukta": 71,
+      "ric_index": 5,
+      "rig_lines": [
+        "यु॒वं च्यवा᳚नं ज॒रसो᳚ऽमुमुक्तं॒ नि पे॒दव॑ ऊहथुरा॒शुमश्व᳚म् |",
+        "निरंह॑स॒स्तम॑सः स्पर्त॒मत्रिं॒ नि जा᳚हु॒षं शि॑थि॒रे धा᳚तम॒न्तः ||"
+      ],
+      "pre_splits": [
+        "यु॒व‌म्",
+        "च्यवा᳚न‌म्",
+        "ज॒रसः॑",
+        "अ॒मु॒मु॒क्त॒‌म्",
+        "नि",
+        "पे॒दवे᳚",
+        "ऊ॒ह॒थुः॒",
+        "आ॒शु‌म्",
+        "अश्व᳚‌म्",
+        "निः",
+        "अंह॑सः",
+        "तम॑सः",
+        "स्पर्त᳚‌म्",
+        "अत्रि᳚‌म्",
+        "नि",
+        "जा॒हु॒ष‌म्",
+        "शि॒थि॒रे",
+        "धा॒त‌म्",
+        "अ॒न्तरिति॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यु॒व‌म्",
+          "pada_kn": "ಯುವಮ್",
+          "meaning_en": "You two (Ashvins)",
+          "meaning_kn": "ಓ ಇಬ್ಬರು (ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ)"
+        },
+        {
+          "pada_original": "च्यवा᳚न‌म्",
+          "pada_kn": "ಚ್ಯವಾನಮ್",
+          "meaning_en": "Chyavana (a sage)",
+          "meaning_kn": "ಚ್ಯವಾನನನ್ನು (ಋಷಿಯನ್ನು)"
+        },
+        {
+          "pada_original": "ज॒रसः॑",
+          "pada_kn": "ಜರಸಃ",
+          "meaning_en": "from old age / decay",
+          "meaning_kn": "ಮುಪ್ಪಿನಿಂದ / ಜೀರ್ಣತೆಯಿಂದ"
+        },
+        {
+          "pada_original": "अ॒मु॒मु॒क्त॒‌म्",
+          "pada_kn": "ಅಮುಮುಕ್ತಮ್",
+          "meaning_en": "you released / freed",
+          "meaning_kn": "ನೀವು ಬಿಡುಗಡೆಗೊಳಿಸಿದಿರಿ / ಮುಕ್ತಗೊಳಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "indeed / down (preverb)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಕೆಳಗೆ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "पे॒दवे᳚",
+          "pada_kn": "ಪೇದವೇ",
+          "meaning_en": "for Pedava (a prince)",
+          "meaning_kn": "ಪೇದವನಿಗಾಗಿ (ರಾಜಕುಮಾರನಿಗಾಗಿ)"
+        },
+        {
+          "pada_original": "ऊ॒ह॒थुः॒",
+          "pada_kn": "ಊಹಥುಃ",
+          "meaning_en": "you brought / carried",
+          "meaning_kn": "ನೀವು ತಂದಿರಿ / ಸಾಗಿಸಿದಿರಿ"
+        },
+        {
+          "pada_original": "आ॒शु‌म्",
+          "pada_kn": "ಆಶುಮ್",
+          "meaning_en": "swift",
+          "meaning_kn": "ವೇಗವಾದ"
+        },
+        {
+          "pada_original": "अश्व᳚‌म्",
+          "pada_kn": "ಅಶ್ವಮ್",
+          "meaning_en": "horse",
+          "meaning_kn": "ಕುದುರೆಯನ್ನು"
+        },
+        {
+          "pada_original": "निः",
+          "pada_kn": "ನಿಃ",
+          "meaning_en": "out of / from",
+          "meaning_kn": "ಹೊರಗೆ / ಇಂದ"
+        },
+        {
+          "pada_original": "अंह॑सः",
+          "pada_kn": "ಅಂಹಸಃ",
+          "meaning_en": "from distress / trouble",
+          "meaning_kn": "ಸಂಕಟದಿಂದ / ತೊಂದರೆಯಿಂದ"
+        },
+        {
+          "pada_original": "तम॑सः",
+          "pada_kn": "ತಮಸಃ",
+          "meaning_en": "from darkness",
+          "meaning_kn": "ಕತ್ತಲೆಯಿಂದ"
+        },
+        {
+          "pada_original": "स्पर्त᳚‌म्",
+          "pada_kn": "ಸ್ಪರ್ತಮ್",
+          "meaning_en": "you rescued / saved",
+          "meaning_kn": "ನೀವು ರಕ್ಷಿಸಿದಿರಿ / ಕಾಪಾಡಿದಿರಿ"
+        },
+        {
+          "pada_original": "अत्रि᳚‌म्",
+          "pada_kn": "ಅತ್ರಿಮ್",
+          "meaning_en": "Atri (a sage)",
+          "meaning_kn": "ಅತ್ರಿಯನ್ನು (ಋಷಿಯನ್ನು)"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "into / indeed (preverb)",
+          "meaning_kn": "ಒಳಗೆ / ಖಂಡಿತವಾಗಿಯೂ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "जा॒हु॒ष‌म्",
+          "pada_kn": "ಜಾಹುಷಮ್",
+          "meaning_en": "Jahusha (a king)",
+          "meaning_kn": "ಜಾಹುಷನನ್ನು (ರಾಜನನ್ನು)"
+        },
+        {
+          "pada_original": "शि॒थि॒रे",
+          "pada_kn": "ಶಿಥಿರೇ",
+          "meaning_en": "in the loose / collapsing (place)",
+          "meaning_kn": "ಸಡಿಲವಾದ / ಕುಸಿಯುವ (ಸ್ಥಳದಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "धा॒त‌म्",
+          "pada_kn": "ಧಾತಮ್",
+          "meaning_en": "you placed / put",
+          "meaning_kn": "ನೀವು ಇರಿಸಿದಿರಿ / ಇಟ್ಟಿದಿರಿ"
+        },
+        {
+          "pada_original": "अ॒न्तरिति॑",
+          "pada_kn": "ಅಂತರಿತಿ",
+          "meaning_en": "within / inside",
+          "meaning_kn": "ಒಳಗೆ / ಮಧ್ಯದಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, you liberated Chyavana from decrepitude, and you bestowed a swift steed upon Pedava. From anguish and obscurity, you delivered Atri, and you sheltered King Jahusha within a crumbling edifice.",
+      "full_meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ನೀವು ಚ್ಯವನನನ್ನು ಮುಪ್ಪಿನಿಂದ ಬಿಡುಗಡೆಗೊಳಿಸಿದಿರಿ ಮತ್ತು ನೀವು ಪೇದವನಿಗೆ ಒಂದು ಶೀಘ್ರ ಕುದುರೆಯನ್ನು ದಯಪಾಲಿಸಿದಿರಿ. ಸಂಕಟ ಮತ್ತು ಅಂಧಕಾರದಿಂದ ನೀವು ಅತ್ರಿಯನ್ನು ರಕ್ಷಿಸಿದಿರಿ, ಮತ್ತು ಕುಸಿಯುತ್ತಿರುವ ಕಟ್ಟಡದಲ್ಲಿ ನೀವು ಜಾಹುಷ ರಾಜನನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಆಶ್ರಯಿಸಿದಿರಿ.",
+      "rig_time_s": 63.54,
+      "Insight_en": "The Ashvins represent the divine healers, catalysts of transformation who alleviate suffering and restore vitality. Releasing Chyavana from old age symbolizes transcending the limitations of time and decay. Bestowing a swift horse signifies the gift of accelerated spiritual progress. Rescuing Atri from darkness embodies the dispelling of ignorance through divine grace. Sheltering Jahusha within a collapsing structure mirrors the protection granted to those who surrender to the divine, even amidst life's inevitable tribulations. This mantra speaks to the power of faith and divine intervention in overcoming existential challenges and achieving liberation.",
+      "Insight_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು ದೈವಿಕ ವೈದ್ಯರನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಅವರು ದುಃಖವನ್ನು ನಿವಾರಿಸುವ ಮತ್ತು ಚೈತನ್ಯವನ್ನು ಪುನಃಸ್ಥಾಪಿಸುವ ಪರಿವರ್ತನೆಯ ವೇಗವರ್ಧಕರು. ಚ್ಯವನನನ್ನು ವೃದ್ಧಾಪ್ಯದಿಂದ ಬಿಡುಗಡೆ ಮಾಡುವುದು ಕಾಲ ಮತ್ತು ಅವನತಿಯ ಮಿತಿಗಳನ್ನು ಮೀರುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಒಂದು ಶೀಘ್ರ ಕುದುರೆಯನ್ನು ದಯಪಾಲಿಸುವುದು ತ್ವರಿತ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಯ ಉಡುಗೊರೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅತ್ರಿಯನ್ನು ಕತ್ತಲೆಯಿಂದ ರಕ್ಷಿಸುವುದು ದೈವಿಕ ಕೃಪೆಯಿಂದ ಅಜ್ಞಾನವನ್ನು ಹೋಗಲಾಡಿಸುವುದನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತದೆ. ಕುಸಿಯುತ್ತಿರುವ ರಚನೆಯೊಳಗೆ ಜಾಹುಷನನ್ನು ಆಶ್ರಯಿಸುವುದು ಜೀವನದ ಅನಿವಾರ್ಯ ಸಂಕಷ್ಟಗಳ ನಡುವೆಯೂ ದೈವಕ್ಕೆ ಶರಣಾಗುವವರಿಗೆ ನೀಡುವ ರಕ್ಷಣೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಈ ಮಂತ್ರವು ಅಸ್ತಿತ್ವದ ಸವಾಲುಗಳನ್ನು ಜಯಿಸಲು ಮತ್ತು ವಿಮೋಚನೆಯನ್ನು ಸಾಧಿಸಲು ನಂಬಿಕೆ ಮತ್ತು ದೈವಿಕ ಹಸ್ತಕ್ಷೇಪದ ಶಕ್ತಿಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S71_104-6_6",
+      "mandala": 7,
+      "sukta": 71,
+      "ric_index": 6,
+      "rig_lines": [
+        "इ॒यं म॑नी॒षा, इ॒यम॑श्विना॒ गीरि॒मां सु॑वृ॒क्तिं वृ॑षणा जुषेथाम् |",
+        "इ॒मा ब्रह्मा᳚णि युव॒यून्य॑ग्मन्यू॒यं पा᳚त स्व॒स्तिभिः॒ सदा᳚ नः ||"
+      ],
+      "pre_splits": [
+        "इ॒य‌म्",
+        "म॒नी॒षा",
+        "इ॒य‌म्",
+        "अ॒श्वि॒ना॒",
+        "गीः",
+        "इ॒मा‌म्",
+        "सु॒ऽवृ॒क्ति‌म्",
+        "वृ॒ष॒णा॒",
+        "जु॒षे॒था॒‌म्",
+        "इ॒मा",
+        "ब्रह्मा᳚णि",
+        "यु॒व॒ऽयूनि॑",
+        "अ॒ग्म॒न्",
+        "यू॒य‌म्",
+        "पा॒त॒",
+        "स्व॒स्तिऽभिः॑",
+        "सदा᳚",
+        "नः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इ॒य‌म्",
+          "pada_kn": "ಇಯಮ್",
+          "meaning_en": "This",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "म॒नी॒षा",
+          "pada_kn": "ಮನೀಷಾ",
+          "meaning_en": "thought / prayer",
+          "meaning_kn": "ಸ್ತುತಿ / ಪ್ರಾರ್ಥನೆ"
+        },
+        {
+          "pada_original": "इ॒य‌म्",
+          "pada_kn": "ಇಯಮ್",
+          "meaning_en": "This",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "अ॒श्वि॒ना॒",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "O Ashvins",
+          "meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "गीः",
+          "pada_kn": "ಗೀಃ",
+          "meaning_en": "song / hymn",
+          "meaning_kn": "ಗೀತೆ / ಸ್ತುತಿ"
+        },
+        {
+          "pada_original": "इ॒मा‌म्",
+          "pada_kn": "ಇಮಾಮ್",
+          "meaning_en": "This",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "सु॒ऽवृ॒क्ति‌म्",
+          "pada_kn": "ಸುವೃಕ್ತಿಮ್",
+          "meaning_en": "good praise / eloquent hymn",
+          "meaning_kn": "ಉತ್ತಮ ಸ್ತುತಿ / ಸುಂದರ ಪ್ರಶಂಸೆ"
+        },
+        {
+          "pada_original": "वृ॒ष॒णा॒",
+          "pada_kn": "ವೃಷಣಾ",
+          "meaning_en": "O strong ones / O showerers (of blessings)",
+          "meaning_kn": "ಓ ಶಕ್ತಿಶಾಲಿಗಳೇ / ಓ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ಸುರಿಸುವವರೇ"
+        },
+        {
+          "pada_original": "जु॒षे॒था॒‌म्",
+          "pada_kn": "ಜುಷೇಥಾಮ್",
+          "meaning_en": "may you accept / be pleased with",
+          "meaning_kn": "ಸ್ವೀಕರಿಸಿ / ಪ್ರೀತಿಸಿ"
+        },
+        {
+          "pada_original": "इ॒मा",
+          "pada_kn": "ಇಮಾ",
+          "meaning_en": "These",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "ब्रह्मा᳚णि",
+          "pada_kn": "ಬ್ರಹ್ಮಾಣಿ",
+          "meaning_en": "prayers / sacred words",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆಗಳು / ಮಂತ್ರಗಳು"
+        },
+        {
+          "pada_original": "यु॒व॒ऽयूनि॑",
+          "pada_kn": "ಯುವಯೂನಿ",
+          "meaning_en": "directed towards you (both)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರ ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "अ॒ग्म॒न्",
+          "pada_kn": "ಅಗ್ಮನ್",
+          "meaning_en": "have come / have reached",
+          "meaning_kn": "ಬಂದಿವೆ / ತಲುಪಿವೆ"
+        },
+        {
+          "pada_original": "यू॒य‌म्",
+          "pada_kn": "ಯೂಯಮ್",
+          "meaning_en": "You (plural)",
+          "meaning_kn": "ನೀವು"
+        },
+        {
+          "pada_original": "पा॒त॒",
+          "pada_kn": "ಪಾತ",
+          "meaning_en": "protect",
+          "meaning_kn": "ರಕ್ಷಿಸಿ"
+        },
+        {
+          "pada_original": "स्व॒स्तिऽभिः॑",
+          "pada_kn": "ಸ್ವಸ್ತಿಭಿಃ",
+          "meaning_en": "with blessings / with welfare",
+          "meaning_kn": "ಶುಭಗಳಿಂದ / ಮಂಗಳಗಳಿಂದ"
+        },
+        {
+          "pada_original": "सदा᳚",
+          "pada_kn": "ಸದಾ",
+          "meaning_en": "always",
+          "meaning_kn": "ಯಾವಾಗಲೂ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Ashvins, O heroes, accept this aspiration, this song, this well-crafted praise. These youthful prayers have approached you. May you ever protect us with blessings.",
+      "full_meaning_kn": "ಓ ಅಶ್ವಿನಿ ದೇವತೆಗಳೇ, ಓ ವೀರರೇ, ಈ ಆಶಯವನ್ನು, ಈ ಗೀತೆಯನ್ನು, ಈ ಸುಂದರವಾಗಿ ರಚಿತವಾದ ಸ್ತುತಿಯನ್ನು ಸ್ವೀಕರಿಸಿ. ಈ ಯೌವ್ವನದ ಪ್ರಾರ್ಥನೆಗಳು ನಿಮ್ಮನ್ನು ಸಮೀಪಿಸಿವೆ. ನೀವು ಸದಾ ನಮ್ಮನ್ನು ಆಶೀರ್ವಾದಗಳಿಂದ ರಕ್ಷಿಸಿರಿ.",
+      "rig_time_s": 78.638,
+      "Insight_en": "The inner journey involves refining thought (मनीषा), song (गीरि), and action (सुवृक्ति) into offerings for the divine within. The 'youthful prayers' (ब्रह्माणि युवयू) signify the ever-renewing potential of spiritual practice. Divine grace, represented by the Ashvins, protects the practitioner, ensuring well-being (स्वस्ति) on their path.",
+      "Insight_kn": "ಆಂತರಿಕ ಪಯಣವು ಚಿಂತನೆ (मनीषा), ಗೀತೆ (गीरि), ಮತ್ತು ಕ್ರಿಯೆ (सुवृक्ति) ಗಳನ್ನು ದೈವಿಕತೆಗೆ ಅರ್ಪಿಸುವಲ್ಲಿ ಒಳಗೊಂಡಿದೆ. 'ಯೌವ್ವನದ ಪ್ರಾರ್ಥನೆಗಳು' (ब्रह्माणि युवयू) ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಯ ನಿರಂತರ ನವೀಕರಣದ ಸಾಮರ್ಥ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಶ್ವಿನಿ ದೇವತೆಗಳಿಂದ ಪ್ರತಿನಿಧಿಸಲ್ಪಟ್ಟ ದೈವಿಕ ಕೃಪೆಯು ಅಭ್ಯಾಸಿಯನ್ನು ರಕ್ಷಿಸುತ್ತದೆ, ಅವರ ಮಾರ್ಗದಲ್ಲಿ ಯೋಗಕ್ಷೇಮವನ್ನು (स्वस्ति) ಖಚಿತಪಡಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

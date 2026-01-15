@@ -1,0 +1,496 @@
+{
+  "mandala": 2,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M2-S43_43-1_3",
+      "mandala": 2,
+      "sukta": 43,
+      "ric_index": 1,
+      "rig_lines": [
+        "प्र॒द॒क्षि॒णिद॒भि गृ॑णन्ति का॒रवो॒ वयो॒ वद᳚न्त ऋतु॒था श॒कुन्त॑यः |",
+        "उ॒भे वाचौ᳚ वदति साम॒गा, इ॑व गाय॒त्रं च॒ त्रैष्टु॑भं॒ चानु॑ राजति ||"
+      ],
+      "pre_splits": [
+        "प्र॒ऽद॒क्षि॒णित्",
+        "अ॒भि",
+        "गृ॒ण॒न्ति॒",
+        "का॒रवः॑",
+        "वयः॑",
+        "वद᳚न्तः",
+        "ऋ॒तु॒ऽथा",
+        "श॒कुन्त॑यः",
+        "उ॒भे इति॑",
+        "वाचौ᳚",
+        "व॒द॒ति॒",
+        "सा॒म॒गाःऽ‌इ᳚व",
+        "गा॒य॒त्र‌म्",
+        "च॒",
+        "त्रैस्तु॑भ‌म्",
+        "च॒",
+        "अनु॑",
+        "रा॒ज॒ति॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र॒ऽद॒क्षि॒णित्",
+          "pada_kn": "ಪ್ರದಕ್ಷಿಣಿತ್",
+          "meaning_en": "Moving clockwise / auspiciously",
+          "meaning_kn": "ಪ್ರದಕ್ಷಿಣವಾಗಿ/ಶುಭಕರವಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "Towards / around",
+          "meaning_kn": "ಕಡೆಗೆ/ಸುತ್ತಲೂ"
+        },
+        {
+          "pada_original": "गृ॒ण॒न्ति॒",
+          "pada_kn": "ಗೃಣಂತಿ",
+          "meaning_en": "They praise / they sing",
+          "meaning_kn": "ಅವರು ಸ್ತುತಿಸುತ್ತಾರೆ/ಹಾಡುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "का॒रवः॑",
+          "pada_kn": "ಕಾರವಃ",
+          "meaning_en": "The singers / praisers (here, referring to birds)",
+          "meaning_kn": "ಹಾಡುವವರು/ಸ್ತುತಿಸುವವರು (ಇಲ್ಲಿ ಪಕ್ಷಿಗಳು)"
+        },
+        {
+          "pada_original": "वयः॑",
+          "pada_kn": "ವಯಃ",
+          "meaning_en": "Birds",
+          "meaning_kn": "ಪಕ್ಷಿಗಳು"
+        },
+        {
+          "pada_original": "वद᳚न्तः",
+          "pada_kn": "ವದಂತಃ",
+          "meaning_en": "Speaking / chirping",
+          "meaning_kn": "ಮಾತನಾಡುತ್ತಾ/ಚಿಲಿಪಿಲಿಗುಟ್ಟುತ್ತಾ"
+        },
+        {
+          "pada_original": "ऋ॒तु॒ऽथा",
+          "pada_kn": "ಋತುಥಾ",
+          "meaning_en": "Seasonally / in due season",
+          "meaning_kn": "ಋತುಮಾನಕ್ಕೆ ಅನುಗುಣವಾಗಿ/ಸರಿಯಾದ ಸಮಯದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "श॒कुन्त॑यः",
+          "pada_kn": "ಶಕುಂತಯಃ",
+          "meaning_en": "Birds (small birds)",
+          "meaning_kn": "ಪಕ್ಷಿಗಳು"
+        },
+        {
+          "pada_original": "उ॒भे इति॑",
+          "pada_kn": "ಉಭೇ ಇತಿ",
+          "meaning_en": "Both",
+          "meaning_kn": "ಎರಡೂ"
+        },
+        {
+          "pada_original": "वाचौ᳚",
+          "pada_kn": "ವಾಚೌ",
+          "meaning_en": "Voices / sounds",
+          "meaning_kn": "ಧ್ವನಿಗಳು/ನುಡಿಗಳು"
+        },
+        {
+          "pada_original": "व॒द॒ति॒",
+          "pada_kn": "ವದತಿ",
+          "meaning_en": "Speaks / utters",
+          "meaning_kn": "ಮಾತನಾಡುತ್ತದೆ/ನುಡಿಯುತ್ತದೆ"
+        },
+        {
+          "pada_original": "सा॒म॒गाःऽ‌इ᳚व",
+          "pada_kn": "ಸಾಮಗಾಃಇವ",
+          "meaning_en": "Like the Saman singers",
+          "meaning_kn": "ಸಾಮಗಾನ ಮಾಡುವವರಂತೆ"
+        },
+        {
+          "pada_original": "गा॒य॒त्र‌म्",
+          "pada_kn": "ಗಾಯತ್ರಮ್",
+          "meaning_en": "Gayatri meter",
+          "meaning_kn": "ಗಾಯತ್ರ ಛಂದಸ್ಸು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "त्रैस्तु॑भ‌म्",
+          "pada_kn": "ತ್ರೈಷ್ಟುಭಮ್",
+          "meaning_en": "Trishtubh meter",
+          "meaning_kn": "ತ್ರಿಷ್ಟುಭ ಛಂದಸ್ಸು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "अनु॑",
+          "pada_kn": "ಅನು",
+          "meaning_en": "After / following / according to",
+          "meaning_kn": "ಅನುಸರಿಸಿ/ಹಿಂದೆ"
+        },
+        {
+          "pada_original": "रा॒ज॒ति॒",
+          "pada_kn": "ರಾಜತಿ",
+          "meaning_en": "Shines / resounds / prevails",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತದೆ/ಪ್ರತಿಧ್ವನಿಸುತ್ತದೆ/ಮೆರೆಯುತ್ತದೆ"
+        }
+      ],
+      "full_meaning_en": "The skilled artisans praise with auspicious clockwise movements, uttering words like birds in season. Like singers of the Saman, they speak in two voices; the Gayatri and Trishtubh meters follow and resound after them, establishing harmony.",
+      "full_meaning_kn": "ಋತುಕಾಲಗಳಲ್ಲಿ ಪಕ್ಷಿಗಳಂತೆ ನುಡಿಯುತ್ತಾ, ಪ್ರದಕ್ಷಿಣಾಕಾರವಾಗಿ ಶುಭ ಚಲನೆಗಳೊಂದಿಗೆ ಕುಶಲಕರ್ಮಿಗಳು ಸ್ತುತಿಸುತ್ತಾರೆ. ಸಾಮವೇದದ ಗಾಯಕರಂತೆ, ಅವರು ಎರಡು ಧ್ವನಿಗಳಲ್ಲಿ ಮಾತನಾಡುತ್ತಾರೆ; ಗಾಯತ್ರಿ ಮತ್ತು ತ್ರಿಷ್ಟುಭ ಛಂದಸ್ಸುಗಳು ಅವರನ್ನು ಅನುಸರಿಸುತ್ತವೆ ಮತ್ತು ಪ್ರತಿಧ್ವನಿಸುತ್ತವೆ, ಸಾಮರಸ್ಯವನ್ನು ಸ್ಥಾಪಿಸುತ್ತವೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The cyclical nature of existence echoes in the seasonal songs of birds, reflecting the eternal flow of time (काल). Praise (स्तव) through auspicious actions aligns the individual with cosmic rhythms. The dual expression of the divine finds resonance in the Gayatri and Trishtubh meters, harmonizing intellect and emotion. This highlights the interconnectedness of all creation through sound (शब्द) and devotion.",
+      "Insight_kn": "ಋತುಗಳ ಹಾಡುಗಳಲ್ಲಿ ಅಸ್ತಿತ್ವದ ಚಕ್ರೀಯ ಸ್ವರೂಪವು ಪ್ರತಿಧ್ವನಿಸುತ್ತದೆ, ಇದು ಕಾಲದ ಶಾಶ್ವತ ಹರಿವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಶುಭ ಕಾರ್ಯಗಳ ಮೂಲಕ ಸ್ತುತಿಯು ವ್ಯಕ್ತಿಯನ್ನು ಕಾಸ್ಮಿಕ್ ಲಯಗಳೊಂದಿಗೆ ಜೋಡಿಸುತ್ತದೆ. ದೈವಿಕತೆಯ ದ್ವಂದ್ವ ಅಭಿವ್ಯಕ್ತಿಯು ಗಾಯತ್ರಿ ಮತ್ತು ತ್ರಿಷ್ಟುಭ ಛಂದಸ್ಸುಗಳಲ್ಲಿ ಪ್ರತಿಧ್ವನಿಸುತ್ತದೆ, ಬುದ್ಧಿ ಮತ್ತು ಭಾವನೆಗಳನ್ನು ಸಾಮರಸ್ಯಗೊಳಿಸುತ್ತದೆ. ಇದು ಧ್ವನಿ ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ ಎಲ್ಲಾ ಸೃಷ್ಟಿಯ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S43_43-2_3",
+      "mandala": 2,
+      "sukta": 43,
+      "ric_index": 2,
+      "rig_lines": [
+        "उ॒द्गा॒तेव॑ शकुने॒ साम॑ गायसि ब्रह्मपु॒त्र इ॑व॒ सव॑नेषु शंससि |",
+        "वृषे᳚व वा॒जी शिशु॑मतीर॒पीत्या᳚ स॒र्वतो᳚ नः शकुने भ॒द्रमा व॑द वि॒श्वतो᳚ नः शकुने॒ पुण्य॒मा व॑द ||"
+      ],
+      "pre_splits": [
+        "उ॒द्गा॒ताऽ‌इ᳚व",
+        "श॒कु॒ने॒",
+        "साम॑",
+        "गा॒य॒सि॒",
+        "ब्र॒ह्म॒पु॒त्रःऽ‌इ᳚व",
+        "सव॑नेषु",
+        "शं॒स॒सि॒",
+        "वृषा᳚ऽ‌इव",
+        "वा॒जी",
+        "शिशु॑ऽमतीः",
+        "अ॒पि॒ऽ‌इत्य॑",
+        "स॒र्वतः॑",
+        "नः॒",
+        "श॒कु॒ने॒",
+        "भ॒द्र‌म्",
+        "आ",
+        "व॒द॒",
+        "वि॒श्वतः॑",
+        "नः॒",
+        "श॒कु॒ने॒",
+        "पुण्य᳚‌म्",
+        "आ",
+        "व॒द॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒द्गा॒ताऽ‌इ᳚व",
+          "pada_kn": "ಉದ್ಗಾತಾಇವ",
+          "meaning_en": "Like an Udgātṛ priest / like a chanter",
+          "meaning_kn": "ಉದ್ಗಾತಾ ಪುರೋಹಿತನಂತೆ / ಸಾಮಗಾನ ಮಾಡುವವನಂತೆ"
+        },
+        {
+          "pada_original": "श॒कु॒ने॒",
+          "pada_kn": "ಶಕುನೇ",
+          "meaning_en": "O bird / O omen-bird",
+          "meaning_kn": "ಓ ಪಕ್ಷಿಯೇ / ಓ ಶಕುನ ಪಕ್ಷಿಯೇ"
+        },
+        {
+          "pada_original": "साम॑",
+          "pada_kn": "ಸಾಮ",
+          "meaning_en": "Sāman (chant) / sacred chant",
+          "meaning_kn": "ಸಾಮಗಾನ / ಪವಿತ್ರ ಗಾನ"
+        },
+        {
+          "pada_original": "गा॒य॒सि॒",
+          "pada_kn": "ಗಾಯಸಿ",
+          "meaning_en": "you sing / you chant",
+          "meaning_kn": "ನೀನು ಹಾಡುತ್ತೀಯೆ / ನೀನು ಗಾನ ಮಾಡುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "ब्र॒ह्म॒पु॒त्रःऽ‌इ᳚व",
+          "pada_kn": "ಬ್ರಹ್ಮಪುತ್ರಃಇವ",
+          "meaning_en": "like a son of Brahmā / like a priest's son",
+          "meaning_kn": "ಬ್ರಹ್ಮನ ಮಗನಂತೆ / ಪುರೋಹಿತನ ಮಗನಂತೆ"
+        },
+        {
+          "pada_original": "सव॑नेषु",
+          "pada_kn": "ಸವನೇಶು",
+          "meaning_en": "in the Soma pressings / at the rituals",
+          "meaning_kn": "ಸೋಮರಸ ಹಿಂಡುವ ಯಜ್ಞಗಳಲ್ಲಿ / ಯಜ್ಞಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "शं॒स॒सि॒",
+          "pada_kn": "ಶಂಸಸಿ",
+          "meaning_en": "you recite / you praise",
+          "meaning_kn": "ನೀನು ಪಠಿಸುತ್ತೀಯೆ / ನೀನು ಸ್ತುತಿಸುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "वृषा᳚ऽ‌इव",
+          "pada_kn": "ವೃಷಾಇವ",
+          "meaning_en": "like a strong bull / like a powerful one",
+          "meaning_kn": "ಬಲಿಷ್ಠ ವೃಷಭದಂತೆ / ಶಕ್ತಿಶಾಲಿಯಂತೆ"
+        },
+        {
+          "pada_original": "वा॒जी",
+          "pada_kn": "ವಾಜೀ",
+          "meaning_en": "swift / vigorous",
+          "meaning_kn": "ವೇಗವುಳ್ಳ / ಶಕ್ತಿಶಾಲಿ"
+        },
+        {
+          "pada_original": "शिशु॑ऽमतीः",
+          "pada_kn": "ಶಿಶುಮತೀಃ",
+          "meaning_en": "having young ones / with offspring",
+          "meaning_kn": "ಮರಿಗಳನ್ನುಳ್ಳ / ಸಂತಾನವುಳ್ಳ"
+        },
+        {
+          "pada_original": "अ॒पि॒ऽ‌इत्य॑",
+          "pada_kn": "ಅಪಿಇತ್ಯ",
+          "meaning_en": "approaching / going towards",
+          "meaning_kn": "ಸಮೀಪಿಸಿ / ಹತ್ತಿರ ಹೋಗಿ"
+        },
+        {
+          "pada_original": "स॒र्वतः॑",
+          "pada_kn": "ಸರ್ವತಃ",
+          "meaning_en": "from all sides / everywhere",
+          "meaning_kn": "ಎಲ್ಲಾ ಕಡೆಗಳಿಂದ / ಎಲ್ಲೆಡೆಯಿಂದ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "श॒कु॒ने॒",
+          "pada_kn": "ಶಕುನೇ",
+          "meaning_en": "O bird / O omen-bird",
+          "meaning_kn": "ಓ ಪಕ್ಷಿಯೇ / ಓ ಶಕುನ ಪಕ್ಷಿಯೇ"
+        },
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "good / auspicious",
+          "meaning_kn": "ಶುಭವನ್ನು / ಮಂಗಳವನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / towards us (prefix to vad)",
+          "meaning_kn": "ನಮ್ಮ ಕಡೆಗೆ (ವದ ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "व॒द॒",
+          "pada_kn": "ವದ",
+          "meaning_en": "speak / announce",
+          "meaning_kn": "ಹೇಳು / ತಿಳಿಸು"
+        },
+        {
+          "pada_original": "वि॒श्वतः॑",
+          "pada_kn": "ವಿಶ್ವತಃ",
+          "meaning_en": "from all directions / universally",
+          "meaning_kn": "ಎಲ್ಲಾ ದಿಕ್ಕುಗಳಿಂದ / ಎಲ್ಲೆಡೆಯಿಂದ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "श॒कु॒ने॒",
+          "pada_kn": "ಶಕುನೇ",
+          "meaning_en": "O bird / O omen-bird",
+          "meaning_kn": "ಓ ಪಕ್ಷಿಯೇ / ಓ ಶಕುನ ಪಕ್ಷಿಯೇ"
+        },
+        {
+          "pada_original": "पुण्य᳚‌म्",
+          "pada_kn": "ಪುಣ್ಯಮ್",
+          "meaning_en": "merit / blessings / good fortune",
+          "meaning_kn": "ಪುಣ್ಯವನ್ನು / ಶುಭವನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / towards us (prefix to vad)",
+          "meaning_kn": "ನಮ್ಮ ಕಡೆಗೆ (ವದ ಕ್ರಿಯಾಪದದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "व॒द॒",
+          "pada_kn": "ವದ",
+          "meaning_en": "speak / announce",
+          "meaning_kn": "ಹೇಳು / ತಿಳಿಸು"
+        }
+      ],
+      "full_meaning_en": "O bird, like an Udgātṛ priest, you sing the Sāman; like a son of Brahmā, you recite praises during the Soma ceremonies. Like a swift, vigorous bull approaching the rivers, O bird, speak auspicious things to us from all directions; O bird, announce blessings and good fortune to us from every side.",
+      "full_meaning_kn": "ಓ ಪಕ್ಷಿಯೇ, ಉದ್ಗಾತೃ ಪುರೋಹಿತನಂತೆ ನೀನು ಸಾಮವನ್ನು ಹಾಡುತ್ತೀ; ಬ್ರಹ್ಮಪುತ್ರನಂತೆ ಸೋಮಯಾಗದ ಸಮಯದಲ್ಲಿ ಸ್ತುತಿಗಳನ್ನು ಪಠಿಸುತ್ತೀ. ನದಿಯನ್ನು ಸಮೀಪಿಸುವ ಬಲಿಷ್ಠ ವೃಷಭದಂತೆ, ಓ ಪಕ್ಷಿಯೇ, ನಮ್ಮೆಲ್ಲ ಕಡೆಗಳಿಂದ ಶುಭವನ್ನು ನುಡಿ; ಓ ಪಕ್ಷಿಯೇ, ನಮಗೆಲ್ಲಾ ಕಡೆಗಳಿಂದ ಪುಣ್ಯ ಮತ್ತು ಅದೃಷ್ಟವನ್ನು ಘೋಷಿಸು.",
+      "rig_time_s": 14.75,
+      "Insight_en": "The bird symbolizes the soul (आत्मा), which, through devotion (भक्ति) and knowledge (ज्ञान), sings the song of the divine. The Soma ceremony represents the inner purification, and the recitation is the expression of realized truth. Like a bull nurturing its offspring, the soul nourishes the self with auspiciousness and blessings from all directions, achieving wholeness (पूर्णत्व).",
+      "Insight_kn": "ಪಕ್ಷಿಯು ಆತ್ಮವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಅದು ಭಕ್ತಿ ಮತ್ತು ಜ್ಞಾನದ ಮೂಲಕ ದೈವಿಕ ಗೀತೆಯನ್ನು ಹಾಡುತ್ತದೆ. ಸೋಮಯಾಗವು ಆಂತರಿಕ ಶುದ್ಧೀಕರಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಮತ್ತು ಪಠಣವು ಸಾಕ್ಷಾತ್ಕರಿಸಿದ ಸತ್ಯದ ಅಭಿವ್ಯಕ್ತಿಯಾಗಿದೆ. ತನ್ನ ಸಂತತಿಯನ್ನು ಪೋಷಿಸುವ ವೃಷಭದಂತೆ, ಆತ್ಮವು ಎಲ್ಲಾ ದಿಕ್ಕುಗಳಿಂದಲೂ ಶುಭ ಮತ್ತು ಆಶೀರ್ವಾದಗಳೊಂದಿಗೆ ಸ್ವಯಂ ಅನ್ನು ಪೋಷಿಸುತ್ತದೆ, ಇದರಿಂದ ಪೂರ್ಣತ್ವವನ್ನು ಸಾಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S43_43-3_3",
+      "mandala": 2,
+      "sukta": 43,
+      "ric_index": 3,
+      "rig_lines": [
+        "आ॒वदँ॒स्त्वं श॑कुने भ॒द्रमा व॑द तू॒ष्णीमासी᳚नः सुम॒तिं चि॑किद्धि नः |",
+        "यदु॒त्पत॒न्‌ वद॑सि कर्क॒रिर्य॑था बृ॒हद्‌ व॑देम वि॒दथे᳚ सु॒वीराः᳚ ||"
+      ],
+      "pre_splits": [
+        "आ॒ऽवद॑न्",
+        "त्व‌म्",
+        "स॒कु॒ने॒",
+        "भ॒द्र‌म्",
+        "आ",
+        "व॒द॒",
+        "तू॒ष्णी‌म्",
+        "आसी᳚नः",
+        "सु॒ऽम॒ति‌म्",
+        "चि॒कि॒द्धि॒",
+        "नः॒",
+        "यत्",
+        "उ॒त्ऽपत॑न्",
+        "वद॑सि",
+        "क॒र्क॒रिः",
+        "य॒था॒",
+        "बृ॒हत्",
+        "व॒दे॒म॒",
+        "वि॒दथे᳚",
+        "सु॒ऽवीराः᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ॒ऽवद॑न्",
+          "pada_kn": "ಆವದನ್",
+          "meaning_en": "speaking / uttering",
+          "meaning_kn": "ನುಡಿಯುವ/ಮಾತನಾಡುವ"
+        },
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "you",
+          "meaning_kn": "ನೀನು"
+        },
+        {
+          "pada_original": "स॒कु॒ने॒",
+          "pada_kn": "ಶಕುನೇ",
+          "meaning_en": "O bird / O omen-bird",
+          "meaning_kn": "ಓ ಪಕ್ಷಿಯೇ / ಓ ಶಕುನಪಕ್ಷಿಯೇ"
+        },
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "auspicious / good",
+          "meaning_kn": "ಶುಭವನ್ನು / ಒಳ್ಳೆಯದನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle, intensifies 'speak')",
+          "meaning_kn": "(ನುಡಿ ಎಂಬುದನ್ನು ತೀವ್ರಗೊಳಿಸುವ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "व॒द॒",
+          "pada_kn": "ವದ",
+          "meaning_en": "speak / say (imperative)",
+          "meaning_kn": "ನುಡಿ / ಹೇಳು"
+        },
+        {
+          "pada_original": "तू॒ष्णी‌म्",
+          "pada_kn": "ತೂಷ್ಣೀಮ್",
+          "meaning_en": "silently / quietly",
+          "meaning_kn": "ಮೌನವಾಗಿ / ಸುಮ್ಮನೆ"
+        },
+        {
+          "pada_original": "आसी᳚नः",
+          "pada_kn": "ಆಸೀನಃ",
+          "meaning_en": "sitting",
+          "meaning_kn": "ಕುಳಿತಿರುವ"
+        },
+        {
+          "pada_original": "सु॒ऽम॒ति‌म्",
+          "pada_kn": "ಸುಮತಿಮ್",
+          "meaning_en": "good thought / good counsel",
+          "meaning_kn": "ಒಳ್ಳೆಯ ಬುದ್ಧಿ / ಸದ್ವಿಚಾರ"
+        },
+        {
+          "pada_original": "चि॒कि॒द्धि॒",
+          "pada_kn": "ಚಿಕಿದ್ಧಿ",
+          "meaning_en": "make known / understand (imperative)",
+          "meaning_kn": "ತಿಳಿಸು / ಅರಿತುಕೊ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / if",
+          "meaning_kn": "ಯಾವಾಗ / ಒಂದು ವೇಳೆ"
+        },
+        {
+          "pada_original": "उ॒त्ऽपत॑न्",
+          "pada_kn": "ಉತ್ಪತನ್",
+          "meaning_en": "flying up / soaring",
+          "meaning_kn": "ಹಾರುತ್ತಾ / ಮೇಲೇರುತ್ತಾ"
+        },
+        {
+          "pada_original": "वद॑सि",
+          "pada_kn": "ವದಸಿ",
+          "meaning_en": "you speak / you utter",
+          "meaning_kn": "ನೀನು ನುಡಿಯುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "क॒र्क॒रिः",
+          "pada_kn": "ಕರ್ಕರಿಃ",
+          "meaning_en": "like a partridge (a specific bird) / making a specific sound",
+          "meaning_kn": "ಕರ್ಕರಿ ಪಕ್ಷಿಯಂತೆ / ಒಂದು ನಿರ್ದಿಷ್ಟ ಧ್ವನಿಯಂತೆ"
+        },
+        {
+          "pada_original": "य॒था॒",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "as / just as",
+          "meaning_kn": "ಹೇಗೆ / ಹಾಗೆ"
+        },
+        {
+          "pada_original": "बृ॒हत्",
+          "pada_kn": "ಬೃಹತ್",
+          "meaning_en": "greatly / loudly / grandly",
+          "meaning_kn": "ಮಹತ್ತಾಗಿ / ದೊಡ್ಡದಾಗಿ"
+        },
+        {
+          "pada_original": "व॒दे॒म॒",
+          "pada_kn": "ವದೇಮ",
+          "meaning_en": "may we speak / may we utter",
+          "meaning_kn": "ನಾವು ನುಡಿಯೋಣ / ಮಾತನಾಡೋಣ"
+        },
+        {
+          "pada_original": "वि॒दथे᳚",
+          "pada_kn": "ವಿದಥೇ",
+          "meaning_en": "in the assembly / in the sacrifice",
+          "meaning_kn": "ಸಭೆಯಲ್ಲಿ / ಯಜ್ಞದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "सु॒ऽवीराः᳚",
+          "pada_kn": "ಸುವೀರಾಃ",
+          "meaning_en": "rich in heroes / having good heroes / brave",
+          "meaning_kn": "ವೀರರಿಂದ ಕೂಡಿದವರಾಗಿ / ಉತ್ತಮ ವೀರರನ್ನು ಹೊಂದಿದವರಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O bird of omen, speak forth auspicious words! Sitting quietly, reveal to us good thoughts. When you, flying upwards, speak like the karkari bird, may we, rich in heroes, speak grandly in the assembly.",
+      "full_meaning_kn": "ಓ ಶಕುನ ಪಕ್ಷಿಯೇ, ಮಂಗಳಕರವಾದ ಮಾತುಗಳನ್ನಾಡು! ಮೌನವಾಗಿ ಕುಳಿತು, ನಮಗೆ ಒಳ್ಳೆಯ ಆಲೋಚನೆಗಳನ್ನು ತಿಳಿಸು. ನೀನು ಹಾರಿ ಮೇಲಕ್ಕೆದ್ದಾಗ, ಕರ್ಕರಿಯಂತೆ ಮಾತನಾಡುತ್ತೀಯೋ, ಆಗ ನಾವು ವೀರರಿಂದ ಸಮೃದ್ಧರಾಗಿ ಸಭೆಯಲ್ಲಿ ಗಂಭೀರವಾಗಿ ಮಾತನಾಡೋಣ.",
+      "rig_time_s": 33.233,
+      "Insight_en": "The inner voice, like the omen-bird, holds the potential for auspicious guidance. Silence allows the subtle intuition (सूक्ष्म-अनुभूति) to arise, revealing beneficial insights. Emulating the soaring spirit of the bird, one can express profound truths with strength and courage in the assembly of consciousness. True heroism lies in the articulation of wisdom.",
+      "Insight_kn": "ಶಕುನ ಪಕ್ಷಿಯಂತೆ, ಆಂತರಿಕ ಧ್ವನಿಯು ಶುಭ ಮಾರ್ಗದರ್ಶನದ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊಂದಿದೆ. ಮೌನವು ಸೂಕ್ಷ್ಮ-ಅನುಭೂತಿಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ, ಇದು ಪ್ರಯೋಜನಕಾರಿ ಒಳನೋಟಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಹಕ್ಕಿಯ ಹಾರುವ ಉತ್ಸಾಹವನ್ನು ಅನುಕರಿಸುವ ಮೂಲಕ, ಒಬ್ಬರು ಪ್ರಜ್ಞೆಯ ಸಭೆಯಲ್ಲಿ ಶಕ್ತಿ ಮತ್ತು ಧೈರ್ಯದಿಂದ ಆಳವಾದ ಸತ್ಯಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸಬಹುದು. ನಿಜವಾದ ವೀರತ್ವ ಇರುವುದು ಜ್ಞಾನದ ಅಭಿವ್ಯಕ್ತಿಯಲ್ಲಿ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

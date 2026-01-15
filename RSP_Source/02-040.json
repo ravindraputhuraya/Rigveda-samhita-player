@@ -1,0 +1,797 @@
+{
+  "mandala": 2,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M2-S40_43-1_6",
+      "mandala": 2,
+      "sukta": 40,
+      "ric_index": 1,
+      "rig_lines": [
+        "सोमा᳚पूषणा॒ जन॑ना रयी॒णां जन॑ना दि॒वो जन॑ना पृथि॒व्याः |",
+        "जा॒तौ विश्व॑स्य॒ भुव॑नस्य गो॒पौ दे॒वा, अ॑कृण्वन्न॒मृत॑स्य॒ नाभि᳚म् ||"
+      ],
+      "pre_splits": [
+        "सोमा᳚पूषणा",
+        "जन॑ना",
+        "र॒यी॒णा‌म्",
+        "जन॑ना",
+        "दि॒वः",
+        "जन॑ना",
+        "पृ॒थि॒व्याः",
+        "जा॒तौ",
+        "विश्व॑स्य",
+        "भुव॑नस्य",
+        "गो॒पौ",
+        "दे॒वाः",
+        "अ॒कृ॒ण्व॒न्",
+        "अ॒मृत॑स्य",
+        "नाभि᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "सोमा᳚पूषणा",
+          "pada_kn": "ಸೋಮಾಪೂಷಣಾ",
+          "meaning_en": "Soma and Pūṣan",
+          "meaning_kn": "ಸೋಮ ಮತ್ತು ಪೂಷಣರು"
+        },
+        {
+          "pada_original": "जन॑ना",
+          "pada_kn": "ಜನನಾ",
+          "meaning_en": "generators / begetters",
+          "meaning_kn": "ಉತ್ಪಾದಕರು / ಸೃಷ್ಟಿಕರ್ತರು"
+        },
+        {
+          "pada_original": "र॒यी॒णा‌म्",
+          "pada_kn": "ರಯೀಣಾಮ್",
+          "meaning_en": "of riches / wealth",
+          "meaning_kn": "ಸಂಪತ್ತುಗಳ / ಐಶ್ವರ್ಯಗಳ"
+        },
+        {
+          "pada_original": "जन॑ना",
+          "pada_kn": "ಜನನಾ",
+          "meaning_en": "generators / begetters",
+          "meaning_kn": "ಉತ್ಪಾದಕರು / ಸೃಷ್ಟಿಕರ್ತರು"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "of heaven / sky",
+          "meaning_kn": "ದ್ಯುಲೋಕದ / ಆಕಾಶದ"
+        },
+        {
+          "pada_original": "जन॑ना",
+          "pada_kn": "ಜನನಾ",
+          "meaning_en": "generators / begetters",
+          "meaning_kn": "ಉತ್ಪಾದಕರು / ಸೃಷ್ಟಿಕರ್ತರು"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्याः",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಃ",
+          "meaning_en": "of earth",
+          "meaning_kn": "ಭೂಮಿಯ"
+        },
+        {
+          "pada_original": "जा॒तौ",
+          "pada_kn": "ಜಾತೌ",
+          "meaning_en": "the two born ones / existing ones",
+          "meaning_kn": "ಹುಟ್ಟಿದವರು / ಇರುವವರು (ಇಬ್ಬರು)"
+        },
+        {
+          "pada_original": "विश्व॑स्य",
+          "pada_kn": "ವಿಶ್ವಸ್ಯ",
+          "meaning_en": "of all / universal",
+          "meaning_kn": "ಸಮಸ್ತದ / ಎಲ್ಲದರ"
+        },
+        {
+          "pada_original": "भुव॑नस्य",
+          "pada_kn": "ಭುವನಸ್ಯ",
+          "meaning_en": "of the world / existence",
+          "meaning_kn": "ಲೋಕದ / ಭುವನದ"
+        },
+        {
+          "pada_original": "गो॒पौ",
+          "pada_kn": "ಗೋಪೌ",
+          "meaning_en": "protectors / guardians",
+          "meaning_kn": "ರಕ್ಷಕರು / ಪಾಲಕರು"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "अ॒कृ॒ण्व॒न्",
+          "pada_kn": "ಅಕೃಣ್ವನ್",
+          "meaning_en": "they made / created",
+          "meaning_kn": "ಅವರು ಮಾಡಿದರು / ಸೃಷ್ಟಿಸಿದರು"
+        },
+        {
+          "pada_original": "अ॒मृत॑स्य",
+          "pada_kn": "ಅಮೃತಸ್ಯ",
+          "meaning_en": "of immortality / nectar",
+          "meaning_kn": "ಅಮೃತದ / ಅಮರತ್ವದ"
+        },
+        {
+          "pada_original": "नाभि᳚‌म्",
+          "pada_kn": "ನಾಭಿಮ್",
+          "meaning_en": "navel / center / source",
+          "meaning_kn": "ನಾಭಿ / ಕೇಂದ್ರ / ಮೂಲ"
+        }
+      ],
+      "full_meaning_en": "O Soma and Pūṣan, progenitors of riches, progenitors of the heavens, progenitors of the earth! Born as guardians of all existence, the radiant gods fashioned you as the very navel of immortality.",
+      "full_meaning_kn": "ಓ ಸೋಮ ಮತ್ತು ಪೂಷನ್, ಸಂಪತ್ತಿನ ಜನಕರು, ಸ್ವರ್ಗದ ಜನಕರು, ಭೂಮಿಯ ಜನಕರು! ಸಮಸ್ತ ಅಸ್ತಿತ್ವದ ರಕ್ಷಕರಾಗಿ ಜನಿಸಿದ ನಿಮ್ಮನ್ನು, ಬೆಳಗುವ ದೇವತೆಗಳು ಅಮರತ್ವದ ಕೇಂದ್ರವನ್ನಾಗಿ ರೂಪಿಸಿದರು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The mantra reveals Soma and Pūṣan as the dual forces of creation and preservation. They represent the divine will manifesting as both the invigorating and the nourishing aspects of existence. Their role as the 'navel of immortality' signifies that true liberation arises from understanding and integrating these cosmic energies within oneself. By recognizing the interplay of Soma (the nectar of bliss) and Pūṣan (the sustainer), one finds the source of everlasting life (अमृत) within the very core of being.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಸೋಮ ಮತ್ತು ಪೂಷನ್ರನ್ನು ಸೃಷ್ಟಿ ಮತ್ತು ಸಂರಕ್ಷಣೆಯ ದ್ವಂದ್ವ ಶಕ್ತಿಗಳೆಂದು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಅವರು ದೈವಿಕ ಇಚ್ಛಾಶಕ್ತಿಯನ್ನು ಜೀವನದ ಉತ್ತೇಜಕ ಮತ್ತು ಪೋಷಿಸುವ ಅಂಶಗಳಾಗಿ ವ್ಯಕ್ತಪಡಿಸುತ್ತಾರೆ. 'ಅಮರತ್ವದ ಕೇಂದ್ರ' ವಾಗಿ ಅವರ ಪಾತ್ರವು ನಿಜವಾದ ವಿಮೋಚನೆಯು ಈ ಕಾಸ್ಮಿಕ್ ಶಕ್ತಿಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಮತ್ತು ತನ್ನೊಳಗೆ ಸಂಯೋಜಿಸುವುದರಿಂದ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಸೋಮ (ಆನಂದದ ಮಕರಂದ) ಮತ್ತು ಪೂಷನ್ (ಪೋಷಕ) ಪರಸ್ಪರ ಕ್ರಿಯೆಯನ್ನು ಗುರುತಿಸುವ ಮೂಲಕ, ಒಬ್ಬರು ಅಸ್ತಿತ್ವದ ಮೂಲದಲ್ಲಿ ಶಾಶ್ವತ ಜೀವನದ (ಅಮೃತ) ಮೂಲವನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತಾರೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S40_43-2_6",
+      "mandala": 2,
+      "sukta": 40,
+      "ric_index": 2,
+      "rig_lines": [
+        "इ॒मौ दे॒वौ जाय॑मानौ जुषन्ते॒मौ तमां᳚सि गूहता॒मजु॑ष्टा |",
+        "आ॒भ्यामिन्द्रः॑ प॒क्वमा॒मास्व॒न्तः सो᳚मापू॒षभ्यां᳚ जनदु॒स्रिया᳚सु ||"
+      ],
+      "pre_splits": [
+        "इ॒मौ",
+        "दे॒वौ",
+        "जाय॑मानौ",
+        "जु॒ष॒न्त॒",
+        "इ॒मौ",
+        "तमां᳚सि",
+        "गू॒ह॒ता॒‌म्",
+        "अजु॑ष्टा",
+        "आ॒भ्या‌म्",
+        "इन्द्रः॑",
+        "प॒क्व‌म्",
+        "आ॒मासु॑",
+        "अ॒न्तरिति॑",
+        "सो॒मा॒पू॒षऽभ्या᳚‌म्",
+        "ज॒न॒त्",
+        "उ॒स्रिया᳚सु"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इ॒मौ",
+          "pada_kn": "ಇಮೌ",
+          "meaning_en": "these two",
+          "meaning_kn": "ಈ ಇಬ್ಬರು"
+        },
+        {
+          "pada_original": "दे॒वौ",
+          "pada_kn": "ದೇವೌ",
+          "meaning_en": "gods (Soma and Pūṣan)",
+          "meaning_kn": "ದೇವತೆಗಳು (ಸೋಮ ಮತ್ತು ಪೂಷನ್)"
+        },
+        {
+          "pada_original": "जाय॑मानौ",
+          "pada_kn": "ಜಾಯಮಾನೌ",
+          "meaning_en": "being born / manifesting",
+          "meaning_kn": "ಹುಟ್ಟುತ್ತಿರುವ / ಪ್ರಕಟವಾಗುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "जु॒ष॒न्त॒",
+          "pada_kn": "ಜುಷಂತ",
+          "meaning_en": "they enjoy / they favor",
+          "meaning_kn": "ಅವರು ಆನಂದಿಸುತ್ತಾರೆ / ಅನುಗ್ರಹಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "इ॒मौ",
+          "pada_kn": "ಇಮೌ",
+          "meaning_en": "these two",
+          "meaning_kn": "ಈ ಇಬ್ಬರು"
+        },
+        {
+          "pada_original": "तमां᳚सि",
+          "pada_kn": "ತಮಾಂಸಿ",
+          "meaning_en": "darknesses / obscurities",
+          "meaning_kn": "ಕತ್ತಲೆಗಳು / ಅಂಧಕಾರಗಳು"
+        },
+        {
+          "pada_original": "गू॒ह॒ता॒‌म्",
+          "pada_kn": "ಗೂಹತಾಮ್",
+          "meaning_en": "may they conceal / hide",
+          "meaning_kn": "ಅವರು ಮರೆಮಾಡಲಿ / ಅಡಗಿಸಲಿ"
+        },
+        {
+          "pada_original": "अजु॑ष्टा",
+          "pada_kn": "ಅಜುಷ್ಟಾ",
+          "meaning_en": "unloved / disliked / unpleasing",
+          "meaning_kn": "ಇಷ್ಟವಿಲ್ಲದ / ಅಪ್ರಿಯವಾದ"
+        },
+        {
+          "pada_original": "आ॒भ्या‌म्",
+          "pada_kn": "ಆಭ್ಯಾಮ್",
+          "meaning_en": "by these two",
+          "meaning_kn": "ಈ ಇಬ್ಬರಿಂದ"
+        },
+        {
+          "pada_original": "इन्द्रः॑",
+          "pada_kn": "ಇಂದ್ರಃ",
+          "meaning_en": "Indra",
+          "meaning_kn": "ಇಂದ್ರನು"
+        },
+        {
+          "pada_original": "प॒क्व‌म्",
+          "pada_kn": "ಪಕ್ವಮ್",
+          "meaning_en": "ripe / mature (wealth/milk)",
+          "meaning_kn": "ಪಕ್ವವಾದ / ಮಾಗಿದ (ಸಂಪತ್ತು/ಹಾಲು)"
+        },
+        {
+          "pada_original": "आ॒मासु॑",
+          "pada_kn": "ಆಮಾಸು",
+          "meaning_en": "among the raw / unripe",
+          "meaning_kn": "ಕಚ್ಚಾ / ಅಪಕ್ವವಾದವುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒न्तरिति॑",
+          "pada_kn": "ಅಂತರಿತಿ",
+          "meaning_en": "within / inside",
+          "meaning_kn": "ಒಳಗೆ / ಮಧ್ಯೆ"
+        },
+        {
+          "pada_original": "सो॒मा॒पू॒षऽभ्या᳚‌म्",
+          "pada_kn": "ಸೋಮಾಪೂಷಭ್ಯಾಮ್",
+          "meaning_en": "by Soma and Pūṣan",
+          "meaning_kn": "ಸೋಮ ಮತ್ತು ಪೂಷನ್ ಇವರಿಂದ"
+        },
+        {
+          "pada_original": "ज॒न॒त्",
+          "pada_kn": "ಜನತ್",
+          "meaning_en": "he produced / generated",
+          "meaning_kn": "ಅವನು ಉತ್ಪಾದಿಸಿದನು / ಸೃಷ್ಟಿಸಿದನು"
+        },
+        {
+          "pada_original": "उ॒स्रिया᳚सु",
+          "pada_kn": "ಉಸ್ರಿಯಾಸು",
+          "meaning_en": "among the cows / dawns",
+          "meaning_kn": "ಗೋವುಗಳಲ್ಲಿ / ಉಷೆಗಳಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "These two deities, Soma and Pūṣan, are rejoiced at their very manifestation. May these two conceal the unwelcome darkness. Through these two, Indra brings forth the ripened essence from the unripened, Soma and Pūṣan engender the luminous cows in the dawns.",
+      "full_meaning_kn": "ಈ ಇಬ್ಬರು ದೇವತೆಗಳಾದ ಸೋಮ ಮತ್ತು ಪೂಷನ್ ಅವರ ಪ್ರಕಟಣೆಯಲ್ಲಿಯೇ ಆನಂದಿಸಲ್ಪಡುತ್ತಾರೆ. ಈ ಇಬ್ಬರೂ ಅನಪೇಕ್ಷಿತ ಕತ್ತಲೆಯನ್ನು ಮರೆಮಾಡಲಿ. ಈ ಇಬ್ಬರ ಮೂಲಕ, ಇಂದ್ರನು ಹಣ್ಣಾಗದ ವಸ್ತುವಿನಿಂದ ಹಣ್ಣಾದ ಸಾರವನ್ನು ಹೊರತರುತ್ತಾನೆ, ಸೋಮ ಮತ್ತು ಪೂಷನ್ ಉಷಾಕಾಲದಲ್ಲಿ ಪ್ರಕಾಶಮಾನವಾದ ಹಸುಗಳನ್ನು ಉತ್ಪಾದಿಸುತ್ತಾರೆ.",
+      "rig_time_s": 14.442,
+      "Insight_en": "The mantra speaks of the interplay between the manifest and the unmanifest. Soma and Pūṣan represent the divine forces that transform potential into reality. Indra, through their agency, extracts the ripe essence—the truth, the bliss—from the raw, unformed experiences of life. The darkness to be concealed signifies ignorance and delusion, while the luminous cows born in the dawn represent the awakening of consciousness.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ವ್ಯಕ್ತ ಮತ್ತು ಅವ್ಯಕ್ತ ಸ್ಥಿತಿಯ ನಡುವಿನ ಪರಸ್ಪರ ಕ್ರಿಯೆಯ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ. ಸೋಮ ಮತ್ತು ಪೂಷನ್ ದೈವಿಕ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಅದು ಸುಪ್ತ ಸಾಮರ್ಥ್ಯವನ್ನು ವಾಸ್ತವವಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ. ಇಂದ್ರನು, ಅವರ ಸಹಾಯದಿಂದ, ಹಣ್ಣಾಗದ ಅನುಭವಗಳಿಂದ ಸಾರವನ್ನು ಹೊರತೆಗೆಯುತ್ತಾನೆ — ಸತ್ಯ, ಆನಂದ. ಮರೆಮಾಡಬೇಕಾದ ಕತ್ತಲೆಯು ಅಜ್ಞಾನ ಮತ್ತು ಭ್ರಮೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಆದರೆ ಮುಂಜಾನೆ ಜನಿಸಿದ ಪ್ರಕಾಶಮಾನವಾದ ಹಸುಗಳು ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S40_43-3_6",
+      "mandala": 2,
+      "sukta": 40,
+      "ric_index": 3,
+      "rig_lines": [
+        "सोमा᳚पूषणा॒ रज॑सो वि॒मानं᳚ स॒प्तच॑क्रं॒ रथ॒मवि॑श्वमिन्वम् |",
+        "वि॒षू॒वृतं॒ मन॑सा यु॒ज्यमा᳚नं॒ तं जि᳚न्वथो वृषणा॒ पञ्च॑रश्मिम् ||"
+      ],
+      "pre_splits": [
+        "सोमा᳚पूषणा",
+        "रज॑सः",
+        "वि॒ऽमान᳚‌म्",
+        "स॒प्तऽच॑क्र‌म्",
+        "रथ᳚‌म्",
+        "अवि॑श्वऽमिन्व‌म्",
+        "वि॒षु॒ऽवृत᳚‌म्",
+        "मन॑सा",
+        "यु॒ज्यमा᳚न‌म्",
+        "त‌म्",
+        "जि॒न्व॒थः॒",
+        "वृ॒ष॒णा॒",
+        "पंच॑ऽरश्मि‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "सोमा᳚पूषणा",
+          "pada_kn": "ಸೋಮಾಪೂಷಣಾ",
+          "meaning_en": "O Soma and Pūṣan",
+          "meaning_kn": "ಓ ಸೋಮ ಮತ್ತು ಪೂಷನ್ (ದೇವತೆಗಳೇ)"
+        },
+        {
+          "pada_original": "रज॑सः",
+          "pada_kn": "ರಜಸಃ",
+          "meaning_en": "of the mid-region / of the atmosphere",
+          "meaning_kn": "ಅಂತರಿಕ್ಷದ / ಲೋಕದ"
+        },
+        {
+          "pada_original": "वि॒ऽमान᳚‌म्",
+          "pada_kn": "ವಿಮಾನಮ್",
+          "meaning_en": "traversing / measuring (the world)",
+          "meaning_kn": "ಅಳೆಯುವ / ಸಂಚರಿಸುವ"
+        },
+        {
+          "pada_original": "स॒प्तऽच॑क्र‌म्",
+          "pada_kn": "ಸಪ್ತಚಕ್ರಮ್",
+          "meaning_en": "seven-wheeled",
+          "meaning_kn": "ಏಳು ಚಕ್ರಗಳಿರುವ"
+        },
+        {
+          "pada_original": "रथ᳚‌म्",
+          "pada_kn": "ರಥಮ್",
+          "meaning_en": "chariot",
+          "meaning_kn": "ರಥವನ್ನು"
+        },
+        {
+          "pada_original": "अवि॑श्वऽमिन्व‌म्",
+          "pada_kn": "ಅವಿಶ್ವಮಿನ್ವಮ್",
+          "meaning_en": "irresistible / not to be surpassed by all",
+          "meaning_kn": "ಯಾರಿಂದಲೂ ಮೀರಿಸಲಾಗದ / ಅಪ್ರತಿಮವಾದ"
+        },
+        {
+          "pada_original": "वि॒षु॒ऽवृत᳚‌म्",
+          "pada_kn": "ವಿಷುವೃತಮ್",
+          "meaning_en": "turning in all directions / all-pervading",
+          "meaning_kn": "ಎಲ್ಲ ದಿಕ್ಕುಗಳಲ್ಲಿ ತಿರುಗುವ / ಸರ್ವವ್ಯಾಪಿಯಾದ"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "by mind / with thought",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ / ಚಿಂತನೆಯಿಂದ"
+        },
+        {
+          "pada_original": "यु॒ज्यमा᳚न‌म्",
+          "pada_kn": "ಯುಜ್ಯಮಾನಮ್",
+          "meaning_en": "being yoked / controlled",
+          "meaning_kn": "ಹೂಡಲ್ಪಟ್ಟಿರುವ / ನಿಯಂತ್ರಿಸಲ್ಪಡುವ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "that (chariot)",
+          "meaning_kn": "ಆ (ರಥವನ್ನು)"
+        },
+        {
+          "pada_original": "जि॒न्व॒थः॒",
+          "pada_kn": "ಜಿನ್ವಥಃ",
+          "meaning_en": "you (two) quicken / propel",
+          "meaning_kn": "ನೀವು (ಇಬ್ಬರೂ) ಪ್ರೇರಿಸುತ್ತೀರಿ / ಚಲಿಸುವಂತೆ ಮಾಡುತ್ತೀರಿ"
+        },
+        {
+          "pada_original": "वृ॒ष॒णा॒",
+          "pada_kn": "ವೃಷಣಾ",
+          "meaning_en": "O mighty ones / O showerers (of blessings)",
+          "meaning_kn": "ಓ ಶಕ್ತಿಶಾಲಿಗಳೇ / ವರಗಳನ್ನು ಸುರಿಸುವವರೇ"
+        },
+        {
+          "pada_original": "पंच॑ऽरश्मि‌म्",
+          "pada_kn": "ಪಂಚರಶ್ಮಿಮ್",
+          "meaning_en": "five-reined / five-rayed",
+          "meaning_kn": "ಐದು ಕಡಿವಾಣಗಳಿರುವ / ಐದು ಕಿರಣಗಳಿರುವ"
+        }
+      ],
+      "full_meaning_en": "O Soma and Pūṣan, mighty lords, you energize that seven-wheeled chariot, traversing the realm of space, unconquerable, turning in every direction, yoked by the mind, possessing five reins.",
+      "full_meaning_kn": "ಓ ಸೋಮ ಮತ್ತು ಪೂಷನ್, ಬಲಿಷ್ಠ ಪ್ರಭುಗಳೇ, ನೀವು ಆ ಏಳು ಚಕ್ರಗಳ ರಥವನ್ನು ಚೈತನ್ಯಗೊಳಿಸುತ್ತೀರಿ, ಅದು ಅಂತರಿಕ್ಷದ ಸಾಮ್ರಾಜ್ಯವನ್ನು ದಾಟುತ್ತದೆ, ಅಜೇಯನಾಗಿ, ಪ್ರತಿಯೊಂದು ದಿಕ್ಕಿನಲ್ಲಿ ತಿರುಗುತ್ತಾ, ಮನಸ್ಸಿನಿಂದ ಕೂಡಿದ್ದು, ಐದು ಲಗಾಮುಗಳನ್ನು ಹೊಂದಿದೆ.",
+      "rig_time_s": 29.586,
+      "Insight_en": "The seven-wheeled chariot represents the multifaceted human existence, guided by मनस् (manas), the mind. The five reins symbolize the five senses, which Soma and Pūṣan, representing the divine and nourishing aspects, must control to navigate the रजस् (rajas), the realm of activity and passion. True progress requires harnessing the senses and aligning them with the divine will.",
+      "Insight_kn": "ಏಳು ಚಕ್ರಗಳ ರಥವು ಮಾನವ ಅಸ್ತಿತ್ವದ ಬಹುಮುಖತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದನ್ನು ಮನಸ್‌ನಿಂದ ನಿರ್ದೇಶಿಸಲಾಗುತ್ತದೆ. ಐದು ಲಗಾಮುಗಳು ಐದು ಇಂದ್ರಿಯಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ, ಇವುಗಳನ್ನು ಸೋಮ ಮತ್ತು ಪೂಷನ್, ದೈವಿಕ ಮತ್ತು ಪೋಷಿಸುವ ಅಂಶಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಚಟುವಟಿಕೆ ಮತ್ತು ಉತ್ಸಾಹದ ಕ್ಷೇತ್ರವಾದ ರಜಸ್ಸನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು ನಿಯಂತ್ರಿಸಬೇಕು. ನಿಜವಾದ ಪ್ರಗತಿಗೆ ಇಂದ್ರಿಯಗಳನ್ನು ಬಳಸಿಕೊಳ್ಳುವುದು ಮತ್ತು ಅವುಗಳನ್ನು ದೈವಿಕ ಇಚ್ಛೆಯೊಂದಿಗೆ ಜೋಡಿಸುವುದು ಅಗತ್ಯ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S40_43-4_6",
+      "mandala": 2,
+      "sukta": 40,
+      "ric_index": 4,
+      "rig_lines": [
+        "दि॒व्य१॑(अ॒)न्यः सद॑नं च॒क्र उ॒च्चा पृ॑थि॒व्याम॒न्यो, अध्य॒न्तरि॑क्षे |",
+        "ताव॒स्मभ्यं᳚ पुरु॒वारं᳚ पुरु॒क्षुं रा॒यस्पोषं॒ वि ष्य॑तां॒ नाभि॑म॒स्मे ||"
+      ],
+      "pre_splits": [
+        "दि॒वि",
+        "अ॒न्यः",
+        "सद॑न‌म्",
+        "च॒क्रे",
+        "उ॒च्चा",
+        "पृ॒थि॒व्या‌म्",
+        "अ॒न्यः",
+        "अधि॑",
+        "अ॒न्तरि॑क्षे",
+        "तौ",
+        "अ॒स्मभ्य᳚‌म्",
+        "पु॒रु॒ऽवार᳚‌म्",
+        "पु॒रु॒ऽक्षु‌म्",
+        "रा॒यः",
+        "पोष᳚‌म्",
+        "वि",
+        "स्य॒ता॒‌म्",
+        "नाभि᳚‌म्",
+        "अ॒स्मे इति॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "दि॒वि",
+          "pada_kn": "ದಿವಿ",
+          "meaning_en": "In heaven / In the sky",
+          "meaning_kn": "ಸ್ವರ್ಗದಲ್ಲಿ / ಆಕಾಶದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒न्यः",
+          "pada_kn": "ಅನ್ಯಃ",
+          "meaning_en": "One (of them)",
+          "meaning_kn": "ಒಬ್ಬನು (ಅವರಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "सद॑न‌म्",
+          "pada_kn": "ಸದನಮ್",
+          "meaning_en": "Abode / Dwelling",
+          "meaning_kn": "ನೆಲೆ / ವಾಸಸ್ಥಾನ"
+        },
+        {
+          "pada_original": "च॒क्रे",
+          "pada_kn": "ಚಕ್ರೇ",
+          "meaning_en": "Made / Established",
+          "meaning_kn": "ಮಾಡಿದನು / ಸ್ಥಾಪಿಸಿದನು"
+        },
+        {
+          "pada_original": "उ॒च्चा",
+          "pada_kn": "ಉಚ್ಚಾ",
+          "meaning_en": "High / Aloft",
+          "meaning_kn": "ಎತ್ತರದಲ್ಲಿ / ಮೇಲ್ಭಾಗದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्या‌म्",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಮ್",
+          "meaning_en": "On earth",
+          "meaning_kn": "ಭೂಮಿಯ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "अ॒न्यः",
+          "pada_kn": "ಅನ್ಯಃ",
+          "meaning_en": "The other (of them)",
+          "meaning_kn": "ಇನ್ನೊಬ್ಬನು (ಅವರಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "In / Upon",
+          "meaning_kn": "ನಲ್ಲಿ / ಮೇಲೆ"
+        },
+        {
+          "pada_original": "अ॒न्तरि॑क्षे",
+          "pada_kn": "ಅಂತರಿಕ್ಷೇ",
+          "meaning_en": "In the mid-region / In the atmosphere",
+          "meaning_kn": "ಅಂತರಿಕ್ಷದಲ್ಲಿ / ವಾಯುಮಂಡಲದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "तौ",
+          "pada_kn": "ತೌ",
+          "meaning_en": "May those two (gods)",
+          "meaning_kn": "ಆ ಇಬ್ಬರು (ದೇವತೆಗಳು)"
+        },
+        {
+          "pada_original": "अ॒स्मभ्य᳚‌म्",
+          "pada_kn": "ಅಸ್ಮಭ್ಯಮ್",
+          "meaning_en": "For us / To us",
+          "meaning_kn": "ನಮಗೆ / ನಮ್ಮೆಡೆಗೆ"
+        },
+        {
+          "pada_original": "पु॒रु॒ऽवार᳚‌म्",
+          "pada_kn": "ಪುರುವಾರಮ್",
+          "meaning_en": "Much desired / Highly valued",
+          "meaning_kn": "ಅತ್ಯಂತ ಅಪೇಕ್ಷಿತ / ಹೆಚ್ಚು ಮೌಲ್ಯಯುತ"
+        },
+        {
+          "pada_original": "पु॒रु॒ऽक्षु‌म्",
+          "pada_kn": "ಪುರುಕ್ಷುಮ್",
+          "meaning_en": "Abounding in food / Rich in provisions",
+          "meaning_kn": "ಅನ್ನದಿಂದ ಸಮೃದ್ಧ / ಆಹಾರದಿಂದ ತುಂಬಿದ"
+        },
+        {
+          "pada_original": "रा॒यः",
+          "pada_kn": "ರಾಯಃ",
+          "meaning_en": "Of wealth / Of riches",
+          "meaning_kn": "ಸಂಪತ್ತಿನ / ಧನದ"
+        },
+        {
+          "pada_original": "पोष᳚‌म्",
+          "pada_kn": "ಪೋಷಮ್",
+          "meaning_en": "Nourishment / Prosperity",
+          "meaning_kn": "ಪೋಷಣೆ / ಸಮೃದ್ಧಿ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "(prefix for bestowing/spreading)",
+          "meaning_kn": "(ನೀಡುವ / ಹರಡುವ ಪೂರ್ವಪ್ರತ್ಯಯ)"
+        },
+        {
+          "pada_original": "स्य॒ता॒‌म्",
+          "pada_kn": "ಸ್ಯತಾಮ್",
+          "meaning_en": "May they bestow / May they spread",
+          "meaning_kn": "ಅವರು ನೀಡಲಿ / ಅವರು ಹರಡಲಿ"
+        },
+        {
+          "pada_original": "नाभि᳚‌म्",
+          "pada_kn": "ನಾಭಿಮ್",
+          "meaning_en": "Center / Source / Connection",
+          "meaning_kn": "ಕೇಂದ್ರ / ಮೂಲ / ಸಂಪರ್ಕ"
+        },
+        {
+          "pada_original": "अ॒स्मे इति॑",
+          "pada_kn": "ಅಸ್ಮೇ ಇತಿ",
+          "meaning_en": "In us / Among us",
+          "meaning_kn": "ನಮ್ಮಲ್ಲಿ / ನಮ್ಮ ನಡುವೆ"
+        }
+      ],
+      "full_meaning_en": "One (Soma) has established his high abode in heaven, while the other (Pūṣan) has made his dwelling on earth and in the mid-region. May those two bestow upon us abundant, much-desired wealth and nourishment, establishing its continuous source firmly within us.",
+      "full_meaning_kn": "ಒಬ್ಬ (ಸೋಮ) ತನ್ನ ಉನ್ನತ ನಿವಾಸವನ್ನು ಸ್ವರ್ಗದಲ್ಲಿ ಸ್ಥಾಪಿಸಿದನು, ಮತ್ತೊಬ್ಬ (ಪೂಷನ್) ಭೂಮಿಯಲ್ಲಿ ಮತ್ತು ಮಧ್ಯ ಪ್ರದೇಶದಲ್ಲಿ ತನ್ನ ವಾಸಸ್ಥಾನವನ್ನು ಮಾಡಿದನು. ಆ ಇಬ್ಬರೂ ನಮಗೆ ಸಮೃದ್ಧವಾದ, ಬಹಳ ಅಪೇಕ್ಷಿತವಾದ ಸಂಪತ್ತು ಮತ್ತು ಪೋಷಣೆಯನ್ನು ದಯಪಾಲಿಸಲಿ, ಅದರ ನಿರಂತರ ಮೂಲವನ್ನು ನಮ್ಮಲ್ಲಿ ದೃಢವಾಗಿ ಸ್ಥಾಪಿಸಲಿ.",
+      "rig_time_s": 43.544,
+      "Insight_en": "The inner Soma resides in the highest consciousness, while the nourishing Pūṣan dwells in the earthly and intermediate realms of experience. The invocation seeks to ground the celestial nectar of bliss and the vital force of sustenance within the individual, creating an unceasing flow of abundance and well-being. The navel (नाभि) symbolizes the center of personal power and the source of manifestation. This mantra fosters the integration of the divine within the human.",
+      "Insight_kn": "ಆಂತರಿಕ ಸೋಮವು ಅತ್ಯುನ್ನತ ಪ್ರಜ್ಞೆಯಲ್ಲಿ ನೆಲೆಸಿದ್ದಾನೆ, ಆದರೆ ಪೋಷಿಸುವ ಪೂಷನ್ ಭೂಮಿಯ ಮತ್ತು ಮಧ್ಯಂತರ ಅನುಭವದ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತಾನೆ. ಆಮಂತ್ರಣವು ಆನಂದದ ದೈವಿಕ ಅಮೃತ ಮತ್ತು ಜೀವನಾಧಾರದ ಪ್ರಮುಖ ಶಕ್ತಿಯನ್ನು ವ್ಯಕ್ತಿಯಲ್ಲಿ ನೆಲೆಯಾಗಿಸಲು ಬಯಸುತ್ತದೆ, ಸಮೃದ್ಧಿ ಮತ್ತು ಯೋಗಕ್ಷೇಮದ ನಿರಂತರ ಹರಿವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ. ಹೊಕ್ಕುಳು (ನಾಭಿ) ವೈಯಕ್ತಿಕ ಶಕ್ತಿಯ ಕೇಂದ್ರ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿಯ ಮೂಲವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಈ ಮಂತ್ರವು ಮಾನವರಲ್ಲಿ ದೈವಿಕದ ಏಕೀಕರಣವನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S40_43-5_6",
+      "mandala": 2,
+      "sukta": 40,
+      "ric_index": 5,
+      "rig_lines": [
+        "विश्वा᳚न्य॒न्यो भुव॑ना ज॒जान॒ विश्व॑म॒न्यो, अ॑भि॒चक्षा᳚ण एति |",
+        "सोमा᳚पूषणा॒वव॑तं॒ धियं᳚ मे यु॒वाभ्यां॒ विश्वाः॒ पृत॑ना जयेम ||"
+      ],
+      "pre_splits": [
+        "विश्वा᳚नि",
+        "अ॒न्यः",
+        "भु॒व॒ना",
+        "ज॒जान॑",
+        "विश्व᳚‌म्",
+        "अ॒न्यः",
+        "अ॒भि॒ऽचक्षा᳚णः",
+        "ए॒ति॒",
+        "सोमा᳚पूषणौ",
+        "अव॑त‌म्",
+        "धिय᳚‌म्",
+        "मे॒",
+        "यु॒वाभ्या᳚‌म्",
+        "विश्वाः᳚",
+        "पृत॑नाः",
+        "ज॒ये॒म॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "विश्वा᳚नि",
+          "pada_kn": "ವಿಶ್ವಾನಿ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "अ॒न्यः",
+          "pada_kn": "ಅನ್ಯಃ",
+          "meaning_en": "one (of them) / another",
+          "meaning_kn": "ಒಬ್ಬನು / ಮತ್ತೊಬ್ಬನು"
+        },
+        {
+          "pada_original": "भु॒व॒ना",
+          "pada_kn": "ಭುವನಾ",
+          "meaning_en": "worlds / beings",
+          "meaning_kn": "ಲೋಕಗಳನ್ನು / ಜೀವಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "ज॒जान॑",
+          "pada_kn": "ಜಜಾನ",
+          "meaning_en": "created / generated",
+          "meaning_kn": "ಸೃಷ್ಟಿಸಿದನು / ಹುಟ್ಟಿಸಿದನು"
+        },
+        {
+          "pada_original": "विश्व᳚‌म्",
+          "pada_kn": "ವಿಶ್ವಮ್",
+          "meaning_en": "all / the universe",
+          "meaning_kn": "ಎಲ್ಲವನ್ನೂ / ವಿಶ್ವವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒न्यः",
+          "pada_kn": "ಅನ್ಯಃ",
+          "meaning_en": "the other (of them) / another",
+          "meaning_kn": "ಮತ್ತೊಬ್ಬನು / ಇನ್ನೊಬ್ಬನು"
+        },
+        {
+          "pada_original": "अ॒भि॒ऽचक्षा᳚णः",
+          "pada_kn": "ಅಭಿಚಕ್ಷಾಣಃ",
+          "meaning_en": "beholding / observing",
+          "meaning_kn": "ವೀಕ್ಷಿಸುತ್ತಾ / ನೋಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "goes / comes",
+          "meaning_kn": "ಸಂಚರಿಸುತ್ತಾನೆ / ಬರುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "सोमा᳚पूषणौ",
+          "pada_kn": "ಸೋಮಾಪೂಷಣೌ",
+          "meaning_en": "O Soma and Pushan",
+          "meaning_kn": "ಓ ಸೋಮ ಮತ್ತು ಪೂಷನ್"
+        },
+        {
+          "pada_original": "अव॑त‌म्",
+          "pada_kn": "ಅವತಮ್",
+          "meaning_en": "protect / help",
+          "meaning_kn": "ರಕ್ಷಿಸಿ / ಸಹಾಯ ಮಾಡಿ"
+        },
+        {
+          "pada_original": "धिय᳚‌म्",
+          "pada_kn": "ಧಿಯಮ್",
+          "meaning_en": "thought / intellect / prayer",
+          "meaning_kn": "ಬುದ್ಧಿಶಕ್ತಿಯನ್ನು / ಪ್ರಾರ್ಥನೆಯನ್ನು"
+        },
+        {
+          "pada_original": "मे॒",
+          "pada_kn": "ಮೇ",
+          "meaning_en": "my / for me",
+          "meaning_kn": "ನನ್ನ / ನನಗೆ"
+        },
+        {
+          "pada_original": "यु॒वाभ्या᳚‌म्",
+          "pada_kn": "ಯುವಾಭ್ಯಾಮ್",
+          "meaning_en": "by you two / with you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಂದ / ನಿಮ್ಮಿಬ್ಬರ ಸಹಾಯದಿಂದ"
+        },
+        {
+          "pada_original": "विश्वाः᳚",
+          "pada_kn": "ವಿಶ್ವಾಃ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "पृत॑नाः",
+          "pada_kn": "ಪೃತನಾಃ",
+          "meaning_en": "battles / conflicts",
+          "meaning_kn": "ಯುದ್ಧಗಳನ್ನು / ಸಂಘರ್ಷಗಳನ್ನು"
+        },
+        {
+          "pada_original": "ज॒ये॒म॒",
+          "pada_kn": "ಜಯೇಮ",
+          "meaning_en": "may we conquer / may we overcome",
+          "meaning_kn": "ನಾವು ಜಯಿಸೋಣ / ನಾವು ಗೆಲ್ಲೋಣ"
+        }
+      ],
+      "full_meaning_en": "One deity brought forth all beings and worlds; another deity moves, beholding all. O Soma and Pushan, favor and protect my intellect. Through you both, may we conquer all hosts and battles.",
+      "full_meaning_kn": "ಒಬ್ಬ ದೇವನು ಎಲ್ಲಾ ಜೀವಿಗಳು ಮತ್ತು ಲೋಕಗಳನ್ನು ಸೃಷ್ಟಿಸಿದನು; ಇನ್ನೊಬ್ಬ ದೇವನು ಎಲ್ಲವನ್ನೂ ನೋಡುತ್ತಾ ಚಲಿಸುತ್ತಾನೆ. ಓ ಸೋಮ ಮತ್ತು ಪೂಷನ್, ನನ್ನ ಬುದ್ಧಿಯನ್ನು ರಕ್ಷಿಸಿ ಮತ್ತು ಅನುಗ್ರಹಿಸಿ. ನಿಮ್ಮಿಬ್ಬರ ಸಹಾಯದಿಂದ ನಾವು ಎಲ್ಲಾ ಸೈನ್ಯಗಳು ಮತ್ತು ಯುದ್ಧಗಳನ್ನು ಗೆಲ್ಲೋಣ.",
+      "rig_time_s": 59.196,
+      "Insight_en": "The duality expressed in the mantra reflects the complementary principles of manifestation and observation. The creative force (srishti) exists alongside the witnessing consciousness (drishti). Soma and Pushan, representing inner nourishment and outward prosperity respectively, are invoked to sharpen the intellect (dhi) enabling the individual to overcome internal and external conflicts. The conquest of 'all battles' signifies transcending limitations through divine grace.",
+      "Insight_kn": "ಮಂತ್ರದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಲಾದ ದ್ವಂದ್ವವು ಅಭಿವ್ಯಕ್ತಿ ಮತ್ತು ವೀಕ್ಷಣೆಯ ಪೂರಕ ತತ್ವಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಸೃಷ್ಟಿಕರ್ತ ಶಕ್ತಿಯು (ಸೃಷ್ಟಿ) ವೀಕ್ಷಿಸುವ ಪ್ರಜ್ಞೆಯೊಂದಿಗೆ (ದೃಷ್ಟಿ) ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ. ಸೋಮ ಮತ್ತು ಪೂಷನ್, ಕ್ರಮವಾಗಿ ಆಂತರಿಕ ಪೋಷಣೆ ಮತ್ತು ಬಾಹ್ಯ ಸಮೃದ್ಧಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ವ್ಯಕ್ತಿಯು ಆಂತರಿಕ ಮತ್ತು ಬಾಹ್ಯ ಸಂಘರ್ಷಗಳನ್ನು ಜಯಿಸಲು ಸಾಧ್ಯವಾಗುವಂತೆ ಬುದ್ಧಿಯನ್ನು (ಧೀ) ತೀಕ್ಷ್ಣಗೊಳಿಸಲು ಪ್ರಾರ್ಥಿಸಲಾಗುತ್ತದೆ. 'ಎಲ್ಲಾ ಯುದ್ಧಗಳ' ವಿಜಯವು ದೈವಿಕ ಅನುಗ್ರಹದಿಂದ ಮಿತಿಗಳನ್ನು ಮೀರುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M2-S40_43-6_6",
+      "mandala": 2,
+      "sukta": 40,
+      "ric_index": 6,
+      "rig_lines": [
+        "धियं᳚ पू॒षा जि᳚न्वतु विश्वमि॒न्वो र॒यिं सोमो᳚ रयि॒पति॑र्दधातु |",
+        "अव॑तु दे॒व्यदि॑तिरन॒र्वा बृ॒हद्‌ व॑देम वि॒दथे᳚ सु॒वीराः᳚ ||"
+      ],
+      "pre_splits": [
+        "धिय᳚‌म्",
+        "पू॒षा",
+        "जि॒न्व॒तु॒",
+        "वि॒श्व॒‌म्ऽ‌इ॒न्वः",
+        "र॒यि‌म्",
+        "सोमः॑",
+        "र॒यि॒ऽपतिः॑",
+        "द॒धा॒तु॒",
+        "अव॑तु",
+        "दे॒वी",
+        "अदि॑तिः",
+        "अ॒न॒र्वा",
+        "बृ॒हत्",
+        "व॒दे॒म॒",
+        "वि॒दथे᳚",
+        "सु॒ऽवीराः᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "धिय᳚‌म्",
+          "pada_kn": "ಧಿಯಮ್",
+          "meaning_en": "prayer/thought/intellect",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆ/ಬುದ್ಧಿ/ಚಿಂತನೆ"
+        },
+        {
+          "pada_original": "पू॒षा",
+          "pada_kn": "ಪೂಷಾ",
+          "meaning_en": "Pūṣan (the nourisher god)",
+          "meaning_kn": "ಪೂಷನ್ (ಪೋಷಕ ದೇವತೆ)"
+        },
+        {
+          "pada_original": "जि॒न्व॒तु॒",
+          "pada_kn": "ಜಿನ್ವತು",
+          "meaning_en": "may he inspire/quicken/promote",
+          "meaning_kn": "ಅವನು ಪ್ರೇರೇಪಿಸಲಿ/ಚುರುಕುಗೊಳಿಸಲಿ/ಪ್ರೋತ್ಸಾಹಿಸಲಿ"
+        },
+        {
+          "pada_original": "वि॒श्व॒‌म्ऽ‌इ॒न्वः",
+          "pada_kn": "ವಿಶ್ವಮಿನ್ವಃ",
+          "meaning_en": "all-impelling/all-pervading",
+          "meaning_kn": "ಸರ್ವ-ಪ್ರೇರಕ/ಸರ್ವವ್ಯಾಪಿ"
+        },
+        {
+          "pada_original": "र॒यि‌म्",
+          "pada_kn": "ರಯಿಮ್",
+          "meaning_en": "wealth/riches",
+          "meaning_kn": "ಸಂಪತ್ತು/ಐಶ್ವರ್ಯ"
+        },
+        {
+          "pada_original": "सोमः॑",
+          "pada_kn": "ಸೋಮಃ",
+          "meaning_en": "Soma (the deity)",
+          "meaning_kn": "ಸೋಮ (ದೇವತೆ)"
+        },
+        {
+          "pada_original": "र॒यि॒ऽपतिः॑",
+          "pada_kn": "ರಯಿಪತಿಃ",
+          "meaning_en": "lord of wealth",
+          "meaning_kn": "ಸಂಪತ್ತಿನ ಒಡೆಯ"
+        },
+        {
+          "pada_original": "द॒धा॒तु॒",
+          "pada_kn": "ದಧಾತು",
+          "meaning_en": "may he bestow/grant",
+          "meaning_kn": "ಅವನು ದಯಪಾಲಿಸಲಿ/ನೀಡಲಿ"
+        },
+        {
+          "pada_original": "अव॑तु",
+          "pada_kn": "ಅವತು",
+          "meaning_en": "may she protect/help",
+          "meaning_kn": "ಅವಳು ರಕ್ಷಿಸಲಿ/ಸಹಾಯ ಮಾಡಲಿ"
+        },
+        {
+          "pada_original": "दे॒वी",
+          "pada_kn": "ದೇವಿ",
+          "meaning_en": "divine goddess",
+          "meaning_kn": "ದೈವೀ ದೇವತೆ"
+        },
+        {
+          "pada_original": "अदि॑तिः",
+          "pada_kn": "ಅದಿತಿಃ",
+          "meaning_en": "Aditi (the goddess of boundlessness)",
+          "meaning_kn": "ಅದಿತಿ (ಅಪರಿಮಿತತೆಯ ದೇವತೆ)"
+        },
+        {
+          "pada_original": "अ॒न॒र्वा",
+          "pada_kn": "ಅನರ್ವಾ",
+          "meaning_en": "unopposed/unassailable",
+          "meaning_kn": "ಅಪ್ರತಿರೋಧಿತ/ಅಜೇಯ"
+        },
+        {
+          "pada_original": "बृ॒हत्",
+          "pada_kn": "ಬೃಹತ್",
+          "meaning_en": "greatly/eloquently",
+          "meaning_kn": "ಮಹತ್ತಾಗಿ/ವಾಕ್ಚಾತುರ್ಯದಿಂದ"
+        },
+        {
+          "pada_original": "व॒दे॒म॒",
+          "pada_kn": "ವದೇಮ",
+          "meaning_en": "may we speak/declare",
+          "meaning_kn": "ನಾವು ಮಾತನಾಡೋಣ/ಘೋಷಿಸೋಣ"
+        },
+        {
+          "pada_original": "वि॒दथे᳚",
+          "pada_kn": "ವಿದಥೇ",
+          "meaning_en": "in the assembly/sacrifice",
+          "meaning_kn": "ಸಭೆಯಲ್ಲಿ/ಯಜ್ಞದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "सु॒ऽवीराः᳚",
+          "pada_kn": "ಸುವೀರಾಃ",
+          "meaning_en": "rich in heroes/good progeny",
+          "meaning_kn": "ವೀರರಿಂದ/ಉತ್ತಮ ಸಂತತಿಯಿಂದ ಸಮೃದ್ಧರಾದ"
+        }
+      ],
+      "full_meaning_en": "May Pūṣan, the all-impelling, invigorate our intellect. May Soma, the lord of riches, grant us prosperity. May the divine, unimpeded Aditi protect us. May we, rich in valiant offspring, speak mightily in the assembly.",
+      "full_meaning_kn": "ಸರ್ವವನ್ನೂ ಪ್ರೇರೇಪಿಸುವ ಪೂಷನು ನಮ್ಮ ಬುದ್ಧಿಯನ್ನು ಚೈತನ್ಯಗೊಳಿಸಲಿ. ಸಂಪತ್ತಿನ ಅಧಿಪತಿಯಾದ ಸೋಮನು ನಮಗೆ ಸಮೃದ್ಧಿಯನ್ನು ದಯಪಾಲಿಸಲಿ. ದೈವಿಕ, ಅಡೆತಡೆಯಿಲ್ಲದ ಅದಿತಿಯು ನಮ್ಮನ್ನು ರಕ್ಷಿಸಲಿ. ವೀರ ಸಂತತಿಯಿಂದ ಸಮೃದ್ಧರಾದ ನಾವು ಸಭೆಯಲ್ಲಿ ಬಲವಾಗಿ ಮಾತನಾಡೋಣ.",
+      "rig_time_s": 74.295,
+      "Insight_en": "The mantra invokes divine forces to stimulate intellect, bestow prosperity, and provide protection. Pūṣan represents the impelling force behind thought; Soma, the abundance of inner resources; and Aditi, the boundless freedom from limitation. The ultimate aspiration is to cultivate inner strength and express truth powerfully.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಬುದ್ಧಿಯನ್ನು ಉತ್ತೇಜಿಸಲು, ಸಮೃದ್ಧಿಯನ್ನು ನೀಡಲು ಮತ್ತು ರಕ್ಷಣೆಯನ್ನು ಒದಗಿಸಲು ದೈವಿಕ ಶಕ್ತಿಗಳನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ. ಪೂಷನು ಆಲೋಚನೆಯ ಹಿಂದಿನ ಪ್ರೇರಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ; ಸೋಮನು, ಆಂತರಿಕ ಸಂಪನ್ಮೂಲಗಳ ಸಮೃದ್ಧಿ; ಮತ್ತು ಅದಿತಿ, ಮಿತಿಯಿಲ್ಲದ ಅನಂತ ಸ್ವಾತಂತ್ರ್ಯ. ಅಂತಿಮ ಆಕಾಂಕ್ಷೆಯು ಆಂತರಿಕ ಶಕ್ತಿಯನ್ನು ಬೆಳೆಸುವುದು ಮತ್ತು ಸತ್ಯವನ್ನು ಪ್ರಬಲವಾಗಿ ವ್ಯಕ್ತಪಡಿಸುವುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

@@ -1,0 +1,1441 @@
+{
+  "mandala": 3,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M3-S8_62-1_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 1,
+      "rig_lines": [
+        "अ॒ञ्जन्ति॒ त्वाम॑ध्व॒रे दे᳚व॒यन्तो॒ वन॑स्पते॒ मधु॑ना॒ दैव्ये᳚न |",
+        "यदू॒र्ध्वस्तिष्ठा॒ द्रवि॑णे॒ह ध॑त्ता॒द्‌ यद्‌ वा॒ क्षयो᳚ मा॒तुर॒स्या, उ॒पस्थे᳚ ||"
+      ],
+      "pre_splits": [
+        "अं॒जन्ति॑",
+        "त्वा‌म्",
+        "अ॒ध्व॒रे",
+        "दे॒व॒ऽयन्तः॑",
+        "वन॑स्पते",
+        "मधु॑ना",
+        "दैव्ये᳚न",
+        "यत्",
+        "ऊ॒र्ध्वः",
+        "ति॒ष्ठाः᳚",
+        "द्रवि॑णा",
+        "इ॒ह",
+        "ध॒त्ता॒त्",
+        "यत्",
+        "वा॒",
+        "क्षयः॑",
+        "मा॒तुः",
+        "अ॒स्याः",
+        "उ॒पऽस्थे᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अं॒जन्ति॑",
+          "pada_kn": "ಅಂಜಂತಿ",
+          "meaning_en": "They anoint / smear",
+          "meaning_kn": "ಲೇಪಿಸುತ್ತಾರೆ / ಸವರುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "त्वा‌म्",
+          "pada_kn": "ತ್ವಾಮ್",
+          "meaning_en": "You (the sacrificial post)",
+          "meaning_kn": "ನಿನ್ನನ್ನು (ಯೂಪಸ್ತಂಭವನ್ನು)"
+        },
+        {
+          "pada_original": "अ॒ध्व॒रे",
+          "pada_kn": "ಅಧ್ವರೇ",
+          "meaning_en": "In the sacrifice / ritual",
+          "meaning_kn": "ಯಜ್ಞದಲ್ಲಿ / ಕರ್ಮದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयन्तः॑",
+          "pada_kn": "ದೇವಯಂತಃ",
+          "meaning_en": "Desiring the gods / worshipping gods",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು ಬಯಸುವವರು / ದೇವಪೂಜಕರು"
+        },
+        {
+          "pada_original": "वन॑स्पते",
+          "pada_kn": "ವನಸ್ಪತೇ",
+          "meaning_en": "O Lord of the forest / O Sacrificial Post",
+          "meaning_kn": "ಓ ವನಸ್ಪತಿಯೇ / ಯೂಪಸ್ತಂಭವೇ"
+        },
+        {
+          "pada_original": "मधु॑ना",
+          "pada_kn": "ಮಧುನಾ",
+          "meaning_en": "With honey / sweet substance",
+          "meaning_kn": "ಮಧುವಿನಿಂದ / ಸಿಹಿಯಾದ ವಸ್ತುವಿನಿಂದ"
+        },
+        {
+          "pada_original": "दैव्ये᳚न",
+          "pada_kn": "ದೈವ್ಯೇನ",
+          "meaning_en": "Divine / celestial",
+          "meaning_kn": "ದೈವಿಕವಾದ / ದೇವತೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "If / whether",
+          "meaning_kn": "ಒಂದು ವೇಳೆ / ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "ऊ॒र्ध्वः",
+          "pada_kn": "ಊರ್ಧ್ವಃ",
+          "meaning_en": "Upright / standing tall",
+          "meaning_kn": "ನೇರವಾಗಿ / ಎತ್ತರವಾಗಿ ನಿಂತಿರುವ"
+        },
+        {
+          "pada_original": "ति॒ष्ठाः᳚",
+          "pada_kn": "ತಿಷ್ಠಾಃ",
+          "meaning_en": "You stand / remain",
+          "meaning_kn": "ನೀನು ನಿಂತಿರುವೆಯೋ"
+        },
+        {
+          "pada_original": "द्रवि॑णा",
+          "pada_kn": "ದ್ರವಿಣಾ",
+          "meaning_en": "Wealth / riches",
+          "meaning_kn": "ಸಂಪತ್ತು / ಧನ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "Here / in this world",
+          "meaning_kn": "ಇಲ್ಲಿ / ಈ ಲೋಕದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ध॒त्ता॒त्",
+          "pada_kn": "ಧತ್ತಾತ್",
+          "meaning_en": "May you bestow / grant",
+          "meaning_kn": "ನೀನು ದಯಪಾಲಿಸು / ನೀಡು"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "If / whether",
+          "meaning_kn": "ಒಂದು ವೇಳೆ / ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "वा॒",
+          "pada_kn": "ವಾ",
+          "meaning_en": "Or",
+          "meaning_kn": "ಅಥವಾ"
+        },
+        {
+          "pada_original": "क्षयः॑",
+          "pada_kn": "ಕ್ಷಯಃ",
+          "meaning_en": "Dwelling / abode",
+          "meaning_kn": "ವಾಸಸ್ಥಾನ / ನೆಲೆ"
+        },
+        {
+          "pada_original": "मा॒तुः",
+          "pada_kn": "ಮಾತುಃ",
+          "meaning_en": "Of the mother (earth)",
+          "meaning_kn": "ತಾಯಿಯ (ಭೂಮಿಯ)"
+        },
+        {
+          "pada_original": "अ॒स्याः",
+          "pada_kn": "ಅಸ್ಯಾಃ",
+          "meaning_en": "Of this (earth)",
+          "meaning_kn": "ಈ (ಭೂಮಿಯ)"
+        },
+        {
+          "pada_original": "उ॒पऽस्थे᳚",
+          "pada_kn": "ಉಪಸ್ಥೇ",
+          "meaning_en": "In the lap / proximity",
+          "meaning_kn": "ಮಡಿಲಿನಲ್ಲಿ / ಸಮೀಪದಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "O Vanaspati, celestial guardian of the forest, the devout priests, yearning for the divine, anoint you in this sacred rite with nectar of the gods. Whether you stand tall, reaching towards the heavens, or rest in the nurturing embrace of Mother Earth, bestow upon us abundant riches and prosperity.",
+      "full_meaning_kn": "ಓ ವನಸ್ಪತಿಯೇ, ದೇವತೆಗಳ ಒಲವನ್ನು ಬಯಸುವ ಪುರೋಹಿತರು, ದೈವಿಕ ಮಧುವಿನಿಂದ ಈ ಪವಿತ್ರ ಯಜ್ಞದಲ್ಲಿ ನಿಮ್ಮನ್ನು ಅಭಿಷೇಕಿಸುತ್ತಾರೆ. ನೀವು ಉನ್ನತವಾಗಿ ನಿಂತರೂ, ಅಥವಾ ಈ ಮಾತೆಯ ಮಡಿಲಲ್ಲಿ ನೆಲೆಸಿದರೂ, ಇಲ್ಲಿ ಸಮೃದ್ಧಿಯನ್ನೂ ಸಂಪತ್ತನ್ನೂ ದಯಪಾಲಿಸು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The external ritual of anointing the Vanaspati (sacrificial post) mirrors the internal process of consecrating one's own being to the divine. The 'divine honey' represents the nectar of wisdom and devotion, and the 'mother earth' symbolizes the grounding in reality. True wealth arises when the aspirant is both rooted in the present and reaching for transcendence, thus invoking abundance from both the material and spiritual realms. The upward stance signifies aspiration, while the earth's lap represents acceptance and stability. Balance between both gives complete wealth.",
+      "Insight_kn": "ವನಸ್ಪತಿಯನ್ನು ಅಭಿಷೇಕಿಸುವ ಬಾಹ್ಯ ಆಚರಣೆಯು ದೈವಿಕತೆಗೆ ಸ್ವಂತ ಅಸ್ತಿತ್ವವನ್ನು ಸಮರ್ಪಿಸುವ ಆಂತರಿಕ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. 'ದೈವಿಕ ಮಧು'ವು ಜ್ಞಾನ ಮತ್ತು ಭಕ್ತಿಯ ಅಮೃತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಮತ್ತು 'ಭೂಮಿ ತಾಯಿ' ವಾಸ್ತವದಲ್ಲಿ ಬೇರೂರುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಆಕಾಂಕ್ಷಿಯು ವರ್ತಮಾನದಲ್ಲಿ ಬೇರೂರಿ ಮತ್ತು ಉತ್ಕೃಷ್ಟತೆಗಾಗಿ ತಲುಪಿದಾಗ ನಿಜವಾದ ಸಂಪತ್ತು ಉಂಟಾಗುತ್ತದೆ, ಹೀಗಾಗಿ ಭೌತಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಕ್ಷೇತ್ರಗಳಿಂದ ಸಮೃದ್ಧಿಯನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ. ಮೇಲ್ಮುಖ ಭಂಗಿಯು ಮಹತ್ವಾಕಾಂಕ್ಷೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಆದರೆ ಭೂಮಿಯ ಮಡಿಲು ಸ್ವೀಕಾರ ಮತ್ತು ಸ್ಥಿರತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಇವೆರಡರ ನಡುವಿನ ಸಮತೋಲನವು ಸಂಪೂರ್ಣ ಸಂಪತ್ತನ್ನು ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S8_62-2_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 2,
+      "rig_lines": [
+        "समि॑द्धस्य॒ श्रय॑माणः पु॒रस्ता॒द् ब्रह्म॑ वन्वा॒नो, अ॒जरं᳚ सु॒वीर᳚म् |",
+        "आ॒रे, अ॒स्मदम॑तिं॒ बाध॑मान॒ उच्छ्र॑यस्व मह॒ते सौभ॑गाय ||"
+      ],
+      "pre_splits": [
+        "स‌म्ऽ‌इ᳚द्धस्य",
+        "श्रय॑माणः",
+        "पु॒रस्ता᳚त्",
+        "ब्रह्म॑",
+        "व॒न्वा॒नः",
+        "अ॒जर᳚‌म्",
+        "सु॒ऽवीर᳚‌म्",
+        "आ॒रे",
+        "अ॒स्मत्",
+        "अम॑ति‌म्",
+        "बाध॑मानः",
+        "उत्",
+        "श्र॒य॒स्व॒",
+        "म॒ह॒ते",
+        "सौभ॑गाय"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स‌म्ऽ‌इ᳚द्धस्य",
+          "pada_kn": "ಸಮ್ऽಇದ್ಧಸ್ಯ",
+          "meaning_en": "Of the kindled/blazing (fire)",
+          "meaning_kn": "ಪ್ರಜ್ವಲಿಸಿದ/ಉರಿಯುತ್ತಿರುವ (ಅಗ್ನಿಯ)"
+        },
+        {
+          "pada_original": "श्रय॑माणः",
+          "pada_kn": "ಶ್ರಯಮಾಣಃ",
+          "meaning_en": "Leaning towards / resorting to",
+          "meaning_kn": "ಆಶ್ರಯಿಸುತ್ತಾ / ಅವಲಂಬಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "पु॒रस्ता᳚त्",
+          "pada_kn": "ಪುರಸ್ತಾತ್",
+          "meaning_en": "In front / from the east",
+          "meaning_kn": "ಮುಂಭಾಗದಲ್ಲಿ / ಪೂರ್ವದಿಂದ"
+        },
+        {
+          "pada_original": "ब्रह्म॑",
+          "pada_kn": "ಬ್ರಹ್ಮ",
+          "meaning_en": "Sacred word / prayer / divine power",
+          "meaning_kn": "ಪವಿತ್ರ ವಾಕ್ಯ / ಪ್ರಾರ್ಥನೆ / ದೈವಿಕ ಶಕ್ತಿ"
+        },
+        {
+          "pada_original": "व॒न्वा॒नः",
+          "pada_kn": "ವನ್ವಾನಃ",
+          "meaning_en": "Desiring / obtaining",
+          "meaning_kn": "ಬಯಸುತ್ತಾ / ಪಡೆಯುತ್ತಾ"
+        },
+        {
+          "pada_original": "अ॒जर᳚‌म्",
+          "pada_kn": "ಅಜರಮ್",
+          "meaning_en": "Undecaying / ageless",
+          "meaning_kn": "ಮುಪ್ಪಿಲ್ಲದ / ನಾಶವಿಲ್ಲದ"
+        },
+        {
+          "pada_original": "सु॒ऽवीर᳚‌म्",
+          "pada_kn": "ಸುऽವೀರಮ್",
+          "meaning_en": "Rich in good heroes/strength",
+          "meaning_kn": "ಉತ್ತಮ ವೀರರನ್ನುಳ್ಳ / ಉತ್ತಮ ಶಕ್ತಿಯುಳ್ಳ"
+        },
+        {
+          "pada_original": "आ॒रे",
+          "pada_kn": "ಆರೇ",
+          "meaning_en": "Far away / at a distance",
+          "meaning_kn": "ದೂರದಲ್ಲಿ / ದೂರವಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒स्मत्",
+          "pada_kn": "ಅಸ್ಮತ್",
+          "meaning_en": "From us",
+          "meaning_kn": "ನಮ್ಮಿಂದ"
+        },
+        {
+          "pada_original": "अम॑ति‌म्",
+          "pada_kn": "ಅಮತಿಮ್",
+          "meaning_en": "Poverty / distress / ill-will",
+          "meaning_kn": "ದಾರಿದ್ರ್ಯ / ದುಃಖ / ದುರ್ಬುದ್ಧಿ"
+        },
+        {
+          "pada_original": "बाध॑मानः",
+          "pada_kn": "ಬಾಧಮಾನಃ",
+          "meaning_en": "Driving away / repelling",
+          "meaning_kn": "ದೂರ ಓಡಿಸುತ್ತಾ / ನಿವಾರಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "Up / forth",
+          "meaning_kn": "ಮೇಲೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "श्र॒य॒स्व॒",
+          "pada_kn": "ಶ್ರಯಸ್ವ",
+          "meaning_en": "Rise / ascend / elevate yourself",
+          "meaning_kn": "ಏಳು / ಮೇಲೇರು / ಉನ್ನತವಾಗು"
+        },
+        {
+          "pada_original": "म॒ह॒ते",
+          "pada_kn": "ಮಹತೇ",
+          "meaning_en": "For great / for mighty",
+          "meaning_kn": "ಮಹತ್ತಾದ / ಶ್ರೇಷ್ಠವಾದ"
+        },
+        {
+          "pada_original": "सौभ॑गाय",
+          "pada_kn": "ಸೌಭಗಾಯ",
+          "meaning_en": "For good fortune / for prosperity",
+          "meaning_kn": "ಸೌಭಾಗ್ಯಕ್ಕಾಗಿ / ಸಮೃದ್ಧಿಗಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O Agni, leaning towards the kindled fire, desiring sacred prayer from the front, undecaying and rich in good strength, driving away poverty and distress far from us, rise up for great good fortune!",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ಬೆಳಗುತ್ತಿರುವ ಅಗ್ನಿಯ ಕಡೆಗೆ ವಾಲುತ್ತಾ, ಎದುರಿನಿಂದ ಪವಿತ್ರ ಪ್ರಾರ್ಥನೆಯನ್ನು ಅಪೇಕ್ಷಿಸುತ್ತಾ, ನಾಶವಿಲ್ಲದ ಮತ್ತು ಉತ್ತಮ ಬಲದಿಂದ ಸಮೃದ್ಧನಾಗಿ, ಬಡತನ ಮತ್ತು ದುಃಖವನ್ನು ನಮ್ಮಿಂದ ದೂರ ಓಡಿಸುತ್ತಾ, ಮಹಾನ್ ಅದೃಷ್ಟಕ್ಕಾಗಿ ಏಳು!",
+      "rig_time_s": 15.735,
+      "Insight_en": "The ever-burning अग्नि represents the inner flame of awareness. By focusing on this internal fire, we invoke strength and dispel negativity. The rise to great fortune symbolizes the ascent of consciousness beyond limitations, achieving inner prosperity and lasting spiritual wealth. The अजरं (undecaying) quality signifies the eternal nature of the Self, untouched by temporal decay or suffering.",
+      "Insight_kn": "ನಿರಂತರವಾಗಿ ಉರಿಯುತ್ತಿರುವ ಅಗ್ನಿಯು ಅರಿವಿನ ಆಂತರಿಕ ಜ್ವಾಲೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಈ ಆಂತರಿಕ ಅಗ್ನಿಯ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುವ ಮೂಲಕ, ನಾವು ಶಕ್ತಿಯನ್ನು ಆಹ್ವಾನಿಸುತ್ತೇವೆ ಮತ್ತು ಋಣಾತ್ಮಕತೆಯನ್ನು ಹೋಗಲಾಡಿಸುತ್ತೇವೆ. ಮಹಾನ್ ಅದೃಷ್ಟಕ್ಕೆ ಏರುವುದು ಎಂದರೆ ಮಿತಿಗಳನ್ನು ಮೀರಿದ ಪ್ರಜ್ಞೆಯ ಆರೋಹಣ, ಆಂತರಿಕ ಸಮೃದ್ಧಿ ಮತ್ತು ಶಾಶ್ವತ ಆಧ್ಯಾತ್ಮಿಕ ಸಂಪತ್ತನ್ನು ಸಾಧಿಸುವುದು. ಅಜರಂ (ನಾಶವಿಲ್ಲದ) ಗುಣವು ಆತ್ಮದ ಶಾಶ್ವತ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅದು ತಾತ್ಕಾಲಿಕ ಕೊಳೆತ ಅಥವಾ ದುಃಖದಿಂದ ಮುಟ್ಟಲ್ಪಡುವುದಿಲ್ಲ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S8_62-3_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 3,
+      "rig_lines": [
+        "उच्छ्र॑यस्व वनस्पते॒ वर्ष्म᳚न्‌ पृथि॒व्या, अधि॑ |",
+        "सुमि॑ती मी॒यमा᳚नो॒ वर्चो᳚ धा य॒ज्ञवा᳚हसे ||"
+      ],
+      "pre_splits": [
+        "उत्",
+        "श्र॒य॒स्व॒",
+        "व॒न॒स्प॒ते॒",
+        "वर्ष्म॑न्",
+        "पृ॒थि॒व्याः",
+        "अधि॑",
+        "सुऽमि॑ती",
+        "मी॒यमा᳚नः",
+        "वर्चः॑",
+        "धाः॒",
+        "य॒ज्ञऽवा᳚हसे"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / upwards",
+          "meaning_kn": "ಮೇಲೆ / ಎತ್ತರಕ್ಕೆ"
+        },
+        {
+          "pada_original": "श्र॒य॒स्व॒",
+          "pada_kn": "ಶ್ರಯಸ್ವ",
+          "meaning_en": "rise / stand firm",
+          "meaning_kn": "ಏರು / ನಿಲ್ಲು"
+        },
+        {
+          "pada_original": "व॒न॒स्प॒ते॒",
+          "pada_kn": "ವನಸ್ಪತೇ",
+          "meaning_en": "O Vanaspati (sacrificial post)",
+          "meaning_kn": "ಓ ವನಸ್ಪತಿಯೇ (ಯಜ್ಞಸ್ತಂಭವೇ)"
+        },
+        {
+          "pada_original": "वर्ष्म॑न्",
+          "pada_kn": "ವರ್ಷ್ಮನ್",
+          "meaning_en": "on the height / summit",
+          "meaning_kn": "ಉನ್ನತ ಸ್ಥಾನದಲ್ಲಿ / ಶಿಖರದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्याः",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಃ",
+          "meaning_en": "of the earth",
+          "meaning_kn": "ಭೂಮಿಯ"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon / over",
+          "meaning_kn": "ಮೇಲೆ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "सुऽमि॑ती",
+          "pada_kn": "ಸುಮಿತೀ",
+          "meaning_en": "well-measured / with good measurement",
+          "meaning_kn": "ಉತ್ತಮ ಅಳತೆಯಿಂದ / ಸರಿಯಾಗಿ ಅಳೆಯಲ್ಪಟ್ಟವನಾಗಿ"
+        },
+        {
+          "pada_original": "मी॒यमा᳚नः",
+          "pada_kn": "ಮೀಯಮಾನಃ",
+          "meaning_en": "being measured / constructed",
+          "meaning_kn": "ಅಳೆಯಲ್ಪಡುತ್ತಾ / ನಿರ್ಮಿಸಲ್ಪಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "वर्चः॑",
+          "pada_kn": "ವರ್ಚಃ",
+          "meaning_en": "splendor / vigor",
+          "meaning_kn": "ತೇಜಸ್ಸನ್ನು / ಪ್ರಕಾಶವನ್ನು"
+        },
+        {
+          "pada_original": "धाः॒",
+          "pada_kn": "ಧಾಃ",
+          "meaning_en": "bestow / place",
+          "meaning_kn": "ನೀಡು / ಸ್ಥಾಪಿಸು"
+        },
+        {
+          "pada_original": "य॒ज्ञऽवा᳚हसे",
+          "pada_kn": "ಯಜ್ಞವಾಹಸೇ",
+          "meaning_en": "for the bearer of the sacrifice (the sacrificer)",
+          "meaning_kn": "ಯಜ್ಞವನ್ನು ನಡೆಸುವವನಿಗೆ / ಯಜಮಾನನಿಗೆ"
+        }
+      ],
+      "full_meaning_en": "O Vanaspati, lord of the forest and sacrificial post, rise high upon the earth! Being well-measured and beautifully fashioned, bestow radiance and strength upon the carrier of the sacrifice, the one who offers it to the gods.",
+      "full_meaning_kn": "ಓ ವನಸ್ಪತಿಯೇ, ಅರಣ್ಯದ ಅಧಿಪತಿಯೇ ಮತ್ತು ಯಜ್ಞ ಸ್ತಂಭವೇ, ಭೂಮಿಯ ಮೇಲೆ ಎತ್ತರವಾಗಿ ಏಳಿರಿ! ಚೆನ್ನಾಗಿ ಅಳತೆ ಮಾಡಿ ಸುಂದರವಾಗಿ ರಚಿತವಾಗಿ, ಯಜ್ಞವನ್ನು ಹೊತ್ತವನಿಗೆ, ದೇವತೆಗಳಿಗೆ ಅರ್ಪಿಸುವವನಿಗೆ ತೇಜಸ್ಸು ಮತ್ತು ಬಲವನ್ನು ನೀಡಿರಿ.",
+      "rig_time_s": 29.88,
+      "Insight_en": "The rising of Vanaspati symbolizes the aspiration of the individual soul to ascend to higher states of consciousness. The careful measurement and fashioning represent the disciplined practice and purification necessary for spiritual growth. The bestowal of radiance signifies the enlightenment that arises from dedicated spiritual practice, illuminating the path to the divine. The carrier of sacrifice embodies the devotee who offers their ego and desires into the fire of self-knowledge (अग्नि), transforming limitations into divine qualities.",
+      "Insight_kn": "ವನಸ್ಪತಿಯ ಏರಿಕೆಯು ವ್ಯಕ್ತಿಯ ಆತ್ಮವು ಉನ್ನತ ಪ್ರಜ್ಞೆಯ ಸ್ಥಿತಿಗಳಿಗೆ ಏರುವ ಹಂಬಲವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಎಚ್ಚರಿಕೆಯಿಂದ ಅಳತೆ ಮತ್ತು ರೂಪಿಸುವಿಕೆಯು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಅಗತ್ಯವಾದ ಶಿಸ್ತುಬದ್ಧ ಅಭ್ಯಾಸ ಮತ್ತು ಶುದ್ಧೀಕರಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ತೇಜಸ್ಸಿನ ದಾನವು ಸಮರ್ಪಿತ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದಿಂದ ಉಂಟಾಗುವ ಜ್ಞಾನೋದಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ದೈವಿಕ ಮಾರ್ಗವನ್ನು ಬೆಳಗಿಸುತ್ತದೆ. ಯಜ್ಞದ ವಾಹಕನು ಸ್ವಯಂ ಜ್ಞಾನದ ಅಗ್ನಿಯಲ್ಲಿ ತಮ್ಮ ಅಹಂಕಾರ ಮತ್ತು ಆಸೆಗಳನ್ನು ಅರ್ಪಿಸುವ ಭಕ್ತನನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ (ಅಗ್ನಿ), ಮಿತಿಗಳನ್ನು ದೈವಿಕ ಗುಣಗಳಾಗಿ ಪರಿವರ್ತಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S8_62-4_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 4,
+      "rig_lines": [
+        "युवा᳚ सु॒वासाः॒ परि॑वीत॒ आगा॒त् स उ॒ श्रेया᳚न्‌ भवति॒ जाय॑मानः |",
+        "तं धीरा᳚सः क॒वय॒ उन्न॑यन्ति स्वा॒ध्यो॒३॑(ओ॒) मन॑सा देव॒यन्तः॑ ||"
+      ],
+      "pre_splits": [
+        "युवा᳚",
+        "सु॒ऽवासाः᳚",
+        "परि॑ऽवीतः",
+        "आ",
+        "अ॒गा॒त्",
+        "सः",
+        "ऊँ॒ इति॑",
+        "श्रेया᳚न्",
+        "भ॒व॒ति॒",
+        "जाय॑मानः",
+        "त‌म्",
+        "धीरा᳚सः",
+        "क॒वयः॑",
+        "उत्",
+        "न॒य॒न्ति॒",
+        "सु॒ऽआ॒ध्यः॑",
+        "मन॑सा",
+        "दे॒व॒ऽयन्तः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "युवा᳚",
+          "pada_kn": "ಯುವಾ",
+          "meaning_en": "Young (man) / Youthful",
+          "meaning_kn": "ಯುವಕ / ತರುಣ"
+        },
+        {
+          "pada_original": "सु॒ऽवासाः᳚",
+          "pada_kn": "ಸುವಾಸಾಃ",
+          "meaning_en": "well-clothed / beautifully adorned",
+          "meaning_kn": "ಸುಂದರ ವಸ್ತ್ರಗಳನ್ನು ಧರಿಸಿದ / ಸುಸಜ್ಜಿತ"
+        },
+        {
+          "pada_original": "परि॑ऽवीतः",
+          "pada_kn": "ಪರಿವೀತಃ",
+          "meaning_en": "encircled / consecrated (wearing sacred thread)",
+          "meaning_kn": "ಯಜ್ಞೋಪವೀತ ಧರಿಸಿದ / ಸುತ್ತುವರಿದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / towards",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "अ॒गा॒त्",
+          "pada_kn": "ಅಗಾತ್",
+          "meaning_en": "came / arrived",
+          "meaning_kn": "ಬಂದನು / ಆಗಮಿಸಿದನು"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "indeed / verily (emphatic particle)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "श्रेया᳚न्",
+          "pada_kn": "ಶ್ರೇಯಾನ್",
+          "meaning_en": "more auspicious / superior / excellent",
+          "meaning_kn": "ಶ್ರೇಷ್ಠ / ಉತ್ತಮ"
+        },
+        {
+          "pada_original": "भ॒व॒ति॒",
+          "pada_kn": "ಭವತಿ",
+          "meaning_en": "becomes",
+          "meaning_kn": "ಆಗುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "जाय॑मानः",
+          "pada_kn": "ಜಾಯಮಾನಃ",
+          "meaning_en": "being born / appearing / manifesting",
+          "meaning_kn": "ಜನಿಸುವವನು / ಪ್ರಕಟವಾಗುವವನು"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "धीरा᳚सः",
+          "pada_kn": "ಧೀರಾಃಸಃ",
+          "meaning_en": "the wise / the steadfast",
+          "meaning_kn": "ಧೀರರು / ಜ್ಞಾನಿಗಳು"
+        },
+        {
+          "pada_original": "क॒वयः॑",
+          "pada_kn": "ಕವಯಃ",
+          "meaning_en": "the seers / the enlightened ones",
+          "meaning_kn": "ಕವಿಗಳು / ದಾರ್ಶನಿಕರು"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / upwards",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ / ಉನ್ನತವಾಗಿ"
+        },
+        {
+          "pada_original": "न॒य॒न्ति॒",
+          "pada_kn": "ನಯಂತಿ",
+          "meaning_en": "lead / guide",
+          "meaning_kn": "ಕೊಂಡೊಯ್ಯುತ್ತಾರೆ / ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "सु॒ऽआ॒ध्यः॑",
+          "pada_kn": "ಸ್ವಾದ್ಯಃ",
+          "meaning_en": "of good thought / devout / well-minded",
+          "meaning_kn": "ಉತ್ತಮ ಆಲೋಚನೆಯುಳ್ಳ / ಭಕ್ತಿಪರ"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "with the mind / by thought",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ / ಚಿಂತನೆಯಿಂದ"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयन्तः॑",
+          "pada_kn": "ದೇವಯಂತಃ",
+          "meaning_en": "desiring the gods / worshipping the gods",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು ಬಯಸುವವರು / ದೇವತೆಗಳನ್ನು ಪೂಜಿಸುವವರು"
+        }
+      ],
+      "full_meaning_en": "O youthful one, well-adorned and enwrapped in sacred garments, you have arrived; indeed, being born anew, you become more excellent. The wise and discerning poets, with minds devoted and yearning for the divine, uplift him ever higher.",
+      "full_meaning_kn": "ಓ ಯುವಕನೇ, ಚೆನ್ನಾಗಿ ಅಲಂಕರಿಸಲ್ಪಟ್ಟ ಮತ್ತು ಪವಿತ್ರ ವಸ್ತ್ರಗಳಿಂದ ಸುತ್ತುವರಿಯಲ್ಪಟ್ಟವನೇ, ನೀನು ಬಂದಿರುವೆ; ವಾಸ್ತವವಾಗಿ, ಹೊಸದಾಗಿ ಜನಿಸಿದವನಾಗಿ, ನೀನು ಹೆಚ್ಚು ಉತ್ಕೃಷ್ಟನಾಗುತ್ತೀ. ವಿವೇಕಯುತ ಮತ್ತು ವಿವೇಚನಾಶೀಲ ಕವಿಗಳು, ಭಕ್ತಿಯ ಮನಸ್ಸು ಮತ್ತು ದೈವಿಕ ಆಕಾಂಕ್ಷೆಯೊಂದಿಗೆ, ಅವನನ್ನು ಸದಾ ಉನ್ನತಿಗೆ ಏರಿಸುತ್ತಾರೆ.",
+      "rig_time_s": 40.571,
+      "Insight_en": "The mantra speaks of spiritual rebirth and elevation. The 'youth' represents the aspiring seeker, adorned with virtues (sacred garments). This seeker, through devotion (desiring the gods) and wisdom (the wise seers), transcends limitations and ascends to higher states of consciousness. The inner transformation is guided by both personal striving and the grace of realized beings, leading to self-realization. The garment symbolizes വാസന (Vasanā) or latent tendencies which must be purified to attain liberation (मोक्ष).",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಆಧ್ಯಾತ್ಮಿಕ ಮರುಹುಟ್ಟು ಮತ್ತು ಉನ್ನತಿಯ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ. 'ಯುವಕ' ಆಕಾಂಕ್ಷಿ ಸಾಧಕನನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಸದ್ಗುಣಗಳಿಂದ ಅಲಂಕರಿಸಲ್ಪಟ್ಟಿದ್ದಾನೆ (ಪವಿತ್ರ ವಸ್ತ್ರಗಳು). ಈ ಸಾಧಕನು, ಭಕ್ತಿ (ದೇವರನ್ನು ಬಯಸುವುದು) ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯ ಮೂಲಕ (ವಿವೇಕಯುತ ದ್ರಷ್ಟಾರರು), ಮಿತಿಗಳನ್ನು ಮೀರಿ ಪ್ರಜ್ಞೆಯ ಉನ್ನತ ಸ್ಥಿತಿಗಳಿಗೆ ಏರುತ್ತಾನೆ. ಆಂತರಿಕ ರೂಪಾಂತರವು ವೈಯಕ್ತಿಕ ಪ್ರಯತ್ನ ಮತ್ತು ಸಾಕ್ಷಾತ್ಕಾರಗೊಂಡ ಜೀವಿಗಳ ಕೃಪೆಯಿಂದ ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಡುತ್ತದೆ, ಇದು ಆತ್ಮ-ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ವಸ್ತ್ರವು ವಾಸನಾ ಅಥವಾ ಸುಪ್ತ ಪ್ರವೃತ್ತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಅದು ವಿಮೋಚನೆ (ಮೋಕ್ಷ) ಪಡೆಯಲು ಶುದ್ಧೀಕರಿಸಲ್ಪಡಬೇಕು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S8_62-5_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 5,
+      "rig_lines": [
+        "जा॒तो जा᳚यते सुदिन॒त्वे, अह्नां᳚ सम॒र्य आ वि॒दथे॒ वर्ध॑मानः |",
+        "पु॒नन्ति॒ धीरा᳚, अ॒पसो᳚ मनी॒षा दे᳚व॒या विप्र॒ उदि॑यर्ति॒ वाच᳚म् ||"
+      ],
+      "pre_splits": [
+        "जा॒तः",
+        "जा॒य॒ते॒",
+        "सु॒दि॒न॒ऽत्वे",
+        "अह्ना᳚‌म्",
+        "स॒ऽम॒र्ये",
+        "आ",
+        "वि॒दथे᳚",
+        "वर्ध॑मानः",
+        "पु॒नन्ति॑",
+        "धीराः᳚",
+        "अ॒पसः॑",
+        "म॒नी॒षा",
+        "दे॒व॒ऽयाः",
+        "विप्रः॑",
+        "उत्",
+        "इ॒य॒र्ति॒",
+        "वाच᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "जा॒तः",
+          "pada_kn": "ಜಾತಃ",
+          "meaning_en": "born",
+          "meaning_kn": "ಹುಟ್ಟಿದವನು"
+        },
+        {
+          "pada_original": "जा॒य॒ते॒",
+          "pada_kn": "ಜಾಯತೇ",
+          "meaning_en": "is born / manifests",
+          "meaning_kn": "ಹುಟ್ಟುತ್ತಾನೆ / ಪ್ರಕಟವಾಗುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "सु॒दि॒न॒ऽत्वे",
+          "pada_kn": "ಸುದಿನತ್ವೇ",
+          "meaning_en": "on an auspicious day",
+          "meaning_kn": "ಶುಭದಿನದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अह्ना᳚‌म्",
+          "pada_kn": "ಅಹ್ನಾಮ್",
+          "meaning_en": "of days",
+          "meaning_kn": "ದಿನಗಳ"
+        },
+        {
+          "pada_original": "स॒ऽम॒र्ये",
+          "pada_kn": "ಸಮರ್ಯೇ",
+          "meaning_en": "in the assembly / gathering",
+          "meaning_kn": "ಸಭೆಯಲ್ಲಿ / ಸಮೂಹದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "unto / towards",
+          "meaning_kn": "ಕಡೆಗೆ / ವರೆಗೆ"
+        },
+        {
+          "pada_original": "वि॒दथे᳚",
+          "pada_kn": "ವಿದಥೇ",
+          "meaning_en": "in the sacrifice / ritual assembly",
+          "meaning_kn": "ಯಜ್ಞದಲ್ಲಿ / ಧಾರ್ಮಿಕ ಸಭೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "वर्ध॑मानः",
+          "pada_kn": "ವರ್ಧಮಾನಃ",
+          "meaning_en": "growing / increasing",
+          "meaning_kn": "ಬೆಳೆಯುವವನು / ವೃದ್ಧಿಯಾಗುವವನು"
+        },
+        {
+          "pada_original": "पु॒नन्ति॑",
+          "pada_kn": "ಪುನಂತಿ",
+          "meaning_en": "they purify",
+          "meaning_kn": "ಅವರು ಶುದ್ಧೀಕರಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "धीराः᳚",
+          "pada_kn": "ಧೀರಾಃ",
+          "meaning_en": "the wise ones / intelligent ones",
+          "meaning_kn": "ಜ್ಞಾನಿಗಳು / ಬುದ್ಧಿವಂತರು"
+        },
+        {
+          "pada_original": "अ॒पसः॑",
+          "pada_kn": "ಅಪಸಃ",
+          "meaning_en": "the diligent workers / performers",
+          "meaning_kn": "ಕರ್ಮನಿಷ್ಠರು / ಕಾರ್ಯ ಮಾಡುವವರು"
+        },
+        {
+          "pada_original": "म॒नी॒षा",
+          "pada_kn": "ಮನೀಷಾ",
+          "meaning_en": "with intellect / wisdom",
+          "meaning_kn": "ಬುದ್ಧಿಯಿಂದ / ಜ್ಞಾನದಿಂದ"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयाः",
+          "pada_kn": "ದೇವಯಾಃ",
+          "meaning_en": "god-seeking / devoted to gods",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು ಅರಸುವವರು / ದೇವಭಕ್ತರು"
+        },
+        {
+          "pada_original": "विप्रः॑",
+          "pada_kn": "ವಿಪ್ರಃ",
+          "meaning_en": "the inspired priest",
+          "meaning_kn": "ವಿಪ್ರನು / ಋಷಿಯು"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / forth",
+          "meaning_kn": "ಮೇಲೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "इ॒य॒र्ति॒",
+          "pada_kn": "ಇಯರ್ತಿ",
+          "meaning_en": "he sends forth / raises",
+          "meaning_kn": "ಕಳುಹಿಸುತ್ತಾನೆ / ಎತ್ತುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "वाच᳚‌म्",
+          "pada_kn": "ವಾಚಮ್",
+          "meaning_en": "the word / speech / prayer",
+          "meaning_kn": "ಮಾತನ್ನು / ಸ್ತೋತ್ರವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "He who is born, is born again into auspicious days, growing in the assembly and at the sacred gathering. The wise and diligent priests purify themselves through their intellect; the inspired, god-seeking priest elevates his voice in sacred utterance.",
+      "full_meaning_kn": "ಯಾವನು ಹುಟ್ಟಿದ್ದಾನೋ, ಅವನು ಶುಭ ದಿನಗಳಲ್ಲಿ ಮತ್ತೆ ಹುಟ್ಟುತ್ತಾನೆ, ಸಭೆಯಲ್ಲಿ ಮತ್ತು ಪವಿತ್ರ ಸಮಾವೇಶದಲ್ಲಿ ಬೆಳೆಯುತ್ತಾನೆ. ಜ್ಞಾನವುಳ್ಳ ಮತ್ತು ಶ್ರದ್ಧೆಯುಳ್ಳ ಪುರೋಹಿತರು ತಮ್ಮ ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ತಮ್ಮನ್ನು ಶುದ್ಧೀಕರಿಸಿಕೊಳ್ಳುತ್ತಾರೆ; ಪ್ರೇರಿತ, ದೇವರಿಗಾಗಿ ಹಾತೊರೆಯುವ ಯಾಜಕನು ಪವಿತ್ರ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ತನ್ನ ಧ್ವನಿಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತಾನೆ.",
+      "rig_time_s": 58.144,
+      "Insight_en": "The cyclical nature of existence is emphasized, pointing to continual renewal and growth. The purification of intellect (मनीषा) allows for the elevation of consciousness, enabling the expression of divine truth through sacred sound (वाच). This highlights the transformative power of wisdom and devotion in spiritual evolution.",
+      "Insight_kn": "ಅಸ್ತಿತ್ವದ ಆವರ್ತಕ ಸ್ವರೂಪವನ್ನು ಒತ್ತಿಹೇಳಲಾಗಿದೆ, ನಿರಂತರ ನವೀಕರಣ ಮತ್ತು ಬೆಳವಣಿಗೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಬುದ್ಧಿವಂತಿಕೆಯ ಶುದ್ಧೀಕರಣವು (ಮನೀಷಾ) ಪ್ರಜ್ಞೆಯ ಉನ್ನತೀಕರಣಕ್ಕೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ, ಪವಿತ್ರ ಶಬ್ದದ ಮೂಲಕ ದೈವಿಕ ಸತ್ಯದ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ (ವಾಚ್). ಇದು ಆಧ್ಯಾತ್ಮಿಕ ವಿಕಾಸದಲ್ಲಿ ಜ್ಞಾನ ಮತ್ತು ಭಕ್ತಿಯ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S8_62-6_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 6,
+      "rig_lines": [
+        "यान्‌ वो॒ नरो᳚ देव॒यन्तो᳚ निमि॒म्युर्वन॑स्पते॒ स्वधि॑तिर्वा त॒तक्ष॑ |",
+        "ते दे॒वासः॒ स्वर॑वस्तस्थि॒वांसः॑ प्र॒जाव॑द॒स्मे दि॑धिषन्तु॒ रत्न᳚म् ||"
+      ],
+      "pre_splits": [
+        "यान्",
+        "वः॒",
+        "नरः॑",
+        "दे॒व॒ऽयन्तः॑",
+        "नि॒ऽमि॒म्युः",
+        "वन॑स्पते",
+        "स्वऽधि॑तिः",
+        "वा॒",
+        "त॒तक्ष॑",
+        "ते",
+        "दे॒वासः॑",
+        "स्वर॑वः",
+        "त॒स्थि॒ऽवांसः॑",
+        "प्र॒जाऽव॑त्",
+        "अ॒स्मे इति॑",
+        "दि॒धि॒ष॒न्तु॒",
+        "रत्न᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यान्",
+          "pada_kn": "ಯಾನ್",
+          "meaning_en": "whom / which",
+          "meaning_kn": "ಯಾರನ್ನು / ಯಾವವುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "for you (gods)",
+          "meaning_kn": "ನಿಮಗಾಗಿ (ದೇವತೆಗಳಿಗಾಗಿ)"
+        },
+        {
+          "pada_original": "नरः॑",
+          "pada_kn": "ನರಃ",
+          "meaning_en": "men / sacrificers",
+          "meaning_kn": "ಮನುಷ್ಯರು / ಯಜಮಾನರು"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयन्तः॑",
+          "pada_kn": "ದೇವಯನ್ತಃ",
+          "meaning_en": "desiring the gods / devout",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು ಬಯಸುವವರು / ಭಕ್ತರು"
+        },
+        {
+          "pada_original": "नि॒ऽमि॒म्युः",
+          "pada_kn": "ನಿಮಿಮ್ಯುಃ",
+          "meaning_en": "have erected / set up",
+          "meaning_kn": "ನೆಟ್ಟರು / ಸ್ಥಾಪಿಸಿದರು"
+        },
+        {
+          "pada_original": "वन॑स्पते",
+          "pada_kn": "ವನಸ್ಪತೇ",
+          "meaning_en": "O Lord of the forest / O sacrificial post",
+          "meaning_kn": "ಓ ವನಸ್ಪತಿಯೇ / ಓ ಯಜ್ಞದ ಸ್ತಂಭವೇ"
+        },
+        {
+          "pada_original": "स्वऽधि॑तिः",
+          "pada_kn": "ಸ್ವಧಿತಿಃ",
+          "meaning_en": "the axe / well-placed tool",
+          "meaning_kn": "ಕೊಡಲಿ / ಉತ್ತಮ ಸಾಧನ"
+        },
+        {
+          "pada_original": "वा॒",
+          "pada_kn": "ವಾ",
+          "meaning_en": "or",
+          "meaning_kn": "ಅಥವಾ"
+        },
+        {
+          "pada_original": "त॒तक्ष॑",
+          "pada_kn": "ತತಕ್ಷ",
+          "meaning_en": "has fashioned / carved",
+          "meaning_kn": "ಕೆತ್ತಿದೆ / ರೂಪಿಸಿದೆ"
+        },
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "those (posts)",
+          "meaning_kn": "ಆ (ಸ್ತಂಭಗಳು)"
+        },
+        {
+          "pada_original": "दे॒वासः॑",
+          "pada_kn": "ದೇವಾಸಃ",
+          "meaning_en": "divine ones / gods",
+          "meaning_kn": "ದೈವಿಕವಾದವುಗಳು / ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "स्वर॑वः",
+          "pada_kn": "ಸ್ವರವಃ",
+          "meaning_en": "resonant / having good sound",
+          "meaning_kn": "ಧ್ವನಿಯುಳ್ಳ / ಉತ್ತಮ ಶಬ್ದವುಳ್ಳ"
+        },
+        {
+          "pada_original": "त॒स्थि॒ऽवांसः॑",
+          "pada_kn": "ತಸ್ಥಿವಾಂಸಃ",
+          "meaning_en": "standing / established",
+          "meaning_kn": "ನಿಂತಿರುವ / ಸ್ಥಾಪಿತವಾದ"
+        },
+        {
+          "pada_original": "प्र॒जाऽव॑त्",
+          "pada_kn": "ಪ್ರಜಾವತ್",
+          "meaning_en": "rich in progeny / with offspring",
+          "meaning_kn": "ಸಂತಾನಭರಿತವಾದ / ಮಕ್ಕಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒स्मे इति॑",
+          "pada_kn": "ಅಸ್ಮೇ ಇತಿ",
+          "meaning_en": "for us / to us",
+          "meaning_kn": "ನಮಗಾಗಿ / ನಮಗೆ"
+        },
+        {
+          "pada_original": "दि॒धि॒ष॒न्तु॒",
+          "pada_kn": "ದಿಧಿಷನ್ತು",
+          "meaning_en": "may they bestow / grant",
+          "meaning_kn": "ಅವರು ದಯಪಾಲಿಸಲಿ / ನೀಡಲಿ"
+        },
+        {
+          "pada_original": "रत्न᳚‌म्",
+          "pada_kn": "ರತ್ನಮ್",
+          "meaning_en": "treasure / wealth / precious gift",
+          "meaning_kn": "ರತ್ನ / ಸಂಪತ್ತು / ಅಮೂಲ್ಯ ಕೊಡುಗೆ"
+        }
+      ],
+      "full_meaning_en": "O Lord of the forest, those posts which devout men have erected for you, or which the axe has fashioned, may those divine, resonant, and firmly standing posts bestow upon us treasure rich in progeny.",
+      "full_meaning_kn": "ಓ ಅರಣ್ಯದ ಒಡೆಯನೇ, ಯಾವ ಕಂಬಗಳನ್ನು ಭಕ್ತಿಯುಳ್ಳ ಮನುಷ್ಯರು ನಿಮಗಾಗಿ ನೆಟ್ಟಿರುವರೋ, ಅಥವಾ ಕೊಡಲಿಯಿಂದ ಸೃಷ್ಟಿಸಿರುವರೋ, ಆ ದೈವಿಕ, ಪ್ರತಿಧ್ವನಿಸುವ, ಮತ್ತು ದೃಢವಾಗಿ ನಿಂತಿರುವ ಕಂಬಗಳು ನಮಗೆ ಸಂತಾನ ಸಮೃದ್ಧಿಯಾದ ಸಂಪತ್ತನ್ನು ದಯಪಾಲಿಸಲಿ.",
+      "rig_time_s": 72.67099999999999,
+      "Insight_en": "The external ritual of erecting sacrificial posts mirrors the internal process of building a strong foundation for spiritual growth. Just as the posts are firmly established, so too must the seeker establish unwavering resolve within. The resonant quality suggests the amplification of inner vibrations through focused intention. The treasure rich in progeny symbolizes the abundance of positive qualities and spiritual offspring born from this inner work. The வனஸ்பதி (Vanaspati) or the 'Lord of the Forest' represents the life force inherent in all beings, urging the individual to cultivate this vital energy towards spiritual fruition.",
+      "Insight_kn": "ಯಜ್ಞ ಸ್ತಂಭಗಳನ್ನು ಸ್ಥಾಪಿಸುವ ಬಾಹ್ಯ ಆಚರಣೆಯು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಬಲವಾದ ಅಡಿಪಾಯವನ್ನು ನಿರ್ಮಿಸುವ ಆಂತರಿಕ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಕಂಬಗಳನ್ನು ದೃಢವಾಗಿ ಸ್ಥಾಪಿಸಿದಂತೆಯೇ, ಸಾಧಕನು ತನ್ನೊಳಗೆ ಅಚಲವಾದ ಸಂಕಲ್ಪವನ್ನು ಸ್ಥಾಪಿಸಬೇಕು. ಪ್ರತಿಧ್ವನಿಸುವ ಗುಣವು ಕೇಂದ್ರೀಕೃತ ಉದ್ದೇಶದ ಮೂಲಕ ಆಂತರಿಕ ಕಂಪನಗಳ ವರ್ಧನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸಂತಾನ ಸಮೃದ್ಧಿಯಾದ ಸಂಪತ್ತು ಈ ಆಂತರಿಕ ಕೆಲಸದಿಂದ ಜನಿಸಿದ ಸಕಾರಾತ್ಮಕ ಗುಣಗಳು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸಂತತಿಯ ಸಮೃದ್ಧಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ವನಸ್ಪತಿ ಅಥವಾ 'ಅರಣ್ಯದ ಒಡೆಯ' ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲಿ ಅಂತರ್ಗತವಾಗಿರುವ ಜೀವ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಫಲಪ್ರದತೆಗೆ ಈ ಪ್ರಮುಖ ಶಕ್ತಿಯನ್ನು ಬೆಳೆಸಲು ವ್ಯಕ್ತಿಯನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S8_62-7_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 7,
+      "rig_lines": [
+        "ये वृ॒क्णासो॒, अधि॒ क्षमि॒ निमि॑तासो य॒तस्रु॑चः |",
+        "ते नो᳚ व्यन्तु॒ वार्यं᳚ देव॒त्रा क्षे᳚त्र॒साध॑सः ||"
+      ],
+      "pre_splits": [
+        "ये",
+        "वृ॒क्णासः॑",
+        "अधि॑",
+        "क्षमि॑",
+        "निऽमि॑तासः",
+        "य॒तऽस्रु॑चः",
+        "ते",
+        "नः॒",
+        "व्य॒न्तु॒",
+        "वार्य᳚‌म्",
+        "दे॒व॒ऽत्रा",
+        "क्षे॒त्र॒ऽसाध॑सः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "those (posts)",
+          "meaning_kn": "ಯಾವ (ಯೂಪಗಳು)"
+        },
+        {
+          "pada_original": "वृ॒क्णासः॑",
+          "pada_kn": "ವೃಕ್ಣಾಸಃ",
+          "meaning_en": "cut down",
+          "meaning_kn": "ಕತ್ತರಿಸಲ್ಪಟ್ಟವು"
+        },
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "upon",
+          "meaning_kn": "ಮೇಲೆ"
+        },
+        {
+          "pada_original": "क्षमि॑",
+          "pada_kn": "ಕ್ಷಮಿ",
+          "meaning_en": "the earth",
+          "meaning_kn": "ಭೂಮಿಯ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "निऽमि॑तासः",
+          "pada_kn": "ನಿಮಿತಾಸಃ",
+          "meaning_en": "erected",
+          "meaning_kn": "ನೆಡಲ್ಪಟ್ಟವು"
+        },
+        {
+          "pada_original": "य॒तऽस्रु॑चः",
+          "pada_kn": "ಯತಸ್ರುಚಃ",
+          "meaning_en": "towards whom ladles are directed",
+          "meaning_kn": "ಯಾರ ಕಡೆಗೆ ಸ್ರುಕ್‌ಗಳು (ಆಹುತಿ ಪಾತ್ರೆಗಳು) ಚಾಚಲ್ಪಟ್ಟಿವೆಯೋ"
+        },
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "may they",
+          "meaning_kn": "ಅವು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "व्य॒न्तु॒",
+          "pada_kn": "ವ್ಯಂತು",
+          "meaning_en": "grant / bestow",
+          "meaning_kn": "ನೀಡಲಿ/ಪ್ರದಾನ ಮಾಡಲಿ"
+        },
+        {
+          "pada_original": "वार्य᳚‌म्",
+          "pada_kn": "ವಾರ್ಯಮ್",
+          "meaning_en": "desirable blessings / wealth",
+          "meaning_kn": "ಅಪೇಕ್ಷಣೀಯ ವರಗಳನ್ನು/ಸಂಪತ್ತನ್ನು"
+        },
+        {
+          "pada_original": "दे॒व॒ऽत्रा",
+          "pada_kn": "ದೇವತ್ರಾ",
+          "meaning_en": "among the gods / in the divine realm",
+          "meaning_kn": "ದೇವತೆಗಳ ನಡುವೆ/ದೈವಿಕ ಕ್ಷೇತ್ರದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "क्षे॒त्र॒ऽसाध॑सः",
+          "pada_kn": "ಕ್ಷೇತ್ರಸಾಧಸಃ",
+          "meaning_en": "who procure a place (for us)",
+          "meaning_kn": "ನಮಗೆ ಸ್ಥಾನವನ್ನು (ಸ್ವರ್ಗವನ್ನು) ಒದಗಿಸುವವರು"
+        }
+      ],
+      "full_meaning_en": "May those sacrificial posts, hewn and raised upon the earth, towards which ladles of offerings are directed, grant us desirable blessings amidst the gods, for they secure a dwelling place (in the divine realm) for us.",
+      "full_meaning_kn": "ಯಾವ ಯಜ್ಞಸ್ತಂಭಗಳು ಭೂಮಿಯ ಮೇಲೆ ಕಡಿಯಲ್ಪಟ್ಟು ನೆಡಲ್ಪಟ್ಟಿವೆಯೋ, ಮತ್ತು ಯಾವ ಸ್ತಂಭಗಳ ಕಡೆಗೆ ಅರ್ಪಣೆಗಳ ಸೌಟುಗಳು ನಿರ್ದೇಶಿಸಲ್ಪಡುತ್ತವೆಯೋ, ಆ ಸ್ತಂಭಗಳು ದೇವತೆಗಳ ನಡುವೆ ನಮಗೆ ಅಪೇಕ್ಷಿತವಾದ ಆಶೀರ್ವಾದಗಳನ್ನು ನೀಡಲಿ, ಏಕೆಂದರೆ ಅವು ನಮಗೆ ದೈವಿಕ ಲೋಕದಲ್ಲಿ ವಾಸಸ್ಥಾನವನ್ನು ಒದಗಿಸುತ್ತವೆ.",
+      "rig_time_s": 87.27199999999999,
+      "Insight_en": "The sacrificial post (यूप, yūpa) represents the disciplined mind, hewn from earthly desires and firmly established in devotion. The offerings poured towards it symbolize the focused intentions directed towards spiritual growth. By consecrating the mind and actions, one secures a firm foundation in the divine realm.",
+      "Insight_kn": "ಯಜ್ಞ ಸ್ತಂಭವು (ಯೂಪ) ಲೌಕಿಕ ಆಸೆಗಳಿಂದ ಕಡಿಯಲ್ಪಟ್ಟು ಭಕ್ತಿಯಲ್ಲಿ ದೃಢವಾಗಿ ನೆಲೆಗೊಂಡಿರುವ ಶಿಸ್ತುಬದ್ಧ ಮನಸ್ಸನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅದರ ಕಡೆಗೆ ಸುರಿಯುವ ಅರ್ಪಣೆಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ನಿರ್ದೇಶಿಸಲಾದ ಕೇಂದ್ರೀಕೃತ ಉದ್ದೇಶಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಮನಸ್ಸು ಮತ್ತು ಕ್ರಿಯೆಗಳನ್ನು ಪವಿತ್ರಗೊಳಿಸುವ ಮೂಲಕ, ದೈವಿಕ ಕ್ಷೇತ್ರದಲ್ಲಿ ದೃಢವಾದ ಅಡಿಪಾಯವನ್ನು ಪಡೆಯುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S8_62-8_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 8,
+      "rig_lines": [
+        "आ॒दि॒त्या रु॒द्रा वस॑वः सुनी॒था द्यावा॒क्षामा᳚ पृथि॒वी, अ॒न्तरि॑क्षम् |",
+        "स॒जोष॑सो य॒ज्ञम॑वन्तु दे॒वा, ऊ॒र्ध्वं कृ᳚ण्वन्त्वध्व॒रस्य॑ के॒तुम् ||"
+      ],
+      "pre_splits": [
+        "आ॒दि॒त्याः",
+        "रु॒द्राः",
+        "वस॑वः",
+        "सु॒ऽनी॒थाः",
+        "द्यावा॒क्षामा᳚",
+        "पृ॒थि॒वी",
+        "अ॒न्तरि॑क्ष‌म्",
+        "स॒ऽजोष॑सः",
+        "य॒ज्ञ‌म्",
+        "अ॒व॒न्तु॒",
+        "दे॒वाः",
+        "ऊ॒र्ध्व‌म्",
+        "कृ॒ण्व॒न्तु॒",
+        "अ॒ध्व॒रस्य॑",
+        "के॒तु‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ॒दि॒त्याः",
+          "pada_kn": "ಆದಿತ್ಯಾಃ",
+          "meaning_en": "Adityas (a class of deities)",
+          "meaning_kn": "ಆದಿತ್ಯರು (ದೇವತೆಗಳ ಒಂದು ವರ್ಗ)"
+        },
+        {
+          "pada_original": "रु॒द्राः",
+          "pada_kn": "ರುದ್ರಾಃ",
+          "meaning_en": "Rudras (a class of deities)",
+          "meaning_kn": "ರುದ್ರರು (ದೇವತೆಗಳ ಒಂದು ವರ್ಗ)"
+        },
+        {
+          "pada_original": "वस॑वः",
+          "pada_kn": "ವಸವಃ",
+          "meaning_en": "Vasus (a class of deities)",
+          "meaning_kn": "ವಸುಗಳು (ದೇವತೆಗಳ ಒಂದು ವರ್ಗ)"
+        },
+        {
+          "pada_original": "सु॒ऽनी॒थाः",
+          "pada_kn": "ಸುನೀಥಾಃ",
+          "meaning_en": "well-led / well-guided",
+          "meaning_kn": "ಸನ್ಮಾರ್ಗದಲ್ಲಿರುವವರು / ಉತ್ತಮ ನಾಯಕರಾಗಿರುವವರು"
+        },
+        {
+          "pada_original": "द्यावा॒क्षामा᳚",
+          "pada_kn": "ದ್ಯಾವಾಕ್ಷಾಮಾ",
+          "meaning_en": "Heaven and Earth (dual)",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥ್ವಿಗಳು (ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ)"
+        },
+        {
+          "pada_original": "पृ॒थि॒वी",
+          "pada_kn": "ಪೃಥಿವೀ",
+          "meaning_en": "Earth",
+          "meaning_kn": "ಭೂಮಿ"
+        },
+        {
+          "pada_original": "अ॒न्तरि॑क्ष‌म्",
+          "pada_kn": "ಅಂತರಿಕ್ಷಮ್",
+          "meaning_en": "Atmosphere / mid-region",
+          "meaning_kn": "ಅಂತರಿಕ್ಷ / ಆಕಾಶ"
+        },
+        {
+          "pada_original": "स॒ऽजोष॑सः",
+          "pada_kn": "ಸಜೋಷಸಃ",
+          "meaning_en": "unitedly / in harmony",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಏಕಚಿತ್ತದಿಂದ"
+        },
+        {
+          "pada_original": "य॒ज्ञ‌म्",
+          "pada_kn": "ಯಜ್ಞಮ್",
+          "meaning_en": "the sacrifice",
+          "meaning_kn": "ಯಜ್ಞವನ್ನು"
+        },
+        {
+          "pada_original": "अ॒व॒न्तु॒",
+          "pada_kn": "ಅವಂತು",
+          "meaning_en": "may they protect",
+          "meaning_kn": "ಅವರು ರಕ್ಷಿಸಲಿ"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "ऊ॒र्ध्व‌म्",
+          "pada_kn": "ಊರ್ಧ್ವಮ್",
+          "meaning_en": "high / upwards",
+          "meaning_kn": "ಮೇಲಕ್ಕೆ / ಉನ್ನತವಾಗಿ"
+        },
+        {
+          "pada_original": "कृ॒ण्व॒न्तु॒",
+          "pada_kn": "ಕೃಣ್ವಂತು",
+          "meaning_en": "may they make / establish",
+          "meaning_kn": "ಅವರು ಮಾಡಲಿ / ಸ್ಥಾಪಿಸಲಿ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒रस्य॑",
+          "pada_kn": "ಅಧ್ವರಸ್ಯ",
+          "meaning_en": "of the sacrifice / ritual",
+          "meaning_kn": "ಯಜ್ಞದ / ಹಿಂಸಾರಹಿತ ಕರ್ಮದ"
+        },
+        {
+          "pada_original": "के॒तु‌म्",
+          "pada_kn": "ಕೇತುಮ್",
+          "meaning_en": "the banner / symbol",
+          "meaning_kn": "ಧ್ವಜವನ್ನು / ಸಂಕೇತವನ್ನು"
+        }
+      ],
+      "full_meaning_en": "May the Ādityas, the Rudras, and the Vasus, beings of righteous conduct, along with the Sky, the Earth, and the Interspace, may all these deities, united in spirit, safeguard this sacred rite. May they raise high the ensign of this reverent sacrifice.",
+      "full_meaning_kn": "ಆದಿತ್ಯರು, ರುದ್ರರು ಮತ್ತು ವಸುಗಳು, ಸನ್ಮಾರ್ಗದಲ್ಲಿ ನಡೆಯುವವರು, ಆಕಾಶ, ಭೂಮಿ ಮತ್ತು ಅಂತರಿಕ್ಷದೊಂದಿಗೆ, ಈ ದೇವತೆಗಳೆಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಈ ಪವಿತ್ರ ಯಜ್ಞವನ್ನು ರಕ್ಷಿಸಲಿ. ಅವರು ಈ ಗೌರವಾನ್ವಿತ ಯಾಗದ ಧ್ವಜವನ್ನು ಎತ್ತರಕ್ಕೆ ಏರಿಸಲಿ.",
+      "rig_time_s": 98.72399999999999,
+      "Insight_en": "The Ādityas, Rudras, and Vasus represent different aspects of cosmic energy and divine will. Their unified protection of the यज्ञ (yajna) signifies the harmonization of these forces within the individual. The raising of the ध्वज (dhvaja) of the अध्वर (adhvara) symbolizes the elevation of consciousness through disciplined action and devotion.",
+      "Insight_kn": "ಆದಿತ್ಯರು, ರುದ್ರರು ಮತ್ತು ವಸುಗಳು ಕಾಸ್ಮಿಕ್ ಶಕ್ತಿಯ ವಿವಿಧ ಅಂಶಗಳನ್ನು ಮತ್ತು ದೈವಿಕ ಇಚ್ಛೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಯಜ್ಞದ ಅವರ ಏಕೀಕೃತ ರಕ್ಷಣೆ ವ್ಯಕ್ತಿಯೊಳಗಿನ ಈ ಶಕ್ತಿಗಳ ಸಾಮರಸ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಧ್ವರದ ಧ್ವಜದ ಏರಿಕೆಯು ಶಿಸ್ತುಬದ್ಧ ಕ್ರಿಯೆ ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ ಪ್ರಜ್ಞೆಯ ಉನ್ನತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S8_62-9_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 9,
+      "rig_lines": [
+        "हं॒सा, इ॑व श्रेणि॒शो यता᳚नाः शु॒क्रा वसा᳚नाः॒ स्वर॑वो न॒ आगुः॑ |",
+        "उ॒न्नी॒यमा᳚नाः क॒विभिः॑ पु॒रस्ता᳚द् दे॒वा दे॒वाना॒मपि॑ यन्ति॒ पाथः॑ ||"
+      ],
+      "pre_splits": [
+        "हं॒साःऽ‌इ᳚व",
+        "श्रे॒णि॒ऽशः",
+        "यता᳚नाः",
+        "शु॒क्रा",
+        "वसा᳚नाः",
+        "स्वर॑वः",
+        "नः॒",
+        "आ",
+        "अ॒गुः॒",
+        "उ॒त्ऽनी॒यमा᳚नाः",
+        "क॒विऽभिः॑",
+        "पु॒रस्ता᳚त्",
+        "दे॒वाः",
+        "दे॒वाना᳚‌म्",
+        "अपि॑",
+        "य॒न्ति॒",
+        "पाथः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "हं॒साःऽ‌इ᳚व",
+          "pada_kn": "ಹಂಸಾಃಇವ",
+          "meaning_en": "like swans",
+          "meaning_kn": "ಹಂಸಗಳಂತೆ"
+        },
+        {
+          "pada_original": "श्रे॒णि॒ऽशः",
+          "pada_kn": "ಶ್ರೇಣಿಶಃ",
+          "meaning_en": "in rows / in lines",
+          "meaning_kn": "ಸಾಲುಸಾಲಾಗಿ / ಶ್ರೇಣಿಯಾಗಿ"
+        },
+        {
+          "pada_original": "यता᳚नाः",
+          "pada_kn": "ಯತಾನಾಃ",
+          "meaning_en": "moving / proceeding",
+          "meaning_kn": "ಚಲಿಸುವ / ಸಾಗುವ"
+        },
+        {
+          "pada_original": "शु॒क्रा",
+          "pada_kn": "ಶುಕ್ರಾ",
+          "meaning_en": "bright / shining",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ / ಶುಭ್ರವಾದ"
+        },
+        {
+          "pada_original": "वसा᳚नाः",
+          "pada_kn": "ವಸಾನಾಃ",
+          "meaning_en": "wearing / clad in",
+          "meaning_kn": "ಧರಿಸಿದ / ತೊಟ್ಟ"
+        },
+        {
+          "pada_original": "स्वर॑वः",
+          "pada_kn": "ಸ್ವರವಃ",
+          "meaning_en": "sounding (posts) / posts that make sound",
+          "meaning_kn": "ಧ್ವನಿಮಾಡುವ (ಯೂಪಸ್ತಂಭಗಳು) / ಶಬ್ದಿಸುವ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ / ನಮ್ಮೆಡೆಗೆ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(towards)",
+          "meaning_kn": "(ಕಡೆಗೆ)"
+        },
+        {
+          "pada_original": "अ॒गुः॒",
+          "pada_kn": "ಅಗುಃ",
+          "meaning_en": "came / have come",
+          "meaning_kn": "ಬಂದವು / ಆಗಮಿಸಿದವು"
+        },
+        {
+          "pada_original": "उ॒त्ऽनी॒यमा᳚नाः",
+          "pada_kn": "ಉತ್‌ನೀಯಮಾನಾಃ",
+          "meaning_en": "being raised / being brought up",
+          "meaning_kn": "ಎತ್ತಲ್ಪಡುತ್ತಿರುವ / ಮೇಲಕ್ಕೆ ಒಯ್ಯಲ್ಪಡುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "क॒विऽभिः॑",
+          "pada_kn": "ಕವಿಭಿಃ",
+          "meaning_en": "by the wise / by the seers",
+          "meaning_kn": "ಜ್ಞಾನಿಗಳಿಂದ / ಋಷಿಗಳಿಂದ"
+        },
+        {
+          "pada_original": "पु॒रस्ता᳚त्",
+          "pada_kn": "ಪುರಸ್ತಾತ್",
+          "meaning_en": "from the front / in front",
+          "meaning_kn": "ಮುಂಭಾಗದಿಂದ / ಮುಂದೆ"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "the gods (referring to the posts)",
+          "meaning_kn": "ದೇವತೆಗಳು (ಯೂಪಸ್ತಂಭಗಳು)"
+        },
+        {
+          "pada_original": "दे॒वाना᳚‌म्",
+          "pada_kn": "ದೇವಾನಾಮ್",
+          "meaning_en": "of the gods",
+          "meaning_kn": "ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "अपि॑",
+          "pada_kn": "ಅಪಿ",
+          "meaning_en": "also / indeed (here, implies 'towards')",
+          "meaning_kn": "ಸಹ / ನಿಜವಾಗಿಯೂ (ಇಲ್ಲಿ, 'ಕಡೆಗೆ' ಎಂಬ ಅರ್ಥದಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "य॒न्ति॒",
+          "pada_kn": "ಯಂತಿ",
+          "meaning_en": "they go / they proceed",
+          "meaning_kn": "ಅವು ಹೋಗುತ್ತವೆ / ಸಾಗುತ್ತವೆ"
+        },
+        {
+          "pada_original": "पाथः॑",
+          "pada_kn": "ಪಾಥಃ",
+          "meaning_en": "path / way / abode",
+          "meaning_kn": "ಮಾರ್ಗ / ದಾರಿ / ನೆಲೆ"
+        }
+      ],
+      "full_meaning_en": "Like swans in a row, moving along, clad in bright garments, the resounding sacrificial posts have approached us. Being raised by the wise priests from the front, these divine posts proceed toward the path of the gods.",
+      "full_meaning_kn": "ಹಂಸಗಳಂತೆ ಸಾಲಾಗಿ ಚಲಿಸುತ್ತಾ, ಪ್ರಕಾಶಮಾನವಾದ ವಸ್ತ್ರಗಳನ್ನು ಧರಿಸಿರುವ, ಪ್ರತಿಧ್ವನಿಸುವ ಯಜ್ಞ ಸ್ತಂಭಗಳು ನಮ್ಮನ್ನು ಸಮೀಪಿಸಿವೆ. ಜ್ಞಾನವುಳ್ಳ ಪುರೋಹಿತರು ಮುಂಭಾಗದಿಂದ ಎತ್ತಲ್ಪಟ್ಟ ಈ ದೈವಿಕ ಸ್ತಂಭಗಳು ದೇವತೆಗಳ ಮಾರ್ಗದ ಕಡೆಗೆ ಸಾಗುತ್ತವೆ.",
+      "rig_time_s": 113.47999999999999,
+      "Insight_en": "The sacrificial posts represent the purified senses, aligned and moving towards the divine. Just as swans symbolize purity and grace, these senses, adorned with the light of knowledge, are guided by wisdom towards the path of the gods. This path signifies the inner journey toward self-realization, where individual consciousness merges with the universal consciousness (देव). The act of raising the posts by wise priests mirrors the conscious effort to elevate the senses and mind towards spiritual enlightenment. The bright garments signify the clarity and purity of perception attained through spiritual practice, leading ultimately to union with the divine.",
+      "Insight_kn": "ಯಜ್ಞ ಸ್ತಂಭಗಳು ಶುದ್ಧೀಕರಿಸಿದ ಇಂದ್ರಿಯಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಅವು ದೈವತ್ವದ ಕಡೆಗೆ ಚಲಿಸುತ್ತವೆ. ಹಂಸಗಳು ಹೇಗೆ ಶುದ್ಧತೆ ಮತ್ತು ಅನುಗ್ರಹದ ಸಂಕೇತವೋ, ಹಾಗೆಯೇ ಈ ಇಂದ್ರಿಯಗಳು, ಜ್ಞಾನದ ಬೆಳಕಿನಿಂದ ಅಲಂಕರಿಸಲ್ಪಟ್ಟಿವೆ, ದೇವತೆಗಳ ಮಾರ್ಗದ ಕಡೆಗೆ ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಡುತ್ತವೆ. ಈ ಮಾರ್ಗವು ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗಿನ ಆಂತರಿಕ ಪ್ರಯಾಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಲ್ಲಿ ವೈಯಕ್ತಿಕ ಪ್ರಜ್ಞೆಯು ಸಾರ್ವತ್ರಿಕ ಪ್ರಜ್ಞೆಯೊಂದಿಗೆ (ದೇವ) ವಿಲೀನಗೊಳ್ಳುತ್ತದೆ. ಬುದ್ಧಿವಂತ ಪುರೋಹಿತರು ಸ್ತಂಭಗಳನ್ನು ಎತ್ತುವುದು ಎಂದರೆ ಇಂದ್ರಿಯಗಳನ್ನು ಮತ್ತು ಮನಸ್ಸನ್ನು ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನೋದಯದ ಕಡೆಗೆ ಎತ್ತುವ ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಪ್ರಯತ್ನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಪ್ರಕಾಶಮಾನವಾದ ವಸ್ತ್ರಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಮೂಲಕ ಪಡೆದ ಗ್ರಹಿಕೆಯ ಸ್ಪಷ್ಟತೆ ಮತ್ತು ಶುದ್ಧತೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ, ಇದು ಅಂತಿಮವಾಗಿ ದೈವಿಕದೊಂದಿಗೆ ಮಿಲನಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S8_62-10_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 10,
+      "rig_lines": [
+        "शृङ्गा᳚णी॒वेच्छृ॒ङ्गिणां॒ सं द॑दृश्रे च॒षाल॑वन्तः॒ स्वर॑वः पृथि॒व्याम् |",
+        "वा॒घद्भि᳚र्वा विह॒वे श्रोष॑माणा, अ॒स्माँ, अ॑वन्तु पृत॒नाज्ये᳚षु ||"
+      ],
+      "pre_splits": [
+        "शृङ्गा᳚णिऽ‌इव",
+        "इत्",
+        "शृ॒ङ्गिणा᳚‌म्",
+        "स‌म्",
+        "द॒दृ॒श्रे॒",
+        "च॒षाल॑ऽवन्तः",
+        "स्वर॑वः",
+        "पृ॒थि॒व्या‌म्",
+        "वा॒घत्ऽभिः॑",
+        "वा॒",
+        "वि॒ऽह॒वे",
+        "श्रोष॑माणाः",
+        "अ॒स्मान्",
+        "अ॒व॒न्तु॒",
+        "पृ॒त॒नाज्ये᳚षु"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "शृङ्गा᳚णिऽ‌इव",
+          "pada_kn": "ಶೃಙ್ಗಾಣಿಇವ",
+          "meaning_en": "like horns",
+          "meaning_kn": "ಕೊಂಬುಗಳಂತೆ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "शृ॒ङ्गिणा᳚‌म्",
+          "pada_kn": "ಶೃಙ್ಗಿಣಾಮ್",
+          "meaning_en": "of horned (animals)",
+          "meaning_kn": "ಕೊಂಬುಳ್ಳ ಪ್ರಾಣಿಗಳ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / completely",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "द॒दृ॒श्रे॒",
+          "pada_kn": "ದದೃಶ್ರೇ",
+          "meaning_en": "they are seen",
+          "meaning_kn": "ಕಾಣಿಸುತ್ತವೆ / ಗೋಚರಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "च॒षाल॑ऽवन्तः",
+          "pada_kn": "ಚಷಾಲವನ್ತಃ",
+          "meaning_en": "having a caṣāla (sacrificial post cap)",
+          "meaning_kn": "ಚಷಾಲವನ್ನು (ಯೂಪದ ಮೇಲಿನ ಆವರಣ) ಹೊಂದಿರುವ"
+        },
+        {
+          "pada_original": "स्वर॑वः",
+          "pada_kn": "ಸ್ವರವಃ",
+          "meaning_en": "the sacrificial posts (Yūpas)",
+          "meaning_kn": "ಯೂಪಗಳು / ಯಜ್ಞದ ಕಂಬಗಳು"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्या‌म्",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಮ್",
+          "meaning_en": "on the earth",
+          "meaning_kn": "ಭೂಮಿಯ ಮೇಲೆ"
+        },
+        {
+          "pada_original": "वा॒घत्ऽभिः॑",
+          "pada_kn": "ವಾಘತ್ಭಿಃ",
+          "meaning_en": "by the chanters / priests",
+          "meaning_kn": "ಸ್ತೋತ್ರ ಮಾಡುವವರಿಂದ / ಋತ್ವಿಜರಿಂದ"
+        },
+        {
+          "pada_original": "वा॒",
+          "pada_kn": "ವಾ",
+          "meaning_en": "or",
+          "meaning_kn": "ಅಥವಾ"
+        },
+        {
+          "pada_original": "वि॒ऽह॒वे",
+          "pada_kn": "ವಿಹವೇ",
+          "meaning_en": "in battle / in the call to battle",
+          "meaning_kn": "ಯುದ್ಧದಲ್ಲಿ / ಯುದ್ಧದ ಕರೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "श्रोष॑माणाः",
+          "pada_kn": "ಶ್ರೋಷಮಾಣಾಃ",
+          "meaning_en": "being heard / being invoked",
+          "meaning_kn": "ಕೇಳಿಸಿಕೊಳ್ಳಲ್ಪಡುವ / ಆಹ್ವಾನಿಸಲ್ಪಡುವ"
+        },
+        {
+          "pada_original": "अ॒स्मान्",
+          "pada_kn": "ಅಸ್ಮಾನ್",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "अ॒व॒न्तु॒",
+          "pada_kn": "ಅವನ್ತು",
+          "meaning_en": "may they protect",
+          "meaning_kn": "ಅವರು ರಕ್ಷಿಸಲಿ"
+        },
+        {
+          "pada_original": "पृ॒त॒नाज्ये᳚षु",
+          "pada_kn": "ಪೃತನಾಜ್ಯೇಷು",
+          "meaning_en": "in battles / in contests for spoils",
+          "meaning_kn": "ಯುದ್ಧಗಳಲ್ಲಿ / ಯುದ್ಧದ ವಿಜಯಗಳಲ್ಲಿ"
+        }
+      ],
+      "full_meaning_en": "Indeed, the sacrificial posts (Yūpas) with their caṣāla (caps) are seen on the earth, appearing like the horns of horned animals. May they, being invoked by the chanters (priests) or heard in battle, protect us in our contests and battles.",
+      "full_meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ, ಚಷಾಲಗಳೊಂದಿಗೆ (ಮೇಲ್ಭಾಗಗಳು) ಕೂಡಿದ ಯಜ್ಞ ಸ್ತಂಭಗಳು (ಯೂಪಗಳು) ಭೂಮಿಯ ಮೇಲೆ ಗೋಚರಿಸುತ್ತವೆ, ಅವು ಕೊಂಬುಳ್ಳ ಪ್ರಾಣಿಗಳ ಕೊಂಬುಗಳಂತೆ ಕಾಣುತ್ತವೆ. ಅವುಗಳನ್ನು ಪಠಿಸುವವರಿಂದ (ಪುರೋಹಿತರು) ಆಹ್ವಾನಿಸಲ್ಪಡಲಿ ಅಥವಾ ಯುದ್ಧದಲ್ಲಿ ಕೇಳಲ್ಪಡಲಿ, ನಮ್ಮ ಸ್ಪರ್ಧೆಗಳು ಮತ್ತು ಯುದ್ಧಗಳಲ್ಲಿ ನಮ್ಮನ್ನು ರಕ್ಷಿಸಲಿ.",
+      "rig_time_s": 128.796,
+      "Insight_en": "The Yūpas, symbols of sacrifice, represent the disciplined mind fixed on the divine. Just as the posts stand firm, our resolve should remain steadfast amidst life's battles. The call of the priests mirrors the inner invocation, seeking divine protection in our spiritual contests. The horned appearance signifies power and focus, channeling vital energy towards self-realization.",
+      "Insight_kn": "ಯೂಪಗಳು, ತ್ಯಾಗದ ಸಂಕೇತಗಳು, ದೈವಿಕದಲ್ಲಿ ಸ್ಥಿರವಾದ ಶಿಸ್ತುಬದ್ಧ ಮನಸ್ಸನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಸ್ತಂಭಗಳು ಸ್ಥಿರವಾಗಿ ನಿಂತಿರುವಂತೆಯೇ, ನಮ್ಮ ಸಂಕಲ್ಪವು ಜೀವನದ ಯುದ್ಧಗಳ ಮಧ್ಯೆ ಅಚಲವಾಗಿರಬೇಕು. ಪುರೋಹಿತರ ಕರೆಯು ಆಂತರಿಕ ಆಹ್ವಾನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ಪರ್ಧೆಗಳಲ್ಲಿ ದೈವಿಕ ರಕ್ಷಣೆಯನ್ನು ಬಯಸುತ್ತದೆ. ಕೊಂಬಿನ ನೋಟವು ಶಕ್ತಿ ಮತ್ತು ಗಮನವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ಪ್ರಮುಖ ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M3-S8_62-11_11",
+      "mandala": 3,
+      "sukta": 8,
+      "ric_index": 11,
+      "rig_lines": [
+        "वन॑स्पते श॒तव᳚ल्शो॒ वि रो᳚ह स॒हस्र॑वल्शा॒ वि व॒यं रु॑हेम |",
+        "यं त्वाम॒यं स्वधि॑ति॒स्तेज॑मानः प्रणि॒नाय॑ मह॒ते सौभ॑गाय ||"
+      ],
+      "pre_splits": [
+        "वन॑स्पते",
+        "श॒तऽव॑ल्शः",
+        "वि",
+        "रो॒ह॒",
+        "स॒हस्र॑ऽवल्शाः",
+        "वि",
+        "व॒य‌म्",
+        "रु॒हे॒म॒",
+        "य‌म्",
+        "त्वा‌म्",
+        "अ॒य‌म्",
+        "स्वऽधि॑तिः",
+        "तेज॑मानः",
+        "प्र॒ऽनि॒नाय॑",
+        "म॒ह॒ते",
+        "सौभ॑गाय"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वन॑स्पते",
+          "pada_kn": "ವನಸ್ಪತೇ",
+          "meaning_en": "O Lord of the forest / O tree",
+          "meaning_kn": "ಓ ವನಸ್ಪತಿಯೇ / ಓ ಮರವೇ"
+        },
+        {
+          "pada_original": "श॒तऽव॑ल्शः",
+          "pada_kn": "ಶತವಲ್ಶಃ",
+          "meaning_en": "with a hundred branches",
+          "meaning_kn": "ನೂರು ಕೊಂಬೆಗಳಿಂದ / ನೂರು ಶಾಖೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "forth / widely",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ವಿಸ್ತಾರವಾಗಿ"
+        },
+        {
+          "pada_original": "रो॒ह॒",
+          "pada_kn": "ರೋಹ",
+          "meaning_en": "grow (imperative)",
+          "meaning_kn": "ಬೆಳೆ / ವೃದ್ಧಿಯಾಗು"
+        },
+        {
+          "pada_original": "स॒हस्र॑ऽवल्शाः",
+          "pada_kn": "ಸಹಸ್ರವಲ್ಶಾಃ",
+          "meaning_en": "with a thousand branches",
+          "meaning_kn": "ಸಾವಿರ ಕೊಂಬೆಗಳಿಂದ / ಸಾವಿರ ಶಾಖೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "forth / widely",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ವಿಸ್ತಾರವಾಗಿ"
+        },
+        {
+          "pada_original": "व॒य‌म्",
+          "pada_kn": "ವಯಮ್",
+          "meaning_en": "we",
+          "meaning_kn": "ನಾವು"
+        },
+        {
+          "pada_original": "रु॒हे॒म॒",
+          "pada_kn": "ರುಹೇಮ",
+          "meaning_en": "may we grow (optative)",
+          "meaning_kn": "ಬೆಳೆಯೋಣ / ವೃದ್ಧಿಯಾಗೋಣ"
+        },
+        {
+          "pada_original": "य‌म्",
+          "pada_kn": "ಯಮ್",
+          "meaning_en": "whom / which",
+          "meaning_kn": "ಯಾರನ್ನು / ಯಾವುದನ್ನು"
+        },
+        {
+          "pada_original": "त्वा‌म्",
+          "pada_kn": "ತ್ವಾಮ್",
+          "meaning_en": "you (accusative)",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒य‌म्",
+          "pada_kn": "ಅಯಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಇವನು / ಇದು"
+        },
+        {
+          "pada_original": "स्वऽधि॑तिः",
+          "pada_kn": "ಸ್ವಧಿತಿಃ",
+          "meaning_en": "the axe / well-placed tool",
+          "meaning_kn": "ಕೊಡಲಿ / ಉತ್ತಮ ಸಾಧನ"
+        },
+        {
+          "pada_original": "तेज॑मानः",
+          "pada_kn": "ತೇಜಮಾನಃ",
+          "meaning_en": "sharpening / making keen",
+          "meaning_kn": "ಹರಿತಗೊಳಿಸುತ್ತಾ / ತೀಕ್ಷ್ಣಗೊಳಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "प्र॒ऽनि॒नाय॑",
+          "pada_kn": "ಪ್ರನಿನಾಯ",
+          "meaning_en": "has led / has brought forward",
+          "meaning_kn": "ಮುನ್ನಡೆಸಿದ್ದಾನೆ / ತಂದಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "म॒ह॒ते",
+          "pada_kn": "ಮಹತೇ",
+          "meaning_en": "for great / for abundant",
+          "meaning_kn": "ಮಹತ್ತರವಾದ / ಹೇರಳವಾದ"
+        },
+        {
+          "pada_original": "सौभ॑गाय",
+          "pada_kn": "ಸೌಭಗಾಯ",
+          "meaning_en": "good fortune / prosperity",
+          "meaning_kn": "ಸೌಭಾಗ್ಯಕ್ಕಾಗಿ / ಸಮೃದ್ಧಿಗಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O Lord of the forest, expand with a hundred branches! May we also expand with a thousand branches. This sharpened axe brings you forth for great fortune.",
+      "full_meaning_kn": "ಓ ವನಸ್ಪತಿಯೇ, ನೂರು ಕೊಂಬೆಗಳಿಂದ ವಿಸ್ತರಿಸು! ನಾವು ಸಹ ಸಾವಿರಾರು ಕೊಂಬೆಗಳಿಂದ ವಿಸ್ತರಿಸೋಣ. ಹರಿತವಾದ ಕೊಡಲಿಯು ನಿಮ್ಮನ್ನು ಮಹಾನ್ ಅದೃಷ್ಟಕ್ಕಾಗಿ ತರುತ್ತದೆ.",
+      "rig_time_s": 145.018,
+      "Insight_en": "The tree represents the individual consciousness. The call for expansion symbolizes the yearning for spiritual growth. Just as a tree branches out in many directions, the seeker strives to expand their awareness in countless ways. The sharpened axe signifies the focused intellect that carves out opportunities for prosperity and enlightenment. Ultimately, this mantra is a prayer for inner expansion, guided by discernment, leading to spiritual fulfillment.",
+      "Insight_kn": "ವೃಕ್ಷವು ವೈಯಕ್ತಿಕ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ವಿಸ್ತರಣೆಯ ಕರೆಯು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯ ಹಂಬಲವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಮರವು ಅನೇಕ ದಿಕ್ಕುಗಳಲ್ಲಿ ಹೇಗೆ ವಿಸ್ತರಿಸುತ್ತದೆಯೋ ಹಾಗೆಯೇ ಸಾಧಕನು ತನ್ನ ಅರಿವನ್ನು ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ರೀತಿಯಲ್ಲಿ ವಿಸ್ತರಿಸಲು ಶ್ರಮಿಸುತ್ತಾನೆ. ಹರಿತವಾದ ಕೊಡಲಿಯು ಸಮೃದ್ಧಿ ಮತ್ತು ಜ್ಞಾನೋದಯಕ್ಕಾಗಿ ಅವಕಾಶಗಳನ್ನು ಸೃಷ್ಟಿಸುವ ಕೇಂದ್ರೀಕೃತ ಬುದ್ಧಿಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಈ ಮಂತ್ರವು ಆಧ್ಯಾತ್ಮಿಕ ನೆರವೇರಿಕೆಗೆ ಕಾರಣವಾಗುವ ವಿವೇಚನೆಯಿಂದ ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಟ್ಟ ಆಂತರಿಕ ವಿಸ್ತರಣೆಗಾಗಿ ಪ್ರಾರ್ಥನೆಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

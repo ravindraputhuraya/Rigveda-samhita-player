@@ -1,0 +1,972 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S33_191-1_9",
+      "mandala": 10,
+      "sukta": 33,
+      "ric_index": 1,
+      "rig_lines": [
+        "प्र मा᳚ युयुज्रे प्र॒युजो॒ जना᳚नां॒ वहा᳚मि स्म पू॒षण॒मन्त॑रेण |",
+        "विश्वे᳚ दे॒वासो॒, अध॒ माम॑रक्षन्दुः॒शासु॒रागा॒दिति॒ घोष॑ आसीत् ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "मा॒",
+        "यु॒यु॒ज्रे॒",
+        "प्र॒ऽयुजः॑",
+        "जना᳚ना‌म्",
+        "वहा᳚मि",
+        "स्म॒",
+        "पू॒षण᳚‌म्",
+        "अन्त॑रेण",
+        "विश्वे᳚",
+        "दे॒वासः॑",
+        "अध॑",
+        "मा‌म्",
+        "अ॒र॒क्ष॒न्",
+        "दुः॒ऽशासुः॑",
+        "आ",
+        "अ॒गा॒त्",
+        "इति॑",
+        "घोषः॑",
+        "आ॒सी॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forward / forth",
+          "meaning_kn": "ಮುಂದಕ್ಕೆ / ಮುಂದೆ"
+        },
+        {
+          "pada_original": "मा॒",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "यु॒यु॒ज्रे॒",
+          "pada_kn": "ಯುಯುಜ್ರೇ",
+          "meaning_en": "they yoked / harnessed",
+          "meaning_kn": "ಅವರು ಹೂಡಿದರು / ಕಟ್ಟಿದರು"
+        },
+        {
+          "pada_original": "प्र॒ऽयुजः॑",
+          "pada_kn": "ಪ್ರಯುಜಃ",
+          "meaning_en": "the harnessers / yoking ones",
+          "meaning_kn": "ಹೂಡುವವರು / ನಿಯಂತ್ರಿಸುವವರು"
+        },
+        {
+          "pada_original": "जना᳚ना‌म्",
+          "pada_kn": "ಜನಾನಾಮ್",
+          "meaning_en": "of men / of people",
+          "meaning_kn": "ಮನುಷ್ಯರ / ಜನರ"
+        },
+        {
+          "pada_original": "वहा᳚मि",
+          "pada_kn": "ವಹಾಮಿ",
+          "meaning_en": "I carry / bear",
+          "meaning_kn": "ನಾನು ಹೊತ್ತೊಯ್ಯುತ್ತೇನೆ / ಹೊರಬಲ್ಲೆ"
+        },
+        {
+          "pada_original": "स्म॒",
+          "pada_kn": "ಸ್ಮ",
+          "meaning_en": "(past tense particle)",
+          "meaning_kn": "(ಭೂತಕಾಲದ ಸೂಚಕ)"
+        },
+        {
+          "pada_original": "पू॒षण᳚‌म्",
+          "pada_kn": "ಪೂಷಣಮ್",
+          "meaning_en": "Pūṣan (the nourisher god)",
+          "meaning_kn": "ಪೂಷಣನನ್ನು (ಪೋಷಕ ದೇವತೆ)"
+        },
+        {
+          "pada_original": "अन्त॑रेण",
+          "pada_kn": "ಅಂತರೇಣ",
+          "meaning_en": "through / between",
+          "meaning_kn": "ಮೂಲಕ / ಮಧ್ಯೆ"
+        },
+        {
+          "pada_original": "विश्वे᳚",
+          "pada_kn": "ವಿಶ್ವೇ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "दे॒वासः॑",
+          "pada_kn": "ದೇವಾಸಃ",
+          "meaning_en": "gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "then / thereupon",
+          "meaning_kn": "ಆಗ / ಅನಂತರ"
+        },
+        {
+          "pada_original": "मा‌म्",
+          "pada_kn": "ಮಾಮ್",
+          "meaning_en": "me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "अ॒र॒क्ष॒न्",
+          "pada_kn": "ಅರಕ್ಷನ್",
+          "meaning_en": "they protected",
+          "meaning_kn": "ಅವರು ರಕ್ಷಿಸಿದರು"
+        },
+        {
+          "pada_original": "दुः॒ऽशासुः॑",
+          "pada_kn": "ದುಃಶಾಸುಃ",
+          "meaning_en": "an evil ruler / oppressor",
+          "meaning_kn": "ಒಬ್ಬ ದುಷ್ಟ ಆಡಳಿತಗಾರ / ದಮನಕಾರಿ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(prefix for arrival)",
+          "meaning_kn": "(ಆಗಮನದ ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अ॒गा॒त्",
+          "pada_kn": "ಅಗಾತ್",
+          "meaning_en": "came / approached",
+          "meaning_kn": "ಬಂದನು / ಸಮೀಪಿಸಿದನು"
+        },
+        {
+          "pada_original": "इति॑",
+          "pada_kn": "ಇತಿ",
+          "meaning_en": "thus / so (marking a quote)",
+          "meaning_kn": "ಹೀಗೆಂದು / ಎಂದು (ಉಲ್ಲೇಖವನ್ನು ಗುರುತಿಸುತ್ತದೆ)"
+        },
+        {
+          "pada_original": "घोषः॑",
+          "pada_kn": "ಘೋಷಃ",
+          "meaning_en": "a cry / shout",
+          "meaning_kn": "ಒಂದು ಕೂಗು / ಘೋಷಣೆ"
+        },
+        {
+          "pada_original": "आ॒सी॒त्",
+          "pada_kn": "ಆಸೀತ್",
+          "meaning_en": "was",
+          "meaning_kn": "ಇತ್ತು"
+        }
+      ],
+      "full_meaning_en": "Men have yoked their energies; I invoke Pūṣan without delay, amidst the people. May all the Gods protect me; there was a cry, 'the evil ruler has come!'",
+      "full_meaning_kn": "ಮಾನವರು ತಮ್ಮ ಶಕ್ತಿಯನ್ನು ಒಗ್ಗೂಡಿಸಿದ್ದಾರೆ; ನಾನು ವಿಳಂಬವಿಲ್ಲದೆ ಪೂಷನ್‌ನನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ, ಜನರ ಮಧ್ಯದಲ್ಲಿ. ಎಲ್ಲಾ ದೇವರುಗಳು ನನ್ನನ್ನು ರಕ್ಷಿಸಲಿ; 'ದುಷ್ಟ ದೊರೆ ಬಂದಿದ್ದಾನೆ!' ಎಂಬ ಕೂಗು ಇತ್ತು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "This mantra signifies the invocation of divine protection (विश्वे᳚ दे॒वासो) against malevolent forces represented by the 'evil ruler' (दुः॒शासु). The act of 'yoking energies' (प्र मा᳚ युयुज्रे) suggests a collective spiritual effort. Invoking Pūṣan (पू॒षण॒मन्त॑रेण), a solar deity, implies seeking illumination and guidance to overcome adversity. The cry 'the evil ruler has come!' serves as a reminder of the constant presence of challenges in the spiritual path and the necessity of seeking divine assistance. The mantra underscores the importance of communal spiritual practice and unwavering faith in divine protection.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು 'ದುಷ್ಟ ದೊರೆ' ಯಿಂದ ಪ್ರತಿನಿಧಿಸಲ್ಪಟ್ಟ ದುಷ್ಟ ಶಕ್ತಿಗಳ ವಿರುದ್ಧ ದೈವಿಕ ರಕ್ಷಣೆ (विश्वे᳚ दे॒वासो)ಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ಶಕ್ತಿಯನ್ನು ಒಗ್ಗೂಡಿಸುವ' ಕ್ರಿಯೆ (प्र मा᳚ युयुज्रे) ಸಾಮೂಹಿಕ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯತ್ನವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸೌರ ದೇವತೆಯಾದ ಪೂಷನ್‌ನನ್ನು ಆಹ್ವಾನಿಸುವುದು (पू॒षण॒मन्त॑रेण) ಪ್ರತಿಕೂಲತೆಯನ್ನು ಜಯಿಸಲು ಪ್ರಕಾಶ ಮತ್ತು ಮಾರ್ಗದರ್ಶನವನ್ನು ಬಯಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ದುಷ್ಟ ದೊರೆ ಬಂದಿದ್ದಾನೆ!' ಎಂಬ ಕೂಗು ಆಧ್ಯಾತ್ಮಿಕ ಮಾರ್ಗದಲ್ಲಿ ಸವಾಲುಗಳ ನಿರಂತರ ಉಪಸ್ಥಿತಿಯ ಜ್ಞಾಪನೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಮತ್ತು ದೈವಿಕ ಸಹಾಯವನ್ನು ಪಡೆಯುವ ಅಗತ್ಯವನ್ನು ತೋರಿಸುತ್ತದೆ. ಈ ಮಂತ್ರವು ಸಮುದಾಯ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸ ಮತ್ತು ದೈವಿಕ ರಕ್ಷಣೆಯಲ್ಲಿ ಅಚಲವಾದ ನಂಬಿಕೆಯ ಮಹತ್ವವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S33_191-2_9",
+      "mandala": 10,
+      "sukta": 33,
+      "ric_index": 2,
+      "rig_lines": [
+        "सं मा᳚ तपन्त्य॒भितः॑ स॒पत्नी᳚रिव॒ पर्श॑वः |",
+        "नि बा᳚धते॒, अम॑तिर्न॒ग्नता॒ जसु॒र्वेर्न वे᳚वीयते म॒तिः ||"
+      ],
+      "pre_splits": [
+        "स‌म्",
+        "मा॒",
+        "त॒प॒न्ति॒",
+        "अ॒भितः॑",
+        "स॒पत्नीः᳚ऽ‌इव",
+        "पर्श॑वः",
+        "नि",
+        "बा॒ध॒ते॒",
+        "अम॑तिः",
+        "न॒ग्नता᳚",
+        "जसुः॑",
+        "वेः",
+        "न",
+        "वे॒वी॒य॒ते॒",
+        "म॒तिः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "Completely",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "मा॒",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "Me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "त॒प॒न्ति॒",
+          "pada_kn": "ತಪನ್ತಿ",
+          "meaning_en": "They torment/afflict",
+          "meaning_kn": "ಅವು ಪೀಡಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "अ॒भितः॑",
+          "pada_kn": "ಅಭಿತಃ",
+          "meaning_en": "From all sides",
+          "meaning_kn": "ಸುತ್ತಲೂ"
+        },
+        {
+          "pada_original": "स॒पत्नीः᳚ऽ‌इव",
+          "pada_kn": "ಸಪತ್ನೀಃ‌ಇವ",
+          "meaning_en": "Like co-wives",
+          "meaning_kn": "ಸವತಿಯರಂತೆ"
+        },
+        {
+          "pada_original": "पर्श॑वः",
+          "pada_kn": "ಪರ್ಶವಃ",
+          "meaning_en": "Ribs",
+          "meaning_kn": "ಪಕ್ಕೆಲುಬುಗಳು"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "Down / Completely",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "बा॒ध॒ते॒",
+          "pada_kn": "ಬಾಧತೇ",
+          "meaning_en": "It afflicts/oppresses",
+          "meaning_kn": "ಅದು ಬಾಧಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "अम॑तिः",
+          "pada_kn": "ಅಮತಿಃ",
+          "meaning_en": "Distress / Poverty",
+          "meaning_kn": "ದುಃಖ / ದಾರಿದ್ರ್ಯ"
+        },
+        {
+          "pada_original": "न॒ग्नता᳚",
+          "pada_kn": "ನಗ್ನತಾ",
+          "meaning_en": "Destitution / Nakedness",
+          "meaning_kn": "ಬಡತನ / ನಿರ್ವಸ್ತ್ರತೆ"
+        },
+        {
+          "pada_original": "जसुः॑",
+          "pada_kn": "ಜಸುಃ",
+          "meaning_en": "Exhaustion / Weariness",
+          "meaning_kn": "ಆಯಾಸ / ಬಳಲಿಕೆ"
+        },
+        {
+          "pada_original": "वेः",
+          "pada_kn": "ವೇಃ",
+          "meaning_en": "Of a bird",
+          "meaning_kn": "ಹಕ್ಕಿಯ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "Like / As",
+          "meaning_kn": "ಹಾಗೆ / ದಂತೆ"
+        },
+        {
+          "pada_original": "वे॒वी॒य॒ते॒",
+          "pada_kn": "ವೇವೀಯತೇ",
+          "meaning_en": "It flutters / trembles",
+          "meaning_kn": "ಅದು ನಡುಗುತ್ತದೆ / ಚಂಚಲಗೊಳ್ಳುತ್ತದೆ"
+        },
+        {
+          "pada_original": "म॒तिः",
+          "pada_kn": "ಮತಿಃ",
+          "meaning_en": "Mind / Thought",
+          "meaning_kn": "ಮನಸ್ಸು / ಬುದ್ಧಿ"
+        }
+      ],
+      "full_meaning_en": "The pains afflict me all around, like co-wives; nakedness oppresses me like poverty. My mind wanders like a gambler who has nothing left to stake.",
+      "full_meaning_kn": "ನೋವುಗಳು ನನ್ನನ್ನು ಎಲ್ಲಾ ಕಡೆಗಳಿಂದ ಬಾಧಿಸುತ್ತವೆ, ಮಲಸೊಕ್ಕೆಯರಂತೆ; ಬಡತನದಂತೆ ಬೆತ್ತಲೆ ನನ್ನನ್ನು ಪೀಡಿಸುತ್ತದೆ. ಏನನ್ನೂ ಪಣವಾಗಿಡಲು ಉಳಿಯದ ಜೂಜುಕೋರನಂತೆ ನನ್ನ ಮನಸ್ಸು ಅಲೆಯುತ್ತದೆ.",
+      "rig_time_s": 16.079,
+      "Insight_en": "This mantra reflects a state of deep distress and spiritual anguish. The individual feels surrounded by afflictions (तपन्ति), likening them to the constant rivalry of co-wives, a metaphor for persistent inner turmoil. The feeling of nakedness (नग्नता) symbolizes vulnerability and lack of spiritual covering, akin to poverty (अमतिः), indicating a lack of inner resources. The wandering mind (मतिः) is compared to a gambler who has lost everything (जसुः), signifying a loss of focus and spiritual direction. This verse serves as a poignant expression of the soul's struggle for liberation and the need for divine grace to overcome existential suffering. The yearning indicates the necessity of internal strength.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಆಳವಾದ ದುಃಖ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ವೇದನೆಯ ಸ್ಥಿತಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ವ್ಯಕ್ತಿಯು ಎಲ್ಲಾ ಕಡೆಗಳಿಂದ ಸಂಕಟಗಳಿಂದ ಸುತ್ತುವರೆದಿದ್ದಾನೆಂದು ಭಾವಿಸುತ್ತಾನೆ (ತಪಂತಿ), ಅವುಗಳನ್ನು ಮಲಸೊಕ್ಕೆಯರ ನಿರಂತರ ಪ್ರತಿಸ್ಪರ್ಧೆಗೆ ಹೋಲಿಸುತ್ತಾನೆ, ಇದು ನಿರಂತರ ಆಂತರಿಕ ಪ್ರಕ್ಷುಬ್ಧತೆಯ ರೂಪಕವಾಗಿದೆ. ಬೆತ್ತಲೆತನದ ಭಾವನೆ (ನಗ್ನತಾ) ದುರ್ಬಲತೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಹೊದಿಕೆಯ ಕೊರತೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಬಡತನಕ್ಕೆ (ಅಮತಿಃ) ಹೋಲುತ್ತದೆ, ಇದು ಆಂತರಿಕ ಸಂಪನ್ಮೂಲಗಳ ಕೊರತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಕಳೆದುಹೋದ ಜೂಜುಕೋರನಿಗೆ ಹೋಲಿಸಿದರೆ ಅಲೆಯುವ ಮನಸ್ಸು (ಮತಿಃ) ಎಲ್ಲವನ್ನೂ (ಜಸುಃ), ಗಮನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ದಿಕ್ಕಿನ ನಷ್ಟವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಪದ್ಯವು ವಿಮೋಚನೆಗಾಗಿ ಆತ್ಮದ ಹೋರಾಟದ ತೀವ್ರ ಅಭಿವ್ಯಕ್ತಿಯಾಗಿ ಮತ್ತು ಅಸ್ತಿತ್ವವಾದದ ಕಷ್ಟಗಳನ್ನು ನಿವಾರಿಸಲು ದೈವಿಕ ಅನುಗ್ರಹದ ಅಗತ್ಯತೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಹಂಬಲವು ಆಂತರಿಕ ಶಕ್ತಿಯ ಅಗತ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S33_191-3_9",
+      "mandala": 10,
+      "sukta": 33,
+      "ric_index": 3,
+      "rig_lines": [
+        "मूषो॒ न शि॒श्ना व्य॑दन्ति मा॒ध्यः॑ स्तो॒तारं᳚ ते शतक्रतो |",
+        "स॒कृत्सु नो᳚ मघवन्निन्द्र मृळ॒याधा᳚ पि॒तेव॑ नो भव ||"
+      ],
+      "pre_splits": [
+        "मूषः॑",
+        "न",
+        "शि॒श्ना",
+        "वि",
+        "अ॒द॒न्ति॒",
+        "मा॒",
+        "आ॒ऽध्यः॑",
+        "स्तो॒तार᳚‌म्",
+        "ते॒",
+        "श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो",
+        "स॒कृत्",
+        "सु",
+        "नः॒",
+        "म॒घ॒ऽव॒न्",
+        "इ॒न्द्र॒",
+        "मृ॒ळ॒य॒",
+        "अध॑",
+        "पि॒ताऽ‌इ᳚व",
+        "नः॒",
+        "भ॒व॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "मूषः॑",
+          "pada_kn": "ಮೂಷಃ",
+          "meaning_en": "mice",
+          "meaning_kn": "ಇಲಿಗಳು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "शि॒श्ना",
+          "pada_kn": "ಶಿಶ್ನಾ",
+          "meaning_en": "genitals / private parts",
+          "meaning_kn": "ಗುಪ್ತಾಂಗಗಳನ್ನು / ಶಿಶ್ನವನ್ನು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart (prefix for 'gnaw')",
+          "meaning_kn": "ಬೇರ್ಪಡಿಸಿ"
+        },
+        {
+          "pada_original": "अ॒द॒न्ति॒",
+          "pada_kn": "ಅದಂತಿ",
+          "meaning_en": "they gnaw / they consume",
+          "meaning_kn": "ಅವು ಕಚ್ಚುತ್ತವೆ / ತಿನ್ನುತ್ತವೆ"
+        },
+        {
+          "pada_original": "मा॒",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "आ॒ऽध्यः॑",
+          "pada_kn": "ಆಧ್ಯಃ",
+          "meaning_en": "anxieties / distresses",
+          "meaning_kn": "ಚಿಂತೆಗಳು / ಮನೋವ್ಯಥೆಗಳು"
+        },
+        {
+          "pada_original": "स्तो॒तार᳚‌म्",
+          "pada_kn": "ಸ್ತೋತಾರಮ್",
+          "meaning_en": "the praiser / the singer",
+          "meaning_kn": "ಸ್ತುತಿಸುವವನನ್ನು / ಸ್ತೋತ್ರ ಮಾಡುವವನನ್ನು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो",
+          "pada_kn": "ಶತಕ್ರತೋ ಇತಿ ಶತಕ್ರತೋ",
+          "meaning_en": "O Shatakratu (O Indra, lord of a hundred deeds)",
+          "meaning_kn": "ಓ ಶತಕ್ರತುವೇ (ಓ ನೂರು ಕರ್ಮಗಳ ಒಡೆಯನಾದ ಇಂದ್ರನೇ)"
+        },
+        {
+          "pada_original": "स॒कृत्",
+          "pada_kn": "ಸಕೃತ್",
+          "meaning_en": "once / at least once",
+          "meaning_kn": "ಒಮ್ಮೆಯಾದರೂ / ಒಂದು ಸಲ"
+        },
+        {
+          "pada_original": "सु",
+          "pada_kn": "ಸು",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "म॒घ॒ऽव॒न्",
+          "pada_kn": "ಮಘವನ್",
+          "meaning_en": "O Maghavan (O bountiful one)",
+          "meaning_kn": "ಓ ಮಘವನ್ (ಓ ಧನವಂತನೇ / ಉದಾರನೇ)"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "मृ॒ळ॒य॒",
+          "pada_kn": "ಮೃಳಯ",
+          "meaning_en": "have mercy / be gracious",
+          "meaning_kn": "ದಯೆತೋರು / ಅನುಗ್ರಹಿಸು"
+        },
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "then / therefore",
+          "meaning_kn": "ಆಗ / ಆದ್ದರಿಂದ"
+        },
+        {
+          "pada_original": "पि॒ताऽ‌इ᳚व",
+          "pada_kn": "ಪಿತೈವ",
+          "meaning_en": "like a father",
+          "meaning_kn": "ತಂದೆಯಂತೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "भ॒व॒",
+          "pada_kn": "ಭವ",
+          "meaning_en": "be / become",
+          "meaning_kn": "ಆಗು"
+        }
+      ],
+      "full_meaning_en": "O Indra, possessing a hundred powers, may those who are like mice gnawing with their male organs not harm your worshipper. O generous Indra, have compassion on us once, and be like a father to us.",
+      "full_meaning_kn": "ನೂರು ಶಕ್ತಿಗಳನ್ನು ಹೊಂದಿರುವ ಎಲೈ ಇಂದ್ರನೆ, ತಮ್ಮ ಪುರುಷ ಅಂಗಗಳಿಂದ ಇಲಿಗಳಂತೆ ಕಡಿಯುವವರು ನಿನ್ನನ್ನು ಆರಾಧಿಸುವವರಿಗೆ ಹಾನಿ ಮಾಡದಿರಲಿ. ಎಲೈ ಉದಾರಿಯಾದ ಇಂದ್ರನೆ, ಒಮ್ಮೆ ನಮ್ಮ ಮೇಲೆ ಕರುಣೆ ತೋರು, ಮತ್ತು ನಮಗೆ ತಂದೆಯಂತೆ ಆಗು.",
+      "rig_time_s": 28.126,
+      "Insight_en": "This mantra petitions Indra, the king of the gods, for protection against harmful forces, symbolized by those who \"gnaw like mice.\" The hymn requests his compassion (मृळ) and fatherly guidance. Spiritually, it signifies the devotee's yearning for divine grace and security, seeking refuge in Indra's strength and benevolence. The image of a father underscores the intimate, caring relationship sought with the divine. It emphasizes the importance of divine protection and guidance in overcoming spiritual obstacles. Ultimately, the devotee hopes to achieve transcendence and liberation through divine grace.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೇವತೆಗಳ ರಾಜನಾದ ಇಂದ್ರನಿಗೆ ಹಾನಿಕಾರಕ ಶಕ್ತಿಗಳ ವಿರುದ್ಧ ರಕ್ಷಣೆ ನೀಡಲು ಪ್ರಾರ್ಥಿಸುತ್ತದೆ, ಇವುಗಳನ್ನು \"ಇಲಿಗಳಂತೆ ಕಡಿಯುವವರು\" ಎಂದು ಸಂಕೇತಿಸಲಾಗಿದೆ. ಸ್ತೋತ್ರವು ಅವನ ಕರುಣೆ ಮತ್ತು ತಂದೆಯ ಮಾರ್ಗದರ್ಶನವನ್ನು ವಿನಂತಿಸುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ದೈವಿಕ ಕೃಪೆ ಮತ್ತು ಸುರಕ್ಷತೆಗಾಗಿ ಭಕ್ತನ ಹಂಬಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇಂದ್ರನ ಶಕ್ತಿ ಮತ್ತು ದಾನದಲ್ಲಿ ಆಶ್ರಯವನ್ನು ಬಯಸುತ್ತದೆ. ತಂದೆಯ ಚಿತ್ರಣವು ದೈವಿಕನೊಂದಿಗೆ ಬಯಸುವ ನಿಕಟ, ಕಾಳಜಿಯುಳ್ಳ ಸಂಬಂಧವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕ ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸುವಲ್ಲಿ ದೈವಿಕ ರಕ್ಷಣೆ ಮತ್ತು ಮಾರ್ಗದರ್ಶನದ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಭಕ್ತನು ದೈವಿಕ ಕೃಪೆಯಿಂದ ಅತೀಂದ್ರಿಯತೆ ಮತ್ತು ವಿಮೋಚನೆಯನ್ನು ಸಾಧಿಸಲು ಆಶಿಸುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S33_191-4_9",
+      "mandala": 10,
+      "sukta": 33,
+      "ric_index": 4,
+      "rig_lines": [
+        "कु॒रु॒श्रव॑णमावृणि॒ राजा᳚नं॒ त्रास॑दस्यवम् |",
+        "मंहि॑ष्ठं वा॒घता॒मृषिः॑ ||"
+      ],
+      "pre_splits": [
+        "कु॒रु॒ऽश्रव॑ण‌म्",
+        "अ॒वृ॒णि॒",
+        "राजा᳚न‌म्",
+        "त्रास॑दस्यव‌म्",
+        "मंहि॑ष्ठ‌म्",
+        "वा॒घता᳚‌म्",
+        "ऋषिः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "कु॒रु॒ऽश्रव॑ण‌म्",
+          "pada_kn": "ಕುರುಶ್ರವಣಮ್",
+          "meaning_en": "Kurushravana (name of a king)",
+          "meaning_kn": "ಕುರುಶ್ರವಣನನ್ನು (ಒಬ್ಬ ರಾಜನ ಹೆಸರು)"
+        },
+        {
+          "pada_original": "अ॒वृ॒णि॒",
+          "pada_kn": "ಅವೃಣಿ",
+          "meaning_en": "I chose / I extolled",
+          "meaning_kn": "ನಾನು ಆರಿಸಿದೆ / ನಾನು ಸ್ತುತಿಸಿದೆ"
+        },
+        {
+          "pada_original": "राजा᳚न‌म्",
+          "pada_kn": "ರಾಜಾನಮ್",
+          "meaning_en": "the king",
+          "meaning_kn": "ರಾಜನನ್ನು"
+        },
+        {
+          "pada_original": "त्रास॑दस्यव‌म्",
+          "pada_kn": "ತ್ರಾಸದಸ್ಯವಮ್",
+          "meaning_en": "son of Trasadasyu",
+          "meaning_kn": "ತ್ರಾಸದಸ್ಯುವಿನ ಮಗನನ್ನು"
+        },
+        {
+          "pada_original": "मंहि॑ष्ठ‌म्",
+          "pada_kn": "ಮಂಹಿಷ್ಠಮ್",
+          "meaning_en": "most generous / most bountiful",
+          "meaning_kn": "ಅತ್ಯಂತ ಉದಾರಿಯನ್ನು / ಅತ್ಯಂತ ದಾನಶೀಲನನ್ನು"
+        },
+        {
+          "pada_original": "वा॒घता᳚‌म्",
+          "pada_kn": "ವಾಘತಾಮ್",
+          "meaning_en": "of the praisers / of the poets",
+          "meaning_kn": "ಸ್ತೋತ್ರ ಮಾಡುವವರಲ್ಲಿ / ಕವಿಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ऋषिः॑",
+          "pada_kn": "ಋಷಿಃ",
+          "meaning_en": "the seer / the poet (I, the speaker)",
+          "meaning_kn": "ಋಷಿಯು / ಕವಿಯು (ನಾನು)"
+        }
+      ],
+      "full_meaning_en": "O Kurushravana, invoke for us King Trasadasyu, the most generous among those who are lauded by the singers.",
+      "full_meaning_kn": "ಓ ಕುರುಶ್ರವಣ, ಸ್ತುತಿಸುವವರಿಂದ ಹೊಗಳಲ್ಪಡುವವರಲ್ಲಿ ಅತ್ಯಂತ ಉದಾರಿಯಾದ ತ್ರಾಸದಸ್ಯು ರಾಜನನ್ನು ನಮಗಾಗಿ ಆಹ್ವಾನಿಸು.",
+      "rig_time_s": 41.068,
+      "Insight_en": "This mantra emphasizes invoking a benevolent ruler, Trasadasyu, who embodies generosity (मंहि॑ष्ठं). Spiritually, it signifies seeking guidance from enlightened leaders or inner virtues that foster prosperity and well-being. Kurushravana, as the invoker, represents the seeker who strives to connect with these higher qualities. The act of invoking reflects a conscious effort to align oneself with dharma and noble principles, ultimately leading to spiritual growth and societal harmony. By praising and remembering such virtuous figures, we internalize their positive attributes. Trasadasyu's kingship represents the sovereignty of the self.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದಾನಶೀಲತೆಯನ್ನು ಸಾಕಾರಗೊಳಿಸುವ ತ್ರಾಸದಸ್ಯು ಎಂಬ ದಯಾಳು ರಾಜನನ್ನು ಆಹ್ವಾನಿಸುವುದನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ, ಇದು ಸಮೃದ್ಧಿ ಮತ್ತು ಯೋಗಕ್ಷೇಮವನ್ನು ಉತ್ತೇಜಿಸುವ ಪ್ರಬುದ್ಧ ನಾಯಕರು ಅಥವಾ ಆಂತರಿಕ ಸದ್ಗುಣಗಳಿಂದ ಮಾರ್ಗದರ್ಶನವನ್ನು ಪಡೆಯುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಕುರುಶ್ರವಣನು ಆಹ್ವಾನಿಸುವವನಾಗಿ, ಈ ಉನ್ನತ ಗುಣಗಳೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಶ್ರಮಿಸುವ ಸಾಧಕನನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಆಹ್ವಾನದ ಕ್ರಿಯೆಯು ಧರ್ಮ ಮತ್ತು ಉದಾತ್ತ ತತ್ವಗಳೊಂದಿಗೆ ತನ್ನನ್ನು ತಾನು ಜೋಡಿಸಿಕೊಳ್ಳುವ ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಪ್ರಯತ್ನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ಇದು ಅಂತಿಮವಾಗಿ ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಾಮರಸ್ಯಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಅಂತಹ ಸದ್ಗುಣ ವ್ಯಕ್ತಿಗಳನ್ನು ಸ್ತುತಿಸುವ ಮತ್ತು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವ ಮೂಲಕ, ನಾವು ಅವರ ಸಕಾರಾತ್ಮಕ ಗುಣಗಳನ್ನು ಆಂತರಿಕಗೊಳಿಸಿಕೊಳ್ಳುತ್ತೇವೆ. ತ್ರಾಸದಸ್ಯುವಿನ ರಾಜತ್ವವು ಸ್ವಯಂ ಪ್ರಭುತ್ವವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S33_191-5_9",
+      "mandala": 10,
+      "sukta": 33,
+      "ric_index": 5,
+      "rig_lines": [
+        "यस्य॑ मा ह॒रितो॒ रथे᳚ ति॒स्रो वह᳚न्ति साधु॒या |",
+        "स्तवै᳚ स॒हस्र॑दक्षिणे ||"
+      ],
+      "pre_splits": [
+        "यस्य॑",
+        "मा॒",
+        "ह॒रितः॑",
+        "रथे᳚",
+        "ति॒स्रः",
+        "वह᳚न्ति",
+        "सा॒धु॒ऽया",
+        "स्तवै᳚",
+        "स॒हस्र॑ऽदक्षिणे"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "Whose / Of whom",
+          "meaning_kn": "ಯಾರ / ಯಾರಿಗೆ"
+        },
+        {
+          "pada_original": "मा॒",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "Me",
+          "meaning_kn": "ನನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "ह॒रितः॑",
+          "pada_kn": "ಹರಿತಃ",
+          "meaning_en": "Bay mares / Tawny horses",
+          "meaning_kn": "ಹಸುರು ಬಣ್ಣದ ಕುದುರೆಗಳು / ಹಳದಿ ಕುದುರೆಗಳು"
+        },
+        {
+          "pada_original": "रथे᳚",
+          "pada_kn": "ರಥೇ",
+          "meaning_en": "In the chariot",
+          "meaning_kn": "ರಥದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ति॒स्रः",
+          "pada_kn": "ತಿಸ್ರಃ",
+          "meaning_en": "Three (feminine)",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "वह᳚न्ति",
+          "pada_kn": "ವಹಂತಿ",
+          "meaning_en": "Carry / Bear",
+          "meaning_kn": "ಹೊತ್ತೊಯ್ಯುತ್ತವೆ / ಒಯ್ಯುತ್ತವೆ"
+        },
+        {
+          "pada_original": "सा॒धु॒ऽया",
+          "pada_kn": "ಸಾಧುಯಾ",
+          "meaning_en": "Properly / Well / Fittingly",
+          "meaning_kn": "ಸರಿಯಾಗಿ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "स्तवै᳚",
+          "pada_kn": "ಸ್ತವೈ",
+          "meaning_en": "By praises / With hymns",
+          "meaning_kn": "ಸ್ತೋತ್ರಗಳಿಂದ / ಸ್ತುತಿಗಳಿಂದ"
+        },
+        {
+          "pada_original": "स॒हस्र॑ऽदक्षिणे",
+          "pada_kn": "ಸಹಸ್ರದಕ್ಷಿಣೇ",
+          "meaning_en": "O giver of a thousand (gifts) / O rich in a thousand (gifts)",
+          "meaning_kn": "ಓ ಸಹಸ್ರ ದಾನಿ / ಓ ಸಾವಿರ ದಾನಗಳನ್ನು ನೀಡುವವನೇ"
+        }
+      ],
+      "full_meaning_en": "Whose three bay steeds, well harnessed, convey him in his chariot to the laud, to him with a thousand gifts at his right hand, (we offer this praise).",
+      "full_meaning_kn": "ಯಾರ ಮೂರು ಕೊಲ್ಲಿ ಕುದುರೆಗಳು, ಚೆನ್ನಾಗಿ ಸಜ್ಜುಗೊಂಡ ರಥದಲ್ಲಿ ಹೊಗಳಿಕೆಗೆ ಅವನನ್ನು ಸಾಗಿಸುತ್ತವೆಯೋ, ಅವನ ಬಲಗೈಯಲ್ಲಿ ಸಾವಿರಾರು ಉಡುಗೊರೆಗಳನ್ನು ಹೊಂದಿರುವ ಅವನಿಗೆ (ನಾವು ಈ ಸ್ತುತಿಯನ್ನು ಅರ್ಪಿಸುತ್ತೇವೆ).",
+      "rig_time_s": 49.485,
+      "Insight_en": "This mantra speaks of the divine grace and abundance associated with the deity. The 'three bay steeds' can be interpreted as the three qualities (गुण) of nature: sattva, rajas, and tamas, which propel the chariot of existence. The thousand gifts (सहस्र दक्षिणे) symbolize the infinite blessings bestowed upon devotees. By offering praise, the seeker acknowledges the deity's power and invites further grace into their life. The 'right hand' represents auspiciousness and the deity's active involvement in granting boons and dispelling darkness.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೇವತೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ದೈವಿಕ ಅನುಗ್ರಹ ಮತ್ತು ಸಮೃದ್ಧಿಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. 'ಮೂರು ಕೊಲ್ಲಿ ಕುದುರೆಗಳು' ಪ್ರಕೃತಿಯ ಮೂರು ಗುಣಗಳಾದ ಸತ್ತ್ವ, ರಜಸ್ ಮತ್ತು ತಮಸ್‌ಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಅದು ಅಸ್ತಿತ್ವದ ರಥವನ್ನು ಮುಂದಕ್ಕೆ ತಳ್ಳುತ್ತದೆ. ಸಾವಿರಾರು ಉಡುಗೊರೆಗಳು ಭಕ್ತರಿಗೆ ನೀಡುವ ಅನಂತ ಆಶೀರ್ವಾದಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಸ್ತುತಿಯನ್ನು ಅರ್ಪಿಸುವ ಮೂಲಕ, ಸಾಧಕನು ದೇವತೆಯ ಶಕ್ತಿಯನ್ನು ಗುರುತಿಸುತ್ತಾನೆ ಮತ್ತು ಅವರ ಜೀವನದಲ್ಲಿ ಹೆಚ್ಚಿನ ಅನುಗ್ರಹವನ್ನು ಆಹ್ವಾನಿಸುತ್ತಾನೆ. 'ಬಲಗೈ' ಶುಭವನ್ನು ಮತ್ತು ವರಗಳನ್ನು ನೀಡುವಲ್ಲಿ ಮತ್ತು ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುವಲ್ಲಿ ದೇವತೆಯ ಸಕ್ರಿಯ ಒಳಗೊಳ್ಳುವಿಕೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S33_191-6_9",
+      "mandala": 10,
+      "sukta": 33,
+      "ric_index": 6,
+      "rig_lines": [
+        "यस्य॒ प्रस्वा᳚दसो॒ गिर॑ उप॒मश्र॑वसः पि॒तुः |",
+        "क्षेत्रं॒ न र॒ण्वमू॒चुषे᳚ ||"
+      ],
+      "pre_splits": [
+        "यस्य॑",
+        "प्रऽस्वा᳚दसः",
+        "गिरः॑",
+        "उ॒प॒मऽश्र॑वसः",
+        "पि॒तुः",
+        "क्षेत्र᳚‌म्",
+        "न",
+        "र॒ण्व‌म्",
+        "ऊ॒चुषे᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "Whose / Of whom",
+          "meaning_kn": "ಯಾರ / ಯಾವನ"
+        },
+        {
+          "pada_original": "प्रऽस्वा᳚दसः",
+          "pada_kn": "ಪ್ರಸ್ವಾದಸಃ",
+          "meaning_en": "Of sweet taste / delightful",
+          "meaning_kn": "ಮಧುರವಾದ / ಆಹ್ಲಾದಕರವಾದ"
+        },
+        {
+          "pada_original": "गिरः॑",
+          "pada_kn": "ಗಿರಃ",
+          "meaning_en": "Speeches / praises / hymns",
+          "meaning_kn": "ಸ್ತೋತ್ರಗಳು / ಮಾತುಗಳು"
+        },
+        {
+          "pada_original": "उ॒प॒मऽश्र॑वसः",
+          "pada_kn": "ಉಪಮಶ್ರವಸಃ",
+          "meaning_en": "Of unequalled fame / of excellent renown",
+          "meaning_kn": "ಅನುಪಮ ಕೀರ್ತಿಯುಳ್ಳ / ಅಸಮಾನ ಖ್ಯಾತಿಯುಳ್ಳ"
+        },
+        {
+          "pada_original": "पि॒तुः",
+          "pada_kn": "ಪಿತುಃ",
+          "meaning_en": "Of the father / of the protector",
+          "meaning_kn": "ತಂದೆಯ / ಪೋಷಕನ"
+        },
+        {
+          "pada_original": "क्षेत्र᳚‌म्",
+          "pada_kn": "ಕ್ಷೇತ್ರಮ್",
+          "meaning_en": "Field / domain",
+          "meaning_kn": "ಕ್ಷೇತ್ರ / ಪ್ರದೇಶ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "Like / as if",
+          "meaning_kn": "ಹಾಗೆ / ಂತೆ"
+        },
+        {
+          "pada_original": "र॒ण्व‌म्",
+          "pada_kn": "ರಣ್ವಮ್",
+          "meaning_en": "Delightful / pleasing",
+          "meaning_kn": "ರಮಣೀಯವಾದ / ಆನಂದಕರವಾದ"
+        },
+        {
+          "pada_original": "ऊ॒चुषे᳚",
+          "pada_kn": "ಊಚುಷೇ",
+          "meaning_en": "To him who has spoken / to the praiser",
+          "meaning_kn": "ಹೇಳಿದವನಿಗೆ / ಸ್ತುತಿಸಿದವನಿಗೆ"
+        }
+      ],
+      "full_meaning_en": "Whose delicious hymns, like a father's, are near to be heard, for enjoyment, like a field well-tilled.",
+      "full_meaning_kn": "ಯಾರ ರುಚಿಕರ ಸ್ತುತಿಗಳು, ತಂದೆಯಂತೆ, ಕೇಳಲು ಹತ್ತಿರವಾಗುತ್ತವೆ, ಆನಂದಕ್ಕಾಗಿ, ಚೆನ್ನಾಗಿ ಉಳುಮೆ ಮಾಡಿದ ಹೊಲದಂತೆ.",
+      "rig_time_s": 58.375,
+      "Insight_en": "This mantra speaks of the sweetness and accessibility of divine wisdom. The hymns (गिरः) are described as 'delicious' (प्रस्वादसः), highlighting their pleasant and nourishing quality for the soul. They are likened to a father's words (पितुः), suggesting a loving and guiding presence. Just as a well-tilled field (क्षेत्रं) yields abundant crops, these hymns offer spiritual nourishment and joy (रण्वम्) to those who seek them. The mantra encourages the seeker to approach the divine with openness and reverence, ready to receive the wisdom that is readily available.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ಜ್ಞಾನದ ಸಿಹಿ ಮತ್ತು ಸುಲಭ ಲಭ್ಯತೆಯ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಸ್ತುತಿಗಳನ್ನು ಆತ್ಮಕ್ಕೆ ಆಹ್ಲಾದಕರ ಮತ್ತು ಪೋಷಣೆಯ ಗುಣಮಟ್ಟವನ್ನು ಎತ್ತಿ ತೋರಿಸುವ 'ರುಚಿಕರ' ಎಂದು ವಿವರಿಸಲಾಗಿದೆ. ಅವುಗಳನ್ನು ತಂದೆಯ ಮಾತುಗಳಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ, ಇದು ಪ್ರೀತಿಯ ಮತ್ತು ಮಾರ್ಗದರ್ಶಕ ಉಪಸ್ಥಿತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಚೆನ್ನಾಗಿ ಉಳುಮೆ ಮಾಡಿದ ಹೊಲವು ಹೇರಳವಾದ ಬೆಳೆಗಳನ್ನು ನೀಡುವಂತೆಯೇ, ಈ ಸ್ತುತಿಗಳು ಅವುಗಳನ್ನು ಹುಡುಕುವವರಿಗೆ ಆಧ್ಯಾತ್ಮಿಕ ಪೋಷಣೆ ಮತ್ತು ಸಂತೋಷವನ್ನು ನೀಡುತ್ತವೆ. ತೆರೆದ ಮತ್ತು ಗೌರವದಿಂದ ದೈವಿಕವನ್ನು ಸಮೀಪಿಸಲು ಮಂತ್ರವು ಸಾಧಕನನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ, ಸಿದ್ಧವಾಗಿ ಲಭ್ಯವಿರುವ ಜ್ಞಾನವನ್ನು ಸ್ವೀಕರಿಸಲು ಸಿದ್ಧವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S33_191-7_9",
+      "mandala": 10,
+      "sukta": 33,
+      "ric_index": 7,
+      "rig_lines": [
+        "अधि॑ पुत्रोपमश्रवो॒ नपा᳚न्मित्रातिथेरिहि |",
+        "पि॒तुष्टे᳚, अस्मि वन्दि॒ता ||"
+      ],
+      "pre_splits": [
+        "अधि॑",
+        "पु॒त्र॒",
+        "उ॒प॒म॒ऽश्र॒वः॒",
+        "नपा᳚त्",
+        "मि॒त्र॒।आ॒ति॒थेः॒",
+        "इ॒हि॒",
+        "पि॒तुः",
+        "ते॒",
+        "अ॒स्मि॒",
+        "व॒न्दि॒ता"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अधि॑",
+          "pada_kn": "ಅಧಿ",
+          "meaning_en": "to / towards",
+          "meaning_kn": "ಕಡೆಗೆ / ಹತ್ತಿರ"
+        },
+        {
+          "pada_original": "पु॒त्र॒",
+          "pada_kn": "ಪುತ್ರ",
+          "meaning_en": "O son",
+          "meaning_kn": "ಓ ಪುತ್ರನೇ"
+        },
+        {
+          "pada_original": "उ॒प॒म॒ऽश्र॒वः॒",
+          "pada_kn": "ಉಪಮಶ್ರವಃ",
+          "meaning_en": "O one of excellent fame",
+          "meaning_kn": "ಓ ಉತ್ತಮ ಕೀರ್ತಿಯುಳ್ಳವನೇ"
+        },
+        {
+          "pada_original": "नपा᳚त्",
+          "pada_kn": "ನಪಾತ್",
+          "meaning_en": "O descendant / O grandson",
+          "meaning_kn": "ಓ ವಂಶಸ್ಥನೇ / ಓ ಮೊಮ್ಮಗನೇ"
+        },
+        {
+          "pada_original": "मि॒त्र॒।आ॒ति॒थेः॒",
+          "pada_kn": "ಮಿತ್ರಾತಿಥೇಃ",
+          "meaning_en": "of Mitrātithi",
+          "meaning_kn": "ಮಿತ್ರಾತಿಥಿಯ"
+        },
+        {
+          "pada_original": "इ॒हि॒",
+          "pada_kn": "ಇಹಿ",
+          "meaning_en": "come / go",
+          "meaning_kn": "ಬಾ / ಹೋಗು"
+        },
+        {
+          "pada_original": "पि॒तुः",
+          "pada_kn": "ಪಿತುಃ",
+          "meaning_en": "of the father",
+          "meaning_kn": "ತಂದೆಯ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "अ॒स्मि॒",
+          "pada_kn": "ಅಸ್ಮಿ",
+          "meaning_en": "I am",
+          "meaning_kn": "ನಾನು ಇದ್ದೇನೆ"
+        },
+        {
+          "pada_original": "व॒न्दि॒ता",
+          "pada_kn": "ವಂದಿತಾ",
+          "meaning_en": "praised one / one who is praised",
+          "meaning_kn": "ಸ್ತುತಿಸಲ್ಪಟ್ಟವನು / ಹೊಗಳಲ್ಪಟ್ಟವನು"
+        }
+      ],
+      "full_meaning_en": "O Agni, son of Mitra and guest, descend, bestowing fame like a son. I am your worshipper, like a father's.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿ, ಮಿತ್ರ ಮತ್ತು ಅತಿಥಿಯ ಮಗನೇ, ಮಗನಂತೆ ಕೀರ್ತಿಯನ್ನು ನೀಡುತ್ತಾ ಇಳಿದು ಬಾ. ನಾನು ನಿಮ್ಮ ಆರಾಧಕ, ತಂದೆಯಂತೆ.",
+      "rig_time_s": 67.015,
+      "Insight_en": "This mantra invokes अग्नि (Agni) not merely as fire, but as the son of मित्रा (Mitra) and अतिथि (Atithi), emphasizing his role as a bridge between humans and the divine. By likening the devotee to a father and अग्नि (Agni) to a son, the mantra highlights a relationship of nurturing and reciprocal respect. The fame bestowed is not merely material, but spiritual, arising from a deeper connection with the divine. The worshipper approaches अग्नि (Agni) with the same care and devotion a father shows his son, fostering a bond of love and reverence. This illustrates the intimate and personal nature of Vedic worship.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಅಗ್ನಿಯನ್ನು ಕೇವಲ ಬೆಂಕಿಯಾಗಿ ಅಲ್ಲ, ಮಿತ್ರ ಮತ್ತು ಅತಿಥಿಯ ಮಗನಾಗಿ ಆಹ್ವಾನಿಸುತ್ತದೆ, ಇದು ಮಾನವರು ಮತ್ತು ದೈವಿಕದ ನಡುವಿನ ಸೇತುವೆಯಾಗಿ ಅವನ ಪಾತ್ರವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಭಕ್ತನನ್ನು ತಂದೆಗೂ ಮತ್ತು ಅಗ್ನಿಯನ್ನು ಮಗನಿಗೂ ಹೋಲಿಸುವ ಮೂಲಕ, ಮಂತ್ರವು ಪೋಷಣೆ ಮತ್ತು ಪರಸ್ಪರ ಗೌರವದ ಸಂಬಂಧವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ನೀಡಲಾದ ಕೀರ್ತಿ ಕೇವಲ ಭೌತಿಕವಲ್ಲ, ಆಧ್ಯಾತ್ಮಿಕವೂ ಆಗಿದೆ, ಇದು ದೈವಿಕದೊಂದಿಗೆ ಆಳವಾದ ಸಂಪರ್ಕದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಆರಾಧಕನು ಅಗ್ನಿಯನ್ನು ತಂದೆಯು ತನ್ನ ಮಗನಿಗೆ ತೋರಿಸುವ ಅದೇ ಕಾಳಜಿ ಮತ್ತು ಭಕ್ತಿಯಿಂದ ಸಮೀಪಿಸುತ್ತಾನೆ, ಪ್ರೀತಿ ಮತ್ತು ಗೌರವದ ಬಾಂಧವ್ಯವನ್ನು ಬೆಳೆಸುತ್ತಾನೆ. ಇದು ವೈದಿಕ ಆರಾಧನೆಯ ನಿಕಟ ಮತ್ತು ವೈಯಕ್ತಿಕ ಸ್ವರೂಪವನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S33_191-8_9",
+      "mandala": 10,
+      "sukta": 33,
+      "ric_index": 8,
+      "rig_lines": [
+        "यदीशी᳚या॒मृता᳚नामु॒त वा॒ मर्त्या᳚नाम् |",
+        "जीवे॒दिन्म॒घवा॒ मम॑ ||"
+      ],
+      "pre_splits": [
+        "यत्",
+        "ईशी᳚य",
+        "अ॒मृता᳚ना‌म्",
+        "उ॒त",
+        "वा॒",
+        "मर्त्या᳚ना‌म्",
+        "जीवे᳚त्",
+        "इ॒त्",
+        "म॒घऽवा᳚",
+        "मम॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "If",
+          "meaning_kn": "ಒಂದು ವೇಳೆ"
+        },
+        {
+          "pada_original": "ईशी᳚य",
+          "pada_kn": "ಈಶೀಯ",
+          "meaning_en": "may I be master / may I rule",
+          "meaning_kn": "ನಾನು ಒಡೆಯನಾಗಿದ್ದರೆ / ನಾನು ಆಳಿದರೆ"
+        },
+        {
+          "pada_original": "अ॒मृता᳚ना‌म्",
+          "pada_kn": "ಅಮೃತಾನಾಮ್",
+          "meaning_en": "of the immortals / of the gods",
+          "meaning_kn": "ಅಮರರ / ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "or / and",
+          "meaning_kn": "ಅಥವಾ / ಮತ್ತು"
+        },
+        {
+          "pada_original": "वा॒",
+          "pada_kn": "ವಾ",
+          "meaning_en": "or",
+          "meaning_kn": "ಅಥವಾ"
+        },
+        {
+          "pada_original": "मर्त्या᳚ना‌म्",
+          "pada_kn": "ಮರ್ತ್ಯಾನಾಮ್",
+          "meaning_en": "of the mortals / of human beings",
+          "meaning_kn": "ಮರ್ತ್ಯರ / ಮಾನವರ"
+        },
+        {
+          "pada_original": "जीवे᳚त्",
+          "pada_kn": "ಜೀವೇತ್",
+          "meaning_en": "may he live",
+          "meaning_kn": "ಅವನು ಬದುಕಲಿ"
+        },
+        {
+          "pada_original": "इ॒त्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / just",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "म॒घऽवा᳚",
+          "pada_kn": "ಮಘವಾ",
+          "meaning_en": "the wealthy one / the bountiful one",
+          "meaning_kn": "ಧನಿಕನು / ಉದಾರಿಯು"
+        },
+        {
+          "pada_original": "मम॑",
+          "pada_kn": "ಮಮ",
+          "meaning_en": "my / mine",
+          "meaning_kn": "ನನ್ನ / ನನಗೆ ಸೇರಿದ"
+        }
+      ],
+      "full_meaning_en": "If I, O Indra, have control over the immortals or the mortals, may the bountiful Indra live for my sake.",
+      "full_meaning_kn": "ಎಲೈ ಇಂದ್ರನೇ, ನಾನು ಅಮರರ ಅಥವಾ ಮನುಷ್ಯರ ಮೇಲೆ ನಿಯಂತ್ರಣ ಹೊಂದಿದ್ದರೆ, ದಯಾಳು ಇಂದ್ರನು ನನಗಾಗಿ ಜೀವಿಸಲಿ.",
+      "rig_time_s": 75.369,
+      "Insight_en": "This mantra expresses a deep desire for the well-being and longevity of Indra. The speaker acknowledges potential influence over both divine and mortal realms, highlighting the interconnectedness of all existence. The term मघवा (maghava), meaning bountiful, emphasizes Indra's generous nature and his role as a provider. The prayer suggests that Indra's continued existence is vital for the speaker's own well-being, indicating a symbiotic relationship. Spiritually, it signifies the devotee's dependence on divine grace and the aspiration for sustained connection with the divine principle. It implies that devotion and selfless desires can contribute to the sustained presence of the divine in one's life. The mantra exemplifies the spirit of selfless prayer and the profound connection between the devotee and the deity.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಇಂದ್ರನ ಯೋಗಕ್ಷೇಮ ಮತ್ತು ದೀರ್ಘಾಯುಷ್ಯಕ್ಕಾಗಿ ಆಳವಾದ ಬಯಕೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ. ದೇವತೆಗಳು ಮತ್ತು ಮನುಷ್ಯರ ಕ್ಷೇತ್ರಗಳ ಮೇಲೆ ಸಂಭಾವ್ಯ ಪ್ರಭಾವವನ್ನು ಭಾಷಣಕಾರನು ಅಂಗೀಕರಿಸುತ್ತಾನೆ. ಮಘವಾ ಎಂಬ ಪದವು ಇಂದ್ರನ ಉದಾರ ಸ್ವಭಾವ ಮತ್ತು ಅವನ ಪಾತ್ರವನ್ನು ಪೂರೈಕೆದಾರನಾಗಿ ಒತ್ತಿಹೇಳುತ್ತದೆ. ಇಂದ್ರನ ನಿರಂತರ ಅಸ್ತಿತ್ವವು ಭಾಷಣಕಾರನ ಸ್ವಂತ ಯೋಗಕ್ಷೇಮಕ್ಕೆ ಅವಶ್ಯಕವಾಗಿದೆ ಎಂದು ಪ್ರಾರ್ಥನೆಯು ಸೂಚಿಸುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ ಇದು ದೈವಿಕ ಅನುಗ್ರಹದ ಮೇಲಿನ ಭಕ್ತನ ಅವಲಂಬನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ದೈವಿಕ ತತ್ವದೊಂದಿಗೆ ನಿರಂತರ ಸಂಪರ್ಕಕ್ಕಾಗಿ ಹಾತೊರೆಯುತ್ತದೆ. ಭಕ್ತಿ ಮತ್ತು ನಿಸ್ವಾರ್ಥ ಬಯಕೆಗಳು ಒಬ್ಬರ ಜೀವನದಲ್ಲಿ ದೈವಿಕದ ನಿರಂತರ ಉಪಸ್ಥಿತಿಗೆ ಕೊಡುಗೆ ನೀಡಬಹುದು ಎಂದು ಇದು ಸೂಚಿಸುತ್ತದೆ. ಮಂತ್ರವು ನಿಸ್ವಾರ್ಥ ಪ್ರಾರ್ಥನೆಯ ಮನೋಭಾವ ಮತ್ತು ಭಕ್ತ ಮತ್ತು ದೇವತೆಯ ನಡುವಿನ ಆಳವಾದ ಸಂಪರ್ಕವನ್ನು ಉದಾಹರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S33_191-9_9",
+      "mandala": 10,
+      "sukta": 33,
+      "ric_index": 9,
+      "rig_lines": [
+        "न दे॒वाना॒मति᳚ व्र॒तं श॒तात्मा᳚ च॒न जी᳚वति |",
+        "तथा᳚ यु॒जा वि वा᳚वृते ||"
+      ],
+      "pre_splits": [
+        "न",
+        "दे॒वाना᳚‌म्",
+        "अति॑",
+        "व्र॒त‌म्",
+        "श॒तऽआ᳚त्मा",
+        "च॒न",
+        "जी॒व॒ति॒",
+        "तथा᳚",
+        "यु॒जा",
+        "वि",
+        "व॒वृ॒ते॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not / no",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "दे॒वाना᳚‌म्",
+          "pada_kn": "ದೇವಾನಾಮ್",
+          "meaning_en": "of the gods",
+          "meaning_kn": "ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "अति॑",
+          "pada_kn": "ಅತಿ",
+          "meaning_en": "transgressing / beyond",
+          "meaning_kn": "ಮೀರಿ / ಅತಿಕ್ರಮಿಸಿ"
+        },
+        {
+          "pada_original": "व्र॒त‌म्",
+          "pada_kn": "ವ್ರತಮ್",
+          "meaning_en": "law / ordinance",
+          "meaning_kn": "ನಿಯಮ / ಆಜ್ಞೆ"
+        },
+        {
+          "pada_original": "श॒तऽआ᳚त्मा",
+          "pada_kn": "ಶತಾತ್ಮಾ",
+          "meaning_en": "one with a hundred lives (very long-lived)",
+          "meaning_kn": "ನೂರು ಆತ್ಮಗಳುಳ್ಳವನು / ಬಹಳ ಕಾಲ ಬದುಕುವವನು"
+        },
+        {
+          "pada_original": "च॒न",
+          "pada_kn": "ಚನ",
+          "meaning_en": "even / indeed",
+          "meaning_kn": "ಕೂಡ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "जी॒व॒ति॒",
+          "pada_kn": "ಜೀವತಿ",
+          "meaning_en": "lives / survives",
+          "meaning_kn": "ಬದುಕುತ್ತಾನೆ / ಜೀವಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "तथा᳚",
+          "pada_kn": "ತಥಾ",
+          "meaning_en": "thus / so",
+          "meaning_kn": "ಹಾಗೆ / ಆ ಪ್ರಕಾರ"
+        },
+        {
+          "pada_original": "यु॒जा",
+          "pada_kn": "ಯುಜಾ",
+          "meaning_en": "with a companion / by a yoke-fellow",
+          "meaning_kn": "ಸಂಗಾತಿಯೊಂದಿಗೆ / ಜೊತೆಗಾರನಿಂದ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart / away",
+          "meaning_kn": "ಬೇರೆ / ದೂರ"
+        },
+        {
+          "pada_original": "व॒वृ॒ते॒",
+          "pada_kn": "ವವೃತೆ",
+          "meaning_en": "turned away / separated",
+          "meaning_kn": "ದೂರ ಸರಿದನು / ಬೇರ್ಪಟ್ಟನು"
+        }
+      ],
+      "full_meaning_en": "No one, not even with a hundred lives, can transgress the law of the gods; thus, a friend separates himself from (the one who does so).",
+      "full_meaning_kn": "ನೂರು ಜೀವಿಗಳನ್ನು ಹೊಂದಿದ್ದರೂ ಯಾರೂ ದೇವತೆಗಳ ನಿಯಮವನ್ನು ಉಲ್ಲಂಘಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ; ಹೀಗೆ, ಸ್ನೇಹಿತನು (ಅದನ್ನು ಮಾಡುವವನಿಂದ) ಬೇರ್ಪಡುತ್ತಾನೆ.",
+      "rig_time_s": 84.011,
+      "Insight_en": "This mantra underscores the inviolable nature of divine law (व्रत, vrata). No being, regardless of their lifespan or perceived power, can defy the established order of the universe governed by the gods (देवा, deva). The consequence of attempting to transgress this law is isolation. A true friend (युजा, yuja) or ally will distance themselves from someone who violates dharma, highlighting the importance of adhering to cosmic principles for maintaining harmony and connection. The mantra implicitly encourages self-regulation and respect for the divine will.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ನಿಯಮದ ಉಲ್ಲಂಘಿಸಲಾಗದ ಸ್ವರೂಪವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ (ವ್ರತ). ದೇವತೆಗಳು (ದೇವ) ಆಳುವ ಬ್ರಹ್ಮಾಂಡದ ಸ್ಥಾಪಿತ ಕ್ರಮವನ್ನು ಯಾರೂ, ಅವರ ಜೀವಿತಾವಧಿ ಅಥವಾ ಗ್ರಹಿಸಿದ ಶಕ್ತಿಯನ್ನು ಲೆಕ್ಕಿಸದೆ, ಧಿಕ್ಕರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಈ ನಿಯಮವನ್ನು ಉಲ್ಲಂಘಿಸಲು ಪ್ರಯತ್ನಿಸುವ ಪರಿಣಾಮವೆಂದರೆ ಪ್ರತ್ಯೇಕತೆ. ನಿಜವಾದ ಸ್ನೇಹಿತ (ಯುಜ) ಅಥವಾ ಮಿತ್ರನು ಧರ್ಮವನ್ನು ಉಲ್ಲಂಘಿಸುವವರಿಂದ ತಮ್ಮನ್ನು ದೂರವಿರಿಸಿಕೊಳ್ಳುತ್ತಾನೆ, ಸಾಮರಸ್ಯ ಮತ್ತು ಸಂಪರ್ಕವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಕಾಸ್ಮಿಕ್ ತತ್ವಗಳಿಗೆ ಬದ್ಧವಾಗಿರುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತಾನೆ. ಮಂತ್ರವು ضمنವಾಗಿ ಸ್ವಯಂ ನಿಯಂತ್ರಣ ಮತ್ತು ದೈವಿಕ ಇಚ್ಛೆಗೆ ಗೌರವವನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

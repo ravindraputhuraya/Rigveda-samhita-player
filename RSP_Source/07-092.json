@@ -1,0 +1,734 @@
+{
+  "mandala": 7,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M7-S92_104-1_5",
+      "mandala": 7,
+      "sukta": 92,
+      "ric_index": 1,
+      "rig_lines": [
+        "आ वा᳚यो भूष शुचिपा॒, उप॑ नः स॒हस्रं᳚ ते नि॒युतो᳚ विश्ववार |",
+        "उपो᳚ ते॒, अन्धो॒ मद्य॑मयामि॒ यस्य॑ देव दधि॒षे पू᳚र्व॒पेय᳚म् ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "वा॒यो॒ इति॑",
+        "भू॒ष॒",
+        "शु॒चि॒ऽपाः॒",
+        "उप॑",
+        "नः॒",
+        "स॒हस्र᳚‌म्",
+        "ते॒",
+        "नि॒ऽयुतः॑",
+        "वि॒श्व॒ऽवा॒र॒",
+        "उपो॒ इति॑",
+        "ते॒",
+        "अन्धः॑",
+        "मद्य᳚‌म्",
+        "अ॒या॒मि॒",
+        "यस्य॑",
+        "दे॒व॒",
+        "द॒धि॒षे",
+        "पू॒र्व॒ऽपेय᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "come / towards",
+          "meaning_kn": "ಬಾ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "वा॒यो॒ इति॑",
+          "pada_kn": "ವಾಯೋ ಇತಿ",
+          "meaning_en": "O Vayu",
+          "meaning_kn": "ಓ ವಾಯು"
+        },
+        {
+          "pada_original": "भू॒ष॒",
+          "pada_kn": "ಭೂಷ",
+          "meaning_en": "adorn yourself / come adorned",
+          "meaning_kn": "ಅಲಂಕೃತನಾಗಿ ಬಾ / ಅಲಂಕರಿಸಿಕೋ"
+        },
+        {
+          "pada_original": "शु॒चि॒ऽपाः॒",
+          "pada_kn": "ಶುಚಿಪಾಃ",
+          "meaning_en": "O pure protector",
+          "meaning_kn": "ಓ ಶುದ್ಧ ರಕ್ಷಕನೇ"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "near / towards",
+          "meaning_kn": "ಹತ್ತಿರ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "स॒हस्र᳚‌म्",
+          "pada_kn": "ಸಹಸ್ರಮ್",
+          "meaning_en": "a thousand",
+          "meaning_kn": "ಸಾವಿರ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "नि॒ऽयुतः॑",
+          "pada_kn": "ನಿಯುತಃ",
+          "meaning_en": "teams (of horses) / chariots",
+          "meaning_kn": "ರಥಗಳು / ಅಶ್ವಗಳ ತಂಡಗಳು"
+        },
+        {
+          "pada_original": "वि॒श्व॒ऽवा॒र॒",
+          "pada_kn": "ವಿಶ್ವವಾರ",
+          "meaning_en": "O desired by all / O all-encompassing",
+          "meaning_kn": "ಓ ಎಲ್ಲರಿಂದಲೂ ಅಪೇಕ್ಷಿತನೇ / ಓ ಎಲ್ಲವನ್ನೂ ಆವರಿಸಿರುವವನೇ"
+        },
+        {
+          "pada_original": "उपो॒ इति॑",
+          "pada_kn": "ಉಪೋ ಇತಿ",
+          "meaning_en": "towards / near",
+          "meaning_kn": "ಕಡೆಗೆ / ಸಮೀಪಕ್ಕೆ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "to you",
+          "meaning_kn": "ನಿನಗೆ"
+        },
+        {
+          "pada_original": "अन्धः॑",
+          "pada_kn": "ಅಂಧಃ",
+          "meaning_en": "Soma juice",
+          "meaning_kn": "ಸೋಮರಸ"
+        },
+        {
+          "pada_original": "मद्य᳚‌म्",
+          "pada_kn": "ಮದ್ಯಮ್",
+          "meaning_en": "delightful / intoxicating",
+          "meaning_kn": "ಆಹ್ಲಾದಕರ / ಮದಕರ"
+        },
+        {
+          "pada_original": "अ॒या॒मि॒",
+          "pada_kn": "ಅಯಾಮಿ",
+          "meaning_en": "I offer / I bring",
+          "meaning_kn": "ನಾನು ಅರ್ಪಿಸುತ್ತೇನೆ / ನಾನು ತರುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "whose / of which",
+          "meaning_kn": "ಯಾವುದರ / ಯಾರ"
+        },
+        {
+          "pada_original": "दे॒व॒",
+          "pada_kn": "ದೇವ",
+          "meaning_en": "O god",
+          "meaning_kn": "ಓ ದೇವ"
+        },
+        {
+          "pada_original": "द॒धि॒षे",
+          "pada_kn": "ದಧಿಷೇ",
+          "meaning_en": "you hold / you partake / you accept",
+          "meaning_kn": "ನೀನು ಸ್ವೀಕರಿಸುತ್ತೀಯೆ / ನೀನು ಪಾನಮಾಡುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "पू॒र्व॒ऽपेय᳚‌म्",
+          "pada_kn": "ಪೂರ್ವಪೇಯಮ್",
+          "meaning_en": "first drink / first draught",
+          "meaning_kn": "ಮೊದಲ ಪಾನ / ಮೊದಲ ಪೇಯ"
+        }
+      ],
+      "full_meaning_en": "O Vayu, pure guardian, universally desired, come to us adorned with your thousand harnessed steeds. I offer to you, O radiant one, this exhilarating Soma, of which you are the first to partake.",
+      "full_meaning_kn": "ಓ ವಾಯುವೇ, ಶುದ್ಧ ರಕ್ಷಕ, ಸರ್ವರಿಗೂ ಅಪೇಕ್ಷಿತನೆ, ನಿನ್ನ ಸಾವಿರಾರು ಸಜ್ಜುಗೊಳಿಸಿದ ಕುದುರೆಗಳೊಂದಿಗೆ ನಮ್ಮ ಬಳಿಗೆ ಅಲಂಕೃತನಾಗಿ ಬಾ. ಓ ತೇಜಸ್ವಿಯೇ, ನಿನಗೆ ಈ ಉಲ್ಲಾಸಕರ ಸೋಮವನ್ನು ಅರ್ಪಿಸುತ್ತೇನೆ, ಅದನ್ನು ನೀನು ಮೊದಲು ಸೇವಿಸುವವನಾಗಿದ್ದೀ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "Vayu represents the life force (prana) and the breath that sustains all beings. The thousand steeds symbolize the myriad forms and energies of this vital force. Offering Soma signifies surrendering the ego and intoxicating desires to the divine, allowing Vayu, the breath of spirit, to purify and uplift the consciousness. The 'first drink' denotes the primacy of prana in spiritual experience; only through conscious awareness of the breath can deeper states of realization be attained.",
+      "Insight_kn": "ವಾಯುವು ಜೀವ ಶಕ್ತಿಯನ್ನು (ಪ್ರಾಣ) ಮತ್ತು ಎಲ್ಲಾ ಜೀವಿಗಳನ್ನು ಉಳಿಸುವ ಉಸಿರನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಸಾವಿರ ಕುದುರೆಗಳು ಈ ಪ್ರಮುಖ ಶಕ್ತಿಯ ಅಸಂಖ್ಯಾತ ರೂಪಗಳು ಮತ್ತು ಶಕ್ತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಸೋಮವನ್ನು ಅರ್ಪಿಸುವುದು ಎಂದರೆ ಅಹಂಕಾರ ಮತ್ತು ಮಾದಕ ಆಸೆಗಳನ್ನು ದೈವಿಕತೆಗೆ ಒಪ್ಪಿಸುವುದು, ವಾಯುವು ಆತ್ಮದ ಉಸಿರು, ಪ್ರಜ್ಞೆಯನ್ನು ಶುದ್ಧೀಕರಿಸಲು ಮತ್ತು ಉನ್ನತೀಕರಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. 'ಮೊದಲ ಪಾನೀಯ' ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವದಲ್ಲಿ ಪ್ರಾಣದ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ; ಉಸಿರಾಟದ ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಅರಿವಿನಿಂದ ಮಾತ್ರ ವಾಸ್ತವದ ಆಳವಾದ ಸ್ಥಿತಿಗಳನ್ನು ತಲುಪಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S92_104-2_5",
+      "mandala": 7,
+      "sukta": 92,
+      "ric_index": 2,
+      "rig_lines": [
+        "प्र सोता᳚ जी॒रो, अ॑ध्व॒रेष्व॑स्था॒त्सोम॒मिन्द्रा᳚य वा॒यवे॒ पिब॑ध्यै |",
+        "प्र यद्वां॒ मध्वो᳚, अग्रि॒यं भर᳚न्त्यध्व॒र्यवो᳚ देव॒यन्तः॒ शची᳚भिः ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "सोता᳚",
+        "जी॒रः",
+        "अ॒ध्व॒रेषु॑",
+        "अ॒स्था॒त्",
+        "सोम᳚‌म्",
+        "इन्द्रा᳚य",
+        "वा॒यवे᳚",
+        "पिब॑ध्यै",
+        "प्र",
+        "यत्",
+        "वा॒‌म्",
+        "मध्वः॑",
+        "अ॒ग्रि॒य‌म्",
+        "भर᳚न्ति",
+        "अ॒ध्व॒र्यवः॑",
+        "दे॒व॒ऽयन्तः॑",
+        "शची᳚भिः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth, forward",
+          "meaning_kn": "ಮುಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "सोता᳚",
+          "pada_kn": "ಸೋತಾ",
+          "meaning_en": "the Soma-presser",
+          "meaning_kn": "ಸೋಮವನ್ನು ಹಿಂಡುವವನು"
+        },
+        {
+          "pada_original": "जी॒रः",
+          "pada_kn": "ಜೀರಃ",
+          "meaning_en": "swift, active",
+          "meaning_kn": "ವೇಗವಾದ, ಚುರುಕಾದ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒रेषु॑",
+          "pada_kn": "ಅಧ್ವರೇಷು",
+          "meaning_en": "in the sacrifices",
+          "meaning_kn": "ಯಜ್ಞಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒स्था॒त्",
+          "pada_kn": "ಅಸ್ಥಾತ್",
+          "meaning_en": "stood (ready)",
+          "meaning_kn": "ನಿಂತನು/ಸಿದ್ಧನಾದನು"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma (juice)",
+          "meaning_kn": "ಸೋಮ (ರಸ)"
+        },
+        {
+          "pada_original": "इन्द्रा᳚य",
+          "pada_kn": "ಇಂದ್ರಾಯ",
+          "meaning_en": "for Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "वा॒यवे᳚",
+          "pada_kn": "ವಾಯವೇ",
+          "meaning_en": "for Vayu",
+          "meaning_kn": "ವಾಯುವಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "पिब॑ध्यै",
+          "pada_kn": "ಪಿಬಧ್ಯೈ",
+          "meaning_en": "to drink",
+          "meaning_kn": "ಕುಡಿಯುವುದಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth, forward",
+          "meaning_kn": "ಮುಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when, that",
+          "meaning_kn": "ಯಾವಾಗ, ಆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "for you two (Indra and Vayu)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗಾಗಿ (ಇಂದ್ರ ಮತ್ತು ವಾಯು)"
+        },
+        {
+          "pada_original": "मध्वः॑",
+          "pada_kn": "ಮಧ್ವಃ",
+          "meaning_en": "of the sweet (Soma)",
+          "meaning_kn": "ಮಧುರವಾದ (ಸೋಮದ)"
+        },
+        {
+          "pada_original": "अ॒ग्रि॒य‌म्",
+          "pada_kn": "ಅಗ್ರಿಯಮ್",
+          "meaning_en": "excellent, foremost",
+          "meaning_kn": "ಶ್ರೇಷ್ಠವಾದ, ಮುಖ್ಯವಾದ"
+        },
+        {
+          "pada_original": "भर᳚न्ति",
+          "pada_kn": "ಭರಂತಿ",
+          "meaning_en": "they bring, they offer",
+          "meaning_kn": "ಅವರು ತರುತ್ತಾರೆ/ಅರ್ಪಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒र्यवः॑",
+          "pada_kn": "ಅಧ್ವರ್ಯವಃ",
+          "meaning_en": "the Adhvaryu priests",
+          "meaning_kn": "ಅಧ್ವರ್ಯು ಋತ್ವಿಜರು"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयन्तः॑",
+          "pada_kn": "ದೇವಯಂತಃ",
+          "meaning_en": "desiring the gods, god-seeking",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು ಬಯಸುವವರು"
+        },
+        {
+          "pada_original": "शची᳚भिः",
+          "pada_kn": "ಶಚೀಭಿಃ",
+          "meaning_en": "with their powers/skills",
+          "meaning_kn": "ತಮ್ಮ ಸಾಮರ್ಥ್ಯಗಳಿಂದ/ಕಾರ್ಯಗಳಿಂದ"
+        }
+      ],
+      "full_meaning_en": "Forth stands the swift Soma-presser at the sacrifices, that Soma may be offered to Indra and Vayu for their drink. When the devout Adhvaryu priests, with their sacred skill, present that choice sweetness for you both.",
+      "full_meaning_kn": "ಕ್ಷಿಪ್ರ ಸೋಮ ಹಿಂಡುವವನು ಯಜ್ಞಗಳಲ್ಲಿ ನಿಂತಿದ್ದಾನೆ, ಇಂದ್ರ ಮತ್ತು ವಾಯು ದೇವತೆಗಳು ಕುಡಿಯಲು ಸೋಮವನ್ನು ಅರ್ಪಿಸಲು. ದೇವರಿಚ್ಛೆಯುಳ್ಳ ಅಧ್ವರ್ಯು ಪುರೋಹಿತರು, ತಮ್ಮ ಪವಿತ್ರ ಕೌಶಲ್ಯದಿಂದ, ನಿಮಗೆ ಇಬ್ಬರಿಗೂ ಆ ಶ್ರೇಷ್ಠವಾದ ಸಿಹಿಯನ್ನು ಅರ್ಪಿಸುವಾಗ.",
+      "rig_time_s": 15.428,
+      "Insight_en": "The swiftness of Soma pressing symbolizes the urgency and devotion required in spiritual practice. Offering the essence (Soma) to Indra and Vayu represents the purification of the mind (Indra) and vital life force (Vayu) through dedicated action and wisdom (Adhvaryu's skill). The sweetness refers to the blissful state attained when the inner senses are controlled and directed towards the divine.",
+      "Insight_kn": "ಸೋಮವನ್ನು ಹಿಂಡುವ ವೇಗವು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಯಲ್ಲಿ ಅಗತ್ಯವಿರುವ ತುರ್ತು ಮತ್ತು ಭಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಇಂದ್ರ ಮತ್ತು ವಾಯುವಿಗೆ ಸಾರವನ್ನು (ಸೋಮ) ಅರ್ಪಿಸುವುದು ಸಮರ್ಪಿತ ಕ್ರಿಯೆ ಮತ್ತು ಜ್ಞಾನದ ಮೂಲಕ ಮನಸ್ಸಿನ (ಇಂದ್ರ) ಮತ್ತು ಪ್ರಮುಖ ಜೀವ ಶಕ್ತಿಯ (ವಾಯು) ಶುದ್ಧೀಕರಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಆಂತರಿಕ ಇಂದ್ರಿಯಗಳನ್ನು ನಿಯಂತ್ರಿಸಿ ದೈವಿಕ ಕಡೆಗೆ ನಿರ್ದೇಶಿಸಿದಾಗ ಸಿಗುವ ಆನಂದಮಯ ಸ್ಥಿತಿಯನ್ನು ಸಿಹಿ ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S92_104-3_5",
+      "mandala": 7,
+      "sukta": 92,
+      "ric_index": 3,
+      "rig_lines": [
+        "प्र याभि॒र्यासि॑ दा॒श्वांस॒मच्छा᳚ नि॒युद्भि᳚र्वायवि॒ष्टये᳚ दुरो॒णे |",
+        "नि नो᳚ र॒यिं सु॒भोज॑सं युवस्व॒ नि वी॒रं गव्य॒मश्व्यं᳚ च॒ राधः॑ ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "याभिः॑",
+        "यासि॑",
+        "दा॒श्वांस᳚‌म्",
+        "अच्छ॑",
+        "नि॒युत्ऽभिः॑",
+        "वा॒यो॒ इति॑",
+        "इ॒ष्टये᳚",
+        "दु॒रो॒णे",
+        "नि",
+        "नः॒",
+        "र॒यि‌म्",
+        "सु॒ऽभोज॑स‌म्",
+        "यु॒व॒स्व॒",
+        "नि",
+        "वी॒र‌म्",
+        "गव्य᳚‌म्",
+        "अश्व्य᳚‌म्",
+        "च॒",
+        "राधः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth/onwards",
+          "meaning_kn": "ಮುಂದಕ್ಕೆ"
+        },
+        {
+          "pada_original": "याभिः॑",
+          "pada_kn": "ಯಾಭಿಃ",
+          "meaning_en": "by which (chariots/steeds)",
+          "meaning_kn": "ಯಾವ (ರಥಗಳಿಂದ/ಅಶ್ವಗಳಿಂದ)"
+        },
+        {
+          "pada_original": "यासि॑",
+          "pada_kn": "ಯಾಸಿ",
+          "meaning_en": "you go/proceed",
+          "meaning_kn": "ನೀನು ಹೋಗುತ್ತೀಯೆ/ಸಾಗುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "दा॒श्वांस᳚‌म्",
+          "pada_kn": "ದಾಶ್ವಾಂಸಮ್",
+          "meaning_en": "to the worshipper/sacrificer",
+          "meaning_kn": "ಯಜಮಾನನಿಗೆ/ಪೂಜಿಸುವವನಿಗೆ"
+        },
+        {
+          "pada_original": "अच्छ॑",
+          "pada_kn": "ಅಚ್ಛ",
+          "meaning_en": "towards",
+          "meaning_kn": "ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "नि॒युत्ऽभिः॑",
+          "pada_kn": "ನಿಯುತ್ಭಿಃ",
+          "meaning_en": "with your Niyut steeds",
+          "meaning_kn": "ನಿನ್ನ ನಿಯುತ್ ಅಶ್ವಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "वा॒यो॒ इति॑",
+          "pada_kn": "ವಾಯೋ ಇತಿ",
+          "meaning_en": "O Vayu",
+          "meaning_kn": "ಓ ವಾಯುವೇ"
+        },
+        {
+          "pada_original": "इ॒ष्टये᳚",
+          "pada_kn": "ಇಷ್ಟಯೇ",
+          "meaning_en": "for the sacrifice/oblation",
+          "meaning_kn": "ಯಜ್ಞಕ್ಕಾಗಿ/ಆಹುತಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "दु॒रो॒णे",
+          "pada_kn": "ದುರೋಣೇ",
+          "meaning_en": "in the house/dwelling",
+          "meaning_kn": "ಮನೆಯಲ್ಲಿ/ನಿವಾಸದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "bestow/place",
+          "meaning_kn": "ಪ್ರದಾನಿಸು/ಇರಿಸು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us/for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "र॒यि‌म्",
+          "pada_kn": "ರಯಿಮ್",
+          "meaning_en": "wealth/treasure",
+          "meaning_kn": "ಸಂಪತ್ತು/ಧನ"
+        },
+        {
+          "pada_original": "सु॒ऽभोज॑स‌म्",
+          "pada_kn": "ಸುಭೋಜಸಮ್",
+          "meaning_en": "easily enjoyed/yielding good enjoyment",
+          "meaning_kn": "ಸುಲಭವಾಗಿ ಅನುಭವಿಸಬಹುದಾದ/ಉತ್ತಮ ಭೋಗವನ್ನು ನೀಡುವ"
+        },
+        {
+          "pada_original": "यु॒व॒स्व॒",
+          "pada_kn": "ಯುವಸ್ವ",
+          "meaning_en": "unite/grant/bestow",
+          "meaning_kn": "ಒದಗಿಸು/ಪ್ರದಾನಿಸು"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "bestow/place",
+          "meaning_kn": "ಪ್ರದಾನಿಸು/ಇರಿಸು"
+        },
+        {
+          "pada_original": "वी॒र‌म्",
+          "pada_kn": "ವೀರಮ್",
+          "meaning_en": "heroic son/progeny",
+          "meaning_kn": "ವೀರ ಪುತ್ರ/ಸಂತತಿ"
+        },
+        {
+          "pada_original": "गव्य᳚‌म्",
+          "pada_kn": "ಗವ್ಯಮ್",
+          "meaning_en": "cattle/cows",
+          "meaning_kn": "ಗೋವುಗಳು/ದನಕರುಗಳು"
+        },
+        {
+          "pada_original": "अश्व्य᳚‌म्",
+          "pada_kn": "ಅಶ್ವ್ಯಮ್",
+          "meaning_en": "horses",
+          "meaning_kn": "ಅಶ್ವಗಳು/ಕುದುರೆಗಳು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "राधः॑",
+          "pada_kn": "ರಾಧಃ",
+          "meaning_en": "bounty/prosperity",
+          "meaning_kn": "ಸಮೃದ್ಧಿ/ಐಶ್ವರ್ಯ"
+        }
+      ],
+      "full_meaning_en": "O Vayu, with those Niyuts by which you approach the worshipper in his abode for the sacred offering, bestow upon us easily enjoyed wealth, heroic offspring, cattle, horses, and prosperity.",
+      "full_meaning_kn": "ಓ ವಾಯುವೇ, ಯಾವ ನಿಯುತ್‌ಗಳೊಂದಿಗೆ ನೀನು ಯಜ್ಞಕ್ಕಾಗಿ ತನ್ನ ಮನೆಯಲ್ಲಿರುವ ಯಜಮಾನನನ್ನು ಸಮೀಪಿಸುತ್ತೀಯೋ, ಅವುಗಳೊಂದಿಗೆ ನಮಗೆ ಸುಲಭವಾಗಿ ಅನುಭವಿಸಬಹುದಾದ ಸಂಪತ್ತು, ವೀರ ಸಂತತಿ, ದನಗಳು, ಕುದುರೆಗಳು ಮತ್ತು ಸಮೃದ್ಧಿಯನ್ನು ದಯಪಾಲಿಸು.",
+      "rig_time_s": 31.72,
+      "Insight_en": "Vayu represents the life-force (prana) and the dynamic energy that animates all existence. The Niyuts, his steeds, symbolize the diverse and potent forces of prana. Invoking Vayu is to awaken and harness this vital energy within, leading to abundance (rayi), strength (vira), and prosperity (radhas) in all aspects of life. The 'dwelling' (durone) signifies the inner sanctuary, where this awakening occurs.",
+      "Insight_kn": "ವಾಯುವು ಜೀವಶಕ್ತಿಯನ್ನು (ಪ್ರಾಣ) ಮತ್ತು ಅಸ್ತಿತ್ವವನ್ನು ಚೈತನ್ಯಗೊಳಿಸುವ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ನಿಯುತ್‌ಗಳು, ಅವನ ಕುದುರೆಗಳು, ಪ್ರಾಣದ ವೈವಿಧ್ಯಮಯ ಮತ್ತು ಪ್ರಬಲ ಶಕ್ತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ವಾಯುವನ್ನು ಆವಾಹಿಸುವುದು ಎಂದರೆ ಒಳಗೆ ಈ ಪ್ರಮುಖ ಶಕ್ತಿಯನ್ನು ಜಾಗೃತಗೊಳಿಸುವುದು ಮತ್ತು ಬಳಸಿಕೊಳ್ಳುವುದು, ಇದು ಜೀವನದ ಎಲ್ಲಾ ಅಂಶಗಳಲ್ಲಿ ಸಮೃದ್ಧಿ (ರಯಿ), ಶಕ್ತಿ (ವೀರ) ಮತ್ತು ಸಮೃದ್ಧಿಗೆ (ರಾಧಸ್) ಕಾರಣವಾಗುತ್ತದೆ. 'ನೆಲೆ' (ದುರೋಣೆ) ಆಂತರಿಕ ಅಭಯಾರಣ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಈ ಜಾಗೃತಿ ಸಂಭವಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S92_104-4_5",
+      "mandala": 7,
+      "sukta": 92,
+      "ric_index": 4,
+      "rig_lines": [
+        "ये वा॒यव॑ इन्द्र॒माद॑नास॒ आदे᳚वासो नि॒तोश॑नासो, अ॒र्यः |",
+        "घ्नन्तो᳚ वृ॒त्राणि॑ सू॒रिभिः॑ ष्याम सास॒ह्वांसो᳚ यु॒धा नृभि॑र॒मित्रा॑न् ||"
+      ],
+      "pre_splits": [
+        "ये",
+        "वा॒यवे᳚",
+        "इ॒न्द्र॒ऽमाद॑नासः",
+        "आऽदे᳚वासः",
+        "नि॒ऽतोश॑नासः",
+        "अ॒र्यः",
+        "घ्नन्तः॑",
+        "वृ॒त्राणि॑",
+        "सू॒रिऽभिः॑",
+        "स्या॒म॒",
+        "स॒स॒ह्वांसः॑",
+        "यु॒धा",
+        "नृऽभिः॑",
+        "अ॒मित्रा॑न्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "those who",
+          "meaning_kn": "ಯಾರು/ಅವರು"
+        },
+        {
+          "pada_original": "वा॒यवे᳚",
+          "pada_kn": "ವಾಯವೇ",
+          "meaning_en": "to Vayu / for Vayu",
+          "meaning_kn": "ವಾಯುವಿಗೆ/ವಾಯುವಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒ऽमाद॑नासः",
+          "pada_kn": "ಇಂದ್ರಮಾದನಾಸಃ",
+          "meaning_en": "Indra-intoxicating / making Indra joyous",
+          "meaning_kn": "ಇಂದ್ರನನ್ನು ಉಲ್ಲಾಸಗೊಳಿಸುವವರು"
+        },
+        {
+          "pada_original": "आऽदे᳚वासः",
+          "pada_kn": "ಆದೇವಾಸಃ",
+          "meaning_en": "divine / god-like",
+          "meaning_kn": "ದೈವಿಕರು/ದೇವಸಮಾನರು"
+        },
+        {
+          "pada_original": "नि॒ऽतोश॑नासः",
+          "pada_kn": "ನಿತೋಶನಾಸಃ",
+          "meaning_en": "eager / impetuous / sharp",
+          "meaning_kn": "ಉತ್ಸಾಹಿಗಳು/ತೀಕ್ಷ್ಣರು"
+        },
+        {
+          "pada_original": "अ॒र्यः",
+          "pada_kn": "ಅರ್ಯಃ",
+          "meaning_en": "masters / noble ones",
+          "meaning_kn": "ಪ್ರಭುಗಳು/ಶ್ರೇಷ್ಠರು"
+        },
+        {
+          "pada_original": "घ्नन्तः॑",
+          "pada_kn": "ಘ್ನನ್ತಃ",
+          "meaning_en": "slaying / striking",
+          "meaning_kn": "ನಾಶಮಾಡುವವರು/ಹೊಡೆಯುವವರು"
+        },
+        {
+          "pada_original": "वृ॒त्राणि॑",
+          "pada_kn": "ವೃತ್ರಾಣಿ",
+          "meaning_en": "obstacles / enemies",
+          "meaning_kn": "ಅಡೆತಡೆಗಳನ್ನು/ಶತ್ರುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "सू॒रिऽभिः॑",
+          "pada_kn": "ಸೂರಿಭಿಃ",
+          "meaning_en": "with wise ones / with heroes",
+          "meaning_kn": "ಜ್ಞಾನಿಗಳೊಂದಿಗೆ/ವೀರರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "स्या॒म॒",
+          "pada_kn": "ಸ್ಯಾಮ",
+          "meaning_en": "may we be",
+          "meaning_kn": "ನಾವು ಆಗೋಣ"
+        },
+        {
+          "pada_original": "स॒स॒ह्वांसः॑",
+          "pada_kn": "ಸಸಹ್ವಾಂಸಃ",
+          "meaning_en": "conquering / overcoming",
+          "meaning_kn": "ಜಯಿಸುವವರು/ಗೆಲ್ಲುವವರು"
+        },
+        {
+          "pada_original": "यु॒धा",
+          "pada_kn": "ಯುಧಾ",
+          "meaning_en": "with battle / by fighting",
+          "meaning_kn": "ಯುದ್ಧದಿಂದ/ಹೋರಾಟದಿಂದ"
+        },
+        {
+          "pada_original": "नृऽभिः॑",
+          "pada_kn": "ನೃಭಿಃ",
+          "meaning_en": "with men / with heroes",
+          "meaning_kn": "ಮನುಷ್ಯರೊಂದಿಗೆ/ವೀರರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒मित्रा॑न्",
+          "pada_kn": "ಅಮಿತ್ರಾನ್",
+          "meaning_en": "enemies / foes",
+          "meaning_kn": "ಶತ್ರುಗಳನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Vayu, may we, dedicated to you, be exhilarating to Indra, divine, eager, and masters of our selves; slaying obstacles with the aid of wise ones, and conquering our enemies through battle with valiant men.",
+      "full_meaning_kn": "ಓ ವಾಯುವೇ, ನಾವೆಲ್ಲಾ ನಿನಗೆ ಸಮರ್ಪಿತರಾಗಿ, ಇಂದ್ರನಿಗೆ ಉತ್ಸಾಹವನ್ನುಂಟುಮಾಡುವವರಾಗಿ, ದೈವೀಶಕ್ತಿಯಿಂದ ಕೂಡಿದವರಾಗಿ, ಆತುರವುಳ್ಳವರಾಗಿ, ನಮ್ಮ ಆತ್ಮವನ್ನು ಗೆದ್ದವರಾಗಿರಲಿ; ಜ್ಞಾನಿಗಳ ಸಹಾಯದಿಂದ ವಿಘ್ನಗಳನ್ನು ನಾಶಮಾಡುವವರಾಗಿ, ಧೈರ್ಯಶಾಲಿಗಳ ಸಹಾಯದಿಂದ ಯುದ್ಧದಲ್ಲಿ ನಮ್ಮ ಶತ್ರುಗಳನ್ನು ಜಯಿಸುವವರಾಗಿರಲಿ.",
+      "rig_time_s": 47.102,
+      "Insight_en": "The individual's dedication to Vayu represents the harnessing of prana, the vital life force. This dedication, in turn, invigorates Indra, symbolizing the awakened intellect. Mastery over the self involves the subduing of internal obstacles (Vritras) through wisdom and external adversaries through righteous action. The mantra emphasizes a holistic approach to spiritual growth, encompassing both inner discipline and outer engagement.",
+      "Insight_kn": "ವಾಯುವಿಗೆ ವ್ಯಕ್ತಿಯ ಸಮರ್ಪಣೆಯು ಪ್ರಾಣವನ್ನು, ಅಂದರೆ ಪ್ರಮುಖ ಜೀವ ಶಕ್ತಿಯನ್ನು ಸದುಪಯೋಗಪಡಿಸಿಕೊಳ್ಳುವುದನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಈ ಸಮರ್ಪಣೆಯು ಇಂದ್ರನನ್ನು ಹುರಿದುಂಬಿಸುತ್ತದೆ, ಇದು ಜಾಗೃತ ಬುದ್ಧಿಶಕ್ತಿಯ ಸಂಕೇತವಾಗಿದೆ. ಸ್ವಯಂ ನಿಯಂತ್ರಣವು ವಿವೇಕದಿಂದ ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು (ವೃತ್ರಗಳು) ಮತ್ತು ಧರ್ಮಯುತ ಕ್ರಿಯೆಯಿಂದ ಬಾಹ್ಯ ವಿರೋಧಿಗಳನ್ನು ನಿಗ್ರಹಿಸುವುದನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಈ ಮಂತ್ರವು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಸಮಗ್ರ ವಿಧಾನವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಇದು ಆಂತರಿಕ ಶಿಸ್ತು ಮತ್ತು ಬಾಹ್ಯ ನಿಶ್ಚಿತಾರ್ಥವನ್ನು ಒಳಗೊಂಡಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M7-S92_104-5_5",
+      "mandala": 7,
+      "sukta": 92,
+      "ric_index": 5,
+      "rig_lines": [
+        "आ नो᳚ नि॒युद्भिः॑ श॒तिनी᳚भिरध्व॒रं स॑ह॒स्रिणी᳚भि॒रुप॑ याहि य॒ज्ञम् |",
+        "वायो᳚, अ॒स्मिन्‌ त्सव॑ने मादयस्व यू॒यं पा᳚त स्व॒स्तिभिः॒ सदा᳚ नः ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "नः॒",
+        "नि॒युत्ऽभिः॑",
+        "श॒तिनी᳚भिः",
+        "अ॒ध्व॒र‌म्",
+        "स॒ह॒स्रिणी᳚भिः",
+        "उप॑",
+        "या॒हि॒",
+        "य॒ज्ञ‌म्",
+        "वायो॒ इति॑",
+        "अ॒स्मिन्",
+        "सव॑ने",
+        "मा॒द॒य॒स्व॒",
+        "यू॒य‌म्",
+        "पा॒त॒",
+        "स्व॒स्तिऽभिः॑",
+        "सदा᳚",
+        "नः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither/towards",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ/ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "नि॒युत्ऽभिः॑",
+          "pada_kn": "ನಿಯುತ್ಽಭಿಃ",
+          "meaning_en": "with your teams (of horses)",
+          "meaning_kn": "ನಿಮ್ಮ ರಥಗಳೊಂದಿಗೆ/ಅಶ್ವಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "श॒तिनी᳚भिः",
+          "pada_kn": "ಶತಿನೀಭಿಃ",
+          "meaning_en": "with hundreds (of teams)",
+          "meaning_kn": "ನೂರಾರು (ರಥಗಳೊಂದಿಗೆ)"
+        },
+        {
+          "pada_original": "अ॒ध्व॒र‌म्",
+          "pada_kn": "ಅಧ್ವರಮ್",
+          "meaning_en": "the ritual",
+          "meaning_kn": "ಯಜ್ಞ/ಕರ್ಮ"
+        },
+        {
+          "pada_original": "स॒ह॒स्रिणी᳚भिः",
+          "pada_kn": "ಸಹಸ್ರಿಣೀಭಿಃ",
+          "meaning_en": "with thousands (of teams)",
+          "meaning_kn": "ಸಾವಿರಾರು (ರಥಗಳೊಂದಿಗೆ)"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "near/to",
+          "meaning_kn": "ಹತ್ತಿರ/ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "या॒हि॒",
+          "pada_kn": "ಯಾಹಿ",
+          "meaning_en": "come",
+          "meaning_kn": "ಬಾ/ಬನ್ನಿ"
+        },
+        {
+          "pada_original": "य॒ज्ञ‌म्",
+          "pada_kn": "ಯಜ್ಞಮ್",
+          "meaning_en": "the sacrifice",
+          "meaning_kn": "ಯಜ್ಞ"
+        },
+        {
+          "pada_original": "वायो॒ इति॑",
+          "pada_kn": "ವಾಯೋ ಇತಿ",
+          "meaning_en": "O Vayu",
+          "meaning_kn": "ಓ ವಾಯುದೇವ"
+        },
+        {
+          "pada_original": "अ॒स्मिन्",
+          "pada_kn": "ಅಸ್ಮಿನ್",
+          "meaning_en": "in this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "सव॑ने",
+          "pada_kn": "ಸವನೇ",
+          "meaning_en": "in the Soma pressing/ritual",
+          "meaning_kn": "ಸೋಮರಸ ಹಿಂಡುವಿಕೆಯಲ್ಲಿ/ಯಜ್ಞದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "मा॒द॒य॒स्व॒",
+          "pada_kn": "ಮಾದಯಸ್ವ",
+          "meaning_en": "rejoice/be exhilarated",
+          "meaning_kn": "ಸಂತೋಷಿಸು/ಉಲ್ಲಾಸಗೊಳ್ಳು"
+        },
+        {
+          "pada_original": "यू॒य‌म्",
+          "pada_kn": "ಯೂಯಮ್",
+          "meaning_en": "you (all gods)",
+          "meaning_kn": "ನೀವು (ದೇವತೆಗಳು)"
+        },
+        {
+          "pada_original": "पा॒त॒",
+          "pada_kn": "ಪಾತ",
+          "meaning_en": "protect",
+          "meaning_kn": "ರಕ್ಷಿಸಿ"
+        },
+        {
+          "pada_original": "स्व॒स्तिऽभिः॑",
+          "pada_kn": "ಸ್ವಸ್ತಿಽಭಿಃ",
+          "meaning_en": "with blessings/welfare",
+          "meaning_kn": "ಶುಭಗಳಿಂದ/ಕ್ಷೇಮಗಳಿಂದ"
+        },
+        {
+          "pada_original": "सदा᳚",
+          "pada_kn": "ಸದಾ",
+          "meaning_en": "always",
+          "meaning_kn": "ಯಾವಾಗಲೂ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Vayu, accompanied by your forces numbering in the hundreds and thousands, approach our sacrifice. Be gladdened by this Soma offering. May you ever protect us with blessings.",
+      "full_meaning_kn": "ಓ ವಾಯುವೇ, ನೂರಾರು ಮತ್ತು ಸಾವಿರಾರು ಸಂಖ್ಯೆಯ ನಿನ್ನ ಸೈನ್ಯಗಳೊಂದಿಗೆ ನಮ್ಮ ಯಜ್ಞಕ್ಕೆ ಬಾ. ಈ ಸೋಮ ಅರ್ಪಣೆಯಿಂದ ಆನಂದಪಡು. ನೀನು ಸದಾಕಾಲವೂ ನಮ್ಮನ್ನು ಆಶೀರ್ವಾದದಿಂದ ರಕ್ಷಿಸು.",
+      "rig_time_s": 62.903,
+      "Insight_en": "The teams of hundreds and thousands represent the myriad subtle energies (प्राण) that Vayu, the life force, commands. Approaching the sacrifice signifies drawing these energies inward to fuel the inner fire of transformation (अग्नि). The Soma offering represents the nectar of awakened consciousness. True protection comes not from external forces, but from the inner alignment with cosmic energies.",
+      "Insight_kn": "ನೂರಾರು ಮತ್ತು ಸಾವಿರಾರು ಸಂಖ್ಯೆಯ ತಂಡಗಳು ವಾಯು, ಅಂದರೆ ಜೀವ ಶಕ್ತಿಯು ನಿಯಂತ್ರಿಸುವ ಅಸಂಖ್ಯಾತ ಸೂಕ್ಷ್ಮ ಶಕ್ತಿಗಳನ್ನು (ಪ್ರಾಣ) ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಯಜ್ಞಕ್ಕೆ ಸಮೀಪಿಸುವುದು ಎಂದರೆ ಪರಿವರ್ತನೆಯ ಆಂತರಿಕ ಅಗ್ನಿಯನ್ನು (ಅಗ್ನಿ) ಉತ್ತೇಜಿಸಲು ಈ ಶಕ್ತಿಗಳನ್ನು ಒಳಕ್ಕೆ ಸೆಳೆಯುವುದು. ಸೋಮ ಅರ್ಪಣೆಯು ಜಾಗೃತ ಪ್ರಜ್ಞೆಯ ಅಮೃತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ನಿಜವಾದ ರಕ್ಷಣೆ ಬಾಹ್ಯ ಶಕ್ತಿಗಳಿಂದ ಬರುವುದಿಲ್ಲ, ಆದರೆ ಕಾಸ್ಮಿಕ್ ಶಕ್ತಿಗಳೊಂದಿಗೆ ಆಂತರಿಕ ಹೊಂದಾಣಿಕೆಯಿಂದ ಬರುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

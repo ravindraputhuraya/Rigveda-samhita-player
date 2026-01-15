@@ -1,0 +1,804 @@
+{
+  "mandala": 10,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M10-S165_191-1_5",
+      "mandala": 10,
+      "sukta": 165,
+      "ric_index": 1,
+      "rig_lines": [
+        "देवाः᳚ क॒पोत॑ इषि॒तो यदि॒च्छन्दू॒तो निरृ॑त्या, इ॒दमा᳚ज॒गाम॑ |",
+        "तस्मा᳚, अर्चाम कृ॒णवा᳚म॒ निष्कृ॑तिं॒ शं नो᳚, अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ||"
+      ],
+      "pre_splits": [
+        "देवाः᳚",
+        "क॒पोतः॑",
+        "इ॒षि॒तः",
+        "यत्",
+        "इ॒च्छन्",
+        "दू॒तः",
+        "निःऽऋ॑त्याः",
+        "इ॒द‌म्",
+        "आ॒ऽज॒गाम॑",
+        "तस्मै᳚",
+        "अ॒र्चा॒म॒",
+        "कृ॒णवा᳚म",
+        "निःऽकृ॑ति‌म्",
+        "श‌म्",
+        "नः॒",
+        "अ॒स्तु॒",
+        "द्वि॒ऽपदे᳚",
+        "श‌म्",
+        "चतुः॑ऽपदे"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "देवाः᳚",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "O Gods",
+          "meaning_kn": "ಓ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "क॒पोतः॑",
+          "pada_kn": "ಕಪೋತಃ",
+          "meaning_en": "a pigeon",
+          "meaning_kn": "ಒಂದು ಪಾರಿವಾಳ"
+        },
+        {
+          "pada_original": "इ॒षि॒तः",
+          "pada_kn": "ಇಷಿತಃ",
+          "meaning_en": "sent / impelled",
+          "meaning_kn": "ಕಳುಹಿಸಲ್ಪಟ್ಟಿದೆ / ಪ್ರೇರಿತವಾಗಿದೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "which (if)",
+          "meaning_kn": "ಯಾವುದು (ಒಂದು ವೇಳೆ)"
+        },
+        {
+          "pada_original": "इ॒च्छन्",
+          "pada_kn": "ಇಚ್ಛನ್",
+          "meaning_en": "desiring",
+          "meaning_kn": "ಬಯಸುತ್ತಾ / ಇಚ್ಛಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "दू॒तः",
+          "pada_kn": "ದೂತಃ",
+          "meaning_en": "a messenger",
+          "meaning_kn": "ಒಂದು ದೂತ"
+        },
+        {
+          "pada_original": "निःऽऋ॑त्याः",
+          "pada_kn": "ನಿಃಽಋತ್ಯಾಃ",
+          "meaning_en": "of Nirṛti (goddess of destruction)",
+          "meaning_kn": "ನಿರೃತಿಯ (ವಿನಾಶದ ದೇವತೆ)"
+        },
+        {
+          "pada_original": "इ॒द‌म्",
+          "pada_kn": "ಇದಮ್",
+          "meaning_en": "this (place) / here",
+          "meaning_kn": "ಇಲ್ಲಿಗೆ / ಇದನ್ನು"
+        },
+        {
+          "pada_original": "आ॒ऽज॒गाम॑",
+          "pada_kn": "ಆಽಜಗಾಮ",
+          "meaning_en": "has come",
+          "meaning_kn": "ಬಂದಿದೆ"
+        },
+        {
+          "pada_original": "तस्मै᳚",
+          "pada_kn": "ತಸ್ಮೈ",
+          "meaning_en": "to that (pigeon)",
+          "meaning_kn": "ಆ (ಪಾರಿವಾಳಕ್ಕೆ)"
+        },
+        {
+          "pada_original": "अ॒र्चा॒म॒",
+          "pada_kn": "ಅರ್ಚಾಮ",
+          "meaning_en": "let us worship / honor",
+          "meaning_kn": "ನಾವು ಪೂಜಿಸೋಣ / ಗೌರವಿಸೋಣ"
+        },
+        {
+          "pada_original": "कृ॒णवा᳚म",
+          "pada_kn": "ಕೃಣವಾಮ",
+          "meaning_en": "let us make / perform",
+          "meaning_kn": "ನಾವು ಮಾಡೋಣ / ನಿರ್ವಹಿಸೋಣ"
+        },
+        {
+          "pada_original": "निःऽकृ॑ति‌म्",
+          "pada_kn": "ನಿಃಽಕೃತಿಮ್",
+          "meaning_en": "an atonement / expiation",
+          "meaning_kn": "ಒಂದು ಪ್ರಾಯಶ್ಚಿತ್ತ / ಪರಿಹಾರ"
+        },
+        {
+          "pada_original": "श‌म्",
+          "pada_kn": "ಶಮ್",
+          "meaning_en": "welfare / well-being",
+          "meaning_kn": "ಕಲ್ಯಾಣ / ಶುಭ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "अ॒स्तु॒",
+          "pada_kn": "ಅಸ್ತು",
+          "meaning_en": "let it be",
+          "meaning_kn": "ಇರಲಿ"
+        },
+        {
+          "pada_original": "द्वि॒ऽपदे᳚",
+          "pada_kn": "ದ್ವಿಽಪದೇ",
+          "meaning_en": "to bipeds (humans)",
+          "meaning_kn": "ದ್ವಿಪದಿಗಳಿಗೆ (ಮನುಷ್ಯರಿಗೆ)"
+        },
+        {
+          "pada_original": "श‌म्",
+          "pada_kn": "ಶಮ್",
+          "meaning_en": "welfare / well-being",
+          "meaning_kn": "ಕಲ್ಯಾಣ / ಶುಭ"
+        },
+        {
+          "pada_original": "चतुः॑ऽपदे",
+          "pada_kn": "ಚತುಃಽಪದೇ",
+          "meaning_en": "to quadrupeds (animals)",
+          "meaning_kn": "ಚತುಷ್ಪದಿಗಳಿಗೆ (ಪ್ರಾಣಿಗಳಿಗೆ)"
+        }
+      ],
+      "full_meaning_en": "O Gods, if this pigeon, sent by Nirṛti (the goddess of destruction) and desiring something, has come here as her messenger, then let us worship it and perform an atonement. Let there be welfare for our bipeds (humans) and welfare for our quadrupeds (animals).",
+      "full_meaning_kn": "ಓ ದೇವತೆಗಳೇ, ವಿನಾಶದ ದೇವತೆಯಾದ ನಿರೃತಿಯಿಂದ ಕಳುಹಿಸಲ್ಪಟ್ಟ, ಯಾವುದನ್ನೋ ಬಯಸುತ್ತಿರುವ ಈ ಪಾರಿವಾಳವು ಅವಳ ದೂತನಾಗಿ ಇಲ್ಲಿಗೆ ಬಂದಿದ್ದರೆ, ನಾವು ಅದನ್ನು ಪೂಜಿಸೋಣ ಮತ್ತು ಪ್ರಾಯಶ್ಚಿತ್ತವನ್ನು ಮಾಡೋಣ. ನಮ್ಮ ದ್ವಿಪದಿಗಳಿಗೆ (ಮನುಷ್ಯರಿಗೆ) ಶುಭವಾಗಲಿ, ನಮ್ಮ ಚತುಷ್ಪದಿಗಳಿಗೆ (ಪ್ರಾಣಿಗಳಿಗೆ) ಶುಭವಾಗಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The Kapota (कपोत) signifies an adverse thought-form or a disquieting impulse arising from the depths of the subconscious, a messenger of Nirṛti (निरृति), the force of psychological dissolution and negativity. This psychic intrusion demands immediate, conscious acknowledgment and active purification. The call to \"worship\" (अर्चाम) is an invocation of higher awareness, recognizing the disturbance not as an external threat but as an inner manifestation requiring spiritual rectification (निष्कृतिं). Through this conscious engagement, the vital currents (चतुष्पदे) and the discerning mental faculties (द्विपदे) are harmonized. Thus, the entire inner existence achieves profound well-being and integrated peace, transforming potential discord into an opportunity for growth.",
+      "Insight_kn": "ಓ ದೇವ ಶಕ್ತಿಗಳೇ, ಕಪೋತ (कपोत)ವು ಸುಪ್ತಾವಸ್ಥೆಯಿಂದ ಹೊರಹೊಮ್ಮುವ ಪ್ರತಿಕೂಲ ಆಲೋಚನಾ ರೂಪ ಅಥವಾ ವಿಚಲಿತ ಪ್ರೇರಣೆಯ ಸಂಕೇತವಾಗಿದೆ. ಇದು ನಿರೃತಿ (निरृति)ಯ ದೂತ, ಅಂದರೆ ಮಾನಸಿಕ ವಿಘಟನೆ ಮತ್ತು ನಕಾರಾತ್ಮಕ ಶಕ್ತಿಯ ಪ್ರತಿನಿಧಿಯಾಗಿರುತ್ತದೆ. ಈ ಆಂತರಿಕ ಆಕ್ರಮಣಕ್ಕೆ ತಕ್ಷಣದ, ಜಾಗೃತ ಅರಿವು ಮತ್ತು ಸಕ್ರಿಯ ಶುದ್ಧೀಕರಣದ ಅಗತ್ಯವಿದೆ. 'ಪೂಜಿಸುವುದು' (ಅರ್ಚಾಮ) ಎಂಬುದು ಉನ್ನತ ಪ್ರಜ್ಞೆಯ ಆಹ್ವಾನವಾಗಿದ್ದು, ಈ ಅಶಾಂತಿಯನ್ನು ಬಾಹ್ಯ ಬೆದರಿಕೆಯಾಗಿ ಅಲ್ಲದೆ, ಆಧ್ಯಾತ್ಮಿಕ ಪರಿಹಾರವನ್ನು (निष्कृतिं) ಬೇಡುವ ಆಂತರಿಕ ಅಭಿವ್ಯಕ್ತಿಯಾಗಿ ಗುರುತಿಸುವುದಾಗಿದೆ. ಈ ಜಾಗೃತ ಕ್ರಿಯೆಯ ಮೂಲಕ, ಪ್ರಾಣಶಕ್ತಿ ಪ್ರವಾಹಗಳು (चतुष्पदे) ಮತ್ತು ವಿವೇಚನಾಶೀಲ ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯಗಳು (द्विपदे) ಸಮರಸಗೊಳ್ಳುತ್ತವೆ. ಹೀಗೆ, ಸಮಗ್ರ ಆಂತರಿಕ ಅಸ್ತಿತ್ವವು ಆಳವಾದ ಸುಖ ಮತ್ತು ಸಮನ್ವಯತೆಯನ್ನು ಸಾಧಿಸಿ, ಸಂಭಾವ್ಯ ಭಿನ್ನಾಭಿಪ್ರಾಯವನ್ನು ಬೆಳವಣಿಗೆಯ ಅವಕಾಶವಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S165_191-2_5",
+      "mandala": 10,
+      "sukta": 165,
+      "ric_index": 2,
+      "rig_lines": [
+        "शि॒वः क॒पोत॑ इषि॒तो नो᳚, अस्त्वना॒गा दे᳚वाः शकु॒नो गृ॒हेषु॑ |",
+        "अ॒ग्निर्हि विप्रो᳚ जु॒षतां᳚ ह॒विर्नः॒ परि॑ हे॒तिः प॒क्षिणी᳚ नो वृणक्तु ||"
+      ],
+      "pre_splits": [
+        "शि॒वः",
+        "क॒पोतः॑",
+        "इ॒षि॒तः",
+        "नः॒",
+        "अ॒स्तु॒",
+        "अ॒ना॒गाः",
+        "दे॒वाः॒",
+        "श॒कु॒नः",
+        "गृ॒हेषु॑",
+        "अ॒ग्निः",
+        "हि",
+        "विप्रः॑",
+        "जु॒षता᳚‌म्",
+        "ह॒विः",
+        "नः॒",
+        "परि॑",
+        "हे॒तिः",
+        "प॒क्षिणी᳚",
+        "नः॒",
+        "वृ॒ण॒क्तु॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "शि॒वः",
+          "pada_kn": "ಶಿವಃ",
+          "meaning_en": "Auspicious / benevolent",
+          "meaning_kn": "ಮಂಗಳಕರವಾದ / ಶುಭವಾದ"
+        },
+        {
+          "pada_original": "क॒पोतः॑",
+          "pada_kn": "ಕಪೋತಃ",
+          "meaning_en": "Pigeon / dove",
+          "meaning_kn": "ಪಾರಿವಾಳ"
+        },
+        {
+          "pada_original": "इ॒षि॒तः",
+          "pada_kn": "ಇಷಿತಃ",
+          "meaning_en": "Sent / impelled (by gods)",
+          "meaning_kn": "ಕಳುಹಿಸಲ್ಪಟ್ಟ / ಪ್ರೇರಿತವಾದ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "To us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "अ॒स्तु॒",
+          "pada_kn": "ಅಸ್ತು",
+          "meaning_en": "Let it be",
+          "meaning_kn": "ಇರಲಿ / ಆಗಲಿ"
+        },
+        {
+          "pada_original": "अ॒ना॒गाः",
+          "pada_kn": "ಅನಾಗಾಃ",
+          "meaning_en": "Harmless / innocent",
+          "meaning_kn": "ನಿರಪರಾಧಿಯಾದ / ಹಾನಿಕರವಲ್ಲದ"
+        },
+        {
+          "pada_original": "दे॒वाः॒",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "O gods",
+          "meaning_kn": "ಓ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "श॒कु॒नः",
+          "pada_kn": "ಶಕುನಃ",
+          "meaning_en": "Bird (omen bird)",
+          "meaning_kn": "ಪಕ್ಷಿ / ಶಕುನಪಕ್ಷಿ"
+        },
+        {
+          "pada_original": "गृ॒हेषु॑",
+          "pada_kn": "ಗೃಹೇಷು",
+          "meaning_en": "In our houses / homes",
+          "meaning_kn": "ಮನೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "Indeed / surely",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "विप्रः॑",
+          "pada_kn": "ವಿಪ್ರಃ",
+          "meaning_en": "Wise / inspired priest",
+          "meaning_kn": "ಜ್ಞಾನಿ / ಪುರೋಹಿತ"
+        },
+        {
+          "pada_original": "जु॒षता᳚‌म्",
+          "pada_kn": "ಜುಷತಾಮ್",
+          "meaning_en": "Let him accept / be pleased with",
+          "meaning_kn": "ಸ್ವೀಕರಿಸಲಿ / ಸಂತೋಷಪಡಲಿ"
+        },
+        {
+          "pada_original": "ह॒विः",
+          "pada_kn": "ಹವಿಃ",
+          "meaning_en": "Oblation / offering",
+          "meaning_kn": "ಹವಿಸ್ಸು / ಆಹುತಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Our",
+          "meaning_kn": "ನಮ್ಮ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "Completely / around",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ / ಸುತ್ತಲೂ"
+        },
+        {
+          "pada_original": "हे॒तिः",
+          "pada_kn": "ಹೇತಿಃ",
+          "meaning_en": "Weapon / destructive force",
+          "meaning_kn": "ಆಯುಧ / ವಿನಾಶಕಾರಿ ಶಕ್ತಿ"
+        },
+        {
+          "pada_original": "प॒क्षिणी᳚",
+          "pada_kn": "ಪಕ್ಷಿಣೀ",
+          "meaning_en": "Winged / flying",
+          "meaning_kn": "ರೆಕ್ಕೆಯುಳ್ಳ / ಹಾರುವ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "वृ॒ण॒क्तु॒",
+          "pada_kn": "ವೃಣಕ್ತು",
+          "meaning_en": "Let it avert / ward off",
+          "meaning_kn": "ದೂರವಿಡಲಿ / ರಕ್ಷಿಸಲಿ"
+        }
+      ],
+      "full_meaning_en": "O gods, let the pigeon, sent (by you), be auspicious and harmless to us, this bird in our homes. Indeed, let Agni, the wise priest, be pleased to accept our offering. Let him completely avert the winged destructive force from us.",
+      "full_meaning_kn": "ಓ ದೇವತೆಗಳೇ, ನಮ್ಮ ಮನೆಗಳಲ್ಲಿರುವ ಈ ಪಕ್ಷಿ, ಕಳುಹಿಸಲ್ಪಟ್ಟ ಪಾರಿವಾಳವು ನಮಗೆ ಶುಭಕರವೂ, ಹಾನಿಕರವಲ್ಲದೆಯೂ ಇರಲಿ. ಖಂಡಿತವಾಗಿಯೂ, ಜ್ಞಾನಿಯಾದ ಪುರೋಹಿತ ಅಗ್ನಿಯು ನಮ್ಮ ಹವಿಸ್ಸನ್ನು ಸ್ವೀಕರಿಸಿ ಸಂತೋಷಪಡಲಿ. ರೆಕ್ಕೆಯುಳ್ಳ ವಿನಾಶಕಾರಿ ಶಕ್ತಿಯನ್ನು ನಮ್ಮಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ದೂರವಿಡಲಿ.",
+      "rig_time_s": 16.756,
+      "Insight_en": "Agni (अग्नि), the indwelling Flame of purified Will, is the discerning priest within the sanctuary of being. All subtle impulses and nascent messages arising from the depths of consciousness, symbolized by the kapota (कपोत), must be consecrated to this divine Fire, ensuring they are auspicious conduits of truth, not agents of disturbance. The surrender of ego-driven thoughts and the clarified essence of aspiration (havis) to Agni guarantees profound transformation. This supreme Will then completely averts the swift, pervasive forces of ignorance and vital distraction (pakṣiṇī heti - पक्षिणी हेति) that seek to disrupt inner harmony. Thus is established the unshakeable peace within the spiritual abode.",
+      "Insight_kn": "ಓ, ಅಂತರಂಗದ ಶುದ್ಧ ಸಂಕಲ್ಪಾಗ್ನಿ (ಅಗ್ನಿ) ಯು, ಆಂತರಿಕ ಸತ್ಯಾಗಾರದಲ್ಲಿರುವ ವಿವೇಚನಾಶೀಲ ಪುರೋಹಿತನು. ಪ್ರಜ್ಞೆಯ ಆಳದಿಂದ ಮೂಡುವ ಸೂಕ್ಷ್ಮ ಸಂವೇದನೆಗಳು ಮತ್ತು ಆಂತರಿಕ ಸಂದೇಶಗಳು, ಕಪೋತದಿಂದ (कपोत) ಸಂಕೇತಿಸಲ್ಪಟ್ಟವುಗಳು, ಈ ದಿವ್ಯಾಗ್ನಿಗೆ ಸಮರ್ಪಿತವಾಗಬೇಕು; ಅವು ಸತ್ಯದ ಮಂಗಳಕರ ವಾಹಕಗಳಾಗಿ, ವಿಘ್ನಕಾರಕಗಳಾಗಿ ಅಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸುವುದು. ಅಹಂಕಾರ ಪ್ರೇರಿತ ಆಲೋಚನೆಗಳ ಮತ್ತು ಶುದ್ಧೀಕೃತ ಆಕಾಂಕ್ಷೆಯ (ಹವಿಸ್ಸು) ಸಮರ್ಪಣೆಯು ಅಗ್ನಿಗೆ ಪರಿವರ್ತನೆಯನ್ನು ಖಾತರಿಪಡಿಸುತ್ತದೆ. ಈ ಪರಮ ಸಂಕಲ್ಪವು, ಆಂತರಿಕ ಸಾಮರಸ್ಯವನ್ನು ಭಂಗಗೊಳಿಸಲು ಯತ್ನಿಸುವ, ವೇಗವಾಗಿ ಹರಡುವ ಅಜ್ಞಾನದ ಮತ್ತು ಪ್ರಾಣಿಕ ವಿಘಟನೆಗಳ (ಪಕ್ಷಿಣೀ ಹೇತಿ - पक्षिणी हेति) ಶಕ್ತಿಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನಿವಾರಿಸುತ್ತದೆ. ಹೀಗೆ ಅಂತರಾತ್ಮದ ಅಧ್ಯಾತ್ಮಿಕ ತಾಣದಲ್ಲಿ ಅಚಲ ಶಾಂತಿ ನೆಲೆಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S165_191-3_5",
+      "mandala": 10,
+      "sukta": 165,
+      "ric_index": 3,
+      "rig_lines": [
+        "हे॒तिः प॒क्षिणी॒ न द॑भात्य॒स्माना॒ष्ट्र्यां प॒दं कृ॑णुते, अग्नि॒धाने᳚ |",
+        "शं नो॒ गोभ्य॑श्च॒ पुरु॑षेभ्यश्चास्तु॒ मा नो᳚ हिंसीदि॒ह दे᳚वाः क॒पोतः॑ ||"
+      ],
+      "pre_splits": [
+        "हे॒तिः",
+        "प॒क्षिणी᳚",
+        "न",
+        "द॒भा॒ति॒",
+        "अ॒स्मान्",
+        "आ॒ष्ट्र्या‌म्",
+        "प॒द‌म्",
+        "कृ॒णु॒ते॒",
+        "अ॒ग्नि॒ऽधाने᳚",
+        "श‌म्",
+        "नः॒",
+        "गोभ्यः॑",
+        "च॒",
+        "पुरु॑षेभ्यः",
+        "च॒",
+        "अ॒स्तु॒",
+        "मा",
+        "नः॒",
+        "हिं॒सी॒त्",
+        "इ॒ह",
+        "दे॒वाः॒",
+        "क॒पोतः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "हे॒तिः",
+          "pada_kn": "ಹೇತಿಃ",
+          "meaning_en": "dart / missile (referring to the pigeon's presence)",
+          "meaning_kn": "ಬಾಣ / ಅಸ್ತ್ರ (ಪಾರಿವಾಳದ ಉಪಸ್ಥಿತಿ)"
+        },
+        {
+          "pada_original": "प॒क्षिणी᳚",
+          "pada_kn": "ಪಕ್ಷಿಣೀ",
+          "meaning_en": "bird / winged (feminine)",
+          "meaning_kn": "ಪಕ್ಷಿ / ರೆಕ್ಕೆಯುಳ್ಳದ್ದು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "द॒भा॒ति॒",
+          "pada_kn": "ದಭಾತಿ",
+          "meaning_en": "harms / injures",
+          "meaning_kn": "ಹಾನಿ ಮಾಡುತ್ತದೆ / ನೋಯಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "अ॒स्मान्",
+          "pada_kn": "ಅಸ್ಮಾನ್",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "आ॒ष्ट्र्या‌म्",
+          "pada_kn": "ಆಷ್ಟ್ರ್ಯಾಮ್",
+          "meaning_en": "in the cattle-shed / in the enclosure",
+          "meaning_kn": "ಗೋಶಾಲೆಗಳಲ್ಲಿ / ಆವರಣದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "प॒द‌म्",
+          "pada_kn": "ಪದಮ್",
+          "meaning_en": "place / foot",
+          "meaning_kn": "ಸ್ಥಾನ / ಹೆಜ್ಜೆ"
+        },
+        {
+          "pada_original": "कृ॒णु॒ते॒",
+          "pada_kn": "ಕೃಣುತೇ",
+          "meaning_en": "makes / does",
+          "meaning_kn": "ಮಾಡುತ್ತದೆ"
+        },
+        {
+          "pada_original": "अ॒ग्नि॒ऽधाने᳚",
+          "pada_kn": "ಅಗ್ನಿಧಾನೇ",
+          "meaning_en": "in the place of fire / fire-altar",
+          "meaning_kn": "ಅಗ್ನಿಶಾಲೆಯಲ್ಲಿ / ಅಗ್ನಿ ಇಡುವ ಸ್ಥಳದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "श‌म्",
+          "pada_kn": "ಶಮ್",
+          "meaning_en": "welfare / auspiciousness",
+          "meaning_kn": "ಮಂಗಳ / ಶುಭ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "गोभ्यः॑",
+          "pada_kn": "ಗೋಭ್ಯಃ",
+          "meaning_en": "for cows / for cattle",
+          "meaning_kn": "ಗೋವುಗಳಿಗೆ / ದನಕರುಗಳಿಗೆ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "पुरु॑षेभ्यः",
+          "pada_kn": "ಪುರುಷೇಭ್ಯಃ",
+          "meaning_en": "for men / for people",
+          "meaning_kn": "ಮನುಷ್ಯರಿಗೆ / ಜನರಿಗೆ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "अ॒स्तु॒",
+          "pada_kn": "ಅಸ್ತು",
+          "meaning_en": "let it be",
+          "meaning_kn": "ಆಗಲಿ"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "not / let not",
+          "meaning_kn": "ಬೇಡ / ಮಾಡದಿರಲಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "हिं॒सी॒त्",
+          "pada_kn": "ಹಿಂಸೀತ್",
+          "meaning_en": "harm / injure",
+          "meaning_kn": "ಹಾನಿ ಮಾಡಲಿ / ನೋಯಿಸಲಿ"
+        },
+        {
+          "pada_original": "इ॒ह",
+          "pada_kn": "ಇಹ",
+          "meaning_en": "here",
+          "meaning_kn": "ಇಲ್ಲಿ"
+        },
+        {
+          "pada_original": "दे॒वाः॒",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "O gods!",
+          "meaning_kn": "ಓ ದೇವತೆಗಳೇ!"
+        },
+        {
+          "pada_original": "क॒पोतः॑",
+          "pada_kn": "ಕಪೋತಃ",
+          "meaning_en": "pigeon / dove",
+          "meaning_kn": "ಪಾರಿವಾಳ"
+        }
+      ],
+      "full_meaning_en": "May the bird's presence, like a dart, not harm us. It makes its dwelling in the cattle-shed and in the place of the sacred fire. May there be welfare for our cattle and for our people. O gods, let this pigeon not cause us any harm here.",
+      "full_meaning_kn": "ಪಕ್ಷಿಯ ಉಪಸ್ಥಿತಿಯು (ಬಾಣದಂತೆ) ನಮಗೆ ಹಾನಿ ಮಾಡದಿರಲಿ. ಅದು ಗೋಶಾಲೆಗಳಲ್ಲಿ ಮತ್ತು ಅಗ್ನಿಶಾಲೆಯಲ್ಲಿ ತನ್ನ ನೆಲೆಯನ್ನು ಮಾಡಿಕೊಳ್ಳುತ್ತದೆ. ನಮ್ಮ ಗೋವುಗಳಿಗೆ ಮತ್ತು ನಮ್ಮ ಜನರಿಗೆ ಮಂಗಳವಾಗಲಿ. ಓ ದೇವತೆಗಳೇ, ಈ ಪಾರಿವಾಳವು ಇಲ್ಲಿ ನಮಗೆ ಹಾನಿ ಮಾಡದಿರಲಿ.",
+      "rig_time_s": 32.61,
+      "Insight_en": "The subtle, wandering impulse (कपोतः), like a fleeting thought, penetrates the very precincts of our inner Light (गोभ्यः) and the altar of purified aspiration (अग्निधाने). This intrusive vibration, akin to a mental dart (हेतिः पक्षिणी), must not disrupt the unfolding consciousness. May the clarity of inner knowledge and the integral forces of our being remain ever secure. We invoke the indwelling Divine Powers (देवाः) to preserve the soul's harmonious progression from such subtle encroachments, ensuring unwavering spiritual resolve.",
+      "Insight_kn": "ಸೂಕ್ಷ್ಮವಾದ, ಚಂಚಲವಾದ ಆಂತರಿಕ ಪ್ರಚೋದನೆಯು (कपोतः), ಕ್ಷಣಿಕ ಚಿಂತನೆಯಂತೆ, ನಮ್ಮ ಅಂತರಂಗದ ಜ್ಞಾನಕ್ಷೇತ್ರವನ್ನೂ (गोभ्यः) ಮತ್ತು ಶುದ್ಧಾಕಾಂಕ್ಷೆಯ ಅಗ್ನಿಧಾವನವನ್ನೂ ಪ್ರವೇಶಿಸಲು ಯತ್ನಿಸುತ್ತದೆ. ಮನಸ್ಸಿನ ಬಾಣದಂತಿರುವ (हेतिः पक्षिणी) ಈ ಒಳನುಗ್ಗುವ ಕಂಪನವು ವಿಕಸಿಸುವ ಪ್ರಜ್ಞೆಯನ್ನು ಭಂಗಗೊಳಿಸಬಾರದು. ಆಂತರಿಕ ಜ್ಞಾನದ ಪ್ರಕಾಶ ಮತ್ತು ನಮ್ಮ ಸತ್ತೆಯ ಸಮಗ್ರ ಶಕ್ತಿಗಳು ಎಂದಿಗೂ ಸುರಕ್ಷಿತವಾಗಿರಲಿ. ಇಂತಹ ಸೂಕ್ಷ್ಮ ಅತಿಕ್ರಮಣಗಳಿಂದ ಆತ್ಮದ ಸಾಮರಸ್ಯದ ಪ್ರಗತಿಯನ್ನು ಸಂರಕ್ಷಿಸಲು, ಅಂತರಂಗದ ದಿವ್ಯ ಶಕ್ತಿಗಳನ್ನು (देवाः) ನಾವು ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ, ಅಚಲವಾದ ಆಧ್ಯಾತ್ಮಿಕ ನಿಶ್ಚಯವನ್ನು ಸ್ಥಾಪಿಸುತ್ತೇವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S165_191-4_5",
+      "mandala": 10,
+      "sukta": 165,
+      "ric_index": 4,
+      "rig_lines": [
+        "यदुलू᳚को॒ वद॑ति मो॒घमे॒तद्यत्क॒पोतः॑ प॒दम॒ग्नौ कृ॒णोति॑ |",
+        "यस्य॑ दू॒तः प्रहि॑त ए॒ष ए॒तत्तस्मै᳚ य॒माय॒ नमो᳚, अस्तु मृ॒त्यवे᳚ ||"
+      ],
+      "pre_splits": [
+        "यत्",
+        "उलू᳚कः",
+        "वद॑ति",
+        "मो॒घ‌म्",
+        "ए॒तत्",
+        "यत्",
+        "क॒पोतः॑",
+        "प॒द‌म्",
+        "अ॒ग्नौ",
+        "कृ॒णोति॑",
+        "यस्य॑",
+        "दू॒तः",
+        "प्रऽहि॑तः",
+        "ए॒षः",
+        "ए॒तत्",
+        "तस्मै᳚",
+        "य॒माय॑",
+        "नमः॑",
+        "अ॒स्तु॒",
+        "मृ॒त्यवे᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "If / That which",
+          "meaning_kn": "ಯಾವಾಗ / ಯಾವುದು"
+        },
+        {
+          "pada_original": "उलू᳚कः",
+          "pada_kn": "ಉಲೂಕಃ",
+          "meaning_en": "an owl",
+          "meaning_kn": "ಗೂಬೆ"
+        },
+        {
+          "pada_original": "वद॑ति",
+          "pada_kn": "ವದತಿ",
+          "meaning_en": "speaks / hoots",
+          "meaning_kn": "ಮಾತನಾಡುತ್ತದೆ / ಕೂಗುತ್ತದೆ"
+        },
+        {
+          "pada_original": "मो॒घ‌म्",
+          "pada_kn": "ಮೋಘಮ್",
+          "meaning_en": "in vain / uselessly",
+          "meaning_kn": "ವ್ಯರ್ಥವಾಗಿ / ನಿಷ್ಪ್ರಯೋಜಕವಾಗಿ"
+        },
+        {
+          "pada_original": "ए॒तत्",
+          "pada_kn": "ಏತತ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಇದು"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "if / that which",
+          "meaning_kn": "ಯಾವಾಗ / ಯಾವುದು"
+        },
+        {
+          "pada_original": "क॒पोतः॑",
+          "pada_kn": "ಕಪೋತಃ",
+          "meaning_en": "a pigeon / dove",
+          "meaning_kn": "ಪಾರಿವಾಳ"
+        },
+        {
+          "pada_original": "प॒द‌म्",
+          "pada_kn": "ಪದಮ್",
+          "meaning_en": "footprint / mark",
+          "meaning_kn": "ಹೆಜ್ಜೆಗುರುತು / ಗುರುತು"
+        },
+        {
+          "pada_original": "अ॒ग्नौ",
+          "pada_kn": "ಅಗ್ನೌ",
+          "meaning_en": "in the fire",
+          "meaning_kn": "ಅಗ್ನಿಯಲ್ಲಿ / ಬೆಂಕಿಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "कृ॒णोति॑",
+          "pada_kn": "ಕೃಣೋತಿ",
+          "meaning_en": "makes / places",
+          "meaning_kn": "ಮಾಡುತ್ತದೆ / ಇಡುತ್ತದೆ"
+        },
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "whose",
+          "meaning_kn": "ಯಾರ"
+        },
+        {
+          "pada_original": "दू॒तः",
+          "pada_kn": "ದೂತಃ",
+          "meaning_en": "messenger",
+          "meaning_kn": "ದೂತ"
+        },
+        {
+          "pada_original": "प्रऽहि॑तः",
+          "pada_kn": "ಪ್ರಹಿತಃ",
+          "meaning_en": "sent forth / dispatched",
+          "meaning_kn": "ಕಳುಹಿಸಲ್ಪಟ್ಟ"
+        },
+        {
+          "pada_original": "ए॒षः",
+          "pada_kn": "ಏಷಃ",
+          "meaning_en": "this one",
+          "meaning_kn": "ಇವನು / ಇದು"
+        },
+        {
+          "pada_original": "ए॒तत्",
+          "pada_kn": "ಏತತ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಇದು"
+        },
+        {
+          "pada_original": "तस्मै᳚",
+          "pada_kn": "ತಸ್ಮೈ",
+          "meaning_en": "to him",
+          "meaning_kn": "ಅವನಿಗೆ"
+        },
+        {
+          "pada_original": "य॒माय॑",
+          "pada_kn": "ಯಮಾಯ",
+          "meaning_en": "to Yama (the god of death)",
+          "meaning_kn": "ಯಮದೇವನಿಗೆ"
+        },
+        {
+          "pada_original": "नमः॑",
+          "pada_kn": "ನಮಃ",
+          "meaning_en": "salutation / homage",
+          "meaning_kn": "ನಮಸ್ಕಾರ / ಗೌರವ"
+        },
+        {
+          "pada_original": "अ॒स्तु॒",
+          "pada_kn": "ಅಸ್ತು",
+          "meaning_en": "let it be",
+          "meaning_kn": "ಇರಲಿ"
+        },
+        {
+          "pada_original": "मृ॒त्यवे᳚",
+          "pada_kn": "ಮೃತ್ಯವೇ",
+          "meaning_en": "to Death",
+          "meaning_kn": "ಮೃತ್ಯುವಿಗೆ / ಸಾವಿಗೆ"
+        }
+      ],
+      "full_meaning_en": "If an owl hoots inauspiciously, or if a pigeon leaves its mark in the fire (indicating a bad omen), and if this (bird) is indeed the messenger sent by Yama, then to that Yama, to Death, let our homage be! This mantra acknowledges these inauspicious signs as potential messages from Yama and offers reverence to avert misfortune.",
+      "full_meaning_kn": "ಯಾವಾಗ ಗೂಬೆಯು ವ್ಯರ್ಥವಾಗಿ ಕೂಗುತ್ತದೆಯೋ, ಅಥವಾ ಪಾರಿವಾಳವು ಅಗ್ನಿಯಲ್ಲಿ ತನ್ನ ಗುರುತನ್ನು ಮೂಡಿಸುತ್ತದೆಯೋ (ಇವು ಅಶುಭ ಶಕುನಗಳು), ಮತ್ತು ಇವನು (ಪಾರಿವಾಳ/ಗೂಬೆ) ಯಮನಿಂದ ಕಳುಹಿಸಲ್ಪಟ್ಟ ದೂತನಾಗಿದ್ದರೆ, ಅಂತಹ ಯಮದೇವನಿಗೆ, ಮೃತ್ಯುವಿಗೆ ನಮ್ಮ ನಮಸ್ಕಾರವಿರಲಿ. ಈ ಮಂತ್ರವು ಈ ಅಶುಭ ಚಿಹ್ನೆಗಳನ್ನು ಯಮನಿಂದ ಬಂದ ಸಂದೇಶಗಳಾಗಿ ಗುರುತಿಸಿ, ದುರದೃಷ್ಟವನ್ನು ತಪ್ಪಿಸಲು ಗೌರವವನ್ನು ಸಲ್ಲಿಸುತ್ತದೆ.",
+      "rig_time_s": 50.353,
+      "Insight_en": "The unillumined mind's futile chatter, represented by the \"owl's vain cry,\" and impure vital energies attempting to corrupt divine aspiration, symbolized by the \"pigeon's mark upon Agni (अग्नि),\" are profound inner indications. These subtle signs are messengers from Yama (यम), the divine principle of self-regulation and inner discipline. Homage offered to Yama and Mrityu (मृत्यु) signifies conscious surrender to the inevitable dissolution of egoic limitations and the lower nature. This acceptance facilitates the purification of consciousness, transforming the 'death' of the old into the birth of higher truth, affirming the soul's evolutionary sacrifice.",
+      "Insight_kn": "ಓ! ಅಂತರಂಗದ ಅಜ್ಞಾನಾವೃತ ಮನಸ್ಸಿನ ವ್ಯರ್ಥ ಗೋಚರವೇ \"ಗೂಬೆಯ ಕೂಗು\"; ಅಶುದ್ಧ ಪ್ರಾಣಶಕ್ತಿಗಳು ದೈವಿಕ ಇಚ್ಛಾಶಕ್ತಿಯಾದ ಅಗ್ನಿ (ಅಗ್ನಿ)ಯನ್ನು ಕಲುಷಿತಗೊಳಿಸುವ ಯತ್ನವೇ \"ಪಾರಿವಾಳವು ಅಗ್ನಿಯಲ್ಲಿ ಗುರುತು ಮೂಡಿಸುವುದು\". ಇವು ಯಮ (ಯಮ) ನಿಂದ ಬಂದ ಸೂಕ್ಷ್ಮ ದೂತಗಳು, ಆತ್ಮ-ಶಿಸ್ತಿನ ಮತ್ತು ಪರಿವರ್ತನೆಯ ಆಂತರಿಕ ತತ್ವದ ಸೂಚನೆಗಳು. ಯಮ ಮತ್ತು ಮೃತ್ಯು (ಮೃತ್ಯು) ವಿಗೆ ಸಲ್ಲಿಸುವ ನಮಸ್ಕಾರವು, ಅಹಂಕಾರದ ರಚನೆಗಳು ಮತ್ತು ಕೆಳಮಟ್ಟದ ಸ್ವಭಾವದ ಅನಿವಾರ್ಯ ಲಯಕ್ಕೆ ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಶರಣಾಗತಿಯಾಗಿದೆ. ಈ ಸ್ವೀಕಾರವು ಶುದ್ಧ ಪ್ರಜ್ಞೆಯ ಉನ್ನತಿಗಾಗಿ ಆತ್ಮದ ವಿಕಸನೀಯ ತ್ಯಾಗವನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M10-S165_191-5_5",
+      "mandala": 10,
+      "sukta": 165,
+      "ric_index": 5,
+      "rig_lines": [
+        "ऋ॒चा क॒पोतं᳚ नुदत प्र॒णोद॒मिषं॒ मद᳚न्तः॒ परि॒ गां न॑यध्वम् |",
+        "सं॒यो॒पय᳚न्तो दुरि॒तानि॒ विश्वा᳚ हि॒त्वा न॒ ऊर्जं॒ प्र प॑ता॒त्पति॑ष्ठः ||"
+      ],
+      "pre_splits": [
+        "ऋ॒चा",
+        "क॒पोत᳚‌म्",
+        "नु॒द॒त॒",
+        "प्र॒ऽनोद᳚‌म्",
+        "इष᳚‌म्",
+        "मद᳚न्तः",
+        "परि॑",
+        "गा‌म्",
+        "न॒य॒ध्व॒‌म्",
+        "स॒‌म्ऽयो॒पय᳚न्तः",
+        "दुः॒ऽ‌इ॒तानि॑",
+        "विश्वा᳚",
+        "हि॒त्वा",
+        "नः॒",
+        "ऊर्ज᳚‌म्",
+        "प्र",
+        "प॒ता॒त्",
+        "पति॑ष्ठः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ऋ॒चा",
+          "pada_kn": "ಋಚಾ",
+          "meaning_en": "By the hymn/prayer",
+          "meaning_kn": "ಮಂತ್ರದಿಂದ/ಸ್ತುತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "क॒पोत᳚‌म्",
+          "pada_kn": "ಕಪೋತಮ್",
+          "meaning_en": "The pigeon (ill-omen)",
+          "meaning_kn": "ಪಾರಿವಾಳವನ್ನು/ಅಪಶಕುನವನ್ನು"
+        },
+        {
+          "pada_original": "नु॒द॒त॒",
+          "pada_kn": "ನುದತ",
+          "meaning_en": "Drive away/Expel",
+          "meaning_kn": "ಓಡಿಸಿರಿ/ದೂರಮಾಡಿರಿ"
+        },
+        {
+          "pada_original": "प्र॒ऽनोद᳚‌म्",
+          "pada_kn": "ಪ್ರನೋದಮ್",
+          "meaning_en": "The expeller (of misfortune)",
+          "meaning_kn": "ಅಪಶಕುನವನ್ನು ಓಡಿಸುವವನನ್ನು"
+        },
+        {
+          "pada_original": "इष᳚‌म्",
+          "pada_kn": "ಇಷಮ್",
+          "meaning_en": "Food/Sustenance",
+          "meaning_kn": "ಆಹಾರವನ್ನು/ಪೋಷಣೆಯನ್ನು"
+        },
+        {
+          "pada_original": "मद᳚न्तः",
+          "pada_kn": "ಮದನ್ತಃ",
+          "meaning_en": "Rejoicing/Delighting",
+          "meaning_kn": "ಸಂತೋಷಪಡುತ್ತಾ/ಆನಂದಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "Around/About",
+          "meaning_kn": "ಸುತ್ತಲೂ"
+        },
+        {
+          "pada_original": "गा‌म्",
+          "pada_kn": "ಗಾಮ್",
+          "meaning_en": "The cow (prosperity)",
+          "meaning_kn": "ಹಸುವನ್ನು/ಸಮೃದ್ಧಿಯನ್ನು"
+        },
+        {
+          "pada_original": "न॒य॒ध्व॒‌म्",
+          "pada_kn": "ನಯಧ್ವಮ್",
+          "meaning_en": "Lead/Bring",
+          "meaning_kn": "ಕರೆತನ್ನಿರಿ/ನಡೆಸಿರಿ"
+        },
+        {
+          "pada_original": "स॒‌म्ऽयो॒पय᳚न्तः",
+          "pada_kn": "ಸಂಯೋಪಯನ್ತಃ",
+          "meaning_en": "Destroying/Causing to disappear",
+          "meaning_kn": "ನಾಶಮಾಡುತ್ತಾ/ಅಳಿಸಿಹಾಕುತ್ತಾ"
+        },
+        {
+          "pada_original": "दुः॒ऽ‌इ॒तानि॑",
+          "pada_kn": "ದುರಿತಾನಿ",
+          "meaning_en": "Evils/Misfortunes",
+          "meaning_kn": "ದುಷ್ಟಕಾರ್ಯಗಳನ್ನು/ದುರದೃಷ್ಟಗಳನ್ನು"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "All/Entire",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "हि॒त्वा",
+          "pada_kn": "ಹಿತ್ವಾ",
+          "meaning_en": "Having abandoned/Left behind",
+          "meaning_kn": "ತ್ಯಜಿಸಿ/ಬಿಟ್ಟುಬಿಟ್ಟು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Us/For us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "ऊर्ज᳚‌म्",
+          "pada_kn": "ಊರ್ಜಮ್",
+          "meaning_en": "Strength/Vigour",
+          "meaning_kn": "ಶಕ್ತಿಯನ್ನು/ಬಲವನ್ನು"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "Forth/Away",
+          "meaning_kn": "ಮುಂದೆ/ದೂರ"
+        },
+        {
+          "pada_original": "प॒ता॒त्",
+          "pada_kn": "ಪತಾತ್",
+          "meaning_en": "May it fly/Fall",
+          "meaning_kn": "ಹಾರಲಿ/ಬೀಳಲಿ"
+        },
+        {
+          "pada_original": "पति॑ष्ठः",
+          "pada_kn": "ಪತಿಷ್ಠಃ",
+          "meaning_en": "The best flyer/Swiftest",
+          "meaning_kn": "ಅತ್ಯುತ್ತಮವಾಗಿ ಹಾರುವವನು/ಅತ್ಯಂತ ವೇಗವಾಗಿ ಹೋಗುವವನು"
+        }
+      ],
+      "full_meaning_en": "By this hymn, drive away the pigeon, the expeller of misfortune. Rejoicing in food, lead the cow around (for prosperity). Destroying all evils, having left them behind, may the swiftest (pigeon) fly far away from us, leaving strength for us.",
+      "full_meaning_kn": "ಓ ಮಂತ್ರದಿಂದ, ಅಪಶಕುನವನ್ನು ದೂರಮಾಡುವ ಪಾರಿವಾಳವನ್ನು ಓಡಿಸಿರಿ. ಆಹಾರದಲ್ಲಿ ಸಂತೋಷಪಡುತ್ತಾ, ಹಸುವನ್ನು (ಸಮೃದ್ಧಿಗಾಗಿ) ಸುತ್ತಲೂ ಕರೆತನ್ನಿರಿ. ಎಲ್ಲಾ ದುಷ್ಟಕಾರ್ಯಗಳನ್ನು ನಾಶಮಾಡುತ್ತಾ, ಅವುಗಳನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟು, ಅತ್ಯಂತ ವೇಗವಾಗಿ ಹಾರುವ (ಪಾರಿವಾಳವು) ನಮ್ಮಿಂದ ದೂರ ಹಾರಲಿ, ನಮಗೆ ಶಕ್ತಿಯನ್ನು ಬಿಟ್ಟುಹೋಗಲಿ.",
+      "rig_time_s": 65.894,
+      "Insight_en": "The divine vibration, Ṛcā (ऋचा), awakens the inner being to dispel the fleeting impulses of doubt and discord, Kapota (कपोत), which obstruct the higher consciousness. Through the joy of spiritual sustenance, the aspirant must lead the Cow of Light, Go (गो), allowing its knowledge to permeate every facet of existence. This deliberate act annihilates all obstructing inner darkness, Durita (दुरित), ensuring that the swiftly departing residue of lower influences leaves behind only pure spiritual Urja (ऊर्ज), the vital strength for ascent. Thus, the inner space is cleansed, making way for integral illumination and power.",
+      "Insight_kn": "ಓ ಋಚಾ (ऋचा) ಎಂಬ ದಿವ್ಯವಾಣಿಯು ಅಂತಃಕರಣವನ್ನು ಜಾಗೃತಗೊಳಿಸಿ, ಉನ್ನತ ಪ್ರಜ್ಞೆಗೆ ಅಡ್ಡಿಯಾಗುವ ಸಂಶಯ ಮತ್ತು ಅಸಮಂಜಸತೆಯ ಕ್ಷಣಿಕ ಪ್ರೇರಣೆಗಳಾದ ಕಪೋತವನ್ನು (कपोत) ದೂರಮಾಡುತ್ತದೆ. ಆಧ್ಯಾತ್ಮಿಕ ಪೋಷಣೆಯ ಆನಂದದಿಂದ ಸಾಧಕನು ಗೋ (गो) ರೂಪದ ಜ್ಞಾನದ ಬೆಳಕನ್ನು ತನ್ನ ಅಸ್ತಿತ್ವದ ಪ್ರತಿಯೊಂದು ಭಾಗದಲ್ಲೂ ವ್ಯಾಪಿಸುವಂತೆ ಮಾಡಬೇಕು. ಈ ಉದ್ದೇಶಪೂರ್ವಕ ಕ್ರಿಯೆಯು ಎಲ್ಲಾ ಅಂತರ್ಗತ ದುರಿತವನ್ನು (दुरित) ನಾಶಪಡಿಸುತ್ತದೆ, ಕೆಳಮಟ್ಟದ ಪ್ರಭಾವಗಳ ವೇಗದ ನಿರ್ಗಮನದಿಂದ ಶುದ್ಧ ಆಧ್ಯಾತ್ಮಿಕ ಊರ್ಜಾ (ऊर्जा) – ಅಂದರೆ, ಆರೋಹಣಕ್ಕೆ ಬೇಕಾದ ಪ್ರಬಲ ಶಕ್ತಿ – ಮಾತ್ರ ಉಳಿಯುತ್ತದೆ. ಹೀಗೆ, ಆಂತರಿಕ ಕ್ಷೇತ್ರವು ಶುದ್ಧವಾಗಿ, ಸಮಗ್ರ ಜ್ಞಾನೋದಯ ಮತ್ತು ಶಕ್ತಿಗೆ ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}
