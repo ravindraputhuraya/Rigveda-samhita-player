@@ -1,0 +1,895 @@
+{
+  "mandala": 1,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M1-S154_191-1_6",
+      "mandala": 1,
+      "sukta": 154,
+      "ric_index": 1,
+      "rig_lines": [
+        "विष्णो॒र्नु कं᳚ वी॒र्या᳚णि॒ प्र वो᳚चं॒ यः पार्थि॑वानि विम॒मे रजां᳚सि |",
+        "यो, अस्क॑भाय॒दुत्त॑रं स॒धस्थं᳚ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ||"
+      ],
+      "pre_splits": [
+        "विष्णोः᳚",
+        "नु",
+        "क॒‌म्",
+        "वी॒र्या᳚णि",
+        "प्र",
+        "वो॒च॒‌म्",
+        "यः",
+        "पार्थि॑वानि",
+        "वि॒ऽम॒मे",
+        "रजां᳚सि",
+        "यः",
+        "अस्क॑भायत्",
+        "उत्ऽत॑र‌म्",
+        "स॒धऽस्थ᳚‌म्",
+        "वि॒ऽच॒क्र॒मा॒णः",
+        "त्रे॒धा",
+        "ऊ॒रु॒ऽगा॒यः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "विष्णोः᳚",
+          "pada_kn": "ವಿಷ್ಣೋಃ",
+          "meaning_en": "Of Vishnu",
+          "meaning_kn": "ವಿಷ್ಣುವಿನ"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "indeed",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "क॒‌म्",
+          "pada_kn": "ಕಮ್",
+          "meaning_en": "certainly (an emphatic particle)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿ"
+        },
+        {
+          "pada_original": "वी॒र्या᳚णि",
+          "pada_kn": "ವೀರ್ಯಾಣಿ",
+          "meaning_en": "heroic deeds",
+          "meaning_kn": "ಪರಾಕ್ರಮಗಳು/ಶೌರ್ಯಗಳು"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth/fully",
+          "meaning_kn": "ಮುಂದೆ/ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "वो॒च॒‌म्",
+          "pada_kn": "ವೋಚಮ್",
+          "meaning_en": "I declare/I proclaim",
+          "meaning_kn": "ನಾನು ಘೋಷಿಸುತ್ತೇನೆ/ಹೇಳುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "पार्थि॑वानि",
+          "pada_kn": "ಪಾರ್ಥಿವಾನಿ",
+          "meaning_en": "earthly",
+          "meaning_kn": "ಭೂಮಿಯ/ಪಾರ್ಥಿವವಾದ"
+        },
+        {
+          "pada_original": "वि॒ऽम॒मे",
+          "pada_kn": "ವಿಮಮೇ",
+          "meaning_en": "measured out/spread out",
+          "meaning_kn": "ಅಳತೆ ಮಾಡಿದ/ವ್ಯಾಪಿಸಿದ"
+        },
+        {
+          "pada_original": "रजां᳚सि",
+          "pada_kn": "ರಜಾಂಸಿ",
+          "meaning_en": "regions/worlds",
+          "meaning_kn": "ಲೋಕಗಳು/ಪ್ರದೇಶಗಳು"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "अस्क॑भायत्",
+          "pada_kn": "ಅಸ್ಕಭಾಯತ್",
+          "meaning_en": "propped up/supported",
+          "meaning_kn": "ಆಧಾರವಾಗಿ ನಿಲ್ಲಿಸಿದ/ಭದ್ರಪಡಿಸಿದ"
+        },
+        {
+          "pada_original": "उत्ऽत॑र‌म्",
+          "pada_kn": "ಉತ್ತರಮ್",
+          "meaning_en": "upper",
+          "meaning_kn": "ಮೇಲಿನ"
+        },
+        {
+          "pada_original": "स॒धऽस्थ᳚‌म्",
+          "pada_kn": "ಸಧಸ್ಥಮ್",
+          "meaning_en": "dwelling place/abode",
+          "meaning_kn": "ವಾಸಸ್ಥಾನ/ಲೋಕ"
+        },
+        {
+          "pada_original": "वि॒ऽच॒क्र॒मा॒णः",
+          "pada_kn": "ವಿಚಕ್ರಮಾಣಃ",
+          "meaning_en": "striding/stepping",
+          "meaning_kn": "ಹೆಜ್ಜೆ ಹಾಕುತ್ತಾ/ಹೆಜ್ಜೆ ಇಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "त्रे॒धा",
+          "pada_kn": "ತ್ರೇಧಾ",
+          "meaning_en": "in three ways/threefold",
+          "meaning_kn": "ಮೂರು ವಿಧವಾಗಿ/ಮೂರು ಹೆಜ್ಜೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ऊ॒रु॒ऽगा॒यः",
+          "pada_kn": "ಊರುಗಾಯಃ",
+          "meaning_en": "wide-striding/widely praised",
+          "meaning_kn": "ವಿಶಾಲವಾಗಿ ಹೆಜ್ಜೆ ಹಾಕುವವನು/ವ್ಯಾಪಕವಾಗಿ ಸ್ತುತಿಸಲ್ಪಟ್ಟವನು"
+        }
+      ],
+      "full_meaning_en": "Verily, I shall now proclaim the valorous exploits of Vishnu, He who measured out the terrestrial realms and the spaces. He who, striding widely, supported the supreme abode, He whose expansive stride encompasses the threefold universe.",
+      "full_meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ, ನಾನು ಈಗ ವಿಷ್ಣುವಿನ ಪರಾಕ್ರಮದ ಕಾರ್ಯಗಳನ್ನು ಘೋಷಿಸುತ್ತೇನೆ, ಅವನು ಭೂಲೋಕದ ಕ್ಷೇತ್ರಗಳು ಮತ್ತು ಸ್ಥಳಗಳನ್ನು ಅಳೆದನು. ಅವನು, ಅಗಲವಾಗಿ ಹೆಜ್ಜೆ ಹಾಕುತ್ತಾ, ಸರ್ವೋಚ್ಚ ನಿವಾಸವನ್ನು ಬೆಂಬಲಿಸಿದನು, ಅವನ ವಿಸ್ತಾರವಾದ ಹೆಜ್ಜೆ ಮೂರು ಪಟ್ಟು ಬ್ರಹ್ಮಾಂಡವನ್ನು ಒಳಗೊಂಡಿದೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "Viṣṇu’s stride represents the all-pervading nature of consciousness. His three steps – earth, atmosphere, and heaven – symbolize the complete manifestation of the divine within creation. This expansive movement reflects the unfolding of potential into actuality, illustrating how the transcendent (Viṣṇu) permeates and supports the immanent world. By contemplating Viṣṇu's strides, one can recognize the presence of the divine in every aspect of existence and strive to embody that vastness within oneself.",
+      "Insight_kn": "ವಿಷ್ಣುವಿನ ಹೆಜ್ಜೆ ಪ್ರಜ್ಞೆಯ ಸರ್ವವ್ಯಾಪಿ ಸ್ವರೂಪವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅವನ ಮೂರು ಹೆಜ್ಜೆಗಳು - ಭೂಮಿ, ವಾತಾವರಣ ಮತ್ತು ಸ್ವರ್ಗ - ಸೃಷ್ಟಿಯಲ್ಲಿ ದೈವಿಕತೆಯ ಸಂಪೂರ್ಣ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಈ ವಿಸ್ತಾರವಾದ ಚಲನೆಯು ಸಂಭಾವ್ಯತೆಯು ವಾಸ್ತವಕ್ಕೆ ತೆರೆದುಕೊಳ್ಳುವುದನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ಅತೀಂದ್ರಿಯ (ವಿಷ್ಣು) ಹೇಗೆ ಆಂತರಿಕ ಜಗತ್ತನ್ನು ವ್ಯಾಪಿಸುತ್ತದೆ ಮತ್ತು ಬೆಂಬಲಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ವಿವರಿಸುತ್ತದೆ. ವಿಷ್ಣುವಿನ ಹೆಜ್ಜೆಗಳನ್ನು ಧ್ಯಾನಿಸುವುದರ ಮೂಲಕ, ಪ್ರತಿಯೊಂದು ಅಸ್ತಿತ್ವದ ಅಂಶದಲ್ಲಿ ದೈವಿಕತೆಯ ಉಪಸ್ಥಿತಿಯನ್ನು ಗುರುತಿಸಬಹುದು ಮತ್ತು ಆ ವಿಶಾಲತೆಯನ್ನು ತನ್ನಲ್ಲಿಯೇ ಸಾಕಾರಗೊಳಿಸಲು ಪ್ರಯತ್ನಿಸಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S154_191-2_6",
+      "mandala": 1,
+      "sukta": 154,
+      "ric_index": 2,
+      "rig_lines": [
+        "प्र तद्‌ विष्णुः॑ स्तवते वी॒र्ये᳚ण मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः |",
+        "यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा᳚ ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "तत्",
+        "विष्णुः॑",
+        "स्त॒व॒ते॒",
+        "वी॒र्ये᳚ण",
+        "मृ॒गः",
+        "न",
+        "भी॒मः",
+        "कु॒च॒रः",
+        "गि॒रि॒ऽस्थाः",
+        "यस्य॑",
+        "उ॒रुषु॑",
+        "त्रि॒षु",
+        "वि॒ऽक्रम॑णेषु",
+        "अ॒धि॒ऽक्षि॒यन्ति॑",
+        "भुव॑नानि",
+        "विश्वा᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / indeed",
+          "meaning_kn": "ಮುಂದೆ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that (deed/power)",
+          "meaning_kn": "ಆ (ಕಾರ್ಯ/ಶಕ್ತಿ)"
+        },
+        {
+          "pada_original": "विष्णुः॑",
+          "pada_kn": "ವಿಷ್ಣುಃ",
+          "meaning_en": "Vishnu",
+          "meaning_kn": "ವಿಷ್ಣು"
+        },
+        {
+          "pada_original": "स्त॒व॒ते॒",
+          "pada_kn": "ಸ್ತವತೇ",
+          "meaning_en": "is praised / is extolled",
+          "meaning_kn": "ಸ್ತುತಿಸಲ್ಪಡುತ್ತಾನೆ / ಕೊಂಡಾಡಲ್ಪಡುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "वी॒र्ये᳚ण",
+          "pada_kn": "ವೀರ್ಯೇಣ",
+          "meaning_en": "by (his) might / by his heroic deed",
+          "meaning_kn": "(ಅವನ) ಶಕ್ತಿಯಿಂದ / ಪರಾಕ್ರಮದಿಂದ"
+        },
+        {
+          "pada_original": "मृ॒गः",
+          "pada_kn": "ಮೃಗಃ",
+          "meaning_en": "a wild beast (fierce)",
+          "meaning_kn": "ಒಂದು ಕಾಡುಮೃಗ (ಭಯಂಕರವಾದ)"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ದಂತೆ"
+        },
+        {
+          "pada_original": "भी॒मः",
+          "pada_kn": "ಭೀಮಃ",
+          "meaning_en": "terrible / formidable",
+          "meaning_kn": "ಭಯಂಕರವಾದ / ಭೀಕರವಾದ"
+        },
+        {
+          "pada_original": "कु॒च॒रः",
+          "pada_kn": "ಕುಚರಃ",
+          "meaning_en": "roaming freely / moving everywhere",
+          "meaning_kn": "ಎಲ್ಲೆಡೆ ಸಂಚರಿಸುವ / ಸ್ವಚ್ಛಂದವಾಗಿ ತಿರುಗುವ"
+        },
+        {
+          "pada_original": "गि॒रि॒ऽस्थाः",
+          "pada_kn": "ಗಿರಿಸ್ಥಾಃ",
+          "meaning_en": "dwelling on mountains / mountain-dweller",
+          "meaning_kn": "ಪರ್ವತಗಳಲ್ಲಿ ವಾಸಿಸುವ / ಗಿರಿವಾಸಿ"
+        },
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "whose",
+          "meaning_kn": "ಯಾರ"
+        },
+        {
+          "pada_original": "उ॒रुषु॑",
+          "pada_kn": "ಉರುಷು",
+          "meaning_en": "in the wide / in the great",
+          "meaning_kn": "ವಿಶಾಲವಾದ / ದೊಡ್ಡದಾದ"
+        },
+        {
+          "pada_original": "त्रि॒षु",
+          "pada_kn": "ತ್ರಿಷು",
+          "meaning_en": "three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "वि॒ऽक्रम॑णेषु",
+          "pada_kn": "ವಿಕ್ರಮಣೇಷು",
+          "meaning_en": "in strides / in steps",
+          "meaning_kn": "ಹೆಜ್ಜೆಗಳಲ್ಲಿ / ದಾಪುಗಾಲುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒धि॒ऽक्षि॒यन्ति॑",
+          "pada_kn": "ಅಧಿಕ್ಷಿಯಂತಿ",
+          "meaning_en": "dwell upon / reside",
+          "meaning_kn": "ನೆಲೆಸಿವೆ / ವಾಸಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "भुव॑नानि",
+          "pada_kn": "ಭುವನಾನಿ",
+          "meaning_en": "worlds / beings",
+          "meaning_kn": "ಲೋಕಗಳು / ಪ್ರಾಣಿಗಳು"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all / entire",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        }
+      ],
+      "full_meaning_en": "Verily, Vishnu is extolled for that valorous exploit, like a formidable beast, wandering at will, abiding in the mountains. Within whose three vast strides, all the worlds find their dwelling.",
+      "full_meaning_kn": "ನಿಶ್ಚಯವಾಗಿಯೂ, ವಿಷ್ಣುವು ಆ ಶೌರ್ಯದ ಸಾಹಸಕ್ಕಾಗಿ ಕೀರ್ತಿಸಲ್ಪಡುತ್ತಾನೆ, ಭಯಾನಕ ಮೃಗದಂತೆ, ಸ್ವಚ್ಛಂದವಾಗಿ ಅಲೆಯುತ್ತಾ, ಪರ್ವತಗಳಲ್ಲಿ ನೆಲೆಸುತ್ತಾನೆ. ಯಾರ ಮೂರು ವಿಸ್ತಾರವಾದ ಹೆಜ್ಜೆಗಳಲ್ಲಿ, ಎಲ್ಲಾ ಲೋಕಗಳು ತಮ್ಮ ವಾಸಸ್ಥಾನವನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತವೆ.",
+      "rig_time_s": 15.08,
+      "Insight_en": "Viṣṇu's strides represent the all-pervading nature of consciousness. These three steps can be interpreted as the gross, subtle, and causal states of existence, encompassing the waking, dreaming, and deep sleep states. The 'worlds residing' within these strides signify that all phenomena are contained within the Self. The 'mountain-dwelling beast' alludes to the untamed, powerful, and limitless nature of the divine within, untouched by worldly constraints, residing in the elevated state of pure awareness. Realizing this all-encompassing nature is the ultimate liberation.",
+      "Insight_kn": "ವಿಷ್ಣುವಿನ ಹೆಜ್ಜೆಗಳು ಪ್ರಜ್ಞೆಯ ಸರ್ವವ್ಯಾಪಕ ಸ್ವರೂಪವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಈ ಮೂರು ಹೆಜ್ಜೆಗಳನ್ನು ಸ್ಥೂಲ, ಸೂಕ್ಷ್ಮ ಮತ್ತು ಕಾರಣ ಸ್ಥಿತಿಗಳಾಗಿ ಅರ್ಥೈಸಬಹುದು, ಇದು ಜಾಗೃತ, ಕನಸು ಮತ್ತು ಆಳವಾದ ನಿದ್ರೆಯ ಸ್ಥಿತಿಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಈ ಹೆಜ್ಜೆಗಳಲ್ಲಿ 'ನೆಲೆಸಿರುವ ಲೋಕಗಳು' ಎಲ್ಲಾ ವಿದ್ಯಮಾನಗಳು ಸ್ವಯಂನಲ್ಲಿವೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. 'ಪರ್ವತದಲ್ಲಿ ವಾಸಿಸುವ ಮೃಗ'ವು ಪ್ರಾಪಂಚಿಕ ನಿರ್ಬಂಧಗಳಿಂದ ಮುಟ್ಟಲಾಗದ, ಶುದ್ಧ ಅರಿವಿನ ಉನ್ನತ ಸ್ಥಿತಿಯಲ್ಲಿ ನೆಲೆಸಿರುವ ದೈವಿಕದ ಅನಿಯಂತ್ರಿತ, ಶಕ್ತಿಯುತ ಮತ್ತು ಅನಂತ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಎಲ್ಲವನ್ನೂ ಒಳಗೊಂಡಿರುವ ಸ್ವರೂಪವನ್ನು ಅರಿತುಕೊಳ್ಳುವುದು ಅಂತಿಮ ವಿಮೋಚನೆಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S154_191-3_6",
+      "mandala": 1,
+      "sukta": 154,
+      "ric_index": 3,
+      "rig_lines": [
+        "प्र विष्ण॑वे शू॒षमे᳚तु॒ मन्म॑ गिरि॒क्षित॑ उरुगा॒याय॒ वृष्णे᳚ |",
+        "य इ॒दं दी॒र्घं प्रय॑तं स॒धस्थ॒मेको᳚ विम॒मे त्रि॒भिरित्‌ प॒देभिः॑ ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "विष्ण॑वे",
+        "शू॒ष‌म्",
+        "ए॒तु॒",
+        "मन्म॑",
+        "गि॒रि॒ऽक्षिते᳚",
+        "उ॒रु॒ऽगा॒याय॑",
+        "वृष्णे᳚",
+        "यः",
+        "इ॒द‌म्",
+        "दी॒र्घ‌म्",
+        "प्रऽय॑त‌म्",
+        "स॒धऽस्थ᳚‌म्",
+        "एकः॑",
+        "वि॒ऽम॒मे",
+        "त्रि॒ऽभिः",
+        "इत्",
+        "प॒देऽभिः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "विष्ण॑वे",
+          "pada_kn": "ವಿಷ್ಣವೇ",
+          "meaning_en": "to Vishnu",
+          "meaning_kn": "ವಿಷ್ಣುವಿಗೆ"
+        },
+        {
+          "pada_original": "शू॒ष‌म्",
+          "pada_kn": "ಶೂಷಮ್",
+          "meaning_en": "strength / praise",
+          "meaning_kn": "ಬಲ / ಸ್ತುತಿ"
+        },
+        {
+          "pada_original": "ए॒तु॒",
+          "pada_kn": "ಏತು",
+          "meaning_en": "let it go / let it reach",
+          "meaning_kn": "ಅದು ಹೋಗಲಿ / ತಲುಪಲಿ"
+        },
+        {
+          "pada_original": "मन्म॑",
+          "pada_kn": "ಮನ್ಮ",
+          "meaning_en": "thought / hymn / prayer",
+          "meaning_kn": "ಚಿಂತನೆ / ಸ್ತುತಿ / ಪ್ರಾರ್ಥನೆ"
+        },
+        {
+          "pada_original": "गि॒रि॒ऽक्षिते᳚",
+          "pada_kn": "ಗಿರಿಕ್ಷಿತೇ",
+          "meaning_en": "dwelling on the mountain / mountain-dweller",
+          "meaning_kn": "ಪರ್ವತದಲ್ಲಿ ವಾಸಿಸುವವನಿಗೆ"
+        },
+        {
+          "pada_original": "उ॒रु॒ऽगा॒याय॑",
+          "pada_kn": "ಉರುಗಾಯಾಯ",
+          "meaning_en": "wide-striding / far-striding",
+          "meaning_kn": "ವಿಶಾಲವಾಗಿ ಹೆಜ್ಜೆ ಹಾಕುವವನಿಗೆ"
+        },
+        {
+          "pada_original": "वृष्णे᳚",
+          "pada_kn": "ವೃಷ್ಣೇ",
+          "meaning_en": "to the strong / to the potent one",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿ / ವರಗಳನ್ನು ಸುರಿಸುವವನಿಗೆ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "इ॒द‌म्",
+          "pada_kn": "ಇದಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ"
+        },
+        {
+          "pada_original": "दी॒र्घ‌म्",
+          "pada_kn": "ದೀರ್ಘಮ್",
+          "meaning_en": "long / vast",
+          "meaning_kn": "ಉದ್ದವಾದ / ವಿಶಾಲವಾದ"
+        },
+        {
+          "pada_original": "प्रऽय॑त‌म्",
+          "pada_kn": "ಪ್ರಯತಮ್",
+          "meaning_en": "extended / stretched out",
+          "meaning_kn": "ವಿಸ್ತರಿಸಿದ / ಹರಡಿದ"
+        },
+        {
+          "pada_original": "स॒धऽस्थ᳚‌म्",
+          "pada_kn": "ಸಧಸ್ಥಮ್",
+          "meaning_en": "common dwelling / space / world",
+          "meaning_kn": "ಸಾಮಾನ್ಯ ನಿವಾಸ / ಲೋಕ / ಸ್ಥಳ"
+        },
+        {
+          "pada_original": "एकः॑",
+          "pada_kn": "ಏಕಃ",
+          "meaning_en": "alone / single",
+          "meaning_kn": "ಒಬ್ಬನೇ / ಏಕೈಕನು"
+        },
+        {
+          "pada_original": "वि॒ऽम॒मे",
+          "pada_kn": "ವಿಮಮೇ",
+          "meaning_en": "measured / traversed",
+          "meaning_kn": "ಅಳತೆ ಮಾಡಿದ / ವ್ಯಾಪಿಸಿದ"
+        },
+        {
+          "pada_original": "त्रि॒ऽभिः",
+          "pada_kn": "ತ್ರಿಭಿಃ",
+          "meaning_en": "with three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / only",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಮಾತ್ರ"
+        },
+        {
+          "pada_original": "प॒देऽभिः॑",
+          "pada_kn": "ಪದೇಭಿಃ",
+          "meaning_en": "with steps / with strides",
+          "meaning_kn": "ಹೆಜ್ಜೆಗಳಿಂದ"
+        }
+      ],
+      "full_meaning_en": "Let this powerful hymn ascend to Vishnu, He who dwells in the mountains, the far-striding, the mighty one, who single-handedly measured this vast and expansive universe with His three mighty strides.",
+      "full_meaning_kn": "ಪರ್ವತವಾಸಿಯಾದ, ದೂರಗಾಮಿಯಾದ, ಶಕ್ತಿಯುತನಾದ ವಿಷ್ಣುವಿಗೆ ಈ ಬಲಶಾಲಿಯಾದ ಸ್ತೋತ್ರವು ಏರಲಿ. ಅವನು ಒಬ್ಬಂಟಿಗನಾಗಿ ತನ್ನ ಮೂರು ಬಲಿಷ್ಠ ಹೆಜ್ಜೆಗಳಿಂದ ಈ ವಿಶಾಲವಾದ ಮತ್ತು ವಿಸ್ತಾರವಾದ ಜಗತ್ತನ್ನು ಅಳೆದನು.",
+      "rig_time_s": 28.687,
+      "Insight_en": "Viṣṇu's three strides represent the all-pervading nature of the divine consciousness. These strides symbolize the manifestation of the universe across the physical, subtle, and causal realms. The hymn underscores the immanence and transcendence of the divine, suggesting that the divine permeates all existence while remaining beyond comprehension. The 'mountain-dweller' epithet hints at the stability and unwavering nature of Viṣṇu within the ever-changing cosmic dance, anchoring consciousness in eternal truth. He measures the immeasurable, bringing order to chaos.",
+      "Insight_kn": "ವಿಷ್ಣುವಿನ ಮೂರು ಹೆಜ್ಜೆಗಳು ದೈವಿಕ ಪ್ರಜ್ಞೆಯು ಎಲ್ಲೆಡೆ ವ್ಯಾಪಿಸಿರುವ ಸ್ವರೂಪವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಈ ಹೆಜ್ಜೆಗಳು ಭೌತಿಕ, ಸೂಕ್ಷ್ಮ ಮತ್ತು ಕಾರಣ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶ್ವದ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಸ್ತೋತ್ರವು ದೈವತ್ವದ ಅಂತರ್ಗತ ಮತ್ತು ಶ್ರೇಷ್ಠತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ದೈವವು ಎಲ್ಲಾ ಅಸ್ತಿತ್ವದಲ್ಲಿಯೂ ವ್ಯಾಪಿಸಿದೆ ಮತ್ತು ಗ್ರಹಿಕೆಗೆ ಮೀರಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. 'ಪರ್ವತವಾಸಿ' ಎಂಬ ಬಿರುದು ಸದಾ ಬದಲಾಗುವ ಕಾಸ್ಮಿಕ್ ನೃತ್ಯದಲ್ಲಿ ವಿಷ್ಣುವಿನ ಸ್ಥಿರತೆ ಮತ್ತು ಅಚಲ ಸ್ವಭಾವವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಶಾಶ್ವತ ಸತ್ಯದಲ್ಲಿ ಪ್ರಜ್ಞೆಯನ್ನು ಸ್ಥಾಪಿಸುತ್ತದೆ. ಅವನು ಅಳತೆ ಮಾಡಲಾಗದ್ದನ್ನು ಅಳೆಯುತ್ತಾನೆ, ಅವ್ಯವಸ್ಥೆಗೆ ವ್ಯವಸ್ಥೆಯನ್ನು ತರುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S154_191-4_6",
+      "mandala": 1,
+      "sukta": 154,
+      "ric_index": 4,
+      "rig_lines": [
+        "यस्य॒ त्री पू॒र्णा मधु॑ना प॒दान्यक्षी᳚यमाणा स्व॒धया॒ मद᳚न्ति |",
+        "य उ॑ त्रि॒धातु॑ पृथि॒वीमु॒त द्यामेको᳚ दा॒धार॒ भुव॑नानि॒ विश्वा᳚ ||"
+      ],
+      "pre_splits": [
+        "यस्य॑",
+        "त्री",
+        "पू॒र्णा",
+        "मधु॑ना",
+        "प॒दानि॑",
+        "अक्षी᳚यमाणा",
+        "स्व॒धया᳚",
+        "मद᳚न्ति",
+        "यः",
+        "ऊँ॒ इति॑",
+        "त्रि॒ऽधातु॑",
+        "पृ॒थि॒वी‌म्",
+        "उ॒त",
+        "द्या‌म्",
+        "एकः॑",
+        "दा॒धार॑",
+        "भुव॑नानि",
+        "विश्वा᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यस्य॑",
+          "pada_kn": "ಯಸ್ಯ",
+          "meaning_en": "whose",
+          "meaning_kn": "ಯಾರ"
+        },
+        {
+          "pada_original": "त्री",
+          "pada_kn": "ತ್ರೀ",
+          "meaning_en": "three",
+          "meaning_kn": "ಮೂರು"
+        },
+        {
+          "pada_original": "पू॒र्णा",
+          "pada_kn": "ಪೂರ್ಣಾ",
+          "meaning_en": "full",
+          "meaning_kn": "ತುಂಬಿದ"
+        },
+        {
+          "pada_original": "मधु॑ना",
+          "pada_kn": "ಮಧುನಾ",
+          "meaning_en": "with honey/sweetness",
+          "meaning_kn": "ಮಧುವಿನಿಂದ/ಅಮೃತದಿಂದ"
+        },
+        {
+          "pada_original": "प॒दानि॑",
+          "pada_kn": "ಪದಾನಿ",
+          "meaning_en": "steps",
+          "meaning_kn": "ಹೆಜ್ಜೆಗಳು"
+        },
+        {
+          "pada_original": "अक्षी᳚यमाणा",
+          "pada_kn": "ಅಕ್ಷೀಯಮಾಣಾ",
+          "meaning_en": "imperishable",
+          "meaning_kn": "ಕ್ಷಯಿಸದ/ನಾಶವಾಗದ"
+        },
+        {
+          "pada_original": "स्व॒धया᳚",
+          "pada_kn": "ಸ್ವಧಯಾ",
+          "meaning_en": "by inherent power",
+          "meaning_kn": "ಸ್ವಶಕ್ತಿಯಿಂದ/ತನ್ನ ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "मद᳚न्ति",
+          "pada_kn": "ಮದಂತಿ",
+          "meaning_en": "rejoice/are vibrant",
+          "meaning_kn": "ಆನಂದಿಸುತ್ತವೆ/ಪ್ರಕಾಶಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊँ ಇತಿ",
+          "meaning_en": "(particle for emphasis)",
+          "meaning_kn": "(ಒಂದು ನಿಪಾತ)"
+        },
+        {
+          "pada_original": "त्रि॒ऽधातु॑",
+          "pada_kn": "ತ್ರಿಧಾತು",
+          "meaning_en": "three-fold (in nature/aspects)",
+          "meaning_kn": "ಮೂರು ಧಾತುಗಳಿಂದ ಕೂಡಿದ/ತ್ರಿಗುಣಾತ್ಮಕವಾದ"
+        },
+        {
+          "pada_original": "पृ॒थि॒वी‌म्",
+          "pada_kn": "ಪೃಥಿವೀಮ್",
+          "meaning_en": "the earth",
+          "meaning_kn": "ಭೂಮಿಯನ್ನು"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "द्या‌म्",
+          "pada_kn": "ದ್ಯಾಮ್",
+          "meaning_en": "the heaven",
+          "meaning_kn": "ಆಕಾಶವನ್ನು/ದ್ಯುಲೋಕವನ್ನು"
+        },
+        {
+          "pada_original": "एकः॑",
+          "pada_kn": "ಏಕಃ",
+          "meaning_en": "alone/single-handedly",
+          "meaning_kn": "ಒಬ್ಬನೇ/ಏಕನಾಗಿ"
+        },
+        {
+          "pada_original": "दा॒धार॑",
+          "pada_kn": "ದಾದಾರ",
+          "meaning_en": "sustained/held",
+          "meaning_kn": "ಧರಿಸಿದನು/ಹಿಡಿದನು"
+        },
+        {
+          "pada_original": "भुव॑नानि",
+          "pada_kn": "ಭುವನಾನಿ",
+          "meaning_en": "worlds",
+          "meaning_kn": "ಲೋಕಗಳನ್ನು"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲ/ಸಮಸ್ತ"
+        }
+      ],
+      "full_meaning_en": "O Vishnu, whose three steps, replete with ambrosia, un decaying by their own power, exult. He who, in his triple essence, supports the earth and the heavens, and all the worlds.",
+      "full_meaning_kn": "ಓ ವಿಷ್ಣುವೇ, ಯಾರ ಮೂರು ಹೆಜ್ಜೆಗಳು ಅಮೃತದಿಂದ ತುಂಬಿರುತ್ತವೆಯೋ, ತಮ್ಮ ಸ್ವಂತ ಶಕ್ತಿಯಿಂದ ನಾಶವಾಗದೆ ಆನಂದಿಸುತ್ತವೆಯೋ. ಅವರು, ತಮ್ಮ ತ್ರಿವಿಧ ಸಾರದಲ್ಲಿ, ಭೂಮಿ ಮತ್ತು ಸ್ವರ್ಗವನ್ನು ಮತ್ತು ಎಲ್ಲಾ ಲೋಕಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತಾರೆ.",
+      "rig_time_s": 42.186,
+      "Insight_en": "Vishnu's three steps symbolize the traversing of the three realms of existence: the earthly, the atmospheric, and the celestial, each filled with divine essence. These steps represent the all-pervading nature of the divine and its immanence in every aspect of creation. The \"three-fold nature\" (त्रिधातु) alludes to Vishnu's role as the preserver, sustainer, and pervader of all that exists, embodying the energies that maintain cosmic order. Vishnu's act of upholding the earth and heavens signifies the divine support that sustains the universe, ensuring balance and harmony.",
+      "Insight_kn": "ವಿಷ್ಣುವಿನ ಮೂರು ಹೆಜ್ಜೆಗಳು ಅಸ್ತಿತ್ವದ ಮೂರು ಕ್ಷೇತ್ರಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ: ಭೂಮಿಯ, ವಾತಾವರಣದ ಮತ್ತು ಸ್ವರ್ಗೀಯ, ಪ್ರತಿಯೊಂದೂ ದೈವಿಕ ಸಾರದಿಂದ ತುಂಬಿದೆ. ಈ ಹೆಜ್ಜೆಗಳು ದೈವಿಕದ ಸರ್ವವ್ಯಾಪಕ ಸ್ವಭಾವ ಮತ್ತು ಸೃಷ್ಟಿಯ ಪ್ರತಿಯೊಂದು ಅಂಶದಲ್ಲಿ ಅದರ ಅಂತರ್ಗತತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. \"ಮೂರು-ಪಟ್ಟು ಸ್ವಭಾವ\" (त्रिधातु) ವಿಷ್ಣುವಿನ ಪಾತ್ರವನ್ನು ಸಂರಕ್ಷಕ, ಪೋಷಕ ಮತ್ತು ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಎಲ್ಲದರಲ್ಲೂ ವ್ಯಾಪಿಸುವವನಾಗಿ ಸೂಚಿಸುತ್ತದೆ, ಇದು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಕಾಪಾಡುವ ಶಕ್ತಿಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಭೂಮಿ ಮತ್ತು ಸ್ವರ್ಗವನ್ನು ಎತ್ತಿಹಿಡಿಯುವ ವಿಷ್ಣುವಿನ ಕಾರ್ಯವು ಬ್ರಹ್ಮಾಂಡವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವ ದೈವಿಕ ಬೆಂಬಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಸಮತೋಲನ ಮತ್ತು ಸಾಮರಸ್ಯವನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S154_191-5_6",
+      "mandala": 1,
+      "sukta": 154,
+      "ric_index": 5,
+      "rig_lines": [
+        "तद॑स्य प्रि॒यम॒भि पाथो᳚, अश्यां॒ नरो॒ यत्र॑ देव॒यवो॒ मद᳚न्ति |",
+        "उ॒रु॒क्र॒मस्य॒ स हि बन्धु॑रि॒त्था विष्णोः᳚ प॒दे प॑र॒मे मध्व॒ उत्सः॑ ||"
+      ],
+      "pre_splits": [
+        "तत्",
+        "अ॒स्य॒",
+        "प्रि॒य‌म्",
+        "अ॒भि",
+        "पाथः॑",
+        "अ॒श्या॒‌म्",
+        "नरः॑",
+        "यत्र॑",
+        "दे॒व॒ऽयवः॑",
+        "मद᳚न्ति",
+        "उ॒रु॒ऽक्र॒मस्य॑",
+        "सः",
+        "हि",
+        "बन्धुः॑",
+        "इ॒त्था",
+        "विष्णोः᳚",
+        "प॒दे",
+        "प॒र॒मे",
+        "मध्वः॑",
+        "उत्सः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "That",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "Of him (Vishnu)",
+          "meaning_kn": "ಅವನ/ವಿಷ್ಣುವಿನ"
+        },
+        {
+          "pada_original": "प्रि॒य‌म्",
+          "pada_kn": "ಪ್ರಿಯಮ್",
+          "meaning_en": "Beloved / Dear",
+          "meaning_kn": "ಪ್ರಿಯವಾದ/ಇಷ್ಟವಾದ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "Towards / To",
+          "meaning_kn": "ಕಡೆಗೆ/ಸೇರಲು"
+        },
+        {
+          "pada_original": "पाथः॑",
+          "pada_kn": "ಪಾಥಃ",
+          "meaning_en": "Abode / Path",
+          "meaning_kn": "ಸ್ಥಾನ/ಮಾರ್ಗ"
+        },
+        {
+          "pada_original": "अ॒श्या॒‌म्",
+          "pada_kn": "ಅಶ್ಯಾಮ್",
+          "meaning_en": "May I reach / May I attain",
+          "meaning_kn": "ನಾನು ಸೇರಿಕೊಳ್ಳಲಿ/ಪಡೆಯಲಿ"
+        },
+        {
+          "pada_original": "नरः॑",
+          "pada_kn": "ನರಃ",
+          "meaning_en": "Men / People (devotees)",
+          "meaning_kn": "ಮನುಷ್ಯರು/ಭಕ್ತರು"
+        },
+        {
+          "pada_original": "यत्र॑",
+          "pada_kn": "ಯತ್ರ",
+          "meaning_en": "Where",
+          "meaning_kn": "ಎಲ್ಲಿ"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयवः॑",
+          "pada_kn": "ದೇವಯವಃ",
+          "meaning_en": "God-seeking / Devoted to gods",
+          "meaning_kn": "ದೇವಭಕ್ತರು/ದೇವರನ್ನು ಬಯಸುವವರು"
+        },
+        {
+          "pada_original": "मद᳚न्ति",
+          "pada_kn": "ಮದಂತಿ",
+          "meaning_en": "Rejoice / Delight",
+          "meaning_kn": "ಆನಂದಿಸುತ್ತಾರೆ/ಸಂತೋಷಪಡುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "उ॒रु॒ऽक्र॒मस्य॑",
+          "pada_kn": "ಉರುಕ್ರಮಸ್ಯ",
+          "meaning_en": "Of the wide-striding one (Vishnu)",
+          "meaning_kn": "ಮೂರು ಹೆಜ್ಜೆಗಳಿಟ್ಟವನ/ವಿಷ್ಣುವಿನ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "That / He",
+          "meaning_kn": "ಆ/ಅವನು"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "Indeed / Certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ/ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "बन्धुः॑",
+          "pada_kn": "ಬಂಧುಃ",
+          "meaning_en": "Kinsman / Friend / Support",
+          "meaning_kn": "ಬಂಧು/ಮಿತ್ರ/ಆಶ್ರಯ"
+        },
+        {
+          "pada_original": "इ॒त्था",
+          "pada_kn": "ಇತ್ಥಾ",
+          "meaning_en": "Thus / In this manner / Truly",
+          "meaning_kn": "ಹೀಗೆ/ಈ ರೀತಿಯಾಗಿ/ನಿಜವಾಗಿ"
+        },
+        {
+          "pada_original": "विष्णोः᳚",
+          "pada_kn": "ವಿಷ್ಣೋಃ",
+          "meaning_en": "Of Vishnu",
+          "meaning_kn": "ವಿಷ್ಣುವಿನ"
+        },
+        {
+          "pada_original": "प॒दे",
+          "pada_kn": "ಪದೇ",
+          "meaning_en": "In the footstep / In the abode",
+          "meaning_kn": "ಪಾದದಲ್ಲಿ/ಸ್ಥಾನದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "प॒र॒मे",
+          "pada_kn": "ಪರಮೇ",
+          "meaning_en": "Highest / Supreme",
+          "meaning_kn": "ಪರಮವಾದ/ಶ್ರೇಷ್ಠವಾದ"
+        },
+        {
+          "pada_original": "मध्वः॑",
+          "pada_kn": "ಮಧ್ವಃ",
+          "meaning_en": "Of honey / Of sweetness",
+          "meaning_kn": "ಮಧುವಿನ/ಮಧುರತೆಯ"
+        },
+        {
+          "pada_original": "उत्सः॑",
+          "pada_kn": "ಉತ್ಸಃ",
+          "meaning_en": "Spring / Fountain",
+          "meaning_kn": "ಬುಗ್ಗೆ/ಮೂಲ"
+        }
+      ],
+      "full_meaning_en": "May I attain that beloved abode of Vishnu, where god-seeking souls find delight. Verily, that supreme station of the wide-striding Vishnu is a close kinsman, a veritable fountain of divine sweetness.",
+      "full_meaning_kn": "ವಿಷ್ಣುವಿನ ಆ ಪ್ರಿಯವಾದ ಧಾಮವನ್ನು ನಾನು ಪಡೆಯುವಂತಾಗಲಿ, ಎಲ್ಲಿ ದೇವರೆಡೆಗೆ ಮನಸ್ಸನ್ನುಳ್ಳ ಸಾಧಕರು ಆನಂದವನ್ನು ಅನುಭವಿಸುವರೋ. ಖಂಡಿತವಾಗಿಯೂ, ವ್ಯಾಪಕವಾಗಿ ಹೆಜ್ಜೆ ಹಾಕುವ ವಿಷ್ಣುವಿನ ಆ ಪರಮ ಪದವು ನಿಕಟ ಬಂಧುವಿನಂತಿದ್ದು, ದೈವಿಕ ಮಾಧುರ್ಯದ ಬುಗ್ಗೆಯಾಗಿದೆ.",
+      "rig_time_s": 56.892,
+      "Insight_en": "Vishnu's supreme abode represents the ultimate reality, the destination of the soul's journey. The \"god-seeking men\" are those whose minds are purified and directed towards the divine. This state of bliss is not distant but intimately connected to us, like a kinsman. The \"spring of honey\" symbolizes the unending flow of divine grace and bliss that awaits those who dwell in Vishnu's consciousness, reflecting the ānanda (आनन्द) aspect of Brahman.",
+      "Insight_kn": "ವಿಷ್ಣುವಿನ ಪರಮ ಧಾಮವು ಅಂತಿಮ ಸತ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಆತ್ಮದ ಪಯಣದ ಗುರಿಯಾಗಿದೆ. \"ದೇವರನ್ನು ಹುಡುಕುವ ಪುರುಷರು\" ಎಂದರೆ ಯಾರ ಮನಸ್ಸುಗಳು ಶುದ್ಧೀಕರಿಸಲ್ಪಟ್ಟು ದೈವಿಕದ ಕಡೆಗೆ ನಿರ್ದೇಶಿಸಲ್ಪಡುತ್ತವೆಯೋ ಅವರು. ಈ ಆನಂದದ ಸ್ಥಿತಿಯು ದೂರದಲ್ಲಿಲ್ಲ ಆದರೆ ನಮಗೆ ನಿಕಟ ಸಂಬಂಧಿಯಂತೆ ಆಪ್ತವಾಗಿರುತ್ತದೆ. \"ಜೇನುತುಪ್ಪದ ವಸಂತ\"ವು ದೈವಿಕ ಅನುಗ್ರಹ ಮತ್ತು ಆನಂದದ ಅಂತ್ಯವಿಲ್ಲದ ಹರಿವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದು ವಿಷ್ಣುವಿನ ಪ್ರಜ್ಞೆಯಲ್ಲಿ ವಾಸಿಸುವವರಿಗೆ ಕಾಯುತ್ತಿದೆ, ಇದು ಬ್ರಹ್ಮನ ಆನಂದವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S154_191-6_6",
+      "mandala": 1,
+      "sukta": 154,
+      "ric_index": 6,
+      "rig_lines": [
+        "ता वां॒ वास्तू᳚न्युश्मसि॒ गम॑ध्यै॒ यत्र॒ गावो॒ भूरि॑शृङ्गा, अ॒यासः॑ |",
+        "अत्रा ह॒तदु॑रुगा॒यस्य॒ वृष्णः॑ पर॒मं प॒दमव॑ भाति॒ भूरि॑ ||"
+      ],
+      "pre_splits": [
+        "ता",
+        "वा॒‌म्",
+        "वास्तू᳚नि",
+        "उ॒श्म॒सि॒",
+        "गम॑ध्यै",
+        "यत्र॑",
+        "गावः॑",
+        "भूरि॑ऽशृङ्गाः",
+        "अ॒यासः॑",
+        "अत्र॑",
+        "अह॑",
+        "तत्",
+        "उ॒रु॒ऽगा॒यस्य॑",
+        "वृष्णः॑",
+        "प॒र॒म‌म्",
+        "प॒द‌म्",
+        "अव॑",
+        "भा॒ति॒",
+        "भूरि॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ता",
+          "pada_kn": "ತಾ",
+          "meaning_en": "those",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "your (dual)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರ"
+        },
+        {
+          "pada_original": "वास्तू᳚नि",
+          "pada_kn": "ವಾಸ್ತೂನಿ",
+          "meaning_en": "dwelling places / abodes",
+          "meaning_kn": "ವಾಸಸ್ಥಾನಗಳು / ನೆಲೆಗಳು"
+        },
+        {
+          "pada_original": "उ॒श्म॒सि॒",
+          "pada_kn": "ಉಶ್ಮಸಿ",
+          "meaning_en": "we desire",
+          "meaning_kn": "ನಾವು ಬಯಸುತ್ತೇವೆ"
+        },
+        {
+          "pada_original": "गम॑ध्यै",
+          "pada_kn": "ಗಮಧ್ಯೈ",
+          "meaning_en": "to go",
+          "meaning_kn": "ಹೋಗಲು"
+        },
+        {
+          "pada_original": "यत्र॑",
+          "pada_kn": "ಯತ್ರ",
+          "meaning_en": "where",
+          "meaning_kn": "ಎಲ್ಲಿ"
+        },
+        {
+          "pada_original": "गावः॑",
+          "pada_kn": "ಗಾವಃ",
+          "meaning_en": "cows / rays of light",
+          "meaning_kn": "ಗೋವುಗಳು / ಕಿರಣಗಳು"
+        },
+        {
+          "pada_original": "भूरि॑ऽशृङ्गाः",
+          "pada_kn": "ಭೂರಿಶೃಂಗಾಃ",
+          "meaning_en": "having many horns / abundant rays",
+          "meaning_kn": "ಅನೇಕ ಕೊಂಬುಗಳುಳ್ಳ / ಹೇರಳ ಕಿರಣಗಳುಳ್ಳ"
+        },
+        {
+          "pada_original": "अ॒यासः॑",
+          "pada_kn": "ಅಯಾಸಃ",
+          "meaning_en": "moving / active",
+          "meaning_kn": "ಚಲಿಸುವ / ಸಕ್ರಿಯವಾಗಿರುವ"
+        },
+        {
+          "pada_original": "अत्र॑",
+          "pada_kn": "ಅತ್ರ",
+          "meaning_en": "here / there (in that abode)",
+          "meaning_kn": "ಇಲ್ಲಿ / ಅಲ್ಲಿ (ಆ ಧಾಮದಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "अह॑",
+          "pada_kn": "ಅಹ",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that",
+          "meaning_kn": "ಆ"
+        },
+        {
+          "pada_original": "उ॒रु॒ऽगा॒यस्य॑",
+          "pada_kn": "ಉರುಗಾಯಸ್ಯ",
+          "meaning_en": "of the wide-striding (Vishnu)",
+          "meaning_kn": "ವಿಶಾಲವಾಗಿ ಹೆಜ್ಜೆ ಹಾಕುವ (ವಿಷ್ಣುವಿನ)"
+        },
+        {
+          "pada_original": "वृष्णः॑",
+          "pada_kn": "ವೃಷ್ಣಃ",
+          "meaning_en": "of the powerful / bountiful",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿಯಾದ / ವೃಷ್ಟಿಕರ್ತನಾದ"
+        },
+        {
+          "pada_original": "प॒र॒म‌म्",
+          "pada_kn": "ಪರಮಮ್",
+          "meaning_en": "highest / supreme",
+          "meaning_kn": "ಅತ್ಯುನ್ನತವಾದ / ಪರಮವಾದ"
+        },
+        {
+          "pada_original": "प॒द‌म्",
+          "pada_kn": "ಪದಮ್",
+          "meaning_en": "step / abode / state",
+          "meaning_kn": "ಸ್ಥಾನ / ಹೆಜ್ಜೆ / ಪದವಿ"
+        },
+        {
+          "pada_original": "अव॑",
+          "pada_kn": "ಅವ",
+          "meaning_en": "down / forth (indicating manifestation)",
+          "meaning_kn": "ಕೆಳಗೆ / ಹೊರಗೆ (ಪ್ರಕಟವಾಗುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ)"
+        },
+        {
+          "pada_original": "भा॒ति॒",
+          "pada_kn": "ಭಾತಿ",
+          "meaning_en": "shines / appears",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತದೆ / ಕಾಣುತ್ತದೆ"
+        },
+        {
+          "pada_original": "भूरि॑",
+          "pada_kn": "ಭೂರಿ",
+          "meaning_en": "abundantly / greatly",
+          "meaning_kn": "ಹೇರಳವಾಗಿ / ಬಹಳವಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "We yearn to reach those abodes of yours, O Vishnu, where the radiant cows, adorned with myriad horns, roam unhindered. Verily, in that sacred space, the supreme abode of the far-striding, mighty Vishnu shines forth with boundless splendor.",
+      "full_meaning_kn": "ಓ ವಿಷ್ಣುವೇ, ನಿನ್ನ ನಿವಾಸ ಸ್ಥಾನಗಳನ್ನು ನಾವು ತಲುಪಲು ಬಯಸುತ್ತೇವೆ, ಅಲ್ಲಿ ಹೊಳೆಯುವ ಗೋವುಗಳು, ಅಸಂಖ್ಯಾತ ಕೊಂಬುಗಳಿಂದ ಅಲಂಕರಿಸಲ್ಪಟ್ಟವು, ಅಡೆತಡೆಯಿಲ್ಲದೆ ಸಂಚರಿಸುತ್ತವೆ. ಸತ್ಯವಾಗಿ, ಆ ಪವಿತ್ರ ಸ್ಥಳದಲ್ಲಿ, ದೂರಗಾಮಿ, ಬಲಶಾಲಿಯಾದ ವಿಷ್ಣುವಿನ ಪರಮ ಪದವು ಅಪಾರ ವೈಭವದಿಂದ ಬೆಳಗುತ್ತದೆ.",
+      "rig_time_s": 71.116,
+      "Insight_en": "Vishnu's abode represents the highest state of consciousness, where the senses (cows) are not limited but expanded into infinite perception. The 'horns' symbolize the diverse faculties and powers that emerge in this elevated state. The unhindered movement of these 'cows' signifies the freedom from constraints in higher awareness. The 'supreme abode' (paramam padam) reflects the ultimate realization, the source of all existence, shining brilliantly within.",
+      "Insight_kn": "ವಿಷ್ಣುವಿನ ನಿವಾಸವು ಪ್ರಜ್ಞೆಯ ಉನ್ನತ ಸ್ಥಿತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಅಲ್ಲಿ ಇಂದ್ರಿಯಗಳು (ಗೋವುಗಳು) ಸೀಮಿತವಾಗಿಲ್ಲ ಆದರೆ ಅನಂತ ಗ್ರಹಿಕೆಗೆ ವಿಸ್ತರಿಸಲ್ಪಡುತ್ತವೆ. 'ಕೊಂಬುಗಳು' ಈ ಉನ್ನತ ಸ್ಥಿತಿಯಲ್ಲಿ ಹೊರಹೊಮ್ಮುವ ವಿವಿಧ ಸಾಮರ್ಥ್ಯಗಳು ಮತ್ತು ಶಕ್ತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಈ 'ಗೋವುಗಳ' ತಡೆಯಿಲ್ಲದ ಚಲನೆಯು ಉನ್ನತ ಜಾಗೃತಿಯಲ್ಲಿನ ನಿರ್ಬಂಧಗಳಿಂದ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ಪರಮ ಪದವು' ಅಂತಿಮ ಸಾಕ್ಷಾತ್ಕಾರವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ಇದು ಎಲ್ಲಾ ಅಸ್ತಿತ್ವದ ಮೂಲವಾಗಿದೆ, ಒಳಗಿನಿಂದ ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

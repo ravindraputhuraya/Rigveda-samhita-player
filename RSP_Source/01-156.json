@@ -1,0 +1,804 @@
+{
+  "mandala": 1,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M1-S156_191-1_5",
+      "mandala": 1,
+      "sukta": 156,
+      "ric_index": 1,
+      "rig_lines": [
+        "भवा᳚ मि॒त्रो न शेव्यो᳚ घृ॒तासु॑तिर्॒विभू᳚तद्युम्न एव॒या, उ॑ स॒प्रथाः᳚ |",
+        "अधा᳚ ते विष्णो वि॒दुषा᳚ चि॒दर्ध्यः॒ स्तोमो᳚ य॒ज्ञश्च॒ राध्यो᳚ ह॒विष्म॑ता ||"
+      ],
+      "pre_splits": [
+        "भव॑",
+        "मि॒त्रः",
+        "न",
+        "शेव्यः॑",
+        "घृ॒तऽआ᳚सुतिः",
+        "विभू᳚तऽद्युम्नः",
+        "ए॒व॒ऽयाः",
+        "ऊँ॒ इति॑",
+        "स॒ऽप्रथाः᳚",
+        "अध॑",
+        "ते॒",
+        "वि॒ष्णो॒ इति॑",
+        "वि॒दुषा᳚",
+        "चि॒त्",
+        "अर्ध्यः॑",
+        "स्तोमः॑",
+        "य॒ज्ञः",
+        "च॒",
+        "राध्यः॑",
+        "ह॒विष्म॑ता"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "भव॑",
+          "pada_kn": "ಭವಾ",
+          "meaning_en": "become / be",
+          "meaning_kn": "ಆಗು / ಇರು"
+        },
+        {
+          "pada_original": "मि॒त्रः",
+          "pada_kn": "ಮಿತ್ರಃ",
+          "meaning_en": "a friend",
+          "meaning_kn": "ಮಿತ್ರನು / ಸ್ನೇಹಿತನು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "शेव्यः॑",
+          "pada_kn": "ಶೇವ್ಯಃ",
+          "meaning_en": "benevolent / auspicious / to be served",
+          "meaning_kn": "ಶುಭಕರನಾದ / ಸೇವಿಸಲ್ಪಡಬೇಕಾದ"
+        },
+        {
+          "pada_original": "घृ॒तऽआ᳚सुतिः",
+          "pada_kn": "ಘೃತಾಸುತಿಃ",
+          "meaning_en": "one whose libations are ghee / having ghee as offering",
+          "meaning_kn": "ತುಪ್ಪದ ಆಹುತಿಗಳನ್ನು ಹೊಂದಿರುವವನು / ತುಪ್ಪದ ಅರ್ಪಣೆಗಳುಳ್ಳವನು"
+        },
+        {
+          "pada_original": "विभू᳚तऽद्युम्नः",
+          "pada_kn": "ವಿಭೂತದ್ಯುಮ್ನಃ",
+          "meaning_en": "of vast splendor / having great glory",
+          "meaning_kn": "ಮಹಾ ತೇಜಸ್ಸುಳ್ಳವನು / ಅಗಾಧ ಕೀರ್ತಿಯುಳ್ಳವನು"
+        },
+        {
+          "pada_original": "ए॒व॒ऽयाः",
+          "pada_kn": "ಏವಯಾಃ",
+          "meaning_en": "swift-moving / going quickly",
+          "meaning_kn": "ವೇಗವಾಗಿ ಚಲಿಸುವವನು / ಶೀಘ್ರಗಾಮಿ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "and / indeed",
+          "meaning_kn": "ಮತ್ತು / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "स॒ऽप्रथाः᳚",
+          "pada_kn": "ಸಪ್ರಥಾಃ",
+          "meaning_en": "widely renowned / widely extended",
+          "meaning_kn": "ವ್ಯಾಪಕವಾಗಿ ಪ್ರಸಿದ್ಧನಾದ / ವಿಸ್ತಾರವಾದ"
+        },
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "then / now",
+          "meaning_kn": "ಆಗ / ಈಗ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "to you / your",
+          "meaning_kn": "ನಿನಗೆ / ನಿನ್ನ"
+        },
+        {
+          "pada_original": "वि॒ष्णो॒ इति॑",
+          "pada_kn": "ವಿಷ್ಣೋ ಇತಿ",
+          "meaning_en": "O Vishnu",
+          "meaning_kn": "ಓ ವಿಷ್ಣುವೇ"
+        },
+        {
+          "pada_original": "वि॒दुषा᳚",
+          "pada_kn": "ವಿದುಷಾ",
+          "meaning_en": "by the wise / by one who knows",
+          "meaning_kn": "ಜ್ಞಾನಿಗಳಿಂದ / ತಿಳಿದವರಿಂದ"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "even / indeed",
+          "meaning_kn": "ಸಹ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अर्ध्यः॑",
+          "pada_kn": "ಅರ್ಧ್ಯಃ",
+          "meaning_en": "worthy of praise / to be honored",
+          "meaning_kn": "ಸ್ತುತಿಗೆ ಯೋಗ್ಯವಾದ / ಗೌರವಿಸಲ್ಪಡಬೇಕಾದ"
+        },
+        {
+          "pada_original": "स्तोमः॑",
+          "pada_kn": "ಸ್ತೋಮಃ",
+          "meaning_en": "praise / hymn",
+          "meaning_kn": "ಸ್ತೋತ್ರ / ಸ್ತುತಿ"
+        },
+        {
+          "pada_original": "य॒ज्ञः",
+          "pada_kn": "ಯಜ್ಞಃ",
+          "meaning_en": "sacrifice",
+          "meaning_kn": "ಯಜ್ಞ / ಯಾಗ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "राध्यः॑",
+          "pada_kn": "ರಾಧ್ಯಃ",
+          "meaning_en": "to be accomplished / to be perfected",
+          "meaning_kn": "ಸಾಧಿಸಲ್ಪಡಬೇಕಾದ / ಪೂರ್ಣಗೊಳಿಸಲ್ಪಡಬೇಕಾದ"
+        },
+        {
+          "pada_original": "ह॒विष्म॑ता",
+          "pada_kn": "ಹವಿಷ್ಮತಾ",
+          "meaning_en": "by the sacrificer / by one with offerings",
+          "meaning_kn": "ಹವಿಸ್ಸುಳ್ಳವನಿಂದ / ಯಜ್ಞ ಮಾಡುವವನಿಂದ"
+        }
+      ],
+      "full_meaning_en": "O Vishnu, be like a cherished friend, whose oblations are of clarified butter, possessing vast splendor, swift in action, and widely renowned. Therefore, O Vishnu, even by the discerning, your hymn and sacrifice are worthy of reverence, and are to be perfectly accomplished by the one endowed with offerings.",
+      "full_meaning_kn": "ಓ ವಿಷ್ಣುವೇ, ಪ್ರೀತಿಯ ಗೆಳೆಯನಂತೆ ಆಗು, ಅವನ ಅರ್ಪಣೆಗಳು ತುಪ್ಪದಿಂದ ಕೂಡಿದ್ದು, ಅಪಾರವಾದ ತೇಜಸ್ಸನ್ನು ಹೊಂದಿದ್ದು, ಕ್ಷಿಪ್ರಗತಿಯಿಂದ ಚಲಿಸುವ ಮತ್ತು ವ್ಯಾಪಕವಾಗಿ ಪ್ರಸಿದ್ಧವಾಗಿದೆ. ಆದ್ದರಿಂದ, ಓ ವಿಷ್ಣುವೇ, ವಿವೇಚನೆಯುಳ್ಳವರಿಂದಲೂ ಸಹ, ನಿಮ್ಮ ಸ್ತೋತ್ರ ಮತ್ತು ಯಜ್ಞವು ಗೌರವಕ್ಕೆ ಅರ್ಹವಾಗಿದೆ, ಮತ್ತು ಅರ್ಪಣೆಗಳನ್ನು ಹೊಂದಿರುವವರಿಂದ ಅದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸಾಧಿಸಬೇಕು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "Vishnu, in this context, represents the all-pervading consciousness. The call to be like a cherished friend signifies the intimate and accessible nature of the divine. Ghee, the clarified butter, symbolizes the purified intellect and intentions offered in devotion. The hymn and sacrifice, when performed with wisdom, become the means to realize this pervasive consciousness. Only with sincere offerings and a discerning mind can one truly connect with the divine essence within.",
+      "Insight_kn": "ಇಲ್ಲಿ ವಿಷ್ಣುವು ಸರ್ವವ್ಯಾಪಿ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಆತ್ಮೀಯ ಸ್ನೇಹಿತನಂತೆ ಇರಲು ಕರೆ ನೀಡುವಿಕೆಯು ದೈವಿಕದ ನಿಕಟ ಮತ್ತು ಸುಲಭವಾಗಿ ಲಭ್ಯವಿರುವ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ತುಪ್ಪವು ಶುದ್ಧೀಕರಿಸಿದ ಬುದ್ಧಿ ಮತ್ತು ಭಕ್ತಿಯಲ್ಲಿ ಅರ್ಪಿತವಾದ ಉದ್ದೇಶಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸ್ತೋತ್ರ ಮತ್ತು ಯಜ್ಞವನ್ನು ಜ್ಞಾನದಿಂದ ಮಾಡಿದಾಗ, ಈ ವ್ಯಾಪಕ ಪ್ರಜ್ಞೆಯನ್ನು ಅರಿತುಕೊಳ್ಳುವ ಸಾಧನವಾಗುತ್ತದೆ. ಪ್ರಾಮಾಣಿಕ ಅರ್ಪಣೆಗಳು ಮತ್ತು ವಿವೇಚನಾಶೀಲ ಮನಸ್ಸಿನಿಂದ ಮಾತ್ರ ಒಬ್ಬನು ನಿಜವಾಗಿಯೂ ಒಳಗಿನ ದೈವಿಕ ಸಾರವನ್ನು ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S156_191-2_5",
+      "mandala": 1,
+      "sukta": 156,
+      "ric_index": 2,
+      "rig_lines": [
+        "यः पू॒र्व्याय॑ वे॒धसे॒ नवी᳚यसे सु॒मज्जा᳚नये॒ विष्ण॑वे॒ ददा᳚शति |",
+        "यो जा॒तम॑स्य मह॒तो महि॒ ब्रव॒त् सेदु॒ श्रवो᳚भि॒र्युज्यं᳚ चिद॒भ्य॑सत् ||"
+      ],
+      "pre_splits": [
+        "यः",
+        "पू॒र्व्याय॑",
+        "वे॒धसे᳚",
+        "नवी᳚यसे",
+        "सु॒मत्ऽजा᳚नये",
+        "विष्ण॑वे",
+        "ददा᳚शति",
+        "यः",
+        "जा॒त‌म्",
+        "अ॒स्य॒",
+        "म॒ह॒तः",
+        "महि॑",
+        "ब्रव॑त्",
+        "सः",
+        "इत्",
+        "ऊँ॒ इति॑",
+        "श्रवः॑ऽभिः",
+        "युज्य᳚‌म्",
+        "चि॒त्",
+        "अ॒भि",
+        "अ॒स॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who (one who)",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "पू॒र्व्याय॑",
+          "pada_kn": "ಪೂರ್ವಾಯ",
+          "meaning_en": "To the ancient",
+          "meaning_kn": "ಪ್ರಾಚೀನನಾದವನಿಗೆ"
+        },
+        {
+          "pada_original": "वे॒धसे᳚",
+          "pada_kn": "ವೇಧಸೇ",
+          "meaning_en": "To the ordainer / To the creator",
+          "meaning_kn": "ವಿಧಿಸುವವನಿಗೆ / ಸೃಷ್ಟಿಕರ್ತನಿಗೆ"
+        },
+        {
+          "pada_original": "नवी᳚यसे",
+          "pada_kn": "ನವೀಯಸೇ",
+          "meaning_en": "To the newest / To the ever-fresh",
+          "meaning_kn": "ಅತಿ ನೂತನನಾದವನಿಗೆ / ನಿತ್ಯನೂತನನಿಗೆ"
+        },
+        {
+          "pada_original": "सु॒मत्ऽजा᳚नये",
+          "pada_kn": "ಸುಮತ್‌ಜಾನಯೇ",
+          "meaning_en": "To the well-knowing / To the one with good knowledge",
+          "meaning_kn": "ಉತ್ತಮ ಜ್ಞಾನವುಳ್ಳವನಿಗೆ / ಸರ್ವಜ್ಞನಿಗೆ"
+        },
+        {
+          "pada_original": "विष्ण॑वे",
+          "pada_kn": "ವಿಷ್ಣವೇ",
+          "meaning_en": "To Vishnu",
+          "meaning_kn": "ವಿಷ್ಣುವಿಗೆ"
+        },
+        {
+          "pada_original": "ददा᳚शति",
+          "pada_kn": "ದದಾಶತಿ",
+          "meaning_en": "Offers / Gives",
+          "meaning_kn": "ಅರ್ಪಿಸುತ್ತಾನೆ / ಕೊಡುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "Who (one who)",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "जा॒त‌म्",
+          "pada_kn": "ಜಾತಮ್",
+          "meaning_en": "The born / That which is created",
+          "meaning_kn": "ಹುಟ್ಟಿದುದನ್ನು / ಸೃಷ್ಟಿಯಾದದ್ದನ್ನು"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "Of him",
+          "meaning_kn": "ಅವನ"
+        },
+        {
+          "pada_original": "म॒ह॒तः",
+          "pada_kn": "ಮಹತಃ",
+          "meaning_en": "Of the great",
+          "meaning_kn": "ಮಹಾನ್ ಆದವನ"
+        },
+        {
+          "pada_original": "महि॑",
+          "pada_kn": "ಮಹಿ",
+          "meaning_en": "Greatly / Magnificently",
+          "meaning_kn": "ಮಹತ್ತಾಗಿ / ಹೆಚ್ಚು"
+        },
+        {
+          "pada_original": "ब्रव॑त्",
+          "pada_kn": "ಬ್ರವತ್",
+          "meaning_en": "Declares / Proclaims",
+          "meaning_kn": "ಹೇಳುತ್ತಾನೆ / ಘೋಷಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "Indeed / Certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "(particle for emphasis)",
+          "meaning_kn": "(ಒತ್ತು ನೀಡುವ ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "श्रवः॑ऽभिः",
+          "pada_kn": "ಶ್ರವಃಅಭಿಃ",
+          "meaning_en": "With glories / With fame",
+          "meaning_kn": "ಕೀರ್ತಿಗಳಿಂದ / ಪ್ರಸಿದ್ಧಿಗಳಿಂದ"
+        },
+        {
+          "pada_original": "युज्य᳚‌म्",
+          "pada_kn": "ಯುಜ್ಯಮ್",
+          "meaning_en": "Worthy / Fitting",
+          "meaning_kn": "ಯೋಗ್ಯವಾದದ್ದನ್ನು / ಸೂಕ್ತವಾದದ್ದನ್ನು"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "Even",
+          "meaning_kn": "ಕೂಡ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "Towards / To",
+          "meaning_kn": "ಕಡೆಗೆ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "अ॒स॒त्",
+          "pada_kn": "ಅಸತ್",
+          "meaning_en": "May attain / May reach",
+          "meaning_kn": "ಪಡೆಯಲಿ / ತಲುಪಲಿ"
+        }
+      ],
+      "full_meaning_en": "He who offers his worship unto Viṣṇu, the ancient, the establisher, the ever-new, the all-knowing; and he who proclaims the vast greatness of what is born of this mighty one, verily, that person attains what is harmonious and illustrious through their famed actions.",
+      "full_meaning_kn": "ಯಾವಾತನು ಪುರಾತನನೂ, ಸ್ಥಾಪಕನೂ, ಸದಾ ನೂತನನೂ, ಸರ್ವಜ್ಞನೂ ಆದ ವಿಷ್ಣುವಿಗೆ ತನ್ನ ಪೂಜೆಯನ್ನು ಅರ್ಪಿಸುವನೋ, ಮತ್ತು ಯಾವಾತನು ಈ ಮಹಾತ್ಮನಿಂದ ಹುಟ್ಟಿದುದರ ಮಹತ್ತನ್ನು ಸಾರುವನೋ, ಆತನು ಖಂಡಿತವಾಗಿಯೂ ತನ್ನ ಪ್ರಖ್ಯಾತ ಕಾರ್ಯಗಳ ಮೂಲಕ ಸಾಮರಸ್ಯ ಮತ್ತು ಪ್ರಖ್ಯಾತಿಯನ್ನು ಪಡೆಯುತ್ತಾನೆ.",
+      "rig_time_s": 17.233,
+      "Insight_en": "Viṣṇu embodies the eternal principle of preservation and renewal. He represents the divine sustainer, whose ancient wisdom is ever-present in the unfolding of creation. To worship Viṣṇu is to align oneself with the cosmic order, recognizing the greatness inherent in all that arises from the divine source. By proclaiming the glory of creation, one acknowledges the interconnectedness of all beings and affirms the inherent divinity within. Such devotion and recognition lead to a life of harmony (युज्यं) and renown, where actions resonate with the divine will.",
+      "Insight_kn": "ವಿಷ್ಣುವು ಸಂರಕ್ಷಣೆ ಮತ್ತು ನವೀಕರಣದ ಶಾಶ್ವತ ತತ್ವವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ಅವನು ದೈವಿಕ ಪೋಷಕನನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಅವನ ಪ್ರಾಚೀನ ಬುದ್ಧಿವಂತಿಕೆಯು ಸೃಷ್ಟಿಯ ವಿಕಸನದಲ್ಲಿ ಸದಾ ಇರುತ್ತದೆ. ವಿಷ್ಣುವನ್ನು ಪೂಜಿಸುವುದು ಎಂದರೆ, ದೈವಿಕ ಮೂಲದಿಂದ ಉದ್ಭವಿಸುವ ಎಲ್ಲದರಲ್ಲೂ ಅಂತರ್ಗತವಾಗಿರುವ ಶ್ರೇಷ್ಠತೆಯನ್ನು ಗುರುತಿಸಿ, ಕಾಸ್ಮಿಕ್ ಕ್ರಮದೊಂದಿಗೆ ಒಬ್ಬರನ್ನು ಜೋಡಿಸಿಕೊಳ್ಳುವುದು. ಸೃಷ್ಟಿಯ ಮಹಿಮೆಯನ್ನು ಸಾರುವ ಮೂಲಕ, ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ಎಲ್ಲಾ ಜೀವಿಗಳ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾನೆ ಮತ್ತು ಅಂತರ್ಗತ ದೈವತ್ವವನ್ನು ದೃಢಪಡಿಸುತ್ತಾನೆ. ಅಂತಹ ಭಕ್ತಿ ಮತ್ತು ಗುರುತಿಸುವಿಕೆಯು ಸಾಮರಸ್ಯ (युज्यं) ಮತ್ತು ಖ್ಯಾತಿಯ ಜೀವನಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ, ಅಲ್ಲಿ ಕಾರ್ಯಗಳು ದೈವಿಕ ಇಚ್ಛೆಯೊಂದಿಗೆ ಪ್ರತಿಧ್ವನಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S156_191-3_5",
+      "mandala": 1,
+      "sukta": 156,
+      "ric_index": 3,
+      "rig_lines": [
+        "तमु॑ स्तोतारः पू॒र्व्यं यथा᳚ वि॒द ऋ॒तस्य॒ गर्भं᳚ ज॒नुषा᳚ पिपर्तन |",
+        "आस्य॑ जा॒नन्तो॒ नाम॑ चिद्‌ विवक्तन म॒हस्ते᳚ विष्णो सुम॒तिं भ॑जामहे ||"
+      ],
+      "pre_splits": [
+        "त‌म्",
+        "ऊँ॒ इति॑",
+        "स्तो॒ता॒रः॒",
+        "पू॒र्व्य‌म्",
+        "यथा᳚",
+        "वि॒द",
+        "ऋ॒तस्य॑",
+        "गर्भ᳚‌म्",
+        "ज॒नुषा᳚",
+        "पि॒प॒र्त॒न॒",
+        "आ",
+        "अ॒स्य॒",
+        "जा॒नन्तः॑",
+        "नाम॑",
+        "चि॒त्",
+        "वि॒व॒क्त॒न॒",
+        "म॒हः",
+        "ते॒",
+        "वि॒ष्णो॒ इति॑",
+        "सु॒ऽम॒ति‌म्",
+        "भ॒जा॒म॒हे॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "Him",
+          "meaning_kn": "ಅವನನ್ನು/ಅದನ್ನು"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊँ ಇತಿ",
+          "meaning_en": "(particle for emphasis)",
+          "meaning_kn": "(ಒತ್ತು ನೀಡುವ ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "स्तो॒ता॒रः॒",
+          "pada_kn": "ಸ್ತೋತಾರಃ",
+          "meaning_en": "O praisers",
+          "meaning_kn": "ಓ ಸ್ತೋತೃಗಳೇ"
+        },
+        {
+          "pada_original": "पू॒र्व्य‌म्",
+          "pada_kn": "ಪೂರ್ವ್ಯಮ್",
+          "meaning_en": "ancient/primeval",
+          "meaning_kn": "ಪುರಾತನನಾದ/ಮೂಲವಾದ"
+        },
+        {
+          "pada_original": "यथा᳚",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "as",
+          "meaning_kn": "ಹೇಗೆ"
+        },
+        {
+          "pada_original": "वि॒द",
+          "pada_kn": "ವಿದ",
+          "meaning_en": "you know",
+          "meaning_kn": "ನೀವು ತಿಳಿದಿರುವಿರೋ"
+        },
+        {
+          "pada_original": "ऋ॒तस्य॑",
+          "pada_kn": "ಋತಸ್ಯ",
+          "meaning_en": "of the cosmic order/truth",
+          "meaning_kn": "ಋತದ/ಸತ್ಯದ"
+        },
+        {
+          "pada_original": "गर्भ᳚‌म्",
+          "pada_kn": "ಗರ್ಭಮ್",
+          "meaning_en": "embryo/source",
+          "meaning_kn": "ಗರ್ಭವನ್ನು/ಮೂಲವನ್ನು"
+        },
+        {
+          "pada_original": "ज॒नुषा᳚",
+          "pada_kn": "ಜನುಷಾ",
+          "meaning_en": "by birth",
+          "meaning_kn": "ಹುಟ್ಟಿನಿಂದ"
+        },
+        {
+          "pada_original": "पि॒प॒र्त॒न॒",
+          "pada_kn": "ಪಿಪರ್ತನ",
+          "meaning_en": "nourish/fill",
+          "meaning_kn": "ಪೋಷಿಸಿರಿ/ಪೂರ್ಣಗೊಳಿಸಿರಿ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle, here for emphasis)",
+          "meaning_kn": "(ಒತ್ತು ನೀಡುವ ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "his",
+          "meaning_kn": "ಇವನ"
+        },
+        {
+          "pada_original": "जा॒नन्तः॑",
+          "pada_kn": "ಜಾನನ್ತಃ",
+          "meaning_en": "knowing",
+          "meaning_kn": "ತಿಳಿದುಕೊಂಡು"
+        },
+        {
+          "pada_original": "नाम॑",
+          "pada_kn": "ನಾಮ",
+          "meaning_en": "name",
+          "meaning_kn": "ಹೆಸರನ್ನು"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "even",
+          "meaning_kn": "ಸಹ"
+        },
+        {
+          "pada_original": "वि॒व॒क्त॒न॒",
+          "pada_kn": "ವಿವಕ್ತನ",
+          "meaning_en": "declare/proclaim",
+          "meaning_kn": "ಉಚ್ಚರಿಸಿರಿ/ಘೋಷಿಸಿರಿ"
+        },
+        {
+          "pada_original": "म॒हः",
+          "pada_kn": "ಮಹಃ",
+          "meaning_en": "great",
+          "meaning_kn": "ಮಹತ್ತಾದ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "वि॒ष्णो॒ इति॑",
+          "pada_kn": "ವಿಷ್ಣೋ ಇತಿ",
+          "meaning_en": "O Vishnu",
+          "meaning_kn": "ಓ ವಿಷ್ಣುವೇ"
+        },
+        {
+          "pada_original": "सु॒ऽम॒ति‌म्",
+          "pada_kn": "ಸುಮತಿಮ್",
+          "meaning_en": "good will/grace",
+          "meaning_kn": "ಉತ್ತಮ ಬುದ್ಧಿ/ಅನುಗ್ರಹವನ್ನು"
+        },
+        {
+          "pada_original": "भ॒जा॒म॒हे॒",
+          "pada_kn": "ಭಜಾಮಹೇ",
+          "meaning_en": "we seek/worship",
+          "meaning_kn": "ನಾವು ಭಜಿಸುತ್ತೇವೆ/ಪಡೆಯುತ್ತೇವೆ"
+        }
+      ],
+      "full_meaning_en": "O ye praisers, nourish that ancient one, the very embryo of cosmic order, through his manifestation, even as you understand him. Uttering forth his name, knowing it well, O Vishnu, may we partake of your vast and benevolent grace.",
+      "full_meaning_kn": "ಓ ಸ್ತೋತ್ರ ಮಾಡುವವರೇ, ಸನಾತನನಾದ, ವಿಶ್ವನಿಯಮದ ಗರ್ಭರೂಪನಾದ ಆತನನ್ನು, ನೀವು ತಿಳಿದಿರುವಂತೆಯೇ ಅವನ ಜನನದ ಮೂಲಕ ಪೋಷಿಸಿರಿ. ಅವನ ನಾಮವನ್ನು ತಿಳಿದು, ಅದನ್ನು ಸಾರಿರಿ. ಓ ವಿಷ್ಣುವೇ, ನಿಮ್ಮ ಮಹತ್ತಾದ ಶುಭ ಇಚ್ಛೆಯನ್ನು ನಾವು ಹೊಂದೋಣ.",
+      "rig_time_s": 32.389,
+      "Insight_en": "Viṣṇu's essence is the pervasive cosmic order (ṛta) manifested as the indwelling spirit within all beings. By understanding and articulating the divine name, one invokes Viṣṇu's benevolent will (sumati). The act of praise and recognition nurtures the connection with this eternal principle. It fosters spiritual growth and alignment with the universal dharma. The 'embryo of cosmic order' represents the potential for divine realization within each individual. This mantra directs seekers to nurture this potential through knowledge and devotion, ultimately seeking the grace that upholds the universe.",
+      "Insight_kn": "ವಿಷ್ಣುವಿನ ಸಾರವು ಸರ್ವವ್ಯಾಪಕ ವಿಶ್ವ ಕ್ರಮ (ಋತ), ಇದು ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲಿ ಅಂತರ್ಗತ ಆತ್ಮವಾಗಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ. ದೈವಿಕ ನಾಮವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವ ಮತ್ತು ಉಚ್ಚರಿಸುವ ಮೂಲಕ, ಒಬ್ಬರು ವಿಷ್ಣುವಿನ ದಯಾಳು ಇಚ್ಛೆಯನ್ನು (ಸುಮತಿ) ಆಹ್ವಾನಿಸುತ್ತಾರೆ. ಸ್ತುತಿ ಮತ್ತು ಗುರುತಿಸುವ ಕ್ರಿಯೆಯು ಈ ಶಾಶ್ವತ ತತ್ವದೊಂದಿಗೆ ಸಂಪರ್ಕವನ್ನು ಬೆಳೆಸುತ್ತದೆ. ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ಸಾರ್ವತ್ರಿಕ ಧರ್ಮದೊಂದಿಗೆ ಹೊಂದಾಣಿಕೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ. 'ವಿಶ್ವ ಕ್ರಮದ ಭ್ರೂಣ'ವು ಪ್ರತಿಯೊಬ್ಬ ವ್ಯಕ್ತಿಯೊಳಗಿನ ದೈವಿಕ ಸಾಕ್ಷಾತ್ಕಾರದ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಜ್ಞಾನ ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ ಈ ಸಾಮರ್ಥ್ಯವನ್ನು ಪೋಷಿಸಲು ಈ ಮಂತ್ರವು ಸಾಧಕರಿಗೆ ನಿರ್ದೇಶಿಸುತ್ತದೆ, ಅಂತಿಮವಾಗಿ ಜಗತ್ತನ್ನು ಎತ್ತಿಹಿಡಿಯುವ ಕೃಪೆಯನ್ನು ಹುಡುಕುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S156_191-4_5",
+      "mandala": 1,
+      "sukta": 156,
+      "ric_index": 4,
+      "rig_lines": [
+        "तम॑स्य॒ राजा॒ वरु॑ण॒स्तम॒श्विना॒ क्रतुं᳚ सचन्त॒ मारु॑तस्य वे॒धसः॑ |",
+        "दा॒धार॒ दक्ष॑मुत्त॒मम॑ह॒र्विदं᳚ व्र॒जं च॒ विष्णुः॒ सखि॑वाँ, अपोर्णु॒ते ||"
+      ],
+      "pre_splits": [
+        "त‌म्",
+        "अ॒स्य॒",
+        "राजा᳚",
+        "वरु॑णः",
+        "त‌म्",
+        "अ॒श्विना᳚",
+        "क्रतु᳚‌म्",
+        "स॒च॒न्त॒",
+        "मारु॑तस्य",
+        "वे॒धसः॑",
+        "दा॒धार॑",
+        "दक्ष᳚‌म्",
+        "उ॒त्ऽत॒म‌म्",
+        "अ॒हः॒ऽविद᳚‌म्",
+        "व॒र्ज‌म्",
+        "च॒",
+        "विष्णुः॑",
+        "सखि॑ऽवान्",
+        "अ॒प॒ऽऊ॒र्णु॒ते"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "Him/That",
+          "meaning_kn": "ಅವನನ್ನು/ಅದನ್ನು"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "Of this (one)/His",
+          "meaning_kn": "ಇವನ/ಇದರ"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "King",
+          "meaning_kn": "ರಾಜ"
+        },
+        {
+          "pada_original": "वरु॑णः",
+          "pada_kn": "ವರುಣಃ",
+          "meaning_en": "Varuna",
+          "meaning_kn": "ವರುಣ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "Him/That",
+          "meaning_kn": "ಅವನನ್ನು/ಅದನ್ನು"
+        },
+        {
+          "pada_original": "अ॒श्विना᳚",
+          "pada_kn": "ಅಶ್ವಿನಾ",
+          "meaning_en": "The two Ashvins",
+          "meaning_kn": "ಅಶ್ವಿನಿ ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "क्रतु᳚‌म्",
+          "pada_kn": "ಕ್ರತುಮ್",
+          "meaning_en": "Will/Power/Deed",
+          "meaning_kn": "ಸಂಕಲ್ಪ/ಕರ್ಮ/ಶಕ್ತಿ"
+        },
+        {
+          "pada_original": "स॒च॒न्त॒",
+          "pada_kn": "ಸಚನ್ತ",
+          "meaning_en": "They attend/They accompany",
+          "meaning_kn": "ಅವರು ಅನುಸರಿಸುತ್ತಾರೆ/ಸೇರಿಕೊಳ್ಳುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "मारु॑तस्य",
+          "pada_kn": "ಮಾರುತಸ್ಯ",
+          "meaning_en": "Of Maruta/Of the Maruts",
+          "meaning_kn": "ಮಾರುತನ/ಮಾರುತರಿಗೆ ಸೇರಿದ"
+        },
+        {
+          "pada_original": "वे॒धसः॑",
+          "pada_kn": "ವೇಧಸಃ",
+          "meaning_en": "Of the ordainer/Of the wise one",
+          "meaning_kn": "ವಿಧಾತನ/ಜ್ಞಾನಿಯ/ಸೃಷ್ಟಿಕರ್ತನ"
+        },
+        {
+          "pada_original": "दा॒धार॑",
+          "pada_kn": "ದಾದಾರ",
+          "meaning_en": "He held/He sustained",
+          "meaning_kn": "ಅವನು ಧರಿಸಿದನು/ಪೋಷಿಸಿದನು"
+        },
+        {
+          "pada_original": "दक्ष᳚‌म्",
+          "pada_kn": "ದಕ್ಷಮ್",
+          "meaning_en": "Strength/Skill/Power",
+          "meaning_kn": "ಶಕ್ತಿ/ಸಾಮರ್ಥ್ಯ/ದಕ್ಷತೆ"
+        },
+        {
+          "pada_original": "उ॒त्ऽत॒म‌म्",
+          "pada_kn": "ಉತ್ತಮಮ್",
+          "meaning_en": "Highest/Best/Supreme",
+          "meaning_kn": "ಅತ್ಯುನ್ನತ/ಶ್ರೇಷ್ಠ"
+        },
+        {
+          "pada_original": "अ॒हः॒ऽविद᳚‌म्",
+          "pada_kn": "ಅಹಃವಿದಮ್",
+          "meaning_en": "Knowing the day/Illuminating/Light-bringing",
+          "meaning_kn": "ದಿನವನ್ನು/ಬೆಳಕನ್ನು ಅರಿಯುವ/ಬೆಳಕನ್ನು ತರುವ"
+        },
+        {
+          "pada_original": "व॒र्ज‌म्",
+          "pada_kn": "ವರ್ಜಮ್",
+          "meaning_en": "Enclosure/Cow-pen",
+          "meaning_kn": "ಗೋಶಾಲೆ/ಆವರಣ"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "विष्णुः॑",
+          "pada_kn": "ವಿಷ್ಣುಃ",
+          "meaning_en": "Vishnu",
+          "meaning_kn": "ವಿಷ್ಣು"
+        },
+        {
+          "pada_original": "सखि॑ऽवान्",
+          "pada_kn": "ಸಖಿವಾನ್",
+          "meaning_en": "Having friends/Friendly/Companion",
+          "meaning_kn": "ಸ್ನೇಹಿತರನ್ನು ಹೊಂದಿದ/ಸ್ನೇಹಮಯಿ"
+        },
+        {
+          "pada_original": "अ॒प॒ऽऊ॒र्णु॒ते",
+          "pada_kn": "ಅಪಊರ್ಣುತೇ",
+          "meaning_en": "He opens/He uncovers",
+          "meaning_kn": "ಅವನು ತೆರೆಯುತ್ತಾನೆ/ಅನಾವರಣಗೊಳಿಸುತ್ತಾನೆ"
+        }
+      ],
+      "full_meaning_en": "King Varuna and the Ashvins attend to the sacred will and wisdom of that establisher, associated with the Maruts. Vishnu, the benevolent friend, upholds the supreme, light-bringing power, and reveals the enclosure.",
+      "full_meaning_kn": "ವರುಣ ರಾಜ ಮತ್ತು ಅಶ್ವಿನಿಗಳು ಮಾರುತರಿಗೆ ಸಂಬಂಧಿಸಿದ ಸ್ಥಾಪಕನ ಪವಿತ್ರ ಇಚ್ಛಾಶಕ್ತಿ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಗೆ ಹಾಜರಾಗುತ್ತಾರೆ. ದಯಾಳು ಮಿತ್ರನಾದ ವಿಷ್ಣುವು ಸರ್ವೋಚ್ಚ, ಬೆಳಕು-ತರುವ ಶಕ್ತಿಯನ್ನು ಎತ್ತಿಹಿಡಿಯುತ್ತಾನೆ ಮತ್ತು ಆವರಣವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತಾನೆ.",
+      "rig_time_s": 47.606,
+      "Insight_en": "Varuna, representing cosmic order, and the Ashvins, symbols of healing and revitalization, align with the divine will connected to the Maruts, forces of dynamism. Vishnu as the benevolent friend, embodies the power to uphold dharma (धर्म) and reveal hidden potentials. This reveals the integrated action of various divine forces in the manifestation of spiritual power and the unveiling of inner treasures. The supreme light-bringing power symbolizes the attainment of enlightenment, and the opening of the enclosure signifies the liberation from limitations and the realization of inner abundance.",
+      "Insight_kn": "ವರುಣನು ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ ಮತ್ತು ಅಶ್ವಿನಿಗಳು ಚಿಕಿತ್ಸೆ ಮತ್ತು ಪುನರುಜ್ಜೀವನದ ಸಂಕೇತಗಳಾಗಿ ಡೈನಾಮಿಕ್ಸ್ನ ಶಕ್ತಿಗಳಾದ ಮಾರುತಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ದೈವಿಕ ইচ্ছೆಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಾರೆ. ದಯಾಳು ಸ್ನೇಹಿತನಾದ ವಿಷ್ಣುವು ಧರ್ಮವನ್ನು ಎತ್ತಿಹಿಡಿಯುವ ಮತ್ತು ಗುಪ್ತ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುವ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿದ್ದಾನೆ. ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯ ಅಭಿವ್ಯಕ್ತಿಯಲ್ಲಿ ಮತ್ತು ಆಂತರಿಕ ನಿಧಿಗಳ ಅನಾವರಣದಲ್ಲಿ ವಿವಿಧ ದೈವಿಕ ಶಕ್ತಿಗಳ ಸಮಗ್ರ ಕ್ರಿಯೆಯನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಸರ್ವೋಚ್ಚ ಬೆಳಕನ್ನು ತರುವ ಶಕ್ತಿಯು ಜ್ಞಾನೋದಯದ ಸಾಧನೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ ಮತ್ತು ಆವರಣದ ತೆರೆಯುವಿಕೆಯು ಮಿತಿಗಳಿಂದ ವಿಮೋಚನೆಯನ್ನು ಮತ್ತು ಆಂತರಿಕ ಸಮೃದ್ಧಿಯ ಅರಿವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S156_191-5_5",
+      "mandala": 1,
+      "sukta": 156,
+      "ric_index": 5,
+      "rig_lines": [
+        "आ यो वि॒वाय॑ स॒चथा᳚य॒ दैव्य॒ इन्द्रा᳚य॒ विष्णुः॑ सु॒कृते᳚ सु॒कृत्त॑रः |",
+        "वे॒धा, अ॑जिन्वत्‌ त्रिषध॒स्थ आर्य॑मृ॒तस्य॑ भा॒गे यज॑मान॒माभ॑जत् ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "यः",
+        "वि॒वाय॑",
+        "स॒चथा᳚य",
+        "दैव्यः॑",
+        "इन्द्रा᳚य",
+        "विष्णुः॑",
+        "सु॒ऽकृते᳚",
+        "सु॒कृत्ऽत॑रः",
+        "वे॒धाः",
+        "अ॒जि॒न्व॒त्",
+        "त्रि॒ऽस॒ध॒स्थः",
+        "आर्य᳚‌म्",
+        "ऋ॒तस्य॑",
+        "भा॒गे",
+        "यज॑मान‌म्",
+        "आ",
+        "अ॒भ॒ज॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle, intensifies or indicates direction)",
+          "meaning_kn": "(ಉಪಸರ್ಗ, ಕ್ರಿಯೆಯನ್ನು ತೀವ್ರಗೊಳಿಸುತ್ತದೆ ಅಥವಾ ದಿಕ್ಕನ್ನು ಸೂಚಿಸುತ್ತದೆ)"
+        },
+        {
+          "pada_original": "यः",
+          "pada_kn": "ಯಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "वि॒वाय॑",
+          "pada_kn": "ವಿವಾಯ",
+          "meaning_en": "spread out / manifested",
+          "meaning_kn": "ಹರಡಿದನು / ಪ್ರಕಟಿಸಿದನು"
+        },
+        {
+          "pada_original": "स॒चथा᳚य",
+          "pada_kn": "ಸಚಥಾಯ",
+          "meaning_en": "for companionship / for alliance",
+          "meaning_kn": "ಸಹವಾಸಕ್ಕಾಗಿ / ಮೈತ್ರಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "दैव्यः॑",
+          "pada_kn": "ದೈವ್ಯಃ",
+          "meaning_en": "divine",
+          "meaning_kn": "ದೈವಿಕ"
+        },
+        {
+          "pada_original": "इन्द्रा᳚य",
+          "pada_kn": "ಇಂದ್ರಾಯ",
+          "meaning_en": "to Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಗೆ"
+        },
+        {
+          "pada_original": "विष्णुः॑",
+          "pada_kn": "ವಿಷ್ಣುಃ",
+          "meaning_en": "Vishnu",
+          "meaning_kn": "ವಿಷ್ಣು"
+        },
+        {
+          "pada_original": "सु॒ऽकृते᳚",
+          "pada_kn": "ಸುಕೃತೇ",
+          "meaning_en": "to the well-doer / for the pious",
+          "meaning_kn": "ಸತ್ಕರ್ಮಿಗೆ / ಪುಣ್ಯವಂತನಿಗೆ"
+        },
+        {
+          "pada_original": "सु॒कृत्ऽत॑रः",
+          "pada_kn": "ಸುಕೃತ್ತರಃ",
+          "meaning_en": "the best well-doer / most benevolent",
+          "meaning_kn": "ಅತ್ಯಂತ ಸತ್ಕರ್ಮಿ / ಮಹಾ ಉಪಕಾರಿ"
+        },
+        {
+          "pada_original": "वे॒धाः",
+          "pada_kn": "ವೇಧಾಃ",
+          "meaning_en": "the ordainer / creator",
+          "meaning_kn": "ವಿಧಾತ / ಸೃಷ್ಟಿಕರ್ತ"
+        },
+        {
+          "pada_original": "अ॒जि॒न्व॒त्",
+          "pada_kn": "ಅಜಿನ್ವತ್",
+          "meaning_en": "he quickened / stimulated / invigorated",
+          "meaning_kn": "ಪ್ರಚೋದಿಸಿದನು / ಉತ್ತೇಜಿಸಿದನು"
+        },
+        {
+          "pada_original": "त्रि॒ऽस॒ध॒स्थः",
+          "pada_kn": "ತ್ರಿಸಧಸ್ಥಃ",
+          "meaning_en": "dwelling in three abodes / having three stations (referring to Vishnu's three steps)",
+          "meaning_kn": "ಮೂರು ನೆಲೆಗಳಲ್ಲಿರುವವನು / ತ್ರಿವಿಕ್ರಮ"
+        },
+        {
+          "pada_original": "आर्य᳚‌म्",
+          "pada_kn": "ಆರ್ಯಮ್",
+          "meaning_en": "the noble / the Arya",
+          "meaning_kn": "ಶ್ರೇಷ್ಠನನ್ನು / ಆರ್ಯನನ್ನು"
+        },
+        {
+          "pada_original": "ऋ॒तस्य॑",
+          "pada_kn": "ಋತಸ್ಯ",
+          "meaning_en": "of the cosmic order / of truth",
+          "meaning_kn": "ಋತದ / ಸತ್ಯದ"
+        },
+        {
+          "pada_original": "भा॒गे",
+          "pada_kn": "ಭಾಗೇ",
+          "meaning_en": "in the share / in the portion",
+          "meaning_kn": "ಪಾಲಿನಲ್ಲಿ / ಭಾಗದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "यज॑मान‌म्",
+          "pada_kn": "ಯಜಮಾನಮ್",
+          "meaning_en": "the sacrificer",
+          "meaning_kn": "ಯಜಮಾನನನ್ನು"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "(particle, part of verb 'abhajat')",
+          "meaning_kn": "(ಉಪಸರ್ಗ, 'ಅಭಜತ್' ಕ್ರಿಯಾಪದದ ಭಾಗ)"
+        },
+        {
+          "pada_original": "अ॒भ॒ज॒त्",
+          "pada_kn": "ಅಭಜತ್",
+          "meaning_en": "he allotted / bestowed",
+          "meaning_kn": "ನೀಡಿದನು / ಹಂಚಿದನು"
+        }
+      ],
+      "full_meaning_en": "O Divine Vishnu, who has revealed himself for the sacred companionship of Indra, you are the most excellent benefactor to the virtuous. The wise ordainer, abiding in the triple realm, has enlivened the noble one and bestowed upon the sacrificer a portion of the eternal cosmic order.",
+      "full_meaning_kn": "ಓ ದೈವೀ ವಿಷ್ಣುವೇ, ಇಂದ್ರನ ಪವಿತ್ರ ಸಹವಾಸಕ್ಕಾಗಿ ತಮ್ಮನ್ನು ತಾವು ವ್ಯಕ್ತಪಡಿಸಿಕೊಂಡಿರುವ ನೀವು, ಸದ್ಗುಣಶೀಲರಿಗೆ ಅತ್ಯಂತ ಶ್ರೇಷ್ಠ ಉಪಕಾರಕರು. ವಿವೇಕಿಯಾದ ವಿಧಾಯಕನು, ಮೂರು ಲೋಕಗಳಲ್ಲಿ ನೆಲೆಸಿ, ಸಜ್ಜನರನ್ನು ಚೈತನ್ಯಗೊಳಿಸಿದ್ದಾನೆ ಮತ್ತು ಯಜ್ಞಕರ್ತನಿಗೆ ಶಾಶ್ವತ ಕಾಸ್ಮಿಕ್ ಕ್ರಮದ ಒಂದು ಭಾಗವನ್ನು ದಯಪಾಲಿಸಿದ್ದಾನೆ.",
+      "rig_time_s": 63.266,
+      "Insight_en": "Vishnu’s manifestation for Indra's companionship signifies the divine assistance available to the awakened consciousness. The triple realm represents the physical, mental, and spiritual planes. By invigorating the noble (आर्य), the divine empowers the seeker to rise above earthly limitations. The allotment of a share in the cosmic order (ऋतस्य भागे) indicates the integration of the individual soul (यजमान) with the universal consciousness, facilitated by अग्नि (Agni) and other divine forces.",
+      "Insight_kn": "ವಿಷ್ಣುವಿನ ಅಭಿವ್ಯಕ್ತಿಯು ಇಂದ್ರನ ಸಹವಾಸಕ್ಕಾಗಿ ಜಾಗೃತ ಪ್ರಜ್ಞೆಗೆ ಲಭ್ಯವಿರುವ ದೈವಿಕ ಸಹಾಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮೂರು ಲೋಕಗಳು ಭೌತಿಕ, ಮಾನಸಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸ್ತರಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ. ಸಜ್ಜನರನ್ನು (ಆರ್ಯ) ಚೈತನ್ಯಗೊಳಿಸುವ ಮೂಲಕ, ದೈವಿಕವು ಸಾಧಕನು ಲೌಕಿಕ ಮಿತಿಗಳನ್ನು ಮೀರಿ ಏಳಲು ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ. ಕಾಸ್ಮಿಕ್ ಕ್ರಮದಲ್ಲಿ (ಋತಸ್ಯ ಭಾಗೇ) ಪಾಲನ್ನು ಹಂಚುವುದು ವೈಯಕ್ತಿಕ ಆತ್ಮವನ್ನು (ಯಜಮಾನ) ಸಾರ್ವತ್ರಿಕ ಪ್ರಜ್ಞೆಯೊಂದಿಗೆ ಸಂಯೋಜಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದನ್ನು ಅಗ್ನಿ ಮತ್ತು ಇತರ ದೈವಿಕ ಶಕ್ತಿಗಳು ಸುಗಮಗೊಳಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

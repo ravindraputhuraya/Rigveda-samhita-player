@@ -1,0 +1,818 @@
+{
+  "mandala": 1,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M1-S145_191-1_5",
+      "mandala": 1,
+      "sukta": 145,
+      "ric_index": 1,
+      "rig_lines": [
+        "तं पृ॑च्छता॒ स ज॑गामा॒ स वे᳚द॒ स चि॑कि॒त्वाँ, ई᳚यते॒ सा न्वी᳚यते |",
+        "तस्मि᳚न्‌ त्सन्ति प्र॒शिष॒स्तस्मि᳚न्नि॒ष्टयः॒ स वाज॑स्य॒ शव॑सः शु॒ष्मिण॒स्पतिः॑ ||"
+      ],
+      "pre_splits": [
+        "त‌म्",
+        "पृ॒च्छ॒त॒",
+        "सः",
+        "ज॒गा॒म॒",
+        "सः",
+        "वे॒द॒",
+        "सः",
+        "चि॒कि॒त्वान्",
+        "ई॒य॒ते॒",
+        "सः",
+        "नु",
+        "ई॒य॒ते॒",
+        "तस्मि॑न्",
+        "स॒न्ति॒",
+        "प्र॒ऽशिषः॑",
+        "तस्मि॑न्",
+        "इ॒ष्टयः॑",
+        "सः",
+        "वाज॑स्य",
+        "शव॑सः",
+        "शु॒ष्मिणः॑",
+        "पतिः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "पृ॒च्छ॒त॒",
+          "pada_kn": "ಪೃಚ್ಛತ",
+          "meaning_en": "ask",
+          "meaning_kn": "ಕೇಳಿರಿ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "ज॒गा॒म॒",
+          "pada_kn": "ಜಗಾಮ",
+          "meaning_en": "went / has gone",
+          "meaning_kn": "ಹೋದನು / ಹೋಗಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "वे॒द॒",
+          "pada_kn": "ವೇದ",
+          "meaning_en": "knows",
+          "meaning_kn": "ಬಲ್ಲನು"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "चि॒कि॒त्वान्",
+          "pada_kn": "ಚಿಕಿತ್ವಾನ್",
+          "meaning_en": "knowing / wise",
+          "meaning_kn": "ತಿಳಿದವನು / ಜ್ಞಾನಿ"
+        },
+        {
+          "pada_original": "ई॒य॒ते॒",
+          "pada_kn": "ಈಯತೇ",
+          "meaning_en": "moves / goes",
+          "meaning_kn": "ಚಲಿಸುತ್ತಾನೆ / ಹೋಗುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "ई॒य॒ते॒",
+          "pada_kn": "ಈಯತೇ",
+          "meaning_en": "moves / goes",
+          "meaning_kn": "ಚಲಿಸುತ್ತಾನೆ / ಹೋಗುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "तस्मि॑न्",
+          "pada_kn": "ತಸ್ಮಿನ್",
+          "meaning_en": "in him",
+          "meaning_kn": "ಅವನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "स॒न्ति॒",
+          "pada_kn": "ಸಂತಿ",
+          "meaning_en": "are",
+          "meaning_kn": "ಇವೆ"
+        },
+        {
+          "pada_original": "प्र॒ऽशिषः॑",
+          "pada_kn": "ಪ್ರಶಿಷಃ",
+          "meaning_en": "instructions / commands",
+          "meaning_kn": "ಆದೇಶಗಳು / ಆಜ್ಞೆಗಳು"
+        },
+        {
+          "pada_original": "तस्मि॑न्",
+          "pada_kn": "ತಸ್ಮಿನ್",
+          "meaning_en": "in him",
+          "meaning_kn": "ಅವನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "इ॒ष्टयः॑",
+          "pada_kn": "ಇಷ್ಟಯಃ",
+          "meaning_en": "desires / offerings",
+          "meaning_kn": "ಇಷ್ಟಗಳು / ಯಜ್ಞಗಳು"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "वाज॑स्य",
+          "pada_kn": "ವಾಜಸ್ಯ",
+          "meaning_en": "of strength / of food",
+          "meaning_kn": "ಬಲದ / ಅನ್ನದ"
+        },
+        {
+          "pada_original": "शव॑सः",
+          "pada_kn": "ಶವಸಃ",
+          "meaning_en": "of power / of might",
+          "meaning_kn": "ಶಕ್ತಿಯ / ಪರಾಕ್ರಮದ"
+        },
+        {
+          "pada_original": "शु॒ष्मिणः॑",
+          "pada_kn": "ಶುಷ್ಮಿಣಃ",
+          "meaning_en": "of the mighty / of the vigorous",
+          "meaning_kn": "ಬಲಶಾಲಿಯಾದವನ / ಉತ್ಸಾಹಿಯಾದವನ"
+        },
+        {
+          "pada_original": "पतिः॑",
+          "pada_kn": "ಪತಿಃ",
+          "meaning_en": "lord / master",
+          "meaning_kn": "ಒಡೆಯನು / ರಕ್ಷಕನು"
+        }
+      ],
+      "full_meaning_en": "Inquire of Him; He hath approached, He knoweth, He is wise, He moveth. Verily, He moveth. In Him are the commandments, in Him are the offerings. He is the Lord of might, of vigor, of the potent.",
+      "full_meaning_kn": "ಆತನನ್ನು ಪ್ರಶ್ನಿಸಿರಿ; ಆತನು ಸಮೀಪಿಸಿರುವನು, ಆತನು ಅರಿತಿಹನು, ಆತನು ಜ್ಞಾನಿಯು, ಆತನು ಚಲಿಸುವನು. ನಿಜವಾಗಿಯೂ, ಆತನು ಚಲಿಸುವನು. ಆತನಲ್ಲಿ ಆಜ್ಞೆಗಳು ಇವೆ, ಆತನಲ್ಲಿ ಅರ್ಪಣೆಗಳಿವೆ. ಆತನು ಬಲದ ಒಡೆಯನು, ಶಕ್ತಿಯ ಒಡೆಯನು, ಮತ್ತು ಸಾಮರ್ಥ್ಯದ ಅಧಿಪತಿಯು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The potent अग्नि (Agni) embodies the power of divine knowledge and action. Agni’s movement symbolizes the continuous unfolding of consciousness. Within Agni reside the divine instructions and the offerings of devotion, indicating that spiritual growth arises from both disciplined practice and heartfelt surrender. He is the master of inner strength, vigor, and potency, urging us to harness these qualities for self-realization. Through inquiry and devotion, we can realize the presence and wisdom of Agni within us.",
+      "Insight_kn": "ಪ್ರಬಲನಾದ ಅಗ್ನಿಯು ದೈವಿಕ ಜ್ಞಾನ ಮತ್ತು ಕ್ರಿಯೆಯ ಶಕ್ತಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ಅಗ್ನಿಯ ಚಲನೆಯು ಪ್ರಜ್ಞೆಯ ನಿರಂತರ ವಿಕಾಸವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಅಗ್ನಿಯಲ್ಲಿ ದೈವಿಕ ಆದೇಶಗಳು ಮತ್ತು ಭಕ್ತಿಯ ಅರ್ಪಣೆಗಳು ಇವೆ, ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯು ಶಿಸ್ತುಬದ್ಧ ಅಭ್ಯಾಸ ಮತ್ತು ಹೃದಯಪೂರ್ವಕ ಶರಣಾಗತಿಯಿಂದ ಉಂಟಾಗುತ್ತದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಅವನು ಆಂತರಿಕ ಶಕ್ತಿ, ಚೈತನ್ಯ ಮತ್ತು ಸಾಮರ್ಥ್ಯದ ಅಧಿಪತಿ, ಸ್ವಯಂ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕಾಗಿ ಈ ಗುಣಗಳನ್ನು ಬಳಸಿಕೊಳ್ಳಲು ನಮ್ಮನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತಾನೆ. ವಿಚಾರಣೆ ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ, ನಮ್ಮಲ್ಲಿರುವ ಅಗ್ನಿಯ ಉಪಸ್ಥಿತಿ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ನಾವು ಅರಿಯಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S145_191-2_5",
+      "mandala": 1,
+      "sukta": 145,
+      "ric_index": 2,
+      "rig_lines": [
+        "तमित्‌ पृ॑च्छन्ति॒ न सि॒मो वि पृ॑च्छति॒ स्वेने᳚व॒ धीरो॒ मन॑सा॒ यदग्र॑भीत् |",
+        "न मृ॑ष्यते प्रथ॒मं नाप॑रं॒ वचो॒ऽस्य क्रत्वा᳚ सचते॒, अप्र॑दृपितः ||"
+      ],
+      "pre_splits": [
+        "त‌म्",
+        "इत्",
+        "पृ॒च्छ॒न्ति॒",
+        "न",
+        "सि॒मः",
+        "वि",
+        "पृ॒च्छ॒ति॒",
+        "स्वेन॑ऽव",
+        "धीरः॑",
+        "मन॑सा",
+        "यत्",
+        "अग्र॑भीत्",
+        "न",
+        "मृ॒ष्य॒ते॒",
+        "प्र॒थ॒म‌म्",
+        "न",
+        "अप॑र‌म्",
+        "वचः॑",
+        "अ॒स्य",
+        "क्रत्वा᳚",
+        "स॒च॒ते॒",
+        "अप्र॑ऽदृपितः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "Him / That",
+          "meaning_kn": "ಅವನನ್ನು / ಅದನ್ನು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "Indeed / Only",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಮಾತ್ರ"
+        },
+        {
+          "pada_original": "पृ॒च्छ॒न्ति॒",
+          "pada_kn": "ಪೃಚ್ಛನ್ತಿ",
+          "meaning_en": "(They) ask / inquire",
+          "meaning_kn": "(ಅವರು) ಕೇಳುತ್ತಾರೆ / ವಿಚಾರಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "Not",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "सि॒मः",
+          "pada_kn": "ಸಿಮಃ",
+          "meaning_en": "The foolish / ignorant one",
+          "meaning_kn": "ಮೂರ್ಖನು / ಅಜ್ಞಾನಿಯು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "(Prefix for asking, implying 'apart' or 'various')",
+          "meaning_kn": "(ವಿಚಾರಿಸುವ ಪೂರ್ವಪ್ರತ್ಯಯ)"
+        },
+        {
+          "pada_original": "पृ॒च्छ॒ति॒",
+          "pada_kn": "ಪೃಚ್ಛತಿ",
+          "meaning_en": "(He) asks / inquires",
+          "meaning_kn": "(ಅವನು) ಕೇಳುತ್ತಾನೆ / ವಿಚಾರಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "स्वेन॑ऽव",
+          "pada_kn": "ಸ್ವೇನೇವ",
+          "meaning_en": "As if by his own (mind/intellect)",
+          "meaning_kn": "ತನ್ನ ಸ್ವಂತ (ಮನಸ್ಸು/ಬುದ್ಧಿ)ಯಿಂದಲೇ ಎಂಬಂತೆ"
+        },
+        {
+          "pada_original": "धीरः॑",
+          "pada_kn": "ಧೀರಃ",
+          "meaning_en": "The wise one / intelligent person",
+          "meaning_kn": "ಜ್ಞಾನಿಯು / ಬುದ್ಧಿವಂತನು"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "By mind / intellect",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ / ಬುದ್ಧಿಯಿಂದ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "Which / What / Because",
+          "meaning_kn": "ಯಾವುದನ್ನು / ಏನು / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "अग्र॑भीत्",
+          "pada_kn": "ಅಗ್ರಭೀತ್",
+          "meaning_en": "(He) has grasped / understood",
+          "meaning_kn": "(ಅವನು) ಗ್ರಹಿಸಿದ್ದಾನೆ / ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದಾನೆ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "Not",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "मृ॒ष्य॒ते॒",
+          "pada_kn": "ಮೃಷ್ಯತೇ",
+          "meaning_en": "(He) tolerates / endures / overlooks",
+          "meaning_kn": "(ಅವನು) ಸಹಿಸುತ್ತಾನೆ / ತಾಳಿಕೊಳ್ಳುತ್ತಾನೆ / ನಿರ್ಲಕ್ಷಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "प्र॒थ॒म‌म्",
+          "pada_kn": "ಪ್ರಥಮಮ್",
+          "meaning_en": "The first (word/statement)",
+          "meaning_kn": "ಮೊದಲ (ಮಾತು/ಹೇಳಿಕೆ)"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "Nor",
+          "meaning_kn": "ಅಥವಾ ಇಲ್ಲ"
+        },
+        {
+          "pada_original": "अप॑र‌म्",
+          "pada_kn": "ಅಪರಮ್",
+          "meaning_en": "The last / other (word/statement)",
+          "meaning_kn": "ಕೊನೆಯ / ಇನ್ನೊಂದು (ಮಾತು/ಹೇಳಿಕೆ)"
+        },
+        {
+          "pada_original": "वचः॑",
+          "pada_kn": "ವಚಃ",
+          "meaning_en": "Word / speech / statement",
+          "meaning_kn": "ಮಾತು / ನುಡಿ / ಹೇಳಿಕೆ"
+        },
+        {
+          "pada_original": "अ॒स्य",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "His / Of him",
+          "meaning_kn": "ಅವನ / ಅವನಿಗೆ ಸೇರಿದ"
+        },
+        {
+          "pada_original": "क्रत्वा᳚",
+          "pada_kn": "ಕ್ರತ್ವಾ",
+          "meaning_en": "By wisdom / by insight / by power",
+          "meaning_kn": "ಜ್ಞಾನದಿಂದ / ಒಳನೋಟದಿಂದ / ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "स॒च॒ते॒",
+          "pada_kn": "ಸಚತೇ",
+          "meaning_en": "(He) accompanies / adheres / follows",
+          "meaning_kn": "(ಅವನು) ಜೊತೆಗೂಡುತ್ತಾನೆ / ಅಂಟಿಕೊಳ್ಳುತ್ತಾನೆ / ಅನುಸರಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "अप्र॑ऽदृपितः",
+          "pada_kn": "ಅಪ್ರದೃಪಿತಃ",
+          "meaning_en": "Un-arrogant / not proud / humble",
+          "meaning_kn": "ಅಹಂಕಾರವಿಲ್ಲದ / ಹೆಮ್ಮೆಯಿಲ್ಲದ / ವಿನಮ್ರ"
+        }
+      ],
+      "full_meaning_en": "Him indeed they question, yet the unwise do not inquire. The wise one, with his own intellect, comprehends that which must be understood. He disregards no word, neither the first nor the last, and cleaves to his own inner power, remaining ever humble.",
+      "full_meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ ಅವನನ್ನು ಪ್ರಶ್ನಿಸುತ್ತಾರೆ, ಆದರೆ ಬುದ್ಧಿಯಿಲ್ಲದವನು ವಿಚಾರಿಸುವುದಿಲ್ಲ. ವಿವೇಕಿಯಾದವನು ತನ್ನ ಸ್ವಂತ ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ, ಗ್ರಹಿಸಬೇಕಾದುದನ್ನು ಗ್ರಹಿಸುತ್ತಾನೆ. ಅವನು ಯಾವ ಮಾತನ್ನೂ ಅಲಕ್ಷಿಸುವುದಿಲ್ಲ, ಮೊದಲನೆಯದಾಗಲಿ ಅಥವಾ ಕೊನೆಯದಾಗಲಿ, ಮತ್ತು ತನ್ನ ಸ್ವಂತ ಆಂತರಿಕ ಶಕ್ತಿಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತಾನೆ, ಯಾವಾಗಲೂ ವಿನಮ್ರನಾಗಿರುತ್ತಾನೆ.",
+      "rig_time_s": 17.189,
+      "Insight_en": "This mantra speaks to the nature of true wisdom. Discernment arises not from blind acceptance, but from diligent inquiry. The truly wise व्यक्ति (vyakti) uses their own intellect to understand profound truths, scrutinizing every word and thought. Such a person remains grounded in their inner power, while simultaneously maintaining humility, preventing arrogance from clouding their judgment. This balance of intellect and humility is the key to unlocking deeper understanding.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ನಿಜವಾದ ಜ್ಞಾನದ ಸ್ವರೂಪವನ್ನು ಹೇಳುತ್ತದೆ. ವಿವೇಚನೆಯು ಕುರುಡಾಗಿ ಸ್ವೀಕರಿಸುವುದರಿಂದ ಉಂಟಾಗುವುದಿಲ್ಲ, ಆದರೆ ಶ್ರದ್ಧೆಯಿಂದ ವಿಚಾರಿಸುವುದರಿಂದ ಉಂಟಾಗುತ್ತದೆ. ನಿಜವಾಗಿಯೂ ಜ್ಞಾನವುಳ್ಳ ವ್ಯಕ್ತಿಯು (ವ್ಯಕ್ತಿ) ಪ್ರತಿಯೊಂದು ಮಾತು ಮತ್ತು ಆಲೋಚನೆಯನ್ನು ಪರಿಶೀಲಿಸುವ ಮೂಲಕ ಆಳವಾದ ಸತ್ಯಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ತನ್ನ ಸ್ವಂತ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಬಳಸುತ್ತಾನೆ. ಅಂತಹ ವ್ಯಕ್ತಿಯು ತನ್ನ ಆಂತರಿಕ ಶಕ್ತಿಯಲ್ಲಿ ಬೇರೂರಿದ್ದು, ಅದೇ ಸಮಯದಲ್ಲಿ ವಿನಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುತ್ತಾನೆ, ಅಹಂಕಾರವು ಅವರ ತೀರ್ಪನ್ನು ಮೋಡಗೊಳಿಸದಂತೆ ತಡೆಯುತ್ತದೆ. ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ವಿನಯದ ಈ ಸಮತೋಲನವು ಆಳವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಲು ಪ್ರಮುಖವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S145_191-3_5",
+      "mandala": 1,
+      "sukta": 145,
+      "ric_index": 3,
+      "rig_lines": [
+        "तमिद्‌ ग॑च्छन्ति जु॒ह्व१॑(अ॒)स्तमर्व॑ती॒र्विश्वा॒न्येकः॑ शृणव॒द्‌ वचां᳚सि मे |",
+        "पु॒रु॒प्रै॒षस्ततु॑रिर्यज्ञ॒साध॒नोऽच्छि॑द्रोतिः॒ शिशु॒राद॑त्त॒ सं रभः॑ ||"
+      ],
+      "pre_splits": [
+        "त‌म्",
+        "इत्",
+        "ग॒च्छ॒न्ति॒",
+        "जु॒ह्वः॑",
+        "त‌म्",
+        "अर्व॑तीः",
+        "विश्वा᳚नि",
+        "एकः॑",
+        "शृ॒ण॒व॒त्",
+        "वचां᳚सि",
+        "मे॒",
+        "पु॒रु॒ऽप्रै॒षः",
+        "ततु॑रिः",
+        "य॒ज्ञ॒ऽसाध॑नः",
+        "अच्छि॑द्रऽऊतिः",
+        "शिशुः॑",
+        "आ",
+        "अ॒द॒त्त॒",
+        "स‌म्",
+        "रभः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "Him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "Indeed / only",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಮಾತ್ರ"
+        },
+        {
+          "pada_original": "ग॒च्छ॒न्ति॒",
+          "pada_kn": "ಗಚ್ಛನ್ತಿ",
+          "meaning_en": "They go / reach",
+          "meaning_kn": "ಅವು ಹೋಗುತ್ತವೆ / ತಲುಪುತ್ತವೆ"
+        },
+        {
+          "pada_original": "जु॒ह्वः॑",
+          "pada_kn": "ಜುಹ್ವಃ",
+          "meaning_en": "Oblations / offerings (or those who offer)",
+          "meaning_kn": "ಆಹುತಿಗಳು / ಅರ್ಪಣೆಗಳು"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "Him",
+          "meaning_kn": "ಅವನನ್ನು"
+        },
+        {
+          "pada_original": "अर्व॑तीः",
+          "pada_kn": "ಅರ್ವತೀಃ",
+          "meaning_en": "Swift ones / swift offerings (or horses)",
+          "meaning_kn": "ವೇಗವಾಗಿ ಸಾಗುವವು / ವೇಗದ ಅರ್ಪಣೆಗಳು (ಅಥವಾ ಅಶ್ವಗಳು)"
+        },
+        {
+          "pada_original": "विश्वा᳚नि",
+          "pada_kn": "ವಿಶ್ವಾನಿ",
+          "meaning_en": "All / entire",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "एकः॑",
+          "pada_kn": "ಏಕಃ",
+          "meaning_en": "Alone / unique one",
+          "meaning_kn": "ಒಬ್ಬನೇ / ಅದ್ವಿತೀಯನು"
+        },
+        {
+          "pada_original": "शृ॒ण॒व॒त्",
+          "pada_kn": "ಶೃಣವತ್",
+          "meaning_en": "May he hear / let him hear",
+          "meaning_kn": "ಅವನು ಕೇಳಲಿ"
+        },
+        {
+          "pada_original": "वचां᳚सि",
+          "pada_kn": "ವಚಾಂಸಿ",
+          "meaning_en": "Words / speeches / prayers",
+          "meaning_kn": "ಮಾತುಗಳು / ಪ್ರಾರ್ಥನೆಗಳು"
+        },
+        {
+          "pada_original": "मे॒",
+          "pada_kn": "ಮೇ",
+          "meaning_en": "My / of me",
+          "meaning_kn": "ನನ್ನ / ನನ್ನವು"
+        },
+        {
+          "pada_original": "पु॒रु॒ऽप्रै॒षः",
+          "pada_kn": "ಪುರುಪ್ರೈಷಃ",
+          "meaning_en": "Much-impelled / having many impulses",
+          "meaning_kn": "ಅನೇಕ ಪ್ರೇರಣೆಗಳನ್ನು ಹೊಂದಿರುವ / ಹೆಚ್ಚು ಪ್ರೇರಿತನಾದ"
+        },
+        {
+          "pada_original": "ततु॑रिः",
+          "pada_kn": "ತತುರಿಃ",
+          "meaning_en": "Swift / victorious / overcoming",
+          "meaning_kn": "ವೇಗಶಾಲಿ / ವಿಜಯಶಾಲಿ / ಜಯಿಸುವವನು"
+        },
+        {
+          "pada_original": "य॒ज्ञ॒ऽसाध॑नः",
+          "pada_kn": "ಯಜ್ಞಸಾಧನಃ",
+          "meaning_en": "Accomplisher of sacrifice / making sacrifice successful",
+          "meaning_kn": "ಯಜ್ಞವನ್ನು ನೆರವೇರಿಸುವವನು / ಯಜ್ಞವನ್ನು ಸಫಲಗೊಳಿಸುವವನು"
+        },
+        {
+          "pada_original": "अच्छि॑द्रऽऊतिः",
+          "pada_kn": "ಅಚ್ಛಿದ್ರೂತಿಃ",
+          "meaning_en": "Having flawless protection / unfailing help",
+          "meaning_kn": "ದೋಷರಹಿತ ರಕ್ಷಣೆಯುಳ್ಳ / ತಪ್ಪದ ಸಹಾಯವುಳ್ಳ"
+        },
+        {
+          "pada_original": "शिशुः॑",
+          "pada_kn": "ಶಿಶುಃ",
+          "meaning_en": "Young / infant (ever-renewed Agni)",
+          "meaning_kn": "ತರುಣ / ಶಿಶು (ನಿತ್ಯ ನೂತನ ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Towards / unto",
+          "meaning_kn": "ಕಡೆಗೆ / ಕುರಿತು"
+        },
+        {
+          "pada_original": "अ॒द॒त्त॒",
+          "pada_kn": "ಅದತ್ತ",
+          "meaning_en": "He takes / receives",
+          "meaning_kn": "ಅವನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಾನೆ / ಸ್ವೀಕರಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "Completely / together",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ / ಒಟ್ಟಾಗಿ"
+        },
+        {
+          "pada_original": "रभः॑",
+          "pada_kn": "ರಭಃ",
+          "meaning_en": "Strength / might / zeal",
+          "meaning_kn": "ಶಕ್ತಿ / ಸಾಮರ್ಥ್ಯ / ಉತ್ಸಾಹ"
+        }
+      ],
+      "full_meaning_en": "To Him, indeed, ascend the oblations and swift prayers. May that unique one, O Agni, hearken unto all my words. He, the greatly impelled, the swift one, the accomplisher of sacrifice, whose protection is flawless, the ever-youthful one, gathers up all strength.",
+      "full_meaning_kn": "ಆತನಿಗೆ, ನಿಶ್ಚಯವಾಗಿಯೂ, ಅರ್ಪಣೆಗಳು ಮತ್ತು ತ್ವರಿತ ಪ್ರಾರ್ಥನೆಗಳು ಏರುತ್ತವೆ. ಆ ಅನನ್ಯನಾದವನು, ಓ ಅಗ್ನಿಯೇ, ನನ್ನೆಲ್ಲಾ ಮಾತುಗಳನ್ನು ಆಲಿಸಲಿ. ಅವನು, ಬಹಳವಾಗಿ ಪ್ರೇರೇಪಿಸಲ್ಪಟ್ಟವನು, ಶೀಘ್ರಗಾಮಿಯು, ಯಜ್ಞವನ್ನು ನೆರವೇರಿಸುವವನು, ಯಾರ ರಕ್ಷಣೆಯು ದೋಷರಹಿತವಾಗಿದೆಯೋ, ಸದಾ ಯೌವನವುಳ್ಳವನು, ಎಲ್ಲಾ ಶಕ್ತಿಯನ್ನೂ ಸಂಗ್ರಹಿಸುತ್ತಾನೆ.",
+      "rig_time_s": 32.761,
+      "Insight_en": "Agni represents the inner will, the driving force behind all spiritual endeavors. The oblations and prayers symbolize the aspirant’s sincere offerings of ego and desires. By directing these inward, one invokes the undivided attention of the divine within, the ever-youthful and vigorous aspect of consciousness. Flawless protection signifies the unyielding support of the divine once the inner sacrifice is complete. The strength gathered is the unified resolve of the individual consciousness aligned with the universal consciousness.",
+      "Insight_kn": "ಅಗ್ನಿಯು ಆಂತರಿಕ ಇಚ್ಛಾಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಎಲ್ಲಾ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯತ್ನಗಳ ಹಿಂದಿನ ಪ್ರೇರಕ ಶಕ್ತಿಯಾಗಿದೆ. ಅರ್ಪಣೆಗಳು ಮತ್ತು ಪ್ರಾರ್ಥನೆಗಳು ಆಕಾಂಕ್ಷಿಯ ಅಹಂ ಮತ್ತು ಆಸೆಗಳ ಪ್ರಾಮಾಣಿಕ ಅರ್ಪಣೆಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಇವುಗಳನ್ನು ಒಳಗಿನೆಡೆಗೆ ನಿರ್ದೇಶಿಸುವ ಮೂಲಕ, ಒಬ್ಬರು ಒಳಗಿನ ದೈವಿಕದ ಅವಿಭಜಿತ ಗಮನವನ್ನು ಆಹ್ವಾನಿಸುತ್ತಾರೆ, ಇದು ಪ್ರಜ್ಞೆಯ ಸದಾ ಯೌವನ ಮತ್ತು ಶಕ್ತಿಯುತ ಅಂಶವಾಗಿದೆ. ದೋಷರಹಿತ ರಕ್ಷಣೆಯು ಆಂತರಿಕ ತ್ಯಾಗವು ಪೂರ್ಣಗೊಂಡ ನಂತರ ದೈವಿಕದ ಅಚಲವಾದ ಬೆಂಬಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸಂಗ್ರಹಿಸಿದ ಶಕ್ತಿಯು ಸಾರ್ವತ್ರಿಕ ಪ್ರಜ್ಞೆಯೊಂದಿಗೆ ಜೋಡಿಸಲಾದ ವೈಯಕ್ತಿಕ ಪ್ರಜ್ಞೆಯ ಏಕೀಕೃತ ನಿರ್ಣಯವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S145_191-4_5",
+      "mandala": 1,
+      "sukta": 145,
+      "ric_index": 4,
+      "rig_lines": [
+        "उ॒प॒स्थायं᳚ चरति॒ यत्‌ स॒मार॑त स॒द्यो जा॒तस्त॑त्सार॒ युज्ये᳚भिः |",
+        "अ॒भि श्वा॒न्तं मृ॑शते ना॒न्द्ये᳚ मु॒दे यदीं॒ गच्छ᳚न्‌ त्युश॒तीर॑पिष्ठि॒तम् ||"
+      ],
+      "pre_splits": [
+        "उ॒प॒ऽस्थाय᳚‌म्",
+        "च॒र॒ति॒",
+        "यत्",
+        "स॒‌म्ऽआर॑त",
+        "स॒द्यः",
+        "जा॒तः",
+        "त॒त्सा॒र॒",
+        "युज्ये᳚भिः",
+        "अ॒भि",
+        "श्वा॒न्त‌म्",
+        "मृ॒श॒ते॒",
+        "ना॒न्द्ये᳚",
+        "मु॒दे",
+        "यत्",
+        "ई॒‌म्",
+        "गच्छ᳚न्ति",
+        "उ॒श॒तीः",
+        "अ॒पि॒ऽस्थि॒त‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒प॒ऽस्थाय᳚‌म्",
+          "pada_kn": "ಉಪಸ್ಥಾಯಮ್",
+          "meaning_en": "to the presence/lap",
+          "meaning_kn": "ಸನ್ನಿಧಿಗೆ/ಮಡಲಿಗೆ"
+        },
+        {
+          "pada_original": "च॒र॒ति॒",
+          "pada_kn": "ಚರತಿ",
+          "meaning_en": "moves/goes",
+          "meaning_kn": "ಚಲಿಸುತ್ತದೆ/ಹೋಗುತ್ತದೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when/that which",
+          "meaning_kn": "ಯಾವಾಗ/ಯಾವುದು"
+        },
+        {
+          "pada_original": "स॒‌म्ऽआर॑त",
+          "pada_kn": "ಸಮಾರತ",
+          "meaning_en": "has come together/manifested",
+          "meaning_kn": "ಒಟ್ಟುಗೂಡಿದೆ/ಪ್ರಕಟವಾಗಿದೆ"
+        },
+        {
+          "pada_original": "स॒द्यः",
+          "pada_kn": "ಸದ್ಯಃ",
+          "meaning_en": "immediately/at once",
+          "meaning_kn": "ತಕ್ಷಣವೇ"
+        },
+        {
+          "pada_original": "जा॒तः",
+          "pada_kn": "ಜಾತಃ",
+          "meaning_en": "born/produced",
+          "meaning_kn": "ಹುಟ್ಟಿದ/ಉತ್ಪನ್ನವಾದ"
+        },
+        {
+          "pada_original": "त॒त्सा॒र॒",
+          "pada_kn": "ತತ್ಸಾರ",
+          "meaning_en": "that flows/spreads",
+          "meaning_kn": "ಅದು ಹರಿಯುತ್ತದೆ/ವ್ಯಾಪಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "युज्ये᳚भिः",
+          "pada_kn": "ಯುಜ್ಯೇಭಿಃ",
+          "meaning_en": "with companions/associated powers",
+          "meaning_kn": "ಸಹಚರರೊಂದಿಗೆ/ಸಂಬಂಧಿತ ಶಕ್ತಿಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards/upon",
+          "meaning_kn": "ಕಡೆಗೆ/ಮೇಲೆ"
+        },
+        {
+          "pada_original": "श्वा॒न्त‌म्",
+          "pada_kn": "ಶ್ವಾನ್ತಮ್",
+          "meaning_en": "the breathing/living one",
+          "meaning_kn": "ಉಸಿರಾಡುವ/ಜೀವಂತವಾದ"
+        },
+        {
+          "pada_original": "मृ॒श॒ते॒",
+          "pada_kn": "ಮೃಶತೇ",
+          "meaning_en": "touches/feels",
+          "meaning_kn": "ಸ್ಪರ್ಶಿಸುತ್ತದೆ/ಅನುಭವಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "ना॒न्द्ये᳚",
+          "pada_kn": "ನಾನ್ದ್ಯೇ",
+          "meaning_en": "for joy",
+          "meaning_kn": "ಆನಂದಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "मु॒दे",
+          "pada_kn": "ಮುದೇ",
+          "meaning_en": "for delight/happiness",
+          "meaning_kn": "ಸಂತೋಷಕ್ಕಾಗಿ/ಖುಷಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "ई॒‌म्",
+          "pada_kn": "ಈಮ್",
+          "meaning_en": "him/this",
+          "meaning_kn": "ಅವನನ್ನು/ಇದನ್ನು"
+        },
+        {
+          "pada_original": "गच्छ᳚न्ति",
+          "pada_kn": "ಗಚ್ಛನ್ತಿ",
+          "meaning_en": "they go/approach",
+          "meaning_kn": "ಅವರು ಹೋಗುತ್ತಾರೆ/ಸಮೀಪಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "उ॒श॒तीः",
+          "pada_kn": "ಉಶತೀಃ",
+          "meaning_en": "desiring/longing ones",
+          "meaning_kn": "ಇಚ್ಛಿಸುವ/ಬಯಸುವವರು"
+        },
+        {
+          "pada_original": "अ॒पि॒ऽस्थि॒त‌म्",
+          "pada_kn": "ಅಪಿಸ್ಥಿತಮ್",
+          "meaning_en": "the established/firmly placed one",
+          "meaning_kn": "ಸುಸ್ಥಾಪಿತವಾದ/ದೃಢವಾಗಿ ನೆಲೆಗೊಂಡಿರುವ"
+        }
+      ],
+      "full_meaning_en": "When that which is established moves to the presence, the newly born (Agni) immediately extends with his associated powers. The yearning ones touch this breathing, well-established one for joy and delight, O Agni.",
+      "full_meaning_kn": "ಯಾವ ಸ್ಥಾಪಿತವಾದದ್ದು ಸನ್ನಿಧಿಗೆ ಚಲಿಸುತ್ತದೆಯೋ, ಆಗ ಹೊಸದಾಗಿ ಜನಿಸಿದ (ಅಗ್ನಿ) ತಕ್ಷಣವೇ ತನ್ನ ಸಂಬಂಧಿತ ಶಕ್ತಿಗಳೊಂದಿಗೆ ವಿಸ್ತರಿಸುತ್ತಾನೆ. ಹಂಬಲಿಸುವವರು ಉಲ್ಲಾಸ ಮತ್ತು ಆನಂದಕ್ಕಾಗಿ ಉಸಿರಾಡುವ, ಸುಸ್ಥಾಪಿತನಾದ ಇವನನ್ನು ಸ್ಪರ್ಶಿಸುತ್ತಾರೆ, ಓ ಅಗ್ನಿಯೇ.",
+      "rig_time_s": 49.108,
+      "Insight_en": "Agni, the newly born, represents the awakened consciousness that arises from the depths of our being. This consciousness, imbued with inherent powers (युक्त), seeks the presence of the divine within. The yearning souls, driven by मुदे (joy) and delight, touch this vibrant, breathing presence. This touch signifies a deep connection, an intimate union with the divine flame that resides within the heart.",
+      "Insight_kn": "ಅಗ್ನಿ, ಹೊಸದಾಗಿ ಜನಿಸಿದವನು, ನಮ್ಮ ಅಸ್ತಿತ್ವದ ಆಳದಿಂದ ಉದ್ಭವಿಸುವ ಜಾಗೃತ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಈ ಪ್ರಜ್ಞೆಯು ಅಂತರ್ಗತ ಶಕ್ತಿಗಳಿಂದ (युक्त) ತುಂಬಿದ್ದು, ಒಳಗಿರುವ ದೈವಿಕ ಸನ್ನಿಧಿಯನ್ನು ಬಯಸುತ್ತದೆ. ಹಂಬಲಿಸುವ ಆತ್ಮಗಳು, ಮುದೆ (ಸಂತೋಷ) ಮತ್ತು ಆನಂದದಿಂದ ಪ್ರೇರಿತವಾಗಿ, ಈ ರೋಮಾಂಚಕ, ಉಸಿರಾಡುವ ಉಪಸ್ಥಿತಿಯನ್ನು ಸ್ಪರ್ಶಿಸುತ್ತವೆ. ಈ ಸ್ಪರ್ಶವು ಆಳವಾದ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಹೃದಯದಲ್ಲಿ ನೆಲೆಸಿರುವ ದೈವಿಕ ಜ್ವಾಲೆಯೊಂದಿಗೆ ಒಂದು ನಿಕಟವಾದ ಒಕ್ಕೂಟವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S145_191-5_5",
+      "mandala": 1,
+      "sukta": 145,
+      "ric_index": 5,
+      "rig_lines": [
+        "स ईं᳚ मृ॒गो, अप्यो᳚ वन॒र्गुरुप॑ त्व॒च्यु॑प॒मस्यां॒ नि धा᳚यि |",
+        "व्य॑ब्रवीद्‌ व॒युना॒ मर्त्ये᳚भ्यो॒ऽग्निर्वि॒द्वाँ, ऋ॑त॒चिद्धि स॒त्यः ||"
+      ],
+      "pre_splits": [
+        "सः",
+        "ई॒‌म्",
+        "मृ॒गः",
+        "अप्यः॑",
+        "व॒न॒र्गुः",
+        "उप॑",
+        "त्व॒चि",
+        "उ॒प॒ऽमस्या᳚‌म्",
+        "नि",
+        "धा॒यि॒",
+        "वि",
+        "अ॒ब्र॒वी॒त्",
+        "व॒युना᳚",
+        "मर्त्ये᳚भ्यः",
+        "अ॒ग्निः",
+        "वि॒द्वान्",
+        "ऋ॒त॒ऽचित्",
+        "हि",
+        "स॒त्यः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He",
+          "meaning_kn": "ಅವನು"
+        },
+        {
+          "pada_original": "ई॒‌म्",
+          "pada_kn": "ಈಮ್",
+          "meaning_en": "Indeed / Verily",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "मृ॒गः",
+          "pada_kn": "ಮೃಗಃ",
+          "meaning_en": "The wanderer / The deer (referring to Agni moving through fuel)",
+          "meaning_kn": "ಸಂಚಾರಿ / ಜಿಂಕೆ (ಇಂಧನದಲ್ಲಿ ಚಲಿಸುವ ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "अप्यः॑",
+          "pada_kn": "ಅಪ್ಯಃ",
+          "meaning_en": "Watery / Born in water (or sap of wood)",
+          "meaning_kn": "ನೀರಿನಲ್ಲಿ ಹುಟ್ಟಿದ / ಜಲಮಯ (ಅಥವಾ ಮರದ ರಸದಿಂದ)"
+        },
+        {
+          "pada_original": "व॒न॒र्गुः",
+          "pada_kn": "ವನರ್ಗುಃ",
+          "meaning_en": "Moving in the forest (fuel)",
+          "meaning_kn": "ಅರಣ್ಯದಲ್ಲಿ (ಇಂಧನದಲ್ಲಿ) ಚಲಿಸುವವನು"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "Near / Into",
+          "meaning_kn": "ಸಮೀಪ / ಒಳಗೆ"
+        },
+        {
+          "pada_original": "त्व॒चि",
+          "pada_kn": "ತ್ವಚಿ",
+          "meaning_en": "In the skin / In the covering",
+          "meaning_kn": "ಚರ್ಮದಲ್ಲಿ / ಆವರಣದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "उ॒प॒ऽमस्या᳚‌म्",
+          "pada_kn": "ಉಪಮಸ್ಯಾಮ್",
+          "meaning_en": "The highest / The supreme",
+          "meaning_kn": "ಅತ್ಯುನ್ನತವಾದ / ಶ್ರೇಷ್ಠವಾದ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "Down / Completely",
+          "meaning_kn": "ಕೆಳಗೆ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "धा॒यि॒",
+          "pada_kn": "ಧಾಯಿ",
+          "meaning_en": "Was placed / Was deposited",
+          "meaning_kn": "ಸ್ಥಾಪಿಸಲ್ಪಟ್ಟಿತು / ಇಡಲ್ಪಟ್ಟಿತು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "Apart / Clearly",
+          "meaning_kn": "ಸ್ಪಷ್ಟವಾಗಿ / ಪ್ರತ್ಯೇಕವಾಗಿ"
+        },
+        {
+          "pada_original": "अ॒ब्र॒वी॒त्",
+          "pada_kn": "ಅಬ್ರವೀತ್",
+          "meaning_en": "He spoke / He declared",
+          "meaning_kn": "ಅವನು ಹೇಳಿದನು / ಘೋಷಿಸಿದನು"
+        },
+        {
+          "pada_original": "व॒युना᳚",
+          "pada_kn": "ವಯುನಾ",
+          "meaning_en": "Laws / Ordinances / Manifestations",
+          "meaning_kn": "ನಿಯಮಗಳು / ವಿಧಿಗಳು / ಪ್ರಕಟಣೆಗಳು"
+        },
+        {
+          "pada_original": "मर्त्ये᳚भ्यः",
+          "pada_kn": "ಮರ್ತ್ಯೇಭ್ಯಃ",
+          "meaning_en": "To mortals / For humans",
+          "meaning_kn": "ಮನುಷ್ಯರಿಗೆ / ಮರ್ತ್ಯರಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni / Fire",
+          "meaning_kn": "ಅಗ್ನಿ / ಬೆಂಕಿ"
+        },
+        {
+          "pada_original": "वि॒द्वान्",
+          "pada_kn": "ವಿದ್ವಾನ್",
+          "meaning_en": "Knowing / Wise / All-knowing",
+          "meaning_kn": "ತಿಳಿದಿರುವ / ಜ್ಞಾನಿ / ಸರ್ವಜ್ಞ"
+        },
+        {
+          "pada_original": "ऋ॒त॒ऽचित्",
+          "pada_kn": "ಋತಚಿತ್",
+          "meaning_en": "Knower of truth / Discerner of cosmic order",
+          "meaning_kn": "ಸತ್ಯವನ್ನು ಅರಿತವನು / ಋತದ (ಸೃಷ್ಟಿ ನಿಯಮದ) ಜ್ಞಾನಿ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "Indeed / For / Because",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "स॒त्यः",
+          "pada_kn": "ಸತ್ಯಃ",
+          "meaning_en": "True / Real",
+          "meaning_kn": "ಸತ್ಯವಾದ / ನಿಜವಾದ"
+        }
+      ],
+      "full_meaning_en": "He, Agni, like a deer wandering and born from the waters, traversing the forest, is firmly established within the supreme fuel. He, the wise Agni, cognizant of the cosmic order (ऋत), and veritable truth, distinctly proclaims the divine laws to mortals.",
+      "full_meaning_kn": "ಅವನು, ಅಗ್ನಿಯು, ಜಿಂಕೆಯಂತೆ ಅಲೆದಾಡುವವನು ಮತ್ತು ನೀರಿನಿಂದ ಹುಟ್ಟಿದವನು, ಕಾಡಿನ ಮೂಲಕ ಚಲಿಸುವವನು, ಸರ್ವೋಚ್ಚ ಇಂಧನದಲ್ಲಿ ದೃಢವಾಗಿ ಸ್ಥಾಪಿತನಾಗಿದ್ದಾನೆ. ಅವನು, ಜ್ಞಾನಿಯಾದ ಅಗ್ನಿ, ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು (ಋತ) ಅರಿತವನು ಮತ್ತು ಸತ್ಯವಾದ ಸತ್ಯ, ದೈವಿಕ ಕಾನೂನುಗಳನ್ನು ಮನುಷ್ಯರಿಗೆ ಸ್ಪಷ್ಟವಾಗಿ ಘೋಷಿಸುತ್ತಾನೆ.",
+      "rig_time_s": 64.897,
+      "Insight_en": "Agni embodies the transformative power of consciousness, hidden within the layers of existence. Like a deer, it seeks and reveals itself through the forest of experiences. Rooted in the primal waters of creation, Agni represents the inner fire of truth (सत्य), which illuminates the path for humanity, revealing the divine laws that govern the cosmos and our inner selves. This inner अग्नि guides us towards understanding and liberation.",
+      "Insight_kn": "ಅಗ್ನಿಯು ಅಸ್ತಿತ್ವದ ಪದರಗಳಲ್ಲಿ ಅಡಗಿರುವ ಪ್ರಜ್ಞೆಯ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ಜಿಂಕೆಯಂತೆ, ಇದು ಅನುಭವಗಳ ಕಾಡಿನ ಮೂಲಕ ತನ್ನನ್ನು ತಾನು ಹುಡುಕುತ್ತದೆ ಮತ್ತು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಸೃಷ್ಟಿಯ ಪ್ರಾಚೀನ ನೀರಿನಲ್ಲಿ ಬೇರೂರಿರುವ ಅಗ್ನಿ ಸತ್ಯದ (सत्य) ಆಂತರಿಕ ಬೆಂಕಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಮಾನವಕುಲಕ್ಕೆ ದಾರಿಯನ್ನು ಬೆಳಗಿಸುತ್ತದೆ, ವಿಶ್ವ ಮತ್ತು ನಮ್ಮ ಆಂತರಿಕ ಸ್ವಭಾವಗಳನ್ನು ನಿಯಂತ್ರಿಸುವ ದೈವಿಕ ನಿಯಮಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಈ ಆಂತರಿಕ अग्नि ನಮಗೆ ತಿಳುವಳಿಕೆ ಮತ್ತು ವಿಮೋಚನೆಯ ಕಡೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

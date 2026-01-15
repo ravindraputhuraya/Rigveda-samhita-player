@@ -1,0 +1,937 @@
+{
+  "mandala": 1,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M1-S179_191-1_6",
+      "mandala": 1,
+      "sukta": 179,
+      "ric_index": 1,
+      "rig_lines": [
+        "पू॒र्वीर॒हं श॒रदः॑ शश्रमा॒णा दो॒षा वस्तो᳚रु॒षसो᳚ ज॒रय᳚न्तीः |",
+        "मि॒नाति॒ श्रियं᳚ जरि॒मा त॒नूना॒मप्यू॒ नु पत्नी॒र्वृष॑णो जगम्युः ||"
+      ],
+      "pre_splits": [
+        "पू॒र्वीः",
+        "अ॒ह‌म्",
+        "श॒रदः॑",
+        "श॒श्र॒मा॒णा",
+        "दो॒षाः",
+        "वस्तोः᳚",
+        "उ॒षसः॑",
+        "ज॒रय᳚न्तीः",
+        "मि॒नाति॑",
+        "श्रिय᳚‌म्",
+        "ज॒रि॒मा",
+        "त॒नूना᳚‌म्",
+        "अपि॑",
+        "ऊँ॒ इति॑",
+        "नु",
+        "पत्नीः᳚",
+        "वृष॑णः",
+        "ज॒ग॒म्युः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "पू॒र्वीः",
+          "pada_kn": "ಪೂರ್ವೀಃ",
+          "meaning_en": "many / ancient",
+          "meaning_kn": "ಅನೇಕ / ಹಳೆಯ"
+        },
+        {
+          "pada_original": "अ॒ह‌म्",
+          "pada_kn": "ಅಹಮ್",
+          "meaning_en": "I",
+          "meaning_kn": "ನಾನು"
+        },
+        {
+          "pada_original": "श॒रदः॑",
+          "pada_kn": "ಶರದಃ",
+          "meaning_en": "years / autumns",
+          "meaning_kn": "ವರ್ಷಗಳು / ಶರತ್ಕಾಲಗಳು"
+        },
+        {
+          "pada_original": "श॒श्र॒मा॒णा",
+          "pada_kn": "ಶಶ್ರಮಾಣಾ",
+          "meaning_en": "toiling / having exerted myself",
+          "meaning_kn": "ಶ್ರಮಿಸುತ್ತಾ / ದಣಿದು"
+        },
+        {
+          "pada_original": "दो॒षाः",
+          "pada_kn": "ದೋಷಾಃ",
+          "meaning_en": "nights",
+          "meaning_kn": "ರಾತ್ರಿಗಳು"
+        },
+        {
+          "pada_original": "वस्तोः᳚",
+          "pada_kn": "ವಸ್ತೋಃ",
+          "meaning_en": "of the day",
+          "meaning_kn": "ಹಗಲಿನ"
+        },
+        {
+          "pada_original": "उ॒षसः॑",
+          "pada_kn": "ಉಷಸಃ",
+          "meaning_en": "dawns",
+          "meaning_kn": "ಉಷೆಗಳು / ಪ್ರಭಾತಗಳು"
+        },
+        {
+          "pada_original": "ज॒रय᳚न्तीः",
+          "pada_kn": "ಜರಯನ್ತೀಃ",
+          "meaning_en": "making old / causing to decay",
+          "meaning_kn": "ಮುಪ್ಪಾಗಿಸುತ್ತಾ / ಕ್ಷಯಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "मि॒नाति॑",
+          "pada_kn": "ಮಿನಾತಿ",
+          "meaning_en": "diminishes / destroys",
+          "meaning_kn": "ಕಡಿಮೆ ಮಾಡುತ್ತದೆ / ನಾಶಮಾಡುತ್ತದೆ"
+        },
+        {
+          "pada_original": "श्रिय᳚‌म्",
+          "pada_kn": "ಶ್ರಿಯಮ್",
+          "meaning_en": "beauty / glory",
+          "meaning_kn": "ಸೌಂದರ್ಯ / ವೈಭವ"
+        },
+        {
+          "pada_original": "ज॒रि॒मा",
+          "pada_kn": "ಜರಿಮಾ",
+          "meaning_en": "old age / decay",
+          "meaning_kn": "ಮುಪ್ಪು / ಕ್ಷಯ"
+        },
+        {
+          "pada_original": "त॒नूना᳚‌म्",
+          "pada_kn": "ತನೂನಾಮ್",
+          "meaning_en": "of bodies",
+          "meaning_kn": "ಶರೀರಗಳ / ದೇಹಗಳ"
+        },
+        {
+          "pada_original": "अपि॑",
+          "pada_kn": "ಅಪಿ",
+          "meaning_en": "also / even",
+          "meaning_kn": "ಸಹ / ಕೂಡ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊँ ಇತಿ",
+          "meaning_en": "(particle, indeed)",
+          "meaning_kn": "(ನಿಶ್ಚಯವಾಗಿ ಸೂಚಿಸುವ ಅವ್ಯಯ)"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "now / indeed",
+          "meaning_kn": "ಈಗ / ಖಂಡಿತವಾಗಿ"
+        },
+        {
+          "pada_original": "पत्नीः᳚",
+          "pada_kn": "ಪತ್ನೀಃ",
+          "meaning_en": "wives / female partners",
+          "meaning_kn": "ಪತ್ನಿಯರು / ಹೆಣ್ಣು ಸಂಗಾತಿಗಳು"
+        },
+        {
+          "pada_original": "वृष॑णः",
+          "pada_kn": "ವೃಷಣಃ",
+          "meaning_en": "strong males / husbands",
+          "meaning_kn": "ಗಂಡಸರು / ಪತಿಗಳು"
+        },
+        {
+          "pada_original": "ज॒ग॒म्युः॒",
+          "pada_kn": "ಜಗಮ್ಯುಃ",
+          "meaning_en": "may they come / may they attain",
+          "meaning_kn": "ಅವರು ಬರಲಿ / ಅವರು ಸೇರಲಿ"
+        }
+      ],
+      "full_meaning_en": "O, I, having labored through numerous autumns, witnessing nights and dawns that hasten decay, perceive that old age diminishes the splendor of bodies. Even now, may wives and potent husbands unite.",
+      "full_meaning_kn": "ಓ, ನಾನು, ಹಲವಾರು ಶರತ್ಕಾಲಗಳನ್ನು ದುಡಿದು, ಕ್ಷೀಣಿಸುವ ರಾತ್ರಿ ಮತ್ತು ಬೆಳಗುಗಳನ್ನು ನೋಡುತ್ತಾ, ವೃದ್ಧಾಪ್ಯವು ದೇಹಗಳ ಸೌಂದರ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಎಂದು ಗ್ರಹಿಸುತ್ತೇನೆ. ಈಗಲಾದರೂ, ಹೆಂಡತಿಯರು ಮತ್ತು ಬಲಶಾಲಿ ಗಂಡಂದಿರು ಒಂದಾಗಲಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The relentless passage of time, marked by the cycle of nights and dawns, inevitably leads to physical decline. However, even amidst this decay, the mantra expresses a poignant desire for union and connection. The yearning for companionship signifies an enduring human need, transcending the limitations of the aging body. It speaks to the deeper spiritual truth that love and relationships persist, even as external forms fade. The inherent longing of the individual (आत्म) for the universal (ब्रह्म) remains constant.",
+      "Insight_kn": "ಕಾಲದ ನಿರಂತರ ಚಲನೆ, ರಾತ್ರಿ ಮತ್ತು ಬೆಳಗಿನ ಚಕ್ರದಿಂದ ಗುರುತಿಸಲ್ಪಟ್ಟಿದೆ, ಇದು ಅನಿವಾರ್ಯವಾಗಿ ದೈಹಿಕ ಅವನತಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಆದಾಗ್ಯೂ, ಈ ಅವನತಿಯ ನಡುವೆಯೂ, ಮಂತ್ರವು ಒಕ್ಕೂಟ ಮತ್ತು ಸಂಪರ್ಕಕ್ಕಾಗಿ ತೀವ್ರವಾದ ಬಯಕೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ. ಒಡನಾಟದ ಹಂಬಲವು ಶಾಶ್ವತವಾದ ಮಾನವ ಅಗತ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ವಯಸ್ಸಾದ ದೇಹದ ಮಿತಿಗಳನ್ನು ಮೀರುತ್ತದೆ. ಬಾಹ್ಯ ರೂಪಗಳು ಮರೆಯಾದರೂ ಪ್ರೀತಿ ಮತ್ತು ಸಂಬಂಧಗಳು ಮುಂದುವರಿಯುತ್ತವೆ ಎಂಬ ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಸತ್ಯಕ್ಕೆ ಇದು ಮಾತನಾಡುತ್ತದೆ. ವ್ಯಕ್ತಿಯ ಸಹಜ ಹಂಬಲ (ಆತ್ಮ) ಸಾರ್ವತ್ರಿಕಕ್ಕಾಗಿ (ಬ್ರಹ್ಮ) ಸ್ಥಿರವಾಗಿರುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S179_191-2_6",
+      "mandala": 1,
+      "sukta": 179,
+      "ric_index": 2,
+      "rig_lines": [
+        "ये चि॒द्धि पूर्व॑ ऋत॒साप॒ आस᳚न् त्सा॒कं दे॒वेभि॒रव॑दन्नृ॒तानि॑ |",
+        "ते चि॒दवा᳚सुर्न॒ह्यन्त॑मा॒पुः समू॒ नु पत्नी॒र्वृष॑भिर्जगम्युः ||"
+      ],
+      "pre_splits": [
+        "ये",
+        "चि॒त्",
+        "हि",
+        "पूर्वे᳚",
+        "ऋ॒त॒ऽसापः॑",
+        "आस॑न्",
+        "सा॒क‌म्",
+        "दे॒वेभिः॑",
+        "अव॑दन्",
+        "ऋ॒तानि॑",
+        "ते",
+        "चि॒त्",
+        "अव॑",
+        "अ॒सुः॒",
+        "न॒हि",
+        "अन्त᳚‌म्",
+        "आ॒पुः",
+        "स‌म्",
+        "ऊँ॒ इति॑",
+        "नु",
+        "पत्नीः᳚",
+        "वृष॑ऽभिः",
+        "ज॒ग॒म्युः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ये",
+          "pada_kn": "ಯೇ",
+          "meaning_en": "Those",
+          "meaning_kn": "ಯಾರು/ಅವರು"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "indeed / even",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ/ಕೂಡ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "for / certainly",
+          "meaning_kn": "ಏಕೆಂದರೆ/ಖಂಡಿತ"
+        },
+        {
+          "pada_original": "पूर्वे᳚",
+          "pada_kn": "ಪೂರ್ವೇ",
+          "meaning_en": "ancient ones / ancestors",
+          "meaning_kn": "ಪ್ರಾಚೀನರು/ಹಿಂದಿನವರು"
+        },
+        {
+          "pada_original": "ऋ॒त॒ऽसापः॑",
+          "pada_kn": "ಋತಸಾಪಃ",
+          "meaning_en": "upholders of Ṛta (cosmic order)",
+          "meaning_kn": "ಋತವನ್ನು (ಸತ್ಯ/ವ್ಯವಸ್ಥೆ) ಎತ್ತಿಹಿಡಿದವರು"
+        },
+        {
+          "pada_original": "आस॑न्",
+          "pada_kn": "ಆಸನ್",
+          "meaning_en": "were",
+          "meaning_kn": "ಇದ್ದರು"
+        },
+        {
+          "pada_original": "सा॒क‌म्",
+          "pada_kn": "ಸಾಕಮ್",
+          "meaning_en": "together with",
+          "meaning_kn": "ಜೊತೆಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "दे॒वेभिः॑",
+          "pada_kn": "ದೇವೇಭಿಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "अव॑दन्",
+          "pada_kn": "ಅವದನ್",
+          "meaning_en": "declared / spoke",
+          "meaning_kn": "ಘೋಷಿಸಿದರು/ನುಡಿದರು"
+        },
+        {
+          "pada_original": "ऋ॒तानि॑",
+          "pada_kn": "ಋತಾನಿ",
+          "meaning_en": "truths / sacred laws",
+          "meaning_kn": "ಸತ್ಯಗಳನ್ನು/ಪವಿತ್ರ ನಿಯಮಗಳನ್ನು"
+        },
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "They",
+          "meaning_kn": "ಅವರು"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "even",
+          "meaning_kn": "ಕೂಡ"
+        },
+        {
+          "pada_original": "अव॑",
+          "pada_kn": "ಅವ",
+          "meaning_en": "down / away (prefix)",
+          "meaning_kn": "ಕೆಳಗೆ/ದೂರ"
+        },
+        {
+          "pada_original": "अ॒सुः॒",
+          "pada_kn": "ಅಸುಃ",
+          "meaning_en": "perished / ceased to be",
+          "meaning_kn": "ಅಳಿದುಹೋದರು/ಇಲ್ಲವಾದರು"
+        },
+        {
+          "pada_original": "न॒हि",
+          "pada_kn": "ನಹಿ",
+          "meaning_en": "not indeed / never",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ ಇಲ್ಲ/ಎಂದಿಗೂ ಇಲ್ಲ"
+        },
+        {
+          "pada_original": "अन्त᳚‌म्",
+          "pada_kn": "ಅಂತಮ್",
+          "meaning_en": "the end / limit",
+          "meaning_kn": "ಅಂತ್ಯವನ್ನು/ಮಿತಿಯನ್ನು"
+        },
+        {
+          "pada_original": "आ॒पुः",
+          "pada_kn": "ಆಪುಃ",
+          "meaning_en": "reached / attained",
+          "meaning_kn": "ತಲುಪಿದರು/ಪಡೆದರು"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / completely",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ/ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "ऊँ॒ इति॑",
+          "pada_kn": "ಊಂ ಇತಿ",
+          "meaning_en": "(particle for emphasis)",
+          "meaning_kn": "(ಒಂದು ನಿಪಾತ)"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "now / then",
+          "meaning_kn": "ಈಗ/ಆಗ"
+        },
+        {
+          "pada_original": "पत्नीः᳚",
+          "pada_kn": "ಪತ್ನೀಃ",
+          "meaning_en": "wives",
+          "meaning_kn": "ಪತ್ನಿಯರು"
+        },
+        {
+          "pada_original": "वृष॑ऽभिः",
+          "pada_kn": "ವೃಷಭಿಃ",
+          "meaning_en": "with virile husbands",
+          "meaning_kn": "ಶಕ್ತಿವಂತ ಪತಿಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "ज॒ग॒म्युः॒",
+          "pada_kn": "ಜಗಮ್ಯುಃ",
+          "meaning_en": "may they unite / may they go",
+          "meaning_kn": "ಸೇರಿಕೊಳ್ಳಲಿ/ಹೋಗಲಿ"
+        }
+      ],
+      "full_meaning_en": "O, those ancient seers who, indeed, upheld the cosmic order (ṛta) and proclaimed sacred truths in unison with the gods—verily, even they have passed away and attained not the ultimate end. Now, therefore, may wives unite fully with their potent husbands, for the sake of progeny.",
+      "full_meaning_kn": "ಓ, ಯಾವ ಪೂರ್ವ ಋಷಿಗಳು ಋತವನ್ನು (ಕಾಸ್ಮಿಕ್ ಸುವ್ಯವಸ್ಥೆ) ಎತ್ತಿಹಿಡಿದು ದೇವತೆಗಳೊಂದಿಗೆ ಪವಿತ್ರ ಸತ್ಯಗಳನ್ನು ಒಟ್ಟಾಗಿ ಘೋಷಿಸಿದರೋ, ಅವರೂ ಸಹ ನಿಧನರಾದರು ಮತ್ತು ಅಂತಿಮ ಗುರಿಯನ್ನು ತಲುಪಲಿಲ್ಲ. ಆದ್ದರಿಂದ, ಈಗ, ಪತ್ನಿಯರು ಸಂತಾನಕ್ಕಾಗಿ ತಮ್ಮ ಸಮರ್ಥ ಗಂಡಂದಿರೊಂದಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಒಂದಾಗಲಿ.",
+      "rig_time_s": 14.206,
+      "Insight_en": "The mantra reveals the transient nature of even the most righteous and enlightened beings. Despite upholding cosmic law (ṛta) and communing with the divine, mortality remains inevitable. The call for union and progeny highlights the continuation of life and dharma through successive generations, a pragmatic acceptance of earthly existence despite its impermanence. The union symbolizes not just physical procreation, but also the continuity of wisdom and spiritual heritage.",
+      "Insight_kn": "ಮಂತ್ರವು ಅತ್ಯಂತ ನೀತಿವಂತ ಮತ್ತು ಜ್ಞಾನೋದಯ ಪಡೆದ ಜೀವಿಗಳ ಸಹ ತಾತ್ಕಾಲಿಕ ಸ್ವರೂಪವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಕಾಸ್ಮಿಕ್ ನಿಯಮವನ್ನು (ಋತ) ಎತ್ತಿಹಿಡಿದು ದೈವಿಕದೊಂದಿಗೆ ಸಂವಹನ ನಡೆಸಿದರೂ, ಮರಣವು ಅನಿವಾರ್ಯವಾಗಿದೆ. ಒಕ್ಕೂಟ ಮತ್ತು ಸಂತತಿಯ ಕರೆಯು ಮುಂದಿನ ಪೀಳಿಗೆಗಳ ಮೂಲಕ ಜೀವನ ಮತ್ತು ಧರ್ಮದ ಮುಂದುವರಿಕೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಅದರ ಶಾಶ್ವತವಲ್ಲದ ಹೊರತಾಗಿಯೂ ಪ್ರಾಪಂಚಿಕ ಅಸ್ತಿತ್ವದ ಪ್ರಾಯೋಗಿಕ ಸ್ವೀಕಾರವಾಗಿದೆ. ಈ ಒಕ್ಕೂಟವು ಕೇವಲ ದೈಹಿಕ ಸಂತಾನೋತ್ಪತ್ತಿಯನ್ನು ಮಾತ್ರವಲ್ಲ, ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆಯ ಮುಂದುವರಿಕೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S179_191-3_6",
+      "mandala": 1,
+      "sukta": 179,
+      "ric_index": 3,
+      "rig_lines": [
+        "न मृषा᳚ श्रा॒न्तं यदव᳚न्ति दे॒वा विश्वा॒, इत्‌ स्पृधो᳚, अ॒भ्य॑श्नवाव |",
+        "जया॒वेदत्र॑ श॒तनी᳚थमा॒जिं यत्‌ स॒म्यञ्चा᳚ मिथु॒नाव॒भ्यजा᳚व ||"
+      ],
+      "pre_splits": [
+        "न",
+        "मृषा᳚",
+        "श्रा॒न्त‌म्",
+        "यत्",
+        "अव᳚न्ति",
+        "दे॒वाः",
+        "विश्वाः᳚",
+        "इत्",
+        "स्पृधः॑",
+        "अ॒भि",
+        "अ॒श्न॒वा॒व॒",
+        "जया᳚व",
+        "इत्",
+        "अत्र॑",
+        "श॒तऽनी᳚थ‌म्",
+        "आ॒जि‌म्",
+        "यत्",
+        "स॒म्यंचा᳚",
+        "मि॒थु॒नौ",
+        "अ॒भि",
+        "अजा᳚व"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "मृषा᳚",
+          "pada_kn": "ಮೃಷಾ",
+          "meaning_en": "in vain / falsely",
+          "meaning_kn": "ವ್ಯರ್ಥವಾಗಿ / ಸುಳ್ಳಾಗಿ"
+        },
+        {
+          "pada_original": "श्रा॒न्त‌म्",
+          "pada_kn": "ಶ್ರಾನ್ತಮ್",
+          "meaning_en": "effort / weariness",
+          "meaning_kn": "ಶ್ರಮ / ಆಯಾಸ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / that",
+          "meaning_kn": "ಯಾವಾಗ / ಅದು"
+        },
+        {
+          "pada_original": "अव᳚न्ति",
+          "pada_kn": "ಅವನ್ತಿ",
+          "meaning_en": "they protect / help",
+          "meaning_kn": "ಅವರು ರಕ್ಷಿಸುತ್ತಾರೆ / ಸಹಾಯ ಮಾಡುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "दे॒वाः",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "विश्वाः᳚",
+          "pada_kn": "ವಿಶ್ವಾಃ",
+          "meaning_en": "all",
+          "meaning_kn": "ಎಲ್ಲಾ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿ"
+        },
+        {
+          "pada_original": "स्पृधः॑",
+          "pada_kn": "ಸ್ಪೃಧಃ",
+          "meaning_en": "rivals / contests",
+          "meaning_kn": "ಪ್ರತಿಸ್ಪರ್ಧಿಗಳು / ಸ್ಪರ್ಧೆಗಳು"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "over / against",
+          "meaning_kn": "ಮೇಲೆ / ವಿರುದ್ಧ"
+        },
+        {
+          "pada_original": "अ॒श्न॒वा॒व॒",
+          "pada_kn": "ಅಶ್ನವಾ ವಾ",
+          "meaning_en": "may we overcome / attain",
+          "meaning_kn": "ನಾವು ಜಯಿಸೋಣ / ಪಡೆಯೋಣ"
+        },
+        {
+          "pada_original": "जया᳚व",
+          "pada_kn": "ಜಯಾವ",
+          "meaning_en": "may we conquer / win",
+          "meaning_kn": "ನಾವು ಗೆಲ್ಲೋಣ / ಜಯಿಸೋಣ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿ"
+        },
+        {
+          "pada_original": "अत्र॑",
+          "pada_kn": "ಅತ್ರ",
+          "meaning_en": "here / in this",
+          "meaning_kn": "ಇಲ್ಲಿ / ಇದರಲ್ಲಿ"
+        },
+        {
+          "pada_original": "श॒तऽनी᳚थ‌म्",
+          "pada_kn": "ಶತನೀಥಮ್",
+          "meaning_en": "hundredfold gain / rich prize",
+          "meaning_kn": "ನೂರಾರು ಲಾಭ / ಸಮೃದ್ಧ ಬಹುಮಾನ"
+        },
+        {
+          "pada_original": "आ॒जि‌म्",
+          "pada_kn": "ಆಜಿಮ್",
+          "meaning_en": "battle / contest",
+          "meaning_kn": "ಯುದ್ಧ / ಸ್ಪರ್ಧೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / if",
+          "meaning_kn": "ಯಾವಾಗ / ವೇಳೆ"
+        },
+        {
+          "pada_original": "स॒म्यंचा᳚",
+          "pada_kn": "ಸಮ್ಯಂಚಾ",
+          "meaning_en": "united / together",
+          "meaning_kn": "ಒಂದಾಗಿ / ಒಟ್ಟಾಗಿ"
+        },
+        {
+          "pada_original": "मि॒थु॒नौ",
+          "pada_kn": "ಮಿಥುನೌ",
+          "meaning_en": "a pair / husband and wife",
+          "meaning_kn": "ದಂಪತಿಗಳು / ಗಂಡ ಮತ್ತು ಹೆಂಡತಿ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "over / towards",
+          "meaning_kn": "ಮೇಲೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "अजा᳚व",
+          "pada_kn": "ಅಜಾವ",
+          "meaning_en": "may we drive / may we achieve",
+          "meaning_kn": "ನಾವು ಮುನ್ನಡೆಸೋಣ / ಸಾಧಿಸೋಣ"
+        }
+      ],
+      "full_meaning_en": "Verily, when the Gods protect our tireless efforts, they are not in vain. Indeed, may we overcome all adversaries and attain this contest for a hundredfold wealth. When we, as a harmonious couple, strive together, may we assuredly achieve triumph.",
+      "full_meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ, ದೇವತೆಗಳು ನಮ್ಮ ದಣಿವರಿಯದ ಪ್ರಯತ್ನಗಳನ್ನು ರಕ್ಷಿಸಿದಾಗ, ಅವು ವ್ಯರ್ಥವಾಗುವುದಿಲ್ಲ. ಖಂಡಿತವಾಗಿಯೂ, ನಾವು ಎಲ್ಲಾ ವಿರೋಧಿಗಳನ್ನು ಜಯಿಸಿ ನೂರು ಪಟ್ಟು ಸಂಪತ್ತಿಗಾಗಿ ಈ ಸ್ಪರ್ಧೆಯನ್ನು ಪಡೆಯೋಣ. ನಾವು, ಸಾಮರಸ್ಯದ ದಂಪತಿಗಳಾಗಿ ಒಟ್ಟಾಗಿ ಪ್ರಯತ್ನಿಸಿದಾಗ, ನಾವು ಖಚಿತವಾಗಿ ವಿಜಯವನ್ನು ಸಾಧಿಸೋಣ.",
+      "rig_time_s": 27.603,
+      "Insight_en": "The mantra unveils the profound interdependence of divine grace and human endeavor. It's not enough to merely act; one must act with devotion and tireless effort, inviting the Gods (divine forces) into the process. The attainment of \"hundredfold wealth\" symbolizes not just material gain but also the abundance of spiritual merit and inner fulfillment. The harmonious couple signifies the union of intellect and intuition, action and contemplation, ultimately leading to assured triumph. This union is the key to overcoming internal and external adversaries, revealing the path to holistic success through the alignment of human will and divine will.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ದೈವಿಕ ಅನುಗ್ರಹ ಮತ್ತು ಮಾನವ ಪ್ರಯತ್ನದ ಆಳವಾದ ಪರಸ್ಪರ ಅವಲಂಬನೆಯನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತದೆ. ಕೇವಲ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದು ಸಾಕಾಗುವುದಿಲ್ಲ; ಒಬ್ಬರು ಭಕ್ತಿ ಮತ್ತು ದಣಿವರಿಯದ ಪ್ರಯತ್ನದಿಂದ ಕಾರ್ಯನಿರ್ವಹಿಸಬೇಕು, ದೇವತೆಗಳನ್ನು (ದೈವಿಕ ಶಕ್ತಿಗಳನ್ನು) ಪ್ರಕ್ರಿಯೆಗೆ ಆಹ್ವಾನಿಸಬೇಕು. \"ನೂರು ಪಟ್ಟು ಸಂಪತ್ತು\" ಗಳಿಕೆಯು ಕೇವಲ ಭೌತಿಕ ಲಾಭವನ್ನು ಮಾತ್ರವಲ್ಲದೆ ಆಧ್ಯಾತ್ಮಿಕ ಅರ್ಹತೆ ಮತ್ತು ಆಂತರಿಕ ತೃಪ್ತಿಯ ಸಮೃದ್ಧಿಯನ್ನೂ ಸಂಕೇತಿಸುತ್ತದೆ. ಸಾಮರಸ್ಯದ ದಂಪತಿಗಳು ಬುದ್ಧಿ ಮತ್ತು ಅಂತಃಪ್ರಜ್ಞೆ, ಕ್ರಿಯೆ ಮತ್ತು ಚಿಂತನೆಯ ಒಕ್ಕೂಟವನ್ನು ಸೂಚಿಸುತ್ತಾರೆ, ಅಂತಿಮವಾಗಿ ಖಚಿತವಾದ ವಿಜಯಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಈ ಒಕ್ಕೂಟವು ಆಂತರಿಕ ಮತ್ತು ಬಾಹ್ಯ ವಿರೋಧಿಗಳನ್ನು ಜಯಿಸಲು ಪ್ರಮುಖವಾಗಿದೆ, ಮಾನವ ಇಚ್ಛೆ ಮತ್ತು ದೈವಿಕ ಇಚ್ಛೆಯ ಜೋಡಣೆಯ ಮೂಲಕ ಸಮಗ್ರ ಯಶಸ್ಸಿನ ಹಾದಿಯನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S179_191-4_6",
+      "mandala": 1,
+      "sukta": 179,
+      "ric_index": 4,
+      "rig_lines": [
+        "न॒दस्य॑ मा रुध॒तः काम॒ आग᳚न्नि॒त आजा᳚तो, अ॒मुतः॒ कुत॑श्चित् |",
+        "लोपा᳚मुद्रा॒ वृष॑णं॒ नी रि॑णाति॒ धीर॒मधी᳚रा धयति श्व॒सन्त᳚म् ||"
+      ],
+      "pre_splits": [
+        "न॒दस्य॑",
+        "मा॒",
+        "रु॒ध॒तः",
+        "कामः॑",
+        "आ",
+        "अ॒ग॒न्",
+        "इ॒तः",
+        "आऽजा᳚तः",
+        "अ॒मुतः॑",
+        "कुतः॑",
+        "चि॒त्",
+        "लोपा᳚मुद्रा",
+        "वृष॑ण‌म्",
+        "निः",
+        "रि॒णा॒ति॒",
+        "धीर᳚‌म्",
+        "अधी᳚रा",
+        "ध॒य॒ति॒",
+        "श्व॒सन्त᳚‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "न॒दस्य॑",
+          "pada_kn": "ನದಸ್ಯ",
+          "meaning_en": "of the roaring (one/river)",
+          "meaning_kn": "ಘರ್ಜಿಸುವವನ / ನದಿಯ"
+        },
+        {
+          "pada_original": "मा॒",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "to me",
+          "meaning_kn": "ನನಗೆ"
+        },
+        {
+          "pada_original": "रु॒ध॒तः",
+          "pada_kn": "ರುಧತಃ",
+          "meaning_en": "held back / obstructed",
+          "meaning_kn": "ತಡೆಯಲ್ಪಟ್ಟಿದ್ದ / ನಿಲ್ಲಿಸಿದ್ದ"
+        },
+        {
+          "pada_original": "कामः॑",
+          "pada_kn": "ಕಾಮಃ",
+          "meaning_en": "desire / longing",
+          "meaning_kn": "ಇಚ್ಛೆ / ಕಾಮ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "hither / towards",
+          "meaning_kn": "ಕಡೆಗೆ / ಇಲ್ಲಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒ग॒न्",
+          "pada_kn": "ಅಗನ್",
+          "meaning_en": "came / has come",
+          "meaning_kn": "ಬಂದಿತು / ಬಂದಿದೆ"
+        },
+        {
+          "pada_original": "इ॒तः",
+          "pada_kn": "ಇತಃ",
+          "meaning_en": "from here",
+          "meaning_kn": "ಇಲ್ಲಿಂದ"
+        },
+        {
+          "pada_original": "आऽजा᳚तः",
+          "pada_kn": "ಆಜಾತಃ",
+          "meaning_en": "born / arisen",
+          "meaning_kn": "ಹುಟ್ಟಿದ / ಉದ್ಭವಿಸಿದ"
+        },
+        {
+          "pada_original": "अ॒मुतः॑",
+          "pada_kn": "ಅಮುತಃ",
+          "meaning_en": "from there",
+          "meaning_kn": "ಅಲ್ಲಿಂದ"
+        },
+        {
+          "pada_original": "कुतः॑",
+          "pada_kn": "ಕುತಃ",
+          "meaning_en": "from where",
+          "meaning_kn": "ಎಲ್ಲಿಂದ"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "even / indeed / any",
+          "meaning_kn": "ಆದರೂ / ಕೂಡ / ಯಾವುದೋ"
+        },
+        {
+          "pada_original": "लोपा᳚मुद्रा",
+          "pada_kn": "ಲೋಪಾಮುದ್ರಾ",
+          "meaning_en": "Lopamudra (Agastya's wife)",
+          "meaning_kn": "ಲೋಪಾಮುದ್ರಾ (ಅಗಸ್ತ್ಯನ ಪತ್ನಿ)"
+        },
+        {
+          "pada_original": "वृष॑ण‌म्",
+          "pada_kn": "ವೃಷಣಮ್",
+          "meaning_en": "the virile one / the potent one",
+          "meaning_kn": "ವೃಷಭನಂತಹ / ಶಕ್ತಿವಂತನಾದ (ಅಗಸ್ತ್ಯನನ್ನು)"
+        },
+        {
+          "pada_original": "निः",
+          "pada_kn": "ನಿಃ",
+          "meaning_en": "down / completely / away",
+          "meaning_kn": "ಕೆಳಗೆ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "रि॒णा॒ति॒",
+          "pada_kn": "ರಿಣಾತಿ",
+          "meaning_en": "releases / sets free / drains",
+          "meaning_kn": "ಬಿಡುಗಡೆಗೊಳಿಸುತ್ತಾಳೆ / ಹರಿಸುತ್ತಾಳೆ"
+        },
+        {
+          "pada_original": "धीर᳚‌म्",
+          "pada_kn": "ಧೀರಮ್",
+          "meaning_en": "the steadfast / the firm one",
+          "meaning_kn": "ಧೀರನಾದ / ಸ್ಥಿರಚಿತ್ತನಾದ (ಅಗಸ್ತ್ಯನನ್ನು)"
+        },
+        {
+          "pada_original": "अधी᳚रा",
+          "pada_kn": "ಅಧೀರಾ",
+          "meaning_en": "the impatient / the restless one",
+          "meaning_kn": "ಅಧೀರಳಾದ / ಅಶಾಂತಳಾದ (ಲೋಪಾಮುದ್ರಾ)"
+        },
+        {
+          "pada_original": "ध॒य॒ति॒",
+          "pada_kn": "ಧಯತಿ",
+          "meaning_en": "sucks / draws / embraces",
+          "meaning_kn": "ಹೀರಿಕೊಳ್ಳುತ್ತಾಳೆ / ಆಲಿಂಗಿಸುತ್ತಾಳೆ"
+        },
+        {
+          "pada_original": "श्व॒सन्त᳚‌म्",
+          "pada_kn": "ಶ್ವಸನ್ತಮ್",
+          "meaning_en": "the breathing / the panting one",
+          "meaning_kn": "ಉಸಿರಾಡುತ್ತಿರುವ / ಕಂಪಿಸುತ್ತಿರುವ"
+        }
+      ],
+      "full_meaning_en": "The desire, restrained like the roaring of a river, has come to me, Agastya, from here, from there, from any place. Lopamudra releases the virile power of the mighty one; the restless one embraces the steadfast, breathing sage.",
+      "full_meaning_kn": "ನದಿಗಳ ಘೋಷದಂತೆ ತಡೆಯಲ್ಪಟ್ಟ ಬಯಕೆಯು ಅಗಸ್ತ್ಯನಾದ ನನಗೆ ಇಲ್ಲಿಂದ, ಅಲ್ಲಿಂದ, ಯಾವುದೇ ಸ್ಥಳದಿಂದ ಬಂದಿದೆ. ಲೋಪಮುದ್ರೆಯು ಬಲಿಷ್ಠನಾದ ವೀರನ ಶಕ್ತಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತಾಳೆ; ಚಂಚಲ ಸ್ವಭಾವದವಳು ಸ್ಥಿರಚಿತ್ತನಾದ, ಉಸಿರಾಡುತ್ತಿರುವ ಋಷಿಯನ್ನು ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಾಳೆ.",
+      "rig_time_s": 42.014,
+      "Insight_en": "The mantra explores the interplay between desire and restraint in spiritual practice. Agastya's experience reflects the universal tension between worldly desires and the call for renunciation. Lopamudra symbolizes the shakti, the divine feminine energy, that can both ignite and liberate the spiritual aspirant. The 'restless one' (the mind) embracing the 'steadfast sage' (the self) suggests the integration of fleeting thoughts into the stable core of inner awareness. This integration is crucial for transcending the duality of desire and achieving spiritual equilibrium. The roar of the river represents the powerful force of kama (desire) which needs to be channeled correctly.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಆಧ್ಯಾತ್ಮಿಕ ಸಾಧನೆಯಲ್ಲಿ ಬಯಕೆ ಮತ್ತು ಸಂಯಮದ ನಡುವಿನ ಪರಸ್ಪರ ಕ್ರಿಯೆಯನ್ನು ಪರಿಶೋಧಿಸುತ್ತದೆ. ಅಗಸ್ತ್ಯನ ಅನುಭವವು ಲೌಕಿಕ ಬಯಕೆಗಳು ಮತ್ತು ತ್ಯಾಗದ ಕರೆಯ ನಡುವಿನ ಸಾರ್ವತ್ರಿಕ ಒತ್ತಡವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಲೋಪಮುದ್ರೆಯು ದೈವಿಕ ಸ್ತ್ರೀ ಶಕ್ತಿಯಾದ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತಾಳೆ, ಅದು ಆಧ್ಯಾತ್ಮಿಕ ಆಕಾಂಕ್ಷಿಯನ್ನು ಪ್ರಚೋದಿಸುತ್ತದೆ ಮತ್ತು ಮುಕ್ತಗೊಳಿಸುತ್ತದೆ. 'ಚಂಚಲ ಸ್ವಭಾವದವಳು' (ಮನಸ್ಸು) 'ಸ್ಥಿರಚಿತ್ತ ಋಷಿಯನ್ನು' (ಸ್ವಯಂ) ಅಪ್ಪಿಕೊಳ್ಳುವುದು ಕ್ಷಣಿಕ ಆಲೋಚನೆಗಳನ್ನು ಆಂತರಿಕ ಅರಿವಿನ ಸ್ಥಿರ ತಿರುಳಿನಲ್ಲಿ ಸಂಯೋಜಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಬಯಕೆಯ ದ್ವಂದ್ವವನ್ನು ಮೀರಿ ಆಧ್ಯಾತ್ಮಿಕ ಸಮತೋಲನವನ್ನು ಸಾಧಿಸಲು ಈ ಏಕೀಕರಣವು ನಿರ್ಣಾಯಕವಾಗಿದೆ. ನದಿಯ ಘೋಷವು ಕಾಮದ ಪ್ರಬಲ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಅದನ್ನು ಸರಿಯಾಗಿ ನಿರ್ದೇಶಿಸಬೇಕು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S179_191-5_6",
+      "mandala": 1,
+      "sukta": 179,
+      "ric_index": 5,
+      "rig_lines": [
+        "इ॒मं नु सोम॒मन्ति॑तो हृ॒त्सु पी॒तमुप॑ ब्रुवे |",
+        "यत्‌ सी॒माग॑श्चकृ॒मा तत्‌ सु मृ॑ळतु पुलु॒कामो॒ हि मर्त्यः॑ ||"
+      ],
+      "pre_splits": [
+        "इ॒म‌म्",
+        "नु",
+        "सोम᳚‌म्",
+        "अन्ति॑तः",
+        "हृ॒त्ऽसु",
+        "पी॒त‌म्",
+        "उप॑",
+        "ब्रु॒वे॒",
+        "यत्",
+        "सी॒‌म्",
+        "आगः॑",
+        "च॒कृ॒म",
+        "तत्",
+        "सु",
+        "मृ॒ळ॒तु॒",
+        "पु॒लु॒ऽकामः॑",
+        "हि",
+        "मर्त्यः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "इ॒म‌म्",
+          "pada_kn": "ಇಮಮ್",
+          "meaning_en": "this",
+          "meaning_kn": "ಈ / ಇದನ್ನು"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "now / indeed",
+          "meaning_kn": "ಈಗ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "सोम᳚‌म्",
+          "pada_kn": "ಸೋಮಮ್",
+          "meaning_en": "Soma (the deity/drink)",
+          "meaning_kn": "ಸೋಮನನ್ನು (ದೇವತೆ/ಪಾನೀಯ)"
+        },
+        {
+          "pada_original": "अन्ति॑तः",
+          "pada_kn": "ಅಂತಿತಃ",
+          "meaning_en": "from nearby / close at hand",
+          "meaning_kn": "ಹತ್ತಿರದಿಂದ / ಸಮೀಪದಿಂದ"
+        },
+        {
+          "pada_original": "हृ॒त्ऽसु",
+          "pada_kn": "ಹೃತ್ಸು",
+          "meaning_en": "in the hearts",
+          "meaning_kn": "ಹೃದಯಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "पी॒त‌म्",
+          "pada_kn": "ಪೀತಮ್",
+          "meaning_en": "drunk / imbibed",
+          "meaning_kn": "ಕುಡಿದ / ಸೇವಿಸಿದ"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "near / towards (prefix)",
+          "meaning_kn": "ಹತ್ತಿರ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "ब्रु॒वे॒",
+          "pada_kn": "ಬ್ರುವೇ",
+          "meaning_en": "I invoke / I speak to",
+          "meaning_kn": "ನಾನು ಕರೆಯುತ್ತೇನೆ / ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "whatever",
+          "meaning_kn": "ಯಾವ / ಏನೇ"
+        },
+        {
+          "pada_original": "सी॒‌म्",
+          "pada_kn": "ಸೀಮ್",
+          "meaning_en": "indeed / truly",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "आगः॑",
+          "pada_kn": "ಆಗಃ",
+          "meaning_en": "offense / sin",
+          "meaning_kn": "ಅಪರಾಧ / ಪಾಪ"
+        },
+        {
+          "pada_original": "च॒कृ॒म",
+          "pada_kn": "ಚಕೃಮ",
+          "meaning_en": "we have committed / done",
+          "meaning_kn": "ನಾವು ಮಾಡಿದ್ದೇವೋ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that",
+          "meaning_kn": "ಅದನ್ನು"
+        },
+        {
+          "pada_original": "सु",
+          "pada_kn": "ಸು",
+          "meaning_en": "well / indeed",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "मृ॒ळ॒तु॒",
+          "pada_kn": "ಮೃಳತು",
+          "meaning_en": "may he be gracious / forgive",
+          "meaning_kn": "ಅವನು ಕ್ಷಮಿಸಲಿ / ಕರುಣಿಸಲಿ"
+        },
+        {
+          "pada_original": "पु॒लु॒ऽकामः॑",
+          "pada_kn": "ಪುಲುಕಾಮಃ",
+          "meaning_en": "much-desiring / full of desires",
+          "meaning_kn": "ಬಹು ಆಸೆಗಳುಳ್ಳ / ಅನೇಕ ಆಸೆಗಳುಳ್ಳ"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "for / because",
+          "meaning_kn": "ಏಕೆಂದರೆ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "मर्त्यः॑",
+          "pada_kn": "ಮರ್ತ್ಯಃ",
+          "meaning_en": "mortal (man)",
+          "meaning_kn": "ಮನುಷ್ಯನು / ಮರ್ತ್ಯನು"
+        }
+      ],
+      "full_meaning_en": "O Soma, who art imbibed in our hearts, I now invoke thee from nigh. Whatever transgression we have wrought, mayest thou, who art replete with grace, truly forgive, for mortal man is indeed beset by manifold desires.",
+      "full_meaning_kn": "ಓ ಸೋಮನೇ, ನೀನು ನಮ್ಮ ಹೃದಯಗಳಲ್ಲಿ ಹೀರಿಕೊಂಡಿರುವೆ, ಈಗ ನಾನು ನಿನ್ನನ್ನು ಹತ್ತಿರದಿಂದ ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ. ನಾವು ಮಾಡಿದ ಯಾವುದೇ ಅಪರಾಧವನ್ನು, ದಯೆಯಿಂದ ತುಂಬಿರುವ ನೀನು ನಿಜವಾಗಿಯೂ ಕ್ಷಮಿಸು, ಏಕೆಂದರೆ ಮನುಷ್ಯನು ಅನೇಕ ಆಸೆಗಳಿಂದ ತುಂಬಿರುತ್ತಾನೆ.",
+      "rig_time_s": 56.018,
+      "Insight_en": "Soma, the divine nectar, when internalized, signifies the assimilation of spiritual experience within the heart. Transgressions arise from the inherent human condition of desire (kama), a state of perpetual seeking. Divine grace, embodied by Soma, offers forgiveness and liberation from the cycles of karmic consequence. This forgiveness is not merely absolution but a transformative process, purifying the inner being and guiding it towards self-realization. It underscores the importance of self-awareness and surrender to divine will for transcending human limitations.",
+      "Insight_kn": "ಸೋಮ, ದೈವಿಕ ಅಮೃತ, ಅಂತರ್ಗತವಾದಾಗ ಹೃದಯದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವದ ಸಮ್ಮಿಲನವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಉಲ್ಲಂಘನೆಗಳು ಮಾನವನ ಸಹಜ ಸ್ಥಿತಿಯಾದ ಬಯಕೆಯಿಂದ ಉಂಟಾಗುತ್ತವೆ, ಇದು ಶಾಶ್ವತವಾದ ಹುಡುಕಾಟದ ಸ್ಥಿತಿಯಾಗಿದೆ. ಸೋಮದಿಂದ ಸಾಕಾರಗೊಂಡ ದೈವಿಕ ಅನುಗ್ರಹವು ಕರ್ಮಫಲದ ಚಕ್ರಗಳಿಂದ ಕ್ಷಮೆ ಮತ್ತು ವಿಮೋಚನೆಯನ್ನು ನೀಡುತ್ತದೆ. ಈ ಕ್ಷಮೆಯು ಕೇವಲ ಮುಕ್ತಿಯಲ್ಲ, ಬದಲಿಗೆ ಪರಿವರ್ತಕ ಪ್ರಕ್ರಿಯೆಯಾಗಿದ್ದು, ಒಳಗಿನ ಅಸ್ತಿತ್ವವನ್ನು ಶುದ್ಧೀಕರಿಸುತ್ತದೆ ಮತ್ತು ಸ್ವಯಂ-ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತದೆ. ಇದು ಮಾನವ ಮಿತಿಗಳನ್ನು ಮೀರುವ ಸಲುವಾಗಿ ಆತ್ಮ ಜಾಗೃತಿ ಮತ್ತು ದೈವಿಕ ಇಚ್ಛೆಗೆ ಶರಣಾಗುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S179_191-6_6",
+      "mandala": 1,
+      "sukta": 179,
+      "ric_index": 6,
+      "rig_lines": [
+        "अ॒गस्त्यः॒ खन॑मानः ख॒नित्रैः᳚ प्र॒जामप॑त्यं॒ बल॑मि॒च्छमा᳚नः |",
+        "उ॒भौ वर्णा॒वृषि॑रु॒ग्रः पु॑पोष स॒त्या दे॒वेष्वा॒शिषो᳚ जगाम ||"
+      ],
+      "pre_splits": [
+        "अ॒गस्त्यः॑",
+        "खन॑मानः",
+        "ख॒नित्रैः᳚",
+        "प्र॒ऽजा‌म्",
+        "अप॑त्य‌म्",
+        "बल᳚‌म्",
+        "इ॒च्छमा᳚नः",
+        "उ॒भौ",
+        "वर्णौ᳚",
+        "ऋषिः॑",
+        "उ॒ग्रः",
+        "पु॒पो॒ष॒",
+        "स॒त्याः",
+        "दे॒वेषु॑",
+        "आ॒ऽशिषः॑",
+        "ज॒गा॒म॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒गस्त्यः॑",
+          "pada_kn": "ಅಗಸ್ತ್ಯಃ",
+          "meaning_en": "Agastya (the sage)",
+          "meaning_kn": "ಅಗಸ್ತ್ಯ (ಋಷಿ)"
+        },
+        {
+          "pada_original": "खन॑मानः",
+          "pada_kn": "ಖನಮಾನಃ",
+          "meaning_en": "digging / striving",
+          "meaning_kn": "ಅಗೆಯುತ್ತಾ / ಪ್ರಯತ್ನಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "ख॒नित्रैः᳚",
+          "pada_kn": "ಖನಿತ್ರೈಃ",
+          "meaning_en": "with digging tools / with efforts",
+          "meaning_kn": "ಅಗೆಯುವ ಉಪಕರಣಗಳಿಂದ / ಪ್ರಯತ್ನಗಳಿಂದ"
+        },
+        {
+          "pada_original": "प्र॒ऽजा‌म्",
+          "pada_kn": "ಪ್ರಜಾಮ್",
+          "meaning_en": "progeny / offspring",
+          "meaning_kn": "ಸಂತತಿ / ಪ್ರಜೆ"
+        },
+        {
+          "pada_original": "अप॑त्य‌म्",
+          "pada_kn": "ಅಪತ್ಯಮ್",
+          "meaning_en": "descendants / children",
+          "meaning_kn": "ಮಕ್ಕಳು / ಸಂತಾನ"
+        },
+        {
+          "pada_original": "बल᳚‌म्",
+          "pada_kn": "ಬಲಮ್",
+          "meaning_en": "strength / power",
+          "meaning_kn": "ಶಕ್ತಿ / ಬಲ"
+        },
+        {
+          "pada_original": "इ॒च्छमा᳚नः",
+          "pada_kn": "ಇಚ್ಛಮಾನಃ",
+          "meaning_en": "desiring / wishing for",
+          "meaning_kn": "ಬಯಸುತ್ತಾ / ಇಚ್ಛಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "उ॒भौ",
+          "pada_kn": "ಉಭೌ",
+          "meaning_en": "both",
+          "meaning_kn": "ಎರಡನ್ನೂ / ಉಭಯ"
+        },
+        {
+          "pada_original": "वर्णौ᳚",
+          "pada_kn": "ವರ್ಣೌ",
+          "meaning_en": "classes / types of beings",
+          "meaning_kn": "ವರ್ಣಗಳನ್ನು / ವರ್ಗಗಳನ್ನು"
+        },
+        {
+          "pada_original": "ऋषिः॑",
+          "pada_kn": "ಋಷಿಃ",
+          "meaning_en": "the sage",
+          "meaning_kn": "ಋಷಿ"
+        },
+        {
+          "pada_original": "उ॒ग्रः",
+          "pada_kn": "ಉಗ್ರಃ",
+          "meaning_en": "mighty / powerful",
+          "meaning_kn": "ಉಗ್ರ / ಪ್ರಬಲ"
+        },
+        {
+          "pada_original": "पु॒पो॒ष॒",
+          "pada_kn": "ಪುಪೋಷ",
+          "meaning_en": "nourished / sustained",
+          "meaning_kn": "ಪೋಷಿಸಿದನು / ಬೆಳೆಸಿದನು"
+        },
+        {
+          "pada_original": "स॒त्याः",
+          "pada_kn": "ಸತ್ಯಾಃ",
+          "meaning_en": "true / effective",
+          "meaning_kn": "ಸತ್ಯವಾದವು / ಫಲಿಸಿದವು"
+        },
+        {
+          "pada_original": "दे॒वेषु॑",
+          "pada_kn": "ದೇವೇಷು",
+          "meaning_en": "among the gods / to the gods",
+          "meaning_kn": "ದೇವತೆಗಳಲ್ಲಿ / ದೇವತೆಗಳಿಗೆ"
+        },
+        {
+          "pada_original": "आ॒ऽशिषः॑",
+          "pada_kn": "ಆಶಿಷಃ",
+          "meaning_en": "blessings / prayers",
+          "meaning_kn": "ಆಶೀರ್ವಾದಗಳು / ಪ್ರಾರ್ಥನೆಗಳು"
+        },
+        {
+          "pada_original": "ज॒गा॒म॒",
+          "pada_kn": "ಜಗಾಮ",
+          "meaning_en": "went / attained / became",
+          "meaning_kn": "ಹೋದವು / ತಲುಪಿದವು / ಆದವು"
+        }
+      ],
+      "full_meaning_en": "O, Sage Agastya, toiling with digging instruments, desiring offspring, progeny, and strength, that formidable Rishi nourished both classes. His true aspirations reached fulfillment amongst the Gods.",
+      "full_meaning_kn": "ಓ ಅಗಸ್ತ್ಯ ಋಷಿಯೇ, ಅಗೆಯುವ ಸಾಧನಗಳಿಂದ ಶ್ರಮಿಸುತ್ತಾ, ಸಂತತಿ, ವಂಶ, ಮತ್ತು ಬಲವನ್ನು ಬಯಸುತ್ತಾ, ಆ ಭಯಂಕರ ಋಷಿಯು ಉಭಯ ವರ್ಗಗಳನ್ನು ಪೋಷಿಸಿದನು. ಆತನ ಸತ್ಯವಾದ ಆಶಯಗಳು ದೇವತೆಗಳಲ್ಲಿ ನೆರವೇರಿದವು.",
+      "rig_time_s": 66.11,
+      "Insight_en": "Agastya represents the inner striving, the persistent effort to unearth hidden potential within. The 'digging instruments' symbolize focused disciplines and practices. The progeny, descendants, and strength are not merely physical but represent the expansion of consciousness and spiritual power. Nourishing 'both classes' alludes to harmonizing the dualities within oneself, integrating the material and spiritual aspects. Ultimately, true aspirations, born of sincere effort, find their fulfillment in the divine consciousness.",
+      "Insight_kn": "ಅಗಸ್ತ್ಯನು ಆಂತರಿಕ ಪ್ರಯತ್ನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಒಳಗಿರುವ ಗುಪ್ತ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊರತೆಗೆಯಲು ನಿರಂತರ ಪರಿಶ್ರಮಿಸುತ್ತಾನೆ. 'ಅಗೆಯುವ ಸಾಧನಗಳು' ಕೇಂದ್ರೀಕೃತ ವಿಭಾಗಗಳು ಮತ್ತು ಅಭ್ಯಾಸಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. ಸಂತತಿ, ವಂಶ ಮತ್ತು ಬಲವು ಕೇವಲ ಭೌತಿಕವಲ್ಲ, ಆದರೆ ಪ್ರಜ್ಞೆಯ ವಿಸ್ತರಣೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. 'ಉಭಯ ವರ್ಗಗಳನ್ನು' ಪೋಷಿಸುವುದು ತನ್ನೊಳಗಿನ ದ್ವಂದ್ವಗಳನ್ನು ಸಾಮರಸ್ಯಗೊಳಿಸುವುದು, ವಸ್ತು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಅಂಶಗಳನ್ನು ಸಂಯೋಜಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಪ್ರಾಮಾಣಿಕ ಪ್ರಯತ್ನದಿಂದ ಹುಟ್ಟಿದ ನಿಜವಾದ ಆಶಯಗಳು ದೈವಿಕ ಪ್ರಜ್ಞೆಯಲ್ಲಿ ನೆರವೇರುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

@@ -1,0 +1,958 @@
+{
+  "mandala": 1,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M1-S59_191-1_7",
+      "mandala": 1,
+      "sukta": 59,
+      "ric_index": 1,
+      "rig_lines": [
+        "व॒या, इद॑ग्ने, अ॒ग्नय॑स्ते, अ॒न्ये त्वे विश्वे᳚, अ॒मृता᳚ मादयन्ते |",
+        "वैश्वा᳚नर॒ नाभि॑रसि क्षिती॒नां स्थूणे᳚व॒ जनाँ᳚, उप॒मिद्‌ य॑यन्थ ||"
+      ],
+      "pre_splits": [
+        "व॒याः",
+        "इत्",
+        "अ॒ग्ने॒",
+        "अ॒ग्नयः॑",
+        "ते॒",
+        "अ॒न्ये",
+        "त्वे इति॑",
+        "विश्वे᳚",
+        "अ॒मृताः᳚",
+        "मा॒द॒य॒न्ते॒",
+        "वैश्वा᳚नर",
+        "नाभिः॑",
+        "अ॒सि॒",
+        "क्षि॒ती॒ना‌म्",
+        "स्थूणा᳚ऽ‌इव",
+        "जना᳚न्",
+        "उ॒प॒ऽमित्",
+        "य॒य॒न्थ॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "व॒याः",
+          "pada_kn": "ವಯಾಃ",
+          "meaning_en": "branches / powers",
+          "meaning_kn": "ಶಾಖೆಗಳು / ಶಕ್ತಿಗಳು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / verily",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अ॒ग्ने॒",
+          "pada_kn": "ಅಗ್ನೇ",
+          "meaning_en": "O Agni!",
+          "meaning_kn": "ಓ ಅಗ್ನಿಯೇ!"
+        },
+        {
+          "pada_original": "अ॒ग्नयः॑",
+          "pada_kn": "ಅಗ್ನಯಃ",
+          "meaning_en": "fires",
+          "meaning_kn": "ಅಗ್ನಿಗಳು / ಬೆಂಕಿಗಳು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your / of yours",
+          "meaning_kn": "ನಿನ್ನ / ನಿನ್ನವು"
+        },
+        {
+          "pada_original": "अ॒न्ये",
+          "pada_kn": "ಅನ್ಯೇ",
+          "meaning_en": "others",
+          "meaning_kn": "ಇತರರು / ಬೇರೆಯವರು"
+        },
+        {
+          "pada_original": "त्वे इति॑",
+          "pada_kn": "ತ್ವೇ ಇತಿ",
+          "meaning_en": "in you / within you",
+          "meaning_kn": "ನಿನ್ನಲ್ಲಿ / ನಿನ್ನೊಳಗೆ"
+        },
+        {
+          "pada_original": "विश्वे᳚",
+          "pada_kn": "ವಿಶ್ವೇ",
+          "meaning_en": "all / entire",
+          "meaning_kn": "ಎಲ್ಲರೂ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "अ॒मृताः᳚",
+          "pada_kn": "ಅಮೃತಾಃ",
+          "meaning_en": "immortals / gods",
+          "meaning_kn": "ಅಮರರು / ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "मा॒द॒य॒न्ते॒",
+          "pada_kn": "ಮಾದಯನ್ತೇ",
+          "meaning_en": "they rejoice / they delight",
+          "meaning_kn": "ಅವರು ಆನಂದಿಸುತ್ತಾರೆ / ಸಂತೋಷಪಡುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "वैश्वा᳚नर",
+          "pada_kn": "ವೈಶ್ವಾನರ",
+          "meaning_en": "O Vaishvanara! (universal Agni)",
+          "meaning_kn": "ಓ ವೈಶ್ವಾನರನೇ! (ಸಾರ್ವತ್ರಿಕ ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "नाभिः॑",
+          "pada_kn": "ನಾಭಿಃ",
+          "meaning_en": "navel / center / support",
+          "meaning_kn": "ನಾಭಿ / ಕೇಂದ್ರ / ಆಧಾರ"
+        },
+        {
+          "pada_original": "अ॒सि॒",
+          "pada_kn": "ಅಸಿ",
+          "meaning_en": "you are",
+          "meaning_kn": "ನೀನಿದ್ದೀಯೆ / ನೀನಾಗಿರುವೆ"
+        },
+        {
+          "pada_original": "क्षि॒ती॒ना‌म्",
+          "pada_kn": "ಕ್ಷಿತೀನಾಮ್",
+          "meaning_en": "of dwellings / of settlements / of people",
+          "meaning_kn": "ನಿವಾಸಗಳ / ನೆಲೆಗಳ / ಜನರ"
+        },
+        {
+          "pada_original": "स्थूणा᳚ऽ‌इव",
+          "pada_kn": "ಸ್ಥೂಣಾಇವ",
+          "meaning_en": "like a pillar",
+          "meaning_kn": "ಕಂಬದಂತೆ / ಸ್ತಂಭದಂತೆ"
+        },
+        {
+          "pada_original": "जना᳚न्",
+          "pada_kn": "ಜನಾನ್",
+          "meaning_en": "people / beings",
+          "meaning_kn": "ಜನರನ್ನು / ಪ್ರಾಣಿಗಳನ್ನು"
+        },
+        {
+          "pada_original": "उ॒प॒ऽमित्",
+          "pada_kn": "ಉಪಮಿತ್",
+          "meaning_en": "support / prop",
+          "meaning_kn": "ಆಧಾರ / ಆಸರೆ"
+        },
+        {
+          "pada_original": "य॒य॒न्थ॒",
+          "pada_kn": "ಯಯನ್ಥ",
+          "meaning_en": "you have supported / you have established",
+          "meaning_kn": "ನೀನು ಆಧಾರ ನೀಡಿದ್ದೀಯೆ / ಸ್ಥಾಪಿಸಿದ್ದೀಯೆ"
+        }
+      ],
+      "full_meaning_en": "O Agni, verily these other fires are but aspects of you, and within you all the immortals find delight. O Vaishvanara, you are the very navel of all habitations, and like a steadfast pillar, you have sustained all beings.",
+      "full_meaning_kn": "ಓ ಅಗ್ನಿಯೇ, ನಿಶ್ಚಯವಾಗಿಯೂ ಈ ಇತರ ಅಗ್ನಿಗಳು ನಿಮ್ಮ ಅಂಶಗಳಾಗಿವೆ, ಮತ್ತು ನಿಮ್ಮಲ್ಲಿಯೇ ಸಕಲ ಅಮರರು ಆನಂದವನ್ನು ಕಾಣುತ್ತಾರೆ. ಓ ವೈಶ್ವಾನರ, ನೀವು ಸಕಲ ವಾಸಸ್ಥಾನಗಳ ನಾಭಿ (ಕೇಂದ್ರ ಮತ್ತು ಆಧಾರ) ಆಗಿದ್ದೀರಿ, ಮತ್ತು ಸ್ಥಿರವಾದ ಸ್ತಂಭದಂತೆ, ನೀವು ಸಕಲ ಜೀವಿಗಳನ್ನು ಧೃಢವಾಗಿ ಬೆಂಬಲಿಸಿದ್ದೀರಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "Agni, as Vaishvanara, represents the all-pervading cosmic fire that dwells within every being. It is the central force, the navel (nābhi), that supports and sustains all of existence. The 'immortals' rejoicing within Agni signify the divine qualities and potentials residing within the individual, nourished by this inner fire. By recognizing Agni as the pillar (sthūṇa) of existence, one understands the interconnectedness of all things and the essential role of inner illumination in maintaining harmony. Cultivating this inner Agni strengthens the individual's connection to the cosmos and fosters spiritual stability.",
+      "Insight_kn": "ವೈಶ್ವಾನರನಾಗಿರುವ ಅಗ್ನಿಯು ಪ್ರತಿಯೊಂದು ಜೀವಿಗಳಲ್ಲಿ ನೆಲೆಸಿರುವ ಸರ್ವವ್ಯಾಪಿ ಕಾಸ್ಮಿಕ್ ಅಗ್ನಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಇದು ಕೇಂದ್ರ ಶಕ್ತಿ, ನಾಭಿ, ಅದು ಅಸ್ತಿತ್ವದ ಎಲ್ಲವನ್ನೂ ಬೆಂಬಲಿಸುತ್ತದೆ ಮತ್ತು ಉಳಿಸುತ್ತದೆ. ಅಗ್ನಿಯಲ್ಲಿ ಆನಂದಿಸುವ 'ಅಮರರು' ವ್ಯಕ್ತಿಯಲ್ಲಿ ನೆಲೆಸಿರುವ ದೈವಿಕ ಗುಣಗಳು ಮತ್ತು ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಸೂಚಿಸುತ್ತಾರೆ, ಅವು ಈ ಆಂತರಿಕ ಅಗ್ನಿಯಿಂದ ಪೋಷಿಸಲ್ಪಡುತ್ತವೆ. ಅಗ್ನಿಯನ್ನು ಅಸ್ತಿತ್ವದ ಸ್ತಂಭವೆಂದು ಗುರುತಿಸುವ ಮೂಲಕ, ಒಬ್ಬರು ಎಲ್ಲದರ ಅಂತರ್ಸಂಪರ್ಕವನ್ನು ಮತ್ತು ಸಾಮರಸ್ಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವಲ್ಲಿ ಆಂತರಿಕ ಪ್ರಕಾಶದ ಅತ್ಯಗತ್ಯ ಪಾತ್ರವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತಾರೆ. ಈ ಆಂತರಿಕ ಅಗ್ನಿಯನ್ನು ಬೆಳೆಸುವುದು ವ್ಯಕ್ತಿಯು ವಿಶ್ವದೊಂದಿಗಿನ ಸಂಪರ್ಕವನ್ನು ಬಲಪಡಿಸುತ್ತದೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸ್ಥಿರತೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S59_191-2_7",
+      "mandala": 1,
+      "sukta": 59,
+      "ric_index": 2,
+      "rig_lines": [
+        "मू॒र्धा दि॒वो नाभि॑र॒ग्निः पृ॑थि॒व्या, अथा᳚भवदर॒ती रोद॑स्योः |",
+        "तं त्वा᳚ दे॒वासो᳚ऽजनयन्त दे॒वं वैश्वा᳚नर॒ ज्योति॒रिदार्या᳚य ||"
+      ],
+      "pre_splits": [
+        "मू॒र्धा",
+        "दि॒वः",
+        "नाभिः॑",
+        "अ॒ग्निः",
+        "पृ॒थि॒व्याः",
+        "अथ॑",
+        "अ॒भ॒व॒त्",
+        "अ॒र॒तिः",
+        "रोद॑स्योः",
+        "त‌म्",
+        "त्वा॒",
+        "दे॒वासः॑",
+        "अ॒ज॒न॒य॒न्त॒",
+        "दे॒व‌म्",
+        "वैश्वा᳚नर",
+        "ज्योतिः॑",
+        "इत्",
+        "आर्या᳚य"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "मू॒र्धा",
+          "pada_kn": "ಮೂರ್ಧಾ",
+          "meaning_en": "head / summit",
+          "meaning_kn": "ಶಿರಸ್ಸು / ಮುಖ್ಯಸ್ಥ"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "of heaven / of the sky",
+          "meaning_kn": "ಸ್ವರ್ಗದ / ಆಕಾಶದ"
+        },
+        {
+          "pada_original": "नाभिः॑",
+          "pada_kn": "ನಾಭಿಃ",
+          "meaning_en": "navel / center",
+          "meaning_kn": "ನಾಭಿ / ಕೇಂದ್ರ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni / fire",
+          "meaning_kn": "ಅಗ್ನಿ / ಬೆಂಕಿ"
+        },
+        {
+          "pada_original": "पृ॒थि॒व्याः",
+          "pada_kn": "ಪೃಥಿವ್ಯಾಃ",
+          "meaning_en": "of the earth",
+          "meaning_kn": "ಭೂಮಿಯ"
+        },
+        {
+          "pada_original": "अथ॑",
+          "pada_kn": "ಅಥ",
+          "meaning_en": "then / moreover",
+          "meaning_kn": "ನಂತರ / ಮತ್ತು"
+        },
+        {
+          "pada_original": "अ॒भ॒व॒त्",
+          "pada_kn": "ಅಭವತ್",
+          "meaning_en": "became / was",
+          "meaning_kn": "ಆಯಿತು / ಇದ್ದನು"
+        },
+        {
+          "pada_original": "अ॒र॒तिः",
+          "pada_kn": "ಅರತಿಃ",
+          "meaning_en": "a restless one / messenger",
+          "meaning_kn": "ಚಂಚಲವಾದವನು / ದೂತ"
+        },
+        {
+          "pada_original": "रोद॑स्योः",
+          "pada_kn": "ರೋದಸ್ಯೋಃ",
+          "meaning_en": "of the two worlds (heaven and earth)",
+          "meaning_kn": "ಇಬ್ಬು ಲೋಕಗಳ / ದ್ಯಾವಾಪೃಥಿವಿಗಳ"
+        },
+        {
+          "pada_original": "त‌म्",
+          "pada_kn": "ತಮ್",
+          "meaning_en": "him / that",
+          "meaning_kn": "ಅವನನ್ನು / ಆ"
+        },
+        {
+          "pada_original": "त्वा॒",
+          "pada_kn": "ತ್ವಾ",
+          "meaning_en": "you (accusative)",
+          "meaning_kn": "ನಿನ್ನನ್ನು"
+        },
+        {
+          "pada_original": "दे॒वासः॑",
+          "pada_kn": "ದೇವಾಸಃ",
+          "meaning_en": "the gods",
+          "meaning_kn": "ದೇವತೆಗಳು"
+        },
+        {
+          "pada_original": "अ॒ज॒न॒य॒न्त॒",
+          "pada_kn": "ಅಜನಯಂತ",
+          "meaning_en": "generated / created",
+          "meaning_kn": "ಸೃಷ್ಟಿಸಿದರು / ಹುಟ್ಟಿಸಿದರು"
+        },
+        {
+          "pada_original": "दे॒व‌म्",
+          "pada_kn": "ದೇವಮ್",
+          "meaning_en": "god",
+          "meaning_kn": "ದೇವನನ್ನು"
+        },
+        {
+          "pada_original": "वैश्वा᳚नर",
+          "pada_kn": "ವೈಶ್ವಾನರ",
+          "meaning_en": "Agni Vaishvanara / universal",
+          "meaning_kn": "ವೈಶ್ವಾನರ ಅಗ್ನಿ / ವಿಶ್ವವ್ಯಾಪಿ"
+        },
+        {
+          "pada_original": "ज्योतिः॑",
+          "pada_kn": "ಜ್ಯೋತಿಃ",
+          "meaning_en": "light",
+          "meaning_kn": "ಬೆಳಕು / ತೇಜಸ್ಸು"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "indeed / only",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಮಾತ್ರ"
+        },
+        {
+          "pada_original": "आर्या᳚य",
+          "pada_kn": "ಆರ್ಯಾಯ",
+          "meaning_en": "for the noble one / for the Arya",
+          "meaning_kn": "ಆರ್ಯನಿಗಾಗಿ / ಶ್ರೇಷ್ಠರಿಗಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "Agni, you are the head of heaven and the navel of the earth; thereafter, you became the swift messenger between the two realms. O Vaishvanara, the gods have manifested you as a divine light, verily for the sake of the noble Āryas.",
+      "full_meaning_kn": "ಅಗ್ನಿಯೇ, ನೀವು ಸ್ವರ್ಗದ ಶಿರಸ್ಸು ಮತ್ತು ಭೂಮಿಯ ನಾಭಿ; ತರುವಾಯ ನೀವು ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯ ನಡುವೆ ತ್ವರಿತ ಸಂದೇಶವಾಹಕರಾದಿರಿ. ಓ ವೈಶ್ವಾನರ, ದೇವತೆಗಳು ನಿಮ್ಮನ್ನು ದೈವಿಕ ಬೆಳಕಾಗಿ ಪ್ರಕಟಿಸಿದ್ದಾರೆ, ಖಂಡಿತವಾಗಿಯೂ ಆರ್ಯರ ಸಲುವಾಗಿ.",
+      "rig_time_s": 14.485,
+      "Insight_en": "अग्नि (Agni) embodies the supreme consciousness residing at the zenith of our awareness and at the core of our being. As the intermediary, Agni bridges the earthly and celestial realms within us, facilitating spiritual ascent. Vaishvanara represents the universal fire principle, illuminating the path for those who strive for spiritual nobility. The divine light kindled within guides us towards truth and self-realization, fostering inner transformation. This sacred fire empowers the Āryas—those of noble intent—to realize their highest potential.",
+      "Insight_kn": "ಅಗ್ನಿಯು ನಮ್ಮ ಅರಿವಿನ ಉತ್ತುಂಗದಲ್ಲಿ ಮತ್ತು ನಮ್ಮ ಅಸ್ತಿತ್ವದ ಮೂಲದಲ್ಲಿ ನೆಲೆಸಿರುವ ಸರ್ವೋಚ್ಚ ಪ್ರಜ್ಞೆಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತದೆ. ಮಧ್ಯವರ್ತಿಯಾಗಿ, ಅಗ್ನಿಯು ನಮ್ಮಲ್ಲಿ ಲೌಕಿಕ ಮತ್ತು ಆಕಾಶದ ಕ್ಷೇತ್ರಗಳನ್ನು ಬೆಸೆಯುತ್ತಾನೆ, ಆಧ್ಯಾತ್ಮಿಕ ಏರಿಕೆಗೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತಾನೆ. ವೈಶ್ವಾನರನು ಸಾರ್ವತ್ರಿಕ ಅಗ್ನಿ ತತ್ವವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಆಧ್ಯಾತ್ಮಿಕ ಶ್ರೇಷ್ಠತೆಗಾಗಿ ಶ್ರಮಿಸುವವರಿಗೆ ಮಾರ್ಗವನ್ನು ಬೆಳಗಿಸುತ್ತಾನೆ. ನಮ್ಮಲ್ಲಿ ಹೊತ್ತಿಸಲಾದ ದೈವಿಕ ಬೆಳಕು ಸತ್ಯ ಮತ್ತು ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತದೆ, ಆಂತರಿಕ ರೂಪಾಂತರವನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ. ಈ ಪವಿತ್ರ ಅಗ್ನಿಯು ಆರ್ಯರನ್ನು - ಉದಾತ್ತ ಉದ್ದೇಶದವರನ್ನು - ತಮ್ಮ ಉನ್ನತ ಸಾಮರ್ಥ್ಯವನ್ನು ಅರಿತುಕೊಳ್ಳಲು ಅಧಿಕಾರ ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S59_191-3_7",
+      "mandala": 1,
+      "sukta": 59,
+      "ric_index": 3,
+      "rig_lines": [
+        "आ सूर्ये॒ न र॒श्मयो᳚ ध्रु॒वासो᳚ वैश्वान॒रे द॑धिरे॒ऽग्ना वसू᳚नि |",
+        "या पर्व॑ते॒ष्वोष॑धीष्व॒प्सु या मानु॑षे॒ष्वसि॒ तस्य॒ राजा᳚ ||"
+      ],
+      "pre_splits": [
+        "आ",
+        "सूर्ये᳚",
+        "न",
+        "र॒श्मयः॑",
+        "ध्रु॒वासः॑",
+        "वै॒श्वा॒न॒रे",
+        "द॒धि॒रे॒",
+        "अ॒ग्ना",
+        "वसू᳚नि",
+        "या",
+        "पर्व॑तेषु",
+        "ओष॑धीषु",
+        "अ॒प्ऽसु",
+        "या",
+        "मानु॑षेषु",
+        "असि॑",
+        "तस्य॑",
+        "राजा᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "as / like",
+          "meaning_kn": "ಹಾಗೆ / ಂತೆ"
+        },
+        {
+          "pada_original": "सूर्ये᳚",
+          "pada_kn": "ಸೂರ್ಯೇ",
+          "meaning_en": "in the sun",
+          "meaning_kn": "ಸೂರ್ಯನಲ್ಲಿ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಂತೆ"
+        },
+        {
+          "pada_original": "र॒श्मयः॑",
+          "pada_kn": "ರಶ್ಮಯಃ",
+          "meaning_en": "rays",
+          "meaning_kn": "ಕಿರಣಗಳು"
+        },
+        {
+          "pada_original": "ध्रु॒वासः॑",
+          "pada_kn": "ಧ್ರುವಾಸಃ",
+          "meaning_en": "constant / firm",
+          "meaning_kn": "ಸ್ಥಿರವಾದ / ಅಚಲವಾದ"
+        },
+        {
+          "pada_original": "वै॒श्वा॒न॒रे",
+          "pada_kn": "ವೈಶ್ವಾನರೇ",
+          "meaning_en": "in Vaishvanara (Agni)",
+          "meaning_kn": "ವೈಶ್ವಾನರ ಅಗ್ನಿಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "द॒धि॒रे॒",
+          "pada_kn": "ದಧಿರೇ",
+          "meaning_en": "they placed / they hold",
+          "meaning_kn": "ಅವರು ಇಟ್ಟರು / ಅವರು ಧರಿಸಿದರು"
+        },
+        {
+          "pada_original": "अ॒ग्ना",
+          "pada_kn": "ಅಗ್ನಾ",
+          "meaning_en": "in Agni",
+          "meaning_kn": "ಅಗ್ನಿಯಲ್ಲಿ"
+        },
+        {
+          "pada_original": "वसू᳚नि",
+          "pada_kn": "ವಸೂನಿ",
+          "meaning_en": "treasures / wealth",
+          "meaning_kn": "ಸಂಪತ್ತುಗಳು / ನಿಧಿಗಳು"
+        },
+        {
+          "pada_original": "या",
+          "pada_kn": "ಯಾ",
+          "meaning_en": "who / which",
+          "meaning_kn": "ಯಾವುದು / ಯಾರು"
+        },
+        {
+          "pada_original": "पर्व॑तेषु",
+          "pada_kn": "ಪರ್ವತೇಷು",
+          "meaning_en": "in mountains",
+          "meaning_kn": "ಪರ್ವತಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ओष॑धीषु",
+          "pada_kn": "ಓಷಧೀಷು",
+          "meaning_en": "in herbs / plants",
+          "meaning_kn": "ಔಷಧಿಗಳಲ್ಲಿ / ಸಸ್ಯಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒प्ऽसु",
+          "pada_kn": "ಅಪ್ಸು",
+          "meaning_en": "in waters",
+          "meaning_kn": "ನೀರುಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "या",
+          "pada_kn": "ಯಾ",
+          "meaning_en": "who / which",
+          "meaning_kn": "ಯಾವುದು / ಯಾರು"
+        },
+        {
+          "pada_original": "मानु॑षेषु",
+          "pada_kn": "ಮಾನುಷೇಷು",
+          "meaning_en": "among humans",
+          "meaning_kn": "ಮನುಷ್ಯರಲ್ಲಿ"
+        },
+        {
+          "pada_original": "असि॑",
+          "pada_kn": "ಅಸಿ",
+          "meaning_en": "you are",
+          "meaning_kn": "ನೀನು ಇರುವೆ"
+        },
+        {
+          "pada_original": "तस्य॑",
+          "pada_kn": "ತಸ್ಯ",
+          "meaning_en": "of that / of them",
+          "meaning_kn": "ಅದರ / ಅವುಗಳ"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "king / ruler",
+          "meaning_kn": "ರಾಜ / ಅಧಿಪತಿ"
+        }
+      ],
+      "full_meaning_en": "Just as unwavering rays are firmly established within the sun, so too are treasures placed in Vaishvanara Agni. O Agni, thou who art present within the mountains, within the plants, within the waters, and within humanity, thou art the sovereign ruler of all these.",
+      "full_meaning_kn": "ಯಾವಂತೆ ಅಚಲವಾದ ಕಿರಣಗಳು ಸೂರ್ಯನಲ್ಲಿ ಸ್ಥಿರವಾಗಿ ನೆಲೆಸಿವೆಯೋ, ಹಾಗೆಯೇ ಸಂಪತ್ತು ವೈಶ್ವಾನರ ಅಗ್ನಿಯಲ್ಲಿ ಸ್ಥಾಪಿತವಾಗಿದೆ. ಓ ಅಗ್ನಿಯೇ, ನೀನು ಪರ್ವತಗಳಲ್ಲಿ, ಸಸ್ಯಗಳಲ್ಲಿ, ಜಲಗಳಲ್ಲಿ ಮತ್ತು ಮಾನವ ಕುಲದಲ್ಲಿ ನೆಲೆಸಿರುವೆ, ನೀನು ಇವುಗಳೆಲ್ಲದರ ಸಾರ್ವಭೌಮ ಅಧಿಪತಿ.",
+      "rig_time_s": 28.974,
+      "Insight_en": "Agni, as Vaishvanara, represents the all-pervading divine fire, present not only in the external cosmos but also within every aspect of existence. This inner अग्नि symbolizes the transformative power of consciousness that dwells within the mountains of our challenges, the plants of our growth, the waters of our emotions, and the very essence of our humanity. Recognizing Agni's presence in all things allows us to understand our intrinsic connection to the divine and to harness the power of inner transformation. The treasures placed in Vaishvanara are the realized potentials of consciousness itself. By attuning to this universal principle, we gain sovereignty over our inner landscape, aligning with the rhythm of creation itself.",
+      "Insight_kn": "ವೈಶ್ವಾನರನಾಗಿ ಅಗ್ನಿ, ಸರ್ವವ್ಯಾಪಿ ದೈವಿಕ ಅಗ್ನಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ಇದು ಬಾಹ್ಯ ಬ್ರಹ್ಮಾಂಡದಲ್ಲಿ ಮಾತ್ರವಲ್ಲದೆ ಅಸ್ತಿತ್ವದ ಪ್ರತಿಯೊಂದು ಅಂಶದಲ್ಲೂ ಇದೆ. ಈ ಆಂತರಿಕ ಅಗ್ನಿ ನಮ್ಮ ಸವಾಲುಗಳ ಪರ್ವತಗಳಲ್ಲಿ, ನಮ್ಮ ಬೆಳವಣಿಗೆಯ ಸಸ್ಯಗಳಲ್ಲಿ, ನಮ್ಮ ಭಾವನೆಗಳ ಜಲಗಳಲ್ಲಿ ಮತ್ತು ನಮ್ಮ ಮಾನವೀಯತೆಯ ಮೂಲತತ್ವದಲ್ಲಿ ನೆಲೆಸಿರುವ ಪ್ರಜ್ಞೆಯ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಎಲ್ಲ ವಿಷಯಗಳಲ್ಲಿಯೂ ಅಗ್ನಿಯ ಉಪಸ್ಥಿತಿಯನ್ನು ಗುರುತಿಸುವುದರಿಂದ, ದೈವಿಕತೆಗೆ ನಮ್ಮ ಸಹಜ ಸಂಪರ್ಕವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಮತ್ತು ಆಂತರಿಕ ಪರಿವರ್ತನೆಯ ಶಕ್ತಿಯನ್ನು ಬಳಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ವೈಶ್ವಾನರನಲ್ಲಿ ಇರಿಸಲಾದ ಸಂಪತ್ತು ಪ್ರಜ್ಞೆಯ ಸಾಕ್ಷಾತ್ಕರಿಸಿದ ಸಾಮರ್ಥ್ಯಗಳಾಗಿವೆ. ಈ ಸಾರ್ವತ್ರಿಕ ತತ್ವಕ್ಕೆ ಹೊಂದಿಕೊಳ್ಳುವ ಮೂಲಕ, ನಾವು ನಮ್ಮ ಆಂತರಿಕ ಭೂದೃಶ್ಯದ ಮೇಲೆ ಸಾರ್ವಭೌಮತ್ವವನ್ನು ಪಡೆಯುತ್ತೇವೆ, ಸೃಷ್ಟಿಯ ಲಯದೊಂದಿಗೆ ಹೊಂದಾಣಿಕೆ ಹೊಂದುತ್ತೇವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S59_191-4_7",
+      "mandala": 1,
+      "sukta": 59,
+      "ric_index": 4,
+      "rig_lines": [
+        "बृ॒ह॒ती, इ॑व सू॒नवे॒ रोद॑सी॒ गिरो॒ होता᳚ मनु॒ष्यो॒३॑(ओ॒) न दक्षः॑ |",
+        "स्व᳚र्वते स॒त्यशु॑ष्माय पू॒र्वीर्वै᳚श्वान॒राय॒ नृत॑माय य॒ह्वीः ||"
+      ],
+      "pre_splits": [
+        "बृ॒ह॒ती इ॒वेति॑ बृह॒तीऽ‌इ᳚व",
+        "सू॒नवे᳚",
+        "रोद॑सी॒ इति॑",
+        "गिरः॑",
+        "होता᳚",
+        "म॒नु॒ष्यः॑",
+        "न",
+        "दक्षः॑",
+        "स्वः॑ऽवते",
+        "स॒त्यऽशु॑ष्माय",
+        "पू॒र्वीः",
+        "वै॒श्वा॒न॒राय॑",
+        "नृऽत॑माय",
+        "य॒ह्वीः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "बृ॒ह॒ती इ॒वेति॑ बृह॒तीऽ‌इ᳚व",
+          "pada_kn": "ಬೃಹತೀ ಇವೇತಿ ಬೃಹತೀಇವ",
+          "meaning_en": "like a vast (hymn/entity)",
+          "meaning_kn": "ದೊಡ್ಡದಾದ (ಸ್ತೋತ್ರದಂತೆ/ವಸ್ತುವಿನಂತೆ)"
+        },
+        {
+          "pada_original": "सू॒नवे᳚",
+          "pada_kn": "ಸೂನವೇ",
+          "meaning_en": "to the son / to the offspring",
+          "meaning_kn": "ಪುತ್ರನಿಗೆ / ಸಂತತಿಗೆ"
+        },
+        {
+          "pada_original": "रोद॑सी॒ इति॑",
+          "pada_kn": "ರೋದಸೀ ಇತಿ",
+          "meaning_en": "Heaven and Earth (dual)",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥಿವಿಗಳು / ಆಕಾಶ ಮತ್ತು ಭೂಮಿ"
+        },
+        {
+          "pada_original": "गिरः॑",
+          "pada_kn": "ಗಿರಃ",
+          "meaning_en": "praises / hymns",
+          "meaning_kn": "ಸ್ತುತಿಗಳು / ಗೀತೆಗಳು"
+        },
+        {
+          "pada_original": "होता᳚",
+          "pada_kn": "ಹೋತಾ",
+          "meaning_en": "the invoker priest",
+          "meaning_kn": "ಹೋತೃ / ಆಹ್ವಾನಿಸುವ ಪುರೋಹಿತ"
+        },
+        {
+          "pada_original": "म॒नु॒ष्यः॑",
+          "pada_kn": "ಮನುಷ್ಯಃ",
+          "meaning_en": "a human / man",
+          "meaning_kn": "ಮನುಷ್ಯ / ಮಾನವ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "दक्षः॑",
+          "pada_kn": "ದಕ್ಷಃ",
+          "meaning_en": "skilful / capable",
+          "meaning_kn": "ಸಮರ್ಥ / ದಕ್ಷ"
+        },
+        {
+          "pada_original": "स्वः॑ऽवते",
+          "pada_kn": "ಸ್ವರವತೇ",
+          "meaning_en": "to the luminous one / possessing light",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನನಾದವನಿಗೆ / ಬೆಳಕನ್ನು ಹೊಂದಿದವನಿಗೆ"
+        },
+        {
+          "pada_original": "स॒त्यऽशु॑ष्माय",
+          "pada_kn": "ಸತ್ಯಶುಷ್ಮಾಯ",
+          "meaning_en": "to the one with true might / true vigor",
+          "meaning_kn": "ಸತ್ಯವಾದ ಶಕ್ತಿಯುಳ್ಳವನಿಗೆ / ನಿಜವಾದ ಬಲವುಳ್ಳವನಿಗೆ"
+        },
+        {
+          "pada_original": "पू॒र्वीः",
+          "pada_kn": "ಪೂರ್ವೀಃ",
+          "meaning_en": "many / abundant",
+          "meaning_kn": "ಅನೇಕ / ಹೇರಳವಾದ"
+        },
+        {
+          "pada_original": "वै॒श्वा॒न॒राय॑",
+          "pada_kn": "ವೈಶ್ವಾನರಾಯ",
+          "meaning_en": "to Vaishvanara (Agni) / to the universal fire",
+          "meaning_kn": "ವೈಶ್ವಾನರನಿಗೆ (ಅಗ್ನಿಗೆ) / ಸಾರ್ವತ್ರಿಕ ಅಗ್ನಿಗೆ"
+        },
+        {
+          "pada_original": "नृऽत॑माय",
+          "pada_kn": "ನೃತಮಾಯ",
+          "meaning_en": "to the most heroic / most manly",
+          "meaning_kn": "ಅತ್ಯಂತ ಶೂರನಾದವನಿಗೆ / ಅತ್ಯಂತ ಪುರುಷೋತ್ತಮನಾದವನಿಗೆ"
+        },
+        {
+          "pada_original": "य॒ह्वीः",
+          "pada_kn": "ಯಹ್ವೀಃ",
+          "meaning_en": "mighty / vast (hymns)",
+          "meaning_kn": "ಮಹಾನ್ / ವಿಶಾಲವಾದ (ಸ್ತುತಿಗಳು)"
+        }
+      ],
+      "full_meaning_en": "Even as vast Heaven and Earth, or a great hymn, so rise praises to Vaishvanara. These are directed to Vaishvanara, luminous, possessing true might, the most heroic, as a skilled mortal priest offers oblations to a cherished son. Verily, many potent hymns are offered unto him.",
+      "full_meaning_kn": "ದೊಡ್ಡ ಆಕಾಶ ಮತ್ತು ಭೂಮಿಯಂತೆ, ಅಥವಾ ಒಂದು ಮಹಾನ್ ಸ್ತೋತ್ರದಂತೆ, ವೈಶ್ವಾನರನಿಗೆ ಸ್ತುತಿಗಳು ಸಲ್ಲುತ್ತವೆ. ಇವು ವೈಶ್ವಾನರನಿಗೆ ನಿರ್ದೇಶಿಸಲ್ಪಡುತ್ತವೆ, ಅವನು ಪ್ರಕಾಶಮಾನನು, ಸತ್ಯವಾದ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿರುವನು, ಅತಿ ಶೂರನು, ಒಬ್ಬ ನುರಿತ ಮರ್ತ್ಯ ಪುರೋಹಿತನು ಪ್ರೀತಿಯ ಮಗನಿಗೆ ಅರ್ಪಿಸುವಂತೆ. ಸತ್ಯವಾಗಿ, ಅನೇಕ ಪ್ರಬಲ ಸ್ತೋತ್ರಗಳನ್ನು ಅವನಿಗೆ ಅರ್ಪಿಸಲಾಗುತ್ತದೆ.",
+      "rig_time_s": 43.39,
+      "Insight_en": "Vaishvanara, the universal fire, is not merely an external flame but the inner अग्नि, the fire of consciousness. The 'true might' (सत्यशुष्मा) signifies the unwavering will that burns away ignorance and fuels spiritual ascent. The 'praises' are the internal affirmations that strengthen this inner fire. Just as a skilled priest nurtures the sacred flame, the साधक cultivates their inner will through focused intention and devotion. This inner अग्नि, when kindled, illuminates the path to self-realization.",
+      "Insight_kn": "ವೈಶ್ವಾನರ, ಸಾರ್ವತ್ರಿಕ ಅಗ್ನಿ, ಕೇವಲ ಬಾಹ್ಯ ಜ್ವಾಲೆಯಲ್ಲ, ಆದರೆ ಆಂತರಿಕ ಅಗ್ನಿ, ಪ್ರಜ್ಞೆಯ ಬೆಂಕಿ. 'ಸತ್ಯವಾದ ಶಕ್ತಿ' (सत्यशुष्मा) ಎಂದರೆ ಅಜ್ಞಾನವನ್ನು ಸುಡುವ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಏರಿಕೆಗೆ ಉತ್ತೇಜನ ನೀಡುವ ಅಚಲವಾದ ಇಚ್ಛಾಶಕ್ತಿ. 'ಸ್ತುತಿಗಳು' ಆಂತರಿಕ ದೃಢೀಕರಣಗಳಾಗಿದ್ದು ಅದು ಈ ಆಂತರಿಕ ಬೆಂಕಿಯನ್ನು ಬಲಪಡಿಸುತ್ತದೆ. ಒಬ್ಬ ನುರಿತ ಪುರೋಹಿತನು ಪವಿತ್ರ ಜ್ವಾಲೆಯನ್ನು ಪೋಷಿಸುವಂತೆಯೇ, ಸಾಧಕನು ಕೇಂದ್ರೀಕೃತ ಉದ್ದೇಶ ಮತ್ತು ಭಕ್ತಿಯಿಂದ ತನ್ನ ಆಂತರಿಕ ಇಚ್ಛಾಶಕ್ತಿಯನ್ನು ಬೆಳೆಸುತ್ತಾನೆ. ಈ ಆಂತರಿಕ ಅಗ್ನಿ, ಹೊತ್ತಿಕೊಂಡಾಗ, ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ಹಾದಿಯನ್ನು ಬೆಳಗಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S59_191-5_7",
+      "mandala": 1,
+      "sukta": 59,
+      "ric_index": 5,
+      "rig_lines": [
+        "दि॒वश्चि॑त्ते बृह॒तो जा᳚तवेदो॒ वैश्वा᳚नर॒ प्र रि॑रिचे महि॒त्वम् |",
+        "राजा᳚ कृष्टी॒नाम॑सि॒ मानु॑षीणां यु॒धा दे॒वेभ्यो॒ वरि॑वश्चकर्थ ||"
+      ],
+      "pre_splits": [
+        "दि॒वः",
+        "चि॒त्",
+        "ते॒",
+        "बृ॒ह॒तः",
+        "जा॒त॒ऽवे॒दः॒",
+        "वैश्वा᳚नर",
+        "प्र",
+        "रि॒रि॒चे॒",
+        "म॒हि॒ऽत्व‌म्",
+        "राजा᳚",
+        "कृ॒ष्टी॒ना‌म्",
+        "अ॒सि॒",
+        "मानु॑षीणा‌म्",
+        "यु॒धा",
+        "दे॒वेभ्यः॑",
+        "वरि॑वः",
+        "च॒क॒र्थ॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "of heaven",
+          "meaning_kn": "ಆಕಾಶದ/ಸ್ವರ್ಗದ"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "even",
+          "meaning_kn": "ಸಹ/ಕೂಡ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿನ್ನ/ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "बृ॒ह॒तः",
+          "pada_kn": "ಬೃಹತಃ",
+          "meaning_en": "great",
+          "meaning_kn": "ಮಹತ್ತರವಾದ/ದೊಡ್ಡ"
+        },
+        {
+          "pada_original": "जा॒त॒ऽवे॒दः॒",
+          "pada_kn": "ಜಾತವೇದಃ",
+          "meaning_en": "O Jātavedas (knower of all born beings/possessor of wealth)",
+          "meaning_kn": "ಓ ಜಾತವೇದನೇ (ಹುಟ್ಟಿದ ಎಲ್ಲವನ್ನೂ ಬಲ್ಲವನೇ/ಸಂಪತ್ತಿನ ಒಡೆಯನೇ)"
+        },
+        {
+          "pada_original": "वैश्वा᳚नर",
+          "pada_kn": "ವೈಶ್ವಾನರ",
+          "meaning_en": "O Vaiśvānara (universal fire/man)",
+          "meaning_kn": "ಓ ವೈಶ್ವಾನರನೇ (ಸಾರ್ವತ್ರಿಕ ಅಗ್ನಿಯೇ/ಎಲ್ಲಾ ಮನುಷ್ಯರಲ್ಲಿರುವವನೇ)"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth/exceedingly",
+          "meaning_kn": "ಮುಂದೆ/ಅತ್ಯಧಿಕವಾಗಿ"
+        },
+        {
+          "pada_original": "रि॒रि॒चे॒",
+          "pada_kn": "ರಿರಿಚೇ",
+          "meaning_en": "has surpassed",
+          "meaning_kn": "ಮೀರಿಸಿದೆ/ಅತಿಶಯಿಸಿದೆ"
+        },
+        {
+          "pada_original": "म॒हि॒ऽत्व‌म्",
+          "pada_kn": "ಮಹಿತ್ವಮ್",
+          "meaning_en": "greatness",
+          "meaning_kn": "ಮಹಿಮೆ/ಮಹತ್ವ"
+        },
+        {
+          "pada_original": "राजा᳚",
+          "pada_kn": "ರಾಜಾ",
+          "meaning_en": "king",
+          "meaning_kn": "ರಾಜ/ಅರಸ"
+        },
+        {
+          "pada_original": "कृ॒ष्टी॒ना‌म्",
+          "pada_kn": "ಕೃಷ್ಟೀನಾಮ್",
+          "meaning_en": "of peoples",
+          "meaning_kn": "ಜನರ/ಪ್ರಜೆಗಳ"
+        },
+        {
+          "pada_original": "अ॒सि॒",
+          "pada_kn": "ಅಸಿ",
+          "meaning_en": "you are",
+          "meaning_kn": "ನೀನಿದ್ದೀಯೆ/ನೀನು"
+        },
+        {
+          "pada_original": "मानु॑षीणा‌म्",
+          "pada_kn": "ಮಾನುಷೀಣಾಮ್",
+          "meaning_en": "human",
+          "meaning_kn": "ಮಾನವ/ಮನುಷ್ಯರ"
+        },
+        {
+          "pada_original": "यु॒धा",
+          "pada_kn": "ಯುಧಾ",
+          "meaning_en": "by battle",
+          "meaning_kn": "ಯುದ್ಧದಿಂದ/ಕದನದಿಂದ"
+        },
+        {
+          "pada_original": "दे॒वेभ्यः॑",
+          "pada_kn": "ದೇವೇಭ್ಯಃ",
+          "meaning_en": "for the gods",
+          "meaning_kn": "ದೇವತೆಗಳಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "वरि॑वः",
+          "pada_kn": "ವರಿವಃ",
+          "meaning_en": "ample space/well-being",
+          "meaning_kn": "ವಿಶಾಲವಾದ ಸ್ಥಳ/ಸುಖ"
+        },
+        {
+          "pada_original": "च॒क॒र्थ॒",
+          "pada_kn": "ಚಕರ್ಥ",
+          "meaning_en": "you have made/provided",
+          "meaning_kn": "ನೀನು ಮಾಡಿದೆ/ನೀನು ಒದಗಿಸಿದೆ"
+        }
+      ],
+      "full_meaning_en": "O Jātavedas, O Vaiśvānara, your magnificence indeed transcends even the vast expanse of heaven. Thou art the sovereign of humankind, and through thy puissance, thou hast secured vast freedom for the celestial deities.",
+      "full_meaning_kn": "ಓ ಜಾತವೇದಸ, ಓ ವೈಶ್ವಾನರ, ನಿಮ್ಮ ಮಹಿಮೆ ಖಂಡಿತವಾಗಿಯೂ ವಿಶಾಲವಾದ ಸ್ವರ್ಗವನ್ನೂ ಮೀರಿದೆ. ನೀವು ಮಾನವಕುಲದ ಸಾರ್ವಭೌಮರು, ಮತ್ತು ನಿಮ್ಮ ಸಾಮರ್ಥ್ಯದಿಂದ, ನೀವು ದೇವತೆಗಳಿಗೆ ಅಪಾರ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಪಡೆದುಕೊಟ್ಟಿದ್ದೀರಿ.",
+      "rig_time_s": 59.049,
+      "Insight_en": "Agni, as Jātavedas, embodies the all-knowing inner fire that surpasses even the highest aspirations represented by the heavens. Vaiśvānara signifies the universal aspect of this fire, permeating all of humanity. This inner Agni is the true king, the ruler of our human experience, guiding us towards dharma. Through constant striving (battle), this divine will expands our inner horizons, creating space for divine qualities to manifest, thereby liberating the gods (divine senses) within us.",
+      "Insight_kn": "ಅಗ್ನಿಯು ಜಾತವೇದಸನಾಗಿ, ಸ್ವರ್ಗದಿಂದ ಪ್ರತಿನಿಧಿಸಲ್ಪಡುವ ಉನ್ನತ ಆಕಾಂಕ್ಷೆಗಳನ್ನು ಮೀರಿಸುವ ಸರ್ವಜ್ಞಾನಿಯಾದ ಆಂತರಿಕ ಅಗ್ನಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ವೈಶ್ವಾನರನು ಈ ಅಗ್ನಿಯ ಸಾರ್ವತ್ರಿಕ ಅಂಶವನ್ನು ಸೂಚಿಸುತ್ತಾನೆ, ಇದು ಮಾನವೀಯತೆಯ ಎಲ್ಲೆಡೆ ವ್ಯಾಪಿಸಿದೆ. ಈ ಆಂತರಿಕ ಅಗ್ನಿಯೇ ನಿಜವಾದ ರಾಜ, ನಮ್ಮ ಮಾನವ ಅನುಭವದ ಆಡಳಿತಗಾರ, ನಮಗೆ ಧರ್ಮದ ಕಡೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾನೆ. ನಿರಂತರ ಪ್ರಯತ್ನದಿಂದ (ಯುದ್ಧ), ಈ ದೈವಿಕ ಇಚ್ಛೆಯು ನಮ್ಮ ಆಂತರಿಕ ದಿಗಂತಗಳನ್ನು ವಿಸ್ತರಿಸುತ್ತದೆ, ದೈವಿಕ ಗುಣಗಳು ವ್ಯಕ್ತವಾಗಲು ಸ್ಥಳವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ, ಆ ಮೂಲಕ ನಮ್ಮೊಳಗಿನ ದೇವರುಗಳನ್ನು (ದೈವಿಕ ಇಂದ್ರಿಯಗಳನ್ನು) ಮುಕ್ತಗೊಳಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S59_191-6_7",
+      "mandala": 1,
+      "sukta": 59,
+      "ric_index": 6,
+      "rig_lines": [
+        "प्र नू म॑हि॒त्वं वृ॑ष॒भस्य॑ वोचं॒ यं पू॒रवो᳚ वृत्र॒हणं॒ सच᳚न्ते |",
+        "वै॒श्वा॒न॒रो दस्यु॑म॒ग्निर्ज॑घ॒न्वाँ, अधू᳚नो॒त्‌ काष्ठा॒, अव॒ शम्ब॑रं भेत् ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "नु",
+        "म॒हि॒ऽत्व‌म्",
+        "वृ॒ष॒भस्य॑",
+        "वो॒च॒‌म्",
+        "य‌म्",
+        "पू॒रवः॑",
+        "वृ॒त्र॒ऽहन᳚‌म्",
+        "सच᳚न्ते",
+        "वै॒श्वा॒न॒रः",
+        "दस्यु᳚‌म्",
+        "अ॒ग्निः",
+        "ज॒घ॒न्वान्",
+        "अधू᳚नोत्",
+        "काष्ठाः᳚",
+        "अव॑",
+        "शम्ब॑र‌म्",
+        "भे॒त्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / indeed",
+          "meaning_kn": "ಮುಂದೆ / ಖಂಡಿತ"
+        },
+        {
+          "pada_original": "नु",
+          "pada_kn": "ನು",
+          "meaning_en": "now / indeed",
+          "meaning_kn": "ಈಗ / ಖಂಡಿತ"
+        },
+        {
+          "pada_original": "म॒हि॒ऽत्व‌म्",
+          "pada_kn": "ಮಹಿತ್ವಮ್",
+          "meaning_en": "greatness / might",
+          "meaning_kn": "ಮಹಿಮೆ / ಶಕ್ತಿ"
+        },
+        {
+          "pada_original": "वृ॒ष॒भस्य॑",
+          "pada_kn": "ವೃಷಭಸ್ಯ",
+          "meaning_en": "of the mighty one / of the bull",
+          "meaning_kn": "ಮಹಾನ್ ಶಕ್ತಿಯುಳ್ಳವನ / ವೃಷಭದ"
+        },
+        {
+          "pada_original": "वो॒च॒‌म्",
+          "pada_kn": "ವೋಚಮ್",
+          "meaning_en": "I declare / I will declare",
+          "meaning_kn": "ನಾನು ಘೋಷಿಸುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "य‌म्",
+          "pada_kn": "ಯಮ್",
+          "meaning_en": "whom",
+          "meaning_kn": "ಯಾರನ್ನು"
+        },
+        {
+          "pada_original": "पू॒रवः॑",
+          "pada_kn": "ಪೂರವಃ",
+          "meaning_en": "the Purus (a tribe)",
+          "meaning_kn": "ಪೂರುಗಳು (ಒಂದು ಜನಾಂಗ)"
+        },
+        {
+          "pada_original": "वृ॒त्र॒ऽहन᳚‌म्",
+          "pada_kn": "ವೃತ್ರಹನಮ್",
+          "meaning_en": "the slayer of Vritra",
+          "meaning_kn": "ವೃತ್ರನನ್ನು ಕೊಂದವನು"
+        },
+        {
+          "pada_original": "सच᳚न्ते",
+          "pada_kn": "ಸಚನ್ತೇ",
+          "meaning_en": "they attend / they worship",
+          "meaning_kn": "ಅವರು ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಾರೆ / ಪೂಜಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "वै॒श्वा॒न॒रः",
+          "pada_kn": "ವೈಶ್ವಾನರಃ",
+          "meaning_en": "Vaishvanara (universal fire)",
+          "meaning_kn": "ವೈಶ್ವಾನರ (ಸಾರ್ವತ್ರಿಕ ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "दस्यु᳚‌म्",
+          "pada_kn": "ದಸ್ಯುಮ್",
+          "meaning_en": "the Dasyu (enemy)",
+          "meaning_kn": "ದಸ್ಯುವನ್ನು (ಶತ್ರು)"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ (ಅಗ್ನಿದೇವ)"
+        },
+        {
+          "pada_original": "ज॒घ॒न्वान्",
+          "pada_kn": "ಜಘನ್ವಾನ್",
+          "meaning_en": "having slain / who has slain",
+          "meaning_kn": "ಸಂಹರಿಸಿದವನು / ಕೊಂದವನು"
+        },
+        {
+          "pada_original": "अधू᳚नोत्",
+          "pada_kn": "ಅಧೂನೋತ್",
+          "meaning_en": "he shook / he cast down",
+          "meaning_kn": "ಅವನು ನಡುಗಿಸಿದನು / ಕೆಡವಿದನು"
+        },
+        {
+          "pada_original": "काष्ठाः᳚",
+          "pada_kn": "ಕಾಷ್ಠಾಃ",
+          "meaning_en": "the regions / the quarters",
+          "meaning_kn": "ದಿಕ್ಕುಗಳನ್ನು / ಪ್ರದೇಶಗಳನ್ನು"
+        },
+        {
+          "pada_original": "अव॑",
+          "pada_kn": "ಅವ",
+          "meaning_en": "down (prefix)",
+          "meaning_kn": "ಕೆಳಗೆ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "शम्ब॑र‌म्",
+          "pada_kn": "ಶಮ್ಬರಮ್",
+          "meaning_en": "Shambara (a demon)",
+          "meaning_kn": "ಶಂಬರನನ್ನು (ಒಂದು ರಾಕ್ಷಸ)"
+        },
+        {
+          "pada_original": "भे॒त्",
+          "pada_kn": "ಭೇತ್",
+          "meaning_en": "he broke / he shattered",
+          "meaning_kn": "ಅವನು ಭೇದಿಸಿದನು / ಛಿದ್ರಗೊಳಿಸಿದನು"
+        }
+      ],
+      "full_meaning_en": "Now shall I proclaim the vast might of the Bull (Agni), whom the Purus attend as the slayer of Vritra. Vaishvanara Agni, having smitten the Dasyu, hath shaken the realms, and shattered Shambara.",
+      "full_meaning_kn": "ಈಗ ನಾನು ವೃಷಭನಾದ (ಅಗ್ನಿ) ಮಹಾನ್ ಸಾಮರ್ಥ್ಯವನ್ನು ಘೋಷಿಸುತ್ತೇನೆ, ಪುರುಗಳು ವೃತ್ರನ ಸಂಹಾರಕನೆಂದು ಯಾರನ್ನು ಪೂಜಿಸುತ್ತಾರೆ. ವೈಶ್ವಾನರ ಅಗ್ನಿಯು ದಸ್ಯುವನ್ನು ಹೊಡೆದುರುಳಿಸಿ, ಲೋಕಗಳನ್ನು ಬೆಚ್ಚಿಬೀಳಿಸಿ, ಶಂಬರನನ್ನು ಭೇದಿಸಿದನು.",
+      "rig_time_s": 73.274,
+      "Insight_en": "Agni, as Vaishvanara, embodies the universal fire that dispels ignorance and darkness. The slaying of Vritra and Shambara represents the triumph over internal obstacles and limitations that hinder spiritual progress. This fire, residing within, empowers the seeker to break free from the bonds of ego and illusion (माया). By invoking Agni, one kindles the inner flame of discernment and achieves liberation (मोक्ष). The destruction of Dasyu signifies the eradication of negative tendencies and impurities within the mind.",
+      "Insight_kn": "ವೈಶ್ವಾನರನಾಗಿ, ಅಗ್ನಿಯು ಅಜ್ಞಾನ ಮತ್ತು ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುವ ಸಾರ್ವತ್ರಿಕ ಅಗ್ನಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ವೃತ್ರ ಮತ್ತು ಶಂಬರರನ್ನು ಕೊಂದದ್ದು ಆಂತರಿಕ ಅಡೆತಡೆಗಳು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅಡ್ಡಿಯುಂಟುಮಾಡುವ ಮಿತಿಗಳ ಮೇಲಿನ ವಿಜಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಈ ಅಗ್ನಿಯು, ಒಳಗೆ ನೆಲೆಸಿ, ಅಹಂಕಾರ ಮತ್ತು ಭ್ರಮೆಯ ಬಂಧನಗಳಿಂದ ಬಿಡುಗಡೆ ಹೊಂದಲು ಸಾಧಕನಿಗೆ ಅಧಿಕಾರ ನೀಡುತ್ತದೆ. ಅಗ್ನಿಯನ್ನು ಆವಾಹಿಸುವುದರ ಮೂಲಕ, ವಿವೇಚನೆಯ ಆಂತರಿಕ ಜ್ವಾಲೆಯನ್ನು ಬೆಳಗಿಸಿ ಮೋಕ್ಷವನ್ನು ಸಾಧಿಸಬಹುದು. ದಸ್ಯುವಿನ ವಿನಾಶವು ಮನಸ್ಸಿನಲ್ಲಿರುವ ನಕಾರಾತ್ಮಕ ಪ್ರವೃತ್ತಿಗಳು ಮತ್ತು ಕಲ್ಮಶಗಳ ನಿರ್ಮೂಲನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S59_191-7_7",
+      "mandala": 1,
+      "sukta": 59,
+      "ric_index": 7,
+      "rig_lines": [
+        "वै॒श्वा॒न॒रो म॑हि॒म्ना वि॒श्वकृ॑ष्टिर्भ॒रद्वा᳚जेषु यज॒तो वि॒भावा᳚ |",
+        "शा॒त॒व॒ने॒ये श॒तिनी᳚भिर॒ग्निः पु॑रुणी॒थे ज॑रते सू॒नृता᳚वान् ||"
+      ],
+      "pre_splits": [
+        "वै॒श्वा॒न॒रः",
+        "म॒हि॒म्ना",
+        "वि॒श्वऽकृ॑ष्टिः",
+        "भ॒रत्ऽवा᳚जेषु",
+        "य॒ज॒तः",
+        "वि॒भाऽवा᳚",
+        "शा॒त॒ऽव॒ने॒ये",
+        "श॒तिनी᳚भिः",
+        "अ॒ग्निः",
+        "पु॒रु॒ऽनी॒थे",
+        "ज॒र॒ते॒",
+        "सू॒नृता᳚ऽवान्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "वै॒श्वा॒न॒रः",
+          "pada_kn": "ವೈಶ್ವಾನರಃ",
+          "meaning_en": "Vaishvanara (Agni, universal fire)",
+          "meaning_kn": "ವೈಶ್ವಾನರ (ಸಾರ್ವತ್ರಿಕ ಅಗ್ನಿ)"
+        },
+        {
+          "pada_original": "म॒हि॒म्ना",
+          "pada_kn": "ಮಹಿಮ್ನಾ",
+          "meaning_en": "by greatness / by might",
+          "meaning_kn": "ಮಹಿಮೆಯಿಂದ / ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "वि॒श्वऽकृ॑ष्टिः",
+          "pada_kn": "ವಿಶ್ವಕೃಷ್ಟಿಃ",
+          "meaning_en": "pervading all people / all-pervading among men",
+          "meaning_kn": "ಸಮಸ್ತ ಜನರಲ್ಲಿ ವ್ಯಾಪಿಸಿರುವವನು / ಎಲ್ಲರನ್ನೂ ಆಕರ್ಷಿಸುವವನು"
+        },
+        {
+          "pada_original": "भ॒रत्ऽवा᳚जेषु",
+          "pada_kn": "ಭರದ್ವಾಜೇಷು",
+          "meaning_en": "among the Bharadvajas (a priestly family/sages)",
+          "meaning_kn": "ಭರದ್ವಾಜರಲ್ಲಿ (ಋಷಿಗಳಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "य॒ज॒तः",
+          "pada_kn": "ಯಜತಃ",
+          "meaning_en": "adorable / worthy of worship",
+          "meaning_kn": "ಪೂಜನೀಯನು / ಯಜ್ಞಾರ್ಹನು"
+        },
+        {
+          "pada_original": "वि॒भाऽवा᳚",
+          "pada_kn": "ವಿಭಾವಾ",
+          "meaning_en": "resplendent / shining brightly",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನನು / ತೇಜಸ್ವಿಯು"
+        },
+        {
+          "pada_original": "शा॒त॒ऽव॒ने॒ये",
+          "pada_kn": "ಶಾತವನೇಯೇ",
+          "meaning_en": "in the son of Shatavana (a patron/sage)",
+          "meaning_kn": "ಶಾತವನನ ಪುತ್ರನಲ್ಲಿ (ಒಬ್ಬ ಋಷಿ/ಯಜಮಾನನಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "श॒तिनी᳚भिः",
+          "pada_kn": "ಶತಿನೀಭಿಃ",
+          "meaning_en": "with hundreds (of gifts/riches) / with abundant wealth",
+          "meaning_kn": "ನೂರಾರು (ದಾನಗಳಿಂದ/ಸಂಪತ್ತುಗಳಿಂದ) / ಹೇರಳ ಸಂಪತ್ತಿನಿಂದ"
+        },
+        {
+          "pada_original": "अ॒ग्निः",
+          "pada_kn": "ಅಗ್ನಿಃ",
+          "meaning_en": "Agni (the fire god)",
+          "meaning_kn": "ಅಗ್ನಿ (ಅಗ್ನಿದೇವನು)"
+        },
+        {
+          "pada_original": "पु॒रु॒ऽनी॒थे",
+          "pada_kn": "ಪುರುನೀಥೇ",
+          "meaning_en": "in Purunitha (another patron/sage)",
+          "meaning_kn": "ಪುರುನೀಥನಲ್ಲಿ (ಮತ್ತೊಬ್ಬ ಋಷಿ/ಯಜಮಾನನಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "ज॒र॒ते॒",
+          "pada_kn": "ಜರತೇ",
+          "meaning_en": "is praised / is extolled",
+          "meaning_kn": "ಸ್ತುತಿಸಲ್ಪಡುತ್ತಾನೆ / ಕೀರ್ತಿಸಲ್ಪಡುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "सू॒नृता᳚ऽवान्",
+          "pada_kn": "ಸೂನೃತಾವಾನ್",
+          "meaning_en": "possessing pleasant speech / truthful and kind-spoken",
+          "meaning_kn": "ಹಿತಕರವಾದ ಮಾತನ್ನುಳ್ಳವನು / ಸತ್ಯ ಮತ್ತು ಪ್ರಿಯವಾದ ಮಾತನ್ನುಳ್ಳವನು"
+        }
+      ],
+      "full_meaning_en": "Vaishvanara Agni, by His greatness, encompasses all humanity; He is adorable and radiant amidst the Bharadvajas. This Agni, endowed with truthful speech and abundant riches, is glorified in Shatavaneya and Purunitha with hundreds of praises.",
+      "full_meaning_kn": "ವೈಶ್ವಾನರ ಅಗ್ನಿಯು, ತನ್ನ ಮಹಿಮೆಯಿಂದ, ಸಕಲ ಮಾನವ ಕುಲವನ್ನು ವ್ಯಾಪಿಸುತ್ತಾನೆ; ಆತನು ಭರದ್ವಾಜರಲ್ಲಿ ಆರಾಧ್ಯನೂ ತೇಜಸ್ವಿಯೂ ಆಗಿದ್ದಾನೆ. ಸತ್ಯವಾದ ನುಡಿ ಮತ್ತು ಹೇರಳವಾದ ಸಂಪತ್ತನ್ನು ಹೊಂದಿರುವ ಈ ಅಗ್ನಿಯನ್ನು ಶತವನೇಯ ಮತ್ತು ಪುರುಣಿತರಲ್ಲಿ ನೂರಾರು ಸ್ತುತಿಗಳಿಂದ ಕೊಂಡಾಡುತ್ತಾರೆ.",
+      "rig_time_s": 89.104,
+      "Insight_en": "Agni, as Vaishvanara, embodies the universal fire that dwells within all beings, the source of consciousness and vitality. This inner fire, when kindled through devotion and virtuous actions, bestows both spiritual illumination and material abundance. The Bharadvajas, representing seekers of knowledge, find Agni’s radiance through their dedicated practices. Cultivating truthful speech (सूनृता) and accumulating inner riches (wealth of virtues) allows one to access the transformative power of Agni, leading to profound spiritual growth. The repeated praises signify the constant nurturing and recognition of this divine spark within.",
+      "Insight_kn": "ಅಗ್ನಿಯು ವೈಶ್ವಾನರನಾಗಿ, ಸಕಲ ಜೀವಿಗಳಲ್ಲಿ ನೆಲೆಸಿರುವ ಸಾರ್ವತ್ರಿಕ ಅಗ್ನಿಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ, ಇದು ಪ್ರಜ್ಞೆ ಮತ್ತು ಚೈತನ್ಯದ ಮೂಲವಾಗಿದೆ. ಭಕ್ತಿ ಮತ್ತು ಸದ್ಗುಣಗಳ ಮೂಲಕ ಪ್ರಜ್ವಲಿಸಿದಾಗ, ಈ ಆಂತರಿಕ ಅಗ್ನಿಯು ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನೋದಯ ಮತ್ತು ಭೌತಿಕ ಸಮೃದ್ಧಿಯನ್ನು ನೀಡುತ್ತದೆ. ಭರದ್ವಾಜರು, ಜ್ಞಾನದ ಅನ್ವೇಷಕರನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಅವರು ತಮ್ಮ ಸಮರ್ಪಿತ ಅಭ್ಯಾಸಗಳ ಮೂಲಕ ಅಗ್ನಿಯ ತೇಜಸ್ಸನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತಾರೆ. ಸತ್ಯವಾದ ಮಾತನ್ನು ಬೆಳೆಸುವುದು (सूनृता) ಮತ್ತು ಆಂತರಿಕ ಸಂಪತ್ತನ್ನು (ಸದ್ಗುಣಗಳ ಸಂಪತ್ತು) ಸಂಗ್ರಹಿಸುವುದು ಅಗ್ನಿಯ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಪ್ರವೇಶಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ, ಇದು ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಪುನರಾವರ್ತಿತ ಸ್ತುತಿಗಳು ಒಳಗಿರುವ ದೈವಿಕ ಕಿಡಿಯ ನಿರಂತರ ಪೋಷಣೆ ಮತ್ತು ಗುರುತಿಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

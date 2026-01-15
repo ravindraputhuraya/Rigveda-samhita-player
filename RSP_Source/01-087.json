@@ -1,0 +1,909 @@
+{
+  "mandala": 1,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M1-S87_191-1_6",
+      "mandala": 1,
+      "sukta": 87,
+      "ric_index": 1,
+      "rig_lines": [
+        "प्रत्व॑क्षसः॒ प्रत॑वसो विर॒प्शिनोऽना᳚नता॒, अवि॑थुरा, ऋजी॒षिणः॑ |",
+        "जुष्ट॑तमासो॒ नृत॑मासो, अ॒ञ्जिभि॒र्व्या᳚नज्रे॒ के चि॑दु॒स्रा, इ॑व॒ स्तृभिः॑ ||"
+      ],
+      "pre_splits": [
+        "प्रऽत्व॑क्षसः",
+        "प्रऽत॑वसः",
+        "वि॒ऽर॒प्शिनः॑",
+        "अना᳚नताः",
+        "अवि॑थुराः",
+        "ऋ॒जी॒षिणः॑",
+        "जुष्ट॑ऽतमासः",
+        "नृऽत॑मासः",
+        "अं॒जिऽभिः॑",
+        "वि",
+        "आ॒न॒ज्रे॒",
+        "के",
+        "चि॒त्",
+        "उ॒स्राऽ‌इ᳚व",
+        "स्तृऽभिः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्रऽत्व॑क्षसः",
+          "pada_kn": "ಪ್ರತ್ವಕ್ಷಸಃ",
+          "meaning_en": "of mighty form / strong-bodied",
+          "meaning_kn": "ಬಲಿಷ್ಠ ದೇಹವುಳ್ಳವರು / ಪ್ರಕಾಶಮಾನವಾದವರು"
+        },
+        {
+          "pada_original": "प्रऽत॑वसः",
+          "pada_kn": "ಪ್ರತವಸಃ",
+          "meaning_en": "of great strength / very powerful",
+          "meaning_kn": "ಮಹಾ ಶಕ್ತಿಶಾಲಿಗಳು / ಅತ್ಯಂತ ಬಲಶಾಲಿಗಳು"
+        },
+        {
+          "pada_original": "वि॒ऽर॒प्शिनः॑",
+          "pada_kn": "ವಿರಪ್ಶಿನಃ",
+          "meaning_en": "roaring / loud-voiced",
+          "meaning_kn": "ಗರ್ಜಿಸುವವರು / ಸಿಂಹಗರ್ಜನೆಯುಳ್ಳವರು"
+        },
+        {
+          "pada_original": "अना᳚नताः",
+          "pada_kn": "ಅನಾನತಾಃ",
+          "meaning_en": "unbowed / unsubdued",
+          "meaning_kn": "ಬಾಗದವರು / ಅಧೀನರಾಗದವರು"
+        },
+        {
+          "pada_original": "अवि॑थुराः",
+          "pada_kn": "ಅವಿಥುರಾಃ",
+          "meaning_en": "unwavering / firm",
+          "meaning_kn": "ಅಲುಗಾಡದವರು / ಸ್ಥಿರಚಿತ್ತರು"
+        },
+        {
+          "pada_original": "ऋ॒जी॒षिणः॑",
+          "pada_kn": "ಋಜೀಷಿಣಃ",
+          "meaning_en": "swift-moving / impetuous",
+          "meaning_kn": "ವೇಗವಾಗಿ ಚಲಿಸುವವರು / ತೀವ್ರಗಾಮಿಗಳು"
+        },
+        {
+          "pada_original": "जुष्ट॑ऽतमासः",
+          "pada_kn": "ಜುಷ್ಟತಮಾಸಃ",
+          "meaning_en": "most beloved / most agreeable",
+          "meaning_kn": "ಅತ್ಯಂತ ಪ್ರೀತಿಪಾತ್ರರು / ಅತ್ಯಂತ ಇಷ್ಟವಾದವರು"
+        },
+        {
+          "pada_original": "नृऽत॑मासः",
+          "pada_kn": "ನೃತಮಾಸಃ",
+          "meaning_en": "most heroic / best leaders",
+          "meaning_kn": "ಅತ್ಯಂತ ಶೂರರು / ಉತ್ತಮ ನಾಯಕರು"
+        },
+        {
+          "pada_original": "अं॒जिऽभिः॑",
+          "pada_kn": "ಅಂಜಿಭಿಃ",
+          "meaning_en": "with their ornaments / with bright decorations",
+          "meaning_kn": "ತಮ್ಮ ಆಭರಣಗಳಿಂದ / ಪ್ರಕಾಶಮಾನವಾದ ಅಲಂಕಾರಗಳಿಂದ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart / widely",
+          "meaning_kn": "ಪ್ರತ್ಯೇಕವಾಗಿ / ವ್ಯಾಪಕವಾಗಿ"
+        },
+        {
+          "pada_original": "आ॒न॒ज्रे॒",
+          "pada_kn": "ಆನಜ್ರೇ",
+          "meaning_en": "they have adorned themselves / they have shone",
+          "meaning_kn": "ಅವರು ಅಲಂಕರಿಸಿಕೊಂಡಿದ್ದಾರೆ / ಅವರು ಪ್ರಕಾಶಿಸಿದ್ದಾರೆ"
+        },
+        {
+          "pada_original": "के",
+          "pada_kn": "ಕೇ",
+          "meaning_en": "some (of them)",
+          "meaning_kn": "ಕೆಲವರು / ಕೆಲವು (ಅವರಲ್ಲಿ)"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "indeed / even",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಸಹ"
+        },
+        {
+          "pada_original": "उ॒स्राऽ‌इ᳚व",
+          "pada_kn": "ಉಸ್ರಾಯಿವ",
+          "meaning_en": "like dawns / like bright mornings",
+          "meaning_kn": "ಉಷೆಗಳಂತೆ / ಪ್ರಕಾಶಮಾನವಾದ ಬೆಳಗುಗಳಂತೆ"
+        },
+        {
+          "pada_original": "स्तृऽभिः॑",
+          "pada_kn": "ಸ್ತೃಭಿಃ",
+          "meaning_en": "with stars",
+          "meaning_kn": "ನಕ್ಷತ್ರಗಳೊಂದಿಗೆ"
+        }
+      ],
+      "full_meaning_en": "The Maruts, of manifest strength, great power, and diverse forms, unbending, unwavering, and swift in movement, most beloved and heroic, have adorned themselves with radiant ornaments. Some shine brightly like dawns adorned with stars.",
+      "full_meaning_kn": "ಪ್ರತ್ಯಕ್ಷವಾದ ಬಲವುಳ್ಳವರೂ, ಮಹಾ ಶಕ್ತಿಯುಳ್ಳವರೂ, ವಿವಿಧ ರೂಪವುಳ್ಳವರೂ, ಬಾಗದವರೂ, ಸ್ಥಿರಚಿತ್ತವುಳ್ಳವರೂ, ವೇಗವಾಗಿ ಚಲಿಸುವವರೂ, ಅತಿ ಪ್ರಿಯವಾದವರೂ, ವೀರರೂ ಆದ ಮರುತ್ತುಗಳು ತಮ್ಮ ತೇಜೋಮಯವಾದ ಆಭರಣಗಳಿಂದ ಅಲಂಕರಿಸಿಕೊಂಡಿದ್ದಾರೆ. ಅವರಲ್ಲಿ ಕೆಲವರು ನಕ್ಷತ್ರಗಳಿಂದ ಅಲಂಕೃತವಾದ ಉಷೋದಯಗಳಂತೆ ಪ್ರಕಾಶಿಸುತ್ತಾರೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The Maruts symbolize the diverse forces of the mind and vital energy. Their unyielding nature reflects the unwavering resolve needed for spiritual progress. The adornment with radiant ornaments signifies the purification and refinement of these forces through disciplined practice. The comparison to dawns with stars represents the illumination that arises when the mind is properly aligned and purified, revealing the inner light of consciousness.",
+      "Insight_kn": "ಮರುತ್ತುಗಳು ಮನಸ್ಸಿನ ಮತ್ತು ಪ್ರಾಣಶಕ್ತಿಯ ವಿವಿಧ ಶಕ್ತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ. ಅವರ ಬಾಗದ ಸ್ವಭಾವವು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅಗತ್ಯವಾದ ಅಚಲವಾದ ಸಂಕಲ್ಪವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ತೇಜೋಮಯ ಆಭರಣಗಳೊಂದಿಗೆ ಅಲಂಕಾರವು ಶಿಸ್ತುಬದ್ಧ ಅಭ್ಯಾಸದ ಮೂಲಕ ಈ ಶಕ್ತಿಗಳ ಶುದ್ಧೀಕರಣ ಮತ್ತು ಪರಿಷ್ಕರಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ನಕ್ಷತ್ರಗಳೊಂದಿಗಿನ ಉಷೋದಯಗಳಿಗೆ ಹೋಲಿಕೆಯು ಮನಸ್ಸನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಿದಾಗ ಮತ್ತು ಶುದ್ಧೀಕರಿಸಿದಾಗ ಉಂಟಾಗುವ ಪ್ರಕಾಶವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಪ್ರಜ್ಞೆಯ ಆಂತರಿಕ ಬೆಳಕನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S87_191-2_6",
+      "mandala": 1,
+      "sukta": 87,
+      "ric_index": 2,
+      "rig_lines": [
+        "उ॒प॒ह्व॒रेषु॒ यदचि॑ध्वं य॒यिं वय॑ इव मरुतः॒ केन॑ चित्‌ प॒था |",
+        "श्चोत᳚न्ति॒ कोशा॒, उप॑ वो॒ रथे॒ष्वा घृ॒तमु॑क्षता॒ मधु॑वर्ण॒मर्च॑ते ||"
+      ],
+      "pre_splits": [
+        "उ॒प॒ऽह्व॒रेषु॑",
+        "यत्",
+        "अचि॑ध्व‌म्",
+        "य॒यि‌म्",
+        "वयः॑ऽ‌इव",
+        "म॒रु॒तः॒",
+        "केन॑",
+        "चि॒त्",
+        "प॒था",
+        "श्चोत᳚न्ति",
+        "कोशाः᳚",
+        "उप॑",
+        "वः॒",
+        "रथे᳚षु",
+        "आ",
+        "घृ॒त‌म्",
+        "उ॒क्ष॒त॒",
+        "मधु॑ऽवर्ण‌म्",
+        "अर्च॑ते"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒प॒ऽह्व॒रेषु॑",
+          "pada_kn": "ಉಪಹ್ವರೇಷು",
+          "meaning_en": "in secluded places / in valleys",
+          "meaning_kn": "ಗುಪ್ತ ಸ್ಥಳಗಳಲ್ಲಿ / ಕಣಿವೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "अचि॑ध्व‌म्",
+          "pada_kn": "ಅಚಿದ್ವಮ್",
+          "meaning_en": "you have moved / you have gone",
+          "meaning_kn": "ನೀವು ಚಲಿಸಿದಾಗ / ನೀವು ಹೋದಾಗ"
+        },
+        {
+          "pada_original": "य॒यि‌म्",
+          "pada_kn": "ಯಯಿಮ್",
+          "meaning_en": "going / moving",
+          "meaning_kn": "ಚಲಿಸುವಿಕೆ / ಹೋಗುವಿಕೆ"
+        },
+        {
+          "pada_original": "वयः॑ऽ‌इव",
+          "pada_kn": "ವಯಃಇವ",
+          "meaning_en": "like birds",
+          "meaning_kn": "ಪಕ್ಷಿಗಳಂತೆ"
+        },
+        {
+          "pada_original": "म॒रु॒तः॒",
+          "pada_kn": "ಮರುತಃ",
+          "meaning_en": "O Maruts",
+          "meaning_kn": "ಓ ಮರುತ್ತುಗಳೇ"
+        },
+        {
+          "pada_original": "केन॑",
+          "pada_kn": "ಕೇನ",
+          "meaning_en": "by what",
+          "meaning_kn": "ಯಾವುದರಿಂದ"
+        },
+        {
+          "pada_original": "चि॒त्",
+          "pada_kn": "ಚಿತ್",
+          "meaning_en": "indeed / even",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಸಹ"
+        },
+        {
+          "pada_original": "प॒था",
+          "pada_kn": "ಪಥಾ",
+          "meaning_en": "by path / by way",
+          "meaning_kn": "ಮಾರ್ಗದಿಂದ / ದಾರಿಯಿಂದ"
+        },
+        {
+          "pada_original": "श्चोत᳚न्ति",
+          "pada_kn": "ಶ್ಚೋತಂತಿ",
+          "meaning_en": "they drip / they flow",
+          "meaning_kn": "ಅವು ಸುರಿಯುತ್ತವೆ / ಹರಿಯುತ್ತವೆ"
+        },
+        {
+          "pada_original": "कोशाः᳚",
+          "pada_kn": "ಕೋಶಾಃ",
+          "meaning_en": "vessels (of rain/water)",
+          "meaning_kn": "ಪಾತ್ರೆಗಳು / ಮಳೆಯ ಕೋಶಗಳು"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "near / towards",
+          "meaning_kn": "ಸಮೀಪ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "your",
+          "meaning_kn": "ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "रथे᳚षु",
+          "pada_kn": "ರಥೇಷು",
+          "meaning_en": "in chariots",
+          "meaning_kn": "ರಥಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "indeed / well (prefix)",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "घृ॒त‌म्",
+          "pada_kn": "ಘೃತಮ್",
+          "meaning_en": "ghee / clarified butter (symbolic of nourishment/rain)",
+          "meaning_kn": "ತುಪ್ಪ / ಪೋಷಣೆ"
+        },
+        {
+          "pada_original": "उ॒क्ष॒त॒",
+          "pada_kn": "ಉಕ್ಷತ",
+          "meaning_en": "sprinkle / moisten",
+          "meaning_kn": "ಸಿಂಪಡಿಸಿ / ತೇವಗೊಳಿಸಿ"
+        },
+        {
+          "pada_original": "मधु॑ऽवर्ण‌म्",
+          "pada_kn": "ಮಧುವರ್ಣಮ್",
+          "meaning_en": "honey-colored / sweet-hued",
+          "meaning_kn": "ಜೇನಿನ ಬಣ್ಣದ / ಮಧುರ ಬಣ್ಣದ"
+        },
+        {
+          "pada_original": "अर्च॑ते",
+          "pada_kn": "ಅರ್ಚತೇ",
+          "meaning_en": "for the worshipper / for him who praises",
+          "meaning_kn": "ಪೂಜಿಸುವವನಿಗಾಗಿ / ಸ್ತುತಿಸುವವನಿಗಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "O Maruts, when you stir in hidden valleys, like birds soaring by an unseen path, how do you traverse? Your rain-filled vessels overflow, and upon your chariots, may you bestow the honey-hued ghee for the devoted worshiper.",
+      "full_meaning_kn": "ಓ ಮರುತ್‌ಗಳೇ, ನೀವು ಗುಪ್ತ ಕಣಿವೆಗಳಲ್ಲಿ ಚಲಿಸುವಾಗ, ಕಾಣದ ದಾರಿಯಲ್ಲಿ ಹಕ್ಕಿಗಳಂತೆ ಹಾರಾಡುವಾಗ, ಹೇಗೆ ಸಾಗುತ್ತೀರಿ? ನಿಮ್ಮ ಮಳೆಯಿಂದ ತುಂಬಿದ ಪಾತ್ರೆಗಳು ತುಂಬಿ ಹರಿಯುತ್ತವೆ, ಮತ್ತು ನಿಮ್ಮ ರಥಗಳ ಮೇಲೆ, ಭಕ್ತ ಆರಾಧಕನಿಗೆ ಜೇನು ಬಣ್ಣದ ತುಪ್ಪವನ್ನು ದಯಪಾಲಿಸಿ.",
+      "rig_time_s": 15.371,
+      "Insight_en": "The Maruts, representing the vital energies or prāṇa (प्राण), move in unseen ways, revitalizing the inner landscape. Their vessels overflow with the nectar of divine experience, which nourishes the devotee's inner being. The honey-colored ghee symbolizes the clarified essence of devotion, offered to the divine within. This offering purifies the mind and elevates consciousness, leading to spiritual insight. The hidden valleys are the subconscious mind where transformation begins.",
+      "Insight_kn": "ಮರುತ್‌ಗಳು, ಪ್ರಮುಖ ಶಕ್ತಿ ಅಥವಾ ಪ್ರಾಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಕಾಣದ ರೀತಿಯಲ್ಲಿ ಚಲಿಸುತ್ತವೆ, ಆಂತರಿಕ ಭೂದೃಶ್ಯವನ್ನು ಪುನರುಜ್ಜೀವನಗೊಳಿಸುತ್ತವೆ. ಅವರ ಪಾತ್ರೆಗಳು ದೈವಿಕ ಅನುಭವದ ಮಕರಂದದಿಂದ ತುಂಬಿರುತ್ತವೆ, ಅದು ಭಕ್ತರ ಆಂತರಿಕ ಜೀವಿಗಳನ್ನು ಪೋಷಿಸುತ್ತದೆ. ಜೇನು ಬಣ್ಣದ ತುಪ್ಪವು ಭಕ್ತಿಯ ಸ್ಪಷ್ಟ ಸಾರವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಇದನ್ನು ಒಳಗಿನ ದೈವಿಕಕ್ಕೆ ಅರ್ಪಿಸಲಾಗುತ್ತದೆ. ಈ ಅರ್ಪಣೆಯು ಮನಸ್ಸನ್ನು ಶುದ್ಧೀಕರಿಸುತ್ತದೆ ಮತ್ತು ಪ್ರಜ್ಞೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ, ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಗುಪ್ತ ಕಣಿವೆಗಳು ಉಪಪ್ರಜ್ಞೆ ಮನಸ್ಸು, ಅಲ್ಲಿ ರೂಪಾಂತರವು ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S87_191-3_6",
+      "mandala": 1,
+      "sukta": 87,
+      "ric_index": 3,
+      "rig_lines": [
+        "प्रैषा॒मज्मे᳚षु विथु॒रेव॑ रेजते॒ भूमि॒र्यामे᳚षु॒ यद्ध॑ यु॒ञ्जते᳚ शु॒भे |",
+        "ते क्री॒ळयो॒ धुन॑यो॒ भ्राज॑दृष्टयः स्व॒यं म॑हि॒त्वं प॑नयन्त॒ धूत॑यः ||"
+      ],
+      "pre_splits": [
+        "प्र",
+        "ए॒षा॒‌म्",
+        "अज्मे᳚षु",
+        "वि॒थु॒राऽ‌इ᳚व",
+        "रे॒ज॒ते॒",
+        "भूमिः॑",
+        "यामे᳚षु",
+        "यत्",
+        "ह॒",
+        "युं॒जते᳚",
+        "शु॒भे",
+        "ते",
+        "क्री॒ळय॑ ः",
+        "धुन॑यः",
+        "भ्राज॑त्ऽऋष्टयः",
+        "स्व॒य‌म्",
+        "म॒हि॒ऽत्व‌म्",
+        "प॒न॒य॒न्त॒",
+        "धूत॑यः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "Forth / intensely",
+          "meaning_kn": "ಮುಂದೆ / ತೀವ್ರವಾಗಿ"
+        },
+        {
+          "pada_original": "ए॒षा॒‌म्",
+          "pada_kn": "ಏಷಾಮ್",
+          "meaning_en": "Of these (Maruts)",
+          "meaning_kn": "ಇವರ (ಮರುತ್ತುಗಳ)"
+        },
+        {
+          "pada_original": "अज्मे᳚षु",
+          "pada_kn": "ಅಜ್ಮೇಷು",
+          "meaning_en": "In their movements / courses",
+          "meaning_kn": "ಅವರ ಚಲನೆಗಳಲ್ಲಿ / ಪಯಣಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "वि॒थु॒राऽ‌इ᳚व",
+          "pada_kn": "ವಿಥುರಾಇವ",
+          "meaning_en": "As if trembling / shaking",
+          "meaning_kn": "ನಡುಗುವಂತೆ / ಕಂಪಿಸುವಂತೆ"
+        },
+        {
+          "pada_original": "रे॒ज॒ते॒",
+          "pada_kn": "ರೇಜತೇ",
+          "meaning_en": "Trembles / shakes",
+          "meaning_kn": "ನಡುಗುತ್ತದೆ / ಕಂಪಿಸುತ್ತದೆ"
+        },
+        {
+          "pada_original": "भूमिः॑",
+          "pada_kn": "ಭೂಮಿಃ",
+          "meaning_en": "The earth",
+          "meaning_kn": "ಭೂಮಿ"
+        },
+        {
+          "pada_original": "यामे᳚षु",
+          "pada_kn": "ಯಾಮೇಷು",
+          "meaning_en": "In their journeys / courses",
+          "meaning_kn": "ಅವರ ಪಯಣಗಳಲ್ಲಿ / ಸಂಚಾರಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "When / that",
+          "meaning_kn": "ಯಾವಾಗ / ಯಾವ"
+        },
+        {
+          "pada_original": "ह॒",
+          "pada_kn": "ಹ",
+          "meaning_en": "Indeed / certainly",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "युं॒जते᳚",
+          "pada_kn": "ಯುಂಜತೇ",
+          "meaning_en": "They yoke / harness",
+          "meaning_kn": "ಅವರು ಹೂಡುತ್ತಾರೆ / ಸಿದ್ಧಗೊಳಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "शु॒भे",
+          "pada_kn": "ಶುಭೇ",
+          "meaning_en": "For splendour / for glory",
+          "meaning_kn": "ವೈಭವಕ್ಕಾಗಿ / ಶೋಭೆಗಾಗಿ"
+        },
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "Those (Maruts)",
+          "meaning_kn": "ಆ (ಮರುತ್ತುಗಳು)"
+        },
+        {
+          "pada_original": "क्री॒ळय॑ ः",
+          "pada_kn": "ಕ್ರೀಳಯಃ",
+          "meaning_en": "Playful ones / sporting",
+          "meaning_kn": "ಆಟವಾಡುವವರು / ಕ್ರೀಡಾಶೀಲರು"
+        },
+        {
+          "pada_original": "धुन॑यः",
+          "pada_kn": "ಧುನಯಃ",
+          "meaning_en": "Shakers / agitators",
+          "meaning_kn": "ಕಂಪಿಸುವಂತೆ ಮಾಡುವವರು / ಅಲ್ಲಾಡಿಸುವವರು"
+        },
+        {
+          "pada_original": "भ्राज॑त्ऽऋष्टयः",
+          "pada_kn": "ಭ್ರಾಜತ್ಽಋಷ್ಟಯಃ",
+          "meaning_en": "Having shining spears / lances",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ ಈಟಿಗಳನ್ನುಳ್ಳವರು"
+        },
+        {
+          "pada_original": "स्व॒य‌म्",
+          "pada_kn": "ಸ್ವಯಮ್",
+          "meaning_en": "By themselves / spontaneously",
+          "meaning_kn": "ಸ್ವತಃ / ತಾವಾಗಿಯೇ"
+        },
+        {
+          "pada_original": "म॒हि॒ऽत्व‌म्",
+          "pada_kn": "ಮಹಿತ್ವಮ್",
+          "meaning_en": "Greatness / might",
+          "meaning_kn": "ಮಹತ್ವ / ಶಕ್ತಿ"
+        },
+        {
+          "pada_original": "प॒न॒य॒न्त॒",
+          "pada_kn": "ಪನಯನ್ತ",
+          "meaning_en": "They acquire / manifest / extol",
+          "meaning_kn": "ಅವರು ಪಡೆಯುತ್ತಾರೆ / ಪ್ರಕಟಪಡಿಸುತ್ತಾರೆ / ಹೊಗಳುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "धूत॑यः",
+          "pada_kn": "ಧೂತಯಃ",
+          "meaning_en": "Shakers / movers",
+          "meaning_kn": "ಕಂಪಿಸುವಂತೆ ಮಾಡುವವರು / ಚಲಿಸುವಂತೆ ಮಾಡುವವರು"
+        }
+      ],
+      "full_meaning_en": "When these Maruts yoke their steeds for auspicious journeys, the earth trembles as if rent asunder by their movements. Those playful, shaking Maruts, with their resplendent spears, spontaneously manifest their own greatness and might, being the movers of all.",
+      "full_meaning_kn": "ಯಾವಾಗ ಈ ಮರುತ್‌ಗಳು ತಮ್ಮ ಕುದುರೆಗಳನ್ನು ಶುಭ ಪ್ರಯಾಣಕ್ಕಾಗಿ ಕಟ್ಟುತ್ತಾರೋ, ಆಗ ಭೂಮಿಯು ಅವರ ಚಲನೆಗಳಿಂದ ಸೀಳಿದಂತೆ ನಡುಗುತ್ತದೆ. ಆ ಲೀಲಾಮಯ, ಚಲಿಸುವ ಮರುತ್‌ಗಳು, ತಮ್ಮ ಪ್ರಕಾಶಮಾನವಾದ ಈಟಿಗಳಿಂದ, ಸ್ವಯಂಪ್ರೇರಿತವಾಗಿ ತಮ್ಮ ಮಹತ್ವ ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಪ್ರಕಟಿಸುತ್ತಾರೆ, ಎಲ್ಲದರ ಚಾಲಕರಾಗುತ್ತಾರೆ.",
+      "rig_time_s": 29.438,
+      "Insight_en": "The Maruts symbolize the dynamic forces within us that propel transformation and growth. Their movement represents the constant flux of thoughts and emotions that shape our inner landscape. The trembling earth signifies the disruption of old patterns necessary for new growth. By embracing these inner forces, we can manifest our inherent greatness and move towards self-realization. The shining spears represent the clarity of vision needed to navigate this inner turmoil and harness its power.",
+      "Insight_kn": "ಮರುತ್‌ಗಳು ನಮ್ಮಲ್ಲಿನ ಪರಿವರ್ತನೆ ಮತ್ತು ಬೆಳವಣಿಗೆಯನ್ನು ಉತ್ತೇಜಿಸುವ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ. ಅವರ ಚಲನೆಯು ನಮ್ಮ ಆಂತರಿಕ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವ ಆಲೋಚನೆಗಳು ಮತ್ತು ಭಾವನೆಗಳ ನಿರಂತರ ಹರಿವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ನಡುಗುವ ಭೂಮಿಯು ಹೊಸ ಬೆಳವಣಿಗೆಗೆ ಅಗತ್ಯವಾದ ಹಳೆಯ ಮಾದರಿಗಳ ಅಡ್ಡಿಯಾಗಿದೆ. ಈ ಆಂತರಿಕ ಶಕ್ತಿಗಳನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳುವ ಮೂಲಕ, ನಾವು ನಮ್ಮ ಸಹಜ ಶ್ರೇಷ್ಠತೆಯನ್ನು ಪ್ರಕಟಿಸಬಹುದು ಮತ್ತು ಆತ್ಮ ಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ಸಾಗಬಹುದು. ಹೊಳೆಯುವ ಈಟಿಗಳು ಈ ಆಂತರಿಕ ಪ್ರಕ್ಷುಬ್ಧತೆಯನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು ಮತ್ತು ಅದರ ಶಕ್ತಿಯನ್ನು ಬಳಸಿಕೊಳ್ಳಲು ಅಗತ್ಯವಾದ ದೃಷ್ಟಿಯ ಸ್ಪಷ್ಟತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S87_191-4_6",
+      "mandala": 1,
+      "sukta": 87,
+      "ric_index": 4,
+      "rig_lines": [
+        "स हि स्व॒सृत्‌ पृष॑दश्वो॒ युवा᳚ ग॒णो॒३॑(ओ॒)ऽया, ई᳚शा॒नस्तवि॑षीभि॒रावृ॑तः |",
+        "असि॑ स॒त्य ऋ॑ण॒यावाने᳚द्यो॒ऽस्या धि॒यः प्रा᳚वि॒ताथा॒ वृषा᳚ ग॒णः ||"
+      ],
+      "pre_splits": [
+        "सः",
+        "हि",
+        "स्व॒ऽसृत्",
+        "पृष॑त्।आश्वः",
+        "युवा᳚",
+        "ग॒णः",
+        "अ॒या",
+        "ई॒शा॒नः",
+        "तवि॑षीभिः",
+        "आऽवृ॑तः",
+        "असि॑",
+        "स॒त्यः",
+        "ऋ॒ण॒ऽयावा᳚",
+        "अने᳚द्यः",
+        "अ॒स्याः",
+        "धि॒यः",
+        "प्र॒।आ॒वि॒ता",
+        "अथ॑",
+        "वृषा᳚",
+        "ग॒णः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "That (host) / He",
+          "meaning_kn": "ಆ (ಗಣವು) / ಅವನು"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "Indeed / certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "स्व॒ऽसृत्",
+          "pada_kn": "ಸ್ವಸೃತ್",
+          "meaning_en": "Self-moving / self-propelled",
+          "meaning_kn": "ಸ್ವಯಂಚಾಲಿತ / ತನ್ನಷ್ಟಕ್ಕೆ ಚಲಿಸುವ"
+        },
+        {
+          "pada_original": "पृष॑त्।आश्वः",
+          "pada_kn": "ಪೃಷದಾಶ್ವಃ",
+          "meaning_en": "Having dappled horses",
+          "meaning_kn": "ಚುಕ್ಕೆಗಳಿರುವ ಕುದುರೆಗಳನ್ನು ಹೊಂದಿರುವ"
+        },
+        {
+          "pada_original": "युवा᳚",
+          "pada_kn": "ಯುವಾ",
+          "meaning_en": "Youthful",
+          "meaning_kn": "ಯುವ / ತರುಣ"
+        },
+        {
+          "pada_original": "ग॒णः",
+          "pada_kn": "ಗಣಃ",
+          "meaning_en": "Host / troop",
+          "meaning_kn": "ಗಣ / ಸಮೂಹ"
+        },
+        {
+          "pada_original": "अ॒या",
+          "pada_kn": "ಅಯಾ",
+          "meaning_en": "This (host) / thus",
+          "meaning_kn": "ಈ (ಗಣವು) / ಹೀಗೆ"
+        },
+        {
+          "pada_original": "ई॒शा॒नः",
+          "pada_kn": "ಈಶಾನಃ",
+          "meaning_en": "Lordly / mighty / ruling",
+          "meaning_kn": "ಪ್ರಭುತ್ವವುಳ್ಳ / ಪ್ರಬಲ / ಆಳುವ"
+        },
+        {
+          "pada_original": "तवि॑षीभिः",
+          "pada_kn": "ತವಿಷೀಭಿಃ",
+          "meaning_en": "With powers / with strengths",
+          "meaning_kn": "ಶಕ್ತಿಗಳಿಂದ / ಬಲಗಳಿಂದ"
+        },
+        {
+          "pada_original": "आऽवृ॑तः",
+          "pada_kn": "ಆವೃತಃ",
+          "meaning_en": "Encompassed / surrounded",
+          "meaning_kn": "ಆವೃತವಾದ / ಸುತ್ತುವರಿದ"
+        },
+        {
+          "pada_original": "असि॑",
+          "pada_kn": "ಅಸಿ",
+          "meaning_en": "You are",
+          "meaning_kn": "ನೀನು ಆಗಿದ್ದೀಯೆ"
+        },
+        {
+          "pada_original": "स॒त्यः",
+          "pada_kn": "ಸತ್ಯಃ",
+          "meaning_en": "True / truthful",
+          "meaning_kn": "ಸತ್ಯವಂತ / ನಿಜವಾದ"
+        },
+        {
+          "pada_original": "ऋ॒ण॒ऽयावा᳚",
+          "pada_kn": "ಋಣಯಾವಾ",
+          "meaning_en": "Dispeller of debts (or distress/sins)",
+          "meaning_kn": "ಋಣಗಳನ್ನು/ದುಃಖಗಳನ್ನು ನಿವಾರಿಸುವವನು"
+        },
+        {
+          "pada_original": "अने᳚द्यः",
+          "pada_kn": "ಅನಿದ್ಯಃ",
+          "meaning_en": "Blameless / irreproachable",
+          "meaning_kn": "ದೋಷರಹಿತ / ನಿಂದಾರಹಿತ"
+        },
+        {
+          "pada_original": "अ॒स्याः",
+          "pada_kn": "ಅಸ್ಯಾಃ",
+          "meaning_en": "Of this",
+          "meaning_kn": "ಈ (ಪ್ರಾರ್ಥನೆಯ)"
+        },
+        {
+          "pada_original": "धि॒यः",
+          "pada_kn": "ಧಿಯಃ",
+          "meaning_en": "Of prayer / of thought / of devotion",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆಯ / ಆಲೋಚನೆಯ / ಭಕ್ತಿಯ"
+        },
+        {
+          "pada_original": "प्र॒।आ॒वि॒ता",
+          "pada_kn": "ಪ್ರಾವಿತಾ",
+          "meaning_en": "Protector / helper",
+          "meaning_kn": "ರಕ್ಷಕ / ಸಹಾಯ ಮಾಡುವವನು"
+        },
+        {
+          "pada_original": "अथ॑",
+          "pada_kn": "ಅಥ",
+          "meaning_en": "And / moreover",
+          "meaning_kn": "ಮತ್ತು / ಇದಲ್ಲದೆ"
+        },
+        {
+          "pada_original": "वृषा᳚",
+          "pada_kn": "ವೃಷಾ",
+          "meaning_en": "Mighty / potent / showering (blessings)",
+          "meaning_kn": "ಪ್ರಬಲ / ಶಕ್ತಿಶಾಲಿ / (ವರಗಳನ್ನು) ಸುರಿಸುವ"
+        },
+        {
+          "pada_original": "ग॒णः",
+          "pada_kn": "ಗಣಃ",
+          "meaning_en": "Host / troop",
+          "meaning_kn": "ಗಣ / ಸಮೂಹ"
+        }
+      ],
+      "full_meaning_en": "Indeed, that youthful host of Maruts is self-moving, adorned with dappled steeds. This powerful host is encompassed by mighty strengths. O Maruts, you are true, a dispeller of distress, faultless, and the protector of this sacred invocation. Verily, you are a mighty host.",
+      "full_meaning_kn": "ಖಚಿತವಾಗಿ, ಮರುತ್ತುಗಳ ಯುವ ಸಮೂಹವು ಸ್ವಯಂ ಚಾಲಿತವಾಗಿದ್ದು, ಮಚ್ಚೆಯುಳ್ಳ ಕುದುರೆಗಳಿಂದ ಅಲಂಕರಿಸಲ್ಪಟ್ಟಿದೆ. ಈ ಬಲಿಷ್ಠ ಸಮೂಹವು ಮಹಾನ್ ಶಕ್ತಿಗಳಿಂದ ಆವೃತವಾಗಿದೆ. ಓ ಮರುತ್ತುಗಳೇ, ನೀವು ಸತ್ಯವಂತರು, ದುಃಖವನ್ನು ನಿವಾರಿಸುವವರು, ದೋಷರಹಿತರು ಮತ್ತು ಈ ಪವಿತ್ರ ಪ್ರಾರ್ಥನೆಯ ರಕ್ಷಕರು. ನಿಶ್ಚಯವಾಗಿ, ನೀವು ಬಲಿಷ್ಠ ಸಮೂಹವಾಗಿದ್ದೀರಿ.",
+      "rig_time_s": 46.357,
+      "Insight_en": "The Maruts, representing the vital energies or pranas, are self-motivated and dynamic forces within us. They are adorned with the dappled steeds, symbolizing the diverse and vibrant nature of our thoughts and emotions. As dispellers of distress (ऋण), they signify the power to overcome inner turmoil and negativity. Their faultless nature points to the purity of intention needed to protect and nurture our sacred aspirations (धियः). The Maruts, as a collective, embody the strength and unity required to manifest spiritual growth.",
+      "Insight_kn": "ಮರುತ್ತುಗಳು, ನಮ್ಮೊಳಗಿನ ಪ್ರಾಣಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುವರು, ಅವರು ಸ್ವಯಂ ಪ್ರೇರಿತ ಮತ್ತು ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಗಳು. ಅವರು ಮಚ್ಚೆಯುಳ್ಳ ಕುದುರೆಗಳಿಂದ ಅಲಂಕರಿಸಲ್ಪಟ್ಟಿದ್ದಾರೆ, ಇದು ನಮ್ಮ ಆಲೋಚನೆಗಳು ಮತ್ತು ಭಾವನೆಗಳ ವೈವಿಧ್ಯಮಯ ಮತ್ತು ರೋಮಾಂಚಕ ಸ್ವರೂಪವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ದುಃಖವನ್ನು ನಿವಾರಿಸುವವರಾಗಿ (ऋण), ಅವರು ಆಂತರಿಕ ಪ್ರಕ್ಷುಬ್ಧತೆ ಮತ್ತು ನಕಾರಾತ್ಮಕತೆಯನ್ನು ನಿವಾರಿಸುವ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತಾರೆ. ಅವರ ದೋಷರಹಿತ ಸ್ವರೂಪವು ನಮ್ಮ ಪವಿತ್ರ ಆಕಾಂಕ್ಷೆಗಳನ್ನು ರಕ್ಷಿಸಲು ಮತ್ತು ಪೋಷಿಸಲು ಬೇಕಾದ ಉದ್ದೇಶದ ಶುದ್ಧತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ (धियः). ಮರುತ್ತುಗಳು, ಒಂದು ಸಮೂಹವಾಗಿ, ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಅಗತ್ಯವಾದ ಶಕ್ತಿ ಮತ್ತು ಏಕತೆಯನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾರೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S87_191-5_6",
+      "mandala": 1,
+      "sukta": 87,
+      "ric_index": 5,
+      "rig_lines": [
+        "पि॒तुः प्र॒त्नस्य॒ जन्म॑ना वदामसि॒ सोम॑स्य जि॒ह्वा प्र जि॑गाति॒ चक्ष॑सा |",
+        "यदी॒मिन्द्रं॒ शम्यृक्वा᳚ण॒ आश॒ताऽदिन्नामा᳚नि य॒ज्ञिया᳚नि दधिरे ||"
+      ],
+      "pre_splits": [
+        "पि॒तुः",
+        "प्र॒त्नस्य॑",
+        "जन्म॑ना",
+        "व॒दा॒म॒सि॒",
+        "सोम॑स्य",
+        "जि॒ह्वा",
+        "प्र",
+        "जि॒गा॒ति॒",
+        "चक्ष॑सा",
+        "यत्",
+        "ई॒‌म्",
+        "इन्द्र᳚‌म्",
+        "शमि॑",
+        "ऋक्वा᳚णः",
+        "आश॑त",
+        "आत्",
+        "इत्",
+        "नामा᳚नि",
+        "य॒ज्ञिया᳚नि",
+        "द॒धि॒रे॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "पि॒तुः",
+          "pada_kn": "ಪಿ॒ತುಃ",
+          "meaning_en": "Of the father / progenitor",
+          "meaning_kn": "ಪಿತೃವಿನ / ಜನಕನ"
+        },
+        {
+          "pada_original": "प्र॒त्नस्य॑",
+          "pada_kn": "ಪ್ರ॒ತ್ನಸ್ಯ",
+          "meaning_en": "Of the ancient / primeval",
+          "meaning_kn": "ಪ್ರಾಚೀನನ / ಪೂರ್ವಕಾಲದ"
+        },
+        {
+          "pada_original": "जन्म॑ना",
+          "pada_kn": "ಜನ್ಮ॑ನಾ",
+          "meaning_en": "By birth / by manifestation",
+          "meaning_kn": "ಹುಟ್ಟಿನಿಂದ / ಅಭಿವ್ಯಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "व॒दा॒म॒सि॒",
+          "pada_kn": "ವ॒ದಾ॒ಮ॒ಸಿ",
+          "meaning_en": "We speak / we declare",
+          "meaning_kn": "ನಾವು ಮಾತನಾಡುತ್ತೇವೆ / ಘೋಷಿಸುತ್ತೇವೆ"
+        },
+        {
+          "pada_original": "सोम॑स्य",
+          "pada_kn": "ಸೋಮ॑ಸ್ಯ",
+          "meaning_en": "Of Soma",
+          "meaning_kn": "ಸೋಮದ"
+        },
+        {
+          "pada_original": "जि॒ह्वा",
+          "pada_kn": "ಜಿ॒ಹ್ವಾ",
+          "meaning_en": "Tongue / voice / inspiration",
+          "meaning_kn": "ನಾಲಿಗೆ / ವಾಣಿ / ಪ್ರೇರಣೆ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "Forth / forward",
+          "meaning_kn": "ಮುಂದೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "जि॒गा॒ति॒",
+          "pada_kn": "ಜಿ॒ಗಾ॒ತಿ",
+          "meaning_en": "Proceeds / manifests",
+          "meaning_kn": "ಮುನ್ನಡೆಯುತ್ತದೆ / ಪ್ರಕಟವಾಗುತ್ತದೆ"
+        },
+        {
+          "pada_original": "चक्ष॑सा",
+          "pada_kn": "ಚಕ್ಷ॑ಸಾ",
+          "meaning_en": "With sight / by vision",
+          "meaning_kn": "ದೃಷ್ಟಿಯಿಂದ / ಜ್ಞಾನದಿಂದ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "When",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "ई॒‌म्",
+          "pada_kn": "ಈಮ್",
+          "meaning_en": "Indeed / verily (particle)",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "इन्द्र᳚‌म्",
+          "pada_kn": "ಇಂದ್ರಮ್",
+          "meaning_en": "Indra (to Indra)",
+          "meaning_kn": "ಇಂದ್ರನನ್ನು"
+        },
+        {
+          "pada_original": "शमि॑",
+          "pada_kn": "ಶಮಿ",
+          "meaning_en": "With effort / with sacred action",
+          "meaning_kn": "ಪ್ರಯತ್ನದಿಂದ / ಯಜ್ಞಕರ್ಮದಿಂದ"
+        },
+        {
+          "pada_original": "ऋक्वा᳚णः",
+          "pada_kn": "ಋಕ್ವಾಣಃ",
+          "meaning_en": "The praisers / the sages",
+          "meaning_kn": "ಸ್ತೋತ್ರ ಮಾಡುವವರು / ಋಷಿಗಳು"
+        },
+        {
+          "pada_original": "आश॑त",
+          "pada_kn": "ಆಶತ",
+          "meaning_en": "They reached / they attained",
+          "meaning_kn": "ಅವರು ತಲುಪಿದರು / ಪಡೆದರು"
+        },
+        {
+          "pada_original": "आत्",
+          "pada_kn": "ಆತ್",
+          "meaning_en": "Then / thereupon",
+          "meaning_kn": "ಆಗ / ತರುವಾಯ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "Indeed / verily (particle)",
+          "meaning_kn": "ನಿಜವಾಗಿಯೂ / ಖಂಡಿತವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "नामा᳚नि",
+          "pada_kn": "ನಾಮಾನಿ",
+          "meaning_en": "Names / mantras",
+          "meaning_kn": "ನಾಮಗಳನ್ನು / ಮಂತ್ರಗಳನ್ನು"
+        },
+        {
+          "pada_original": "य॒ज्ञिया᳚नि",
+          "pada_kn": "ಯಜ್ಞಿಯಾನಿ",
+          "meaning_en": "Worthy of sacrifice / divine",
+          "meaning_kn": "ಯಜ್ಞಕ್ಕೆ ಯೋಗ್ಯವಾದ / ದೈವಿಕವಾದ"
+        },
+        {
+          "pada_original": "द॒धि॒रे॒",
+          "pada_kn": "ದಧಿರೇ",
+          "meaning_en": "They held / they established",
+          "meaning_kn": "ಅವರು ಧರಿಸಿದರು / ಸ್ಥಾಪಿಸಿದರು"
+        }
+      ],
+      "full_meaning_en": "O, we proclaim through the ancient father's birth, Soma, whose tongue, representing his voice and inspiration, goes forth with luminous vision. When those who perform sacred rites, with their inspired utterances, attain union with Indra, they then establish the inviolable and sacred names worthy of the sacrifice.",
+      "full_meaning_kn": "ಓ, ಪ್ರಾಚೀನ ಪಿತೃ ಸೋಮನ ಜನ್ಮದ ಮೂಲಕ ನಾವು ಘೋಷಿಸುತ್ತೇವೆ. ಸೋಮನ ನಾಲಿಗೆ, ಅವನ ಧ್ವನಿ ಮತ್ತು ಪ್ರೇರಣೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಪ್ರಕಾಶಮಾನ ದೃಷ್ಟಿಯೊಂದಿಗೆ ಮುಂದುವರಿಯುತ್ತದೆ. ಪವಿತ್ರ ವಿಧಿಗಳನ್ನು ನಿರ್ವಹಿಸುವವರು, ತಮ್ಮ ಪ್ರೇರಿತ ಉದ್ಗಾರಗಳೊಂದಿಗೆ, ಇಂದ್ರನೊಂದಿಗೆ ಐಕ್ಯವನ್ನು ಸಾಧಿಸಿದಾಗ, ಅವರು ಯಜ್ಞಕ್ಕೆ ಯೋಗ್ಯವಾದ ಅವಿನಾಶಿ ಮತ್ತು ಪವಿತ್ರ ಹೆಸರುಗಳನ್ನು ಸ್ಥಾಪಿಸುತ್ತಾರೆ.",
+      "rig_time_s": 64.438,
+      "Insight_en": "The ancient progenitor, Soma, represents the divine essence within, the source of all creation and inspiration. Soma’s tongue symbolizes the power of expression and revelation, guided by clear vision (चक्षु). Reaching Indra signifies attaining the supreme consciousness, the ultimate goal of spiritual practice. The establishment of divine names (mantras) implies realizing the inherent sacredness and power within the self and the universe, essential for the sacrificial offering of the ego.",
+      "Insight_kn": "ಪ್ರಾಚೀನ ಪಿತೃ ಸೋಮನು ಒಳಗಿನ ದೈವಿಕ ಸಾರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ಇದು ಎಲ್ಲಾ ಸೃಷ್ಟಿ ಮತ್ತು ಪ್ರೇರಣೆಯ ಮೂಲವಾಗಿದೆ. ಸೋಮನ ನಾಲಿಗೆಯು ಸ್ಪಷ್ಟ ದೃಷ್ಟಿಯಿಂದ (ಚಕ್ಷು) ಮಾರ್ಗದರ್ಶಿಸಲ್ಪಟ್ಟ ಅಭಿವ್ಯಕ್ತಿ ಮತ್ತು ಬಹಿರಂಗಪಡಿಸುವಿಕೆಯ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಇಂದ್ರನನ್ನು ತಲುಪುವುದು ಎಂದರೆ ಸರ್ವೋಚ್ಚ ಪ್ರಜ್ಞೆಯನ್ನು ಸಾಧಿಸುವುದು, ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಅಂತಿಮ ಗುರಿ. ದೈವಿಕ ಹೆಸರುಗಳ ಸ್ಥಾಪನೆ (ಮಂತ್ರಗಳು) ಸ್ವಯಂ ಮತ್ತು ಬ್ರಹ್ಮಾಂಡದ ಅಂತರ್ಗತ ಪವಿತ್ರತೆ ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಅರಿತುಕೊಳ್ಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಅಹಂಕಾರದ ತ್ಯಾಗದ ಅರ್ಪಣೆಗೆ ಅತ್ಯಗತ್ಯ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S87_191-6_6",
+      "mandala": 1,
+      "sukta": 87,
+      "ric_index": 6,
+      "rig_lines": [
+        "श्रि॒यसे॒ कं भा॒नुभिः॒ सं मि॑मिक्षिरे॒ ते र॒श्मिभि॒स्त ऋक्व॑भिः सुखा॒दयः॑ |",
+        "ते वाशी᳚मन्त इ॒ष्मिणो॒, अभी᳚रवो वि॒द्रे प्रि॒यस्य॒ मारु॑तस्य॒ धाम्नः॑ ||"
+      ],
+      "pre_splits": [
+        "श्रि॒यसे᳚",
+        "क‌म्",
+        "भा॒नुऽभिः॑",
+        "स‌म्",
+        "मि॒मि॒क्षि॒रे॒",
+        "ते",
+        "र॒श्मिऽभिः॑",
+        "ते",
+        "ऋक्व॑ऽभिः",
+        "सु॒ऽखा॒दयः॑",
+        "ते",
+        "वाशी᳚ऽमन्तः",
+        "इ॒ष्मिणः॑",
+        "अभी᳚रवः",
+        "वि॒द्रे",
+        "प्रि॒यस्य॑",
+        "मारु॑तस्य",
+        "धाम्नः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "श्रि॒यसे᳚",
+          "pada_kn": "ಶ್ರಿಯಸೇ",
+          "meaning_en": "for splendor/glory",
+          "meaning_kn": "ವೈಭವಕ್ಕಾಗಿ/ಕೀರ್ತಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "क‌म्",
+          "pada_kn": "ಕಮ್",
+          "meaning_en": "indeed / for happiness",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಸುಖಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "भा॒नुऽभिः॑",
+          "pada_kn": "ಭಾನುಭಿಃ",
+          "meaning_en": "with rays/lights",
+          "meaning_kn": "ಕಿರಣಗಳಿಂದ/ಪ್ರಕಾಶಗಳಿಂದ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / completely",
+          "meaning_kn": "ಒಟ್ಟಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "मि॒मि॒क्षि॒रे॒",
+          "pada_kn": "ಮಿಮಿಕ್ಷಿರೇ",
+          "meaning_en": "they mingled / they poured (themselves)",
+          "meaning_kn": "ಅವರು ಬೆರೆಸಿದರು / ಅವರು ಸುರಿದುಕೊಂಡರು"
+        },
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "they (the Maruts)",
+          "meaning_kn": "ಅವರು (ಮರುತ್‌ಗಳು)"
+        },
+        {
+          "pada_original": "र॒श्मिऽभिः॑",
+          "pada_kn": "ರಶ್ಮಿಭಿಃ",
+          "meaning_en": "with rays / with cords",
+          "meaning_kn": "ಕಿರಣಗಳಿಂದ / ಹಗ್ಗಗಳಿಂದ"
+        },
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "they (the Maruts)",
+          "meaning_kn": "ಅವರು (ಮರುತ್‌ಗಳು)"
+        },
+        {
+          "pada_original": "ऋक्व॑ऽभिः",
+          "pada_kn": "ಋಕ್ವಭಿಃ",
+          "meaning_en": "with praises / with praisers",
+          "meaning_kn": "ಸ್ತುತಿಗಳಿಂದ / ಸ್ತುತಿಸುವವರಿಂದ"
+        },
+        {
+          "pada_original": "सु॒ऽखा॒दयः॑",
+          "pada_kn": "ಸುಖಾದಯಃ",
+          "meaning_en": "givers of happiness / making happy",
+          "meaning_kn": "ಸುಖವನ್ನು ನೀಡುವವರು / ಸಂತೋಷಪಡಿಸುವವರು"
+        },
+        {
+          "pada_original": "ते",
+          "pada_kn": "ತೇ",
+          "meaning_en": "they (the Maruts)",
+          "meaning_kn": "ಅವರು (ಮರುತ್‌ಗಳು)"
+        },
+        {
+          "pada_original": "वाशी᳚ऽमन्तः",
+          "pada_kn": "ವಾಶೀಮಂತಃ",
+          "meaning_en": "having roaring voices / having thunderbolts",
+          "meaning_kn": "ಗರ್ಜಿಸುವ ಧ್ವನಿಯುಳ್ಳವರು / ವಜ್ರಾಯುಧವುಳ್ಳವರು"
+        },
+        {
+          "pada_original": "इ॒ष्मिणः॑",
+          "pada_kn": "ಇಷ್ಮಿಣಃ",
+          "meaning_en": "swift / impetuous",
+          "meaning_kn": "ವೇಗಶಾಲಿಗಳು / ಪ್ರಚಂಡರು"
+        },
+        {
+          "pada_original": "अभी᳚रवः",
+          "pada_kn": "ಅಭೀರವಃ",
+          "meaning_en": "fearless",
+          "meaning_kn": "ನಿರ್ಭಯರು"
+        },
+        {
+          "pada_original": "वि॒द्रे",
+          "pada_kn": "ವಿದ್ರೇ",
+          "meaning_en": "they know / they have found",
+          "meaning_kn": "ಅವರು ತಿಳಿದಿದ್ದಾರೆ / ಅವರು ಕಂಡುಕೊಂಡಿದ್ದಾರೆ"
+        },
+        {
+          "pada_original": "प्रि॒यस्य॑",
+          "pada_kn": "ಪ್ರಿಯಸ್ಯ",
+          "meaning_en": "of the dear / beloved",
+          "meaning_kn": "ಪ್ರಿಯವಾದ / ಇಷ್ಟವಾದ"
+        },
+        {
+          "pada_original": "मारु॑तस्य",
+          "pada_kn": "ಮಾರುತಸ್ಯ",
+          "meaning_en": "of Marut (the Marut host)",
+          "meaning_kn": "ಮರುತ್‌ಗಳ / ಮಾರುತದ"
+        },
+        {
+          "pada_original": "धाम्नः॑",
+          "pada_kn": "ಧಾಮ್ನಃ",
+          "meaning_en": "the abode / the station / the power",
+          "meaning_kn": "ಸ್ಥಾನವನ್ನು / ಪ್ರಕಾಶವನ್ನು / ಶಕ್ತಿಯನ್ನು"
+        }
+      ],
+      "full_meaning_en": "For the sake of glory and supreme joy, the Maruts intermingle with their brilliance, with those rays, with those hymns that bring delight. They are possessors of the thunderbolt, swift, fearless, and wise, having attained the beloved station of the Marut host.",
+      "full_meaning_kn": "ಮಹೋನ್ನತವಾದ ಕೀರ್ತಿ ಮತ್ತು ಆನಂದಕ್ಕೋಸ್ಕರ ಮರುತ್ತುಗಳು ತಮ್ಮ ತೇಜಸ್ಸಿನೊಂದಿಗೆ ಬೆರೆಯುತ್ತಾರೆ, ಆ ಕಿರಣಗಳೊಂದಿಗೆ, ಆನಂದವನ್ನು ತರುವ ಸ್ತೋತ್ರಗಳೊಂದಿಗೆ ಮಿಳಿತರಾಗುತ್ತಾರೆ. ಅವರು ವಜ್ರಾಯುಧವನ್ನು ಹೊಂದಿರುವವರು, ವೇಗವುಳ್ಳವರು, ನಿರ್ಭಯವುಳ್ಳವರು ಮತ್ತು ಜ್ಞಾನವುಳ್ಳವರಾಗಿ, ಮರುತ ದೇವತೆಗಳ ಪ್ರಿಯವಾದ ಸ್ಥಾನವನ್ನು ಪಡೆದಿದ್ದಾರೆ.",
+      "rig_time_s": 79.502,
+      "Insight_en": "The Maruts, representing the vital energies or forces within us, seek to unite with the supreme brilliance of consciousness, aiming for ultimate bliss. This union is facilitated by the hymns and spiritual practices that bring joy, signifying the purification of our inner nature. The thunderbolt symbolizes the power to shatter illusions. By mastering these inner forces, one attains the beloved state of enlightenment, the ultimate abode of the collective consciousness (Marut host).",
+      "Insight_kn": "ಮರುತ್ತುಗಳು ನಮ್ಮೊಳಗಿನ ಪ್ರಮುಖ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾ, ಪರಮ ಪ್ರಜ್ಞೆಯ ತೇಜಸ್ಸಿನೊಂದಿಗೆ ಒಂದಾಗಲು ಬಯಸುತ್ತಾರೆ, ಮತ್ತು ಅಂತಿಮ ಆನಂದವನ್ನು ಗುರಿಯಾಗಿಸುತ್ತಾರೆ. ಈ ಮಿಲನವು ಆನಂದವನ್ನು ತರುವ ಸ್ತೋತ್ರಗಳು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಆಚರಣೆಗಳಿಂದ ಸುಗಮವಾಗುತ್ತದೆ, ಇದು ನಮ್ಮ ಆಂತರಿಕ ಸ್ವಭಾವದ ಶುದ್ಧೀಕರಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವಜ್ರಾಯುಧವು ಭ್ರಮೆಗಳನ್ನು ಭೇದಿಸುವ ಶಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಈ ಆಂತರಿಕ ಶಕ್ತಿಗಳನ್ನು ಕರಗತ ಮಾಡಿಕೊಳ್ಳುವ ಮೂಲಕ, ಒಬ್ಬನು ಜ್ಞಾನೋದಯದ ಪ್ರಿಯವಾದ ಸ್ಥಿತಿಯನ್ನು ಪಡೆಯುತ್ತಾನೆ, ಇದು ಸಾಮೂಹಿಕ ಪ್ರಜ್ಞೆಯ (ಮರುತ ದೇವತೆಗಳ) ಅಂತಿಮ ಸ್ಥಾನವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

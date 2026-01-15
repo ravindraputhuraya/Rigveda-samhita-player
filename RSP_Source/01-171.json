@@ -1,0 +1,881 @@
+{
+  "mandala": 1,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M1-S171_191-1_6",
+      "mandala": 1,
+      "sukta": 171,
+      "ric_index": 1,
+      "rig_lines": [
+        "प्रति॑ व ए॒ना नम॑सा॒हमे᳚मि सू॒क्तेन॑ भिक्षे सुम॒तिं तु॒राणा᳚म् |",
+        "र॒रा॒णता᳚ मरुतो वे॒द्याभि॒र्नि हेळो᳚ ध॒त्त वि मु॑चध्व॒मश्वा॑न् ||"
+      ],
+      "pre_splits": [
+        "प्रति॑",
+        "वः॒",
+        "ए॒ना",
+        "नम॑सा",
+        "अ॒ह‌म्",
+        "ए॒मि॒",
+        "सु॒।औ॒क्तेन॑",
+        "भि॒क्षे॒",
+        "सु॒ऽम॒ति‌म्",
+        "तु॒राणा᳚‌म्",
+        "र॒रा॒णता᳚",
+        "म॒रु॒तः॒",
+        "वे॒द्याभिः॑",
+        "नि",
+        "हेळः॑",
+        "ध॒त्त",
+        "वि",
+        "मु॒च॒ध्व॒‌म्",
+        "अश्वा॑न्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "towards / to",
+          "meaning_kn": "ಕಡೆಗೆ / ಪ್ರತಿ"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "to you (plural)",
+          "meaning_kn": "ನಿಮಗೆ"
+        },
+        {
+          "pada_original": "ए॒ना",
+          "pada_kn": "ಏನಾ",
+          "meaning_en": "with this (praise/offering)",
+          "meaning_kn": "ಈ (ಸ್ತುತಿಯಿಂದ/ಅರ್ಪಣೆಯಿಂದ)"
+        },
+        {
+          "pada_original": "नम॑सा",
+          "pada_kn": "ನಮಸಾ",
+          "meaning_en": "with reverence / homage",
+          "meaning_kn": "ನಮಸ್ಕಾರದಿಂದ / ಗೌರವದಿಂದ"
+        },
+        {
+          "pada_original": "अ॒ह‌म्",
+          "pada_kn": "ಅಹಮ್",
+          "meaning_en": "I",
+          "meaning_kn": "ನಾನು"
+        },
+        {
+          "pada_original": "ए॒मि॒",
+          "pada_kn": "ಏಮಿ",
+          "meaning_en": "I go / approach",
+          "meaning_kn": "ಹೋಗುತ್ತೇನೆ / ಸಮೀಪಿಸುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "सु॒।औ॒क्तेन॑",
+          "pada_kn": "ಸೂಕ್ತೇನ",
+          "meaning_en": "with a good hymn / well-spoken word",
+          "meaning_kn": "ಉತ್ತಮ ಸ್ತೋತ್ರದಿಂದ / ಒಳ್ಳೆಯ ಮಾತಿನಿಂದ"
+        },
+        {
+          "pada_original": "भि॒क्षे॒",
+          "pada_kn": "ಭಿಕ್ಷೇ",
+          "meaning_en": "I beg / seek",
+          "meaning_kn": "ಬೇಡುತ್ತೇನೆ / ಯಾಚಿಸುತ್ತೇನೆ"
+        },
+        {
+          "pada_original": "सु॒ऽम॒ति‌म्",
+          "pada_kn": "ಸುಮತಿಮ್",
+          "meaning_en": "good will / favor",
+          "meaning_kn": "ಒಳ್ಳೆಯ ಮನಸ್ಸನ್ನು / ಅನುಗ್ರಹವನ್ನು"
+        },
+        {
+          "pada_original": "तु॒राणा᳚‌म्",
+          "pada_kn": "ತುರಾಣಾಮ್",
+          "meaning_en": "of the swift ones (Maruts)",
+          "meaning_kn": "ವೇಗಶಾಲಿಗಳ (ಮರುತ್ತುಗಳ)"
+        },
+        {
+          "pada_original": "र॒रा॒णता᳚",
+          "pada_kn": "ರರಾಣತಾ",
+          "meaning_en": "by your generosity / liberality",
+          "meaning_kn": "ನಿಮ್ಮ ಔದಾರ್ಯದಿಂದ / ಉದಾರತೆಯಿಂದ"
+        },
+        {
+          "pada_original": "म॒रु॒तः॒",
+          "pada_kn": "ಮರುತಃ",
+          "meaning_en": "O Maruts!",
+          "meaning_kn": "ಓ ಮರುತ್ತುಗಳೇ!"
+        },
+        {
+          "pada_original": "वे॒द्याभिः॑",
+          "pada_kn": "ವೇದ್ಯಾಭಿಃ",
+          "meaning_en": "with your gifts / treasures",
+          "meaning_kn": "ನಿಮ್ಮ ಕಾಣಿಕೆಗಳಿಂದ / ಸಂಪತ್ತುಗಳಿಂದ"
+        },
+        {
+          "pada_original": "नि",
+          "pada_kn": "ನಿ",
+          "meaning_en": "down / away (prefix)",
+          "meaning_kn": "ಕೆಳಗೆ / ದೂರ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "हेळः॑",
+          "pada_kn": "ಹೇಳಃ",
+          "meaning_en": "wrath / anger",
+          "meaning_kn": "ಕೋಪವನ್ನು / ಕ್ರೋಧವನ್ನು"
+        },
+        {
+          "pada_original": "ध॒त्त",
+          "pada_kn": "ಧತ್ತ",
+          "meaning_en": "lay down / put away",
+          "meaning_kn": "ಇಡಿರಿ / ದೂರವಿಡಿರಿ"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "apart / away (prefix)",
+          "meaning_kn": "ಬೇರೆ / ದೂರ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "मु॒च॒ध्व॒‌म्",
+          "pada_kn": "ಮುಚಧ್ವಮ್",
+          "meaning_en": "release / unyoke",
+          "meaning_kn": "ಬಿಡುಗಡೆಗೊಳಿಸಿ / ಬಿಚ್ಚಿರಿ"
+        },
+        {
+          "pada_original": "अश्वा॑न्",
+          "pada_kn": "ಅಶ್ವಾನ",
+          "meaning_en": "horses",
+          "meaning_kn": "ಕುದುರೆಗಳನ್ನು"
+        }
+      ],
+      "full_meaning_en": "With reverence and well-spoken hymn, I approach you, O Maruts. I beseech the benevolent intentions of you, the swift ones. Be gracious and with your gifts lay aside your wrath, O Maruts, and release your steeds.",
+      "full_meaning_kn": "ಓ ಮರುತ್ತುಗಳೇ, ನಮ್ರತೆಯಿಂದಲೂ ಸುಶ್ರಾವ್ಯವಾದ ಸ್ತೋತ್ರದಿಂದಲೂ ನಿಮ್ಮನ್ನು ಸಮೀಪಿಸುತ್ತೇನೆ. ಶೀಘ್ರಗಾಮಿಗಳಾದ ನಿಮ್ಮ ಸದ್ಭಾವನೆಯನ್ನು ಯಾಚಿಸುತ್ತೇನೆ. ನಿಮ್ಮ ಔದಾರ್ಯದಿಂದಲೂ, ಕೊಡುಗೆಗಳಿಂದಲೂ ನಿಮ್ಮ ಕ್ರೋಧವನ್ನು ದೂರವಿಡಿರಿ, ಓ ಮರುತ್ತುಗಳೇ, ಮತ್ತು ನಿಮ್ಮ ಕುದುರೆಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The Maruts, representing the tempestuous forces of the mind, must be appeased and directed towards benevolent action. The 'wrath' (हेळो) signifies the negative emotions and impulses that hinder spiritual progress. 'Releasing the steeds' symbolizes liberating the senses from their uncontrolled wanderings, allowing them to be harnessed for higher purposes. By seeking the grace of the Maruts, one gains control over their inner turbulence and channels their energies towards self-realization. This control allows for the cultivation of inner peace and the attainment of wisdom.",
+      "Insight_kn": "ಮರುತ್ತುಗಳು ಮನಸ್ಸಿನ ಬಿರುಗಾಳಿಯಂತಹ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಅವುಗಳನ್ನು ಸಮಾಧಾನಪಡಿಸಿ, ದಯಾಳುತ್ವದ ಕ್ರಿಯೆಗಳ ಕಡೆಗೆ ನಿರ್ದೇಶಿಸಬೇಕು. 'ಕ್ರೋಧ'ವು (हेळो) ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಗತಿಗೆ ಅಡ್ಡಿಯುಂಟುಮಾಡುವ ನಕಾರಾತ್ಮಕ ಭಾವನೆಗಳು ಮತ್ತು ಪ್ರಚೋದನೆಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ಕುದುರೆಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವುದು' ಎಂದರೆ ಇಂದ್ರಿಯಗಳನ್ನು ಅವುಗಳ ಅನಿಯಂತ್ರಿತ ಅಲೆದಾಟದಿಂದ ಮುಕ್ತಗೊಳಿಸಿ, ಅವುಗಳನ್ನು ಉನ್ನತ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಬಳಸಿಕೊಳ್ಳಲು ಅನುವು ಮಾಡಿಕೊಡುವುದು. ಮರುತ್ತುಗಳ ಕೃಪೆಯನ್ನು ಪಡೆಯುವುದರಿಂದ, ಒಬ್ಬರು ತಮ್ಮ ಆಂತರಿಕ ಪ್ರಕ್ಷುಬ್ಧತೆಯ ಮೇಲೆ ನಿಯಂತ್ರಣವನ್ನು ಪಡೆಯುತ್ತಾರೆ ಮತ್ತು ಅವರ ಶಕ್ತಿಯನ್ನು ಆತ್ಮಸಾಕ್ಷಾತ್ಕಾರದ ಕಡೆಗೆ ತಿರುಗಿಸುತ್ತಾರೆ. ಈ ನಿಯಂತ್ರಣವು ಆಂತರಿಕ ಶಾಂತಿಯನ್ನು ಬೆಳೆಸಲು ಮತ್ತು ಜ್ಞಾನವನ್ನು ಪಡೆಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S171_191-2_6",
+      "mandala": 1,
+      "sukta": 171,
+      "ric_index": 2,
+      "rig_lines": [
+        "ए॒ष वः॒ स्तोमो᳚ मरुतो॒ नम॑स्वान् हृ॒दा त॒ष्टो मन॑सा धायि देवाः |",
+        "उपे॒मा या᳚त॒ मन॑सा जुषा॒णा यू॒यं हि ष्ठा नम॑स॒ इद्‌ वृ॒धासः॑ ||"
+      ],
+      "pre_splits": [
+        "ए॒षः",
+        "वः॒",
+        "स्तोमः॑",
+        "म॒रु॒तः॒",
+        "नम॑स्वान्",
+        "हृ॒दा",
+        "त॒ष्टः",
+        "मन॑सा",
+        "धा॒यि॒",
+        "दे॒वाः॒",
+        "उप॑",
+        "ई॒‌म्",
+        "आ",
+        "या॒त॒",
+        "मन॑सा",
+        "जु॒षा॒णाः",
+        "यू॒य‌म्",
+        "हि",
+        "स्थ",
+        "नम॑सः",
+        "इत्",
+        "वृ॒धासः॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "ए॒षः",
+          "pada_kn": "ಏಷಃ",
+          "meaning_en": "This (praise)",
+          "meaning_kn": "ಈ (ಸ್ತೋತ್ರ)"
+        },
+        {
+          "pada_original": "वः॒",
+          "pada_kn": "ವಃ",
+          "meaning_en": "To you",
+          "meaning_kn": "ನಿಮಗೆ"
+        },
+        {
+          "pada_original": "स्तोमः॑",
+          "pada_kn": "ಸ್ತೋಮಃ",
+          "meaning_en": "Praise / Hymn",
+          "meaning_kn": "ಸ್ತೋತ್ರ / ಸ್ತುತಿ"
+        },
+        {
+          "pada_original": "म॒रु॒तः॒",
+          "pada_kn": "ಮರುತಃ",
+          "meaning_en": "O Maruts",
+          "meaning_kn": "ಓ ಮರುತ್ತುಗಳೇ"
+        },
+        {
+          "pada_original": "नम॑स्वान्",
+          "pada_kn": "ನಮಸ್ವಾನ್",
+          "meaning_en": "Reverential / Full of homage",
+          "meaning_kn": "ನಮಸ್ಕಾರಪೂರ್ವಕ / ಗೌರವಯುತ"
+        },
+        {
+          "pada_original": "हृ॒दा",
+          "pada_kn": "ಹೃದಾ",
+          "meaning_en": "By the heart",
+          "meaning_kn": "ಹೃದಯದಿಂದ"
+        },
+        {
+          "pada_original": "त॒ष्टः",
+          "pada_kn": "ತಷ್ಟಃ",
+          "meaning_en": "Fashioned / Formed",
+          "meaning_kn": "ರೂಪಿಸಲ್ಪಟ್ಟ / ನಿರ್ಮಿತವಾದ"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "By the mind",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ"
+        },
+        {
+          "pada_original": "धा॒यि॒",
+          "pada_kn": "ಧಾಯಿ",
+          "meaning_en": "Was offered / Was placed",
+          "meaning_kn": "ಅರ್ಪಿಸಲಾಯಿತು / ಇಡಲ್ಪಟ್ಟಿತು"
+        },
+        {
+          "pada_original": "दे॒वाः॒",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "O Gods",
+          "meaning_kn": "ಓ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "उप॑",
+          "pada_kn": "ಉಪ",
+          "meaning_en": "Near / Towards",
+          "meaning_kn": "ಸಮೀಪಕ್ಕೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "ई॒‌म्",
+          "pada_kn": "ಈಮ್",
+          "meaning_en": "Indeed / Verily",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "Come (prefix)",
+          "meaning_kn": "ಬನ್ನಿ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "या॒त॒",
+          "pada_kn": "ಯಾತ",
+          "meaning_en": "Come (imperative plural)",
+          "meaning_kn": "ಬನ್ನಿರಿ"
+        },
+        {
+          "pada_original": "मन॑सा",
+          "pada_kn": "ಮನಸಾ",
+          "meaning_en": "With the mind / Willingly",
+          "meaning_kn": "ಮನಸ್ಸಿನಿಂದ / ಇಷ್ಟಪಟ್ಟು"
+        },
+        {
+          "pada_original": "जु॒षा॒णाः",
+          "pada_kn": "ಜುಷಾಣಾಃ",
+          "meaning_en": "Delighting in / Accepting",
+          "meaning_kn": "ಸಂತೋಷಪಡುವ / ಸ್ವೀಕರಿಸುವ"
+        },
+        {
+          "pada_original": "यू॒य‌म्",
+          "pada_kn": "ಯೂಯಮ್",
+          "meaning_en": "You (plural)",
+          "meaning_kn": "ನೀವು"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "Indeed / For",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "स्थ",
+          "pada_kn": "ಸ್ಥ",
+          "meaning_en": "Are",
+          "meaning_kn": "ಇರುವಿರಿ"
+        },
+        {
+          "pada_original": "नम॑सः",
+          "pada_kn": "ನಮಸಃ",
+          "meaning_en": "Of homage / Of reverence",
+          "meaning_kn": "ನಮಸ್ಕಾರದ / ಗೌರವದ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "Indeed / Only",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಮಾತ್ರ"
+        },
+        {
+          "pada_original": "वृ॒धासः॑",
+          "pada_kn": "ವೃಧಾಸಃ",
+          "meaning_en": "Increasers / Promoters",
+          "meaning_kn": "ಹೆಚ್ಚಿಸುವವರು / ವೃದ್ಧಿಗೊಳಿಸುವವರು"
+        }
+      ],
+      "full_meaning_en": "O Maruts, Gods of the storm, this hymn of praise, filled with reverence, is fashioned from the depths of my heart and placed before you with mindful devotion. Approach now, accepting this offering with joyous hearts, for indeed, you are the augmenters of our humble reverence.",
+      "full_meaning_kn": "ಓ ಮರುತ್ತುಗಳೇ, ಬಿರುಗಾಳಿಯ ದೇವತೆಗಳೇ, ಭಕ್ತಿಯಿಂದ ತುಂಬಿದ ಈ ಸ್ತೋತ್ರವು ನನ್ನ ಹೃದಯದ ಆಳದಿಂದ ರಚಿಸಲ್ಪಟ್ಟಿದೆ ಮತ್ತು ಜಾಗರೂಕ ಭಕ್ತಿಯಿಂದ ನಿಮ್ಮ ಮುಂದೆ ಇರಿಸಲ್ಪಟ್ಟಿದೆ. ಸಂತೋಷದ ಹೃದಯದಿಂದ ಈ ಅರ್ಪಣೆಯನ್ನು ಸ್ವೀಕರಿಸಿ, ಏಕೆಂದರೆ ನೀವು ನಮ್ಮ ವಿನಮ್ರ ಗೌರವವನ್ನು ಹೆಚ್ಚಿಸುವವರಾಗಿದ್ದೀರಿ.",
+      "rig_time_s": 14.386,
+      "Insight_en": "The Maruts represent the dynamic forces of the mind, the vital energies that propel us towards spiritual growth. This mantra emphasizes the importance of offering our heartfelt emotions and thoughts to the divine. True devotion is not merely ritualistic, but a sincere expression of inner reverence. By consciously directing our mental energies, we can amplify our connection with the divine and foster inner growth. The heart, as the seat of emotions, and the mind, as the instrument of thought, must be aligned to deepen our spiritual practice and realize the self (ātman).",
+      "Insight_kn": "ಮರುತ್‌ಗಳು ಮನಸ್ಸಿನ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯತ್ತ ನಮ್ಮನ್ನು ಪ್ರೇರೇಪಿಸುವ ಪ್ರಮುಖ ಶಕ್ತಿಗಳಾಗಿವೆ. ಈ ಮಂತ್ರವು ದೈವಿಕತೆಗೆ ನಮ್ಮ ಹೃದಯಪೂರ್ವಕ ಭಾವನೆಗಳು ಮತ್ತು ಆಲೋಚನೆಗಳನ್ನು ಅರ್ಪಿಸುವ ಮಹತ್ವವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ನಿಜವಾದ ಭಕ್ತಿಯು ಕೇವಲ ಆಚರಣೆಯಲ್ಲ, ಆದರೆ ಆಂತರಿಕ ಗೌರವದ ಪ್ರಾಮಾಣಿಕ ಅಭಿವ್ಯಕ್ತಿಯಾಗಿದೆ. ನಮ್ಮ ಮಾನಸಿಕ ಶಕ್ತಿಯನ್ನು ಪ್ರಜ್ಞಾಪೂರ್ವಕವಾಗಿ ನಿರ್ದೇಶಿಸುವ ಮೂಲಕ, ನಾವು ದೈವಿಕತೆಯೊಂದಿಗೆ ನಮ್ಮ ಸಂಪರ್ಕವನ್ನು ಹೆಚ್ಚಿಸಬಹುದು ಮತ್ತು ಆಂತರಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ಬೆಳೆಸಬಹುದು. ಭಾವನೆಗಳ ಆಸನವಾಗಿ ಹೃದಯ ಮತ್ತು ಆಲೋಚನೆಗಳ ಸಾಧನವಾಗಿ ಮನಸ್ಸು, ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸವನ್ನು ಗಾಢವಾಗಿಸಲು ಮತ್ತು ಆತ್ಮವನ್ನು ಅರಿತುಕೊಳ್ಳಲು ಜೋಡಿಸಲ್ಪಡಬೇಕು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S171_191-3_6",
+      "mandala": 1,
+      "sukta": 171,
+      "ric_index": 3,
+      "rig_lines": [
+        "स्तु॒तासो᳚ नो म॒रुतो᳚ मृळयन्तू॒त स्तु॒तो म॒घवा॒ शम्भ॑विष्ठः |",
+        "ऊ॒र्ध्वा नः॑ सन्तु को॒म्या वना॒न्यहा᳚नि॒ विश्वा᳚ मरुतो जिगी॒षा ||"
+      ],
+      "pre_splits": [
+        "स्तु॒तासः॑",
+        "नः॒",
+        "म॒रुतः॑",
+        "मृ॒ळ॒य॒न्तु॒",
+        "उ॒त",
+        "स्तु॒तः",
+        "म॒घऽवा᳚",
+        "श‌म्ऽभ॑विष्ठः",
+        "ऊ॒र्ध्वा",
+        "नः॒",
+        "स॒न्तु॒",
+        "को॒म्या",
+        "वना᳚नि",
+        "अहा᳚नि",
+        "विश्वा᳚",
+        "म॒रु॒तः॒",
+        "जि॒गी॒षा"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "स्तु॒तासः॑",
+          "pada_kn": "ಸ್ತುತಾಸಃ",
+          "meaning_en": "praised ones",
+          "meaning_kn": "ಸ್ತುತಿಸಲ್ಪಟ್ಟವರು / ಹೊಗಳಲ್ಪಟ್ಟವರು"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "us / to us",
+          "meaning_kn": "ನಮಗೆ / ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "म॒रुतः॑",
+          "pada_kn": "ಮರುತಃ",
+          "meaning_en": "Maruts (storm gods)",
+          "meaning_kn": "ಮರುತ್‌ಗಳು (ಗಾಳಿ ದೇವರುಗಳು)"
+        },
+        {
+          "pada_original": "मृ॒ळ॒य॒न्तु॒",
+          "pada_kn": "ಮೃಳಯಂತು",
+          "meaning_en": "may they be gracious / may they show mercy",
+          "meaning_kn": "ಅವರು ಕರುಣೆ ತೋರಲಿ / ಅನುಗ್ರಹಿಸಲಿ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಹಾಗೆಯೇ"
+        },
+        {
+          "pada_original": "स्तु॒तः",
+          "pada_kn": "ಸ್ತುತಃ",
+          "meaning_en": "praised one",
+          "meaning_kn": "ಸ್ತುತಿಸಲ್ಪಟ್ಟವನು / ಹೊಗಳಲ್ಪಟ್ಟವನು"
+        },
+        {
+          "pada_original": "म॒घऽवा᳚",
+          "pada_kn": "ಮಘವಾ",
+          "meaning_en": "bountiful (Indra) / wealthy",
+          "meaning_kn": "ಉದಾರಿಯಾದ (ಇಂದ್ರ) / ಐಶ್ವರ್ಯವಂತನು"
+        },
+        {
+          "pada_original": "श‌म्ऽभ॑विष्ठः",
+          "pada_kn": "ಶಂಭವಿಷ್ಠಃ",
+          "meaning_en": "most benevolent / most conducive to happiness",
+          "meaning_kn": "ಅತ್ಯಂತ ಮಂಗಳಕರ / ಸುಖವನ್ನುಂಟುಮಾಡುವವನು"
+        },
+        {
+          "pada_original": "ऊ॒र्ध्वा",
+          "pada_kn": "ಊರ್ಧ್ವಾ",
+          "meaning_en": "high / elevated / prosperous",
+          "meaning_kn": "ಉನ್ನತ / ಸಮೃದ್ಧವಾದ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "our / to us",
+          "meaning_kn": "ನಮ್ಮ / ನಮಗೆ"
+        },
+        {
+          "pada_original": "स॒न्तु॒",
+          "pada_kn": "ಸಂತು",
+          "meaning_en": "may they be",
+          "meaning_kn": "ಇರಲಿ / ಆಗಲಿ"
+        },
+        {
+          "pada_original": "को॒म्या",
+          "pada_kn": "ಕೋಮ್ಯಾ",
+          "meaning_en": "desirable / lovely",
+          "meaning_kn": "ಅಪೇಕ್ಷಣೀಯ / ಮನೋಹರವಾದ"
+        },
+        {
+          "pada_original": "वना᳚नि",
+          "pada_kn": "ವನಾನಿ",
+          "meaning_en": "desirable things / wealth / blessings",
+          "meaning_kn": "ಅಪೇಕ್ಷಣೀಯ ವಸ್ತುಗಳು / ಸಂಪತ್ತು / ಆಶೀರ್ವಾದಗಳು"
+        },
+        {
+          "pada_original": "अहा᳚नि",
+          "pada_kn": "ಅಹಾನಿ",
+          "meaning_en": "days",
+          "meaning_kn": "ದಿನಗಳು"
+        },
+        {
+          "pada_original": "विश्वा᳚",
+          "pada_kn": "ವಿಶ್ವಾ",
+          "meaning_en": "all / every",
+          "meaning_kn": "ಎಲ್ಲಾ / ಸಮಸ್ತ"
+        },
+        {
+          "pada_original": "म॒रु॒तः॒",
+          "pada_kn": "ಮರುತಃ",
+          "meaning_en": "O Maruts! (vocative)",
+          "meaning_kn": "ಓ ಮರುತ್‌ಗಳೇ!"
+        },
+        {
+          "pada_original": "जि॒गी॒षा",
+          "pada_kn": "ಜಿಗೀಷಾ",
+          "meaning_en": "with desire for victory / for conquest",
+          "meaning_kn": "ವಿಜಯದ ಆಸೆಯಿಂದ / ಜಯಕ್ಕಾಗಿ"
+        }
+      ],
+      "full_meaning_en": "May the lauded Maruts bestow their grace upon us, and may the praised Indra, bounteous and most benevolent, also grant his favor. O Maruts, may our cherished aspirations ascend to fruition, and may all our days be imbued with a longing for triumph.",
+      "full_meaning_kn": "ಸ್ತುತಿಸಲ್ಪಟ್ಟ ಮರುತರು ನಮಗೆ ಕರುಣಿಸಲಿ, ಮತ್ತು ಸ್ತುತಿಸಲ್ಪಟ್ಟ, ಉದಾರಿಯಾದ ಮತ್ತು ಅತ್ಯಂತ ದಯಾಳು ಇಂದ್ರನು ತನ್ನ ಅನುಗ್ರಹವನ್ನು ನೀಡಲಿ. ಓ ಮರುತರು, ನಮ್ಮ ಪ್ರೀತಿಯ ಆಕಾಂಕ್ಷೆಗಳು ಫಲಪ್ರದವಾಗಲಿ, ಮತ್ತು ನಮ್ಮ ಎಲ್ಲಾ ದಿನಗಳು ವಿಜಯದ ಬಯಕೆಯಿಂದ ತುಂಬಿರಲಿ.",
+      "rig_time_s": 28.645,
+      "Insight_en": "The Maruts represent the vital energies within us, driving action and change. Invoking their grace signifies seeking the dynamism needed to overcome inertia and stagnation. Indra, as the lord of abundance, symbolizes the potential for inner richness and benevolence. Longing for triumph transcends mere worldly victories; it speaks to the soul's yearning for self-mastery and the realization of its divine potential. The elevation of cherished aspirations points to the transformative power of aligning our desires with the highest good, allowing them to manifest as blessings.",
+      "Insight_kn": "ಮರುತರು ನಮ್ಮೊಳಗಿನ ಪ್ರಮುಖ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಕ್ರಿಯೆ ಮತ್ತು ಬದಲಾವಣೆಯನ್ನು ನಡೆಸುತ್ತಾರೆ. ಅವರ ಅನುಗ್ರಹವನ್ನು ಕೋರುವುದು ಜಡತ್ವ ಮತ್ತು ನಿಶ್ಚಲತೆಯನ್ನು ಜಯಿಸಲು ಅಗತ್ಯವಿರುವ ಕ್ರಿಯಾಶೀಲತೆಯನ್ನು ಬಯಸುತ್ತದೆ. ಸಮೃದ್ಧಿಯ ಅಧಿಪತಿಯಾದ ಇಂದ್ರನು ಆಂತರಿಕ ಶ್ರೀಮಂತಿಕೆ ಮತ್ತು ದಾನತ್ವದ ಸಾಮರ್ಥ್ಯವನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ. ವಿಜಯಕ್ಕಾಗಿ ಹಾತೊರೆಯುವುದು ಕೇವಲ ಲೌಕಿಕ ವಿಜಯಗಳನ್ನು ಮೀರಿ ನಿಲ್ಲುತ್ತದೆ; ಇದು ಸ್ವಯಂ ಪ್ರಭುತ್ವ ಮತ್ತು ದೈವಿಕ ಸಾಮರ್ಥ್ಯದ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕಾಗಿ ಆತ್ಮದ ಹಂಬಲವನ್ನು ಹೇಳುತ್ತದೆ. ಪ್ರೀತಿಯ ಆಕಾಂಕ್ಷೆಗಳ ಉನ್ನತಿಯು ನಮ್ಮ ಆಸೆಗಳನ್ನು ಅತ್ಯುನ್ನತ ಒಳಿತಿನೊಂದಿಗೆ ಜೋಡಿಸುವ ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅದು ಆಶೀರ್ವಾದವಾಗಿ ವ್ಯಕ್ತವಾಗಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S171_191-4_6",
+      "mandala": 1,
+      "sukta": 171,
+      "ric_index": 4,
+      "rig_lines": [
+        "अ॒स्माद॒हं त॑वि॒षादीष॑माण॒ इन्द्रा᳚द्‌ भि॒या म॑रुतो॒ रेज॑मानः |",
+        "यु॒ष्मभ्यं᳚ ह॒व्या निशि॑तान्यास॒न् तान्या॒रे च॑कृमा मृ॒ळता᳚ नः ||"
+      ],
+      "pre_splits": [
+        "अ॒स्मात्",
+        "अ॒ह‌म्",
+        "त॒वि॒षात्",
+        "ईष॑माणः",
+        "इन्द्रा᳚त्",
+        "भि॒या",
+        "म॒रु॒तः॒",
+        "रेज॑मानः",
+        "यु॒ष्मभ्य᳚‌म्",
+        "ह॒व्या",
+        "निऽशि॑तानि",
+        "आ॒स॒न्",
+        "तानि॑",
+        "आ॒रे",
+        "च॒कृ॒म॒",
+        "मृ॒ळत॑",
+        "नः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒स्मात्",
+          "pada_kn": "ಅಸ್ಮಾತ್",
+          "meaning_en": "From this / from him",
+          "meaning_kn": "ಇವನಿಂದ / ಅದರಿಂದ"
+        },
+        {
+          "pada_original": "अ॒ह‌म्",
+          "pada_kn": "ಅಹಮ್",
+          "meaning_en": "I",
+          "meaning_kn": "ನಾನು"
+        },
+        {
+          "pada_original": "त॒वि॒षात्",
+          "pada_kn": "ತವಿಷಾತ್",
+          "meaning_en": "From the powerful one",
+          "meaning_kn": "ಬಲಿಷ್ಠನಿಂದ"
+        },
+        {
+          "pada_original": "ईष॑माणः",
+          "pada_kn": "ಈಷಮಾಣಃ",
+          "meaning_en": "Being impelled / driven",
+          "meaning_kn": "ಪ್ರೇರಿತನಾಗಿ / ತಳ್ಳಲ್ಪಟ್ಟವನಾಗಿ"
+        },
+        {
+          "pada_original": "इन्द्रा᳚त्",
+          "pada_kn": "ಇಂದ್ರಾತ್",
+          "meaning_en": "From Indra",
+          "meaning_kn": "ಇಂದ್ರನಿಂದ"
+        },
+        {
+          "pada_original": "भि॒या",
+          "pada_kn": "ಭಿಯಾ",
+          "meaning_en": "Through fear / out of fear",
+          "meaning_kn": "ಭಯದಿಂದ"
+        },
+        {
+          "pada_original": "म॒रु॒तः॒",
+          "pada_kn": "ಮರುತಃ",
+          "meaning_en": "O Maruts!",
+          "meaning_kn": "ಮರುತ್ತುಗಳೇ!"
+        },
+        {
+          "pada_original": "रेज॑मानः",
+          "pada_kn": "ರೇಜಮಾನಃ",
+          "meaning_en": "Trembling / shaking",
+          "meaning_kn": "ನಡುಗುತ್ತಾ / ಕಂಪಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "यु॒ष्मभ्य᳚‌म्",
+          "pada_kn": "ಯುಷ್ಮಭ್ಯಮ್",
+          "meaning_en": "To you (plural)",
+          "meaning_kn": "ನಿಮಗೆ"
+        },
+        {
+          "pada_original": "ह॒व्या",
+          "pada_kn": "ಹವ್ಯಾ",
+          "meaning_en": "Offerings / oblations",
+          "meaning_kn": "ಹವಿಸ್ಸುಗಳು / ಅರ್ಪಣೆಗಳು"
+        },
+        {
+          "pada_original": "निऽशि॑तानि",
+          "pada_kn": "ನಿಶಿತಾನಿ",
+          "meaning_en": "Sharpened / prepared",
+          "meaning_kn": "ಸಿದ್ಧಪಡಿಸಿದ / ಸಿದ್ಧವಾಗಿರುವ"
+        },
+        {
+          "pada_original": "आ॒स॒न्",
+          "pada_kn": "ಆಸನ್",
+          "meaning_en": "Were / existed",
+          "meaning_kn": "ಇದ್ದವು"
+        },
+        {
+          "pada_original": "तानि॑",
+          "pada_kn": "ತಾನಿ",
+          "meaning_en": "Those",
+          "meaning_kn": "ಅವುಗಳನ್ನು"
+        },
+        {
+          "pada_original": "आ॒रे",
+          "pada_kn": "ಆರೇ",
+          "meaning_en": "Far away / at a distance",
+          "meaning_kn": "ದೂರದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "च॒कृ॒म॒",
+          "pada_kn": "ಚಕೃಮ",
+          "meaning_en": "We have made / placed",
+          "meaning_kn": "ನಾವು ಮಾಡಿದೆವು / ಇರಿಸಿದೆವು"
+        },
+        {
+          "pada_original": "मृ॒ळत॑",
+          "pada_kn": "ಮೃಳತ",
+          "meaning_en": "Be gracious / show mercy",
+          "meaning_kn": "ಕರುಣೆ ತೋರಿರಿ / ಕ್ಷಮಿಸಿರಿ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Us",
+          "meaning_kn": "ನಮಗೆ"
+        }
+      ],
+      "full_meaning_en": "O Maruts, trembling with fear and driven by the impetuous Indra, I have kept far away those prepared oblations that were meant for you. Be gracious unto us.",
+      "full_meaning_kn": "ಓ ಮರುತ್ತುಗಳೇ, ಭಯದಿಂದ ನಡುಗುತ್ತಾ ಮತ್ತು ಪ್ರಚಂಡ ಇಂದ್ರನಿಂದ ಪ್ರೇರಿತನಾಗಿ, ನಿಮಗಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ ಹವಿಸ್ಸುಗಳನ್ನು ನಾನು ದೂರವಿಟ್ಟಿದ್ದೇನೆ. ನಮಗೆ ಕರುಣಿಸಿ.",
+      "rig_time_s": 42.197,
+      "Insight_en": "The fear-stricken mind, overwhelmed by worldly powers (Indra), often neglects its spiritual duties (offerings to the Maruts). The Maruts, representing the vital energies and emotional forces, are then distanced, leading to inner turmoil. True grace lies in recognizing and rectifying this neglect, realigning oneself with the divine forces within. By acknowledging our shortcomings and seeking forgiveness, we invite the Maruts to bestow their life-affirming energy upon us, restoring balance and harmony to our inner landscape. This acknowledgment and supplication allows for the re-integration of vital forces.",
+      "Insight_kn": "ಪ್ರಪಂಚದ ಶಕ್ತಿಗಳಿಂದ (ಇಂದ್ರ) ಆವೃತವಾದ ಭಯಭೀತ ಮನಸ್ಸು, ತನ್ನ ಆಧ್ಯಾತ್ಮಿಕ ಕರ್ತವ್ಯಗಳನ್ನು (ಮರುತ್‌ಗಳಿಗೆ ಅರ್ಪಣೆಗಳು) ನಿರ್ಲಕ್ಷಿಸುತ್ತದೆ. ಮಾರುತರು, ಪ್ರಮುಖ ಶಕ್ತಿಗಳು ಮತ್ತು ಭಾವನಾತ್ಮಕ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ನಂತರ ದೂರವಾಗುತ್ತಾರೆ, ಆಂತರಿಕ ಪ್ರಕ್ಷುಬ್ಧತೆಗೆ ಕಾರಣವಾಗುತ್ತಾರೆ. ಈ ನಿರ್ಲಕ್ಷ್ಯವನ್ನು ಗುರುತಿಸಿ ಸರಿಪಡಿಸುವಲ್ಲಿ ನಿಜವಾದ ಅನುಗ್ರಹವಿದೆ, ಒಳಗಿನ ದೈವಿಕ ಶಕ್ತಿಗಳೊಂದಿಗೆ ಸ್ವತಃ ಮರುಹೊಂದಾಣಿಕೆ ಮಾಡಿಕೊಳ್ಳುವುದು. ನಮ್ಮ ನ್ಯೂನತೆಗಳನ್ನು ಒಪ್ಪಿಕೊಂಡು ಕ್ಷಮೆಯಾಚಿಸುವ ಮೂಲಕ, ನಮ್ಮ ಆಂತರಿಕ ಭೂದೃಶ್ಯಕ್ಕೆ ಸಮತೋಲನ ಮತ್ತು ಸಾಮರಸ್ಯವನ್ನು ಪುನಃಸ್ಥಾಪಿಸಿ, ಜೀವವನ್ನು ಖಚಿತಪಡಿಸುವ ಶಕ್ತಿಯನ್ನು ನಮಗೆ ನೀಡಲು ನಾವು ಮಾರುತ್‌ಗಳನ್ನು ಆಹ್ವಾನಿಸುತ್ತೇವೆ. ಈ ಅಂಗೀಕಾರ ಮತ್ತು ಪ್ರಾರ್ಥನೆಯು ಪ್ರಮುಖ ಶಕ್ತಿಗಳ ಮರು-ಸಂಯೋಜನೆಗೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S171_191-5_6",
+      "mandala": 1,
+      "sukta": 171,
+      "ric_index": 5,
+      "rig_lines": [
+        "येन॒ माना᳚सश्चि॒तय᳚न्त उ॒स्रा व्यु॑ष्टिषु॒ शव॑सा॒ शश्व॑तीनाम् |",
+        "स नो᳚ म॒रुद्भि᳚र्वृषभ॒ श्रवो᳚ धा, उ॒ग्र उ॒ग्रेभिः॒ स्थवि॑रः सहो॒दाः ||"
+      ],
+      "pre_splits": [
+        "येन॑",
+        "माना᳚सः",
+        "चि॒तय᳚न्ते",
+        "उ॒स्राः",
+        "वि।औ᳚ष्टिषु",
+        "शव॑सा",
+        "शश्व॑तीना‌म्",
+        "सः",
+        "नः॒",
+        "म॒रुत्ऽभिः॑",
+        "वृ॒ष॒भ॒",
+        "श्रवः॑",
+        "धाः॒",
+        "उ॒ग्रः",
+        "उ॒ग्रेभिः॑",
+        "स्थवि॑रः",
+        "स॒हः॒ऽदाः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "येन॑",
+          "pada_kn": "ಯೇನ",
+          "meaning_en": "By whom / By which",
+          "meaning_kn": "ಯಾರಿಂದ / ಯಾವ ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "माना᳚सः",
+          "pada_kn": "ಮಾನಾಸಃ",
+          "meaning_en": "inspired ones / thinkers",
+          "meaning_kn": "ಪ್ರೇರಿತರು / ಚಿಂತಕರು"
+        },
+        {
+          "pada_original": "चि॒तय᳚न्ते",
+          "pada_kn": "ಚಿತಯನ್ತೇ",
+          "meaning_en": "become conscious / are awakened",
+          "meaning_kn": "ಜಾಗೃತರಾಗುತ್ತಾರೆ / ಪ್ರಕಾಶಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "उ॒स्राः",
+          "pada_kn": "ಉಸ್ರಾಃ",
+          "meaning_en": "dawns / bright ones",
+          "meaning_kn": "ಉಷೆಗಳು / ಪ್ರಕಾಶಮಾನವಾದವುಗಳು"
+        },
+        {
+          "pada_original": "वि।औ᳚ष्टिषु",
+          "pada_kn": "ವಿ।ಔಷ್ಟಿಷು",
+          "meaning_en": "at the dawns / at the break of day",
+          "meaning_kn": "ಉಷೆಗಳಲ್ಲಿ / ದಿನದ ಆರಂಭದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "शव॑सा",
+          "pada_kn": "ಶವಸಾ",
+          "meaning_en": "with strength / by power",
+          "meaning_kn": "ಬಲದಿಂದ / ಶಕ್ತಿಯಿಂದ"
+        },
+        {
+          "pada_original": "शश्व॑तीना‌म्",
+          "pada_kn": "ಶಶ್ವತೀನಾಮ್",
+          "meaning_en": "of the eternal / of the ever-recurring",
+          "meaning_kn": "ಶಾಶ್ವತವಾದ / ಸದಾ ಮರುಕಳಿಸುವ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "He (that Indra)",
+          "meaning_kn": "ಅವನು (ಆ ಇಂದ್ರನು)"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "म॒रुत्ऽभिः॑",
+          "pada_kn": "ಮರುತ್ऽಭಿಃ",
+          "meaning_en": "with the Maruts / along with the Maruts",
+          "meaning_kn": "ಮರುತ್ತುಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "वृ॒ष॒भ॒",
+          "pada_kn": "ವೃಷಭ",
+          "meaning_en": "O Bull / O mighty one (Indra)",
+          "meaning_kn": "ಓ ವೃಷಭನೇ / ಓ ಪ್ರಬಲನೇ (ಇಂದ್ರ)"
+        },
+        {
+          "pada_original": "श्रवः॑",
+          "pada_kn": "ಶ್ರವಃ",
+          "meaning_en": "fame / glory / renown",
+          "meaning_kn": "ಕೀರ್ತಿ / ಖ್ಯಾತಿ"
+        },
+        {
+          "pada_original": "धाः॒",
+          "pada_kn": "ಧಾಃ",
+          "meaning_en": "bestow / grant",
+          "meaning_kn": "ನೀಡು / ಕರುಣಿಸು"
+        },
+        {
+          "pada_original": "उ॒ग्रः",
+          "pada_kn": "ಉಗ್ರಃ",
+          "meaning_en": "fierce / mighty",
+          "meaning_kn": "ಉಗ್ರನು / ಪ್ರಬಲನು"
+        },
+        {
+          "pada_original": "उ॒ग्रेभिः॑",
+          "pada_kn": "ಉಗ್ರೇಭಿಃ",
+          "meaning_en": "with the fierce ones / with the mighty ones",
+          "meaning_kn": "ಉಗ್ರರೊಂದಿಗೆ / ಪ್ರಬಲರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "स्थवि॑रः",
+          "pada_kn": "ಸ್ಥವಿರಃ",
+          "meaning_en": "strong / firm / ancient",
+          "meaning_kn": "ಬಲಶಾಲಿ / ಸ್ಥಿರ / ಪ್ರಾಚೀನ"
+        },
+        {
+          "pada_original": "स॒हः॒ऽदाः",
+          "pada_kn": "ಸಹಃऽದಾಃ",
+          "meaning_en": "giver of strength / bestower of power",
+          "meaning_kn": "ಶಕ್ತಿ ನೀಡುವವನು / ಬಲದಾತ"
+        }
+      ],
+      "full_meaning_en": "O mighty Indra, by whose power the inspired thinkers awaken, and the radiant dawns shine forth with strength in their eternal cycles, bestow upon us renown together with the Maruts. O fierce one, accompanied by the fierce Maruts, strong and bestower of might, grant us strength.",
+      "full_meaning_kn": "ಓ ಶಕ್ತಿಯುತ ಇಂದ್ರ, ಯಾರ ಶಕ್ತಿಯಿಂದ ಪ್ರೇರಿತ ಚಿಂತಕರು ಜಾಗೃತರಾಗುತ್ತಾರೋ, ಮತ್ತು ಪ್ರಕಾಶಮಾನವಾದ ಉಷೆಗಳು ತಮ್ಮ ಶಾಶ್ವತ ಚಕ್ರಗಳಲ್ಲಿ ಬಲದಿಂದ ಬೆಳಗುತ್ತಾರೋ, ಮರುತ್‌ಗಳೊಂದಿಗೆ ನಮಗೆ ಕೀರ್ತಿಯನ್ನು ದಯಪಾಲಿಸು. ಓ ಉಗ್ರನೇ, ಉಗ್ರ ಮರುತ್‌ಗಳೊಂದಿಗೆ ಕೂಡಿದವನೇ, ಬಲಶಾಲಿಯೇ ಮತ್ತು ಶಕ್ತಿಯನ್ನು ನೀಡುವವನೇ, ನಮಗೆ ಬಲವನ್ನು ಅನುಗ್ರಹಿಸು.",
+      "rig_time_s": 56.331,
+      "Insight_en": "Indra's power represents the divine force that stimulates the intellect and consciousness, enabling inspired thought. The eternal recurrence of dawns symbolizes the consistent, unwavering presence of divine illumination in the cycles of life. The Maruts, fierce companions of Indra, embody the dynamic energies that aid in overcoming obstacles.  True strength arises from aligning oneself with these dynamic forces, gaining both worldly and spiritual renown.  By invoking Indra and the Maruts, one seeks not only external glory (śravas) but also internal power (sahas) to navigate life's challenges.",
+      "Insight_kn": "ಇಂದ್ರನ ಶಕ್ತಿಯು ಬುದ್ಧಿ ಮತ್ತು ಪ್ರಜ್ಞೆಯನ್ನು ಉತ್ತೇಜಿಸುವ ದೈವಿಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಇದು ಪ್ರೇರಿತ ಚಿಂತನೆಗೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಉಷೆಗಳ ಶಾಶ್ವತ ಪುನರಾವರ್ತನೆಯು ಜೀವನದ ಚಕ್ರಗಳಲ್ಲಿ ದೈವಿಕ ಪ್ರಕಾಶದ ಸ್ಥಿರ, ಅಚಲ ಉಪಸ್ಥಿತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಮರುತ್‌ಗಳು, ಇಂದ್ರನ ಉಗ್ರ ಸಹಚರರು, ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸಲು ಸಹಾಯ ಮಾಡುವ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಗಳನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾರೆ. ನಿಜವಾದ ಶಕ್ತಿಯು ಈ ಕ್ರಿಯಾತ್ಮಕ ಶಕ್ತಿಗಳೊಂದಿಗೆ ತನ್ನನ್ನು ತಾನು ಜೋಡಿಸಿಕೊಳ್ಳುವುದರಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಲೌಕಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಕೀರ್ತಿಯನ್ನು ಪಡೆಯುತ್ತದೆ. ಇಂದ್ರ ಮತ್ತು ಮರುತ್‌ಗಳನ್ನು ಆಹ್ವಾನಿಸುವ ಮೂಲಕ, ಒಬ್ಬರು ಬಾಹ್ಯ ವೈಭವವನ್ನು (ಶ್ರವಸ್) ಮಾತ್ರವಲ್ಲದೆ ಜೀವನದ ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಲು ಆಂತರಿಕ ಶಕ್ತಿಯನ್ನು (ಸಹಸ್) ಸಹ ಪಡೆಯಲು ಬಯಸುತ್ತಾರೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S171_191-6_6",
+      "mandala": 1,
+      "sukta": 171,
+      "ric_index": 6,
+      "rig_lines": [
+        "त्वं पा᳚हीन्द्र॒ सही᳚यसो॒ नॄन् भवा᳚ म॒रुद्भि॒रव॑यातहेळाः |",
+        "सु॒प्र॒के॒तेभिः॑ सास॒हिर्दधा᳚नो वि॒द्यामे॒षं वृ॒जनं᳚ जी॒रदा᳚नुम् ||"
+      ],
+      "pre_splits": [
+        "त्व‌म्",
+        "पा॒हि॒",
+        "इ॒न्द्र॒",
+        "सही᳚यसः",
+        "नॄन्",
+        "भव॑",
+        "म॒रुत्ऽभिः॑",
+        "अव॑यातऽहेळाः",
+        "सु॒ऽप्र॒के॒तेभिः॑",
+        "स॒स॒हिः",
+        "दधा᳚नः",
+        "वि॒द्याम॑",
+        "इ॒ष‌म्",
+        "वृ॒जन᳚‌म्",
+        "जी॒रऽदा᳚नु‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "You",
+          "meaning_kn": "ನೀನು"
+        },
+        {
+          "pada_original": "पा॒हि॒",
+          "pada_kn": "ಪಾಹಿ",
+          "meaning_en": "Protect",
+          "meaning_kn": "ರಕ್ಷಿಸು"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "सही᳚यसः",
+          "pada_kn": "ಸಹೀಯಸಃ",
+          "meaning_en": "Mighty / Stronger",
+          "meaning_kn": "ಶಕ್ತಿಶಾಲಿಗಳಾದ / ಬಲಿಷ್ಠರಾದ"
+        },
+        {
+          "pada_original": "नॄन्",
+          "pada_kn": "ನೄನ್",
+          "meaning_en": "Men / People",
+          "meaning_kn": "ಜನರನ್ನು / ಮನುಷ್ಯರನ್ನು"
+        },
+        {
+          "pada_original": "भव॑",
+          "pada_kn": "ಭವ",
+          "meaning_en": "Be / Become",
+          "meaning_kn": "ಇರು / ಆಗು"
+        },
+        {
+          "pada_original": "म॒रुत्ऽभिः॑",
+          "pada_kn": "ಮರುತ್ಭಿಃ",
+          "meaning_en": "With the Maruts",
+          "meaning_kn": "ಮರುತ್‌ಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "अव॑यातऽहेळाः",
+          "pada_kn": "ಅವಯಾತಹೇಳಾಃ",
+          "meaning_en": "Whose wrath is averted / With appeased wrath",
+          "meaning_kn": "ಕೋಪವು ಶಮನಗೊಂಡಿರುವ / ಶಾಂತಗೊಂಡಿರುವ"
+        },
+        {
+          "pada_original": "सु॒ऽप्र॒के॒तेभिः॑",
+          "pada_kn": "ಸುಪ್ರಕೇತೇಭಿಃ",
+          "meaning_en": "With clear insights / With good wisdom",
+          "meaning_kn": "ಉತ್ತಮ ಜ್ಞಾನವುಳ್ಳ / ಸ್ಪಷ್ಟ ತಿಳುವಳಿಕೆಯುಳ್ಳ"
+        },
+        {
+          "pada_original": "स॒स॒हिः",
+          "pada_kn": "ಸಸಹಿಃ",
+          "meaning_en": "Conquering / Victorious",
+          "meaning_kn": "ಜಯಿಸುವ / ವಿಜಯಶಾಲಿ"
+        },
+        {
+          "pada_original": "दधा᳚नः",
+          "pada_kn": "ದಧಾನಃ",
+          "meaning_en": "Bestowing / Granting",
+          "meaning_kn": "ನೀಡುವ / ಅನುಗ್ರಹಿಸುವ"
+        },
+        {
+          "pada_original": "वि॒द्याम॑",
+          "pada_kn": "ವಿದ್ಯಾಮ",
+          "meaning_en": "May we obtain",
+          "meaning_kn": "ನಾವು ಪಡೆಯೋಣ / ನಮಗೆ ದೊರೆಯಲಿ"
+        },
+        {
+          "pada_original": "इ॒ष‌म्",
+          "pada_kn": "ಇಷಮ್",
+          "meaning_en": "Strength / Food",
+          "meaning_kn": "ಶಕ್ತಿ / ಅನ್ನ"
+        },
+        {
+          "pada_original": "वृ॒जन᳚‌म्",
+          "pada_kn": "ವೃಜನಮ್",
+          "meaning_en": "Vigour / Power",
+          "meaning_kn": "ಉತ್ಸಾಹ / ಸಾಮರ್ಥ್ಯ"
+        },
+        {
+          "pada_original": "जी॒रऽदा᳚नु‌म्",
+          "pada_kn": "ಜೀರದಾನು‌ಮ್",
+          "meaning_en": "Swift-giving / Quickly bestowing",
+          "meaning_kn": "ಶೀಘ್ರವಾಗಿ ನೀಡುವ / ಬೇಗ ಕೊಡುವ"
+        }
+      ],
+      "full_meaning_en": "O Indra, protector of mighty men, be present with the Maruts, those whose anger is appeased and who possess luminous insights. Bestowing victory, may we obtain strength and vigor that is swiftly granted.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ಬಲಿಷ್ಠ ಪುರುಷರ ರಕ್ಷಕ, ಶಾಂತಗೊಂಡ ಕೋಪವುಳ್ಳ ಮತ್ತು ಪ್ರಕಾಶಮಾನವಾದ ಒಳನೋಟಗಳನ್ನು ಹೊಂದಿರುವ ಮರುತ್‌ಗಳೊಂದಿಗೆ ಇರು. ವಿಜಯವನ್ನು ದಯಪಾಲಿಸುವವನೇ, ಶೀಘ್ರವಾಗಿ ದೊರೆಯುವ ಶಕ್ತಿ ಮತ್ತು ಸಾಮರ್ಥ್ಯವನ್ನು ನಾವು ಪಡೆಯುವಂತಾಗಲಿ.",
+      "rig_time_s": 70.583,
+      "Insight_en": "Indra, the king of the gods, symbolizes the awakened consciousness capable of overcoming inner obstacles. The Maruts represent the vital energies purified through spiritual practice. Appeasing their wrath signifies the mastery over turbulent emotions. The swiftly-granted strength refers to the divine grace received when the inner being is aligned with cosmic order (Rta).",
+      "Insight_kn": "ಇಂದ್ರನು, ದೇವರುಗಳ ರಾಜನು, ಆಂತರಿಕ ಅಡೆತಡೆಗಳನ್ನು ಜಯಿಸಲು ಸಮರ್ಥವಾದ ಜಾಗೃತ ಪ್ರಜ್ಞೆಯನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ. ಮರುತ್‌ಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯಾಸದ ಮೂಲಕ ಶುದ್ಧೀಕರಿಸಲ್ಪಟ್ಟ ಪ್ರಮುಖ ಶಕ್ತಿಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಅವರ ಕೋಪವನ್ನು ತಣಿಸುವುದು ಪ್ರಕ್ಷುಬ್ಧ ಭಾವನೆಗಳ ಮೇಲೆ ಹಿಡಿತವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಶೀಘ್ರವಾಗಿ ದೊರೆಯುವ ಶಕ್ತಿಯು ಕಾಸ್ಮಿಕ್ ಕ್ರಮದೊಂದಿಗೆ (ಋತ) ಆಂತರಿಕ ಅಸ್ತಿತ್ವವನ್ನು ಜೋಡಿಸಿದಾಗ ಪಡೆಯುವ ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

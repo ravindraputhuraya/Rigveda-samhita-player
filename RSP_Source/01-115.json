@@ -1,0 +1,902 @@
+{
+  "mandala": 1,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M1-S115_191-1_6",
+      "mandala": 1,
+      "sukta": 115,
+      "ric_index": 1,
+      "rig_lines": [
+        "चि॒त्रं दे॒वाना॒मुद॑गा॒दनी᳚कं॒ चक्षु᳚र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः |",
+        "आप्रा॒ द्यावा᳚पृथि॒वी, अ॒न्तरि॑क्षं॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ||"
+      ],
+      "pre_splits": [
+        "चि॒त्र‌म्",
+        "दे॒वाना᳚‌म्",
+        "उत्",
+        "अ॒गा॒त्",
+        "अनी᳚क‌म्",
+        "चक्षुः॑",
+        "मि॒त्रस्य॑",
+        "वरु॑णस्य",
+        "अ॒ग्नेः",
+        "आ",
+        "अ॒प्राः॒",
+        "द्यावा᳚पृथि॒वी इति॑",
+        "अ॒न्तरि॑क्ष‌म्",
+        "सूर्यः॑",
+        "आ॒त्मा",
+        "जग॑तः",
+        "त॒स्थुषः॑",
+        "च॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "चि॒त्र‌म्",
+          "pada_kn": "ಚಿತ್ರಮ್",
+          "meaning_en": "brilliant / variegated",
+          "meaning_kn": "ಅದ್ಭುತವಾದ / ವೈವಿಧ್ಯಮಯವಾದ"
+        },
+        {
+          "pada_original": "दे॒वाना᳚‌म्",
+          "pada_kn": "ದೇವಾನಾಮ್",
+          "meaning_en": "of the gods",
+          "meaning_kn": "ದೇವತೆಗಳ"
+        },
+        {
+          "pada_original": "उत्",
+          "pada_kn": "ಉತ್",
+          "meaning_en": "up / forth",
+          "meaning_kn": "ಮೇಲೆ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "अ॒गा॒त्",
+          "pada_kn": "ಅಗಾತ್",
+          "meaning_en": "went / rose",
+          "meaning_kn": "ಹೋಯಿತು / ಉದಯಿಸಿತು"
+        },
+        {
+          "pada_original": "अनी᳚क‌म्",
+          "pada_kn": "ಅನೀಕಮ್",
+          "meaning_en": "splendor / face / host",
+          "meaning_kn": "ತೇಜಸ್ಸು / ಮುಖ / ಸೈನ್ಯ"
+        },
+        {
+          "pada_original": "चक्षुः॑",
+          "pada_kn": "ಚಕ್ಷುಃ",
+          "meaning_en": "eye / sight",
+          "meaning_kn": "ಕಣ್ಣು / ದೃಷ್ಟಿ"
+        },
+        {
+          "pada_original": "मि॒त्रस्य॑",
+          "pada_kn": "ಮಿತ್ರಸ್ಯ",
+          "meaning_en": "of Mitra",
+          "meaning_kn": "ಮಿತ್ರನ"
+        },
+        {
+          "pada_original": "वरु॑णस्य",
+          "pada_kn": "ವರುಣಸ್ಯ",
+          "meaning_en": "of Varuna",
+          "meaning_kn": "ವರುಣನ"
+        },
+        {
+          "pada_original": "अ॒ग्नेः",
+          "pada_kn": "ಅಗ್ನೇಃ",
+          "meaning_en": "of Agni",
+          "meaning_kn": "ಅಗ್ನಿಯ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "fully / completely (prefix)",
+          "meaning_kn": "ಪೂರ್ಣವಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अ॒प्राः॒",
+          "pada_kn": "ಅಪ್ರಾಃ",
+          "meaning_en": "filled",
+          "meaning_kn": "ತುಂಬಿದನು / ವ್ಯಾಪಿಸಿದನು"
+        },
+        {
+          "pada_original": "द्यावा᳚पृथि॒वी इति॑",
+          "pada_kn": "ದ್ಯಾವಾಪೃಥಿವೀ ಇತಿ",
+          "meaning_en": "Heaven and Earth",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥಿವಿಗಳು (ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ)"
+        },
+        {
+          "pada_original": "अ॒न्तरि॑क्ष‌म्",
+          "pada_kn": "ಅಂತರಿಕ್ಷಮ್",
+          "meaning_en": "the mid-region / atmosphere",
+          "meaning_kn": "ಅಂತರಿಕ್ಷ / ಆಕಾಶ"
+        },
+        {
+          "pada_original": "सूर्यः॑",
+          "pada_kn": "ಸೂರ್ಯಃ",
+          "meaning_en": "Surya / the Sun",
+          "meaning_kn": "ಸೂರ್ಯನು"
+        },
+        {
+          "pada_original": "आ॒त्मा",
+          "pada_kn": "ಆತ್ಮಾ",
+          "meaning_en": "soul / essence / self",
+          "meaning_kn": "ಆತ್ಮ / ಸಾರ"
+        },
+        {
+          "pada_original": "जग॑तः",
+          "pada_kn": "ಜಗತಃ",
+          "meaning_en": "of the moving (world / beings)",
+          "meaning_kn": "ಚಲಿಸುವ (ಜಗತ್ತಿನ / ಜೀವಿಗಳ)"
+        },
+        {
+          "pada_original": "त॒स्थुषः॑",
+          "pada_kn": "ತಸ್ಥುಷಃ",
+          "meaning_en": "of the standing (immobile world / beings)",
+          "meaning_kn": "ನಿಂತಿರುವ (ಸ್ಥಾವರ ಜಗತ್ತಿನ / ಜೀವಿಗಳ)"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "and",
+          "meaning_kn": "ಮತ್ತು"
+        }
+      ],
+      "full_meaning_en": "The radiant and multifaceted brilliance of the Gods has ascended, being the eye of Mitra, Varuna, and Agni. The Sun, the very essence and soul of the moving and the stationary, has entirely pervaded Heaven, Earth, and the intermediate space.",
+      "full_meaning_kn": "ದೇವತೆಗಳ ಪ್ರಕಾಶಮಾನವಾದ ಮತ್ತು ಬಹುಮುಖಿ ತೇಜಸ್ಸು ಉದಯಿಸಿದೆ, ಅದು ಮಿತ್ರ, ವರುಣ ಮತ್ತು ಅಗ್ನಿಯ ಕಣ್ಣಾಗಿದೆ. ಚಲಿಸುವ ಮತ್ತು ಸ್ಥಿರವಾದ ಎಲ್ಲದರ ಸಾರ ಮತ್ತು ಆತ್ಮವಾದ ಸೂರ್ಯನು ಸ್ವರ್ಗ, ಭೂಮಿ ಮತ್ತು ಮಧ್ಯಂತರ ಜಾಗವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ವ್ಯಾಪಿಸಿದ್ದಾನೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "सूर्य (Surya) is not merely a celestial body but the very soul (ātman) of the universe, encompassing both the mobile and immobile. Mitra represents friendship and harmony, वरुण (Varuna) embodies cosmic order and justice, and अग्नि (Agni) signifies transformative energy. The 'eye' symbolizes perception and awareness. The mantra speaks to the all-pervading consciousness that animates all existence. Realizing this oneness is the ultimate spiritual goal.",
+      "Insight_kn": "ಸೂರ್ಯನು ಕೇವಲ ಒಂದು ಆಕಾಶಕಾಯವಲ್ಲ, ಚಲಿಸುವ ಮತ್ತು ಸ್ಥಿರವಾದ ಎಲ್ಲವನ್ನೂ ಒಳಗೊಂಡಿರುವ ವಿಶ್ವದ ಆತ್ಮ. ಮಿತ್ರನು ಸ್ನೇಹ ಮತ್ತು ಸಾಮರಸ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ, ವರುಣನು ಕಾಸ್ಮಿಕ್ ಕ್ರಮ ಮತ್ತು ನ್ಯಾಯವನ್ನು ಮೂರ್ತಿೀಕರಿಸುತ್ತಾನೆ ಮತ್ತು ಅಗ್ನಿಯು ಪರಿವರ್ತಕ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. 'ಕಣ್ಣು' ಗ್ರಹಿಕೆ ಮತ್ತು ಅರಿವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಈ ಮಂತ್ರವು ಎಲ್ಲಾ ಅಸ್ತಿತ್ವವನ್ನು ಜೀವಿಸುವ ಸರ್ವವ್ಯಾಪಿ ಪ್ರಜ್ಞೆಯ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ. ಈ ಏಕತೆಯನ್ನು ಅರಿತುಕೊಳ್ಳುವುದು ಅಂತಿಮ ಆಧ್ಯಾತ್ಮಿಕ ಗುರಿಯಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S115_191-2_6",
+      "mandala": 1,
+      "sukta": 115,
+      "ric_index": 2,
+      "rig_lines": [
+        "सूर्यो᳚ दे॒वीमु॒षसं॒ रोच॑मानां॒ मर्यो॒ न योषा᳚म॒भ्ये᳚ति प॒श्चात् |",
+        "यत्रा॒ नरो᳚ देव॒यन्तो᳚ यु॒गानि॑ वितन्व॒ते प्रति॑ भ॒द्राय॑ भ॒द्रम् ||"
+      ],
+      "pre_splits": [
+        "सूर्यः॑",
+        "दे॒वी‌म्",
+        "उ॒षस᳚‌म्",
+        "रोच॑माना‌म्",
+        "मर्यः॑",
+        "न",
+        "योषा᳚‌म्",
+        "अ॒भि",
+        "ए॒ति॒",
+        "प॒श्चात्",
+        "यत्र॑",
+        "नरः॑",
+        "दे॒व॒ऽयन्तः॑",
+        "यु॒गानि॑",
+        "वि॒ऽत॒न्व॒ते",
+        "प्रति॑",
+        "भ॒द्राय॑",
+        "भ॒द्र‌म्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "सूर्यः॑",
+          "pada_kn": "ಸೂರ್ಯಃ",
+          "meaning_en": "The Sun",
+          "meaning_kn": "ಸೂರ್ಯನು"
+        },
+        {
+          "pada_original": "दे॒वी‌म्",
+          "pada_kn": "ದೇವೀಮ್",
+          "meaning_en": "divine",
+          "meaning_kn": "ದೈವೀ / ದೇವತೆಯಾದ"
+        },
+        {
+          "pada_original": "उ॒षस᳚‌म्",
+          "pada_kn": "ಉಷಸಮ್",
+          "meaning_en": "Ushas / Dawn",
+          "meaning_kn": "ಉಷಸ್ಸನ್ನು / ಪ್ರಾತಃಕಾಲವನ್ನು"
+        },
+        {
+          "pada_original": "रोच॑माना‌म्",
+          "pada_kn": "ರೋಚಮಾನಾಮ್",
+          "meaning_en": "shining / radiant",
+          "meaning_kn": "ಪ್ರಕಾಶಿಸುತ್ತಿರುವ / ಹೊಳೆಯುತ್ತಿರುವ"
+        },
+        {
+          "pada_original": "मर्यः॑",
+          "pada_kn": "ಮರ್ಯಃ",
+          "meaning_en": "a young man / lover",
+          "meaning_kn": "ಯುವಕನು / ಪ್ರೇಮಿಯು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ಅಂತೆ"
+        },
+        {
+          "pada_original": "योषा᳚‌म्",
+          "pada_kn": "ಯೋಷಾಮ್",
+          "meaning_en": "a young woman / beloved",
+          "meaning_kn": "ಯುವತಿಯನ್ನು / ಪ್ರೇಯಸಿಯನ್ನು"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards / unto",
+          "meaning_kn": "ಕಡೆಗೆ / ಅಭಿಮುಖವಾಗಿ"
+        },
+        {
+          "pada_original": "ए॒ति॒",
+          "pada_kn": "ಏತಿ",
+          "meaning_en": "goes / approaches",
+          "meaning_kn": "ಹೋಗುತ್ತಾನೆ / ಸಮೀಪಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "प॒श्चात्",
+          "pada_kn": "ಪಶ್ಚಾತ್",
+          "meaning_en": "from behind / following",
+          "meaning_kn": "ಹಿಂಬದಿಯಿಂದ / ಹಿಂಬಾಲಿಸಿ"
+        },
+        {
+          "pada_original": "यत्र॑",
+          "pada_kn": "ಯತ್ರ",
+          "meaning_en": "where / when",
+          "meaning_kn": "ಎಲ್ಲಿ / ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "नरः॑",
+          "pada_kn": "ನರಃ",
+          "meaning_en": "men / people",
+          "meaning_kn": "ಮನುಷ್ಯರು / ಜನರು"
+        },
+        {
+          "pada_original": "दे॒व॒ऽयन्तः॑",
+          "pada_kn": "ದೇವಯನ್ತಃ",
+          "meaning_en": "worshipping gods / devout",
+          "meaning_kn": "ದೇವತೆಗಳನ್ನು ಪೂಜಿಸುವವರು / ಭಕ್ತರು"
+        },
+        {
+          "pada_original": "यु॒गानि॑",
+          "pada_kn": "ಯುಗಾನಿ",
+          "meaning_en": "yokes (for plows) / implements",
+          "meaning_kn": "ನೊಗಗಳನ್ನು / ಕೆಲಸದ ಉಪಕರಣಗಳನ್ನು"
+        },
+        {
+          "pada_original": "वि॒ऽत॒न्व॒ते",
+          "pada_kn": "ವಿತನ್ವತೇ",
+          "meaning_en": "spread out / prepare",
+          "meaning_kn": "ಹರಡುತ್ತಾರೆ / ಸಿದ್ಧಪಡಿಸುತ್ತಾರೆ"
+        },
+        {
+          "pada_original": "प्रति॑",
+          "pada_kn": "ಪ್ರತಿ",
+          "meaning_en": "in return for / for",
+          "meaning_kn": "ಪ್ರತಿಯಾಗಿ / ಸಲುವಾಗಿ"
+        },
+        {
+          "pada_original": "भ॒द्राय॑",
+          "pada_kn": "ಭದ್ರಾಯ",
+          "meaning_en": "for welfare / for good",
+          "meaning_kn": "ಶುಭಕ್ಕಾಗಿ / ಒಳ್ಳೆಯದಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "भ॒द्र‌म्",
+          "pada_kn": "ಭದ್ರಮ್",
+          "meaning_en": "welfare / good",
+          "meaning_kn": "ಶುಭವನ್ನು / ಒಳ್ಳೆಯದನ್ನು"
+        }
+      ],
+      "full_meaning_en": "The Sun follows the radiant, divine Dawn from behind, like a young man approaches a beloved young woman. There, devout men, desiring the gods, extend their yokes across generations, accomplishing auspicious deeds for prosperity and well-being.",
+      "full_meaning_kn": "ಸೂರ್ಯನು ಪ್ರಕಾಶಮಾನವಾದ ದೈವಿಕ ಉಷೆಯನ್ನು ಹಿಂಬಾಲಿಸುತ್ತಾನೆ, ಯುವಕನು ಪ್ರಿಯ ಯುವತಿಯನ್ನು ಸಮೀಪಿಸುವಂತೆ. ಅಲ್ಲಿ, ದೇವತೆಗಳನ್ನು ಅಪೇಕ್ಷಿಸುವ ಭಕ್ತರು, ತಮ್ಮ ನೊಗಗಳನ್ನು ತಲೆಮಾರುಗಳವರೆಗೆ ವಿಸ್ತರಿಸುತ್ತಾರೆ, ಸಮೃದ್ಧಿ ಮತ್ತು ಯೋಗಕ್ಷೇಮಕ್ಕಾಗಿ ಶುಭ ಕಾರ್ಯಗಳನ್ನು ಸಾಧಿಸುತ್ತಾರೆ.",
+      "rig_time_s": 17.43,
+      "Insight_en": "The radiant Dawn symbolizes the awakening of consciousness, unveiling the potential for divine realization. Just as the Sun follows the Dawn, the individual soul (Ātman) yearns to unite with the divine (Brahman). The yoke represents the disciplined effort required to traverse the spiritual path. By performing virtuous actions, the seeker aligns with the cosmic order (Ṛta) and attains true prosperity.",
+      "Insight_kn": "ಪ್ರಕಾಶಮಾನವಾದ ಉಷೆಯು ದೈವಿಕ ಸಾಕ್ಷಾತ್ಕಾರದ ಸಾಮರ್ಥ್ಯವನ್ನು ಅನಾವರಣಗೊಳಿಸುವ ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಸೂರ್ಯನು ಉಷೆಯನ್ನು ಹಿಂಬಾಲಿಸುವಂತೆಯೇ, ವೈಯಕ್ತಿಕ ಆತ್ಮವು (ಆತ್ಮನ್) ದೈವಿಕದೊಂದಿಗೆ (ಬ್ರಹ್ಮನ್) ಒಂದಾಗಲು ಹಂಬಲಿಸುತ್ತದೆ. ನೊಗವು ಆಧ್ಯಾತ್ಮಿಕ ಮಾರ್ಗವನ್ನು ದಾಟಲು ಅಗತ್ಯವಿರುವ ಶಿಸ್ತುಬದ್ಧ ಪ್ರಯತ್ನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಸದ್ಗುಣ ಕಾರ್ಯಗಳನ್ನು ಮಾಡುವ ಮೂಲಕ, ಸಾಧಕನು ಕಾಸ್ಮಿಕ್ ಕ್ರಮದೊಂದಿಗೆ (ಋತ) ಹೊಂದಾಣಿಕೆ ಹೊಂದುತ್ತಾನೆ ಮತ್ತು ನಿಜವಾದ ಸಮೃದ್ಧಿಯನ್ನು ಪಡೆಯುತ್ತಾನೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S115_191-3_6",
+      "mandala": 1,
+      "sukta": 115,
+      "ric_index": 3,
+      "rig_lines": [
+        "भ॒द्रा, अश्वा᳚ ह॒रितः॒ सूर्य॑स्य चि॒त्रा, एत॑ग्वा, अनु॒माद्या᳚सः |",
+        "न॒म॒स्यन्तो᳚ दि॒व आ पृ॒ष्ठम॑स्थुः॒ परि॒ द्यावा᳚पृथि॒वी य᳚न्ति स॒द्यः ||"
+      ],
+      "pre_splits": [
+        "भ॒द्राः",
+        "अश्वाः᳚",
+        "ह॒रितः॑",
+        "सूर्य॑स्य",
+        "चि॒त्राः",
+        "एत॑ऽग्वाः",
+        "अ॒नु॒ऽमाद्या᳚सः",
+        "न॒म॒स्यन्तः॑",
+        "दि॒वः",
+        "आ",
+        "पृ॒ष्ठ‌म्",
+        "अ॒स्थुः॒",
+        "परि॑",
+        "द्यावा᳚पृथि॒वी",
+        "य॒न्ति॒",
+        "स॒द्यः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "भ॒द्राः",
+          "pada_kn": "ಭದ್ರಾಃ",
+          "meaning_en": "auspicious / benevolent",
+          "meaning_kn": "ಶುಭಕರವಾದ / ಮಂಗಳಕರವಾದ"
+        },
+        {
+          "pada_original": "अश्वाः᳚",
+          "pada_kn": "ಅಶ್ವಾಃ",
+          "meaning_en": "horses",
+          "meaning_kn": "ಕುದುರೆಗಳು"
+        },
+        {
+          "pada_original": "ह॒रितः॑",
+          "pada_kn": "ಹರಿತಃ",
+          "meaning_en": "tawny / golden-green",
+          "meaning_kn": "ಕಪಿಲವರ್ಣದ / ಹಳದಿ-ಹಸಿರು ಬಣ್ಣದ"
+        },
+        {
+          "pada_original": "सूर्य॑स्य",
+          "pada_kn": "ಸೂರ್ಯಸ್ಯ",
+          "meaning_en": "of Surya / of the Sun",
+          "meaning_kn": "ಸೂರ್ಯನ / ಸೂರ್ಯದೇವನ"
+        },
+        {
+          "pada_original": "चि॒त्राः",
+          "pada_kn": "ಚಿತ್ರಾಃ",
+          "meaning_en": "brilliant / variegated",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ / ವಿಚಿತ್ರವಾದ"
+        },
+        {
+          "pada_original": "एत॑ऽग्वाः",
+          "pada_kn": "ಏತಗ್ವಾಃ",
+          "meaning_en": "swift-moving / quickly going",
+          "meaning_kn": "ವೇಗವಾಗಿ ಚಲಿಸುವ / ಶೀಘ್ರಗಾಮಿಗಳು"
+        },
+        {
+          "pada_original": "अ॒नु॒ऽमाद्या᳚सः",
+          "pada_kn": "ಅನುಮಾದ್ಯಾಸಃ",
+          "meaning_en": "to be praised / praiseworthy",
+          "meaning_kn": "ಪ್ರಶಂಸನೀಯವಾದ / ಸ್ತುತಿಸಲ್ಪಡಬೇಕಾದ"
+        },
+        {
+          "pada_original": "न॒म॒स्यन्तः॑",
+          "pada_kn": "ನಮಸ್ಯಂತಃ",
+          "meaning_en": "bowing down / revering",
+          "meaning_kn": "ನಮಸ್ಕರಿಸುತ್ತಾ / ಪೂಜಿಸುತ್ತಾ"
+        },
+        {
+          "pada_original": "दि॒वः",
+          "pada_kn": "ದಿವಃ",
+          "meaning_en": "of the sky / from heaven",
+          "meaning_kn": "ಆಕಾಶದ / ಸ್ವರ್ಗದಿಂದ"
+        },
+        {
+          "pada_original": "आ",
+          "pada_kn": "ಆ",
+          "meaning_en": "up to / towards",
+          "meaning_kn": "ವರೆಗೆ / ಕಡೆಗೆ"
+        },
+        {
+          "pada_original": "पृ॒ष्ठ‌म्",
+          "pada_kn": "ಪೃಷ್ಠಮ್",
+          "meaning_en": "surface / back",
+          "meaning_kn": "ಮೇಲ್ಮೈ / ಬೆನ್ನು"
+        },
+        {
+          "pada_original": "अ॒स्थुः॒",
+          "pada_kn": "ಅಸ್ಥುಃ",
+          "meaning_en": "they stood / they reached",
+          "meaning_kn": "ಅವು ನಿಂತವು / ಅವು ತಲುಪಿದವು"
+        },
+        {
+          "pada_original": "परि॑",
+          "pada_kn": "ಪರಿ",
+          "meaning_en": "around / encompassing",
+          "meaning_kn": "ಸುತ್ತಲೂ / ಆವರಿಸಿ"
+        },
+        {
+          "pada_original": "द्यावा᳚पृथि॒वी",
+          "pada_kn": "ದ್ಯಾವಾಪೃಥಿವೀ",
+          "meaning_en": "heaven and earth",
+          "meaning_kn": "ದ್ಯಾವಾಪೃಥಿವಿಗಳು (ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ)"
+        },
+        {
+          "pada_original": "य॒न्ति॒",
+          "pada_kn": "ಯಂತಿ",
+          "meaning_en": "they go / they move",
+          "meaning_kn": "ಅವು ಹೋಗುತ್ತವೆ / ಅವು ಚಲಿಸುತ್ತವೆ"
+        },
+        {
+          "pada_original": "स॒द्यः",
+          "pada_kn": "ಸದ್ಯಃ",
+          "meaning_en": "immediately / at once",
+          "meaning_kn": "ತಕ್ಷಣವೇ / ಕೂಡಲೇ"
+        }
+      ],
+      "full_meaning_en": "Auspicious steeds, tawny and radiant, belonging to the Sun, swift of movement and worthy of praise, reverently ascend to the celestial sphere. They swiftly traverse both heaven and earth, encompassing all realms.",
+      "full_meaning_kn": "ಸೂರ್ಯನ ಶುಭಕರವಾದ, ಕಂದು ಬಣ್ಣದ, ತೇಜಸ್ವಿಯಾದ, ಕ್ಷಿಪ್ರ ಚಲನೆಯುಳ್ಳ ಮತ್ತು ಸ್ತುತಿಗೆ ಅರ್ಹವಾದ ಕುದುರೆಗಳು, ಭಕ್ತಿಯಿಂದ ನಮಸ್ಕರಿಸುತ್ತಾ, ಸ್ವರ್ಗೀಯ ಗೋಳವನ್ನು ಏರುತ್ತವೆ. ಅವು ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿ ಎರಡನ್ನೂ ತ್ವರಿತವಾಗಿ ವ್ಯಾಪಿಸುತ್ತವೆ, ಎಲ್ಲವನ್ನೂ ಒಳಗೊಳ್ಳುತ್ತವೆ.",
+      "rig_time_s": 34.649,
+      "Insight_en": "The horses of the Sun symbolize the vital life forces (प्राण) that energize the cosmos and reside within us. These forces, dynamic and ever-moving, represent the constant flow of consciousness. Their ascent signifies the soul's journey towards enlightenment, a continuous striving for higher awareness. The traversal of heaven and earth indicates the all-encompassing nature of divine energy, permeating every aspect of existence. By acknowledging and revering these inner energies, one can attain spiritual fulfillment.",
+      "Insight_kn": "ಸೂರ್ಯನ ಕುದುರೆಗಳು ಜಗತ್ತನ್ನು ಚೈತನ್ಯಗೊಳಿಸುವ ಮತ್ತು ನಮ್ಮೊಳಗೆ ನೆಲೆಸಿರುವ ಪ್ರಮುಖ ಜೀವ ಶಕ್ತಿಗಳನ್ನು (ಪ್ರಾಣ) ಸಂಕೇತಿಸುತ್ತವೆ. ಈ ಶಕ್ತಿಗಳು ಕ್ರಿಯಾತ್ಮಕ ಮತ್ತು ಸದಾ ಚಲಿಸುತ್ತವೆ, ಇದು ಪ್ರಜ್ಞೆಯ ನಿರಂತರ ಹರಿವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಅವುಗಳ ಏರಿಕೆಯು ಆತ್ಮವು ಜ್ಞಾನೋದಯದ ಕಡೆಗೆ ಸಾಗುವ ಪ್ರಯಾಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಉನ್ನತ ಜಾಗೃತಿಗಾಗಿ ನಿರಂತರ ಪ್ರಯತ್ನವಾಗಿದೆ. ಸ್ವರ್ಗ ಮತ್ತು ಭೂಮಿಯ ವ್ಯಾಪ್ತಿಯು ದೈವಿಕ ಶಕ್ತಿಯ ಸರ್ವವ್ಯಾಪಕ ಸ್ವರೂಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅಸ್ತಿತ್ವದ ಪ್ರತಿಯೊಂದು ಅಂಶವನ್ನು ವ್ಯಾಪಿಸುತ್ತದೆ. ಈ ಆಂತರಿಕ ಶಕ್ತಿಗಳನ್ನು ಅಂಗೀಕರಿಸುವ ಮತ್ತು ಗೌರವಿಸುವ ಮೂಲಕ, ಒಬ್ಬರು ಆಧ್ಯಾತ್ಮಿಕ ನೆರವೇರಿಕೆಯನ್ನು ಪಡೆಯಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S115_191-4_6",
+      "mandala": 1,
+      "sukta": 115,
+      "ric_index": 4,
+      "rig_lines": [
+        "तत्‌ सूर्य॑स्य देव॒त्वं तन्म॑हि॒त्वं म॒ध्या कर्तो॒र्वित॑तं॒ सं ज॑भार |",
+        "य॒देदयु॑क्त ह॒रितः॑ स॒धस्था॒दाद्रात्री॒ वास॑स्तनुते सि॒मस्मै᳚ ||"
+      ],
+      "pre_splits": [
+        "तत्",
+        "सूर्य॑स्य",
+        "दे॒व॒ऽत्व‌म्",
+        "तत्",
+        "म॒हि॒ऽत्व‌म्",
+        "म॒ध्या",
+        "कर्तोः᳚",
+        "विऽत॑त‌म्",
+        "स‌म्",
+        "ज॒भा॒र॒",
+        "य॒दा",
+        "इत्",
+        "अयु॑क्त",
+        "ह॒रितः॑",
+        "स॒धऽस्था᳚त्",
+        "आत्",
+        "रात्री᳚",
+        "वासः॑",
+        "त॒नु॒ते॒",
+        "सि॒मस्मै᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "That (is)",
+          "meaning_kn": "ಅದು"
+        },
+        {
+          "pada_original": "सूर्य॑स्य",
+          "pada_kn": "ಸೂರ್ಯಸ್ಯ",
+          "meaning_en": "Of Surya / Of the Sun",
+          "meaning_kn": "ಸೂರ್ಯನ"
+        },
+        {
+          "pada_original": "दे॒व॒ऽत्व‌म्",
+          "pada_kn": "ದೇವತ್ವಮ್",
+          "meaning_en": "Divinity / Godhead",
+          "meaning_kn": "ದೈವತ್ವ/ದೇವತ್ವ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "That (is)",
+          "meaning_kn": "ಅದು"
+        },
+        {
+          "pada_original": "म॒हि॒ऽत्व‌म्",
+          "pada_kn": "ಮಹಿತ್ವಮ್",
+          "meaning_en": "Greatness / Glory",
+          "meaning_kn": "ಮಹಿಮೆ/ಮಹತ್ವ"
+        },
+        {
+          "pada_original": "म॒ध्या",
+          "pada_kn": "ಮಧ್ಯಾ",
+          "meaning_en": "In the middle / Amidst",
+          "meaning_kn": "ಮಧ್ಯದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "कर्तोः᳚",
+          "pada_kn": "ಕರ್ತೋಃ",
+          "meaning_en": "Of the day's work / Of the action",
+          "meaning_kn": "ಕಾರ್ಯದ/ಕೆಲಸದ (ಹಗಲಿನ)"
+        },
+        {
+          "pada_original": "विऽत॑त‌म्",
+          "pada_kn": "ವಿತತಮ್",
+          "meaning_en": "Spread out / Extended",
+          "meaning_kn": "ಹರಡಿದ/ವಿಸ್ತರಿಸಿದ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "Completely / Together",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ/ಪೂರ್ಣವಾಗಿ"
+        },
+        {
+          "pada_original": "ज॒भा॒र॒",
+          "pada_kn": "ಜಭಾರ",
+          "meaning_en": "He gathered / He collected",
+          "meaning_kn": "ಅವನು ಸಂಗ್ರಹಿಸಿದ/ಒಟ್ಟುಗೂಡಿಸಿದ"
+        },
+        {
+          "pada_original": "य॒दा",
+          "pada_kn": "ಯದಾ",
+          "meaning_en": "When",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "Indeed / Truly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ/ನಿಜವಾಗಿಯೂ"
+        },
+        {
+          "pada_original": "अयु॑क्त",
+          "pada_kn": "ಅಯುಕ್ತ",
+          "meaning_en": "He yoked / He harnessed",
+          "meaning_kn": "ಅವನು ಹೂಡಿದ/ಸೇರಿಸಿದ"
+        },
+        {
+          "pada_original": "ह॒रितः॑",
+          "pada_kn": "ಹರಿತಃ",
+          "meaning_en": "His tawny horses",
+          "meaning_kn": "ಅವನ ಹಳದಿ/ಹಸಿರು ಕುದುರೆಗಳನ್ನು"
+        },
+        {
+          "pada_original": "स॒धऽस्था᳚त्",
+          "pada_kn": "ಸಧಸ್ಥಾತ್",
+          "meaning_en": "From his dwelling / From his station",
+          "meaning_kn": "ತನ್ನ ನಿವಾಸದಿಂದ/ಸ್ಥಾನದಿಂದ"
+        },
+        {
+          "pada_original": "आत्",
+          "pada_kn": "ಆತ್",
+          "meaning_en": "Then / Immediately",
+          "meaning_kn": "ಆಗ/ನಂತರ"
+        },
+        {
+          "pada_original": "रात्री᳚",
+          "pada_kn": "ರಾತ್ರೀ",
+          "meaning_en": "Night",
+          "meaning_kn": "ರಾತ್ರಿ"
+        },
+        {
+          "pada_original": "वासः॑",
+          "pada_kn": "ವಾಸಃ",
+          "meaning_en": "Garment / Covering",
+          "meaning_kn": "ವಸ್ತ್ರ/ಹೊದಿಕೆ"
+        },
+        {
+          "pada_original": "त॒नु॒ते॒",
+          "pada_kn": "ತನುತೇ",
+          "meaning_en": "She spreads / She extends",
+          "meaning_kn": "ಅವಳು ಹರಡುತ್ತಾಳೆ/ವಿಸ್ತರಿಸುತ್ತಾಳೆ"
+        },
+        {
+          "pada_original": "सि॒मस्मै᳚",
+          "pada_kn": "ಸಿಮಸ್ಮೈ",
+          "meaning_en": "For him (for all) / For this (world)",
+          "meaning_kn": "ಅವನಿಗಾಗಿ/ಇವನಿಗಾಗಿ (ಎಲ್ಲರಿಗಾಗಿ)"
+        }
+      ],
+      "full_meaning_en": "That is the divine nature and magnificence of Surya, that he compacts the extended actions of the day. When he harnesses his bay steeds from his dwelling place, then Night forthwith extends her mantle over all.",
+      "full_meaning_kn": "ಅದು ಸೂರ್ಯನ ದೈವಿಕ ಸ್ವರೂಪ ಮತ್ತು ಮಹಿಮೆ, ಅವನು ದಿನದ ವಿಸ್ತಾರವಾದ ಕಾರ್ಯಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸುತ್ತಾನೆ. ಅವನು ತನ್ನ ಕಂದು ಕುದುರೆಗಳನ್ನು ತನ್ನ ನಿವಾಸದಿಂದ ನಿಯೋಜಿಸಿದಾಗ, ರಾತ್ರಿಯು ತಕ್ಷಣವೇ ತನ್ನ ಹೊದಿಕೆಯನ್ನು ಎಲ್ಲರ ಮೇಲೆ ಹರಡುತ್ತಾಳೆ.",
+      "rig_time_s": 50.178,
+      "Insight_en": "सूर्य (Surya) represents the illuminating consciousness that drives all activity and manifestation. The 'day's work' symbolizes the cumulative actions and experiences gathered within consciousness. The 'harnessing of steeds' signifies the withdrawal of energy and focus from outward activity. 'Night' then becomes the receptive state, the canvas for reflection and integration of these experiences, offering rest and renewal to the inner self.",
+      "Insight_kn": "ಸೂರ್ಯನು ಎಲ್ಲಾ ಚಟುವಟಿಕೆ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ನಡೆಸುವ ಪ್ರಕಾಶಮಾನವಾದ ಪ್ರಜ್ಞೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. 'ದಿನದ ಕೆಲಸ'ವು ಪ್ರಜ್ಞೆಯಲ್ಲಿ ಸಂಗ್ರಹವಾದ ಸಂಚಿತ ಕ್ರಿಯೆಗಳು ಮತ್ತು ಅನುಭವಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. 'ಕುದುರೆಗಳನ್ನು ಹತೋಟಿಗೆ ತರುವುದು' ಎಂದರೆ ಹೊರಗಿನ ಚಟುವಟಿಕೆಯಿಂದ ಶಕ್ತಿ ಮತ್ತು ಗಮನವನ್ನು ಹಿಂತೆಗೆದುಕೊಳ್ಳುವುದು. ನಂತರ 'ರಾತ್ರಿ' ಸ್ವೀಕಾರಾರ್ಹ ಸ್ಥಿತಿಯಾಗುತ್ತದೆ, ಈ ಅನುಭವಗಳ ಪ್ರತಿಬಿಂಬ ಮತ್ತು ಏಕೀಕರಣಕ್ಕೆ ತಳಹದಿಯಾಗುತ್ತದೆ, ಆಂತರಿಕ ಸ್ವಯಂಗೆ ವಿಶ್ರಾಂತಿ ಮತ್ತು ನವೀಕರಣವನ್ನು ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S115_191-5_6",
+      "mandala": 1,
+      "sukta": 115,
+      "ric_index": 5,
+      "rig_lines": [
+        "तन्मि॒त्रस्य॒ वरु॑णस्याभि॒चक्षे॒ सूर्यो᳚ रू॒पं कृ॑णुते॒ द्योरु॒पस्थे᳚ |",
+        "अ॒न॒न्तम॒न्यद्‌ रुश॑दस्य॒ पाजः॑ कृ॒ष्णम॒न्यद्ध॒रितः॒ सं भ॑रन्ति ||"
+      ],
+      "pre_splits": [
+        "तत्",
+        "मि॒त्रस्य॑",
+        "वरु॑णस्य",
+        "अ॒भि॒ऽचक्षे᳚",
+        "सूर्यः॑",
+        "रू॒प‌म्",
+        "कृ॒णु॒ते॒",
+        "द्योः",
+        "उ॒पऽस्थे᳚",
+        "अ॒न॒न्त‌म्",
+        "अ॒न्यत्",
+        "रुश॑त्",
+        "अ॒स्य॒",
+        "पाजः॑",
+        "कृ॒ष्ण‌म्",
+        "अ॒न्यत्",
+        "ह॒रितः॑",
+        "स‌म्",
+        "भ॒र॒न्ति॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "That (form/light)",
+          "meaning_kn": "ಆ (ರೂಪ/ಬೆಳಕು)"
+        },
+        {
+          "pada_original": "मि॒त्रस्य॑",
+          "pada_kn": "ಮಿತ್ರಸ್ಯ",
+          "meaning_en": "Of Mitra",
+          "meaning_kn": "ಮಿತ್ರನಿಗೆ/ಮಿತ್ರನ"
+        },
+        {
+          "pada_original": "वरु॑णस्य",
+          "pada_kn": "ವರುಣಸ್ಯ",
+          "meaning_en": "Of Varuna",
+          "meaning_kn": "ವರುಣನಿಗೆ/ವರುಣನ"
+        },
+        {
+          "pada_original": "अ॒भि॒ऽचक्षे᳚",
+          "pada_kn": "ಅಭಿಚಕ್ಷೇ",
+          "meaning_en": "For beholding / for observation",
+          "meaning_kn": "ನೋಡಲು/ವೀಕ್ಷಿಸಲು"
+        },
+        {
+          "pada_original": "सूर्यः॑",
+          "pada_kn": "ಸೂರ್ಯಃ",
+          "meaning_en": "Surya (the Sun)",
+          "meaning_kn": "ಸೂರ್ಯನು"
+        },
+        {
+          "pada_original": "रू॒प‌म्",
+          "pada_kn": "ರೂಪಮ್",
+          "meaning_en": "Form / shape / light",
+          "meaning_kn": "ರೂಪ/ಆಕಾರ/ಬೆಳಕು"
+        },
+        {
+          "pada_original": "कृ॒णु॒ते॒",
+          "pada_kn": "ಕೃಣುತೇ",
+          "meaning_en": "Makes / creates / assumes",
+          "meaning_kn": "ಮಾಡುತ್ತಾನೆ/ಸೃಷ್ಟಿಸುತ್ತಾನೆ/ಧರಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "द्योः",
+          "pada_kn": "ದ್ಯೋಃ",
+          "meaning_en": "Of the sky / heaven",
+          "meaning_kn": "ಆಕಾಶದ/ಸ್ವರ್ಗದ"
+        },
+        {
+          "pada_original": "उ॒पऽस्थे᳚",
+          "pada_kn": "ಉಪಸ್ಥೇ",
+          "meaning_en": "In the lap / in the expanse",
+          "meaning_kn": "ಮಡಿಲಲ್ಲಿ/ವಿಸ್ತಾರದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒न॒न्त‌म्",
+          "pada_kn": "ಅನನ್ತಮ್",
+          "meaning_en": "Endless / infinite",
+          "meaning_kn": "ಅನಂತವಾದ/ಅಂತ್ಯವಿಲ್ಲದ"
+        },
+        {
+          "pada_original": "अ॒न्यत्",
+          "pada_kn": "ಅನ್ಯತ್",
+          "meaning_en": "The other (part)",
+          "meaning_kn": "ಇನ್ನೊಂದು (ಭಾಗ)"
+        },
+        {
+          "pada_original": "रुश॑त्",
+          "pada_kn": "ರುಶತ್",
+          "meaning_en": "Bright / shining",
+          "meaning_kn": "ಪ್ರಕಾಶಮಾನವಾದ/ಹೊಳೆಯುವ"
+        },
+        {
+          "pada_original": "अ॒स्य॒",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "His (of the Sun)",
+          "meaning_kn": "ಅವನ (ಸೂರ್ಯನ)"
+        },
+        {
+          "pada_original": "पाजः॑",
+          "pada_kn": "ಪಾಜಃ",
+          "meaning_en": "Radiance / strength / light",
+          "meaning_kn": "ತೇಜಸ್ಸು/ಶಕ್ತಿ/ಬೆಳಕು"
+        },
+        {
+          "pada_original": "कृ॒ष्ण‌म्",
+          "pada_kn": "ಕೃಷ್ಣಮ್",
+          "meaning_en": "Dark / black",
+          "meaning_kn": "ಕಪ್ಪಾದ/ಕಪ್ಪು"
+        },
+        {
+          "pada_original": "अ॒न्यत्",
+          "pada_kn": "ಅನ್ಯತ್",
+          "meaning_en": "The other (part)",
+          "meaning_kn": "ಇನ್ನೊಂದು (ಭಾಗ)"
+        },
+        {
+          "pada_original": "ह॒रितः॑",
+          "pada_kn": "ಹರಿತಃ",
+          "meaning_en": "The tawny/golden horses (of the Sun) / rays",
+          "meaning_kn": "ಹಳದಿ/ಚಿನ್ನದ ಬಣ್ಣದ ಕುದುರೆಗಳು (ಸೂರ್ಯನ)/ಕಿರಣಗಳು"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "Completely / together",
+          "meaning_kn": "ಸಂಪೂರ್ಣವಾಗಿ/ಒಟ್ಟಾಗಿ"
+        },
+        {
+          "pada_original": "भ॒र॒न्ति॒",
+          "pada_kn": "ಭರನ್ತಿ",
+          "meaning_en": "Bear / carry / bring",
+          "meaning_kn": "ಹೊತ್ತುಕೊಂಡು ಹೋಗುತ್ತವೆ/ತರುತ್ತವೆ"
+        }
+      ],
+      "full_meaning_en": "The Sun reveals his form in the vast expanse of the heavens for Mitra and Varuna to behold. One aspect of his splendor is infinite and radiant, while his other, shadowed aspect, is entirely sustained by his golden steeds (or rays).",
+      "full_meaning_kn": "ಮಿತ್ರ ಮತ್ತು ವರುಣರು ವೀಕ್ಷಿಸುವಂತೆ ಸೂರ್ಯನು ತನ್ನ ರೂಪವನ್ನು ವಿಶಾಲವಾದ ಸ್ವರ್ಗದಲ್ಲಿ ಪ್ರಕಟಿಸುತ್ತಾನೆ. ಅವನ ತೇಜಸ್ಸಿನ ಒಂದು ಮುಖವು ಅನಂತ ಮತ್ತು ಪ್ರಕಾಶಮಾನವಾಗಿದೆ, ಆದರೆ ಅವನ ಇನ್ನೊಂದು, ನೆರಳಿನ ಮುಖವನ್ನು ಅವನ ಸುವರ್ಣ ಕುದುರೆಗಳು (ಅಥವಾ ಕಿರಣಗಳು) ಸಂಪೂರ್ಣವಾಗಿ ಉಳಿಸಿಕೊಂಡಿವೆ.",
+      "rig_time_s": 66.145,
+      "Insight_en": "The Sun, as described here, symbolizes the manifest and unmanifest aspects of reality. The radiant, endless light represents the realized, conscious self (आत्मन्), while the shadowed aspect signifies the latent, potential energy within. The golden steeds, or rays, are the active forces that bridge the gap between these dualities, constantly transforming and sustaining the cosmic order (ऋत). This duality reflects the interplay between प्रकाश (light) and तमस् (darkness) within the individual, urging one to integrate both aspects for holistic realization.",
+      "Insight_kn": "ಇಲ್ಲಿ ವಿವರಿಸಿದಂತೆ ಸೂರ್ಯನು ವಾಸ್ತವದ ವ್ಯಕ್ತ ಮತ್ತು ಅವ್ಯಕ್ತ ಅಂಶಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ. ಪ್ರಕಾಶಮಾನವಾದ, ಅಂತ್ಯವಿಲ್ಲದ ಬೆಳಕು ಸಾಕ್ಷಾತ್ಕರಿಸಿದ, ಪ್ರಜ್ಞೆಯ ಆತ್ಮವನ್ನು (आत्मन्) ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಆದರೆ ನೆರಳಿನ ಅಂಶವು ಸುಪ್ತ, ಸಂಭಾವ್ಯ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಸುವರ್ಣ ಕುದುರೆಗಳು, ಅಥವಾ ಕಿರಣಗಳು, ಈ ದ್ವಂದ್ವಗಳನ್ನು ಬೆಸೆಯುವ ಸಕ್ರಿಯ ಶಕ್ತಿಗಳಾಗಿವೆ, ನಿರಂತರವಾಗಿ ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು (ऋत) ರೂಪಾಂತರಿಸುತ್ತವೆ ಮತ್ತು ಉಳಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಈ ದ್ವಂದ್ವವು ವ್ಯಕ್ತಿಯಲ್ಲಿನ ಪ್ರಕಾಶ (ಬೆಳಕು) ಮತ್ತು ತಮಸ್ಸು (ಕತ್ತಲು) ನಡುವಿನ ಪರಸ್ಪರ ಕ್ರಿಯೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ಸಮಗ್ರ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕಾಗಿ ಎರಡೂ ಅಂಶಗಳನ್ನು ಸಂಯೋಜಿಸಲು ಪ್ರೇರೇಪಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S115_191-6_6",
+      "mandala": 1,
+      "sukta": 115,
+      "ric_index": 6,
+      "rig_lines": [
+        "अ॒द्या दे᳚वा॒, उदि॑ता॒ सूर्य॑स्य॒ निरंह॑सः पिपृ॒ता निर॑व॒द्यात् |",
+        "तन्नो᳚ मि॒त्रो वरु॑णो मामहन्ता॒मदि॑तिः॒ सिन्धुः॑ पृथि॒वी, उ॒त द्यौः ||"
+      ],
+      "pre_splits": [
+        "अ॒द्य",
+        "दे॒वाः॒",
+        "उत्ऽ‌इ᳚ता",
+        "सूर्य॑स्य",
+        "निः",
+        "अंह॑सः",
+        "पि॒पृ॒त",
+        "निः",
+        "अ॒व॒द्यात्",
+        "तत्",
+        "नः॒",
+        "मि॒त्रः",
+        "वरु॑णः",
+        "म॒म॒ह॒न्ता॒‌म्",
+        "अदि॑तिः",
+        "सिन्धुः॑",
+        "पृ॒थि॒वी",
+        "उ॒त",
+        "द्यौः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अ॒द्य",
+          "pada_kn": "ಅದ್ಯ",
+          "meaning_en": "Today",
+          "meaning_kn": "ಇಂದು"
+        },
+        {
+          "pada_original": "दे॒वाः॒",
+          "pada_kn": "ದೇವಾಃ",
+          "meaning_en": "O Gods",
+          "meaning_kn": "ಓ ದೇವತೆಗಳೇ"
+        },
+        {
+          "pada_original": "उत्ऽ‌इ᳚ता",
+          "pada_kn": "ಉತ್‌ಇತಾ",
+          "meaning_en": "at the rising / when risen",
+          "meaning_kn": "ಉದಯಿಸಿದಾಗ / ಮೂಡಿದಾಗ"
+        },
+        {
+          "pada_original": "सूर्य॑स्य",
+          "pada_kn": "ಸೂರ್ಯಸ್ಯ",
+          "meaning_en": "of the Sun",
+          "meaning_kn": "ಸೂರ್ಯನ"
+        },
+        {
+          "pada_original": "निः",
+          "pada_kn": "ನಿಃ",
+          "meaning_en": "away from / out of",
+          "meaning_kn": "ದೂರ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "अंह॑सः",
+          "pada_kn": "ಅಂಹಸಃ",
+          "meaning_en": "from distress / sin / evil",
+          "meaning_kn": "ಸಂಕಟದಿಂದ / ಪಾಪದಿಂದ"
+        },
+        {
+          "pada_original": "पि॒पृ॒त",
+          "pada_kn": "ಪಿಪೃತ",
+          "meaning_en": "protect / lead across / deliver",
+          "meaning_kn": "ರಕ್ಷಿಸಿ / ಪಾರುಮಾಡಿ"
+        },
+        {
+          "pada_original": "निः",
+          "pada_kn": "ನಿಃ",
+          "meaning_en": "away from / out of",
+          "meaning_kn": "ದೂರ / ಹೊರಗೆ"
+        },
+        {
+          "pada_original": "अ॒व॒द्यात्",
+          "pada_kn": "ಅವದ್ಯಾತ್",
+          "meaning_en": "from reproach / blame / evil",
+          "meaning_kn": "ನಿಂದೆಯಿಂದ / ದೋಷದಿಂದ"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that (blessing/protection)",
+          "meaning_kn": "ಆ (ರಕ್ಷಣೆಯನ್ನು/ಅನುಗ್ರಹವನ್ನು)"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "to us / for us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "मि॒त्रः",
+          "pada_kn": "ಮಿತ್ರಃ",
+          "meaning_en": "Mitra (the god)",
+          "meaning_kn": "ಮಿತ್ರ (ದೇವನು)"
+        },
+        {
+          "pada_original": "वरु॑णः",
+          "pada_kn": "ವರುಣಃ",
+          "meaning_en": "Varuna (the god)",
+          "meaning_kn": "ವರುಣ (ದೇವನು)"
+        },
+        {
+          "pada_original": "म॒म॒ह॒न्ता॒‌म्",
+          "pada_kn": "ಮಮಹನ್ತಾಮ್",
+          "meaning_en": "may they grant / bestow",
+          "meaning_kn": "ಅನುಗ್ರಹಿಸಲಿ / ದಯಪಾಲಿಸಲಿ"
+        },
+        {
+          "pada_original": "अदि॑तिः",
+          "pada_kn": "ಅದಿತಿಃ",
+          "meaning_en": "Aditi (the goddess)",
+          "meaning_kn": "ಅದಿತಿ (ದೇವತೆ)"
+        },
+        {
+          "pada_original": "सिन्धुः॑",
+          "pada_kn": "ಸಿಂಧುಃ",
+          "meaning_en": "Sindhu (river/ocean)",
+          "meaning_kn": "ಸಿಂಧು (ನದಿ/ಸಮುದ್ರ)"
+        },
+        {
+          "pada_original": "पृ॒थि॒वी",
+          "pada_kn": "ಪೃಥಿವೀ",
+          "meaning_en": "Earth",
+          "meaning_kn": "ಭೂಮಿ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಹಾಗೆಯೇ"
+        },
+        {
+          "pada_original": "द्यौः",
+          "pada_kn": "ದ್ಯೌಃ",
+          "meaning_en": "Heaven / Sky",
+          "meaning_kn": "ದ್ಯುಲೋಕ / ಆಕಾಶ"
+        }
+      ],
+      "full_meaning_en": "Today, O Gods, at the rising of the Sun, deliver us from distress and from all reproach. May Mitra, Varuna, Aditi, Sindhu (the river/ocean), Earth, and Heaven bestow that protection upon us.",
+      "full_meaning_kn": "ಎಲೈ ದೇವತೆಗಳೇ, ಇಂದು ಸೂರ್ಯೋದಯದಲ್ಲಿ, ನಮ್ಮನ್ನು ದುಃಖದಿಂದ ಮತ್ತು ಎಲ್ಲಾ ನಿಂದನೆಗಳಿಂದ ಮುಕ್ತರನ್ನಾಗಿ ಮಾಡಿರಿ. ಮಿತ್ರ, ವರುಣ, ಅದಿತಿ, ಸಿಂಧು (ನದಿ/ಸಾಗರ), ಭೂಮಿ ಮತ್ತು ಸ್ವರ್ಗವು ನಮಗೆ ಆ ರಕ್ಷಣೆಯನ್ನು ದಯಪಾಲಿಸಲಿ.",
+      "rig_time_s": 81.285,
+      "Insight_en": "The rising Sun symbolizes the dawn of wisdom, dispelling the darkness of ignorance and suffering. Mitra and Varuna represent cosmic order and moral law, while Aditi embodies boundless freedom and the source of all creation. Sindhu, Earth, and Heaven signify the interconnectedness of all realms, both physical and spiritual. Invoking these deities is a call to align oneself with the divine principles that govern the universe and to seek liberation from inner turmoil. The aspiration is for holistic well-being, encompassing freedom from both external distress and internal flaws.",
+      "Insight_kn": "ಉದಯಿಸುವ ಸೂರ್ಯನು ಜ್ಞಾನದ ಉದಯವನ್ನು ಸಂಕೇತಿಸುತ್ತಾನೆ, ಅಜ್ಞಾನ ಮತ್ತು ದುಃಖದ ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುತ್ತಾನೆ. ಮಿತ್ರ ಮತ್ತು ವರುಣರು ಕಾಸ್ಮಿಕ್ ಕ್ರಮ ಮತ್ತು ನೈತಿಕ ನಿಯಮವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ಆದರೆ ಅದಿತಿ ಅಪರಿಮಿತ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಎಲ್ಲಾ ಸೃಷ್ಟಿಯ ಮೂಲವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾಳೆ. ಸಿಂಧು, ಭೂಮಿ ಮತ್ತು ಸ್ವರ್ಗವು ಭೌತಿಕ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಕ್ಷೇತ್ರಗಳ ಪರಸ್ಪರ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ದೇವತೆಗಳನ್ನು ಆಹ್ವಾನಿಸುವುದು ಬ್ರಹ್ಮಾಂಡವನ್ನು ನಿಯಂತ್ರಿಸುವ ದೈವಿಕ ತತ್ವಗಳೊಂದಿಗೆ ತಮ್ಮನ್ನು ತಾವು ಜೋಡಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ಆಂತರಿಕ ಪ್ರಕ್ಷುಬ್ಧತೆಯಿಂದ ವಿಮೋಚನೆ ಪಡೆಯಲು ಒಂದು ಕರೆಯಾಗಿದೆ. ಬಾಹ್ಯ ತೊಂದರೆ ಮತ್ತು ಆಂತರಿಕ ದೋಷಗಳಿಂದ ಮುಕ್ತಿಯನ್ನು ಒಳಗೊಂಡ ಸಮಗ್ರ ಯೋಗಕ್ಷೇಮಕ್ಕಾಗಿ ಈ ಮಂತ್ರವು ಹಂಬಲಿಸುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

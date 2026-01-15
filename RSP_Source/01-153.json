@@ -1,0 +1,594 @@
+{
+  "mandala": 1,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M1-S153_191-1_4",
+      "mandala": 1,
+      "sukta": 153,
+      "ric_index": 1,
+      "rig_lines": [
+        "यजा᳚महे वां म॒हः स॒जोषा᳚ ह॒व्येभि᳚र्मित्रावरुणा॒ नमो᳚भिः |",
+        "घृ॒तैर्घृ॑तस्नू॒, अध॒ यद्‌ वा᳚म॒स्मे, अ॑ध्व॒र्यवो॒ न धी॒तिभि॒र्भर᳚न्ति ||"
+      ],
+      "pre_splits": [
+        "यजा᳚महे",
+        "वा॒‌म्",
+        "म॒हः",
+        "स॒ऽजोषाः᳚",
+        "ह॒व्येभिः॑",
+        "मि॒त्रा॒व॒रु॒णा॒",
+        "नमः॑ऽभिः",
+        "घृ॒तैः",
+        "घृ॒त॒स्नू॒ इति॑ घृतऽस्नू",
+        "अध॑",
+        "यत्",
+        "वा॒‌म्",
+        "अ॒स्मे इति॑",
+        "अ॒ध्व॒र्यवः॑",
+        "न",
+        "धी॒तिऽभिः॑",
+        "भर᳚न्ति"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "यजा᳚महे",
+          "pada_kn": "ಯಜಾಮಹೇ",
+          "meaning_en": "We worship / We sacrifice",
+          "meaning_kn": "ನಾವು ಪೂಜಿಸುತ್ತೇವೆ / ಯಜ್ಞಮಾಡುತ್ತೇವೆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "You two (Mitra-Varuna)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು (ಮಿತ್ರಾವರುಣರನ್ನು)"
+        },
+        {
+          "pada_original": "म॒हः",
+          "pada_kn": "ಮಹಃ",
+          "meaning_en": "Great (offerings) / Mighty",
+          "meaning_kn": "ಮಹತ್ತಾದ (ಅರ್ಪಣೆಗಳೊಂದಿಗೆ)"
+        },
+        {
+          "pada_original": "स॒ऽजोषाः᳚",
+          "pada_kn": "ಸಜೋಷಾಃ",
+          "meaning_en": "United in purpose / Of one accord",
+          "meaning_kn": "ಒಂದೇ ಮನಸ್ಸಿನವರಾಗಿ / ಒಟ್ಟಾಗಿ ಸಂತೋಷಿಸುವವರಾಗಿ"
+        },
+        {
+          "pada_original": "ह॒व्येभिः॑",
+          "pada_kn": "ಹವ್ಯೇಭಿಃ",
+          "meaning_en": "With oblations / With offerings",
+          "meaning_kn": "ಹವಿಸ್ಸುಗಳಿಂದ / ಅರ್ಪಣೆಗಳಿಂದ"
+        },
+        {
+          "pada_original": "मि॒त्रा॒व॒रु॒णा॒",
+          "pada_kn": "ಮಿತ್ರಾವರುಣಾ",
+          "meaning_en": "O Mitra and Varuna",
+          "meaning_kn": "ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ"
+        },
+        {
+          "pada_original": "नमः॑ऽभिः",
+          "pada_kn": "ನಮೋಭಿಃ",
+          "meaning_en": "With salutations / With reverence",
+          "meaning_kn": "ನಮಸ್ಕಾರಗಳಿಂದ / ಗೌರವಗಳಿಂದ"
+        },
+        {
+          "pada_original": "घृ॒तैः",
+          "pada_kn": "ಘೃತೈಃ",
+          "meaning_en": "With clarified butter / With ghee",
+          "meaning_kn": "ತುಪ್ಪಗಳಿಂದ / ಆಜ್ಯಗಳಿಂದ"
+        },
+        {
+          "pada_original": "घृ॒त॒स्नू॒ इति॑ घृतऽस्नू",
+          "pada_kn": "ಘೃತಸ್ನೂ",
+          "meaning_en": "O you two whose streams are ghee",
+          "meaning_kn": "ಓ ತುಪ್ಪದ ಪ್ರವಾಹವುಳ್ಳವರೇ / ತುಪ್ಪದಿಂದ ಹರಿಯುವವರೇ"
+        },
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "And now / Moreover",
+          "meaning_kn": "ಮತ್ತು ಈಗ / ಇದಲ್ಲದೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "When",
+          "meaning_kn": "ಯಾವಾಗ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "To you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗೆ"
+        },
+        {
+          "pada_original": "अ॒स्मे इति॑",
+          "pada_kn": "ಅಸ್ಮೇ",
+          "meaning_en": "For us / In our sacrifice",
+          "meaning_kn": "ನಮಗಾಗಿ / ನಮ್ಮ ಯಜ್ಞದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒ध्व॒र्यवः॑",
+          "pada_kn": "ಅಧ್ವರ್ಯವಃ",
+          "meaning_en": "The Adhvaryu priests",
+          "meaning_kn": "ಅಧ್ವರ್ಯು ಪುರೋಹಿತರು"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "As / Like",
+          "meaning_kn": "ಹಾಗೆ / ದಂತೆ"
+        },
+        {
+          "pada_original": "धी॒तिऽभिः॑",
+          "pada_kn": "ಧೀತಿಭಿಃ",
+          "meaning_en": "With prayers / With rites",
+          "meaning_kn": "ಪ್ರಾರ್ಥನೆಗಳಿಂದ / ಕರ್ಮಗಳಿಂದ"
+        },
+        {
+          "pada_original": "भर᳚न्ति",
+          "pada_kn": "ಭರಂತಿ",
+          "meaning_en": "They offer / They bring",
+          "meaning_kn": "ಅವರು ಅರ್ಪಿಸುತ್ತಾರೆ / ತರುತ್ತಾರೆ"
+        }
+      ],
+      "full_meaning_en": "O Mitra and Varuna, united in purpose, we worship you with great oblations and reverent salutations. O you two, whose essence is ghee, when the Adhvaryu priests, on our behalf, offer oblations to you with their devoted prayers and sacred rites, as if bearing the most precious gifts.",
+      "full_meaning_kn": "ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ, ಏಕೀಕೃತ ಗುರಿಯುಳ್ಳವರೇ, ನಾವು ನಿಮಗೆ ಮಹಾನ್ ಅರ್ಪಣೆಗಳು ಮತ್ತು ಗೌರವಯುತ ನಮನಗಳಿಂದ ಪೂಜಿಸುತ್ತೇವೆ. ತುಪ್ಪವೇ ಸ್ವರೂಪವುಳ್ಳವರೇ, ಅಧ್ವರ್ಯು ಪುರೋಹಿತರು, ನಮ್ಮ ಪರವಾಗಿ, ತಮ್ಮ ಭಕ್ತಿಪೂರ್ವಕ ಪ್ರಾರ್ಥನೆಗಳು ಮತ್ತು ಪವಿತ್ರ ವಿಧಿಗಳೊಂದಿಗೆ ನಿಮಗೆ ಅರ್ಪಣೆಗಳನ್ನು ಸಲ್ಲಿಸಿದಾಗ, ಅತ್ಯಮೂಲ್ಯ ಕೊಡುಗೆಗಳನ್ನು ಹೊತ್ತಂತೆ.",
+      "rig_time_s": 0.0,
+      "Insight_en": "Mitra and Varuna represent the divine friendship and cosmic order that sustains the universe. The oblations offered symbolize the devotee's surrender of ego and desires. The 'ghee' signifies purity and the essence of all offerings rising towards the divine. The Adhvaryu priests embody the focused intention and skillful execution needed to connect with higher realms. Through devotion and ritual, one can align with the harmonious principles of the cosmos.",
+      "Insight_kn": "ಮಿತ್ರ ಮತ್ತು ವರುಣರು ದೈವಿಕ ಸ್ನೇಹ ಮತ್ತು ವಿಶ್ವವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವ ಕಾಸ್ಮಿಕ್ ಕ್ರಮವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ. ಅರ್ಪಿಸಿದ ಕಾಣಿಕೆಗಳು ಭಕ್ತನ ಅಹಂ ಮತ್ತು ಬಯಕೆಗಳ ಶರಣಾಗತಿಯನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ. 'ತುಪ್ಪ'ವು ಶುದ್ಧತೆಯನ್ನು ಮತ್ತು ದೈವದ ಕಡೆಗೆ ಏರುತ್ತಿರುವ ಎಲ್ಲಾ ಅರ್ಪಣೆಗಳ ಸಾರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಅಧ್ವರ್ಯು ಪುರೋಹಿತರು ಉನ್ನತ ಕ್ಷೇತ್ರಗಳೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಬೇಕಾದ ಕೇಂದ್ರೀಕೃತ ಉದ್ದೇಶ ಮತ್ತು ಕೌಶಲ್ಯಪೂರ್ಣ ಮರಣದಂಡನೆಯನ್ನು ಮೂರ್ತಿೀಕರಿಸುತ್ತಾರೆ. ಭಕ್ತಿ ಮತ್ತು ಆಚರಣೆಯ ಮೂಲಕ, ಒಬ್ಬರು ವಿಶ್ವದ ಸಾಮರಸ್ಯದ ತತ್ವಗಳೊಂದಿಗೆ ಹೊಂದಾಣಿಕೆ ಮಾಡಿಕೊಳ್ಳಬಹುದು.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S153_191-2_4",
+      "mandala": 1,
+      "sukta": 153,
+      "ric_index": 2,
+      "rig_lines": [
+        "प्रस्तु॑तिर्वां॒ धाम॒ न प्रयु॑क्ति॒रया᳚मि मित्रावरुणा सुवृ॒क्तिः |",
+        "अ॒नक्ति॒ यद्‌ वां᳚ वि॒दथे᳚षु॒ होता᳚ सु॒म्नं वां᳚ सू॒रिर्वृ॑षणा॒विय॑क्षन् ||"
+      ],
+      "pre_splits": [
+        "प्रऽस्तु॑तिः",
+        "वा॒‌म्",
+        "धाम॑",
+        "न",
+        "प्रऽयु॑क्तिः",
+        "अया᳚मि",
+        "मि॒त्रा॒व॒रु॒णा॒",
+        "सु॒ऽवृ॒क्तिः",
+        "अ॒नक्ति॑",
+        "यत्",
+        "वा॒‌म्",
+        "वि॒दथे᳚षु",
+        "होता᳚",
+        "सु॒म्न‌म्",
+        "वा॒‌म्",
+        "सू॒रिः",
+        "वृ॒ष॒णौ॒",
+        "इय॑क्षन्"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "प्रऽस्तु॑तिः",
+          "pada_kn": "ಪ್ರಸ್ತುತಿಃ",
+          "meaning_en": "praise / eulogy",
+          "meaning_kn": "ಸ್ತುತಿ / ಹೊಗಳಿಕೆ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "to you two / your (dual)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗೆ / ನಿಮ್ಮ"
+        },
+        {
+          "pada_original": "धाम॑",
+          "pada_kn": "ಧಾಮ",
+          "meaning_en": "power / abode / law",
+          "meaning_kn": "ಶಕ್ತಿ / ನೆಲೆ / ನಿಯಮ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / not",
+          "meaning_kn": "ಹಾಗೆ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "प्रऽयु॑क्तिः",
+          "pada_kn": "ಪ್ರಯುಕ್ತಿಃ",
+          "meaning_en": "application / ritualistic act",
+          "meaning_kn": "ಪ್ರಯೋಗ / ಆಚರಣೆ"
+        },
+        {
+          "pada_original": "अया᳚मि",
+          "pada_kn": "ಅಯಾಮಿ",
+          "meaning_en": "has been offered / presented",
+          "meaning_kn": "ಅರ್ಪಿಸಲಾಗಿದೆ / ನೀಡಲಾಗಿದೆ"
+        },
+        {
+          "pada_original": "मि॒त्रा॒व॒रु॒णा॒",
+          "pada_kn": "ಮಿತ್ರಾವರುಣಾ",
+          "meaning_en": "O Mitra-Varuna",
+          "meaning_kn": "ಓ ಮಿತ್ರಾವರುಣರೇ"
+        },
+        {
+          "pada_original": "सु॒ऽवृ॒क्तिः",
+          "pada_kn": "ಸುವೃಕ್ತಿಃ",
+          "meaning_en": "good offering / excellent praise",
+          "meaning_kn": "ಉತ್ತಮ ಅರ್ಪಣೆ / ಶ್ರೇಷ್ಠ ಸ್ತುತಿ"
+        },
+        {
+          "pada_original": "अ॒नक्ति॑",
+          "pada_kn": "ಅನಕ್ತಿ",
+          "meaning_en": "anoints / glorifies / offers",
+          "meaning_kn": "ಅಲಂಕರಿಸುತ್ತಾನೆ / ಸ್ತುತಿಸುತ್ತಾನೆ / ಅರ್ಪಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / that which",
+          "meaning_kn": "ಯಾವಾಗ / ಯಾವುದು"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "you two (accusative)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರನ್ನು"
+        },
+        {
+          "pada_original": "वि॒दथे᳚षु",
+          "pada_kn": "ವಿದಥೇಷು",
+          "meaning_en": "in assemblies / in sacrifices",
+          "meaning_kn": "ಯಜ್ಞಗಳಲ್ಲಿ / ಸಭೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "होता᳚",
+          "pada_kn": "ಹೋತಾ",
+          "meaning_en": "the Hotar priest",
+          "meaning_kn": "ಹೋತೃ ಪುರೋಹಿತನು"
+        },
+        {
+          "pada_original": "सु॒म्न‌म्",
+          "pada_kn": "ಸುಮ್ನಮ್",
+          "meaning_en": "happiness / favor",
+          "meaning_kn": "ಸುಖ / ಅನುಗ್ರಹ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "from you two / to you two",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಂದ / ನಿಮ್ಮಿಬ್ಬರಿಗೆ"
+        },
+        {
+          "pada_original": "सू॒रिः",
+          "pada_kn": "ಸೂರಿಃ",
+          "meaning_en": "the wise patron / liberal worshipper",
+          "meaning_kn": "ಜ್ಞಾನಿ / ಯಜಮಾನ"
+        },
+        {
+          "pada_original": "वृ॒ष॒णौ॒",
+          "pada_kn": "ವೃಷಣೌ",
+          "meaning_en": "O powerful ones / O showerers (of blessings)",
+          "meaning_kn": "ಓ ಶಕ್ತಿಶಾಲಿಗಳೇ / ಓ ವೃಷ್ಟಿದಾತರೇ"
+        },
+        {
+          "pada_original": "इय॑क्षन्",
+          "pada_kn": "ಇಯಕ್ಷನ್",
+          "meaning_en": "desiring to worship / intending to sacrifice",
+          "meaning_kn": "ಪೂಜಿಸಲು ಬಯಸುತ್ತಾ / ಯಜ್ಞ ಮಾಡಲು ಇಚ್ಛಿಸುತ್ತಾ"
+        }
+      ],
+      "full_meaning_en": "O Mitra and Varuna, a fitting and well-crafted praise, reflective of your inherent power and not just a superficial invocation, is offered unto you. When the Hotar priest invokes you in sacred gatherings, the discerning patron, with a desire to worship, seeks auspiciousness and grace from you, O mighty ones.",
+      "full_meaning_kn": "ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ, ನಿಮ್ಮ ದೈವಿಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ, ಕೇವಲ ಆಚರಣೆಯಲ್ಲದ ಒಂದು ಯೋಗ್ಯವಾದ ಸ್ತುತಿಯನ್ನು ನಿಮಗೆ ಅರ್ಪಿಸಲಾಗಿದೆ. ಹೋತೃವು ಯಜ್ಞ ಸಭೆಗಳಲ್ಲಿ ನಿಮ್ಮನ್ನು ಸ್ತುತಿಸಿದಾಗ, ವಿವೇಕಿಯಾದ ಯಜಮಾನನು ನಿಮ್ಮನ್ನು ಪೂಜಿಸಲು ಬಯಸಿ, ನಿಮಗೆ ಮಂಗಳ ಮತ್ತು ಅನುಗ್ರಹವನ್ನು ಬೇಡುತ್ತಾನೆ.",
+      "rig_time_s": 14.535,
+      "Insight_en": "Mitra and Varuna, representing cosmic order and moral governance, embody the harmonious balance within the universe and the individual. The ‘fitting praise’ signifies aligning oneself with this cosmic harmony through righteous action and contemplation. The Hotar's invocation symbolizes the awakening of inner consciousness, seeking to establish a connection with the divine principles that govern existence. True worship, therefore, lies in recognizing and embracing these principles, leading to inner auspiciousness (सुम्नं) and grace.",
+      "Insight_kn": "ಮಿತ್ರ ಮತ್ತು ವರುಣರು, ಕಾಸ್ಮಿಕ್ ವ್ಯವಸ್ಥೆ ಮತ್ತು ನೈತಿಕ ಆಡಳಿತವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ, ವಿಶ್ವ ಮತ್ತು ವ್ಯಕ್ತಿಯೊಳಗಿನ ಸಾಮರಸ್ಯದ ಸಮತೋಲನವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾರೆ. 'ತಕ್ಕ ಸ್ತುತಿ'ಯು ಒಬ್ಬರ ಸದಾಚಾರ ಮತ್ತು ಚಿಂತನೆಯ ಮೂಲಕ ಈ ಕಾಸ್ಮಿಕ್ ಸಾಮರಸ್ಯದೊಂದಿಗೆ ತಮ್ಮನ್ನು ತಾವು ಜೋಡಿಸಿಕೊಳ್ಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಹೋತೃವಿನ ಆಹ್ವಾನವು ಅಸ್ತಿತ್ವವನ್ನು ನಿಯಂತ್ರಿಸುವ ದೈವಿಕ ತತ್ವಗಳೊಂದಿಗೆ ಸಂಪರ್ಕವನ್ನು ಸ್ಥಾಪಿಸಲು ಬಯಸಿ, ಒಳಗಿನ ಪ್ರಜ್ಞೆಯ ಜಾಗೃತಿಗೆ ಸಂಕೇತವಾಗಿದೆ. ಆದ್ದರಿಂದ ನಿಜವಾದ ಆರಾಧನೆಯು ಈ ತತ್ವಗಳನ್ನು ಗುರುತಿಸಿ ಅಳವಡಿಸಿಕೊಳ್ಳುವುದರಲ್ಲಿದೆ, ಇದು ಆಂತರಿಕ ಶುಭ (ಸುಮ್ನಂ) ಮತ್ತು ಅನುಗ್ರಹಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S153_191-3_4",
+      "mandala": 1,
+      "sukta": 153,
+      "ric_index": 3,
+      "rig_lines": [
+        "पी॒पाय॑ धे॒नुरदि॑तिरृ॒ताय॒ जना᳚य मित्रावरुणा हवि॒र्दे |",
+        "हि॒नोति॒ यद्‌ वां᳚ वि॒दथे᳚ सप॒र्यन् त्स रा॒तह᳚व्यो॒ मानु॑षो॒ न होता᳚ ||"
+      ],
+      "pre_splits": [
+        "पी॒पाय॑",
+        "धे॒नुः",
+        "अदि॑तिः",
+        "ऋ॒ताय॑",
+        "जना᳚य",
+        "मि॒त्रा॒व॒रु॒णा॒",
+        "ह॒विः॒ऽदे",
+        "हि॒नोति॑",
+        "यत्",
+        "वा॒‌म्",
+        "वि॒दथे᳚",
+        "स॒प॒र्यन्",
+        "सः",
+        "रा॒तऽह᳚व्यः",
+        "मानु॑षः",
+        "न",
+        "होता᳚"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "पी॒पाय॑",
+          "pada_kn": "ಪೀಪಾಯ",
+          "meaning_en": "has swelled / has nourished",
+          "meaning_kn": "ತುಂಬಿದೆ / ಪೋಷಿಸಿದೆ"
+        },
+        {
+          "pada_original": "धे॒नुः",
+          "pada_kn": "ಧೇನುಃ",
+          "meaning_en": "the milch-cow (bountiful giver)",
+          "meaning_kn": "ಹಾಲು ಕೊಡುವ ಹಸು / ಸಮೃದ್ಧಿ ನೀಡುವವಳು"
+        },
+        {
+          "pada_original": "अदि॑तिः",
+          "pada_kn": "ಅದಿತಿಃ",
+          "meaning_en": "Aditi (the boundless)",
+          "meaning_kn": "ಅದಿತಿ (ಅನಂತಳು)"
+        },
+        {
+          "pada_original": "ऋ॒ताय॑",
+          "pada_kn": "ಋತಾಯ",
+          "meaning_en": "for the sacred order / for truth",
+          "meaning_kn": "ಋತಕ್ಕಾಗಿ / ಸತ್ಯಕ್ಕಾಗಿ"
+        },
+        {
+          "pada_original": "जना᳚य",
+          "pada_kn": "ಜನಾಯ",
+          "meaning_en": "for the person / for the worshipper",
+          "meaning_kn": "ವ್ಯಕ್ತಿಗಾಗಿ / ಯಜಮಾನನಿಗಾಗಿ"
+        },
+        {
+          "pada_original": "मि॒त्रा॒व॒रु॒णा॒",
+          "pada_kn": "ಮಿತ್ರಾವರುಣಾ",
+          "meaning_en": "O Mitra and Varuna!",
+          "meaning_kn": "ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ!"
+        },
+        {
+          "pada_original": "ह॒विः॒ऽदे",
+          "pada_kn": "ಹವಿಃದೇ",
+          "meaning_en": "giver of oblations",
+          "meaning_kn": "ಹವಿಸ್ಸು ಕೊಡುವವಳು"
+        },
+        {
+          "pada_original": "हि॒नोति॑",
+          "pada_kn": "ಹಿನೋತಿ",
+          "meaning_en": "he impels / he pleases",
+          "meaning_kn": "ಅವನು ಪ್ರೇರಿಸುತ್ತಾನೆ / ಸಂತೋಷಪಡಿಸುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "when / that which",
+          "meaning_kn": "ಯಾವಾಗ / ಯಾವುದು"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "to you two (Mitra and Varuna)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗೆ (ಮಿತ್ರ ಮತ್ತು ವರುಣರಿಗೆ)"
+        },
+        {
+          "pada_original": "वि॒दथे᳚",
+          "pada_kn": "ವಿದಥೇ",
+          "meaning_en": "in the assembly / in the sacrifice",
+          "meaning_kn": "ಸಭೆಯಲ್ಲಿ / ಯಜ್ಞದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "स॒प॒र्यन्",
+          "pada_kn": "ಸಪರ್ಯನ್",
+          "meaning_en": "worshipping / serving",
+          "meaning_kn": "ಪೂಜಿಸುತ್ತಾ / ಸೇವೆ ಮಾಡುತ್ತಾ"
+        },
+        {
+          "pada_original": "सः",
+          "pada_kn": "ಸಃ",
+          "meaning_en": "he (the worshipper)",
+          "meaning_kn": "ಅವನು (ಯಜಮಾನ)"
+        },
+        {
+          "pada_original": "रा॒तऽह᳚व्यः",
+          "pada_kn": "ರಾತಹವ್ಯಃ",
+          "meaning_en": "whose oblations are offered",
+          "meaning_kn": "ಯಾರ ಹವಿಸ್ಸುಗಳನ್ನು ಅರ್ಪಿಸಲಾಗಿದೆಯೋ"
+        },
+        {
+          "pada_original": "मानु॑षः",
+          "pada_kn": "ಮಾನುಷಃ",
+          "meaning_en": "human / mortal",
+          "meaning_kn": "ಮಾನವ / ಮನುಷ್ಯ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "like / as",
+          "meaning_kn": "ಹಾಗೆ / ನಂತೆ"
+        },
+        {
+          "pada_original": "होता᳚",
+          "pada_kn": "ಹೋತಾ",
+          "meaning_en": "the invoker priest",
+          "meaning_kn": "ಹೋತೃ (ಆಹ್ವಾನಿಸುವ ಪುರೋಹಿತ)"
+        }
+      ],
+      "full_meaning_en": "O Mitra and Varuna, Aditi, the generous nourisher and bestower of offerings, has overflowed with sustenance for the devotee who adheres to the divine law. When a mortal worshipper, reverently serving you both in sacred ritual with oblations, propitiates you, he urges forth grace, akin to a human invoker.",
+      "full_meaning_kn": "ಓ ಮಿತ್ರ ಮತ್ತು ವರುಣರೇ, ಅದಿತಿ, ಔದಾರ್ಯವುಳ್ಳ ಪೋಷಕಿಯು ಮತ್ತು ಅರ್ಪಣೆಗಳನ್ನು ದಯಪಾಲಿಸುವವಳು, ದೈವಿಕ ಕಾನೂನನ್ನು ಅನುಸರಿಸುವ ಭಕ್ತನಿಗೆ ಪೋಷಣೆಯಿಂದ ತುಂಬಿದ್ದಾಳೆ. ಲೌಕಿಕ ಆರಾಧಕನು ಪವಿತ್ರ ಆಚರಣೆಯಲ್ಲಿ ಅರ್ಪಣೆಗಳೊಂದಿಗೆ ನಿಮ್ಮಿಬ್ಬರನ್ನು ಗೌರವದಿಂದ ಸೇವಿಸುತ್ತಾನೆ, ಅವನು ನಿಮ್ಮನ್ನು ಸಮಾಧಾನಪಡಿಸುತ್ತಾನೆ, ಅವನು ಮಾನವ ಆಹ್ವಾನಿಸುವವನಂತೆ ಕೃಪೆಯನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತಾನೆ.",
+      "rig_time_s": 28.892,
+      "Insight_en": "Aditi, the boundless mother, represents the infinite potential within us. Mitra and Varuna, the divine sustainers, symbolize the harmonious balance between inner and outer worlds. The act of offering (हविस्) is not merely external ritual, but the internal sacrifice of ego, allowing divine grace to manifest. By adhering to Ṛta (ऋत), the cosmic order, one aligns with the inherent harmony of existence, unlocking the flow of nourishment and blessings from the divine.",
+      "Insight_kn": "ಅದಿತಿ, ಅನಂತ ತಾಯಿಯು, ನಮ್ಮೊಳಗಿನ ಅನಂತ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾಳೆ. ಮಿತ್ರ ಮತ್ತು ವರುಣ, ದೈವಿಕ ಪೋಷಕರು, ಆಂತರಿಕ ಮತ್ತು ಬಾಹ್ಯ ಪ್ರಪಂಚಗಳ ನಡುವಿನ ಸಾಮರಸ್ಯದ ಸಮತೋಲನವನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ. ಅರ್ಪಣೆಯ ಕ್ರಿಯೆ ಕೇವಲ ಬಾಹ್ಯ ಆಚರಣೆಯಲ್ಲ, ಅಹಂಕಾರದ ಆಂತರಿಕ ತ್ಯಾಗ, ದೈವಿಕ ಅನುಗ್ರಹವು ವ್ಯಕ್ತವಾಗಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಋತಕ್ಕೆ ಬದ್ಧರಾಗುವ ಮೂಲಕ, ಕಾಸ್ಮಿಕ್ ಕ್ರಮ, ಅಸ್ತಿತ್ವದ ಅಂತರ್ಗತ ಸಾಮರಸ್ಯದೊಂದಿಗೆ ಒಬ್ಬರು ಜೋಡಿಸಿಕೊಳ್ಳುತ್ತಾರೆ, ದೈವಿಕದಿಂದ ಪೋಷಣೆ ಮತ್ತು ಆಶೀರ್ವಾದಗಳ ಹರಿವನ್ನು ತೆರೆಯುತ್ತಾರೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S153_191-4_4",
+      "mandala": 1,
+      "sukta": 153,
+      "ric_index": 4,
+      "rig_lines": [
+        "उ॒त वां᳚ वि॒क्षु मद्या॒स्वन्धो॒ गाव॒ आप॑श्च पीपयन्त दे॒वीः |",
+        "उ॒तो नो᳚, अ॒स्य पू॒र्व्यः पति॒र्दन् वी॒तं पा॒तं पय॑स उ॒स्रिया᳚याः ||"
+      ],
+      "pre_splits": [
+        "उ॒त",
+        "वा॒‌म्",
+        "वि॒क्षु",
+        "मद्या᳚सु",
+        "अन्धः॑",
+        "गावः॑",
+        "आपः॑",
+        "च॒",
+        "पी॒प॒य॒न्त॒",
+        "दे॒वीः",
+        "उ॒तो इति॑",
+        "नः॒",
+        "अ॒स्य",
+        "पू॒र्व्यः",
+        "पतिः॑",
+        "दन्",
+        "वी॒त‌म्",
+        "पा॒त‌म्",
+        "पय॑सः",
+        "उ॒स्रिया᳚याः"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "And / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "वा॒‌म्",
+          "pada_kn": "ವಾಮ್",
+          "meaning_en": "To you two (Ashvins)",
+          "meaning_kn": "ನಿಮ್ಮಿಬ್ಬರಿಗೆ (ಅಶ್ವಿನಿ ದೇವತೆಗಳಿಗೆ)"
+        },
+        {
+          "pada_original": "वि॒क्षु",
+          "pada_kn": "ವಿಕ್ಷು",
+          "meaning_en": "Among people / in settlements",
+          "meaning_kn": "ಜನರಲ್ಲಿ / ನೆಲೆಗಳಲ್ಲಿ"
+        },
+        {
+          "pada_original": "मद्या᳚सु",
+          "pada_kn": "ಮದ್ಯಾಸು",
+          "meaning_en": "Exhilarating / joyous",
+          "meaning_kn": "ಹರ್ಷದಾಯಕವಾದ / ಆನಂದಮಯವಾದ"
+        },
+        {
+          "pada_original": "अन्धः॑",
+          "pada_kn": "ಅಂಧಃ",
+          "meaning_en": "Soma juice / food",
+          "meaning_kn": "ಸೋಮರಸ / ಅನ್ನ"
+        },
+        {
+          "pada_original": "गावः॑",
+          "pada_kn": "ಗಾವಃ",
+          "meaning_en": "Cows",
+          "meaning_kn": "ಹಸುಗಳು"
+        },
+        {
+          "pada_original": "आपः॑",
+          "pada_kn": "ಆಪಃ",
+          "meaning_en": "Waters",
+          "meaning_kn": "ನೀರುಗಳು"
+        },
+        {
+          "pada_original": "च॒",
+          "pada_kn": "ಚ",
+          "meaning_en": "And",
+          "meaning_kn": "ಮತ್ತು"
+        },
+        {
+          "pada_original": "पी॒प॒य॒न्त॒",
+          "pada_kn": "ಪೀಪಯಂತ",
+          "meaning_en": "Nourished / made to swell",
+          "meaning_kn": "ಪೋಷಿಸಿದವು / ವೃದ್ಧಿಗೊಳಿಸಿದವು"
+        },
+        {
+          "pada_original": "दे॒वीः",
+          "pada_kn": "ದೇವೀಃ",
+          "meaning_en": "Divine (feminine plural)",
+          "meaning_kn": "ದೈವಿಕವಾದವುಗಳು"
+        },
+        {
+          "pada_original": "उ॒तो इति॑",
+          "pada_kn": "ಉತೋ ಇತಿ",
+          "meaning_en": "And also",
+          "meaning_kn": "ಮತ್ತು ಸಹ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "To us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "अ॒स्य",
+          "pada_kn": "ಅಸ್ಯ",
+          "meaning_en": "Of this (sacrifice/wealth)",
+          "meaning_kn": "ಇದರ (ಯಜ್ಞದ/ಸಂಪತ್ತಿನ)"
+        },
+        {
+          "pada_original": "पू॒र्व्यः",
+          "pada_kn": "ಪೂರ್ವ್ಯಃ",
+          "meaning_en": "Ancient / primeval",
+          "meaning_kn": "ಪ್ರಾಚೀನ / ಮೊದಲಿನ"
+        },
+        {
+          "pada_original": "पतिः॑",
+          "pada_kn": "ಪತಿಃ",
+          "meaning_en": "Lord / master",
+          "meaning_kn": "ಒಡೆಯ / ಸ್ವಾಮಿ"
+        },
+        {
+          "pada_original": "दन्",
+          "pada_kn": "ದನ್",
+          "meaning_en": "May he give",
+          "meaning_kn": "ನೀಡಲಿ"
+        },
+        {
+          "pada_original": "वी॒त‌म्",
+          "pada_kn": "ವೀತಮ್",
+          "meaning_en": "Drink (you two)",
+          "meaning_kn": "ಕುಡಿಯಿರಿ (ನೀವಿಬ್ಬರೂ)"
+        },
+        {
+          "pada_original": "पा॒त‌म्",
+          "pada_kn": "ಪಾತಮ್",
+          "meaning_en": "Drink (you two)",
+          "meaning_kn": "ಕುಡಿಯಿರಿ (ನೀವಿಬ್ಬರೂ)"
+        },
+        {
+          "pada_original": "पय॑सः",
+          "pada_kn": "ಪಯಸಃ",
+          "meaning_en": "Of milk",
+          "meaning_kn": "ಹಾಲಿನ"
+        },
+        {
+          "pada_original": "उ॒स्रिया᳚याः",
+          "pada_kn": "ಉಸ್ರಿಯಾಯಾಃ",
+          "meaning_en": "Of the cow",
+          "meaning_kn": "ಹಸುವಿನ"
+        }
+      ],
+      "full_meaning_en": "And indeed, in joyous gatherings, the Soma's nectar, the sacred cows, and the divine waters have nourished (all beings), O Ashvins. May the primeval lord of this (rite) bestow upon us blessings. O Ashvins, partake of the milk of the radiant cow.",
+      "full_meaning_kn": "ಓ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಆನಂದಕರ ಸಭೆಗಳಲ್ಲಿ ಸೋಮರಸ, ಪವಿತ್ರ ಗೋವುಗಳು ಮತ್ತು ದೈವಿಕ ಜಲಗಳು (ಎಲ್ಲಾ ಜೀವಿಗಳನ್ನು) ಪೋಷಿಸಿವೆ. ಈ ಯಜ್ಞದ ಪುರಾತನ ಅಧಿಪತಿಯು ನಮಗೆ ವರಗಳನ್ನು ದಯಪಾಲಿಸಲಿ. ಓ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಪ್ರಕಾಶಮಾನವಾದ ಹಸುವಿನ ಹಾಲನ್ನು ಸೇವಿಸಿ.",
+      "rig_time_s": 43.143,
+      "Insight_en": "The Ashvins symbolize the dual forces of healing and rejuvenation, representing the harmonious balance needed for holistic well-being. Soma, cows, and divine waters signify the essential elements of life that nourish both the body and the spirit. The primeval lord embodies the ancient wisdom that bestows blessings upon those who seek inner growth. Partaking of the cow's milk signifies absorbing the pure essence of life and spiritual nourishment. The radiant cow (उ॒स्रिया᳚याः) symbolizes divine illumination, and its milk, the nectar of spiritual insight.",
+      "Insight_kn": "ಅಶ್ವಿನೀದೇವತೆಗಳು ಚಿಕಿತ್ಸೆ ಮತ್ತು ಪುನಶ್ಚೇತನದ ದ್ವಂದ್ವ ಶಕ್ತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತಾರೆ, ಇದು ಸಮಗ್ರ ಯೋಗಕ್ಷೇಮಕ್ಕೆ ಅಗತ್ಯವಾದ ಸಾಮರಸ್ಯದ ಸಮತೋಲನವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಸೋಮ, ಗೋವುಗಳು ಮತ್ತು ದೈವಿಕ ಜಲಗಳು ದೇಹ ಮತ್ತು ಆತ್ಮ ಎರಡನ್ನೂ ಪೋಷಿಸುವ ಜೀವನದ ಅತ್ಯಗತ್ಯ ಅಂಶಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಪುರಾತನ ಅಧಿಪತಿಯು ಆಂತರಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ಬಯಸುವವರಿಗೆ ಆಶೀರ್ವಾದವನ್ನು ನೀಡುವ ಪ್ರಾಚೀನ ಜ್ಞಾನವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ಹಸುವಿನ ಹಾಲನ್ನು ಸೇವಿಸುವುದು ಜೀವನದ ಶುದ್ಧ ಸಾರ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಪೋಷಣೆಯನ್ನು ಹೀರಿಕೊಳ್ಳುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಪ್ರಕಾಶಮಾನವಾದ ಗೋವು ದೈವಿಕ ಪ್ರಕಾಶವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ ಮತ್ತು ಅದರ ಹಾಲು ಆಧ್ಯಾತ್ಮಿಕ ಒಳನೋಟದ ಅಮೃತವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}

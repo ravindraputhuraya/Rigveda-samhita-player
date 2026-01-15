@@ -1,0 +1,671 @@
+{
+  "mandala": 1,
+  "version": "ai-1.0",
+  "mantras": [
+    {
+      "mantra_id": "M1-S170_191-1_5",
+      "mandala": 1,
+      "sukta": 170,
+      "ric_index": 1,
+      "rig_lines": [
+        "न नू॒नमस्ति॒ नो श्वः कस्तद्‌ वे᳚द॒ यदद्भु॑तम् |",
+        "अ॒न्यस्य॑ चि॒त्तम॒भि सं᳚च॒रेण्य॑मु॒ताधी᳚तं॒ वि न॑श्यति ||"
+      ],
+      "pre_splits": [
+        "न",
+        "नू॒न‌म्",
+        "अस्ति॑",
+        "नो इति॑",
+        "श्वः",
+        "कः",
+        "तत्",
+        "वे॒द॒",
+        "यत्",
+        "अद्भु॑त‌म्",
+        "अ॒न्यस्य॑",
+        "चि॒त्त‌म्",
+        "अ॒भि",
+        "स॒‌म्ऽच॒रेण्य᳚‌म्",
+        "उ॒त",
+        "आऽधी᳚त‌म्",
+        "वि",
+        "न॒श्य॒ति॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "not",
+          "meaning_kn": "ಇಲ್ಲ"
+        },
+        {
+          "pada_original": "नू॒न‌म्",
+          "pada_kn": "ನೂನಮ್",
+          "meaning_en": "now / today",
+          "meaning_kn": "ಈಗ / ಇಂದು"
+        },
+        {
+          "pada_original": "अस्ति॑",
+          "pada_kn": "ಅಸ್ತಿ",
+          "meaning_en": "is",
+          "meaning_kn": "ಇದೆ"
+        },
+        {
+          "pada_original": "नो इति॑",
+          "pada_kn": "ನೋ ಇತಿ",
+          "meaning_en": "nor",
+          "meaning_kn": "ಅಲ್ಲದೆ"
+        },
+        {
+          "pada_original": "श्वः",
+          "pada_kn": "ಶ್ವಃ",
+          "meaning_en": "tomorrow",
+          "meaning_kn": "ನಾಳೆ"
+        },
+        {
+          "pada_original": "कः",
+          "pada_kn": "ಕಃ",
+          "meaning_en": "who",
+          "meaning_kn": "ಯಾರು"
+        },
+        {
+          "pada_original": "तत्",
+          "pada_kn": "ತತ್",
+          "meaning_en": "that",
+          "meaning_kn": "ಅದನ್ನು"
+        },
+        {
+          "pada_original": "वे॒द॒",
+          "pada_kn": "ವೇದ",
+          "meaning_en": "knows",
+          "meaning_kn": "ತಿಳಿಯುತ್ತಾನೆ"
+        },
+        {
+          "pada_original": "यत्",
+          "pada_kn": "ಯತ್",
+          "meaning_en": "which / what",
+          "meaning_kn": "ಯಾವುದು / ಏನು"
+        },
+        {
+          "pada_original": "अद्भु॑त‌म्",
+          "pada_kn": "ಅದ್ಭುತಮ್",
+          "meaning_en": "wonderful / mysterious",
+          "meaning_kn": "ಅದ್ಭುತವಾದ / ಆಶ್ಚರ್ಯಕರವಾದ"
+        },
+        {
+          "pada_original": "अ॒न्यस्य॑",
+          "pada_kn": "ಅನ್ಯಸ್ಯ",
+          "meaning_en": "of another",
+          "meaning_kn": "ಇನ್ನೊಬ್ಬನ"
+        },
+        {
+          "pada_original": "चि॒त्त‌म्",
+          "pada_kn": "ಚಿತ್ತಮ್",
+          "meaning_en": "mind / thought",
+          "meaning_kn": "ಮನಸ್ಸು / ಚಿತ್ತ"
+        },
+        {
+          "pada_original": "अ॒भि",
+          "pada_kn": "ಅಭಿ",
+          "meaning_en": "towards / upon",
+          "meaning_kn": "ಕಡೆಗೆ / ಮೇಲೆ"
+        },
+        {
+          "pada_original": "स॒‌म्ऽच॒रेण्य᳚‌म्",
+          "pada_kn": "ಸಂಚರೇಣ್ಯಮ್",
+          "meaning_en": "movable / changeable",
+          "meaning_kn": "ಸಂಚರಿಸುವ / ಚಂಚಲವಾದ"
+        },
+        {
+          "pada_original": "उ॒त",
+          "pada_kn": "ಉತ",
+          "meaning_en": "and / also",
+          "meaning_kn": "ಮತ್ತು / ಸಹ"
+        },
+        {
+          "pada_original": "आऽधी᳚त‌म्",
+          "pada_kn": "ಆಧೀತಮ್",
+          "meaning_en": "learned / studied",
+          "meaning_kn": "ಕಲಿತದ್ದು / ಅಧ್ಯಯನ ಮಾಡಿದ್ದು"
+        },
+        {
+          "pada_original": "वि",
+          "pada_kn": "ವಿ",
+          "meaning_en": "completely / away",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ದೂರ"
+        },
+        {
+          "pada_original": "न॒श्य॒ति॒",
+          "pada_kn": "ನಶ್ಯತಿ",
+          "meaning_en": "perishes / is lost",
+          "meaning_kn": "ನಾಶವಾಗುತ್ತದೆ / ಕಳೆದುಹೋಗುತ್ತದೆ"
+        }
+      ],
+      "full_meaning_en": "Neither is certainty found in this very day, nor shall it be found in the morrow. Who indeed comprehends that which is wondrous and beyond our ken? Verily, the mind of another is ever-wandering and fickle; even that which has been diligently studied may utterly vanish.",
+      "full_meaning_kn": "ಇಂದಿನ ದಿನದಲ್ಲಿ ನಿಶ್ಚಿತತೆಯು ಕಂಡುಬರುವುದಿಲ್ಲ, ನಾಳೆಯೂ ಅದು ಕಂಡುಬರುವುದಿಲ್ಲ. ಅದ್ಭುತ ಮತ್ತು ನಮ್ಮ ತಿಳುವಳಿಕೆಗೆ ಮೀರಿದ ವಿಷಯವನ್ನು ಯಾರು ಗ್ರಹಿಸುತ್ತಾರೆ? ಮತ್ತೊಬ್ಬರ ಮನಸ್ಸು ಸದಾ ಅಲೆದಾಡುವ ಮತ್ತು ಚಂಚಲವಾದದ್ದು; ಶ್ರದ್ಧೆಯಿಂದ ಅಧ್ಯಯನ ಮಾಡಿದ ವಿಷಯವೂ ಸಹ ಸಂಪೂರ್ಣವಾಗಿ ನಾಶವಾಗಬಹುದು.",
+      "rig_time_s": 0.0,
+      "Insight_en": "The mantra speaks to the impermanence of knowledge and the elusive nature of certainty. It highlights the futility of clinging to fixed ideas, as both external circumstances and internal states are subject to constant change. The 'wonderous' (अद्भुतम्) represents the unfathomable mysteries of existence, urging humility in the face of the unknown. Recognizing the fickleness of the mind encourages detachment and the pursuit of wisdom beyond mere intellectual accumulation. True understanding arises not from grasping but from accepting the transient nature of reality.",
+      "Insight_kn": "ಈ ಮಂತ್ರವು ಜ್ಞಾನದ ಅಶಾಶ್ವತತೆ ಮತ್ತು ನಿಶ್ಚಿತತೆಯ ದುರ್ಬಲ ಸ್ವರೂಪದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತದೆ. ಬಾಹ್ಯ ಸಂದರ್ಭಗಳು ಮತ್ತು ಆಂತರಿಕ ಸ್ಥಿತಿಗಳು ನಿರಂತರ ಬದಲಾವಣೆಗೆ ಒಳಪಟ್ಟಿರುವುದರಿಂದ, ಸ್ಥಿರ ಆಲೋಚನೆಗಳಿಗೆ ಅಂಟಿಕೊಳ್ಳುವ ನಿರರ್ಥಕತೆಯನ್ನು ಇದು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. 'ಅದ್ಭುತ'ವು ಅಸ್ತಿತ್ವದ ಅಗಾಧ ರಹಸ್ಯಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಅದು ತಿಳಿದಿಲ್ಲದ ವಿಷಯದ ಎದುರು ವಿನಯವನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ಮನಸ್ಸಿನ ಚಂಚಲತೆಯನ್ನು ಗುರುತಿಸುವುದು ವೈರಾಗ್ಯವನ್ನು ಮತ್ತು ಕೇವಲ ಬೌದ್ಧಿಕ ಸಂಗ್ರಹಣೆಯನ್ನು ಮೀರಿದ ಜ್ಞಾನದ ಅನ್ವೇಷಣೆಯನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ. ನಿಜವಾದ ತಿಳುವಳಿಕೆಯು ಗ್ರಹಣದಿಂದಲ್ಲ, ಬದಲಿಗೆ ವಾಸ್ತವದ ಕ್ಷಣಿಕ ಸ್ವರೂಪವನ್ನು ಸ್ವೀಕರಿಸುವುದರಿಂದ ಉಂಟಾಗುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S170_191-2_5",
+      "mandala": 1,
+      "sukta": 170,
+      "ric_index": 2,
+      "rig_lines": [
+        "किं न॑ इन्द्र जिघांससि॒ भ्रात॑रो म॒रुत॒स्तव॑ |",
+        "तेभिः॑ कल्पस्व साधु॒या मा नः॑ स॒मर॑णे वधीः ||"
+      ],
+      "pre_splits": [
+        "कि‌म्",
+        "नः॒",
+        "इ॒न्द्र॒",
+        "जि॒घां॒स॒सि॒",
+        "भ्रात॑रः",
+        "म॒रुतः॑",
+        "तव॑",
+        "तेभिः॑",
+        "क॒ल्प॒स्व॒",
+        "सा॒धु॒ऽया",
+        "मा",
+        "नः॒",
+        "स॒‌म्।आर॑णे",
+        "व॒धीः॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "कि‌म्",
+          "pada_kn": "ಕಿಮ್",
+          "meaning_en": "Why? / What?",
+          "meaning_kn": "ಏಕೆ? / ಏನು?"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Us / to us",
+          "meaning_kn": "ನಮ್ಮನ್ನು / ನಮಗೆ"
+        },
+        {
+          "pada_original": "इ॒न्द्र॒",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra!",
+          "meaning_kn": "ಓ ಇಂದ್ರ!"
+        },
+        {
+          "pada_original": "जि॒घां॒स॒सि॒",
+          "pada_kn": "ಜಿಘಾಂಸಸಿ",
+          "meaning_en": "You wish to kill / You intend to strike",
+          "meaning_kn": "ನೀನು ಕೊಲ್ಲಲು ಬಯಸುತ್ತೀಯಾ / ನೀನು ಹೊಡೆಯಲು ಉದ್ದೇಶಿಸುತ್ತೀಯಾ"
+        },
+        {
+          "pada_original": "भ्रात॑रः",
+          "pada_kn": "ಭ್ರಾತರಃ",
+          "meaning_en": "Brothers",
+          "meaning_kn": "ಸಹೋದರರು"
+        },
+        {
+          "pada_original": "म॒रुतः॑",
+          "pada_kn": "ಮರುತಃ",
+          "meaning_en": "Maruts",
+          "meaning_kn": "ಮರುತ್ತುಗಳು"
+        },
+        {
+          "pada_original": "तव॑",
+          "pada_kn": "ತವ",
+          "meaning_en": "Your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "तेभिः॑",
+          "pada_kn": "ತೇಭಿಃ",
+          "meaning_en": "With them",
+          "meaning_kn": "ಅವರೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "क॒ल्प॒स्व॒",
+          "pada_kn": "ಕಲ್ಪಸ್ವ",
+          "meaning_en": "Be reconciled / Be at peace",
+          "meaning_kn": "ಸಮಾಧಾನಗೊಳ್ಳು / ಸರಿಹೊಂದಿಸಿಕೋ"
+        },
+        {
+          "pada_original": "सा॒धु॒ऽया",
+          "pada_kn": "ಸಾಧುಯಾ",
+          "meaning_en": "Properly / amicably",
+          "meaning_kn": "ಸರಿಯಾಗಿ / ಸೌಹಾರ್ದಯುತವಾಗಿ"
+        },
+        {
+          "pada_original": "मा",
+          "pada_kn": "ಮಾ",
+          "meaning_en": "Do not",
+          "meaning_kn": "ಬೇಡ"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "Us",
+          "meaning_kn": "ನಮ್ಮನ್ನು"
+        },
+        {
+          "pada_original": "स॒‌म्।आर॑णे",
+          "pada_kn": "ಸಮಾರಣೇ",
+          "meaning_en": "In battle / in conflict",
+          "meaning_kn": "ಯುದ್ಧದಲ್ಲಿ / ಸಂಘರ್ಷದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "व॒धीः॒",
+          "pada_kn": "ವಧೀಃ",
+          "meaning_en": "Kill / strike",
+          "meaning_kn": "ಕೊಲ್ಲು / ಹೊಡೆ"
+        }
+      ],
+      "full_meaning_en": "O Indra, why do you seek to strike us down? The Maruts are indeed your brothers. Be appeased by them with kindness. Do not slay us in the conflict.",
+      "full_meaning_kn": "ಓ ಇಂದ್ರ, ನಮ್ಮನ್ನು ಏಕೆ ಹೊಡೆಯಲು ಬಯಸುತ್ತೀರಿ? ಮರುತ್ತುಗಳು ವಾಸ್ತವವಾಗಿ ನಿಮ್ಮ ಸಹೋದರರು. ದಯೆಯಿಂದ ಅವರೊಂದಿಗೆ ಸಮಾಧಾನವಾಗಿರಿ. ಯುದ್ಧದಲ್ಲಿ ನಮ್ಮನ್ನು ಕೊಲ್ಲಬೇಡಿ.",
+      "rig_time_s": 11.631,
+      "Insight_en": "Indra’s conflict represents the inner turmoil between different aspects of consciousness. The Maruts, symbolizing vital energies, are brothers, indicating inherent unity within. This unity must be recognized to quell internal strife. The plea is to reconcile these forces, preventing self-destruction through internal battles. The true battleground is within, and harmony is the ultimate victory, allowing for the integrated expression of consciousness.",
+      "Insight_kn": "ಇಂದ್ರನ ಸಂಘರ್ಷವು ಪ್ರಜ್ಞೆಯ ವಿವಿಧ ಅಂಶಗಳ ನಡುವಿನ ಆಂತರಿಕ ಪ್ರಕ್ಷುಬ್ಧತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಮರುತ್ತುಗಳು, ಪ್ರಮುಖ ಶಕ್ತಿಗಳನ್ನು ಸಂಕೇತಿಸುತ್ತವೆ, ಸಹೋದರರಾಗಿದ್ದಾರೆ, ಇದು ಆಂತರಿಕ ಏಕತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಆಂತರಿಕ ಹೋರಾಟವನ್ನು ತಗ್ಗಿಸಲು ಈ ಏಕತೆಯನ್ನು ಗುರುತಿಸಬೇಕು. ಆಂತರಿಕ ಯುದ್ಧಗಳ ಮೂಲಕ ಸ್ವಯಂ-ನಾಶವನ್ನು ತಡೆಯಲು ಈ ಶಕ್ತಿಗಳನ್ನು ಸಮಾಧಾನಪಡಿಸುವಂತೆ ಪ್ರಾರ್ಥನೆ ಇದೆ. ನಿಜವಾದ ಯುದ್ಧಭೂಮಿ ಒಳಗಿದೆ, ಮತ್ತು ಸಾಮರಸ್ಯವು ಅಂತಿಮ ವಿಜಯವಾಗಿದೆ, ಇದು ಪ್ರಜ್ಞೆಯ ಸಮಗ್ರ ಅಭಿವ್ಯಕ್ತಿಗೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S170_191-3_5",
+      "mandala": 1,
+      "sukta": 170,
+      "ric_index": 3,
+      "rig_lines": [
+        "किं नो᳚ भ्रातरगस्त्य॒ सखा॒ सन्नति॑ मन्यसे |",
+        "वि॒द्मा हि ते॒ यथा॒ मनो॒ऽस्मभ्य॒मिन्न दि॑त्ससि ||"
+      ],
+      "pre_splits": [
+        "कि‌म्",
+        "नः॒",
+        "भ्रा॒तः॒",
+        "अ॒ग॒स्त्य॒",
+        "सखा᳚",
+        "सन्",
+        "अति॑",
+        "म॒न्य॒से॒",
+        "वि॒द्म",
+        "हि",
+        "ते॒",
+        "यथा᳚",
+        "मनः॑",
+        "अ॒स्मभ्य᳚‌म्",
+        "इत्",
+        "न",
+        "दि॒त्स॒सि॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "कि‌म्",
+          "pada_kn": "ಕಿಮ್",
+          "meaning_en": "Why? / What?",
+          "meaning_kn": "ಏಕೆ? / ಏನು?"
+        },
+        {
+          "pada_original": "नः॒",
+          "pada_kn": "ನಃ",
+          "meaning_en": "To us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "भ्रा॒तः॒",
+          "pada_kn": "ಭ್ರಾತಃ",
+          "meaning_en": "O brother",
+          "meaning_kn": "ಓ ಸಹೋದರ"
+        },
+        {
+          "pada_original": "अ॒ग॒स्त्य॒",
+          "pada_kn": "ಅಗಸ್ತ್ಯ",
+          "meaning_en": "O Agastya",
+          "meaning_kn": "ಓ ಅಗಸ್ತ್ಯ"
+        },
+        {
+          "pada_original": "सखा᳚",
+          "pada_kn": "ಸಖಾ",
+          "meaning_en": "Friend",
+          "meaning_kn": "ಗೆಳೆಯ"
+        },
+        {
+          "pada_original": "सन्",
+          "pada_kn": "ಸನ್",
+          "meaning_en": "Being / While being",
+          "meaning_kn": "ಆಗಿದ್ದರೂ / ಆಗಿರುವಾಗ"
+        },
+        {
+          "pada_original": "अति॑",
+          "pada_kn": "ಅತಿ",
+          "meaning_en": "Excessively / Too much",
+          "meaning_kn": "ಅತಿಯಾಗಿ"
+        },
+        {
+          "pada_original": "म॒न्य॒से॒",
+          "pada_kn": "ಮನ್ಯಸೇ",
+          "meaning_en": "You think / You consider",
+          "meaning_kn": "ನೀನು ಭಾವಿಸುತ್ತೀಯೆ / ನೀನು ತಿಳಿಯುತ್ತೀಯೆ"
+        },
+        {
+          "pada_original": "वि॒द्म",
+          "pada_kn": "ವಿದ್ಮ",
+          "meaning_en": "We know",
+          "meaning_kn": "ನಾವು ಬಲ್ಲೆವು / ನಮಗೆ ಗೊತ್ತು"
+        },
+        {
+          "pada_original": "हि",
+          "pada_kn": "ಹಿ",
+          "meaning_en": "Indeed / Certainly",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಏಕೆಂದರೆ"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "Your",
+          "meaning_kn": "ನಿನ್ನ"
+        },
+        {
+          "pada_original": "यथा᳚",
+          "pada_kn": "ಯಥಾ",
+          "meaning_en": "How / As",
+          "meaning_kn": "ಹೇಗೆ"
+        },
+        {
+          "pada_original": "मनः॑",
+          "pada_kn": "ಮನಃ",
+          "meaning_en": "Mind / Intention",
+          "meaning_kn": "ಮನಸ್ಸು / ಉದ್ದೇಶ"
+        },
+        {
+          "pada_original": "अ॒स्मभ्य᳚‌म्",
+          "pada_kn": "ಅಸ್ಮಭ್ಯಮ್",
+          "meaning_en": "To us",
+          "meaning_kn": "ನಮಗೆ"
+        },
+        {
+          "pada_original": "इत्",
+          "pada_kn": "ಇತ್",
+          "meaning_en": "Indeed / Only",
+          "meaning_kn": "ಖಂಡಿತವಾಗಿಯೂ / ಮಾತ್ರ"
+        },
+        {
+          "pada_original": "न",
+          "pada_kn": "ನ",
+          "meaning_en": "Not",
+          "meaning_kn": "ಇಲ್ಲ / ಅಲ್ಲ"
+        },
+        {
+          "pada_original": "दि॒त्स॒सि॒",
+          "pada_kn": "ದಿತ್ಸಸಿ",
+          "meaning_en": "You wish to give",
+          "meaning_kn": "ನೀನು ಕೊಡಲು ಬಯಸುತ್ತೀಯೆ"
+        }
+      ],
+      "full_meaning_en": "O Agastya, brother and friend, why dost thou deem thyself so high? We know well the nature of thy mind; thou art indeed unwilling to bestow upon us.",
+      "full_meaning_kn": "ಓ ಅಗಸ್ತ್ಯ ಸಹೋದರನೇ, ಮಿತ್ರನೇ, ನಿನ್ನನ್ನು ನೀನು ಏಕೆ ಅಷ್ಟು ಎತ್ತರವಾಗಿ ಭಾವಿಸುತ್ತೀಯೆ? ನಿನ್ನ ಮನಸ್ಸಿನ ಸ್ವರೂಪ ನಮಗೆ ತಿಳಿದಿದೆ; ನೀನು ನಮಗೆ ಏನನ್ನೂ ದಯಪಾಲಿಸಲು ಇಷ್ಟಪಡುವುದಿಲ್ಲ.",
+      "rig_time_s": 21.823,
+      "Insight_en": "Agastya, though revered, represents the ego that hoards and hesitates to share its inner wealth. True friendship and brotherhood demand a willingness to bestow the fruits of one's spiritual endeavors. The unwillingness to give reveals a constricted heart, bound by the illusion of scarcity. Overcoming this reluctance is essential for spiritual growth and the realization of abundance, allowing the inner light (अग्नि) to shine freely.",
+      "Insight_kn": "ಅಗಸ್ತ್ಯನು ಪೂಜ್ಯನಾಗಿದ್ದರೂ, ತನ್ನ ಆಂತರಿಕ ಸಂಪತ್ತನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಹಿಂಜರಿಯುವ ಅಹಂಕಾರವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾನೆ. ನಿಜವಾದ ಸ್ನೇಹ ಮತ್ತು ಭ್ರಾತೃತ್ವವು ಒಬ್ಬರ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯತ್ನಗಳ ಫಲಗಳನ್ನು ನೀಡುವ ಇಚ್ಛೆಯನ್ನು ಬಯಸುತ್ತದೆ. ನೀಡಲು ಇಷ್ಟವಿಲ್ಲದಿರುವುದು ಕೊರತೆಯ ಭ್ರಮೆಯಿಂದ ಬಂಧಿಸಲ್ಪಟ್ಟ ಸಂಕುಚಿತ ಹೃದಯವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಈ ಹಿಂಜರಿಕೆಯನ್ನು ಜಯಿಸುವುದು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಮತ್ತು ಸಮೃದ್ಧಿಯ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ಅತ್ಯಗತ್ಯ, ಆಂತರಿಕ ಬೆಳಕು (अग्नि) ಮುಕ್ತವಾಗಿ ಬೆಳಗಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S170_191-4_5",
+      "mandala": 1,
+      "sukta": 170,
+      "ric_index": 4,
+      "rig_lines": [
+        "अरं᳚ कृण्वन्तु॒ वेदिं॒ सम॒ग्निमि᳚न्धतां पु॒रः |",
+        "तत्रा॒मृत॑स्य॒ चेत॑नं य॒ज्ञं ते᳚ तनवावहै ||"
+      ],
+      "pre_splits": [
+        "अर᳚‌म्",
+        "कृ॒ण्व॒न्तु॒",
+        "वेदि᳚‌म्",
+        "स‌म्",
+        "अ॒ग्नि‌म्",
+        "इ॒न्ध॒ता॒‌म्",
+        "पु॒रः",
+        "तत्र॑",
+        "अ॒मृत॑स्य",
+        "चेत॑न‌म्",
+        "य॒ज्ञ‌म्",
+        "ते॒",
+        "त॒न॒वा॒व॒है॒"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "अर᳚‌म्",
+          "pada_kn": "ಅರಮ್",
+          "meaning_en": "properly / suitably",
+          "meaning_kn": "ಸರಿಯಾಗಿ / ಸಾಕಷ್ಟು"
+        },
+        {
+          "pada_original": "कृ॒ण्व॒न्तु॒",
+          "pada_kn": "ಕೃಣ್ವಂತು",
+          "meaning_en": "let them make / prepare",
+          "meaning_kn": "ಅವರು ಮಾಡಲಿ / ಸಿದ್ಧಪಡಿಸಲಿ"
+        },
+        {
+          "pada_original": "वेदि᳚‌म्",
+          "pada_kn": "ವೇದಿಮ್",
+          "meaning_en": "the altar / sacrificial ground",
+          "meaning_kn": "ಯಜ್ಞವೇದಿಕೆಯನ್ನು / ಯಜ್ಞಭೂಮಿಯನ್ನು"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "well / completely (prefix)",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ಸಂಪೂರ್ಣವಾಗಿ (ಉಪಸರ್ಗ)"
+        },
+        {
+          "pada_original": "अ॒ग्नि‌म्",
+          "pada_kn": "ಅಗ್ನಿಮ್",
+          "meaning_en": "the fire (Agni)",
+          "meaning_kn": "ಅಗ್ನಿಯನ್ನು"
+        },
+        {
+          "pada_original": "इ॒न्ध॒ता॒‌म्",
+          "pada_kn": "ಇಂಧತಾಮ್",
+          "meaning_en": "let them kindle / ignite",
+          "meaning_kn": "ಅವರು ಹೊತ್ತಿಸಲಿ / ಪ್ರಜ್ವಲಿಸಲಿ"
+        },
+        {
+          "pada_original": "पु॒रः",
+          "pada_kn": "ಪುರಃ",
+          "meaning_en": "in front / before",
+          "meaning_kn": "ಮುಂದೆ / ಮೊದಲು"
+        },
+        {
+          "pada_original": "तत्र॑",
+          "pada_kn": "ತತ್ರ",
+          "meaning_en": "there / in that place",
+          "meaning_kn": "ಅಲ್ಲಿ / ಆ ಸ್ಥಳದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "अ॒मृत॑स्य",
+          "pada_kn": "ಅಮೃತಸ್ಯ",
+          "meaning_en": "of immortality / of nectar",
+          "meaning_kn": "ಅಮರತ್ವದ / ಅಮೃತದ"
+        },
+        {
+          "pada_original": "चेत॑न‌म्",
+          "pada_kn": "ಚೇತನಮ್",
+          "meaning_en": "the consciousness / the sign",
+          "meaning_kn": "ಅರಿವನ್ನು / ಸಂಕೇತವನ್ನು"
+        },
+        {
+          "pada_original": "य॒ज्ञ‌म्",
+          "pada_kn": "ಯಜ್ಞಮ್",
+          "meaning_en": "the sacrifice",
+          "meaning_kn": "ಯಜ್ಞವನ್ನು"
+        },
+        {
+          "pada_original": "ते॒",
+          "pada_kn": "ತೇ",
+          "meaning_en": "for you (dual/plural)",
+          "meaning_kn": "ನಿನಗಾಗಿ / ನಿಮಗಾಗಿ"
+        },
+        {
+          "pada_original": "त॒न॒वा॒व॒है॒",
+          "pada_kn": "ತನವಾಮಹೈ",
+          "meaning_en": "let us perform / extend",
+          "meaning_kn": "ನಾವು ನೆರವೇರಿಸೋಣ / ವಿಸ್ತರಿಸೋಣ"
+        }
+      ],
+      "full_meaning_en": "Let them skillfully prepare the altar, and kindle the fire excellently in front. There, for you, we shall extend the sacrifice, which is the awakening of immortality.",
+      "full_meaning_kn": "ಅವರೀಗ ವೇದಿಕೆಯನ್ನು ಚತುರತೆಯಿಂದ ಸಿದ್ಧಪಡಿಸಲಿ, ಮತ್ತು ಮುಂದಿರುವ ಅಗ್ನಿಯನ್ನು ಅತ್ಯುತ್ತಮವಾಗಿ ಹೊತ್ತಿಸಲಿ. ಅಲ್ಲಿ, ನಿಮಗಾಗಿ, ನಾವು ಯಜ್ಞವನ್ನು ವಿಸ್ತರಿಸೋಣ, ಅದು ಅಮರತ್ವದ ಜಾಗೃತಿಯಾಗಿದೆ.",
+      "rig_time_s": 31.456,
+      "Insight_en": "अग्नि (Agni) embodies the awakened will, the driving force behind all transformative actions. The meticulously prepared altar signifies the purified mind, ready to receive divine wisdom. The sacrifice performed becomes the conscious effort to transcend mortality. By kindling the inner fire and offering our limitations, we invoke the potential for immortality within. The entire process is an alchemical transmutation of the self, a journey from mortal constraints to immortal consciousness. Ultimately, the ‘awakening of immortality’ is the realization of the eternal self.",
+      "Insight_kn": "ಅಗ್ನಿಯು ಜಾಗೃತ ಸಂಕಲ್ಪವನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತದೆ, ಇದು ಎಲ್ಲಾ ಪರಿವರ್ತಕ ಕ್ರಿಯೆಗಳ ಹಿಂದಿನ ಪ್ರೇರಕ ಶಕ್ತಿಯಾಗಿದೆ. ನಿಖರವಾಗಿ ತಯಾರಿಸಿದ ವೇದಿಕೆಯು ಶುದ್ಧೀಕರಿಸಿದ ಮನಸ್ಸನ್ನು ಸೂಚಿಸುತ್ತದೆ, ದೈವಿಕ ಜ್ಞಾನವನ್ನು ಸ್ವೀಕರಿಸಲು ಸಿದ್ಧವಾಗಿದೆ. ನಡೆಸಿದ ಯಜ್ಞವು ಮರ್ತ್ಯತ್ವವನ್ನು ಮೀರುವ ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಪ್ರಯತ್ನವಾಗುತ್ತದೆ. ಒಳಗಿನ ಬೆಂಕಿಯನ್ನು ಹೊತ್ತಿಸುವ ಮತ್ತು ನಮ್ಮ ಮಿತಿಗಳನ್ನು ಅರ್ಪಿಸುವ ಮೂಲಕ, ನಾವು ನಮ್ಮೊಳಗೆ ಅಮರತ್ವದ ಸಾಮರ್ಥ್ಯವನ್ನು ಆಹ್ವಾನಿಸುತ್ತೇವೆ. ಸಂಪೂರ್ಣ ಪ್ರಕ್ರಿಯೆಯು ಸ್ವಯಂನ ಒಂದು ರೂಪಾಂತರವಾಗಿದೆ, ಇದು ಮರ್ತ್ಯ ನಿರ್ಬಂಧಗಳಿಂದ ಅಮರ ಪ್ರಜ್ಞೆಯ ಕಡೆಗಿನ ಪ್ರಯಾಣವಾಗಿದೆ. ಅಂತಿಮವಾಗಿ, 'ಅಮರತ್ವದ ಜಾಗೃತಿ' ಎಂಬುದು ಶಾಶ್ವತ ಆತ್ಮದ ಸಾಕ್ಷಾತ್ಕಾರವಾಗಿದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    },
+    {
+      "mantra_id": "M1-S170_191-5_5",
+      "mandala": 1,
+      "sukta": 170,
+      "ric_index": 5,
+      "rig_lines": [
+        "त्वमी᳚शिषे वसुपते॒ वसू᳚नां॒ त्वं मि॒त्राणां᳚ मित्रपते॒ धेष्ठः॑ |",
+        "इन्द्र॒ त्वं म॒रुद्भिः॒ सं व॑द॒स्वाध॒ प्राशा᳚न ऋतु॒था ह॒वींषि॑ ||"
+      ],
+      "pre_splits": [
+        "त्व‌म्",
+        "ई॒शि॒षे॒",
+        "व॒सु॒ऽप॒ते॒",
+        "वसू᳚ना‌म्",
+        "त्व‌म्",
+        "मि॒त्राणा᳚‌म्",
+        "मि॒त्र॒ऽप॒ते॒",
+        "धेष्ठः॑",
+        "इन्द्र॑",
+        "त्व‌म्",
+        "म॒रुत्ऽभिः॑",
+        "स‌म्",
+        "व॒द॒स्व॒",
+        "अध॑",
+        "प्र",
+        "अ॒शा॒न॒",
+        "ऋ॒तु॒ऽथा",
+        "ह॒वींषि॑"
+      ],
+      "pada_meanings": [
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "You",
+          "meaning_kn": "ನೀನು"
+        },
+        {
+          "pada_original": "ई॒शि॒षे॒",
+          "pada_kn": "ಈಶಿಷೇ",
+          "meaning_en": "rule / are master of",
+          "meaning_kn": "ಆಳುವೆ / ಒಡೆಯನಾಗಿದ್ದೀಯೆ"
+        },
+        {
+          "pada_original": "व॒सु॒ऽप॒ते॒",
+          "pada_kn": "ವಸುಪತೇ",
+          "meaning_en": "O Lord of wealth",
+          "meaning_kn": "ಓ ಸಂಪತ್ತಿನ ಒಡೆಯನೇ"
+        },
+        {
+          "pada_original": "वसू᳚ना‌म्",
+          "pada_kn": "ವಸೂನಾಮ್",
+          "meaning_en": "of wealth / of good things",
+          "meaning_kn": "ಸಂಪತ್ತುಗಳ / ಉತ್ತಮ ವಸ್ತುಗಳ"
+        },
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "You",
+          "meaning_kn": "ನೀನು"
+        },
+        {
+          "pada_original": "मि॒त्राणा᳚‌म्",
+          "pada_kn": "ಮಿತ್ರಾಣಾಮ್",
+          "meaning_en": "of friends",
+          "meaning_kn": "ಮಿತ್ರರ / ಸ್ನೇಹಿತರ"
+        },
+        {
+          "pada_original": "मि॒त्र॒ऽप॒ते॒",
+          "pada_kn": "ಮಿತ್ರಪತೇ",
+          "meaning_en": "O Lord of friends",
+          "meaning_kn": "ಓ ಮಿತ್ರರ ಒಡೆಯನೇ"
+        },
+        {
+          "pada_original": "धेष्ठः॑",
+          "pada_kn": "ಧೇಷ್ಠಃ",
+          "meaning_en": "most dear / most cherished",
+          "meaning_kn": "ಅತ್ಯಂತ ಪ್ರಿಯನಾದವನು / ಅತ್ಯಂತ ಆಪ್ತನು"
+        },
+        {
+          "pada_original": "इन्द्र॑",
+          "pada_kn": "ಇಂದ್ರ",
+          "meaning_en": "O Indra",
+          "meaning_kn": "ಓ ಇಂದ್ರನೇ"
+        },
+        {
+          "pada_original": "त्व‌म्",
+          "pada_kn": "ತ್ವಮ್",
+          "meaning_en": "You",
+          "meaning_kn": "ನೀನು"
+        },
+        {
+          "pada_original": "म॒रुत्ऽभिः॑",
+          "pada_kn": "ಮರುದ್ಭಿಃ",
+          "meaning_en": "with the Maruts",
+          "meaning_kn": "ಮರುತ್ತುಗಳೊಂದಿಗೆ"
+        },
+        {
+          "pada_original": "स‌म्",
+          "pada_kn": "ಸಮ್",
+          "meaning_en": "together / well",
+          "meaning_kn": "ಜೊತೆಯಾಗಿ / ಚೆನ್ನಾಗಿ"
+        },
+        {
+          "pada_original": "व॒द॒स्व॒",
+          "pada_kn": "ವದಸ್ವ",
+          "meaning_en": "speak / converse",
+          "meaning_kn": "ಮಾತನಾಡು / ಸಂಭಾಷಿಸು"
+        },
+        {
+          "pada_original": "अध॑",
+          "pada_kn": "ಅಧ",
+          "meaning_en": "then / thereupon",
+          "meaning_kn": "ಆಮೇಲೆ / ತದನಂತರ"
+        },
+        {
+          "pada_original": "प्र",
+          "pada_kn": "ಪ್ರ",
+          "meaning_en": "forth / well",
+          "meaning_kn": "ಚೆನ್ನಾಗಿ / ಮುಂದೆ"
+        },
+        {
+          "pada_original": "अ॒शा॒न॒",
+          "pada_kn": "ಅಶಾನ",
+          "meaning_en": "eat / partake (of offerings)",
+          "meaning_kn": "ಭುಂಜಿಸು / ಸ್ವೀಕರಿಸು"
+        },
+        {
+          "pada_original": "ऋ॒तु॒ऽथा",
+          "pada_kn": "ಋತುಥಾ",
+          "meaning_en": "in due season / at the proper time",
+          "meaning_kn": "ಸರಿಯಾದ ಸಮಯದಲ್ಲಿ / ಯಥಾಕಾಲದಲ್ಲಿ"
+        },
+        {
+          "pada_original": "ह॒वींषि॑",
+          "pada_kn": "ಹವೀಂಷಿ",
+          "meaning_en": "offerings / oblations",
+          "meaning_kn": "ಹವಿಸ್ಸುಗಳನ್ನು / ಆಹುತಿಗಳನ್ನು"
+        }
+      ],
+      "full_meaning_en": "O Lord of treasures, Thou art the sovereign of all riches; O Lord of companions, Thou art the most beloved amongst friends. O Indra, commune with the Maruts, and then, in due season, partake of the sacred oblations.",
+      "full_meaning_kn": "ಓ ಸಂಪತ್ತಿನ ಒಡೆಯನೇ, ನೀನು ಸಕಲ ಧನಗಳ ಒಡೆಯನು; ಓ ಮಿತ್ರರ ಒಡೆಯನೇ, ನೀನು ಮಿತ್ರರಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಿಯನು. ಓ ಇಂದ್ರ, ಮರುತ್ತುಗಳೊಂದಿಗೆ ಸಂವಾದಿಸು, ತರುವಾಯ ಯೋಗ್ಯ ಕಾಲದಲ್ಲಿ ಪವಿತ್ರ ಅರ್ಪಣೆಗಳನ್ನು ಸ್ವೀಕರಿಸು.",
+      "rig_time_s": 41.881,
+      "Insight_en": "Indra, as the king of the gods, embodies the enlightened mind, capable of discerning truth and dispelling ignorance. The Maruts, representing the vital energies or pranas, are integral to the mind's dynamism. Communion with the Maruts signifies integrating these vital forces, leading to a balanced and potent consciousness. Partaking of the offerings (हवींषि) symbolizes assimilating divine grace, nourishing the inner being, and fostering spiritual growth. This process underscores the importance of inner harmony and receptivity to divine influence for self-realization.",
+      "Insight_kn": "ಇಂದ್ರನು, ದೇವತೆಗಳ ರಾಜನಾಗಿ, ಸತ್ಯವನ್ನು ವಿವೇಚಿಸುವ ಮತ್ತು ಅಜ್ಞಾನವನ್ನು ಹೋಗಲಾಡಿಸುವ ಸಾಮರ್ಥ್ಯವುಳ್ಳ ಪ್ರಬುದ್ಧ ಮನಸ್ಸನ್ನು ಸಾಕಾರಗೊಳಿಸುತ್ತಾನೆ. ಮರುತ್‌ಗಳು, ಪ್ರಮುಖ ಶಕ್ತಿಗಳು ಅಥವಾ ಪ್ರಾಣಗಳನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತವೆ, ಮನಸ್ಸಿನ ಕ್ರಿಯಾಶೀಲತೆಗೆ ಅವಿಭಾಜ್ಯವಾಗಿವೆ. ಮರುತ್‌ಗಳೊಂದಿಗಿನ ಸಂಯೋಗವು ಈ ಪ್ರಮುಖ ಶಕ್ತಿಗಳನ್ನು ಸಂಯೋಜಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಸಮತೋಲಿತ ಮತ್ತು ಶಕ್ತಿಯುತ ಪ್ರಜ್ಞೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಅರ್ಪಣೆಗಳನ್ನು (हवींषि) ಸ್ವೀಕರಿಸುವುದು ದೈವಿಕ ಅನುಗ್ರಹವನ್ನು ಹೀರಿಕೊಳ್ಳುವುದನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ, ಆಂತರಿಕ ಅಸ್ತಿತ್ವವನ್ನು ಪೋಷಿಸುತ್ತದೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ. ಸ್ವಯಂ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕಾಗಿ ಆಂತರಿಕ ಸಾಮರಸ್ಯ ಮತ್ತು ದೈವಿಕ ಪ್ರಭಾವಕ್ಕೆ ಸ್ಪಂದಿಸುವಿಕೆಯ ಮಹತ್ವವನ್ನು ಈ ಪ್ರಕ್ರಿಯೆಯು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "Notes_en": "",
+      "Notes_kn": ""
+    }
+  ]
+}
