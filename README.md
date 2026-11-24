@@ -105,7 +105,7 @@ All Mandala data and offline player files are available in the **[Releases Secti
 | **Mandala 9** | ~83 MB | [Download M9](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M9_R2_V2.zip) |
 | **Mandala 10**| ~170 MB| [Download M10](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M10_R2_V2.zip) |
 
-|** ADDED NEW **|
+## 📥 Added New Resources
 
 [Download RIGVEDA_SUKTA_COMPILATION_Player](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/RIGVEDA_SUKTA_COMPILATION_p.html)
 
