@@ -106,6 +106,7 @@ Download the specific Mandala you are studying:
 | **Mandala 10**| ~170 MB| [Download M10](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M10_R2_V2.zip) |
 
 Download the specific RigVeda Sukta you are studying:
+[Download agni_ಅಗ್ನಿ Sukta](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/agni_.zip) |
 
 | [Download agni_ಅಗ್ನಿ Sukta].(https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/agni_.zip) |
 | [Download **anna_ಅನ್ನ**] (https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/anna_.zip) |
