@@ -84,6 +84,7 @@ All Mandala data and offline player files are available in the **[Releases Secti
 | Player | Description | Download |
 |--------|-------------|----------|
 | **RSP_V4_A_P.html** | Main Offline Player (Multi-Sukta) | [Download from Code](https://github.com/ravindraputhuraya/Rigveda-samhita-player) |
+| **RIGVEDA_SUKTA_COMPILATION_p.html** | Main Offline Player (RigVeda-Sukta) | [Download from Code](https://github.com/ravindraputhuraya/Rigveda-samhita-player) |
 | **RSP_1Rig.html** | Single Rig Ebook Reader | [Download from Code](https://github.com/ravindraputhuraya/Rigveda-samhita-player) |
 | **jszip.min.js** | Required Library | [Download from Code](https://github.com/ravindraputhuraya/Rigveda-samhita-player) |
 
@@ -103,6 +104,32 @@ Download the specific Mandala you are studying:
 | **Mandala 8** | ~131 MB| [Download M8](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M8_R2_V2.zip) |
 | **Mandala 9** | ~83 MB | [Download M9](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M9_R2_V2.zip) |
 | **Mandala 10**| ~170 MB| [Download M10](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/M10_R2_V2.zip) |
+
+Download the specific RigVeda Sukta you are studying:
+
+| **agni_ಅಗ್ನಿ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/agni_.zip |
+| **anna_ಅನ್ನ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/anna_.zip |
+| **bagya_ಬಾಗ್ಯ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/bagya_.zip |
+| **devi_aatma_ದೇವೀ_ಆತ್ಮ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/devi_aatma_._.zip |
+| **ganesha_ಗಣೇಶ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/ganesha_.zip |
+| **Goo_ಗೋ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/Goo_.zip |
+| **hiranyagarbha_ಹಿರಣ್ಯಗರ್ಭ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/hiranyagarbha_.zip |
+| **kumara_ಕುಮಾರ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/kumara_.zip |
+| **mahasoura_ಮಹಾಸೌರ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/mahasoura_.zip |
+| **manyu_ಮನ್ಯು**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/manyu_.zip |
+| **nasadeiya_ನಾಸದೀಯ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/nasadeiya_.zip |
+| **navagruha_ನವಗೃಹ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/navagruha_.zip |
+| **oshadi_ಓಷದೀ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/oshadi_.zip |
+| **pancharudra_ಪಂಚರುದ್ರ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/pancharudra_.zip |
+| **pitru_ಪಿತೃ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/pitru_.zip |
+| **purusha_ಪುರುಷ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/purusha_.zip |
+| **ratri_ರಾತ್ರಿ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/ratri_.zip |
+| **sarasvati_ಸರಸ್ವತೀ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/sarasvati_.zip |
+| **Shradha_ಶ್ರದ್ಧಾ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/shradha_.zip |
+| **Suryastuti_ಸೂರ್ಯ ಸ್ತುತಿ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/suryastuti_.zip |
+| **surya_ಸೂರ್ಯ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/surya_.zip |
+| **vishnu_ವಿಷ್ಣು**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/vishnu_.zip |
+| **vishwakarma_ವಿಶ್ವಕರ್ಮ**|https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases/download/R2_to_R2_V1/vishwakarma_.zip |
 
 #### 📚 Additional Resources
 - **Pada Source**: [Download Pada_Source.zip](https://github.com/ravindraputhuraya/Rigveda-samhita-player/releases)
